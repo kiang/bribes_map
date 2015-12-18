@@ -25,7 +25,13 @@ foreach ($data AS $area => $points) {
         $placemark = $xml->createElement('Placemark');
         $placemark->appendChild($xml->createElement('name', $point['title']));
         $lines = array();
+        /*
+         * id in http://k.olc.tw/elections/
+         */
         $lines[] = '[id]';
+        /*
+         * prepared for using generator of http://judicial.ronny.tw/
+         */
         $lines[] = '[case]';
         foreach ($point AS $k => $v) {
             if ($k !== 'longitude' && $k !== 'latitude') {
