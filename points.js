@@ -19,10 +19,14 @@ function initialize() {
     var markers = [];
     for (p in points) {
         var latLng = new google.maps.LatLng(points[p]['latitude'], points[p]['longitude']);
+        var markerTitle = points[p].title;
+        if (null !== points[p].year) {
+            markerTitle = '[' + points[p].year + ']' + points[p].title;
+        }
         var marker = new MarkerWithLabel({
             position: latLng,
             clickable: true,
-            labelContent: '[' + points[p].year + ']' + points[p].title,
+            labelContent: markerTitle,
             labelClass: 'labels',
             labelAnchor: new google.maps.Point(100, 5),
             labelStyle: {opacity: 0.75}
