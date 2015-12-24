@@ -305,6 +305,86 @@
 					<coordinates>120.21441939999998,23.4793074,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委 得票數6,980</name>
+				<description><![CDATA[嘉義縣第01選區六腳鄉	翁重鈞 得票數 6980  得票率45.82%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2625275,23.5152004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委 得票數8775</name>
+				<description><![CDATA[嘉義縣第01選區東石鄉	翁重鈞得票數8775 得票率55.73%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.17068860000002,23.4714344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委 得票數10360 </name>
+				<description><![CDATA[嘉義縣第01選區朴子市	翁重鈞  得票數10360 得票率43.47%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2565193,23.4460812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委得票數9334</name>
+				<description><![CDATA[嘉義縣第01選區布袋鎮	翁重鈞 得票數9334 得票率53.78%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.17000199999998,23.3638469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委 得票數8430 </name>
+				<description><![CDATA[嘉義縣第01選區義竹鄉	翁重鈞  得票數8430 得票率64.08%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2174664,23.3461961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委 得票數5344</name>
+				<description><![CDATA[嘉義縣第01選區鹿草鄉	翁重鈞 得票數5344 得票率51.48%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.3081894,23.418833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委得票數1,4817 </name>
+				<description><![CDATA[嘉義縣第01選區水上鄉	翁重鈞  得票數14817 得票率48.89%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.4223442,23.4382066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101年國民黨立委得票數9441</name>
+				<description><![CDATA[嘉義縣第01選區太保市	翁重鈞 得票數9441 得票率47.05%]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.33170700000001,23.4794645,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Folder>
 			<name>台中消波塊(施工中)</name>
@@ -1452,6 +1532,17 @@
 				</Point>
 			</Placemark>
 		</Folder>
+		<Style id='icon-503-0BA9CC'>
+			<IconStyle>
+				<color>ffCCA90B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
 		<Style id='icon-503-DB4436'>
 			<IconStyle>
 				<color>ff3644DB</color>
