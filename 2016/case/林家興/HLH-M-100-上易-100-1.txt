@@ -1,0 +1,381 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-花蓮分院-刑-100上易100</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 花蓮分院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000100&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e6%98%93%2c100%2c20110816%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e6%98%93&jno=100&jdate=1000816&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e4%b8%8a%e6%98%93%2c100%2c20110816%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e6%98%93&jno=100&jdate=1000816&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e4%b8%8a%e6%98%93%2c100%2c20110816%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','100','%e4%b8%8a%e6%98%93','100','1000816','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,上易,100</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000816</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院花蓮分院刑事判決　　　　100年度上易字第100號
+上　訴　人　臺灣臺東地方法院檢察署檢察官
+被　　　告　許金葉
+上列上訴人因被告恐嚇等案件，不服臺灣臺東地方法院100年度
+易字第41號中華民國100年5月20日第一審判決（起訴案號：臺灣
+臺東地方法院檢察署99年度偵字第627、784號），提起上訴，本
+院判決如下：
+    主  文
+上訴駁回。
+    犯罪事實
+一、許金葉基於恐嚇危害安全之犯意，(一)先於民國98年10月15日
+    ，以其之名義寄送信件至蔡明嬌及渠子吳佾駿之住處，並於
+    信中恫稱：「你們最好不要引火上身，否則，看戲的不散，
+    你們個個都要剉勒等（台語）」等加害蔡明嬌及吳佾駿生命
+    、身體安全之文字，致蔡明嬌及吳佾駿心生恐懼而危害於其
+    安全；(二)另於98年10月23日（起訴書誤載為27日），以其之
+    名義寄送信件至蔡明嬌及吳佾駿，並於信中恫稱：「我不想
+    傷害無辜，你如果還是瘋未煞（台語），殘酷的事實就會爆
+    發，勸你三思而行，害人前先數一下自己還有多少子女？多
+    少兒孫？是否可供作惡，這是給你最後一次提醒，切記！不
+    要惹我抓狂，否則，我會與你沒完沒了」等文字，加害蔡明
+    嬌及吳佾駿生命、身體安全之文字，並致蔡明嬌及吳佾駿心
+    生恐懼而危害於其安全。
+二、案經蔡子民（原名蔡明嬌）、吳佾駿訴由臺灣高雄地方法院
+    檢察署呈請臺灣高等法院檢察署檢察長令轉臺灣臺東地方法
+    院檢察署檢察官偵查起訴。
+    理  由
+壹、程序部分：
+    按被告以外之人於審判外之陳述，雖不符同法第159條之1至
+    第159條之4之規定，而經當事人於審判程序同意作為證據，
+    法院審酌該言詞陳述或書面陳述作成時之情況，認為適當者
+    ，亦得為證據；又當事人、代理人或辯護人於法院調查證據
+    時，知有第159條第1項不得為證據之情形，而未於言詞辯論
+    終結前聲明異議者，視為有前項之同意，刑事訴訟法第159
+    條之5定有明文。考其立法意旨在於傳聞證據未經當事人之
+    反對詰問予以核實，原則上先予排除。惟若當事人已放棄反
+    對詰問權，於審判程序中表明同意該等傳聞證據作為證據；
+    或於言詞辯論終結前未聲明異議，基於尊重當事人對傳聞證
+    據之處分權，及證據資料愈豐富，愈有助於真實發見之理念
+    ，且強化言詞辯論主義，使訴訟程序得以順暢進行，上開傳
+    聞證據亦均具有證據能力。而所謂「審酌該陳述作成時之情
+    況，認為適當」者，係指依各該審判外供述證據製作當時之
+    過程、內容、功能等情況，是否具備合法可信之適當性保障
+    ，加以綜合判斷而言（最高法院94年度臺上字第3277號判決
+    可資參照）。經查，本判決下列所引用之各該被告以外之人
+    所為審判外之陳述以及其他書面陳述，雖均屬傳聞證據，且
+    查無符合同法第159條之1至第159條之4等情形，惟當事人於
+    本院審理中就證據能力部分均表示同意有證據能力，且迄至
+    言詞辯論終結前，當事人知悉有同法第159條第1項不得為證
+    據之情形，猶未再聲明異議，本院審酌上開證據資料製作時
+    之情況，並無違法不當及證明力明顯過低之瑕疵，亦認為以
+    之作為證據應屬適當，依刑事訴訟法第159條之5規定，認上
+    揭證據資料均有證據能力。
+貳、實體方面：
+一、認定犯罪事實所憑之證據及理由：
+(一)、訊據被告對於98年10月15日、98年10月23日以其之名義寄送
+    信件至蔡明嬌及吳佾駿等處之事實固坦承不諱，惟矢口否認
+    有何恐嚇危害安全犯行，辯稱：我並沒有製造是是非非，出
+    發點沒有要恐嚇的意思云云。
+(二)、經查：上揭犯罪事實，業據被告許金葉於原審審理時坦承不
+    諱，復據證人即告訴人蔡子民、吳佾駿於偵查中證述在卷（
+    見雄檢98年度偵字第36834號卷第46-48頁；東檢99年度偵字
+    第627號第25、26頁），並有98年10月15日、同年月23日被
+    告所書寫之信件影本2份在卷可稽，足認被告於原審之自白
+    與事實相符。
+(三)、按刑法第305條所謂之恐嚇罪，所稱以加害生命、身體、自
+    由、名譽、財產之事，恐嚇他人者，係指以使人生畏怖心為
+    目的，而通知將加惡害之旨於被害人而言（最高法院52年台
+    上字第751號、26年渝非字第15號判例意旨可資參照）。本
+    件被告以「你們最好不要引火上身，否則，看戲的不散，你
+    們個個都要剉勒等（台語）」、「害人前先數一下自己還有
+    多少子女？多少兒孫？是否可供作惡，這是給你最後一次提
+    醒，切記！不要惹我抓狂，否則，我會與你沒完沒了」等文
+    字，顯係以加害生命、身體之事恐嚇告訴人蔡子民及吳佾駿
+    ，而致告訴人等心生畏怖，並即向臺灣高雄地方法院檢察署
+    檢察官提出告訴，足認已生安全上之危害。
+(四)、綜上所述，被告先於98年10月15日郵寄信件恐嚇蔡明嬌及吳
+    佾駿之生命，又於98年10月23日另行起意再郵寄信件恐嚇蔡
+    子民及吳佾駿之生命，均致使蔡子民及吳佾駿心生恐懼致生
+    危害於生命、身體安全之犯行明確，被告辯稱沒有要恐嚇的
+    意思云云，不足採信。本件事證明確，均應依法論科。
+二、論罪之理由：
+(一)、核被告許金葉所為，係犯刑法第305條之恐嚇危害安全罪。
+    被告就上開恐嚇危害安全犯行，均係以一行為同時侵害蔡明
+    嬌及吳佾駿之生命、身體法益，係一行為觸犯二個相同之恐
+    嚇罪名，為同種之想像競合犯，應依刑法第55條規定從一重
+    論以恐嚇危害安全罪。
+(二)、被告所為前後2次寄發信函恐嚇蔡子民及吳佾駿之舉，犯意
+    各別，行為互殊，應予分論併罰。
+三、上訴駁回之理由：
+(一)、原審認被告所為恐嚇犯行，事證明確，適用刑法第305條、
+    第55條、第41條第1項前段、第51條第6款、刑法施行法第1
+    條之1第1項、第2項前段等規定，並審酌被告僅因與告訴人
+    間之糾紛，不思理性解決，而以郵寄信件之方式恐嚇蔡明嬌
+    及吳佾駿，致使蔡子民及吳佾駿陷於恐慌之中，其犯罪目的
+    、動機及手段可議，惟念及被告於犯罪後尚能坦認犯行，態
+    度尚佳，幸未造成蔡子民及吳佾駿損傷或財產損失，兼衡酌
+    被告品行素行、智識程度、生活狀況等一切情狀，分別量處
+    拘役20日，並定其應執行刑拘役30日，且諭知如易科罰金以
+    新臺幣1千元折算1日之標準等，經核其認事用法並無不當，
+    量刑亦稱妥適，應予維持。
+(二)、而檢察官以原審漏未審酌信件內尚有其他侮辱性之文字及被
+    告復因同一類型案件業據檢察官提起公訴為由，認量刑過輕
+    ，惟原審已就被告犯罪之情狀及量刑之依據詳予說明，且此
+    項刑罰之量定，屬法院自由裁量之職權，又無不當之處，故
+    應認檢察官上訴無理由，應予駁回。
+<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、移送併案部分：
+(一)、臺灣臺東地方法院檢察署以100年6月21日以東檢文黃100偵
+    續8字第10101號函檢送100年度偵續字第8號案卷，認為被告
+    許金葉１、基於公然侮辱之犯意，於98年10月15日，以其之
+    名義寄送信件至蔡明嬌及吳佾駿、廖培清、孫花、<font color='red'>林家興</font>、
+    陳冠廷、陳新富等特定多數人住處，內容為：「敬啟者：你
+    們這群人，好吃懶惰、一丘之貉、蛇鼠一窩（老鼠會）、不
+    務正業、無業遊民、吃軟飯、造業者、老鼠到齊」等文字，
+    侮辱告訴人；２、基於誹謗之犯意，於98年10月23日（誤載
+    為27日），意圖散布於眾，以其之名義寄送信件至蔡明嬌及
+    吳佾駿、廖培清、孫花、陳冠廷、陳新富等特定多數人住處
+    ，指摘：「妳心術不正、怪力亂神、畫符、下咒、看風水、
+    敗地理、相命、抓鬼、所勾結的人都是543、侵門踏戶、威
+    脅、恐嚇、綁架等，無惡不作」、「妳兒子當過自願兵，差
+    點沒命，明明是妳（赤腳仙）亂開藥方（藥不對症），還想
+    抵賴，硬把問題及責任推給三軍總醫院…」等文字，足以毀
+    損蔡明嬌及吳佾駿之名譽之事實，係被告同時於信件書寫恐
+    嚇及妨害名譽之文字，上開有罪部分之事實與此併案之犯罪
+    事實之間有想像競合犯之裁判上一罪關係，依刑事訴訟法第
+    267條規定，應一併審判等語。
+(二)、刑法分則中公然二字之意義，祇以不特定人或多數人得以共
+    見共聞之狀況為已足；所謂多數人，係包括特定之多數人在
+    內，至其人數應視立法意旨及實際情形已否達於公然之程度
+    而定（29院字第2033號參照）。檢察官認為被告基於公然侮
+    辱之犯意，於98年10月15日將內容為：「敬啟者：你們這群
+    人，好吃懶惰、一丘之貉、蛇鼠一窩（老鼠會）、不務正業
+    、無業遊民、吃軟飯、造業者、老鼠到齊」等侮辱性文字之
+    信件，以其之名義寄送信件至蔡明嬌及吳佾駿、廖培清、孫
+    花、<font color='red'>林家興</font>、陳冠廷、陳新富等特定多數人住處，依據移送
+    卷內資料顯示，除了告訴人有收到上開98年10月15日之信件
+    外，證人孫花、廖培清證述有收到98年10月15日之信件等語
+    （見雄檢98年度偵字第36834號卷第37-38頁；東檢99年度偵
+    字第627號卷第26-27、81頁），證人<font color='red'>林家興</font>、陳新富則表示
+    並未收到該信件等語（見雄檢98年度偵字第36834號卷第40
+    、50頁；東檢99年度偵字第627號卷第99、119頁），證人陳
+    冠廷則表示係在告訴人那邊看到等語（見雄檢98年度偵字第
+    36834號卷第49頁；東檢99年度偵字第627號卷第118頁），
+    顯見被告乃將98年10月15日之信件分別寄送予告訴人等，核
+    與公然乃是使不特定之人或多數人得「共見共聞」之要件，
+    自不相符，亦難成立刑法第309條第1項之公然侮辱罪。
+(三)、次按刑法第310條第2項之加重誹謗罪，係以散布文字圖畫等
+    方法，犯同條第1項所定「意圖散布於眾而指摘或傳述足以
+    毀損他人名譽之事」之罪，為其構成要件。所謂意圖散布於
+    眾，係指意圖散發或傳布於不特定之多數人而言；如僅傳達
+    於特定之人，即不足以當之（參見最高法院88年度台非字第
+    21 號判決）。檢察官既認定被告基於誹謗之犯意，於98年
+    10月23日將指摘：「妳心術不正、怪力亂神、畫符、下咒、
+    看風水、敗地理、相命、抓鬼、所勾結的人都是543、侵門
+    踏戶、威脅、恐嚇、綁架等，無惡不作」、「妳兒子當過自
+    願兵，差點沒命，明明是妳（赤腳仙）亂開藥方（藥不對症
+    ），還想抵賴，硬把問題及責任推給三軍總醫院…」等文字
+    ，以其之名義寄送信件至蔡明嬌及吳佾駿、廖培清、孫花、
+    <font color='red'>林家興</font>、陳冠廷、陳新富等特定多數人住處，依據卷內資料
+    顯示，除了告訴人有收到上開98年10月23日之信件外，證人
+    廖培清於偵查中證述：伊有收到98年10月23日之信件等語（
+    見雄檢98年度偵字第36834號卷第71頁；東檢99年度偵字第
+    627 號第106頁），加上告訴人所提出被告寄給陳美靜（或
+    陳純嵐，應為同一人）之信件及收件人信封地址在卷可稽（
+    見雄檢98年度偵字第36834號卷第65-66頁），被告顯僅傳達
+    於各該特定人，而非散布於眾，核與刑法第310條第2項之構
+    成要件不相適合。
+(四)、綜上，就上開被告於98年10月15日、同年月23日公然侮辱及
+    加重誹謗罪部分，揆諸上開說明，既不構成犯罪，與被告所
+    涉上開二罪間即無想像競合犯之裁判上一罪關係，本院自不
+    予以審究，此部分應退由檢察官另為適法之處理。
+據上論斷，應依刑事訴訟法第368條，判決如主文。
+本案經檢察官崔紀鎮到庭執行職務。
+中    華    民    國   100    年    8     月    16    日
+                  刑事庭審判長法  官  何方興
+                              法  官  許仕楓
+                              法  官  李水源
+以上正本證明與原本無異。
+本判決不得上訴。
+中    華    民    國   100    年    8     月    16    日
+                              書記官  陳有信
+附錄本判決論罪科刑法條:
+中華民國刑法第305條
+（恐嚇危害安全罪）
+以加害生命、身體、自由、名譽、財產之事，恐嚇他人致生危害
+於安全者，處 2 年以下有期徒刑、拘役或 3 百元以下罰金。</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWHLH\CRIMINAL\10008\16\HLHM1008G.007] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000100&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e6%98%93%2c100%2c20110816%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e6%98%93&jno=100&jdate=1000816&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e4%b8%8a%e6%98%93%2c100%2c20110816%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e6%98%93&jno=100&jdate=1000816&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e4%b8%8a%e6%98%93%2c100%2c20110816%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','100','%e4%b8%8a%e6%98%93','100','1000816','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLH 臺灣高等法院 花蓮分院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林家興">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林家興">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
