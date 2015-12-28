@@ -1,0 +1,463 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-刑-101上訴486</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000486&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c486%2c20120510%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=486&jdate=1010510&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c486%2c20120510%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=486&jdate=1010510&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c486%2c20120510%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','486','1010510','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,上訴,486</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010510</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　101年度上訴字第486號
+上　訴　人　　臺灣桃園地方法院檢察署檢察官
+被　　　告　　蘇信瑀
+法律　扶助
+選任辯護人　　何豐行律師
+上列上訴人因被告違反毒品危害防制條例案件，不服臺灣桃園地
+方法院100年度訴字第391號，中華民國100年12月29日第一審判
+決（起訴案號：臺灣桃園地方法院檢察署99年度偵字第29920號
+），提起上訴，本院判決如下：
+    主  文
+上訴駁回。
+    理  由
+壹、公訴意旨略以：被告蘇信瑀明知甲基安非他命係毒品危害防
+    制條例所定之第二級毒品，不得販賣，竟基於販賣第二級毒
+    品甲基安非他命以牟利之犯意，於民國（下同）99年1月17
+    日凌晨2時許，在李得榮及鄭安汝位於桃園縣龍潭鄉○○路1
+    87巷16號之住處，以新臺幣（下同）1000元之價格，販賣第
+    二級毒品甲基安非他命1包予李得榮施用（李得榮施用第二
+    級毒品犯行，業經原審判決判處有期徒刑3月確定）。嗣於
+    99年1月19日下午4時30分許，員警於李得榮上揭住處執行搜
+    索時，在現場查獲第二級毒品甲基安非他命7包。因認被告
+    涉有毒品危害防制條例第4條第2項之販賣第二級毒品罪嫌。
+貳、證據能力部分：
+一、按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據，刑事訴訟法第159條第1項定有明文，
+    此即學理上所稱「傳聞證據排除法則」。又被告以外之人於
+    審判外之陳述，雖不符同法第159條之1至第159條之4之規定
+    ，而經當事人於審判程序同意作為證據，法院審酌該言詞陳
+    述或書面陳述作成時之情況，認為適當者，亦得為證據。當
+    事人、代理人或辯護人於法院調查證據時，知有第159條第1
+    項不得為證據之情形，而未於言詞辯論終結前聲明異議者，
+    視為有前項之同意，此依同法第159條之5規定甚明。鑒於採
+    用傳聞證據排除法則重要理由之一，係因傳聞證據未經當事
+    人之反詰問予以覈實，若當事人願放棄對原供述人之反對詰
+    問時，原則上即可承認該傳聞證據之證據能力。而揆諸我國
+    刑事訴訟法第159條之5之立法理由，除參照前述傳聞證據排
+    除法則之基本法理外，亦參考日本刑事訴訟法第326條之立
+    法例，查日本刑事審判實務之運作，有關檢察官及被告均同
+    意作為證據之傳聞書面材料或陳述，可直接援引該國刑事訴
+    訟法第326條作為傳聞例外之法律依據，僅在檢察官與被告
+    或其辯護人不同意之情況下，乃須根據其他傳聞例外規定，
+    俾以斟酌該等傳聞書面材料或陳述是否具有證據能力，在
+    當事人間無爭執之案件中，傳聞證據基本上均可依據前引規
+    定提出於法院使用。據此，我國刑事訴訟法第159條之5之適
+    用應可作同上之解釋。公訴人、被告及其辯護人就本件判決
+    所引之被告以外之人於審判外之陳述，已表明同意有證據能
+    力（本院卷第39頁反面至第42頁、101年4月19日審判程序筆
+    錄第2頁至第6頁，但不包括下列證人李得榮、鄭安汝及王隆
+    禹於警詢之陳述），而本院審酌前揭傳聞證據作成時之情況
+    ，核無違法取證及證明力明顯過低之瑕疵，為證明犯罪事實
+    存否所必要，亦認為以之作為證據為適當，根據上開規定及
+    說明，作為本件判決認定被告犯罪事實存否之被告以外之人
+    於審判外陳述是否屬於傳聞之例外，無庸先行考量刑事訴訟
+    法第159條之1第2項、第159條之2、第159條之3等規定，得
+    逕依同法第159條之5規定作為證據。
+二、證人李得榮、鄭安汝及王隆禹警詢之陳述：
+    按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據，刑事訴訟法第159條第1項定有明文。
+    查證人李得榮、鄭安汝及王隆禹於警詢中之陳述（99年度偵
+    字第29920號卷第21頁至第28頁、第29頁至第32頁、100年度
+    審訴字第885號卷第29頁至第32頁），均屬被告以外之人於
+    審判外之言詞陳述，為傳聞證據，且被告之辯護人就上開供
+    述之證據能力於本院準備及審判程序已提出不得為證據之理
+    由（本院卷第40頁及反面、第71頁至第70頁），復無同法第
+    159條之2、3、5所規定傳聞證據例外而可為證據之情形，應
+    均認無證據能力。惟被告以外之人於審判外之陳述，雖不得
+    以之直接作為認定犯罪事實與否之證據，但非不得作為彈劾
+    證據，用以爭執被告、證人之證明力（最高法院96年度臺上
+    字第1497號刑事判決意旨參照），合先敘明。
+參、按犯罪事實應依證據認定之，無證據不得認定犯罪事實；不
+    能證明被告犯罪者，應諭知無罪之判決，刑事訴訟法第154
+    條第2項、第301第1項分別定有明文。又被告或共犯之自白
+    ，不得作為有罪判決之唯一證據，仍應調查其他必要之證據
+    ，以察其是否與事實相符，刑事訴訟法第156條第2項亦有明
+    文。且刑事訴訟法第161條第1項規定：檢察官就被告犯罪事
+    實，應負舉證責任，並指出證明之方法。因此，檢察官對於
+    起訴之犯罪事實，應負提出證據及說服之實質舉證責任。倘
+    其所提出之證據，不足為被告有罪之積極證明，或其指出證
+    明之方法，無從說服法院以形成被告有罪之心證，基於無罪
+    推定之原則，自應為被告無罪判決之諭知，最高法院92年臺
+    上字第128號判例採同一見解。且認定不利於被告之事實，
+    須依積極證據，茍積極證據不足為不利於被告事實之認定時
+    ，即應為有利於被告之認定，更不必任何有利之證據；又刑
+    事訴訟法上所謂認定犯罪事實之積極證據，係指適合於被告
+    犯罪事實認定之積極證據而言，雖不以直接證據為限，間接
+    證據亦包括在內，然而無論直接或間接證據，其為訴訟上之
+    證明，須於通常一般之人均不致有所懷疑，而得確信其為真
+    實之程度者，始得據為有罪之認定，倘其證明尚未達到此一
+    程度，而有合理之懷疑存在而無從使事實審法院得有罪之確
+    信時，即應由法院為諭知被告無罪之判決，最高法院30年上
+    字第816號、76年臺上字第4986號判例均採同一見解。再一
+    般施用毒品者，其所稱向某人購買之供述，須補強證據以擔
+    保其供述之真實性。良以施用毒品者其供述之憑信性本不及
+    於一般人，況施用毒品者其供出來源，因而破獲者，法律復
+    規定得減輕其刑，其有為偵查機關誘導、或為邀輕典而為不
+    實之陳述之可能，其供述之真實性自有合理之懷疑。施用毒
+    品者關於其向某人購買毒品之供述，必須補強證據佐證，以
+    擔保其供述之真實性，俾貫澈刑事訴訟無罪推定及嚴格證明
+    之基本原則。而茲所謂補強證據，指其他有關證明施用毒品
+    者之關於毒品交易之供述真實性之相關證據而言，必須與施
+    用毒品者關於毒品交易之供述，具有相當程度之關連性，而
+    足使一般人對施用毒品者關於毒品交易之供述，並無合理之
+    懷疑存在，而得確信其為真實，始足當之。若毒品購買者之
+    供述證據，本身已有重大瑕疵，依嚴格證明之法則，苟已無
+    法憑為犯罪事實之認定時，自無再論補強證據之必要，其理
+    甚明（最高法院94年度臺上字第2033號刑事判決意旨參照）
+    。
+肆、得心證之理由：
+一、檢察官認被告蘇信瑀涉有上揭販賣第二級毒品甲基安非他命
+    罪嫌，無非係以被告於警詢、檢察官訊問時不利於己之供述
+    （99年度偵字第29920號卷，下稱偵卷，第4頁至第9頁、第5
+    4頁至第56頁）、證人李得榮及其妻鄭安汝於警詢、檢察官
+    訊問時之證述（偵卷第21頁至第28頁、第29頁至第32頁、第
+    47頁至第49頁）及自李得榮住處查扣之甲基安非他命等為其
+    主要論據。
+二、訊據被告蘇信瑀堅詞否認有何上揭販賣第二級毒品甲基安非
+    他命（下稱甲基安非他命）之犯行，辯稱：伊的綽號是「蠻
+    牛」，曾於99年1月間與李得榮合資購買甲基安非他命，但
+    沒有販賣毒品甲基安非他命給李得榮，99年1月19日警察查
+    獲李得榮與鄭安汝持有之毒品甲基安非他命都不是伊的等語
+    （原審審訴卷第38頁反面、第39頁反面、原審訴字卷第175
+    頁、本院卷第39頁反面、101年4月19日審判程序筆錄第7頁
+    ）。
+三、經查，證人李得榮雖於檢察官訊問時證稱：99年1月17日凌
+    晨2時許在伊住處，以1000元向被告購買1小包安非他命，一
+    手交錢一手交貨，伊買1包，分裝為2包，其中1包就是99年1
+    月19日被查獲6包中的1包，另1包在被鄭安汝的包包內被查
+    獲（偵卷第48頁）；然參照證人李得榮於警詢時卻指稱：鄭
+    安汝隨身手提包內查獲之甲基安非他命1包是伊所有，而在
+    其2樓住處房間桌上查獲之電子磅秤1臺、甲基安非他命6包
+    、空夾練袋152包（3小包）是綽號蠻牛的朋友所有，於99年
+    1月17日凌晨2時許，他說出門一下，先把東西放在伊住處云
+    云（偵卷第23頁）．是證人李得榮就其向被告購得之甲基安
+    非他命，係2樓房間扣案甲基安非他命6包中之其中1包與鄭
+    安汝手提包內被查獲之甲基安非他命1包，抑或僅鄭安汝手
+    提包內之甲基安非他命1包？2樓房間桌上扣得之甲基安非他
+    命6包，是否為被告所有而寄放在李得榮住處？前後指證不
+    一，已難遽信。又被告於99年1月間已有施用甲基安非他命
+    犯行，業據被告供認不諱（偵卷第8頁、第55頁、原審訴字
+    卷第177頁），並有本院被告前案紀錄表在卷可考（本院卷
+    第16頁至第19頁），倘屬供被告自行施用之甲基安非他命，
+    則應放置在自己控制且易於取用之處，豈有無故將上揭6包
+    甲基安非他命留置於證人李得榮住處；況且，若上開扣案之
+    甲基安非他命為被告所有而供販賣之用，更無隨意交託李得
+    榮保管，卻未索還以備賣出交付買主之理。凡此，適徵證人
+    李得榮前開證述，僅係為己脫罪或求邀輕典之詞。故證人李
+    得榮前開證詞，具有瑕疵，無足可信。
+四、又證人鄭安汝雖於檢察官99年12月21日訊問時證稱：99年1
+    月17日當天看見被告把毒品1包給李得榮，李得榮給被告100
+    0元，後來伊去睡覺了，99年1月19日被查獲時，在伊皮包內
+    扣得之毒品，就是99年1月17日購買的毒品云云（偵卷第48
+    頁）。然其於99年1月19日警詢時則稱：「（你如何得知毒
+    品來源向蠻牛之男子購得？）我於99年1月初許在自宅看過
+    蠻牛該男子」、「我只知道叫蘇信禹（瑀）」等語（偵卷第
+    31頁）。是自警詢問、答以觀，證人鄭安汝上開警詢之回答
+    ，係針對伊如何得知毒品來源係蠻牛之人，則其指證於99年
+    1月初看過被告，當與購買毒品時間有關。是證人鄭安汝於
+    警詢時，距離案發時間較近，記憶應較為清晰，即無法指出
+    被告販賣甲基安非他與李得榮之日期，卻於檢察官相隔11個
+    月後訊問時，反而可具體證稱被告係於99年1月17日販賣甲
+    基安非命與李得榮，顯與常情有違。再參諸證人李得榮於檢
+    察官訊問時直陳：伊向被告購毒時，鄭安汝應該在睡覺等語
+    明確（偵卷第48頁），則證人鄭安汝證稱：見被告販賣甲基
+    安非他命給李得榮云云，顯與證人李得榮上揭所證內容，互
+    有齬齟，不足採信。是證人鄭安汝所證被告販賣甲基安非他
+    命給李得榮云云，存有瑕疵，至為灼然，亦無足採。
+五、再查，警察持搜索票於99年1月19日下午4時20分許，至證人
+    李得榮位於桃園縣龍潭鄉○○路187巷16號住處執行搜索，
+    扣得疑似甲基安非他命白色透明結晶物6包、1包、吸食器1
+    組、空夾練袋152個、電子磅秤1臺，有搜索票、搜索扣押筆
+    錄、扣押物品目錄表在卷可考（原審訴字卷第144頁至第149
+    頁）；而扣案上開白色透明結晶物6包，1包，送請臺灣檢驗
+    科技股份有限公司以酵素免疫分析法、GC/MS氣相層析/質譜
+    儀法鑑定結果，驗得毛重分別為1.99公克、0.91公克，此有
+    桃園縣政府警察局龍潭分局毒品檢體送驗紀錄表1件及臺灣
+    檢驗科技股份有限公司出具100年2月8日之濫用藥物檢驗報
+    告2份在卷足稽（原審訴字卷第152頁、第153頁、第155頁）
+    。然上開扣案物品，迭經被告否認為其所有（偵卷第7頁、
+    原審審訴卷第38頁反面、原審訴字卷第169頁反面、本院卷
+    第39頁反面、本院101年4月19日審判程序筆錄第7頁），且
+    前揭物品均在證人李得榮住處扣得，既缺乏積極證據足認扣
+    得物品係被告所有，或出售與李得榮之甲基安非他命，當無
+    從執為不利於被告之證據。
+六、再被告雖堅詞否認販賣甲基安非他命予證人李得榮，卻坦言
+    確曾於99年1月間，邀證人李得榮各自出資1000元，合購1公
+    克之甲基安非他命等語明確（偵卷第55頁、原審審訴卷第38
+    頁反面；本院卷第39頁反面），若被告確有販賣甲基安非他
+    命與李得榮之犯行，何須供出與李得榮合資購買甲基安非他
+    命之情，而有自陷販毒罪嫌之險。綜上所述，檢察官所提出
+    之證據，尚不足證明被告有販賣第二級毒品甲基安非他命之
+    犯行，揆諸前開說明，自不得以證人李得榮、鄭安汝有瑕疵
+    之證言，遽為被告有罪之認定。此外，復查無其他積極證據
+    足資證明被告有販賣第二級毒品甲基安非他命犯行，自屬不
+    能證明被告犯罪，應為被告無罪之諭知。
+伍、上訴駁回之理由：
+    原審以不能證明被告犯罪，依前揭之說明，對被告為無罪判
+    決之諭知，即無不合。檢察官上訴意旨略以：(一)證人李得榮
+    於偵訊時結證稱：伊係以新臺幣1000元之代價向被告購買1
+    小包安非他命，一手交錢一手交貨，伊當初跟被告買1包（
+    安非他命）後，就把他分裝，6包內有1包是伊的，伊老婆包
+    包內的那包也是伊的，是伊把他分裝成2包等語，核與其警
+    詢中證稱：鄭安汝隨身手提包內安非他命1包是伊的，伊於
+    99年1月17日凌晨2點多，在桃園縣龍潭鄉○○路187巷16號
+    ，以1000元1小包，向綽號蠻牛（即被告）買安非他命等語
+    互核以觀，其就鄭安汝手提包內1小包甲基安非他命．係向
+    被告以1000元購買1小包之方式取得乙節之證詞均屬一致，
+    尚無何矛盾之處；且鄭安汝於99年1月19日為警查獲，經採
+    集尿液送驗結果呈安非他命類陰性反應等情，經臺灣桃園地
+    方法院檢察署99年度毒偵字第466號為不起訴處分，足見鄭
+    安汝包包內之安非他命應非供鄭安汝所施用，益徵證人李得
+    榮就其向被告購得甲基安非他命1小包後，放入鄭安汝之包
+    包內等情，應非虛假；(二)本件被告矢口否認販賣甲基安非他
+    命予李得榮，辯稱：伊於99年1月間，邀證人李得榮各自出
+    資1000元，合購1克之甲基安非他命云云，經原審調查證據
+    後，亦認定置於<font color='red'>鄭汝芬</font>手提包內之甲基安非他命實非被告與
+    李得榮合資購得，足見原審判決亦認被告上開辯詞顯無可採
+    ，然原判決卻依上述事實指摘證人李得榮之證詞具有瑕疵，
+    判決理由顯然矛盾；(三)證人鄭安汝於警詢中證稱：「（你如
+    何得知毒品來源向蠻牛之男子購得？）我於99年1月初許在
+    自宅看過蠻牛該男子。」、「（蠻牛該男子之正確年籍資料
+    為何？特徵為何？）我只知道叫蘇信禹（應為「瑀」之誤載
+    ），其他我不清楚」等語，依該警詢證詞之上下文互核以觀
+    ，證人鄭安汝應係證述伊認識被告的經過（即如何確認販賣
+    者為被告），原審判決卻以上開證詞認證人鄭安汝於警詢時
+    關於被告販毒予李得榮之時間，與檢察官訊問時證述不一而
+    無可採，尚嫌未洽，而指摘原判決不當。惟查，原判決及本
+    院已就證人李得榮、鄭安汝之證言如何不可採之理由，詳予
+    敘明如前，並無矛盾違誤之處。原判決就被告所辯與李得榮
+    合資購毒一情未予採信部分，或有說理不合之處，亦無影響
+    判決全旨。第按刑事訴訟法第161條第1項規定：檢察官就被
+    告犯罪事實，應負舉證責任，並指出證明之方法。對於其所
+    訴之被告犯罪事實，應負提出證據及說服之實質舉證責任，
+    倘所提出之證據，不足為被告有罪之積極證明，或其闡明之
+    證明方法，無從說服法官以形成被告有罪之心證，基於無罪
+    推定之原則，自應為被告無罪判決之諭知。而證據之取捨與
+    證據之證明力如何，均屬法院得自由裁量、判斷之職權，茍
+    其此項裁量、判斷，並不悖乎通常一般人日常生活經驗之定
+    則或論理法則，又於判決內論敘其何以作此判斷之心證理由
+    者，即不得任意指摘其為違法。茲原判決已詳敘就卷內證據
+    調查之結果，而為綜合判斷、取捨，認不足證明被告確有檢
+    察官所指訴之販賣甲基安非他命犯行，檢察官提起上訴，仍
+    執前開相同陳詞以被告確有販賣第二級毒品甲基安非他命犯
+    行而為爭執，復未提出其他積極事證證明被告確有何實施販
+    毒之行為，漫指原判決不當，尚無可取。從而，原審為被告
+    無罪之判決，尚屬允當，可以維持，上訴為無理由，應予駁
+    回。
+據上論斷，應依刑事訴訟法第368條，判決如主文。
+本案經檢察官楊秀蘭到庭執行職務。
+中    華    民    國    101    年    5    月    10    日
+                  刑事第十八庭審判長法  官  黃瑞華
+                                    法  官  許文章
+                                    法  官  高玉舜
+以上正本證明與原本無異。
+檢察官如不服本判決，應於收受送達後10日內向本院提出上訴書
+狀，其未敘述上訴之理由者並得於提起上訴後10日內向本院補提
+理由書（均須按他造當事人之人數附繕本）「切勿逕送上級法院
+」
+被告不得上訴。
+刑事妥速審判法第9條：
+除前條情形外，第二審法院維持第一審所為無罪判決，提起上訴
+之理由，以下列事項為限：
+一、判決所適用之法令牴觸憲法。
+二、判決違背司法院解釋。
+三、判決違背判例。
+刑事訴訟法第 377 條至第 379 條、第 393 條第 1 款之規定，
+於前項案件之審理，不適用之。
+                                    書記官  許雅淩
+中    華    民    國   101    年    5     月    10    日</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10105\10\TPHM1015A.01C] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000486&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c486%2c20120510%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=486&jdate=1010510&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c486%2c20120510%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=486&jdate=1010510&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c486%2c20120510%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','486','1010510','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="鄭汝芬">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="鄭汝芬">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

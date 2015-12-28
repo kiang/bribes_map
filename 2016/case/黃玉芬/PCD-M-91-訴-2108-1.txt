@@ -1,0 +1,396 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣新北地方法院-刑-91訴2108</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
+											筆 / 現在第10
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=002108&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c2108%2c20030926%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=2108&jdate=920926&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c2108%2c20030926%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=2108&jdate=920926&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c2108%2c20030926%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','2108','920926','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">91,訴,2108</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">920926</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造貨幣</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　　　　　　九十一年度訴字第二一<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7AF2A0A00000040.GIF" />八號
+　　公　訴　人　臺灣板橋地方法院檢察署檢察官
+　　被　　　告　乙○○
+　　指定辯護人　甲○公設辯護人　湯明純
+右列被告因偽造貨幣案件，經檢察官提起公訴（九十一年度偵緝字第七七０號）及移
+甲○判決如左：
+      主  文
+乙○○共同意圖供行使之用，而收集偽造之通用紙幣，處有期徒刑參年伍月。扣案如
+附表一、二、三所示偽造之通用紙幣均沒收。
+      事  實
+一、乙○○與丁○○（已死亡）基於意圖供行使之用，而收集偽造通用紙幣之犯意聯
+    絡，於民國九十年八月十四日晚上八時許，在臺北縣北二高中和交流道附近某處
+    ，明知綽號「阿發」真實姓名年籍不詳之成年男子所交付之如附表一、二、三之
+    紙鈔屬通用偽造紙幣，竟以新臺幣（下同）二萬元之代價，予以收集，尚未行使
+    該批偽鈔，即分別於(一)九十年八月十四日二十二時五十五分，在國道三號公路北
+    向二十一公里（台北市文山區），為警分別在乙○○之皮包一只及在丁○○身上
+    查獲偽造通用紙幣五十四張及二十八張（其面額、紙幣號碼、數量、金額詳如附
+    表一所示）；(二)九十年九月二十五日凌晨，乙○○持前開偽造紙幣前往臺北縣永
+    和市○○路四一號七樓中信賓館與丙○○（已另為不起訴處分）會面，因故先行
+    離去而將其皮包暨上開偽造紙鈔留在現場，為警循線查獲，並扣得如附表二所示
+    之偽造紙幣計十二張；(三)九十年十一月二十日二十三時十五分，在臺北市中山區
+    ○○○路與八德路口為警查獲，並扣得如附表三所示之偽造紙幣共八十五張，因
+    而查悉上情。
+二、案經臺灣板橋地方法院檢察署檢察官自動檢舉偵查起訴及內政部警政署國道公路
+    警察局第六警察隊及臺北市政府警察局中山分局報請台灣台北地方法院檢察署檢
+    察官移送甲○併案審理。
+      理  由
+一、右揭犯罪事實，業據被告乙○○於甲○審理時供承不諱，核與證人丙○○於偵審
+    中結證情節相符（臺灣板橋地方法院檢察署九十年度偵字第一五八二七號偵查卷
+    第六頁、第十七頁背面、第三十四頁背面、九十一年度偵緝字第七七０號卷第四
+    十一頁背面、甲○九十二年一月二十二日及九十二年七月二日訊問筆錄），且經
+    共犯丁○○於警詢及偵查中供認屬實（臺灣臺北地方法院檢察署九十年度核退字
+    第一三０七號偵查卷第五頁背面、九十年度偵字第二二０一四號偵查卷第十五頁
+    ），另有如附表一、二、三所示之偽造通用紙幣扣案可稽，又扣案如附表一所示
+    之紙鈔，送請中央銀行發行局鑑定結果：「一、該批新版壹仟元偽鈔均以彩色噴
+    墨方式仿印，無隱藏字及凹版印紋凸起效果；紙質與真鈔不同，無水印；安全線
+    以手工塗填亮光漆方式仿鈔券正面五段裸露部分，無折光變色效果；左下角之「
+    １０００」面額數字，其中一張以手工塗填亮光漆方式仿折光變色油墨，均無折
+    光變色反應。二、該批舊版壹仟元偽鈔均以彩色噴墨方式仿印，紙質與真鈔不同
+    ，安全線以噴墨方式仿造，部分水印以灰色墨在紙張背面仿製，部分水印以噴墨
+    方式在紙張背面仿製。三、該等舊版伍佰元偽鈔均以彩色噴墨方式仿印，紙質與
+    真鈔不同，紙張四角「伍佰」、「５００」及人像衣領部分以壓凸方式仿凹版油
+    墨凸起效果；號碼：ＮＶ３７６５６５ＤＬ以水印以灰色墨在紙張背面仿製，無
+    安全線，號碼：ＰＷ３５１７１１ＨＭ水印以噴墨方式在紙張背面仿製，無安全
+    線。四、該批舊版一百元號碼：ＤＰ２２３００７ＣＸ、ＥＫ９６４３７３ＪＵ
+    、ＥＭ３４３７１７ＡＷ、ＥＬ１２９５２１ＡＵ、ＤＲ８０３１６２ＨＸ、Ｅ
+    Ｋ８７７６９１ＦＸ等六張均屬真鈔，其餘八張則為偽鈔係以彩色噴墨方式仿印
+    ，紙質與真鈔不同，無水印及安全線。」；如附表二所示之紙鈔，送請中央銀行
+    發行局鑑定結果「一、該等新版偽鈔均以彩色噴墨方式仿印，無隱藏字及凹版印
+    紋凸起效果，紙質與真鈔不同，左下角面額數字，無折光變色反應；號碼：ＡＬ
+    ９６６２７１ＶＧ水印以灰色墨在紙張背面仿製，安全線以黏貼箔膜（含面額數
+    字）於紙張正面，無折光變色效果；號碼：ＡＫ０４２８９６ＸＧ無水印，安全
+    線以黏貼箔膜（含面額數字）仿正面五段裸露部分，無折光變色效果。二、該批
+    舊版五百元偽鈔均以彩色噴墨仿印，紙質與真鈔不同，水印以噴墨方式或灰色墨
+    仿製，安全線以灰色墨在紙張背面仿製，人像衣領部分以塗抹膠水方式仿凹版油
+    墨凸起效果。」；如附表三所示之紙鈔，送請中央銀行發行局鑑定結果為「一、
+    該批舊版五百元偽鈔均以彩色噴墨方式仿印，紙質與真鈔不同，安全線及水印以
+    灰色墨在紙張背面仿製。二、該批新版五百元偽鈔均以彩色噴墨方式仿印，無隱
+    藏字及凹版印紋凸起效果，紙質與真鈔不同，水印以灰色墨仿製，安全線以噴墨
+    方式仿造，另安全線擬以所附之偽造金屬箔膜（含面額數字）黏貼仿鈔券正面五
+    段裸露部分，無折光變色效果，左下角之「５００」面額數字，無折光變色反應
+    。」，此分別有該局九十年九月二十七日（九０）台央發字○三○○五○八○二
+    號函（臺灣臺北地方法院檢察署九十年度偵字第二二０一四號偵查卷第五頁）、
+    九十一年十一月十三日（九一）台央發字第０九一００六一四四八號函（附於甲
+    ○卷）、九十年十一月二十八日（九０）台央發字第○三○○五九九四五號函（
+    臺灣臺北地方法院檢察署九十一年度偵字第三八二六號偵查卷第二十三頁）在卷
+    可稽。足徵被告自白與事實相符，堪予採信。是本件事證明確，被告犯行洵堪認
+    定。
+二、按刑法第一百九十六條第一項之收集，乃謂收藏蒐集之意，本罪以意圖供行使之
+    用而為收集之行為為要件，即圖以偽幣作為真幣使用之目的而為收集。核被告所
+    為，係犯刑法第一百九十六條第一項之意圖供行使之用而收集偽造通用紙幣罪。
+    被告乙○○與丁○○間有犯意聯絡及行為分擔，均為共同正犯。爰審酌被告明知
+    偽鈔嚴重影響金融秩序，且收集之偽鈔數量甚多，其為圖不勞而獲之犯罪動機，
+    自屬可議，惟事後供承罪行不諱及犯後態度尚稱良好等情狀，量處如主文所示之
+    刑。至扣案如附表一、二、三所示均屬偽造通用紙幣，爰依刑法第二百條規定宣
+    告沒收。
+三、移送併辦（臺灣台北地方法院檢察署九十二年度偵字第一六二五二、一六二五三
+    號）意旨：被告乙○○、丁○○（已另為不起訴處分）意圖供行使之用，而收集
+    偽造通用紙幣，先後於九十年八月十四日及十一月二十日，在國道三號公路北向
+    二十一公里處及臺北市中山區○○○路與八德路口為警查獲，並扣得如附表一、
+    三所示之偽造通用紙幣，因認被告前開部份涉犯刑法一百九十六條第一項之罪嫌
+    ，且與本件前開偽造貨幣犯行部分有連續犯之裁判上一罪關係，而移請甲○併案
+    審理等語。經查該部份併辦與本案公訴人起訴部分，同係被告基於同一之收集偽
+    造通用紙幣行為，核屬實質上一罪關係，併案部份既為起訴效力所及，甲○自得
+    併予論罪科刑，附此敘明。
+四、另臺灣台北地方法院檢察署九十二年度偵字第一六二五四、一六二五五號移送併
+    辦意旨以：（一）被告意圖供行使之用，收集偽造通用貨幣，於九十年十一月二
+    十日為警攔檢查獲後，除扣得如前述已併案審理之附表三之偽鈔外，另查獲偽造
+    木質蔣中正人頭浮水章一個、模型膠一瓶、金屬辨識條（一千元計五十五條、五
+    百元計二十九條），及被告為圖推卸刑責，竟以其胞弟邱正信之名應訊，並偽造
+    邱正信之署押於警詢筆錄。（二）被告意圖為自己不法之所有，於八十八年十月
+    二十八日，在台北縣新店市○○路某處，竊取古美銀所有之支票一張後，並偽填
+    票據金額八千元，交由不知情之魏憶萍前往提示付款。（三）被告與丁○○於九
+    十年八月間，為規避警方之臨檢，竟基於變造特種文書之犯意聯絡，在不詳地點
+    ，推由其中一人，將賴孟德、蔣靜芬、<font color='red'>黃玉芬</font>之身分證及駕駛執照相片撕下，換
+    貼為二人照片，以此方式變造前開證件足生損害於監理機關、戶政機關管理之正
+    確性及賴孟德、蔣靜芬、<font color='red'>黃玉芬</font>等人。因認被告前開部份涉犯刑法第二百零一條
+    第一項、第三百二十條第一項、第二百十條、二百十二條等罪嫌，且與本件前開
+    偽造貨幣犯行部分有連續犯之裁判上一罪關係，而移請甲○併案審理云云。惟查
+    ：前開併案（一）部分，被告乃為掩飾其犯行，另行起意冒其胞弟邱正信之名義
+    應訊，且被告所為冒名應訊犯行之犯罪手段、方式及所觸犯之法條，均與本件犯
+    行不同，另查獲之偽造木質蔣中正人頭浮水章一個、模型膠一瓶、金屬辨識條，
+    被告辯稱：都是綽號「阿發」給丁○○，我向他買時已經是被查獲的偽鈔，我並
+    沒有偽造偽鈔等語，而丁○○已死亡，亦無從與之對質，是此部分之事實並無何
+    積極證據顯示被告有意圖供偽造通用紙幣之用，而收受器械原料之犯行。又前開
+    併案（二）部分，被告犯罪時間為八十八年十月二十八日，與本件犯行已相差近
+    二年，且所犯罪名之構成要件亦不相同。而前開併案（三）部分，變造賴孟德國
+    民身分證及重型機車駕駛執照部分，業已經甲○九十一年度訴字第二三五五號併
+    案審理判決在案，有該刑事判決書乙份可憑，另變造蔣靜芬、<font color='red'>黃玉芬</font>身分證及駕
+    駛執照部分，其所犯罪名之構成要件與本件犯行亦不相同，是故，該移送併辦（
+    一）、（二）、（三）部分，核與前開被告論罪科刑部分，並無何連續犯之裁判
+    上一罪關係，甲○無從併與審究，自應退由檢察官另行偵查處理，亦附予述明之
+    。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段，刑法第二十八條、第一百九
+十六條第一項、第二百條，罰金罰鍰提高標準條例第一條前段，判決如主文。
+本案經檢察官楊雅清到庭執行職務
+中    華    民    國      九十二      年      九      月    二十六      日
+                                  臺灣板橋地方法院刑事第二庭
+                                          法  官  吳幸娥
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內，向甲○提出上訴狀。
+                                          書記官  洪惠玲
+中    華    民    國      九十二      年      九      月    二十六      日
+附論罪科刑依據法條：
+刑法第一百九十六條第一項
+行使偽造、變造之通用貨幣、紙幣、銀行券或意圖供行使之用而收集或交付於人者，
+處三年以上十年以下有期徒刑，得併科五千元以下罰金。
+刑法第二百條
+偽造、變造之通用貨幣、紙幣、銀行券，減損分量之通用貨幣及前條之器械、原料，
+不問屬於犯人與否，沒之。
+附表一
+┌──┬─────┬───────────┬──────┬───────┐
+│編號│ 面 額    │   紙  幣  號  碼     │  數  量    │   金     額  │
+├──┼─────┼───────────┼──────┼───────┤
+│ 一 │新版千元  │ＪＬ５９９９６７ＵＧ  │  二十七張  │  二萬七千元  │
+├──┼─────┼───────────┼──────┼───────┤
+│ 二 │舊版千元  │ＥＬ６３３０６２ＣＹ  │  二十五張  │  二萬五千元  │
+├──┼─────┼───────────┼──────┼───────┤
+│ 三 │舊版千元  │ＥＬ６３３０６３ＣＹ  │  二張      │  二千元      │
+├──┼─────┼───────────┼──────┼───────┤
+│ 四 │舊版千元  │ＥＬ６３３０６５ＣＹ  │  三張      │  三千元      │
+├──┼─────┼───────────┼──────┼───────┤
+│ 五 │舊版五百元│ＰＷ３５１７１１ＨＭ  │  一張      │  五百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│ 六 │舊版一百元│ＤＳ８６５０２８ＨＺ  │  七張      │  七百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│ 七 │舊版五百元│ＮＶ３７６５６５ＤＬ  │  一張      │  五百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│ 八 │舊版千元  │ＤＮ０６５２５０ＨＷ  │  九張      │  九千元      │
+├──┼─────┼───────────┼──────┼───────┤
+│ 九 │舊版一百元│ＥＭ３４３７１７ＡＷ  │  一張      │  一百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│ 十 │舊版一百元│ＤＰ２２３００７ＣＸ  │  一張      │  一百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│十一│舊版一百元│ＥＬ７８１０１２ＪＹ  │  一張      │  一百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│十二│舊版一百元│ＥＫ８７７６９１ＦＸ  │  一張      │  一百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│十三│舊版一百元│ＥＬ１２９５２１ＡＵ  │  一張      │  一百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│十四│舊版一百元│ＥＫ９６４３７３ＪＵ  │  一張      │  一百元      │
+├──┼─────┼───────────┼──────┼───────┤
+│十五│舊版一百元│ＤＲ８０３１６２ＨＸ  │  一張      │  一百元      │
+└──┴─────┴───────────┴──────┴───────┘
+附表二
+┌──┬─────┬───────────┬──────┬───────┐
+│編號│ 面 額    │   紙  幣  號  碼     │  數  量    │   金     額  │
+├──┼─────┼───────────┼──────┼───────┤
+│ 一 │新版一千元│ＡＬ９６６２７１ＶＧ  │  一張      │   一千元     │
+├──┼─────┼───────────┼──────┼───────┤
+│ 二 │新版一千元│ＡＫ０４２８９６ＸＧ  │  一張      │   一千元     │
+├──┼─────┼───────────┼──────┼───────┤
+│ 三 │舊版一千元│ＣＴ８６１３１３ＤＷ  │  三張      │   三千元     │
+├──┼─────┼───────────┼──────┼───────┤
+│ 四 │舊版一千元│ＣＴ８６１３１６ＤＷ  │  七張      │   七千元     │
+└──┴─────┴───────────┴──────┴───────┘
+附表三
+┌──┬─────┬───────────┬─────┬────────┐
+│編號│ 面 額    │   紙  幣  號  碼     │ 數  量   │   金       額  │
+├──┼─────┼───────────┼─────┼────────┤
+│ 一 │舊版五百元│ＰＷ３５１７１３ＨＭ  │ 二十七張 │ 一萬三千五百元 │
+├──┼─────┼───────────┼─────┼────────┤
+│ 二 │舊版五百元│ＰＷ９７００１７ＧＫ  │ 二十九張 │ 一萬四千五百元 │
+├──┼─────┼───────────┼─────┼────────┤
+│ 三 │舊版五百元│ＮＶ３７６５６５ＤＬ  │  四張    │ 二千元         │
+├──┼─────┼───────────┼─────┼────────┤
+│ 四 │舊版五百元│ＰＷ６９３３４５ＨＬ  │  一張    │ 五百元         │
+├──┼─────┼───────────┼─────┼────────┤
+│ 五 │舊版五百元│ＰＷ９７００１４ＧＫ  │  一張    │ 五百元         │
+├──┼─────┼───────────┼─────┼────────┤
+│ 六 │舊版五百元│ＱＺ２７０９２３ＧＰ  │  三張    │ 一千五百元     │
+├──┼─────┼───────────┼─────┼────────┤
+│ 七 │舊版五百元│ＰＷ９７００１４ＧＫ  │  三張    │ 一千五百元     │
+├──┼─────┼───────────┼─────┼────────┤
+│ 八 │舊版五百元│ＲＺ２２７５４６ＦＳ  │  一張    │ 五百元         │
+├──┼─────┼───────────┼─────┼────────┤
+│ 九 │新版五百元│ＤＲ０８４６８３ＷＧ及│  十六張  │ 八千元         │
+│    │半成品    │ＡＫ５９９５２８ＺＥ二│          │                │
+│    │          │聯一張                │          │                │
+└──┴─────┴───────────┴─────┴────────┘
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWPCD\CRIMINAL\9210\03\PCDM92A3.016] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
+											筆 / 現在第10
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=002108&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c2108%2c20030926%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=2108&jdate=920926&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c2108%2c20030926%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=2108&jdate=920926&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c2108%2c20030926%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','2108','920926','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="10"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃玉芬">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃玉芬">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

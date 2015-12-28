@@ -1,0 +1,476 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣新北地方法院-刑-96訴1457</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第3
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=001457&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c1457%2c20070713%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=1457&jdate=960713&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c1457%2c20070713%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=1457&jdate=960713&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c1457%2c20070713%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','1457','960713','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">96,訴,1457</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">960713</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造有價證券等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　96年度訴字第1457號
+公　訴　人　臺灣板橋地方法院檢察署檢察官
+被　　　告　乙○○○
+選任辯護人　<font color='red'>吳志揚</font>律師
+　　　　　　吳宗樺律師
+上列被告因偽造有價證券等案件，經檢察官提起公訴（96年度偵
+字第5366號），本院判決如下：
+    主  文
+乙○○○連續意圖供行使之用，而偽造有價證券，處有期徒刑壹
+年柒月，如附表一所示本票拾捌紙關於偽造以「葉明輝」為發票
+人部分、偽造之「葉明輝」印章壹枚，均沒收；又連續行使偽造
+私文書，足以生損害於他人，處有期徒刑陸月，如附表二所示切
+結書上偽造之「葉明輝」署押、前揭偽造之「葉明輝」印章壹枚
+，均沒收；應執行有期徒刑貳年，緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，如附表一所示本票
+拾捌紙關於偽造以「葉明輝」為發票人部分、前揭偽造之「葉明
+輝」印章壹枚、如附表二所示切結書上偽造之「葉明輝」署押，
+均沒收。
+    事  實
+一、乙○○○與葉明輝係夫妻關係，緣乙○○○因積欠甲○○○
+    債務，為對甲○○○擔保金錢債務之履行，竟萌意圖供行使
+    之用而偽造有價證券之概括犯意，未經其夫葉明輝之同意或
+    授權，即擅自於民國90年10月5 日，在甲○○○位於臺北市
+    ○○○路2 段21巷34號4 樓住處，以在附表一編號1 至3 所
+    示之本票發票人欄處簽名併同時偽簽「葉明輝」署名，及持
+    其於同日，在甲○○○前開住處附近刻印店，利用不知情之
+    某成年刻印匠所偽刻之「葉明輝」印章1 顆蓋用在上開本票
+    發票人欄處，且填寫本票發票日、到期日及票面金額等票據
+    應記載事項（詳細之偽造本票發票日、票號、到期日、票面
+    金額均詳如附表所示），完成以其個人及葉明輝名義為共同
+    發票人之發票行為後，交付甲○○○而行使之；嗣因乙○○
+    ○於上開本票到期日屆至後無力清償票款，乃請求甲○○○
+    換票延期，經甲○○○同意換票延期後，乙○○○又承前開
+    意圖供行使之用而偽造有價證券之概括犯意，自92年6 月5
+    日起至93年9 月20日止，於各該如附表一編號4 至14所示發
+    票日當日，在同上地點，以同前方式，連續偽造由葉明輝簽
+    發如附表一編號4 至14所示本票（詳細之偽造本票發票日、
+    票號、到期日、票面金額均詳如附表所示），而完成由「葉
+    明輝」與乙○○○擔任共同發票人之發票行為後，持交甲○
+    ○○行使之；乙○○○另基於行使偽造私文書之概括犯意，
+    先於93年12月22日，在不詳處所，未經「葉明輝」同意，簽
+    立如附表二編號1 所示之切結書，並在該切結書上立切結書
+    人欄偽造「葉明輝」簽名，且蓋用上開偽刻之「葉明輝」印
+    章，而偽造如附表二編號1 所示切結書意旨之私文書後持交
+    藍美惠行使而足生損害於葉明輝。乙○○○復又承前行使偽
+    造私文書、意圖供行使之用而偽造有價證券之概括犯意，以
+    前述偽造葉明輝名義本票、切結書之同一方式，於各該發票
+    日、立切結書當日，在同上地點，連續偽造如附表一編號15
+    至18所示葉明輝擔任共同發票人之本票、附表二編號2 至3
+    所示之切結書（詳細之偽造本票發票日、到期日、票面金額
+    及簽立切結書日期、內容均詳如附表所示）後交付甲○○○
+    行使而足生損害於葉明輝及甲○○○。嗣因前開本票屆期均
+    未獲清償，經甲○○○向法院起訴請求葉明輝清償票款後，
+    葉明輝復向法院提出確認本票不存在之訴，因悉上情。
+二、案經甲○○○訴由臺灣板橋地方法院檢察署檢察官偵查起訴
+    。
+    理  由
+一、證據能力：
+    按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據，刑事訴訟法第159 條第1 項定有明文
+    ，此即學理上所稱「傳聞證據排除法則」。又被告以外之人
+    於審判外之陳述，雖不符同法第159 條之1 至第159 條之4
+    之規定，而經當事人於審判程序同意作為證據，法院審酌該
+    言詞陳述或書面陳述作成時之情況，認為適當者，亦得為證
+    據。當事人、代理人或辯護人於法院調查證據時，知有第15
+    9 條第1 項不得為證據之情形，而未於言詞辯論終結前聲明
+    異議者，視為有前項之同意，此則據同法第159 條之5 規定
+    甚明。而鑒於採用傳聞證據排除法則之重要理由之一，係因
+    傳聞證據未經當事人之反詰問予以覈實，若當事人願放棄對
+    原供述人之反對詰問時，原則上即可承認該傳聞證據之證據
+    能力，而揆諸我國刑事訴訟法第159 條之5 之立法理由，除
+    參照前述傳聞證據排除法則之基本法理外，亦參考日本刑事
+    訴訟法第326 條之立法例，查日本刑事審判實務之運作，有
+    關檢察官及被告均同意作為證據之傳聞書面材料或陳述，可
+    直接援引該國刑事訴訟法第326 條作為傳聞例外之法律依據
+    ，僅在檢察官與被告不同意之情況下，乃須根據其他傳聞例
+    外規定俾以斟酌該等書面材料或陳述是否具有證據能力，在
+    當事人間無爭執之案件中，傳聞證據基本上均可依據前引規
+    定提出於法院使用。據此，我國刑事訴訟法第159 條之5 之
+    適用應可作同上之解釋，本件證人即告訴人甲○○○、證人
+    即被告丈夫葉明輝在偵查中之證述或結證等，固為被告以外
+    之人在審判外之言詞、書面陳述，屬傳聞證據，惟公訴人、
+    被告、辯護人就前開審判外之陳述，迄於言詞辯論終結前未
+    為異議之聲明，而本院審酌前開證人陳述作成時之情況，核
+    無違法取證及證明力明顯過低之瑕疵，本院認為以上述傳聞
+    證據作為證據均為適當，故依諸上開規定及說明，前引被告
+    以外之人於審判外之陳述是否屬於傳聞之例外，無庸先行考
+    量刑事訴訟法第159 條之1 第2 項、第159 條之2 至第159
+    條之4 等規定，得逕依同法第159 條之5 規定作為證據。
+二、認定事實所憑之證據：
+    訊據被告乙○○○對上揭事實坦承不諱，核與證人即經被告
+    丈夫葉明輝於偵查中結證情節相符，並經證人即告訴人甲○
+    ○○於偵查及本院審理時證述明確，復有如附表一、二所示
+    本票、切結書影本附卷可稽，足認被告前開自白與事實相符
+    ，可以採信。本件事證明確，被告前開犯行堪以認定。
+三、新舊法之比較適用：
+    按被告行為後，與其本件犯行有關之刑法第2 條法律變更適
+    用、第56條連續犯等規定，已於94年1 月7 日經立法院修正
+    三讀通過，總統命令公布，95年7 月1 日施行，茲就該等規
+    定之新舊法比較適用析述如下：
+(一)、第2 條：
+    刑法第2 條係規範行為後法律變更適用所生新舊法律比較適
+    用之準據法，於新法施行後，應逕適用新法第2 條第1 項之
+    規定，為「從舊從輕」之比較。
+(二)、刑法第201條第1 項法定刑為罰金部分：
+    修正後刑法第33條第5 款規定「罰金：新臺幣一千元以上，
+    以百元計算之。」與修正前刑法第33條第5 款規定「罰金：
+    一元以上。」不同。比較新舊法結果，以舊法較有利於行為
+    人，故依刑法第2 條第1 項前段規定，本案關於刑法第201
+    條第1 項之法定刑罰金部分，自應適用行為時之法律即修正
+    前刑法第33條第5 款規定決定其罰金部分之法定刑。
+(三)、刑法第56條關於連續犯之規定：
+    修正後刑法已刪除第56條關於連續犯之規定，是本件被告多
+    次偽造有價證券行使、行使偽造私文書犯行，如依新法即須
+    分論併罰，比較新、舊法結果，自應適用較有利於被告之行
+    為時法律即舊法論以連續犯較有利於被告。
+(四)、綜合上述各條文修正前、後之比較，並依諸「新舊刑法關於
+    刑之規定，雖同採從輕主義，係適用最有利於行為人之法律
+    ，既曰法律，自較刑之範圍為廣，比較時應就罪刑有關之共
+    犯、未遂犯、連續犯、牽連犯、結合犯以及累犯加重、自首
+    減輕、暨其他法定加減原因、與加減例等一切情形，綜其全
+    部之結果，而為比較，再適用有利於行為人之法律處斷」（
+    參照最高法院24年上字第4634號判例要旨）及修正後刑法第
+    2 條第1 項前段、後段規定之「從舊、從輕」原則，爰依整
+    體比較結果，適用被告行為時之法律，即修正前刑法之相關
+    規定、罰金罰鍰提高標準條例第1 條前段，予以論處。
+四、應適用之法律、科刑審酌事由及沒收物之處理：
+(一)、核被告乙○○○冒用葉明輝名義偽造如附表一、二所示本票
+    及切結書，並各持以行使之行為，分別係犯刑法第201 條第
+    1 項之意圖供行使之用，而偽造有價證券罪、同法第216 條
+    、第210 條之行使偽造私文書罪。被告利用不知情之某成年
+    刻印店人員偽刻「葉明輝」印章1 顆，係偽造印章之間接正
+    犯。又被告偽造印章、印文、署押之行為，均分別為偽造私
+    文書、偽造有價證券之階段行為；另其偽造私文書後持以行
+    使，其偽造之低度行為，應為各該行使之高度行為所吸收；
+    而其行使偽造有價證券之低度行為，則應為偽造之高度行為
+    所吸收，均不另論罪。又被告先後多次意圖供行使之用而偽
+    造有價證券、行使偽造私文書犯行，均各時間緊接，手法相
+    同，所犯復各係構成要件相同之罪名，顯均各基於概括犯意
+    反覆為之，均為連續犯，均應依修正前刑法第56條規定，各
+    僅論以1 罪，並各加重其刑。被告上開所犯連續意圖供行使
+    之用而偽造有價證券罪、連續行使偽造私文書罪等2 罪間，
+    犯意個別，行為互殊，應予分論併罰。又被告行為後，刑法
+    第59條之規定，業於94年2 月2 日修正公布，於95年7 月1
+    日施行，由原所定「犯罪之情狀可憫恕者，得酌量減輕其刑
+    」，修正為「犯罪之情狀顯可憫恕，認科以最低刑度仍嫌過
+    重者，得酌量減輕其刑。」惟此規定，為法院就刑之酌減審
+    認標準見解之明文化，非屬法律之變更（最高法院95年度第
+    8 次刑事庭會議紀錄參照）。茲審酌被告一時失慮誤觸刑典
+    ，且無前科，有臺灣高等法院被告前案紀錄表可稽，足認其
+    素行良好，併斟酌其犯後坦承犯行態度良好，復已與告訴人
+    達成和解，此有和解協議書附於本院卷可憑，而其自身並擔
+    任如附表一所示本票之共同發票人，足徵應尚無閃避個人債
+    務之意，本院認其犯罪情節尚非重大，惟所犯意圖供行使之
+    用而偽造有價證券罪之法定本刑為3 年以上有期徒刑，與其
+    犯罪情節相較，實屬情輕法重，揆其前開犯罪情狀，客觀上
+    非無堪資憫恕之處，即處以法定最低刑度猶嫌過重，爰就其
+    本件所犯意圖供行使之用而偽造有價證券罪部分，依刑法第
+    59條規定減輕其刑，併此敘明。
+(二)、茲審酌被告冒用丈夫名義簽發上揭本票行使，足以破壞票據
+    流通信用，所為甚屬不該，然其前無犯罪紀錄，素行良好，
+    且已與告訴人達成和解，兼衡其犯罪動機、目的、手段、智
+    識程度、生活狀況等一切情狀，就其前開所犯2 罪，分別量
+    處如主文所示之刑，並定其應執行之刑，以示儆懲。復按被
+    告行為後，刑法於94年2 月2 日修正公布，95年7 月1 日施
+    行，有關緩刑之規定，犯罪在新法施行前，新法施行後裁判
+    ，緩刑之宣告，應適用新法第74條之規定，有最高法院95年
+    度第8 次刑事庭會議紀錄可參。查被告未曾因故意犯罪受有
+    期徒刑以上刑之宣告，有上開臺灣高等法院被告全國前案紀
+    錄表可憑，其因一時失慮偶罹刑典，惟已與告訴人達成和解
+    賠償損失，告訴人亦於本院審理中稱民事部分我們已處理完
+    畢，刑度方面我沒有意見，給被告緩刑我也沒有意見等語；
+    被告之夫葉明輝亦於本院審理中供稱已經原諒被告，能給被
+    告緩刑是很好的事情等語，堪認告訴人暨葉明輝均已原諒被
+    告，被告亦坦認犯行知所悔悟，本院因認被告經此偵審程序
+    ，當知所警愓，信無再犯之虞，前開對其所宣告之刑以暫不
+    執行為適當，爰併諭知緩刑3 年，以勵自新。
+(三)、如附表一所示本票18紙，被告共同發票之簽名、印文為真正
+    ，依票據法第15條規定，其上「葉明輝」署名、印文之偽造
+    ，不影響簽名真正之效力，而該等本票既經簽發交付告訴人
+    為執票人，即得行使票據上權利，並以占有票據為必要，自
+    不得依刑法第205 條規定逕行沒收，惟該等本票關於偽造以
+    「葉明輝」為發票人部分，仍應依刑法第205 條規定沒收之
+    。另偽造之「葉明輝」印章1 枚、如附表二所示切結書上之
+    偽造「葉明輝」署押（計簽名3 枚、印文5 枚），均應依刑
+    法第219 條規定宣告沒收。
+據上論斷，應依刑事訴訟法第299 條第1 項前段，刑法第2 條第
+1 項前段、第56條（修正前）、第201 條第1 項、第216 條、第
+210 條、第59條、第51條第5 款（修正前）、第205 條、第219
+條、第74條第1 項第1 款，罰金罰鍰提高標準條例第1 條前段，
+判決如主文。
+本案經檢察官郭季青到庭執行職務。
+中　　華　　民　　國　　96　　年　　7 　　月　　13　　日
+                  刑事第十九庭審判長法　官  許必奇
+                                    法  官  曾正耀
+                                    法  官  陳明偉
+以上正本證明與原本無異。
+如不服本判決應於送達後10日內向本院提出上訴狀。
+                          　　      書記官　強梅芳
+中　　華　　民　　國　　96　　年　　7 　　月　　13　　日
+附表一（本票）：
+┌──┬──────┬─────┬──────┬─────┐
+│編號│發票日      │本票票號  │到期日      │票面金額  │
+├──┼──────┼─────┼──────┼─────┤
+│1   │90年10月5日 │TH043715  │91年4月5日  │50萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│2   │90年10月5日 │TH043714  │91年4月5日  │50萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│3   │90年11月15日│TH043710  │91年5月15日 │50萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│4   │92年6月5日  │WG0000000 │92年9月5日  │40萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│5   │92年6月16日 │WG0000000 │92年9月5日  │50萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│6   │92年9月5日  │WG0000000 │92年12月5日 │40萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│7   │92年6月5日  │WG0000000 │92年9月5日  │30萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│8   │92年6月5日  │WG0000000 │92年9月5日  │30萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│9   │不詳        │WG0000000 │92年12月5日 │30萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│10  │不詳        │WG0000000 │92年12月5日 │30萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│11  │93年9月20日 │TH087182  │93年12月5日 │30萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│12  │93年7月13日 │TH087176  │93年10月5日 │50萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│13  │93年9月20日 │TH087181  │93年12月5日 │30萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│14  │93年9月20日 │TH087184  │93年12月5日 │40萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│15  │95年4月20日 │TH079251  │95年6月5日  │40萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│16  │95年4月20日 │TH079253  │95年6月5日  │38萬元    │
+├──┼──────┼─────┼──────┼─────┤
+│17  │95年4月20日 │TH079254  │95年6月5日  │100萬元   │
+├──┼──────┼─────┼──────┼─────┤
+│18  │95年5月10日 │TH079128  │            │9萬7000元 │
+└──┴──────┴─────┴──────┴─────┘
+附表二（切結書）：
+┌──┬──────┬──────────────────┬────────┐
+│編號│犯罪時間    │切結書內容                          │偽造之署押      │
+├──┼──────┼──────────────────┼────────┤
+│ 1  │93年12月22日│本人乙○○○與葉明輝先生向藍美惠女士│偽造之葉明輝簽名│
+│    │            │借用現金伍拾萬元正於民國93年9月5日到│1枚、印文2枚    │
+│    │            │期經藍美惠女士催討避不見面雙方協調於│                │
+│    │            │民國94年3月5日還清，否則願受法律執行│                │
+│    │            │絕無異議，特立此切結書為憑          │                │
+│    │            │立切結書人     葉明輝               │                │
+│    │            │               乙○○○             │                │
+├──┼──────┼──────────────────┼────────┤
+│ 2  │94年4月27日 │本人乙○○○與葉明輝先生向游美智女士│偽造之葉明輝簽名│
+│    │            │借用現金肆拾萬元正於民國94年4月5日到│1枚、印文2枚    │
+│    │            │期經游美智女士催討避不見面雙方協調於│                │
+│    │            │民國94年7月5日還清，否則願受法律執行│                │
+│    │            │絕無異議，特立此切結書為憑          │                │
+│    │            │立切結書人     葉明輝               │                │
+│    │            │               乙○○○             │                │
+├──┼──────┼──────────────────┼────────┤
+│ 3  │95年4月20日 │本人乙○○○與葉明輝先生向甲○○○女│偽造之葉明輝簽名│
+│    │            │士借用現金肆拾萬元正於民國94年12月5 │1枚、印文1枚    │
+│    │            │日到期經甲○○○女士催討避不見面雙方│                │
+│    │            │協調於民國95年6月5日還清，否則願受法│                │
+│    │            │律執行絕無異議，特立此切結書為憑    │                │
+│    │            │立切結書人     葉明輝               │                │
+│    │            │               乙○○○             │                │
+└──┴──────┴──────────────────┴────────┘
+附錄本案論罪科刑法條全文：
+刑法第二百零一條
+意圖供行使之用，而偽造、變造公債票，公司股票或其他有價證
+券者，處三年以上十年以下有期徒刑，得併三千元以下罰金。
+行使偽造、變造之公債票、公司股票或其他有價證券或意圖供行
+使之用收集或交付於人者，處一年以上七年以下有期徒刑，得併
+科三千元以下罰金。
+刑法第二百十六條
+行使第二百十條至第二百十五條之文書者，依偽造、變造文書或
+登載不實事項或使登載不實事項之規定處斷。
+刑法第二百十條
+偽造、變造私文書，足以生損害於公眾或他人者，處五年以下有
+期徒刑。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\judday\OK\LAWPCD\CRIMINAL\9607\13\PCDM967D.015] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第3
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=001457&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c1457%2c20070713%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=1457&jdate=960713&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c1457%2c20070713%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=1457&jdate=960713&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c1457%2c20070713%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','1457','960713','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳志揚">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳志揚">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

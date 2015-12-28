@@ -1,0 +1,390 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-花蓮分院-刑-102上易45</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 花蓮分院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000045&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e4%b8%8a%e6%98%93%2c45%2c20130628%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%b8%8a%e6%98%93&jno=45&jdate=1020628&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=102%2c%e4%b8%8a%e6%98%93%2c45%2c20130628%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%b8%8a%e6%98%93&jno=45&jdate=1020628&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e4%b8%8a%e6%98%93%2c45%2c20130628%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','102','%e4%b8%8a%e6%98%93','45','1020628','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,上易,45</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020628</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院花蓮分院刑事判決　　　　 102年度上易字第45號
+上　訴　人
+即　被　告　林太信
+選任辯護人　魏辰州律師
+上列上訴人因恐嚇等案件，不服中華民國102年3月11日臺灣花蓮
+地方法院101年度易字第440號一審判決（起訴案號：臺灣花蓮地
+方法院檢察署101年度偵字第1243號），提起上訴，本院判決如
+下：
+    主  文
+上訴駁回。
+    事  實
+一、林太信係<font color='red'>蔡慧玲</font>、莊碧華2人之鄰居，竟於民國101年1月30
+    日有下列犯行：
+(一)當天下午2時許，可預見將磚瓦碎片自樓頂高處往下投擲，
+    可能毀損他人物品，竟基於毀損之不確定故意，自花蓮縣吉
+    安鄉○○街00巷00○0號其住處6樓樓頂（起訴書誤載為5樓
+    樓頂），將磚瓦碎片往下投擲，擲中<font color='red'>蔡慧玲</font>所有置放在私有
+    巷道圍牆上之花盆，致花盆掉落地上龜裂，足以生損害於<font color='red'>蔡
+    慧玲</font>，<font color='red'>蔡慧玲</font>聞聲外出查看，並在住家外面抱怨：「為什麼
+    會有這種人，砸死人怎麼辦？」等語。並託友人汪兆祥報警
+    ，員警至林太信上開住處敲門，無人回應後離去。
+(二)當天下午3時30分許，因不滿<font color='red'>蔡慧玲</font>上開言語，基於侵入住
+    宅、恐嚇及公然侮辱之犯意，於同日下午3時30分許，未得
+    <font color='red'>蔡慧玲</font>之同意，侵入花蓮縣吉安鄉○○街00巷00弄0○0號<font color='red'>蔡
+    慧玲</font>之住家庭院，並在該不特定人得共見共聞之處所，以「
+    妳在潑婦罵街什麼？」足以貶損他人名譽之言語，公然辱罵
+    <font color='red'>蔡慧玲</font>，並對外出察看之<font color='red'>蔡慧玲</font>與汪兆祥2人恫稱：「上次
+    是砸屋頂，下次就砸人，磚塊只砸壞人，不會砸好人！」，
+    又對<font color='red'>蔡慧玲</font>恫稱：「妳小心一點！」等加害生命、身體之話
+    語，恐嚇<font color='red'>蔡慧玲</font>、汪兆祥2人，使<font color='red'>蔡慧玲</font>、汪兆祥2人心生畏
+    懼，致生危害於安全。
+二、案經<font color='red'>蔡慧玲</font>訴由花蓮縣警察局吉安分局報告臺灣花蓮地方法
+    院檢察署檢察官偵查起訴。
+    理  由
+壹、證據能力部分
+一、按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據，刑事訴訟法第159條第1項定有明文。
+    本案證人莊碧華、<font color='red'>蔡慧玲</font>以及汪兆祥於警詢中所為之陳述，
+    ，既屬審判外之陳述，並查無刑事訴訟法第第159條之2所定
+    具有證據能力之法定情形，自應認無證據能力。
+二、按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據。又被告以外之人於偵查中向檢察官所
+    為之陳述，除顯有不可信之情況者外，得為證據，刑事訴訟
+    法第159條第1項、第159條之1第 2項分別定有明文。查證人
+    即告訴人<font color='red'>蔡慧玲</font>、證人莊碧華、汪兆祥3人於偵查中之陳述
+    ，係以證人身分具結後所為之陳述，依其等作證所處之環境
+    ，並無顯不可信之情形，故依上開規定，證人<font color='red'>蔡慧玲</font>、莊碧
+    華、汪兆祥3人於偵查中之陳述，且被告亦不爭執其證據能
+    力（本院卷第31頁），應認具有證據能力。
+貳、事實認定之理由
+一、訊據被告林太信固不否認於101年1月30日下午3時30分許，
+    進入告訴人住處之庭院，並向告訴人、汪兆祥2人說「潑婦
+    罵街！」、「磚瓦掉下來不會只掉到屋頂，也會砸到人！」
+    、「磚塊只砸壞人，不會砸好人！」等語之事實，惟矢口否
+    認有毀損、侵入住宅、公然侮辱及恐嚇之犯行，辯稱：伊每
+    天下午2時30分許，均到慈濟大學運動，伊於案發時不在現
+    場，應該是伊住處大樓之磚瓦年久失修，瓦片自然掉落，砸
+    到告訴人之花盆，伊因為當日中午，在家中用餐時，聽到告
+    訴人在巷弄中咒罵，妨害居住安寧，才於當日下午3時30分
+    許，至告訴人家中，要向告訴人規勸以後不要有這樣的行為
+    ，才會說告訴人這樣的行為像是「潑婦罵街」，伊進入告訴
+    人家中並非無故，後來伊要離去，汪兆祥阻擋伊，告訴人又
+    拿照相機照伊，伊才說「這種行為會禍遺子孫！」、「磚瓦
+    掉下來不會只掉到屋頂，也會砸到人！」、「磚塊只砸壞人
+    ，不會砸好人！」等語，伊並無恐嚇之意思云云（第一審卷
+    第15頁、本院卷第30頁背面以下）。
+二、經查：
+(一)被告自樓頂扔擲瓦片之事實，據證人莊碧華證稱：當天於10
+    1年1月30日下午2時20分許，在花蓮縣吉安鄉○○街00巷00
+    弄0號之住處，正準備午睡，突然聽到1聲巨響，其跑到家中
+    2樓至3樓之樓梯中間，3樓有1面窗戶，視線正好可以看到被
+    告上開住處之6樓樓頂，其看到被告正在將第2塊磚瓦碎片往
+    下丟擲，其就趕快報警，在報警的時候，又聽到被告丟擲第
+    3塊磚瓦碎片的聲響，被告丟擲完後，其與告訴人就到門外
+    檢查是否有東西被磚瓦碎片砸到，發現告訴人所有之花盆掉
+    落在地，花盆裂開，旁邊並有一些磚瓦碎片等情（第一審卷
+    第104頁以下）。核與告訴人指述於聽到磚瓦掉落之聲響後
+    ，花盆掉落裂開等情相符（第一審卷第84頁）。被告雖然辯
+    稱：伊於案發時不在現場，應是伊住處大樓之磚瓦年久失修
+    ，瓦片自然掉落云云，但證人莊碧華既然已經證稱當時見到
+    被告在樓頂上，而且明確描述見到被告出現在樓頂的時間，
+    也與證人親身睡眠時間被驚醒的經驗相結合，更詳細描述當
+    時跑到樓上時，在三樓窗戶見到被告出現在樓頂，其證述內
+    容明確詳細，自具有高度可信性。而且在原審履勘現場時，
+    證人莊碧華並且指出見到被告出現在樓頂之窗戶（第一審卷
+    第51頁）以及被告所站立樓頂的位置（第一審卷第55頁），
+    與證言內容相符，證人莊碧華所證應屬事實。被告雖然一再
+    否認當時出現在現場，莊碧華無法透過窗戶觀察樓頂情況，
+    然被告亦坦承當天下午3時30分許出現在被害人<font color='red'>蔡慧玲</font>住處
+    ，而被告所稱外出運動，並無其他積極證據證明，上述證人
+    反而均證稱見到被告出現在樓頂，被告所辯自無可採信。被
+    告此部分之罪行可堪認定。
+(二)就被告無故侵入<font color='red'>蔡慧玲</font>住處部分，告訴人<font color='red'>蔡慧玲</font>證稱：被告
+    林太信跑到我家，沒經過我同意推開我家的門...。進入到
+    我第一道門裡面，第一道門是鐵門，被告進到我庭院裡面，
+    走到第二道綠色門前面（偵查卷第40頁、第一審卷86頁）。
+    指證被告侵入住宅之犯行。證人汪兆祥於偵查中證稱：…當
+    時<font color='red'>蔡慧玲</font>家沒關，林太信就自己走進院子裏面（偵查卷第23
+    頁），汪兆祥於審理中證稱被告係站在住家裡面，已經走到
+    柱子裡面庭院的位置（第一審卷第96頁）。兩位證人所述情
+    節相符，並有告訴人住宅照片可稽（第一審卷第50頁）。被
+    告此部分犯行應堪認定。被告雖然辯稱並非「無故」進入，
+    所為不構成犯罪，然按刑法第306條第1項所謂無故侵入他人
+    住宅，指無正當理由擅入他人住宅而言。如出於有權搜查之
+    職務上行為，自不能謂為無故侵入；上訴人與告訴人原係同
+    族，非無往還，微論初意原係拜年，縱因要求撤銷刑訴，冀
+    免訟累，而至告訴人家商懇，亦難謂為無故侵入他人住宅（
+    最高法院22年上字第891號、23年上字第5512號判例意旨參
+    照）。是所謂無故，係指無正當理由而言，正當理由雖不限
+    於法律上所規定者，仍需在日常生活習慣上所容許者而言。
+    本件被告與告訴人素無往還，業據告訴人於審理時證述在卷
+    ，又被告一進入告訴人庭院隨即以言語辱罵告訴人「妳在潑
+    婦罵街什麼？」乙語，足徵被告進入告訴人家中庭院並非意
+    在規勸，其所辯並非無故云云，自不足採信。
+(三)被告恐嚇<font color='red'>蔡慧玲</font>及汪兆祥二人犯行部分，告訴人<font color='red'>蔡慧玲</font>證稱
+    ：證人汪兆祥一直請被告不要這樣做...但他一直罵，指著
+    去年他砸我家的採光罩，說上次是砸屋頂，下次就砸人，被
+    告林太信又說「磚塊只會砸壞人，不會砸好人」等語。上開
+    言語並使告訴人害怕、生氣（偵查卷第40頁、第一審卷第87
+    頁）。證人汪兆祥亦證稱：被告有對其與告訴人<font color='red'>蔡慧玲</font>說：
+    「磚塊只會砸壞人，不會砸好人」，亦說：「上次是砸屋頂
+    ，下次就砸人」（偵查卷第23頁、第一審卷第98頁、第102
+    頁），並針對告訴人<font color='red'>蔡慧玲</font>說：「你要小心一點！」，證人
+    汪兆祥稱被告上開言論確實令人害怕（第一審卷第103頁）
+    。證人莊碧華又證稱：...是在我家裡面聽到幾句，當時吵
+    很大聲，我有聽到一句，被告說「磚塊只砸壞人，不會砸好
+    人」（第一審卷第105頁）。被告雖然辯稱並無惡意，亦無
+    恐嚇故意等語。然被告既然已經以瓦片從樓頂往下扔擲，而
+    被告當天與<font color='red'>蔡慧玲</font>、汪兆祥已心生怨隙，被告上開言詞自足
+    以令人產生將遭瓦片攻擊之畏懼感，被告所辯並無惡意，自
+    不可採信。
+(四)被告辱罵告訴人<font color='red'>蔡慧玲</font>之部分，此部分之事實業據被告坦承
+    在卷（偵查卷第20頁、第一審卷第47頁）。而告訴人<font color='red'>蔡慧玲
+    </font>於偵查中證稱：林太信當時衝進來我的庭院內，手指著對我
+    大聲罵「你剛剛在潑婦罵街什麼」（偵查卷第42頁），於審
+    理中證稱：被告於進入告訴人住宅後，講「你在潑婦罵街什
+    麼」（第一審卷第86頁）。證人汪兆祥亦證稱有所聽聞。（
+    偵查卷第23頁、第一審卷第97頁）。足證被告確有此部分之
+    犯行。
+三、本案事證明確，被告上開犯行均堪認定，應依法論科。被告
+    於原審另聲請傳喚花蓮縣警察局吉安分局北昌派出所3名員
+    警，以證明被告並未在派出所內自白上開毀損犯行云云，經
+    核並無必要，原審已裁定駁回，併此敘明。
+參、論罪科刑
+一、按住宅原屬建築物之一種，然因刑法第321條第1項第1款將
+    住宅與建築物為併列之規定，故二者之概念仍有予以區別必
+    要。前者指人類日常住居生活作息之場所；後者指住宅以外
+    上有屋面，周有門壁，足蔽風雨，供人出入，且定著於土地
+    之工作物而言。是供人日常生活起居作息之「建築物」中，
+    縱內部又配置供為蒔花養蘭、畜養寵物，健身休憩，晾曬衣
+    物等「用途」不同之工作室、健身房、陽台等房間、處所。
+    惟就整體觀察，均與生活起居之怡神養性、身心健全發展有
+    密切關聯，自應認各該處所仍為住宅之一部分；屋頂之陽台
+    ，當亦包括在內（最高法院82年度台上字第1809號裁判參照
+    ）。查本案被告侵入之處所，係告訴人居住之建築物前方，
+    有四週牆壁圍繞並有大門與外界相隔，上有採光罩，有現場
+    照片8張在卷可稽，該處既與住宅建築物本體相連，足供遮
+    蔽風雨，且供作置物及出入之日常生活使用，顯已成為住宅
+    之一部分；又被告對告訴人、汪兆祥2人恫稱：「上次是砸
+    屋頂，下次就砸人，磚塊只砸壞人，不會砸好人，妳小心一
+    點」等語，係以加害生命、身體之惡害通知告訴人及汪兆祥
+    2 人，前揭詞語衡情已足使人心生畏懼。
+二、故核被告所為，係犯刑法第354條之毀損罪、第306條第1項
+    之無故侵入住宅罪、第309條第1項之公然侮辱罪及第305條
+    之恐嚇罪。被告上開時間雖多次以言語恐嚇告訴人，仍係基
+    於同一恐嚇之目的，依一般社會健全觀念，難以強行分開，
+    應視為數個舉動之接續施行，合為包括之一行為予以評價。
+    被告同時對告訴人及汪兆祥2人恫稱：「上次是砸屋頂，下
+    次就砸人，磚塊只砸壞人，不會砸好人！」等語，侵害告訴
+    人及汪兆祥2人之自由法益，係一行為而觸犯數罪名，為想
+    像競合犯，應依恐嚇罪處斷。又檢察官雖未就被告恐嚇汪兆
+    祥部分起訴，然此部分與已起訴部分有想像競合犯一罪之關
+    係，自應併予審究。被告所犯上開各罪，犯意各別，行為互
+    殊，應分論併罰，檢察官於起訴書認被告係一行為分別觸犯
+    侵入住宅、公然侮辱及恐嚇罪，容有誤會，附予敘明。
+三、原審因而審酌被告無前科，素行良好，有臺灣高等法院被告
+    前案紀錄表1份在卷足參，與告訴人間為相鄰關係，被告長
+    久以往與鄰居相處不睦，致有上開犯行，以一恐嚇行為同時
+    使告訴人及汪兆祥2人心生畏懼，被告上開犯行致告訴人所
+    受之財產上及精神上之損害，被告犯後矢口否認犯行，未與
+    告訴人及汪兆祥和解，未見悔意等一切情狀，量處如原審判
+    決主文所示之刑，並諭知易科罰金之折算標準及就拘役部分
+    定其應執行之刑及易科罰金之折算標準，堪稱允當。
+四、被告上訴否認犯行，陳稱所為與犯罪構成要件不合，並無理
+    由，應予駁回。
+據上論斷，應依刑事訴訟法第368條判決如主文。
+本案經檢察官崔紀鎮到庭執行職務。
+中    華    民    國   102    年    6     月    28    日
+                  刑事庭審判長法  官  謝志揚
+                              法  官  林慶煙
+                              法  官  賴淳良
+以上正本證明與原本無異。
+本件不得上訴。
+中    華    民    國   102    年    6     月    28    日
+                              書記官  李芸宜</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWHLH\CRIMINAL\10206\28\HLHM1026S.008] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000045&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e4%b8%8a%e6%98%93%2c45%2c20130628%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%b8%8a%e6%98%93&jno=45&jdate=1020628&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=102%2c%e4%b8%8a%e6%98%93%2c45%2c20130628%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%b8%8a%e6%98%93&jno=45&jdate=1020628&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e4%b8%8a%e6%98%93%2c45%2c20130628%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','102','%e4%b8%8a%e6%98%93','45','1020628','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLH 臺灣高等法院 花蓮分院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡慧玲">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡慧玲">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

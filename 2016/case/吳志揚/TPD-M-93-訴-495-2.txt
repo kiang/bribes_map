@@ -1,0 +1,419 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣臺北地方法院-刑-93訴495</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第7
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e8%a8%b4&selectedCrmno=000495&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e8%a8%b4%2c495%2c20040712%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=495&jdate=930712&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=93%2c%e8%a8%b4%2c495%2c20040712%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=495&jdate=930712&jcheck=2">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('93%2c%e8%a8%b4%2c495%2c20040712%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e8%a8%b4','495','930712','2')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">93,訴,495</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">930712</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">洗錢防制法等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　　　　　　　九十三年度訴字第四九五號
+　　公　訴　人　臺灣臺北地方法院檢察署檢察官
+　　被　　　告　亥○○
+　　選任辯護人　張英傑律師
+　　被　　　告　己○○
+　　選任辯護人　<font color='red'>吳志揚</font>律師
+　　　　　　　　黃捷琳律師
+　　　　　　　　許德勝律師
+右列被告因洗錢防制法等案件，經檢察官提起公訴（九十二年度偵字第一三六八六號
+），本院判決如左：
+    主  文
+亥○○連續幫助以犯意圖為自己不法之所有，以詐術使人將本人之物交付之罪為常業
+，處有期徒刑拾月，緩刑貳年。扣案如附表一所示之物均沒收。
+己○○共同連續意圖營利違反非公務機關未經目的事業主管機關依電腦處理個人資料
+保護法登記並發給執照者，不得為個人資料之蒐集、電腦處理及利用之規定，處有期
+徒刑陸月，如易科罰金，以<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元折算壹日。扣案如附表二所示之物均沒收。
+    事  實
+一、緣天○○、地○○共同基於意圖為自己不法之所有並恃之為業之犯意聯絡，聘僱
+    有共同常業詐欺犯意聯絡之酉○○、庚○○、未○○、午○○、壬○○、癸○○
+    及其他不詳姓名之人為專員（天○○、地○○、酉○○、庚○○、未○○、午○
+    ○、壬○○、癸○○等八人另行審結），渠等以印製散發不實之刮刮樂宣傳單、
+    建華銀行貸款廣告單等方式，吸引因見聞前揭貸款廣告撥打電話之人，自九十一
+    年八月間起至九十二年五月止，向不特定人佯稱貸款需預收開辦費、保險費、時
+    程押金、手續費等名目，使需要貸款之民眾陷於錯誤而依指示匯款，計詐得新台
+    幣一千二百四十八萬七千二百二十九元。亥○○係經營印刷業務，其預見化名為
+    「王振德」之地○○於九十二年二月間所委託印製之「偉訓科技股份有限公司刮
+    刮樂傳單」（以下簡稱偉訓公司刮刮樂傳單）、九十二年三月間所委託印製之「
+    建華銀行貸款廣告單」（以下簡稱建華銀行貸款廣告），可能幫助他人從事常業
+    詐欺取財使用，竟基於幫助前開詐欺集團常業詐欺取財之未必故意概括犯意，分
+    別以新台幣四十萬元（其中雅唯公司抽取仲介費五萬元）、二十四萬元代價，先
+    後幫助前開詐欺集團印製偉訓公司刮刮樂傳單及建華銀行貸款廣告單各十萬份，
+    嗣於九十二年五月二十日經警持搜索票在亥○○位於台北縣板橋市○○路二十九
+    號五樓營業處所查獲，扣得如附表一所示犯罪所用或預備供犯罪所用之物。
+二、己○○係址設臺北市○○區○○路二八九號十一樓一一○二室「中華民國經貿企
+    業文化協會」（以下簡稱中華經貿協會）負責人，明知該協會於九十年底至九十
+    二年五月間，名義上雖以舉辦經貿文化活動為名，實際上卻係以蒐集或電腦處理
+    個人資料為主要業務之團體，而為電腦處理個人資料保護法所稱之「非公務機關
+    」，且該協會並未依規定向目的事業主管機關即交通部電信總局申請登記並領得
+    執照，依法不得為個人資料之蒐集及電腦處理，竟與中華經貿協會員工寅○○（
+    另行審結）及其他年籍不詳員工，共同基於意圖營利之概括犯意聯絡，自九十年
+    十月間起，由該協會所聘僱不知情之工讀生在外做市場調查或各公司行號員工名
+    冊之機會，蒐集包含邵大佑、戊○○、宇○○、呂伯賢等人之個人資料並利用電
+    腦將資料輸入、儲存、整理歸類，該協會並在網路上刊登廣告稱可出售各行號之
+    個人資料名單，自九十年底起至九十二年五月間止，多次將上開資料以每筆Ｏ
+    ．八元至一．五元代價，出售予前來購買之不特定公司行號及個人，所得款項再
+    由己○○與協會員工四六拆帳（己○○分得六成），共獲利五百七十萬元左右，
+    足以生損害於邵大佑、戊○○、宇○○、呂伯賢等人。嗣因寅○○先後於九十二
+    年三、四月間兩次以十五萬元之代價將前述違法蒐集之資料二十萬筆販售予地○
+    ○（惟己○○及寅○○均不知地○○供作詐欺之用），經警循線查獲始知上情，
+    並扣得如附表二所示之物。
+三、案經邵大佑、辛○○、宇○○、張燕華、甲○○、子○○、卯○○、李慧玲、丑
+    ○○○、申○○、辰○○、丁○○、建華銀行、台北銀行訴由臺北市政府警察局
+    大安分局報告暨丙○○、乙○○訴由臺北縣政府警察局板橋分局報告臺灣板橋地
+    方法院檢察署呈請臺灣高等法院檢察署檢察長令轉台灣台北地方法院檢察署檢察
+    官偵查起訴。
+    理  由
+一、亥○○部分：訊據被告亥○○固坦承於右揭時地印製前開傳單或廣告單之事實，
+    惟矢口否認有何幫助常業詐欺取財犯行，辯稱：其係透過雅唯公司轉介才會印製
+    前開傳單，只是負責代工，事後向雅唯公司請款工資，因此只對雅唯公司負責而
+    已，該傳單用作何用途其並不知情，若知道要做詐欺之用根本不會印製云云。經
+    查：證人即雅唯公司負責人戌○○證稱：偉訓公司刮刮樂傳單係雅唯公司轉介給
+    被告印刷沒錯，但因為該傳單太複雜了，所以後來就由被告直接跟「王振德」聯
+    絡，印刷前被告有說這個刮刮樂傳單怪怪的，是否有問題，其曾告訴被告看不出
+    來有問題。至於建華銀行貸款廣告單，雅唯公司根本未曾經手，是由被告直接與
+    「王振德」接洽聯繫等語（見本院九十三年六月二十八日審理筆錄），足見無論
+    是偉訓公司刮刮樂傳單或是建華銀行貸款廣告單，均係由被告直接與化名「王振
+    德」之地○○聯繫，被告亦自承曾與地○○討論過內容是否通順之問題，是被告
+    應知該傳單係由地○○委託印製，然地○○並非建華銀行或偉訓公司之員工，其
+    忽而委託被告印製建華銀行傳單，忽而委託被告印製偉訓公司刮刮樂傳單，顯與
+    常情有違，被告疏無毫不起疑之理。復觀之偉訓公司刮刮樂傳單所示，其對獎方
+    式係以刮刮樂彩券為之，特獎、頭獎獎品內容又高達二、三百萬元，顯非一般正
+    常公司為回饋客戶所為之作法及方式，而近來詐騙集團橫行，電視報章亦時有民
+    眾被騙之相關報導及宣導，被告亦曾向葉唯恭詢問是否有問題，足見其主觀上確
+    實可預見該傳單可能用來詐欺取財，然其為了謀取小利，仍舊予以印製，顯然對
+    於詐欺結果之發生並不違背其本意，被告有幫助前開詐欺集團常業詐欺之不確定
+    故意甚明，其辯稱並不知道該傳單用來犯罪云云，顯係卸責之詞，委無足採。
+二、己○○部分：訊據被告固坦承未向主管機關登記發給執照，而於右揭時地以電腦
+    處理前開蒐集而得之個人資料，並將之出售予他人牟利之事實，惟矢口否認有何
+    違反電腦處理個人資料保護法之犯行，辯稱：協會主要在幫廠商作Ｅ化的工作，
+    其不認為將資料賣給其他廠商構成犯罪云云，辯護人則辯以：電腦處理個人資料
+    保護法第三十三條係純正身分犯，其行為主體限於個資法第三條第六款之公務機
+    關或同條第七款之非公務機關，查該協會並非公務機關毫無疑問，又依協會章程
+    所示，該協會主要是在幫廠商辦活動、作Ｅ化，雖然有出售個人資料給廠商，但
+    這只是附加服務，而非以蒐集或電腦處理個人資料作為主要業務，亦非電腦處理
+    個人資料保護法第三條第七款第一項所指之「非公務機關」。且依該法第三條第
+    七款之立法意旨，非公務機關限於對所獲得或蒐集之個人資料負保密義務之團體
+    或個人，以保障當事人之隱私權，此由該條所例示之徵信業、醫院、學校、電信
+    業即可得證，因此該款所謂的「以蒐集或電腦處理個人資料為主要業務之團體」
+    ，當參照上開立法意旨進行解釋，然該協會所蒐集之個人資料來源為市場調查，
+    是當事人主動配合所蒐集而得之資料，應認當事人已同意公開，將之出售他人並
+    無違法云云，經查：
+    （一）該協會未經主管機關同意並發給執照，即自九十年十月間起蒐集、以電腦
+          處理邵大佑、辛○○、宇○○、戊○○等人之資料，意圖營利出售予他人
+          之事實，業據被告己○○於警訊中供稱：中華經貿協會在外做市場調查或
+          做公司員工名冊時蒐集個人資料後，存入電腦整理，並未得當事人同意將
+          個人資料以一筆五、六角至一元餘不等價格販售給他人，計有一兩百家客
+          戶向其購買，約販出有一百多筆個人資料，至被查獲時每月淨賺約二、三
+          十萬左右，共獲利五百七十萬元，而協會與員工是以業績來分帳，接洽者
+          可分得百分之三十至四十利潤等語（見己○○九十二年五月二十七日警訊
+          筆錄），核與共同被告寅○○供稱：其為該協會業務員，沒有底薪，以業
+          績分紅方式（以成交金額多寡採三七或四六分帳）與公司拆帳，其連續將
+          資料賣給不特定人，均未得當事人同意等語相符，及告訴人邵大佑、呂柏
+          賢、宇○○、張燕華（被害人戊○○之法定代理人）指訴明確，並有附表
+          二所示之物扣案可佐，及中華經貿協會網頁資料、電腦個人資料、中華民
+          國經貿企業文化協會ＮＯ．００１８８０快速雷射列印服務申請書附卷可
+          參，又該協會未經目的事業主管機關依該法規定登記並發給執照等情，亦
+          有交通部電信局電腦處理個人資料登記事項一紙附卷可證。
+  　（二）被告及辯護人雖辯稱該協會並非電腦處理個人資料保護法第三條第七款所
+          稱之「非公務機關」，然查，該法第三條第七款規定：「非公務機關：指
+          前款以外之左列事業、團體或個人」，第一項規定「徵信業及以蒐集或電
+          腦處理個人資料為主要業務之團體或個人」，是以該團體或個人只要以「
+          蒐集或電腦處理個人資料為主要業務」，即為該法所稱之「非公務機關」
+          ，至於該團體或個人是否尚有其他業務均非所問。查本件中華經貿協會之
+          章程第二條雖記載「推動文化建設、結合產官學界及有志人士，就產業升
+          級發揚產業文化、提昇文化產業... 」，證人即該協會員工巳○○亦證稱
+          ：協會主要是在幫廠商辦頒獎活動、協助廠商Ｅ化等語（見本院九十三年
+          六月二十八日審理筆錄），惟證人巳○○證稱：員工出售個人資料給廠商
+          ，不可向協會抽成云云，所證與被告己○○及共犯寅○○所供情節完全相
+          反，不足採信，而被告一再供稱協會之主要業務是在幫廠商辦活動、作Ｅ
+          化，卻無法提出九十年底至九十二年五月間協會之報稅資料或與廠商往來
+          發票證明協會主要業務為何，僅空言否認犯行，實無足採。反觀依九十二
+          年五月二十七日檢察官搜索時，在中華經貿協會www.886.info/與
+          www.886.info/name/index.htm網頁上所列印下來之網頁資料所示，其上
+          記載：「服務內容：您還在為了開發市場傷腦筋嗎？您在找異業名單資料
+          or同業對手客戶資料嗎？您總是找不到客戶而想找行動電話名單嗎？您需
+          要找非類電子郵件名單嗎？ＥＡＣ中心（即中華經貿協會）提供您最有效
+          的名單，祝您行銷無網不利」，「ＥＡＣ中心提供您長年的蒐集資料建檔
+          ，及無數次的專業電腦交叉比對為您提供最準確的客戶名單達成有效行銷
+          ，讓您行銷商場無網不利」、「收費說明：壹：工商資料庫全省公司行號
+          約二百萬筆提供欄位內容如下．．．貳：個人資料庫提供欄位如下．．．
+          參、Ｅ－ｍａｉｌ名單分年齡地區每筆壹元．．．請與我們聯絡00-0
+          0000000洽伍先生」，「工商名錄：全國公司行號．．．全國工廠
+          名單．．．各行業別．．．社會團體、公會名單．．．教育事業名單．．
+          ．同業公會名單．．．其他各類特定資料庫」等，不僅對於幫廠商辦Ｅ化
+          或頒獎活動之收費標準、項目等均付之闕如，反而網頁全部都是關於出售
+          個人資料之目錄及介紹，且證人巳○○亦證稱：協會在去年只有上開網站
+          ，後來有轉化，現在才另外成立一個新的網站等語（見本院九十三年六月
+          二十八日審理筆錄），是該協會於遭查獲時既然只有上開網站作為廣告，
+          此益證該協會斯時係以蒐集及電腦處理個人資料為主要業務之團體無誤，
+          縱使該協會於查獲後變更網站資料未再從事上開違法犯行，亦難免除其前
+          開刑責。至於辯護人另辯稱上開資料是在當事人同意下蒐集而來，應認當
+          事人已默許公開，是以將之出售他人並無違法云云，惟依該法第十九條所
+          示，未經申請許可、登記並發給執照而為個人資料之蒐集、電腦處理，即
+          違反該法第十九條之規定，至於其所為個人資料之蒐集或電腦處理是否經
+          過當事人同意，則係是否另外構成同法第十八條之問題，固縱使如辯護人
+          所述所蒐集之資料當事人已默許公開，然僅能謂被告不違反同法第十八條
+          之規定而已（惟公訴人亦未起訴被告違反第十八條規定），仍難解於其違
+          反第十九條犯行之成立。
+    綜上所述，本件事證明確，被告犯行應堪認定。
+二、核被告亥○○所為，係犯係犯刑法第三百四十條常業詐欺之幫助犯，其先後多次
+    幫助常業詐欺犯行，時間緊接，觸犯構成要件相同罪名，顯係基於概括犯意為之
+    ，依連續犯規定以常業詐欺之幫助犯一罪論，並加重其刑（按刑法並無常業幫助
+    犯之規定，故僅能論以連續幫助犯，又其等就幫助常業詐欺之犯行，應各負幫助
+    常業詐欺責任，而不成立共同正犯 (最高法院三十三年度上字第七九三號判例參
+    照)）。另其係以幫助之犯意而實施構成要件以外之行為，為幫助犯，應依刑法
+    第三十條第二項之規定減輕其刑，並先加重後減輕之；被告己○○意圖營利違反
+    電腦處理個人資料保護法第十九條之規定，致生損害於邵大佑、戊○○、宇○○
+    、呂伯賢之隱私權，應依同法第三十三條規定論處，其與寅○○及其他姓名不詳
+    員工有犯意聯絡及行為分擔，為共同正犯，又其先後多次犯行，時間緊接，觸犯
+    構成要件相同之罪名，顯均係基於概括犯亦為之，依連續犯規定以一罪論並加重
+    其刑。爰審酌被告亥○○預見其所為可能幫助他人犯罪卻仍為之，助長詐欺集團
+    之犯行，造成社會大眾之損害，然犯後深表後悔顯有悔意；而被告己○○出售資
+    料予他人牟利，獲利甚多，其行為侵害社會大眾隱私權甚鉅，庭訊中被告雖不否
+    認未申請許可即蒐集、以電腦處理個人資料出售予他人牟利之事實，然自始至終
+    均辯稱其行為係合法，顯然極端欠缺保護他人隱私之法制概念，惡性甚鉅等情狀
+    ，分別量處如主文所示之刑，被告己○○並諭知易科罰金之折算標準，以示懲儆
+    。又被告亥○○前未曾受有期徒刑以上刑之宣告，有台灣高等法院被告全國前案
+    紀錄表可徵，本院認其等犯罪情狀尚屬輕微，因一時失慮致罹刑典，事後已坦承
+    犯行，深具悔意，信其經此論罪科刑之教訓，應知警惕而無再犯之虞，本院認前
+    開對其宣告之刑以暫不執行為適當，併予宣告如主文所示之緩刑，用啟自新。至
+    被告己○○雖亦未曾受有期徒刑以上刑之宣告，然其自始否認犯行，極端欠缺法
+    制概念，且其行為造成社會大眾處於隱私權隨時遭侵害之風險中，是本院認其仍
+    應接受刑罰之制裁，始足收應報及教化大眾之效，故爰不另就被告己○○為緩刑
+    之諭知，附此敘明。末查，附表一、二為被告亥○○、己○○及共犯寅○○所有
+    供犯罪所用或預備供犯罪所用之物，業據被告供承在卷，爰依刑法第三十八條第
+    一項第二款規定沒收。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段，電腦處理個人資料保護法第
+三十三條，刑法第十一條前段、第二十八條、第五十六條、第三百四十條、第三十條
+第一項、第二項、第四十一條第一項前段、第七十四條第一款、第三十八條第一項第
+二款，罰金罰鍰提高標準條例第一條前段、第二條，判決如主文。
+本案經檢察官葉雅婷到庭執行職務
+中　　　華　　　民　　　國　　九十三　　年　　　七　　　月　　 十二 　　日
+                                      臺灣臺北地方法院刑事第三庭
+                                          審判長法官  劉慧芬
+                                              法  官  吳冠霆
+                                              法  官  蔡如琪
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內，向本院提出上訴狀。
+                                              書記官  黃鈴容
+中　　　華　　　民　　　國　　九十三　　年　　　七　　　月　　 十三 　　日
+附錄法條
+中華民國刑法第三百四十條
+以犯第三百三十九條之罪為常業者，處一年以上七年以下有期徒刑，得併
+科五萬元以下罰金。
+電腦處理個人資料保護法第三十三條
+意圖營利違反第七條、第八條、第十八條、第十九條第一項、第二項、第
+二十三條之規定或依第二十四條所發布之限制命令，致生損害於他人者，
+處二年以下有期徒刑、拘役或科或併科新臺幣四萬元以下罰金。
+附表一
+┌──┬───────┬──────────────────┐
+│編號│所有人        │供犯罪所用或預備供犯罪所用之物      │
+├──┼───────┼──────────────────┤
+│一  │亥○○        │建華銀行信貸版面光碟一片            │
+│    │              ├──────────────────┤
+│    │              │名條光碟三片                        │
+│    │              ├──────────────────┤
+│    │              │刮刮樂文宣三百三十張                │
+├──┼───────┼──────────────────┤
+│二  │同上          │建華銀行宣傳單八萬份、信封八萬個、已│
+│    │             │裝入宣傳單郵件一萬份                │
+└──┴───────┴──────────────────┘
+附表二
+┌──┬──────┬────────────────┐
+│編號│所有人      │供犯罪所用或預備供犯罪所用之物  │
+├──┼──────┼────────────────┤
+│一  │己○○、袁惠│出貨單一張                      │
+│    │祥          ├────────────────┤
+│    │            │電腦名條七箱                    │
+│    │            ├────────────────┤
+│    │            │電腦主機一台                    │
+│    │            ├────────────────┤
+│    │            │電腦主機拮錄燒製之資料光碟一片  │
+└──┴──────┴────────────────┘
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[E:\Judday\OK\LAWTPD\CRIMINAL\9307\12\TPDM937C.026] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[2]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第7
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e8%a8%b4&selectedCrmno=000495&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%bf%97%e6%8f%9a&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%bf%97%e6%8f%9a&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e8%a8%b4%2c495%2c20040712%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=495&jdate=930712&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=93%2c%e8%a8%b4%2c495%2c20040712%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=495&jdate=930712&jcheck=2">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('93%2c%e8%a8%b4%2c495%2c20040712%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e8%a8%b4','495','930712','2')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳志揚">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳志揚">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,395 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-花蓮分院-刑-103上易10</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 花蓮分院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000010&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c10%2c20140521%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=10&jdate=1030521&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c10%2c20140521%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=10&jdate=1030521&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c10%2c20140521%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','10','1030521','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,上易,10</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030521</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院花蓮分院刑事判決　　　　 103年度上易字第10號
+上　訴　人　臺灣花蓮地方法院檢察署檢察官
+被　　　告　<font color='red'>周芷萱
+</font>選任辯護人　許正次律師（法律扶助基金會指派）
+上列上訴人因被告詐欺案件，不服臺灣花蓮地方法院102年度原
+易字第67號中華民國102年11月28日第一審判決（起訴案號：臺
+灣花蓮地方法院檢察署102年度偵字第1968號），提起上訴，本
+院判決如下：
+    主  文
+上訴駁回。
+    理  由
+一、臺灣花蓮地方法院檢察署檢察官在原審法院之公訴意旨略以
+    ：被告<font color='red'>周芷萱</font>（原名：周Ｏ鳳、彭Ｏ鳳，原身分證統一編號
+    ：Z000000000號）依一般社會生活之通常經驗，應可預見提
+    供自己之金融帳戶存摺、金融卡、密碼等供他人使用，可能
+    供用於幫助詐欺罪，資為遂行詐欺犯行之工具，竟仍基於幫
+    助詐欺之不確定故意，分別於民國101年10月上旬，在屏東
+    市某夜市將其所有之合作金庫銀行林口分行帳號0000000000
+    000號帳戶（下稱合庫林口帳戶）之存摺、金融卡、密碼等
+    均提供予在臺中市潭子區大豐路開設「ＯＯＯＯ服飾精品店
+    」之蘇碧珠及其所屬之詐欺集團成員使用，幫助該詐欺集團
+    成員從事詐欺取財之犯行。而詐欺集團成員取得上開帳戶後
+    ，即基於詐欺取財之犯意，於101年10月20日上午9時許，自
+    稱「王經理」以0000-000000號之來電顯示撥打電話給告訴
+    人游寶茜（原名：游Ｏ萍），佯稱告訴人游寶茜先前因認識
+    「陳嘉賢」而投資之海外基金已輪序到位，要求告訴人游寶
+    茜於隔日匯款港幣38,000元，致告訴人游寶茜陷於錯誤，於
+    同年月23日下午1時21分許匯款新臺幣（下同）106,400元至
+    合庫林口帳戶，旋遭提領；該集團成員復告知告訴人游寶茜
+    其投資金額不足，使游寶茜不疑有他，再於同年月25日上午
+    9時18分許、同年月29日中午12時22分許，各匯款15萬元、2
+    萬元至合庫林口帳戶，亦均即遭提領。嗣游寶茜發覺有異而
+    報警處理，始循線查獲上情；因認被告涉犯刑法第30條第1
+    項前段、第339條第1項幫助詐欺取財罪嫌等語。
+二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實；不
+    能證明被告犯罪或其行為不罰者，應諭知無罪之判決，刑事
+    訴訟法第154條第2項、第301條第1項分別定有明文。次按事
+    實之認定，應憑證據，如未能發現相當證據，或證據不足以
+    證明，自不能以推測或擬制之方法，以為裁判之基礎；又認
+    定犯罪事實所憑之證據，雖不以直接證據為限，間接證據亦
+    包括在內，然而無論直接或間接證據，其為訴訟上之證明，
+    須於通常一般之人不致有所懷疑，而得確信其為真實之程度
+    者，始得據為有罪之認定；再認定不利於被告之事實，須依
+    積極證據，苟積極證據不足為不利於被告事實之認定時，即
+    應為有利於被告之認定，更不必有何有利之證據，最高法院
+    40年台上字第86號、76年台上字第4986號及30年上字第816
+    號分別著有判例意旨可資參照。
+三、檢察官起訴被告涉犯前揭罪嫌，無非以被告<font color='red'>周芷萱</font>於警詢、
+    偵查之供述及被害人游寶茜於警詢之指述，並以卷附之合作
+    金庫銀行林口分行101年12月24日合金林口存字第000000000
+    0號及所附之被告<font color='red'>周芷萱</font>身分證影本、合作金庫銀行林口分
+    行帳號00000000000000號帳戶自101年5月29日至101年11月1
+    日往來交易明細表、合作金庫存款憑條等件，為其論據。訊
+    之被告固承認於前揭時地將合庫林口帳戶提供予蘇碧珠，惟
+    堅決否認有何幫助詐欺取財犯行，辯稱：伊僅是基於朋友立
+    場，因蘇碧珠店內經營有轉帳的需求才借予蘇碧珠使用，伊
+    不知蘇碧珠會拿去為犯罪行為等語，辯護人則以：被告主觀
+    上無幫助故意，亦無法預見蘇碧珠及其所屬詐欺集團之犯行
+    ，公訴人所提之證據無法證明被告有幫助詐欺取財之犯行等
+    語置辯。
+四、經查：
+  (一)被告曾於上開時地將合庫林口帳戶提供予蘇碧珠後，於101 
+    年10月20日被害人游寶茜遭詐騙集團詐騙匯款至被告所有之
+    合庫林口帳戶等情，業經被告於警詢、偵查中及原審訊問時
+    坦承在卷，核與被害人游寶茜於警詢之指述相符，並有被害
+    人游寶茜之臺北市政府警察局信義分局六張犁派出所陳報單
+    、受理各類案件紀錄表、內政部警政署反詐騙諮詢專線紀錄
+    表、受理詐騙帳戶通報警示簡便格式表、被害人游寶茜之戶
+    籍謄本、身分證影本、金融機構聯防機制通報單、合作金庫
+    銀行林口分行101年12月24日合金林口存字第0000000000號
+    及所附之被告<font color='red'>周芷萱</font>身分證影本、合作金庫銀行林口分行帳
+    號00000000000000號帳戶自101年5月29日至101年11月1日往
+    來交易明細表、戶役政連結作業系統、威寶電信門號000000
+    0000資料查詢、經濟部商業司商業資料查詢在卷可參，則客
+    觀上被害人游寶茜因詐騙集團詐騙陷於錯誤匯款至被告所有
+    之合庫林口帳戶，堪以認定。
+  (二)惟按提供帳戶予他人之原因非一，蓄意犯罪者固然不少，因
+    被騙、遺失而成為被害人之情形，亦所在多有，非必然出於
+    幫助他人實施犯罪之故意。是交付帳戶而幫助詐欺罪之成立
+    ，必須幫助人於行為時，明知或可得而知，被幫助人將持其
+    所交付之帳戶向他人詐取財物，如出賣、出租或借用等情形
+    ，或能推論其有預知該帳戶被使用詐取他人財物之可能；反
+    之，如非基於自己自由意思而係因遺失、被脅迫、遭詐欺等
+    原因而交付，則交付金融機構帳戶之人並無幫助犯罪之意思
+    ，亦非認識收受其金融機構帳戶者將持以對他人從事詐欺取
+    財等財產犯罪而交付，則其交付金融機構帳戶之相關資料時
+    ，既不能預測其帳戶將被他人作為詐欺取財等財產犯罪之工
+    具，則其交付金融機構帳戶相關資料之行為，即不能成立幫
+    助詐欺取財罪。經查證人呂宜蓓於原審審理中證稱：伊與蘇
+    碧珠是ＯＯＯ關係，蘇碧珠是在賣衣服的，當初蘇碧珠說要
+    借帳戶因為她的服飾店貨款、薪水要支出，她的帳戶有問題
+    怕被扣款，本來要跟伊借，但因伊信用不好，所以她才想到
+    要跟被告借，她與被告聯絡後，兩人約在101年10月4、5日
+    時候，在屏東夜市向被告借合作金庫帳戶，因為蘇碧珠當時
+    也有找伊，所以伊跟被告一起去屏東夜市與蘇碧珠見面，伊
+    有看到被告拿合庫存摺、印章與提款卡給蘇碧珠，提款卡密
+    碼寫在提款卡裡面，當時蘇碧珠跟被告說她有一些薪資要轉
+    帳要借用帳戶，大約一、二個禮拜就會歸還，後來時間到了
+    ，蘇碧珠還沒還，伊有打電話問蘇碧珠，蘇碧珠說還沒好，
+    要再延一段時間，然後蘇碧珠就說還想再借一個帳戶，這樣
+    處理比較快，到時候兩個帳戶一起還，被告就又借了一個帳
+    戶與蘇碧珠等語，則證人呂宜蓓前開證述不僅與被告之辯稱
+    相符，且證人呂宜蓓與被告為朋友關係、與蘇碧珠為表姊妹
+    關係，自無偏頗任何一方之可能，是被告曾將合庫林口帳戶
+    借予蘇碧珠之事實，堪認為真實。檢察官上訴泛謂證人呂宜
+    蓓之證詞，不足採信云云，並無所據。
+  (三)按「出借帳戶予他人」並非法律上所規範幫助詐欺取財罪之
+    構成要件行為。「出借帳戶予他人」之行為，是否構成幫助
+    詐欺取財罪，仍應審酌社會常情，就雙方當事人之關係？借
+    用是原因為何？予以綜合評價。經調查結果，被告曾將合庫
+    林口帳戶借予蘇碧珠等情，已如前述。又本院審酌被告與蘇
+    碧珠係朋友關係，兩人並非甫相識、不熟識、不知姓名或聯
+    繫方式之人，而蘇碧珠因信用不好，向被告借用合庫林口帳
+    戶，並借用提款卡提款，已認定如前，是被告於101年10月
+    間借用並交付合庫林口帳戶之存簿、提款卡及密碼予蘇碧珠
+    ，尚非出於幫助詐欺之故意或其他非法之行為而為之。此外
+    ，本案檢察官並未舉證證明被告事前知悉該帳戶要交予詐騙
+    集團成員使用，則蘇碧珠嗣後用以詐騙他人或自行將提款卡
+    及密碼轉交予何人，即與被告無涉，應由蘇碧珠或他人負幫
+    助詐欺之罪責。被告基於信任關係將合庫林口帳戶存簿、提
+    款卡借予蘇碧珠使用，其主觀上並無預見蘇碧珠會將合庫林
+    口帳戶用以詐騙或交予他人或輾轉流入詐騙集團之成員，是
+    被告單純交付予合庫林口帳戶存簿、提款卡予蘇碧珠，無從
+    遽認被告確有幫助詐欺之犯意甚明。又縱使被告曾收取蘇碧
+    珠所主動交付之謝酬若干，亦不足徒憑此點即推定被告必有
+    幫助詐欺之故意。
+  (四)公訴意旨雖謂：被告於101年11月7日前往合作金庫辦理掛失
+    並申請補發存摺，竟於補摺後均未發現其合庫林口帳戶有異
+    常存提歷史交易明細，且遲未報警處理，與常情顯然相悖等
+    語作為論據，惟經原審函調被告於101年11月6日向合作金庫
+    商業銀行屏南分行申請補發存摺及金融卡申請書並調查被告
+    合庫林口帳戶補發存簿後，被告確實於101年11月6日前往合
+    作金庫商業銀屏南分行補發存摺及金融卡，而補發存簿中未
+    有101年11月6日前存提款歷史交易明細，有合作金庫商業銀
+    行屏南分行102年7月12日合庫屏南存字第0000000000號函及
+    合作金庫銀行綜合存款存摺（補發）帳號0000000000000號
+    及存簿內頁影本在卷可參，則公訴意旨上開所述，顯有誤會
+    。
+  (五)綜上，被告雖有將合庫林口帳戶存簿、提款卡、密碼交予蘇
+    碧珠，而該帳戶遭詐欺集團行騙所用，然並無證據證明被告
+    主觀上確有預見或知悉該系爭帳戶會遭證人蘇碧珠用以詐騙
+    或由他人手中流入詐欺集團成員使用，則被告主觀上是否有
+    幫助詐欺取財之不確定故意，確有存疑。
+五、綜上所述，檢察官所提出之證據，僅能證明被告之合庫林口
+    帳戶遭詐欺集團行騙所用之事實，惟尚不足以使本院獲有超
+    越合理懷疑之有罪確信，認定被告確有被訴之幫助詐欺取財
+    犯行。此外，復查無其他積極證據足資證明被告有公訴人所
+    指此部犯罪，揆諸前揭說明意旨，原審本於「罪疑唯輕」原
+    則，認被告之幫助詐欺取財行為不能證明，依法為被告無罪
+    之諭知，認事用法，並無違誤，採證上亦無違背證據、經驗
+    及論理法則。檢察官上訴猶執前詞，任意就原審採證認事依
+    職權行使之事項為指摘，求予撤銷改判為被告有罪之判決云
+    云，並無理由，應予駁回。
+六、退併辦部分（臺灣花蓮地方法院檢察署103年度偵字第189號
+    、103年度偵字第190號）：
+  (一)移送併辦意旨略以：被告<font color='red'>周芷萱</font>（原名：周Ｏ鳳、彭Ｏ鳳，
+    原身分證統一編號：Z000000000號）依一般社會生活之通常
+    經驗，應可預見提供自己之金融帳戶存摺、金融卡、密碼等
+    供他人使用，可能供用於幫助詐欺罪，資為遂行詐欺犯行之
+    工具，竟仍基於幫助詐欺之不確定故意，於101年10月上旬
+    ，在屏東市某夜市將其所有之合庫林口帳戶、中華郵政花蓮
+    吉安太昌郵局帳號00000000000000號帳戶（下稱太昌郵局帳
+    戶）之存摺、金融卡、密碼等均提供予在臺中市潭子區大豐
+    路開設「ＯＯＯＯ服飾精品店」之蘇碧珠及其所屬之詐欺集
+    團成員使用，幫助該詐欺集團成員從事詐欺取財之犯行。而
+    詐欺集團成員取得上開帳戶後，即基於詐欺取財之犯意，分
+    別為下列犯行：
+  1.於101年10月8日某時許，自稱「陳惠娟」以不詳門號撥打電
+    話給郭木全，佯稱郭木全先前因香港搖馬會明牌而匯款之幣
+    別有誤，要求郭木全匯款補足港幣與新臺幣之匯差，致郭木
+    全陷於錯誤，分別於同年月8日、8日、9日、11日各匯款55,
+    200元、45,600元、43,500元、32,500元至合庫林口帳戶，
+    旋遭提領。
+  2.於101年10月8日上午10時許，自稱「陳慧娟」以不詳門號撥
+    打電話給蔡淑卿，佯稱蔡淑卿因參加香港馬會彩券局儲蓄海
+    外基金會，須繳交港幣36,000元折合新臺幣136,800元之基
+    本會員費，致蔡淑卿陷於錯誤，分別於101年10月9日、11日
+    、30日、31日各匯款36,000元、70,800元、20,000元、10,0
+    00元至合庫林口帳戶，旋遭提領。
+  3.於101年10月16日下午3時許，自稱為蔡春美之友人吳虹蓮以
+    行動電話門號0000-000000號撥打電話給蔡春美，佯稱其因
+    急用欲向蔡春美借貸20萬元，致蔡春美陷於錯誤，於101年
+    10月月17日匯款6萬元至太昌郵局帳戶，旋遭提領。因認被
+    告此部分所為，亦涉刑法第30條第1項前段、第339條第1項
+    之幫助詐欺取財罪嫌，與本案起訴部分有想像競合犯之裁判
+    上一罪關係。
+  (二)然而，本院既認本案起訴部分應維持原審所為被告無罪之諭
+    知，而駁回檢察官之上訴，自與併辦部分不生裁判上一罪關
+    係，上開併辦部分，非在本院審理範圍之內，應退回檢察官
+    另為適法之處理，併此敘明。
+據上論斷，應依刑事訴訟法第368條，判決如主文。
+本案經檢察官謝耀德到庭執行職務
+中    華    民    國    103    年    5    月    21    日
+                   刑事庭審判長法  官  謝志揚 
+                               法  官  賴淳良
+                               法  官  張健河
+以上正本證明與原本無異。
+本件不得上訴。
+中    華    民    國    103    年    5    月    21    日
+                               書記官  徐文彬</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWHLH\CRIMINAL\10305\21\HLHM1035L.003] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000010&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c10%2c20140521%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=10&jdate=1030521&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c10%2c20140521%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=10&jdate=1030521&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c10%2c20140521%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','10','1030521','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLH 臺灣高等法院 花蓮分院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="周芷萱">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="周芷萱">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

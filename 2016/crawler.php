@@ -87,6 +87,7 @@ $tmpPath = dirname(__DIR__) . '/tmp/2016';
 if (!file_exists($tmpPath)) {
     mkdir($tmpPath, 0777);
 }
+$logFh = fopen($tmpPath . '/error.log', 'a+');
 
 $fh = fopen(__DIR__ . '/list.csv', 'r');
 fgetcsv($fh, 2048);
@@ -137,37 +138,37 @@ while ($line = fgetcsv($fh, 2048)) {
             $content = curl_exec($curl);
 
             if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
-                error_log($content);
-                throw new Exception('test3');
+                fputs($logFh, "{$case_url}?id={$j}&{$param}\n");
+            } else {
+                $print_url = $matches[1];
+                $query = parse_url($print_url, PHP_URL_QUERY);
+                parse_str($query, $ret);
+                /*
+                  ["jrecno"]=>
+                  string(26) "104,司促,2243,20150130,1"
+                  ["v_court"]=>
+                  string(28) "TPD 臺灣臺北地方法院"
+                  ["v_sys"]=>
+                  string(1) "V"
+                  ["jyear"]=>
+                  string(3) "104"
+                  ["jcase"]=>
+                  string(6) "司促"
+                  ["jno"]=>
+                  string(4) "2243"
+                  ["jdate"]=>
+                  string(7) "1040130"
+                  ["jcheck"]=>
+                  string(1) "1"
+                 */
+                $court = explode(' ', $ret['v_court'])[0];
+                $path = __DIR__ . "/case/{$line[0]}";
+                if (!file_exists($path)) {
+                    mkdir($path, 0777, true);
+                }
+                file_put_contents($path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt", $content);
+                echo "http://judicial.ronny.tw/{$court}/{$ret['v_sys']}/{$ret['jyear']}/" . urlencode($ret['jcase']) . "/{$ret['jno']}\n";
             }
-            $print_url = $matches[1];
-            $query = parse_url($print_url, PHP_URL_QUERY);
-            parse_str($query, $ret);
-            /*
-              ["jrecno"]=>
-              string(26) "104,司促,2243,20150130,1"
-              ["v_court"]=>
-              string(28) "TPD 臺灣臺北地方法院"
-              ["v_sys"]=>
-              string(1) "V"
-              ["jyear"]=>
-              string(3) "104"
-              ["jcase"]=>
-              string(6) "司促"
-              ["jno"]=>
-              string(4) "2243"
-              ["jdate"]=>
-              string(7) "1040130"
-              ["jcheck"]=>
-              string(1) "1"
-             */
-            $court = explode(' ', $ret['v_court'])[0];
-            $path = __DIR__ . "/case/{$line[0]}";
-            if (!file_exists($path)) {
-                mkdir($path, 0777, true);
-            }
-            file_put_contents($path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt", $content);
-            echo "http://judicial.ronny.tw/{$court}/{$ret['v_sys']}/{$ret['jyear']}/" . urlencode($ret['jcase']) . "/{$ret['jno']}\n";
         }
     }
     file_put_contents($tmpPath . '/' . $line[0], '1');

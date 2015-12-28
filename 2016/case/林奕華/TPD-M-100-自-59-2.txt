@@ -1,0 +1,515 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣臺北地方法院-刑-100自59</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
+											筆 / 現在第3
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%87%aa&selectedCrmno=000059&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%87%aa%2c59%2c20110930%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=59&jdate=1000930&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e8%87%aa%2c59%2c20110930%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=59&jdate=1000930&jcheck=2">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%87%aa%2c59%2c20110930%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%87%aa','59','1000930','2')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,自,59</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000930</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誹謗等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　 100年度自字第59號
+自　訴　人　范揚松
+自訴代理人　吳家業律師
+被　　　告　柯美全
+　　　　　　陳神章
+共　　　同
+選任辯護人　黃琪雯律師
+　　　　　　曾國龍律師
+上列被告因誹謗等案件，經自訴人提起自訴，本院判決如下：
+    主  文
+柯美全、陳神章均無罪。
+    理  由
+一、自訴意旨略以：被告陳神章與柯美全為翁婿關係，被告陳神
+    章之妻陳徐桂蘭（下逕稱其名）與自訴人同為臺北市○○區
+    ○○路4 段85巷之至善公寓（下稱至善公寓）區分所有權人
+    之一，民國98年間，被告2 人與陳徐桂蘭因自訴人訴請陳徐
+    桂蘭將至善公寓區分所有權人共有之門牌號碼為臺北市文山
+    區○○○路○段150巷53號地下室（下稱系爭地下室）部分返
+    還自訴人及其他共有人全體而結怨，嗣因自訴人將前開地下
+    室委由他人施工裝修，遭部分共有人向臺北市政府工務局建
+    築管理處（下稱北市建管處）檢舉違規，適至善公寓區分所
+    有權人於100年1月8日下午1時，在臺北市文山區○○○路○
+    段150巷35號萬年里里民/活動中心召開第1次區分所有權人
+    會議（下稱系爭會議），詎被告柯美全於系爭會議中發言稱
+    ：「范先生他這種行為，他不是非常人，我認為是他當教授
+    哦，他是書不知讀到哪裡去！…我覺得他讀很多書，但是書
+    不知讀到哪裡去！。」等語；被告陳神章則於前開會議中發
+    言稱：「市政府都給他隱瞞起來，包庇、瀆職啦！范先生，
+    是外交很好，他外交很好啦，他有辦法去給市政府搓得圓圓
+    的，市政府所有的回文都沒有給我們…」等語。因認被告柯
+    美全涉犯刑法第309條第1項之公然侮辱、被告陳神章涉犯刑
+    法第310條第1項之誹謗罪嫌云云。
+二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實。又
+    不能證明被告犯罪者，應諭知無罪之判決。此為刑事訴訟法
+    第154條第2項、第301條第1 項分別所明定，並於同法第343
+    條就自訴程序設有準用之明文。而所謂認定犯罪事實之證據
+    ，係指足以認定被告確有犯罪行為之積極證據而言，該項證
+    據自須適合於被告犯罪事實之認定，始得採為斷罪資料，如
+    未能發現相當證據，或證據不足以證明，自不能以推測或擬
+    制之方法，以為裁判之基礎；而被告否認犯罪事實所持之辯
+    解，縱屬不能成立，仍非有積極證據足以證明其犯罪，不能
+    遽為有罪之認定；其以情況證據（即間接證據）斷罪時，尤
+    須基於該證據在直接關係上所可證明之他項情況事實，本乎
+    推理作用足以確證被告有罪，方為合法，不得徒憑主觀上之
+    推想，將一般經驗上有利被告之其他合理情況逕予排除；且
+    無論直接或間接證據，其為訴訟上之證明，須於通常一般之
+    人均不致有所懷疑，而得確信其為真實之程度者，始得據為
+    有罪之認定，倘其證明尚未達到此一程度，而有合理之懷疑
+    存在，致法院無從為有罪之確信，自應為無罪之判決（最高
+    法院40年臺上字第86號、30年上字第1831號、32年上字第67
+    號及76年臺上字第4986號判例意旨參照）。又檢察官就被告
+    犯罪事實，應負舉證責任，並指出證明之方法，此為刑事訴
+    訟法第161條第1項所明定。因此，檢察官對於起訴之犯罪事
+    實，應負提出證據及說服之實質舉證責任。其所提出之證據
+    ，不足為被告有罪之積極證明，或其指出證明之方法，無從
+    說服法院以形成被告有罪之心證，基於無罪推定之原則，自
+    應為被告無罪判決之諭知。而自訴程序中，除其中第161 條
+    第2 項起訴審查之機制、同條第3、4項以裁定駁回起訴之效
+    力，自訴程序已分別有第326條第3、4項及第334條之特別規
+    定足資優先適用外，關於第161條第1項檢察官應負實質舉證
+    責任之規定，亦於自訴程序之自訴人同有適用（最高法院91
+    年度第4 次刑事庭會議決議參照）。是以，自訴人對於被告
+    之犯罪事實，亦應負前揭實質舉證責任。另自訴人之指訴係
+    以使被告受刑事訴追為目的，是其陳述是否與事實相符，仍
+    應調查其他證據以資審認，即自訴人之指訴係以使被告入罪
+    為目的，故多作不利於被告之陳述，自不得以其指訴為被告
+    犯罪之唯一證據，仍必須調查其他證據證明自訴人之指訴與
+    事實相符，始可採為證據。最高法院分別著有29年上字第31
+    05號、30年上字第816 號、52年台上字第1300號判例可資參
+    照。另按刑法第309條規定之侮辱，係以使人難堪為目的，
+    以言語、文字、圖畫或動作，對他人為輕蔑表示之行為，而
+    侮辱行為之內涵，須具有足使他人在精神上、心理上有感受
+    到難堪或不快之虞者，亦即侮辱行為本身須具有侵害他人感
+    情名譽之一般危險者，始足當之；而行為人所為是否侵害被
+    害人之感情名譽，應依據社會通念為客觀評價，並應顧及行
+    為人之年齡、教育程度、職業、與被害人之關係等事項，非
+    單依被害人主觀之感情加以判斷，遽論以刑法第309條第1項
+    之公然侮辱罪責。再按言論自由為人民之基本權利，憲法第
+    11條明文保障，國家應給予最大限度之維護，俾其實現自我
+    、溝通意見、追求真理及監督各種政治或社會活動之功能得
+    以發揮，惟為兼顧對個人名譽、隱私及公共利益之保護，法
+    律尚非不得對言論自由依其傳播方式為合理之限制，故刑法
+    第310條第1項及第2項之誹謗罪，即係保護個人法益而設，
+    至第3 項所為：「對於所誹謗之事，能證明其為真實者，不
+    罰。但涉於私德而與公共利益無關者，不在此限」之規定，
+    則係針對言論內容與事實相符者之保障，並藉以限定刑罰權
+    之範圍，縱行為人不能證明言論內容為真實，但依其所提證
+    據資料，認為行為人有相當理由確信其為真實者，即不能以
+    誹謗罪之刑責相繩，亦不得以上開規定免除檢察官或自訴人
+    依法應負行為人故意毀損他人名譽之舉證責任，此業經司法
+    院大法官會議釋字第509 號著有解釋可參。第按發表言論與
+    陳述事實不同，意見為主觀之價值判斷，無所謂真實與否，
+    在民主多元社會，各種價值判斷均應容許，而受言論自由之
+    保障，僅能藉由言論之自由市場機制，使真理愈辯愈明而達
+    到去蕪存菁之效果，而言論自由雖可能損及個人名譽，然基
+    於言論自由有實現自我、溝通意見、追求真理及監督各種政
+    治或社會活動之功能，顯然有較高之價值，國家應給予最大
+    限度之保障，使個人名譽為必要之退讓。因此對於可受公評
+    之事，縱加以不留餘地或尖酸刻薄之評論，亦受憲法之保障
+    ，蓋維護言論自由即所以促進政治民主與社會之健全發展，
+    與個人名譽可能遭受之損失兩相權衡，顯有較高之價值。又
+    事實陳述本身涉及真實與否，雖其與言論表達在概念上偶有
+    流動，有時難期涇渭分明，若言論係以某項事實為基礎，或
+    發言過程中夾論夾敘，將事實敘述與評論混為一談，在評價
+    言論自由與保障個人名譽權之考量上，仍應考慮事實之真偽
+    。而權衡個人名譽對言論自由之退讓程度時，於自願進入公
+    眾領域之公眾人物，或就涉及公眾事務領域之事項，更應為
+    較高程度之退讓。是以，行為人對於公眾人物或所涉公眾事
+    務，以善意發表言論，或對於可受公評之事為適當之評論，
+    或行為人雖不能證明言論內容為真實，但就其所言為真實之
+    舉證責任，仍應有相當程度之減輕（證明強度不必至客觀之
+    真實），且不得完全加諸於行為人。倘依行為人所提證據資
+    料，可認有相當理由確信其為真實，或對於行為人乃出於明
+    知不實故意捏造或因重大過失、輕率、疏忽而不知其真偽等
+    不利之情節未善盡舉證責任者，均不能逕以誹謗罪之刑責相
+    繩。
+三、本件自訴人指訴被告被告柯美全涉犯刑法第309條第1項之公
+    然侮辱、被告陳神章涉犯刑法第310條第1項之誹謗罪嫌，無
+    非僅以民事判決、系爭會議開會通知、系爭會議錄音光碟、
+    自訴人學經歷資料、系爭地下室現場照片、臺北市政府訴願
+    決定書、工程合約書、臺北市政府都市發展局（下稱北市都
+    發局）函、臺北市政府函、結構安全檢討說明書、臺灣省土
+    木技師公會函、北市建管處函、結構安全檢討報告書、臺灣
+    臺北地方法院檢察署檢察官100 年度偵字第2370號不起訴處
+    分書、臺灣高等法院檢察署100 年度上聲議字第3961號處分
+    書、自訴人99年11月26日函（見本院卷第3頁至第8頁、第42
+    頁、第102頁至第190頁），資為其主要論據。
+四、證據能力部分：
+    按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據。被告以外之人於審判外之陳述，雖不
+    符刑事訴訟法第159條之1至第159條之4之規定，而經當事人
+    於審判程序同意作為證據，法院審酌該言詞陳述或書面陳述
+    作成時之情況，認為適當者，亦得為證據；當事人、代理人
+    或辯護人於法院調查證據時，知有第159條第1項不得為證據
+    之情形，而未於言詞辯論終結前聲明異議者，視為有前項之
+    同意。刑事訴訟法第159條第1項、第159條之5分別定有明文
+    。其立法意旨係在於傳聞證據未經當事人之反對詰問予以核
+    實，原則上先予排除；惟若當事人已放棄反對詰問權，於審
+    判程序中表明同意該等傳聞證據可作為證據；或於言詞辯論
+    終結前未聲明異議，基於尊重當事人對傳聞證據之處分權及
+    證據資料愈豐富，愈有助於真實發見之理念，且強化言詞辯
+    論主義，使訴訟程序得以順暢進行，上開傳聞證據亦均具有
+    證據能力。查本判決下列所引用之各項證據方法之證據能力
+    ，自訴代理人、被告柯美全、陳神章及其等辯護人於本院審
+    判期日中均未予爭執，且迄至言詞辯論終結前亦未再聲明異
+    議（見本院100年8月29日審判筆錄），況本院於審判期日已
+    依法進行證據之調查、辯論，被告訴訟上之權利已受保障，
+    故本院審酌上開證據資料製作時之情況，依前開規定，認有
+    證據能力而得採為本件認定事實之基礎，先予敘明。
+五、訊據被告柯美全固坦承其為陳徐桂蘭及被告陳神章之女婿，
+    於系爭會議時在場及陳述：「范先生他這種行為，他不是非
+    常人，我認為是他當教授哦，他是書不知讀到哪裡去！…我
+    覺得他讀很多書，但是書不知讀到哪裡去！。」之事實，惟
+    堅詞否認有何公然侮辱之犯行，辯稱：系爭地下室係作為防
+    空避難使用，然自訴人竟將系爭地下室鋼筋剪斷，此將危害
+    公眾安全，乃自訴人所應知之，但經請自訴人處理，自訴人
+    仍不予處理，99年2 月仍剪斷鋼筋，住戶陳情後，北市建管
+    處要求自訴人為補強，自訴人雖於今年1 月為之，但仍未依
+    據住戶及建管處之要求回復原狀，伊與自訴人之前因此有些
+    爭執，自訴人問伊有沒有讀書，然伊雖小學沒有畢業，亦有
+    地樑鋼筋不能截斷之常識，伊於系爭會議上為前開陳述，乃
+    有前揭背景事實，伊並無公然侮辱之犯行及犯意等語。被告
+    陳神章固坦承其為陳徐桂蘭之夫婿，被告柯美全為其女婿，
+    陳徐桂蘭為至善公寓之區分所有權人之一，及其於系爭會議
+    時在場並陳稱：「市政府都給他隱瞞起來，包庇、瀆職啦！
+    范先生，是外交很好，他外交很好啦，他有辦法去給市政府
+    搓得圓圓的，市政府所有的回文都沒有給我們」之事實，惟
+    堅詞否認有何誹謗之犯行，辯稱：自訴人自97年11月起，即
+    在系爭地下室大興土木，一開始住戶沒有注意，後來因為自
+    訴人沒有建築執照，經住戶出面阻止後，自訴人仍為之，住
+    戶才去檢舉他，而臺北市政府雖然認為自訴人違法，但自訴
+    人還有部分違章未拆除，亦未遭臺北市政府罰款，反觀自訴
+    人檢舉他住戶違章，臺北市政府2 日即帶人來拆除，伊係為
+    32戶住戶權益而為前開陳述，且伊為河洛人，前開陳述內容
+    實有讚揚自訴人很有辦法之意，伊並無誹謗自訴人之意思等
+    語。被告2 人之辯護人為其辯護稱：自訴人與陳徐桂蘭均為
+    至善公寓之區分所有權人，被告2人均為至善公寓之住戶，
+    自訴人於97、98年間，始取得系爭地下室產權而成為區分所
+    有權人，豈料，自訴人於98年6 月間，竟為圖己利，未經全
+    體住戶同意、未定有分管契約及向主管機關合法申請情況下
+    ，擅自將系爭地下室隔間成套房並加蓋廁所，更罔顧至善公
+    寓建築物結構整體安全性，截斷地樑鋼筋併埋設大口徑污水
+    管，危害全體住戶之生命財產安危甚鉅。而由被告柯美全於
+    系爭會議中所為言論整體觀之，可見其目的係為保護其自身
+    或全體住戶之合法權益，對於可受公評之事而為適當之評論
+    ，縱使批評內容用詞恐較為尖銳，而令自訴人感到不快，仍
+    不應以公然侮辱罪相繩。被告陳神章係有相當理由確信其於
+    系爭會議中所發表之言論內容為真實，且該內容亦非涉及私
+    德而與公共利益無關，依刑法第310條第3項規定及實務見解
+    ，應不得以誹謗罪相繩；又被告陳神章乃為保護其自身及全
+    體住戶之合法利益，對於可受公評之事而為適當之評論及發
+    表善意之言論，依刑法第311條第1款、第3款之規定，亦不
+    應論以誹謗罪等語。
+六、經查：
+  (一)被告柯美全被訴公然侮辱部分：
+    被告柯美全為至善公寓區分所有權人之一之陳徐桂蘭及被告
+    陳神章之女婿，亦為至善公寓住戶，而自訴人亦為至善公寓
+    區分所有權人之一，自訴人因系爭地下室使用情形及施工問
+    題與至善公寓住戶有所爭議之事實，有本院新店簡易庭98年
+    度店簡字第1782號宣示判決筆錄、土地、建物登記第二類謄
+    本、土地、建物所有權狀附卷可稽（見本院卷第3頁至第6頁
+    、本院新店簡易庭98年度店簡字第1782號卷《下稱店簡卷》
+    第6頁至第8頁、第33頁至第39頁、第76頁至第82頁、第93
+    頁、第95頁至第98頁），且為自訴人、被告柯美全所自承，
+    是前開事實首堪認定。又系爭會議為至善公寓區分所有權人
+    會議，會議議程包含系爭地下室使用現況及改善方式，被告
+    柯美全於系爭會議上曾陳述：「…大家好喔，我是，我是豆
+    漿店，就是說，應該是…陳先生的店，就是一二樓嗎齁，現
+    在就是有關地下室目前的狀況跟大家報告一下喔，就是說，
+    我們發覺現在目前齁，有一二三，一二三四，四處四處的地
+    點，我們地樑二三根被截斷齁，現在有個情境就是想說，今
+    天事實上我們勞師動眾要開這個會，所謂所謂所謂這個委員
+    會目的是甚麼，我們目的是要向范先生求償，那種情境你想
+    想看，因為假如說你的小屋要換大屋，或舊公寓要換新公寓
+    ，然後你現在說仲介公司，噯，跟你出價了，他跟你說，噯
+    ，你的地樑好像被剪斷，那你想，如果你是買方的話，你會
+    折價多少錢？一成兩成，所以這件事就是說，我現在發現說
+    ，這是跟大家切身的關係啦，就是說自己的財產自己的在縮
+    水，這是因為范先生他這種，他這種行為，就是說，他不是
+    非常人，我認識他是當教授齁，他是《書不知道讀到哪裡去
+    【臺語】》，齁，因為有一次我跟他爭論，他問我說你有沒
+    有讀書，我跟他說我沒有讀書我小學畢業而已，但是，但是
+    我覺得他讀很多書，但是《他書不知道讀到哪裡去【臺語】
+    》，所以說這個，這件事情就是說，跟大家的財產切身有關
+    係，所以大家決定要，不管要出錢出力，一定要把這件事情
+    做成，齁，所以當你無形中財產是減值的，而且就是說萬一
+    ，你就是說要一直住在這邊，哪一天地震搖大一點，那你搞
+    不好，或許我們這變成危樓，齁，所以說，大家有些人可能
+    沒有想說，哎到時候我們會考慮才會討論到說，每一條求償
+    多少，所以說，哎，真的，希望大家真的，能夠把這個人份
+    ，團結起來…」，此為被告柯美全所自承（見本院卷第195
+    頁），且經本院就自訴人所提系爭會議現場錄音光碟為勘驗
+    ，並有勘驗筆錄在卷為憑（見本院卷第194 頁正反面），亦
+    有系爭會議開會通知附卷可考（見本院卷第8 頁），是此部
+    分之事實亦堪認定為真實；而觀之「書不知道讀到哪裡去【
+    臺語】」之言語內容，是否顯屬侮辱性之言語？已值得商榷
+    。又觀諸被告柯美全之教育程度、職業、與自訴人同為至善
+    公寓住戶，因公共事務有所爭執，復以被告柯美全為前開言
+    語之緣由等事項，依社會通念為客觀評價，是否均足使他人
+    在精神上、心理上有感受到難堪或不快之虞？亦非無疑。況
+    ，被告柯美全於前開時、地，係在至善公寓區分所有權人會
+    議，就自訴人對系爭地下室施工之涉及社區公共事務事項發
+    表言論，其既非專以毀損自訴人名譽、或以侵害自訴人情感
+    名譽為目的，且被告柯美全為此言論亦係因保護自己在法律
+    上可得享受之居住安全等利益而為之，此部分尚有刑法第31
+    1條第1款之阻卻違法事由，是被告柯美全及其辯護人所辯，
+    顯非無由。此外，自訴人所提其他證據亦不足使本院達到被
+    告柯美全於系爭會議中所為「書不知道讀到哪裡去【臺語】
+    」之言語，應論以公然侮辱罪之確信程度。從而，揆諸前開
+    規定及說明，依罪證有疑，利於被告之法則，即應對被告柯
+    美全為無罪判決之諭知，以免冤抑。
+  (二)被告陳神章被訴誹謗部分：
+    被告陳神章為至善公寓區分所有權人陳徐桂蘭之夫婿，亦為
+    至善公寓住戶，而自訴人同為至善公寓區分所有權人之一，
+    自訴人因系爭地下室使用情形及施工問題與至善公寓住戶有
+    所爭議，系爭會議議程包含系爭地下室使用現況及改善方式
+    之事實，詳如前述。又被告陳神章於系爭會議上曾陳述：「
+    …《現在齁【臺語】》我們最主要的齁就是希望齁范先生齁
+    能夠依法齁把我們的地下室主體結構那個強度要恢復啦，《
+    我們是要求他這樣啦，我們沒有要求他甚麼，地震不會倒，
+    啊不會壞這樣就好。但是這個過程齁，我們是跟市政府反應
+    很多次，齁，我剛剛也有講，我有講99年3月到現在我們反
+    應很多，市政府都給它掩蓋【臺語】》，包庇，齁，瀆職啦
+    ，齁。啊范先生《他是外交很好，齁，他是外交很好，齁，
+    他有辦法跟市政府搓圓圓，市政府他所有回文都沒有給我們
+    ，我們檢舉的回文他都不敢給我們，因為給我們我們有證據
+    ，所以他在施太太他就是這個李，李議員那，那個李什麼？
+    李新那裡，不知道為什麼有辦法給它拿出來，我再印一份給
+    各位，這裡寫得很清楚，他是講哪一塊、哪一塊、哪一塊、
+    哪一塊都破壞掉了，但是齁現在那個補強不行，我們補強齁
+    【臺語】》…」，此為被告陳神章所自承（見本院卷第195
+    頁反面），且經本院就自訴人所提系爭會議現場錄音光碟為
+    勘驗，並有勘驗筆錄在卷為憑（見本院卷第195頁），是前
+    開事實固堪認定為真實。惟觀之被告陳神章前開所為「…市
+    政府都給它掩蓋【臺語】，包庇，齁，瀆職啦，齁。」之言
+    語內容，係就臺北市政府人員將其反應系爭地下室違章之事
+    予以掩蓋，未予辦理而發表言論甚明，此由前開用語均係針
+    對公務員即可知之，是自訴人認被告陳神章前開部分涉有誹
+    謗自訴人之罪嫌云云，顯有誤解，不足採取。又被告陳神章
+    前開所為「…啊范先生《他是外交很好，齁，他是外交很好
+    ，齁，他有辦法跟市政府搓圓圓，市政府他所有回文都沒有
+    給我們，我們檢舉的回文他都不敢給我們【臺語】…」之言
+    語，依一般社會通念觀之，是否足以貶損他人之社會評價，
+    要非無疑。另被告陳神章就其所辯98年11月20日北市建管處
+    人員至系爭地下室會勘時，即有議員為自訴人一方到場乙節
+    ，業經被告陳神章提出北市建管處98年11月25日北市都建使
+    字第0986449600號函及所附會勘紀錄表上，確實受文者有臺
+    北市議員<font color='red'>林奕華</font>及其簽名為據（見本院卷第63頁至第64頁）
+    ，且被告陳神章辯稱北市建管局自98年11月起，多次派員至
+    系爭地下室現場會勘，似故意忽略而未察覺樓板鋼樑已被切
+    斷及遭埋設大口徑污水管，故僅就樓板隔間、廁所等地上物
+    要求自訴人改善處理等節，亦經其提出北市建管處98年11月
+    25日北市都建使字第0986449600號函及所附會勘紀錄表、北
+    市都發局98年12月11日北市都建字第09873452900 號函及所
+    附會勘紀錄表、99年3月24日北市都字第09964042600號函及
+    所附會勘紀錄表、99年4月9日北市都建字第09964070400 號
+    函及所附會勘紀錄表、99年6月9日北市都建字第0996418833
+    00號函及所附會勘紀錄表、99年7月2日北市都建字第099692
+    73400 號函及所附會勘紀錄表在卷可取（見本院卷第63頁至
+    第71頁、第74頁至第78頁），再就至善公寓之系爭地下室工
+    程違章爭議，自98年底迄100 年1月8日止均尚未落幕之事實
+    ，亦有系爭會議現場錄音光碟及譯文在卷可按（見本院卷第
+    63頁至第64頁），是被告陳神章辯稱其基於前開事實確信其
+    所述為真實，自難謂純屬子虛。況被告陳神章前開陳述與評
+    論係涉及公眾事務領域之事項，自訴人所提證據均不足資證
+    明被告陳神章乃出於明知不實故意捏造或因重大過失、輕率
+    、疏忽而不知其真偽情形下所為。從而，揆諸前開規定及說
+    明，依罪證有疑，利於被告之法則，即應對被告陳神章為無
+    罪判決之諭知，以免冤抑。
+據上論斷，應依刑事訴訟法第343條、第301條第1 項，判決如主
+文。
+中    華    民    國   100    年    9     月    30    日
+                      刑事第一庭  法  官  周玉琦
+以上正本證明與原本無異。
+如不服本判決應於收受送達後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
+逕送上級法院」。
+                                  書記官  謝貽婷
+中    華    民    國   100    年    9     月    30    日</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10009\30\TPDM1009U.00Z] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[2]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
+											筆 / 現在第3
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%87%aa&selectedCrmno=000059&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%87%aa%2c59%2c20110930%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=59&jdate=1000930&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e8%87%aa%2c59%2c20110930%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=59&jdate=1000930&jcheck=2">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%87%aa%2c59%2c20110930%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%87%aa','59','1000930','2')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林奕華">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林奕華">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
