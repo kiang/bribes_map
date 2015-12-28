@@ -1,0 +1,465 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣新北地方法院-刑-94訴665</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
+											筆 / 現在第11
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=000665&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c665%2c20050729%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=665&jdate=940729&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c665%2c20050729%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=665&jdate=940729&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('94%2c%e8%a8%b4%2c665%2c20050729%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e8%a8%b4','665','940729','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">94,訴,665</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">940729</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　 94年度訴字第665號
+公　訴　人　臺灣板橋地方法院檢察署檢察官
+被　　　告　丙○○
+選任辯護人　吳謹斌律師
+上列被告因詐欺等案件，經檢察官提起公訴（94年度偵字第4018
+號），被告於準備程序進行中就被訴事實為有罪之陳述，經告知
+簡式審判程序之旨，並聽取當事人之意見後，本院裁定由受命法
+官獨任進行簡式審判程序，判決如下：
+    主  文
+丙○○以意圖為自己不法之所有，以詐術使人將本人之物交付為
+常業，處有期徒刑貳年，緩刑伍年。
+    事實及理由
+一、本件犯罪事實及證據，除證據部分應補充：「被告於本院審
+    理時之自白」外，餘均引用如附件起訴書之記載。並就犯罪
+    事實部分更正如下：
+(一)、犯罪事實欄(四)部分更正為：丙○○竟基於行使偽造準私文書
+    （標單）及意圖為自己不法所有之犯意，因每個互助會均在
+    其上開住所開標，丙○○即在主持每次互助會開標時，先在
+    紙條上偽以填載未到場開標互助會會員利息數額，因依台灣
+    民間互助會之習慣，如會員在開標時於空白紙條上書寫自己
+    在互助會願出利息數額，已足以辨明該張紙條為特定之會員
+    願以所書數字為標息金額參加競標之標單準私文書，是丙○
+    ○先在紙條上偽以填載互助會會員願出之利息數額，而偽造
+    完成特定會員願以所書數字為標息金額參加競標之標單準私
+    文書後，復持之向到場之會員行使表示為該未到場之會員託
+    標，A 互助會冒標至少27會，B 互助會冒標至少11會，足以
+    生損害於未到場，為其冒標者會員之參與競標之正確性，然
+    後丙○○再向到場會員及其他會員施用詐術佯稱為其所冒標
+    之會員得標，致使其他活會會員陷於錯誤，如數交付會款。
+(二)、犯罪事實欄 (十二)「周雪嬌」部分應更正為「周雪梅」。
+(三)、犯罪事實欄 (十四)更 正為丙○○於80年間開始於臺北縣三
+    重市○○路○ 段91巷22號所經營雜貨店內開始招集互助會，
+    而於88年間起迄91年間止，因虛列會員、冒標會款、詐取借
+    款、參加別人所招集互助會以詐取會款，以新債償還舊債，
+    累積總共6 千5 百16萬8 百16元之債務，詳如附表所示。
+(四)、附件「附表」部分，公訴人有誤載之情形，爰更正如「附表
+    一」所示。
+二、按刑法上所謂「常業」，指反覆以同種類行為為目的之社會
+    活動之職業性犯罪而言，至於犯罪所得之多寡，是否恃此犯
+    罪為唯一之謀生職業，則非所問，縱令兼有其他職業，仍無
+    礙於常業犯罪之成立。（最高法院91年度台上字第3389號、
+    82年度台上字第3532號裁判參照）。查本件被告丙○○雖有
+    經營雜貨店，每月所得約1 至4 萬元，惟被告以前開犯罪事
+    實欄之方法詐騙被害人多人且就多次詐欺行為客體內涵觀察
+    ，詐得之金額不少，而客觀上亦具有相當時間之連續性及可
+    確定性，且均係遇有機會，即實施詐欺犯罪，並以之供為生
+    活甚至購屋之職業，顯見被告係以同一犯罪行為恃以維生之
+    意思，反覆為之，顯係以詐欺為目的之職業性犯罪，而為常
+    業犯無疑，故除恃此犯罪為謀生之職業外，有無尚兼其他職
+    業，已可不問，附此敘明。
+三、按刑法第210 條之偽造私文書罪，固須以無制作權之人，捏
+    造或冒用他人名義而制作文書，並足以生損害於公眾或他人
+    為要件，但此制作名義人，不以形式上表現於文書內為必要
+    ，倘依習慣或特約，諸如以言詞、動作、筆跡、內容、慣用
+    語、特殊制作方式、專用信箋等方法，實質上使人得知係以
+    他人名義所制作，足以表示一定用意之證明者，因已妨害該
+    制作名義人之信用，可生損害於公眾或他人，依同法第220
+    條第1 項 (修正前之第220 條）規定，以文書論，仍應論以
+    偽造私文書罪。我國民間互助會之標單，其記載之內容通常
+    為欲投標會員之姓名及一定之金額，或標單上雖僅寫金額而
+    未寫會員之姓名，然已指明該標單係何會員所投標，而參與
+    投標，依習慣或特約，足以表示該投標之會員願以標單上所
+    載之金額為其競標之利息，應屬刑法第220 條第1 項以私文
+    書論之準私文書。（最高法院87年度台上字第482 號判決、
+    87年度台非字第12號判決、88年度台上字第5410號判決、89
+    年度台上字第1319號判決、91年度台上字第5683號判決意旨
+    參照）。故核被告丙○○所為，係犯刑法第216 條、第210
+    條、第220 條第1 項之行使偽造準私文書罪，同法第340 之
+    常業詐欺罪。其偽造準私文書之低度行為又為行使偽造準私
+    文書之高度行為所吸收，不另論罪。被告丙○○以虛構會員
+    冒名跟會、及冒標行為、及參加互助會得標後，拒付死會會
+    款等詐欺行為同時向多數之活會會員及被冒標者詐欺，為同
+    種想像競合犯，應依刑法第55條規定，從一重處斷。又其先
+    後多次行使偽造準私文書之犯行，時間緊接，犯罪構成要件
+    相同，顯係基於概括犯意而反覆為之，應依連續犯規定論以
+    一罪，並加重其刑。所犯前開二罪間，有方法結果之關係，
+    為牽連犯，應從一重之常業詐欺罪處斷。爰審酌被告前無犯
+    罪科刑紀錄，有臺灣高等法院被告前案紀錄表1 份可稽，其
+    邀集會員成立互助會，不思妥慎主持，反而盜用會員名義冒
+    標詐財，及虛列會員冒名跟會，致告訴人乙○○、甲○○及
+    其他被害人辛苦積蓄化為烏有，惡性非輕，惟其事後尚知彌
+    補，變賣雜貨店內財物及出賣被告自己之房子及其配偶黃欽
+    勇2 間、女兒黃明秀1 間房子以清償債務，並積極協助債權
+    人代表收取死會會款，除與大部分被害人蘇英妹等多人成立
+    和解外，有書立債權人會議紀錄、同意決議書各1 紙可憑，
+    並賠償告訴人乙○○、甲○○部分損失，堪認已有悔意，暨
+    其犯罪之動機、目的、手段、冒標次數、虛列會員之數目、
+    詐騙金額，及目前猶未與告訴人乙○○及甲○○成立和解，
+    但已陸續償還部分款項等一切情狀，量處如主文所示之刑，
+    以資懲儆。至被告歷次偽造之準私文書「標單」，均未據告
+    訴人等及被告提出扣案，且被告於91年12月底即已搬離原住
+    處，復參酌一般民間互助會之習慣於歷次開標完後即當場撕
+    毀或丟棄標單，堪認該標單上之偽造署押均已滅失無存，無
+    依刑法第219 條沒收之餘地，爰不另為沒收之諭知。
+四、末查被告未曾受有期徒刑宣告，此有臺灣高等法院被告前案
+    紀錄表1 紙在卷可查，本院審酌被告因景氣低迷，經營雜貨
+    店生意不善，財務會計失算，復為互助會員陳財本、林美釵
+    等會員倒會，本利倍增以致週轉不靈，一時經濟困厄，初罹
+    刑章，犯罪後坦承犯行，已知悔悟，足見有自省能力，且確
+    實於倒會後未逃避責任，變賣雜貨店內財物及出賣被告自己
+    之房子及其配偶2 間、女兒1 間房子以清償債務，並積極協
+    助債權人代表收取死會會款，除與大部分被害人蘇英妹等多
+    人成立和解外，有書立債權人會議紀錄、同意決議書各1 紙
+    可憑，並賠償告訴人部分損失，業如前述，雖被告尚未能完
+    全賠償被害人之損失，惟被告於本院當庭表示願意繼續儘量
+    履行，足認被告願意以最大誠意彌補被害人損害態度誠懇，
+    本院經斟酌上開情狀，認被告經此起訴審判，應已足資教訓
+    ，嗣後應知戒慎，信無再犯之虞，故本院認其所受本案刑之
+    宣告，以暫不執行為適當，以期被告如數繼續清償債款，爰
+    併諭知緩刑5 年，以啟自新。
+據上論斷，應依刑事訴訟法第273 條之1 第1 項、第299 條第1
+項前段、第310 條之2 、第454 條第1 項、第2 項，刑法第216
+條、第210 條、第220 條第1 項、第340 條、第55條、第74 條
+第1 款，罰金罰鍰提高標準條例第1 條前段，判決如主文。
+本案經檢察官孫治平到庭執行職務。
+中　　華　　民　　國　　94　　年　　7 　　月　　29　　日
+                  刑事第十五庭  法　官  吳幸娥
+以上正本證明與原本無異
+如不服本判決應於送達後10日內向本院提出上訴狀
+                                書記官　洪惠玲
+中　　華　　民　　國　　94　　年　　7 　　月　　29　　日
+附表一：
+┌──┬────┬──────┬──────┬─────┐
+│編號│ 債權人 │ 被告積欠之 │  債權名稱  │ 備    註 │
+│    │ 　     │  債務金額  │            │          │
+├──┼────┼──────┼──────┼─────┤
+│1 　│張淑錦　│620,000 元  │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│2　 │徐秀景　│140,000元   │借款        │          │
+├──┼────┼──────┼──────┼─────┤
+│3　 │潘何小珍│480,000元   │會款        │公訴人誤載│
+│    │　      │            │            │為潘小珍  │
+├──┼────┼──────┼──────┼─────┤
+│4　 │鄭蘇英妹│2,880,000元 │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│5　 │<font color='red'>吳淑敏　</font>│360,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│6　 │呂麵　　│1,064,816元 │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│7　 │周蔡木麵│480,000元   │會款        │公訴人誤載│
+│    │　      │            │            │為蔡木麵  │
+├──┼────┼──────┼──────┼─────┤
+│8　 │吳燦輝　│100,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│9　 │曾美楨　│600,000元   │會款        │公訴人誤載│
+│    │        │            │            │為曾美真  │
+├──┼────┼──────┼──────┼─────┤
+│10　│甲○○　│7,190,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│11　│周炳榮　│680,000元   │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│12　│游莊阿惠│1,080,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│13  │陳玉盞  │5,320,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│14　│吳李勤　│1,000,000元 │借款        │          │
+├──┼────┼──────┼──────┼─────┤
+│15　│林瓊珠　│2,250,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│16　│曾張雲嬌│1,440,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│17　│林金重　│1,470,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│18　│黃明秀　│180,000元   │借款        │          │
+├──┼────┼──────┼──────┼─────┤
+│19　│黃明視　│1,150,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│20　│蘇榮吉　│3,380,000元 │會款        │公訴人誤載│
+│　　│(陳秀美)│            │            │為蘇榮體 (│
+│    │        │            │            │陳秀美)   │
+├──┼────┼──────┼──────┼─────┤
+│21　│游家重　│810,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│22　│游進忠　│300,000元   │會款        │公訴人誤載│
+│    │        │            │            │為游信忠  │
+├──┼────┼──────┼──────┼─────┤
+│23　│楊麗鳳　│730,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│24　│劉正　　│428,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│25　│李素敏　│820,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│26　│蔡阿枔  │820,000元   │會款        │公訴人誤載│
+│    │(呂太太)│            │            │為呂太太  │
+├──┼────┼──────┼──────┼─────┤
+│27　│江丹桂　│820,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│28　│陳黃讓治│820,000元   │會款        │          │
+│　　│（吉雄衣│            │            │          │
+│    │服）    │            │            │          │
+├──┼────┼──────┼──────┼─────┤
+│29　│柯陳雪月│810,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│30　│黃阿鋼  │810,000元   │會款        │公訴人誤載│
+│    │(大通)  │            │            │為阿鋼 (大│
+│    │        │            │            │通)       │
+├──┼────┼──────┼──────┼─────┤
+│31　│謝朝森　│360,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│32　│莊素霞　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│33　│莊素嬌　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│34　│莊素蔭　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│35　│黃慶煜　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│36　│黃慶長　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│37　│李美領　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│38　│張弘敏　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│39　│吳趙美玉│478,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│40　│楊惠珠　│460,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│41　│卓金鶴　│2,060,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│42　│李敏雄　│1,840,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│43　│林玉雲　│1,270,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│44　│李龍泉　│4,200,000元 │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│45　│林品　　│1,580,000元 │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│46　│葉惠雅　│810,000元   │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│47　│王妙汾　│50,000元    │借款        │          │
+├──┼────┼──────┼──────┼─────┤
+│48　│曾錦秋　│2,640,000元 │借款、會款  │          │
+├──┼────┼──────┼──────┼─────┤
+│49　│林吳桃　│848,000元   │借款、會款  │公訴人誤載│
+│　　│(惠群麵 │            │            │為阿桃 (惠│
+│    │包)     │            │            │群麵包)   │
+├──┼────┼──────┼──────┼─────┤
+│50　│李麗雯　│270,000元   │會款        │公訴人誤載│
+│    │　      │            │            │為麗雯    │
+├──┼────┼──────┼──────┼─────┤
+│51　│黃秋芬　│1,440,000元 │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│52　│周雪梅　│1,990,000元 │會款        │公訴人誤載│
+│    │        │            │            │為周美雪  │
+├──┼────┼──────┼──────┼─────┤
+│53　│鄭高田　│2,360,000元 │會款        │          │
+├──┼────┼──────┼──────┼─────┤
+│54　│施麗玲　│260,000元   │會款        │          │
+├──┼────┴──────┴──────┴─────┤
+│合計│65,168,816元                                    │
+└──┴────────────────────────┘
+附錄本案論罪科刑法條全文：
+中華民國刑法第216條：
+行使第二百十條至第二百十五條之文書者，依偽造、變造文書或
+登載不實事項或使登載不實事項之規定處斷。
+中華民國刑法第210條：
+偽造、變造私文書，足以生損害於公眾或他人者，處五年以下有
+期徒刑。
+中華民國刑法第220條：
+在紙上或物品上之文字、符號、圖畫、照像，依習慣或特約，足
+以為表示其用意之證明者，關於本章及本章以外各罪，以文書論
+。
+錄音、錄影或電磁紀錄，藉機器或電腦之處理所顯示之聲音、影
+像或符號，足以為表示其用意之證明者，亦同。
+稱電磁紀錄，指以電子、磁性或其他無法以人之知覺直接認識之
+方式所製成之紀錄，而供電腦處理之用者。
+中華民國刑法第340條：
+以犯第三百三十九條之罪為常業者，處一年以上七年以下有期徒
+刑，得併科五萬元以下罰金。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Judday\ok\LAWPCD\CRIMINAL\9407\29\PCDM947T.008] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
+											筆 / 現在第11
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=000665&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c665%2c20050729%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=665&jdate=940729&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c665%2c20050729%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=665&jdate=940729&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('94%2c%e8%a8%b4%2c665%2c20050729%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e8%a8%b4','665','940729','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="11"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑敏">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑敏">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,451 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣彰化地方法院-刑-99易1163</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
+											筆 / 現在第4
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%98%93&selectedCrmno=001163&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e6%98%93%2c1163%2c20101229%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=1163&jdate=991229&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e6%98%93%2c1163%2c20101229%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=1163&jdate=991229&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e6%98%93%2c1163%2c20101229%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e6%98%93','1163','991229','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,易,1163</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">991229</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">竊盜</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　99年度易字第1163號
+公　訴　人　臺灣彰化地方法院檢察署檢察官
+被　　　告　陳守元
+上列被告因竊盜案件，經檢察官提起公訴（99年度偵字第7383、
+7660號），本院判決如下：
+    主  文
+陳守元犯如附表二所示之罪，均累犯，各處如附表二所示之刑（
+含主刑、從刑）。應執行有期徒刑壹年肆月，扣案釣香油錢工具
+貳個均沒收。
+    事  實
+一、陳守元前因竊盜案件，經本院以96年度易字第913 號判決處
+    有期徒刑7 月確定，又因施用毒品案件，經本院以96年度訴
+    字第1316號判決，判處有期徒刑7 月確定，再因竊盜案件，
+    經本院以96年度簡字第329 號判決處有期徒刑3 月、3 月，
+    應執行有期徒刑5 月確定，上開罪刑另裁定定其應執行刑為
+    有期徒刑1 年5 月確定；另因施用毒品案件，經本院以97年
+    度訴字第583 、720 號判決處有期徒刑7 月、5 月、5 月，
+    應執行有期徒刑1 年1 月確定；上開罪刑均經送監執行，於
+    民國99年5 月15日縮短刑期期滿執行完畢。仍不知警惕，先
+    後為下列行為：
+  (一)陳守元於附表一所示之時間，分別意圖為自己不法所有，於
+    附表一編號1 、2 、4 、5 所示之時間，並基於與真實姓名
+    、年籍不詳綽號「阿肚」之成年男子之犯意聯絡，由陳守元
+    以硬幣、塑膠板、雙面膠及釣線製成釣香油錢之工具後，分
+    別在附表一所示之地點，將上開釣香油錢工具垂入香油錢箱
+    內黏取現金，附表一編號1 、2 、4 、5 所示時間，則由其
+    與「阿肚」其中一人以上開工具黏取現金，另一人把風，而
+    以此方式竊取如附表一編號1 、3 所示之現金得手，至附表
+    編號2 、4 、5 所示之時間，則分別因釣線斷裂或無法黏得
+    現金，而未能竊取得手。嗣經警調閱武聖宮、福德宮之監視
+    錄影畫面，得悉係陳守元竊取香油錢箱之現金，並在武聖宮
+    、福德宮、保生宮各查扣得製作方式相同之釣香油錢工具1
+    個，查悉上情。
+  (二)於99年7 月24日晚間7 時50分許（起訴書誤載為同日晚間8
+    時50分許），另意圖為自己不法之所有，騎乘車牌號碼EYD-
+    870 號輕型機車至劉顯達位於彰化縣埔鹽鄉○○村○○路54
+    號之住處，以攀爬方式踰越該址圍牆，進入該址後院內，徒
+    手竊取劉顯達所有吊掛於該後院晾曬之內褲1 件得手，適為
+    劉顯達當場目睹，陳守元見狀即將竊得之內褲塞入口袋內，
+    翻牆後騎乘上開機車逃逸，劉顯達即記下該機車號碼，報警
+    處理，嗣經警循線查獲。
+二、案經劉顯達訴由彰化縣警察局溪湖分局報告臺灣彰化地方法
+    院檢察署檢察官偵查起訴。
+    理  由
+壹、程序部分
+一、按被告以外之人於偵查中向檢察官所為陳述，除顯有不可信
+    之情況者外，得為證據，同法第159 條之1 第2 項定有明文
+    。偵查中對被告以外之人（包括證人、鑑定人、告訴人、被
+    害人及共同被告等）所為之偵查筆錄，或被告以外之人向檢
+    察官所提之書面陳述，性質上均屬傳聞證據。惟現階段刑事
+    訴訟法規定檢察官代表國家偵查犯罪、實施公訴，依法其有
+    訊問被告、證人及鑑定人之權，而實務運作時，檢察官偵查
+    中向被告以外之人所取得之陳述，原則上均能遵守法律規定
+    ，不致違法取供，其可信度極高。查證人即告訴人劉顯達未
+    曾提及檢察官在偵查時有不法取供之情形，其於偵訊時之證
+    述復無顯不可信之情況，依上說明，證人劉顯達於偵查中之
+    證言自具有證據能力。
+二、按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據，刑事訴訟法第159 條第1 項固有明文
+    ，惟被告以外之人於審判外之陳述，雖不符合同法第159 條
+    之1 至第159 條之4 規定，但經當事人於審判程序同意作為
+    證據，法院審酌該言詞陳述或書面陳述作成時之情況，認為
+    適當者，亦得為證據，當事人、代理人或辯護人於法院調查
+    證據時，知有第159 條第1 項不得為證據之情形，而未於言
+    詞辯論終結前聲明異議者，視為有前項之同意，此觀同法第
+    159 條之5 規定即明。經查，除上開證人劉顯達於偵訊之證
+    述外，本判決後所引用其餘各該被告陳守元以外之人於審判
+    外之陳述（包含書面陳述），固亦皆屬傳聞證據，惟當事人
+    雖知上開證據資料為傳聞證據，但於本院審判期日中均表示
+    同意或無意見而不予爭執，且迄至言詞辯論終結前亦未再聲
+    明異議，本院審酌上開證據資料製作時之情況尚無違法不當
+    等瑕疵，且與本案具有關連性，認為以之作為證據應屬適當
+    ，揆諸前開規定，爰逕依刑事訴訟法第159 條之5 規定，認
+    前揭證據資料均例外有證據能力，合先敘明。
+三、卷附非供述證據無傳聞法則之適用，與本案待證事實具有關
+    連性，且無證據證明係公務員違法取得或製作之物，自得採
+    為證據。
+貳、實體部分
+一、事實欄一、(一)部分：
+    上開犯罪事實，業據被告陳守元於警詢、偵訊及本院審理時
+    坦承不諱（溪警分偵字第0990012915號警卷第1 頁、99年度
+    偵字第7660號卷第18頁、本院卷第45頁），核與證人即被害
+    人陳博文、吳慶隆、<font color='red'>劉文雄</font>、陳秋木證述相符（同上警卷第
+    6 至14頁），並有照片5 張、監視器翻拍畫面16張、本院電
+    話洽辦公務記錄單1 紙在卷可稽（同上警卷第16至26頁、本
+    院卷第24頁），及扣案釣香油錢工具2 個可證，足認被告自
+    白與事實相符；綜上，此部分竊盜犯行事證明確，洵堪認定
+    。
+二、事實欄一、(二)部分：
+    訊據被告陳守元固坦承有於99年7 月24日晚間7 時50分許進
+    入告訴人劉顯達住處後院，惟矢口否認有何事實欄一、(二)所
+    示竊盜犯行，辯稱：其當時係因遭仇家追殺，且腳不方便，
+    不得已才進入該址躲避，並未竊取告訴人之內褲云云。經查
+    ，告訴人劉顯達於99年7 月24日晚間7 時50分許，察覺被告
+    在其住處後院內，行動鬼鬼祟祟，正將1 件黑色衣物塞到褲
+    子右前口袋中，告訴人劉顯達乃上前察看並追趕被告，被告
+    則逃跑並向告訴人劉顯達稱：「聽說有人自殺所以我過來看
+    」等語，即翻牆逃走，告訴人劉顯達乃繞由前門奔出追趕被
+    告，但被告已騎上其停放於後院圍牆旁之機車，隨即逃逸無
+    蹤，告訴人劉顯達乃記下該機車車牌號碼，報警處理，之後
+    清查家中物品，發現失竊其所有之黑色內褲1 件等情，業據
+    證人即告訴人劉顯達於警詢、偵訊及本院審理時證述綦詳（
+    溪警分偵字第0990013689號警卷第6 頁、同上偵卷第25頁、
+    本院卷第42頁），並有照片1 張、車輛詳細資料報表1 紙、
+    告訴人手繪現場圖1 紙可資佐證（同上警卷第9 、13頁、同
+    上偵卷第29頁），而證人劉顯達與被告素不相識，毫無怨隙
+    ，自無可能甘冒誣告及偽證罪責而設詞誣陷被告，且其於警
+    詢、偵訊及本院審理時之歷次證言，核均相符，足認其上開
+    證述應堪採信。又被告自稱其遭仇家追殺時係騎乘機車，腳
+    不方便云云，惟證人劉顯達當時並未聽聞有人叫喊或機車引
+    擎之嘈雜聲，亦經證人劉顯達證述明確（本院卷第43頁背面
+    ），是被告是否有遭人追趕之情事，已有可疑，再者，依被
+    告所述遭人騎機車追趕，情況急迫，當無捨棄交通工具，而
+    改用徒步逃跑之理，且其既將機車停放於告訴人住處後院圍
+    牆外，追趕之人亦可輕易知悉其躲藏入該址，亦難躲免追趕
+    ，被告上開辯解顯與常情相違，復與證人劉顯達證述內容不
+    合，要難採信。綜上，本案事證明確，被告各次竊盜犯行均
+    堪認定，應依法論科。
+三、按刑法第321 條第1 項第1 款所規定之加重竊盜罪要件為「
+    於夜間侵入住宅或有人居住之建築物、船艦或隱匿其內而犯
+    之者」，必其所侵入或隱匿其內者為「住宅」或「有人居住
+    之建築物、船艦」，始足當之，而不及於住宅或建築物圍繞
+    之土地，故踰越環繞住宅之圍牆，竊盜財物，並未侵入住宅
+    者，祇能成立同條項第2 款之踰越牆垣加重竊盜罪。查被告
+    係踰越牆垣進入告訴人劉顯達上址住處之後院竊取財物，並
+    未進入該址住宅建築物內，依上開說明，其所為自僅該當於
+    刑法第321 條第1 項第2 款踰越牆垣竊盜罪，而尚無從論以
+    同條項第1 款之加重竊盜要件。
+四、核被告所為，係犯如附表二「所犯罪名」欄所示之罪。公訴
+    意旨認被告所為如事實欄一、(二)所示竊盜犯行，亦構成刑法
+    第321 條第1 項第1 款之加重竊盜要件，尚有誤會，已如前
+    述；惟此僅係加重條件之減少，仍屬單純一罪，無庸變更起
+    訴法條或另為無罪諭知，併此敘明。被告就附表一編號1 、
+    2 、4 、5 所示各次竊盜犯行，與真實姓名、年籍不詳綽號
+    「阿肚」之成年男子有犯意聯絡及行為分擔，應論以共同正
+    犯。又被告前因竊盜案件，經本院以96年度易字第913 號判
+    決處有期徒刑7 月確定，又因施用毒品案件，經本院以96年
+    度訴字第1316號判決，判處有期徒刑7 月確定，再因竊盜案
+    件，經本院以96年度簡字第329 號判決處有期徒刑3 月、3
+    月，應執行有期徒刑5 月確定，上開罪刑另裁定定其應執行
+    刑為有期徒刑1 年5 月確定；另因施用毒品案件，經本院以
+    97年度訴字第583 、720 號判決處有期徒刑7 月、5 月、5
+    月，應執行有期徒刑1 年1 月確定；上開罪刑均經送監執行
+    ，於99年5 月15日縮短刑期期滿執行完畢，有臺灣高等法院
+    被告前案紀錄表可稽，其於上開有期徒刑執行完畢後5 年內
+    又故意再犯本案各罪，均為累犯，應依刑法第47條第1 項規
+    定，各加重其刑。被告雖已著手於附表一編號2 、4 、5 所
+    示各次竊盜犯行，惟分別因釣香油錢工具之釣線斷裂，或無
+    法黏得香油錢，而尚未達於既遂程度，其犯行尚屬未遂，爰
+    依刑法第25條第2 項規定，就附表一編號2 、4 、5 所示各
+    次竊盜犯行，各減輕其刑，至該部分刑有加重及減輕者，並
+    均依法先加後減之。爰審酌被告正值壯年，不思以正當方式
+    謀生，僅因貪圖不法利益，即竊取他人物品，顯然欠缺法治
+    觀念，所為侵害他人財產法益，且事實欄一、(二)所示竊盜犯
+    行係以踰越牆垣之方式為之，危害社會治安，行為甚不足取
+    ，惟其犯後坦承部分犯行，尚有悔意，暨審酌其犯罪動機、
+    智識程度、生活狀況及犯罪所生之損害等一切情狀，分別量
+    處如附表二主文欄所示之刑，並定其應執行刑，以示懲儆。
+    末查，扣案在保生宮、福德宮查扣之釣香油錢工具2 個，皆
+    屬被告所有之物，分別係供被告為附表一編號2 、4 所示竊
+    盜犯行所用之物，業據被告供承在卷（本院卷第45頁），爰
+    依刑法第38條第1 項第2 款規定，宣告沒收如附表二主文欄
+    所示；至在武聖宮查扣之釣香油錢工具1 個，被告否認係供
+    本案犯行所用，且依證人陳博文、<font color='red'>劉文雄</font>證述，該釣香油錢
+    工具係於99年6 月19日開啟香油錢箱時即發現（溪警分偵字
+    第0990012915號警卷第7 、11頁），顯與本案無關，爰不予
+    宣告沒收。
+據上論斷，應依刑事訴訟法第299 條第1 項前段，刑法第28條、
+第320 條第1 項、第3 項、第321 條第1 項第2 款、第47條第1
+項、第25條第2 項、第38條第1 項第2 款，刑法施行法第1 條之
+1 第1 項、第2 項前段，判決如主文。
+本案經檢察官廖偉志到庭執行職務。
+中    華    民    國    99    年    12    月    29    日
+                  刑事第一庭  法  官  楊舒嵐
+以上正本證明與原本無異。
+如不服本判決應於收受判決後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書(均須按他造當事人之人數附繕本)「切勿逕
+送上級法院」。
+告訴人或被害人對於判決如有不服具備理由請求檢察官上訴者，
+其上訴期間之計算係以檢察官收受判決正本之日期為準。
+中    華    民    國    99    年    12    月    29    日
+                              書記官  陳如玲
+附表一：
+┌──┬───┬─────┬───────┬────────────┐
+│編號│被害人│   時間   │     地點     │        竊得財物        │
+├──┼───┼─────┼───────┼────────────┤
+│ 1  │陳博文│99年6 月21│彰化縣埔鹽鄉南│現金新臺幣（下同）500 元│
+│    │      │日中午12時│港村埔菜路1 巷│                        │
+│    │      │許        │5 之10號「武聖│                        │
+│    │      │          │宮」          │                        │
+├──┼───┼─────┼───────┼────────────┤
+│ 2  │吳慶隆│99年6 月21│彰化縣埔鹽鄉南│因釣香油錢工具之釣線斷裂│
+│    │      │日下午1 時│港村埔港路18之│，掉落香油箱內，而未能竊│
+│    │      │許        │2 號「保生宮」│取得手                  │
+├──┼───┼─────┼───────┼────────────┤
+│ 3  │<font color='red'>劉文雄</font>│99年6 月22│彰化縣埔鹽鄉南│現金200元               │
+│    │      │日中午12時│港村埔菜路1 巷│                        │
+│    │      │44分許    │5 之10號「武聖│                        │
+│    │      │          │宮」          │                        │
+├──┼───┼─────┼───────┼────────────┤
+│ 4  │陳秋木│99年6 月22│彰化縣埔鹽鄉埔│因釣香油錢工具之釣線斷裂│
+│    │      │日下午3 時│打路1 巷11號「│，掉落香油箱內，而未能竊│
+│    │      │許        │福德宮」      │取得手                  │
+├──┼───┼─────┼───────┼────────────┤
+│ 5  │陳秋木│99年6 月24│彰化縣埔鹽鄉埔│因無法黏得香油錢，而未能│
+│    │      │日上午10時│打路1 巷11號「│竊取得手                │
+│    │      │18分許    │福德宮」      │                        │
+└──┴───┴─────┴───────┴────────────┘
+附表二：
+┌──┬──────┬──────┬────────────────┐
+│編號│  犯罪事實  │  所犯罪名  │              主文              │
+├──┼──────┼──────┼────────────────┤
+│ 1  │如事實欄一、│刑法第320 條│陳守元共同竊盜，累犯，處有期徒刑│
+│    │(一)及附表一編│第1項竊盜罪 │肆月。                          │
+│    │號1所載     │            │                                │
+├──┼──────┼──────┼────────────────┤
+│ 2  │如事實欄一、│刑法第320 條│陳守元共同竊盜，未遂，累犯，處有│
+│    │(一)及附表一編│第3 項、第1 │期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。扣案釣香油錢工具壹個│
+│    │號2所載     │項竊盜未遂罪│沒收。                          │
+├──┼──────┼──────┼────────────────┤
+│ 3  │如事實欄一、│刑法第320 條│陳守元竊盜，累犯，處有期徒刑肆月│
+│    │(一)及附表一編│第1項竊盜罪 │。                              │
+│    │號3所載     │            │                                │
+├──┼──────┼──────┼────────────────┤
+│ 4  │如事實欄一、│刑法第320 條│陳守元共同竊盜，未遂，累犯，處有│
+│    │(一)及附表一編│第3 項、第1 │期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。扣案釣香油錢工具壹個│
+│    │號4所載     │項竊盜未遂罪│沒收。                          │
+├──┼──────┼──────┼────────────────┤
+│ 5  │如事實欄一、│刑法第320 條│陳守元共同竊盜，未遂，累犯，處有│
+│    │(一)及附表一編│第3 項、第1 │期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。                    │
+│    │號5所載     │項竊盜未遂罪│                                │
+├──┼──────┼──────┼────────────────┤
+│ 6  │如事實欄一、│刑法第321 條│陳守元踰越牆垣竊盜，累犯，處有期│
+│    │(二)所載      │第1 項第2 款│徒刑柒月。                      │
+│    │            │踰越牆垣竊盜│                                │
+│    │            │罪          │                                │
+└──┴──────┴──────┴────────────────┘
+附錄論罪科刑法條：
+中華民國刑法第320條
+意圖為自己或第三人不法之所有，而竊取他人之動產者，為竊盜
+罪，處5  年以下有期徒刑、拘役或 5 百元以下罰金。
+意圖為自己或第三人不法之利益，而竊佔他人之不動產者，依前
+項之規定處斷。
+前二項之未遂犯罰之。
+中華民國刑法第321條
+犯竊盜罪而有左列情形之一者，處 6 月以上、 5 年以下有期徒
+刑：
+一、於夜間侵入住宅或有人居住之建築物、船艦或隱匿其內而犯
+    之者。
+二、毀越門扇、牆垣或其他安全設備而犯之者。
+三、攜帶兇器而犯之者。
+四、結夥三人以上而犯之者。
+五、乘火災、水災或其他災害之際而犯之者。
+六、在車站或埠頭而犯之者。
+前項之未遂犯罰之。</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\Judday\OK\LAWCHD\CRIMINAL\9912\29\CHDM99CT.015] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
+											筆 / 現在第4
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%98%93&selectedCrmno=001163&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e6%98%93%2c1163%2c20101229%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=1163&jdate=991229&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e6%98%93%2c1163%2c20101229%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=1163&jdate=991229&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e6%98%93%2c1163%2c20101229%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e6%98%93','1163','991229','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

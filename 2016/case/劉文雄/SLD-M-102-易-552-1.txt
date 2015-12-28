@@ -1,0 +1,528 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣士林地方法院-刑-102易552</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣士林地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000552&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c552%2c20140116%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=552&jdate=1030116&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c552%2c20140116%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=552&jdate=1030116&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c552%2c20140116%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','552','1030116','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,易,552</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030116</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣士林地方法院刑事判決　　　　　　　102年度易字第552號
+公　訴　人　臺灣士林地方法院檢察署檢察官
+被　　　告　胡宋月卿
+選任辯護人　張立達律師
+上列被告因詐欺案件，經檢察官提起公訴（102 年度偵緝字第53
+5 號）及蒞庭檢察官當庭言詞追加起訴犯罪事實，本院判決如下
+：
+    主  文
+胡宋月卿犯如附表一所示之罪，各處如附表一所示之刑。應執行
+有期徒刑捌月，如易科罰金，以新臺幣壹仟元折算壹日。
+    事  實                                
+一、胡宋月卿前於民國97年11月間，自任會首邀集陳美雲及詹美
+    娟、莊美櫻、張美玉、施翠琴等人在內之多人參加合會（即
+    民間互助會，實際會員詳如附表二），會期自97年11月15日
+    起至100 年4 月15日止，會首連同會員共計36會，每會新臺
+    幣（下同）1 萬元，採內標制，底標1,200 元，每月15日在
+    臺北市○○區○○街000 號1 樓開標，每年1 月30日、5 月
+    30日、9 月30日各加開標1 次。詎胡宋月卿因急需周轉，竟
+    意圖為自己不法之所有並基於行使偽造準私文書之犯意，於
+    該次合會之會期中第17會至第20會即99年1 月15日起至99年
+    3 月15日間，先後4 次於開標期日冒用某活會會員姓名，在
+    標單上偽填標息，惟未填寫被冒名者之姓名，依該合會之習
+    慣，足以辨明係該合會會員以所書寫之數字為標息金額參加
+    競標之標單，再持之向在場投標會員詐稱係某未實際到場參
+    與競標（或有競標但非標息最高者）之被冒名者得標而行使
+    之，並向未到場競標之會員訛以上情，致陳美雲等活會會員
+    陷於錯誤而繳交會款，而詐得如附表一所示之合會金金額共
+    計622,000 元，致生損害於遭冒名投標之會員及其他活會會
+    員；嗣於99年8 月15日，胡宋月卿因無力周轉而宣告倒會，
+    陳美雲詢問其他會員得標情形，始悉上情。
+二、案經陳美雲告訴臺灣士林地方法院檢察署檢察官偵查起訴暨
+    蒞庭檢察官當庭追加起訴犯罪事實。
+    理  由                                
+一、證據能力之判斷：
+（一）按被告以外之人於審判外之言詞或書面陳述，除法律有規
+      定者外，不得作為證據；又被告以外之人於審判外之陳述
+      ，雖不符合同法第159 條之1 至第159 條之4 之規定，但
+      經當事人於審判程序同意作為證據，法院審酌該言詞陳述
+      或書面陳述作成時之情況，認為適當者，亦得為證據。刑
+      事訴訟法第159 條第1 項及第159 條之5 第1 項分別定有
+      明文。經查，本判決所引用被告以外之人於審判外之陳述
+      ，雖屬傳聞證據，然被告胡宋月卿及其辯護人於本院準備
+      程序及最後審判期日中均未予爭執，且迄至言詞辯論終結
+      前亦未再聲明異議（見本院卷第17頁、第41頁），本院審
+      酌上開證據資料作成時之情況，尚無違法不當及證明力明
+      顯過低之瑕疵，亦認為以之作為證據應屬適當，揆諸上揭
+      規定，爰依刑事訴訟法第159 條之5 規定，認前揭資料應
+      有證據能力。
+（二）其他本判決引用資以認定事實所憑之非供述證據，被告及
+      其辯護人於本院準備程序、審理時均不爭執證據能力（見
+      本院卷第17頁、第41頁），且無證據證明係公務員違背法
+      定程序所取得，應有證據能力。
+二、訊據被告對前揭犯罪事實均坦承不諱（見本院卷第39頁背面
+    、第43頁），核與告訴人即證人陳美雲於偵查中證述：被告
+    不只冒標2 次，且大多數會員投標時都不在標單上寫名字，
+    只寫金額等語（見臺灣士林地方法院檢察署102 年度偵緝字
+    第535 號卷，下稱偵緝卷，第48頁），於本院審理中證稱：
+    照伊會單上之記載，99年8 月15日最後1 次開標時，伊負責
+    之家族親友12會中仍有起訴書附表編號24、25、27到33號共
+    計9 個活會，其他還有編號1 莊美櫻有2 個活會，編號10陳
+    翠萍（即黃翠萍）有1 個活會，編號17至18黃如（即黃秋如
+    ）有1 個活會，秀美（即陳秀英）告訴伊99年8 月15日是由
+    渠得標，秀美應該還有1 個活會，共計應有14個活會，但按
+    會單之記載99年8 月15日時僅剩10個會沒有標等語（見本院
+    卷第36頁、第36頁背面、第38頁），證人陳秀英於本院審理
+    中證稱：伊在該互助會的代號遭被告誤寫為秀美，伊參加2
+    會，但標了1 會後該互助會就沒有再繼續了等語（見本院卷
+    第39頁背面至第40頁）相符，復有互助會名單影本1 紙（見
+    偵緝卷第44頁，核與本院審理中告訴人庭呈之互助會名單原
+    本相符）在卷可稽，足認被告之任意性自白與事實相符，被
+    告確有4 次冒標之行為。雖被告就冒標之時間及冒何活會會
+    員名義所為等節僅供陳：大概是在第10會至第20會間冒標4
+    會等語（見本院卷第39頁背面），公訴人復未能舉證證明該
+    4 次冒標時間及遭冒標之活會會員為何，依有疑唯利被告原
+    則，自應認定被告冒標之時間為第17至20會共計4 會，即詐
+    騙之活會會員人數及詐得之合會金金額最少之情形，對被告
+    最為有利，並據此計算如附表一之詐騙所得。綜上，本案事
+    證明確，被告犯行洵堪認定，應依法論科。
+三、論罪科刑：
+（一）按合會已標取會款者（即一般所稱之死會），於標取會款
+      後不問何人得標，至完會止，本有向會首按時交付會款之
+      義務，會首冒標會款時，除對於活會會員有冒標施詐（即
+      佯稱某某人得標），使活會會員陷於錯誤，誤認係被冒標
+      之人得標而交付會款，成立詐欺取財罪外，對於已標取會
+      款之會員，因按時繳付會款本為其標取會款後之義務，並
+      無施詐或使其陷於錯誤可言，自無成立詐欺罪之餘地，是
+      已標取會款之會員對於嗣後會首之冒標會款，不能認係詐
+      欺之被害人（最高法院92年度台上字第1138號判決意旨可
+      資參照）。次按合會，係由會首招募會員參加所組成，每
+      於標會時，通常由欲標取會款之會員，在空白紙條上，或
+      僅書立其姓名、綽號及數字者，甚或只書寫數字而未書立
+      其姓名、綽號，另以上開言詞等方法表示係何會員所出具
+      者，則依習慣或特約均足以辨明係該會員以所書數字為標
+      息金額參加競標之標單，自應以私文書論（最高法院89年
+      度台上字第1319號、94年度台上字第1439號判決意旨可資
+      參照）。查被告所為4 次冒標行為均有填寫標單並僅在標
+      單上填寫標息，而未填寫「標單」2 字及某被冒名活會會
+      員之姓名等節，除據被告自承（見本院卷第43頁）外，亦
+      經告訴人到庭結證稱：開標過程在標單上只有寫金額，因
+      為是當場打開標單，所以有去標的人大家都知道是誰等語
+      在卷（見本院卷第38頁背面），則標單上僅有寫標息金額
+      乙情，應堪認定。是被告就附表一所為，係先後多次冒用
+      某活會會員名義在標單書寫標息，並加以行使出示予在場
+      之人而虛偽得標，進而向其他活會會員詐取會款，足生損
+      害於遭冒名投標之會員及其他活會會員，均核係犯刑法第
+      216 條、第210 條、第220 條第1 項行使偽造準私文書罪
+      及同法第339 條第1 項詐欺取財罪。被告偽造準私文書之
+      低度行為為行使偽造準私文書之高度行為所吸收，不另論
+      罪。被告每次冒名投標時，向在場參與投標之多位活會會
+      員同時行使偽造標單，均係基於單一犯意為之，均應僅構
+      成單純一罪。被告每次冒標時之詐欺行為，使多數不知情
+      之活會會員陷於錯誤而交付財物，因侵害法益種類相同，
+      為同種想像競合犯，應從一詐欺取財罪處斷。被告各次冒
+      標行為均係基於詐取活會會員會款之單一行為決意，係以
+      一冒標行為同時觸犯刑法第216 條、第220 條第1 項、第
+      210 條之行使偽造準私文書罪及同法第339 條第1 項之詐
+      欺取財罪，為異種想像競合犯，均應依刑法第55條之規定
+      ，從一重之行使偽造私文書罪處斷。起訴書犯罪事實欄固
+      未就行使偽造私文書部分予以記載，惟該部分與詐欺取財
+      罪有想像競合犯之裁判上一罪關係，為起訴效力所及，且
+      本院已將該法條告知（見本院卷第35頁背面），並無礙於
+      被告防禦權之行使，自得併予審理。被告所犯如附表一所
+      示4 次行使偽造準私文書罪，犯意各別，行為互殊，應予
+      分論併罰。
+（二）爰審酌被告明知其以會養會之財務風險甚高，稍有不甚即
+      可能造成倒會之結果，竟不當利用他人對己之信賴，仍以
+      召集合會之方式募集資金，並多次冒標詐取活會會員之會
+      款合計達62萬2 千元，對告訴人及其他活會會員之財產損
+      害非輕，惟念其犯後已知坦承犯行，已與被害人莊美櫻、
+      黃秋如、黃翠屏等活會會員達成和解，有證明書、和解書
+      計3 紙在卷可參（見本院卷第46至48頁），被告亦已賠償
+      被害人陳秀英5 萬元、告訴人28萬元之金額，亦為被害人
+      陳秀英及告訴人所是認（見本院卷第41頁、第43頁背面）
+      ，犯後態度尚可，兼衡其犯罪動機係因長期照顧其重度殘
+      障之子需固定支出，其因照顧其子無法外出工作，又被他
+      人倒會，且有會員得標後便沒再付錢，致其周轉不靈，在
+      需款急用之狀況下始為本件犯行，暨其71年間曾犯竊盜罪
+      之素行、國小畢業之智識程度，與重度殘障之子同住，其
+      夫與另一子同住大陸，現依賴子女扶養為生之家庭生活經
+      濟狀況等一切情狀，分別量處如附表一所示之刑，並均諭
+      知易科罰金之折算標準，及定其應執行之刑暨易科罰金之
+      折算標準。又被告行為後，刑法第50條業於102 年1 月23
+      日修正公布，並自102 年1 月25日生效施行，修正前刑法
+      第50條規定：「裁判確定前犯數罪者，併合處罰之。」，
+      而修正後刑法第50條則規定：「裁判確定前犯數罪者，併
+      合處罰之。但有下列情形之一者，不在此限：一、得易科
+      罰金之罪與不得易科罰金之罪。二、得易科罰金之罪與不
+      得易服社會勞動之罪。三、得易服社會勞動之罪與不得易
+      科罰金之罪。四、得易服社會勞動之罪與不得易服社會勞
+      動之罪。前項但書情形，受刑人請求檢察官聲請定應執行
+      刑者，依第五十一條規定定之。」。是以，修正前之刑法
+      第50條於修正後移列為第1 項，並增訂第1 項但書及第2
+      項，其中第1 項第1 款就得易科罰金之罪與不得易科罰金
+      之罪，明文不得併合處罰，惟本件被告所犯4 罪均屬得易
+      科罰金之罪，上開修正規定於本件不生影響，自毋庸為新
+      舊法比較。
+（三）辯護意旨雖主張被告於釐清事實後即坦承全部犯罪，被告
+      係因照顧殘障之子，且因為被倒會才為本案行為，之後也
+      積極賠償全部因被冒標被害人之損失，告訴人所稱被告尚
+      欠他鉅款是將倒會後的民事賠償也算入，被告對告訴人也
+      表示歉意，請求考量本案情節宣告被告緩刑云云。惟按法
+      院對於具備緩刑條件之刑事被告，認為以暫不執行刑罰為
+      適當者，得宣告緩刑，為刑法第74條第1 項所明定，至於
+      暫不執行刑罰之是否適當，則由法院就被告有無累犯之虞
+      ，及能否由於刑罰之宣告而策其自新等一切情形，依其自
+      由裁量定之，與犯罪情節是否可原，並無關係（最高法院
+      29年上字第26號判例意旨參照）。查被告未曾因故意犯罪
+      受有期徒刑以上刑之宣告乙節，固有臺灣高等法院被告前
+      案紀錄表附卷可稽，本院審酌被告雖於審理時終能坦承全
+      部犯行，然於證人陳美雲、陳秀英到庭證述前，卻矢口否
+      認2 次以上之冒標犯行，且於99年8 月15日倒會後，隨即
+      搬離當時住所，避不見面，亦未積極處理賠償事宜，使被
+      害人數年間均求償無門，對於被害人等之身、心、財產所
+      生危害非輕；嗣經通緝後於102 年7 月10日遭緝獲到案，
+      始願積極賠償被害人之損失，此由被告與被害人莊美櫻、
+      黃秋如、黃翠屏等活會會員均於103 年1 月1 日始達成和
+      解乙情觀之甚明，足見被告係意圖拖免債務及罪責而長期
+      逃匿；又被告迄今未能與告訴人等達成和解，告訴人於本
+      院審理中仍未能原諒被告，並請求本院依法判決等情狀，
+      難認經由緩刑程序得以矯正被告之偏差行為，況本院就被
+      告上開犯行於論罪科刑時所審酌之情狀業經詳敘如上，為
+      使被告知所警惕，認其仍有接受刑罰教化之必要，爰不予
+      宣告緩刑，併此敘明。
+（四）至被告所偽造之標單，均未據告訴人及被告提出扣案，且
+      無證據證明上開標單現尚存在，又參酌一般民間互助會之
+      習慣，於每次開標完後，當場即將標單撕毀或丟棄之情，
+      堪認上開標單均已滅失，故均不為沒收之諭知。
+據上論斷，應依刑事訴訟法第299 條第1 項前段，刑法第216 條
+、第210 條、第220 條第1 項、第339 條第1 項、第55條、第41
+條第1 項前段、第8 項，判決如主文。
+本案經檢察官許梨雯到庭執行職務。
+中    華    民    國  103     年    1     月    16    日
+                  刑事第四庭審判長法  官  宋松璟
+                                  法  官  高雅敏
+                                  法  官  張毓軒
+以上正本證明與原本無異。
+G1-&gt;如不服本判決應於收受判決後10日內向本院提出上訴書狀，
+並應敘述具體理由；其未敘述上訴之理由者，應於上訴期間屆滿
+後20日內向本院補提理由書（均須按他造當事人之人數附繕本）
+，切勿逕送上級法院。 
+                                  書記官  鄭雅仁
+中    華    民    國   103    年    1     月    21    日
+附錄本判決論罪科刑法條依據：
+刑法第216 條
+行使第210 條至第215 條之文書者，依偽造、變造文書或登載不
+實事項或使登載不實事項之規定處斷。
+刑法第210 條
+偽造、變造私文書，足以生損害於公眾或他人者，處5 年以下有
+期徒刑。
+刑法第220 條第1 項
+在紙上或物品上之文字、符號、圖畫、照像，依習慣或特約，足
+以為表示其用意之證明者，關於本章及本章以外各罪，以文書論
+。
+刑法第339 條第1 項
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
+物交付者，處5 年以下有期徒刑、拘役或科或併科1 千元以下罰
+金。
+附表一：
+ ┌─┬──────┬─────┬───────────┬──────┬───────────┐
+ │編│冒標日期    │ 標金     │  受詐欺之活會人數    │詐得合會金金│罪名暨宣告刑          │
+ │號│            │（新臺幣）│                      │額（新臺幣）│                      │
+ ├─┼──────┼─────┼───────────┼──────┼───────────┤
+ │ 1│99年1 月15日│          │總會員36人－死會會員16│7,800 &#215;20（│胡宋月卿犯行使偽造準私│
+ │  │（第17期）  │2,200     │人＝20人              │活會會員）  │文書罪，處有期徒刑參月│
+ │  │            │          │註：第16次開標，連同會│＝156,000   │，如易科罰金，以新臺幣│
+ │  │            │          │首取得標金之首會合併計│            │壹仟元折算壹日。      │
+ │  │            │          │算為第17會，死會會員人│            │                      │
+ │  │            │          │數（含會首）為16人。  │            │                      │
+ ├─┼──────┼─────┼───────────┼──────┼───────────┤
+ │ 2│99年1 月30日│          │總會員36人－死會會員16│7,700 &#215;20（│胡宋月卿犯行使偽造準私│
+ │  │（第18期）  │2,300     │人＝20人              │活會會員）  │文書罪，處有期徒刑參月│
+ │  │            │          │註：第17次開標，連同會│＝154,000   │，如易科罰金，以新臺幣│
+ │  │            │          │首取得標金之首會合併計│            │壹仟元折算壹日。      │
+ │  │            │          │算為第18會，惟前開第17│            │                      │
+ │  │            │          │會有冒標情形，該期活會│            │                      │
+ │  │            │          │人數不扣除。          │            │                      │
+ ├─┼──────┼─────┼───────────┼──────┼───────────┤
+ │ 3│99年2 月15日│          │總會員36人－死會會員16│7,600 &#215;20（│胡宋月卿犯行使偽造準私│
+ │  │（第19期）  │2,400     │人＝20人              │活會會員）  │文書罪，處有期徒刑參月│
+ │  │            │          │註：第18次開標，連同會│＝152,000   │，如易科罰金，以新臺幣│
+ │  │            │          │首取得標金之首會合併計│            │壹仟元折算壹日。      │
+ │  │            │          │算為第19會，惟前開第17│            │                      │
+ │  │            │          │、18會有冒標情形，該2 │            │                      │
+ │  │            │          │期活會人數不扣除。    │            │                      │
+ │  │            │          │                      │            │                      │
+ ├─┼──────┼─────┼───────────┼──────┼───────────┤
+ │ 4│99年3 月15日│          │總會員36人－死會會員16│8,000 &#215;20（│胡宋月卿犯行使偽造準私│
+ │  │（第20期）  │2,000     │＝20人                │活會會員）  │文書罪，處有期徒刑參月│
+ │  │            │          │註：第19次開標，連同會│＝160,000   │，如易科罰金，以新臺幣│
+ │  │            │          │首取得標金之首會合併計│            │壹仟元折算壹日。      │
+ │  │            │          │算為第20會，惟前開第17│            │                      │
+ │  │            │          │、18、19會有冒標情形，│            │                      │
+ │  │            │          │該3 期活會人數不扣除。│            │                      │
+ ├─┼──────┼─────┼───────────┼──────┼───────────┤
+ │  │            │          │ 合            計     │622,000     │                      │
+ └─┴──────┴─────┴───────────┴──────┴───────────┘
+
+附表二：合會會員名單
+┌───┬─────────┐
+│編號  │    姓名          │
+├───┼─────────┤
+│會首  │胡宋月卿          │
+├───┼─────────┤
+│1     │莊美櫻            │
+├───┼─────────┤
+│2     │張美玉            │
+├───┼─────────┤
+│3     │施翠琴            │
+├───┼─────────┤
+│4     │張國夫            │
+├───┼─────────┤
+│5     │許勝富            │
+├───┼─────────┤
+│6     │許泰山            │
+├───┼─────────┤
+│7     │許泰山            │
+├───┼─────────┤
+│8     │傅美麗            │
+├───┼─────────┤
+│9     │美都              │
+├───┼─────────┤
+│10    │陳翠萍（即黃翠萍）│
+├───┼─────────┤
+│11    │陳玉芬            │
+├───┼─────────┤
+│12    │吳春嬌            │
+├───┼─────────┤
+│13    │陳佳鴻            │
+├───┼─────────┤
+│14    │陳丕欣            │
+├───┼─────────┤
+│15    │佳珍              │
+├───┼─────────┤
+│16    │麗美              │
+├───┼─────────┤
+│17    │黃如（即黃秋如）  │
+├───┼─────────┤
+│18    │黃如（即黃秋如）  │
+├───┼─────────┤
+│19    │秀美（即陳秀英）  │
+├───┼─────────┤
+│20    │陳玉珍            │
+├───┼─────────┤
+│21    │王志中            │
+├───┼─────────┤
+│22    │阿蜜              │
+├───┼─────────┤
+│23    │佳麗              │
+├───┼─────────┤
+│24    │藍金蘭            │
+├───┼─────────┤
+│25    │萬清蘭            │
+├───┼─────────┤
+│26    │朱忠能            │
+├───┼─────────┤
+│27    │陳志賢            │
+├───┼─────────┤
+│28    │詹美玲            │
+├───┼─────────┤
+│29    │詹美娟            │
+├───┼─────────┤
+│30    │<font color='red'>劉文雄            </font>│
+├───┼─────────┤
+│31    │小雲              │
+├───┼─────────┤
+│32    │劉<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />輝            │
+├───┼─────────┤
+│33    │劉佳璇            │
+├───┼─────────┤
+│34    │劉雅婷            │
+├───┼─────────┤
+│35    │劉家瑜            │
+└───┴─────────┘</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWSLD\CRIMINAL\10301\16\SLDM1031G.00B] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000552&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c552%2c20140116%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=552&jdate=1030116&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c552%2c20140116%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=552&jdate=1030116&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c552%2c20140116%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','552','1030116','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="SLD 臺灣士林地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
