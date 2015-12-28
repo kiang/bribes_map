@@ -112,7 +112,12 @@ while ($line = fgetcsv($fh, 2048)) {
         curl_setopt($curl, CURLOPT_COOKIESESSION, true);
         curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
         curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-        $content = curl_exec($curl);
+        curl_setopt($curl, CURLOPT_HEADER, 1);
+        $response = curl_exec($curl);
+        $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
+        $header = substr($response, 0, $header_size);
+        $content = substr($response, $header_size);
+        echo $header;
         //curl_close($curl);
         if (!preg_match('#(\d+)\s+筆 / 每頁\s+20\s+筆 / 共\s+\d+\s+頁 / 現在第#m', $content, $matches)) {
             //print_r($content);
@@ -134,8 +139,13 @@ while ($line = fgetcsv($fh, 2048)) {
             curl_setopt($curl, CURLOPT_REFERER, 'http://jirs.judicial.gov.tw/FJUD/FJUDQRY02_1.aspx');
             curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
             curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($curl, CURLOPT_HEADER, 1);
             sleep(1);
-            $content = curl_exec($curl);
+            $response = curl_exec($curl);
+            $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
+            $header = substr($response, 0, $header_size);
+            $content = substr($response, $header_size);
+            echo $header;
 
             if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
                 fputs($logFh, "{$case_url}?id={$j}&{$param}\n");
