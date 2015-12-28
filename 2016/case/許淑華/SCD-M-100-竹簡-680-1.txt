@@ -1,0 +1,363 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣新竹地方法院-刑-100竹簡680</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣新竹地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%ab%b9%e7%b0%a1&selectedCrmno=000680&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c680%2c20110909%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=680&jdate=1000909&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c680%2c20110909%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=680&jdate=1000909&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e7%ab%b9%e7%b0%a1%2c680%2c20110909%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e7%ab%b9%e7%b0%a1','680','1000909','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,竹簡,680</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000909</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣新竹地方法院刑事簡易判決　　　　100年度竹簡字第680號
+聲　請　人　臺灣新竹地方法院檢察署檢察官
+被　　　告　傅楚君
+上列被告因詐欺案件，經檢察官聲請以簡易判決處刑（100 年度
+偵字第2674號、第3835號），本院判決如下：
+    主  文
+傅楚君幫助犯詐欺取財罪，處拘役伍拾玖日，如易科罰金，以新
+臺幣壹仟元折算壹日。
+    事實及理由
+一、本件犯罪事實：
+（一）傅楚君明知近年來臺灣社會盛行以虛設、租賃、借用或買
+      賣人頭帳戶之方式，供詐騙集團作為詐欺他人交付財物或
+      恐嚇他人交付贖金等不法用途，亦知金融機構帳戶係個人
+      理財之重要工具，且關係個人財產、信用之表徵，應可預
+      見他人向其收購金融機構帳戶之存摺、印章、金融卡及可
+      語音查詢個人存款帳戶之密碼者，目的及手段詭異，應有
+      持帳戶等相關物件，供己詐騙或恐嚇他人錢財之意圖，其
+      亦知悉提供帳戶之存摺、金融卡供他人使用，具有幫助掩
+      飾或藏匿他人犯罪所得財物之可能性，竟仍基於縱有人以
+      其金融帳戶實施詐欺犯罪亦不違背其本意之幫助詐騙集團
+      從事詐欺取財行為之犯意，於民國99年12月22日前某日，
+      在不詳處所，將其所有中華郵政股份有限公司新竹縣寶山
+      郵局帳號00000000000000號帳戶（下稱寶山郵局帳戶）之
+      提款卡及密碼，交付真實姓名年籍不詳已成年之詐欺集團
+      成員。嗣該詐欺集團成員於取得上揭帳戶之提款卡及密碼
+      後，即基於意圖為自己不法所有之詐欺取財犯意，分別為
+      下列行為：(1)於99年12月21日中午12時許，在露天拍賣網
+      站上虛偽刊登販售王品禮券之訊息，致張莉菁陷於錯誤，
+      下標購買，並於99年12月23日下午2 時許，以自動櫃員機
+      轉帳新臺幣（下同）2,590 元至上開寶山郵局帳戶內，旋
+      遭提領一空；(2)於99年12月22日下午2 時許，在露天拍賣
+      網站上虛偽刊登販售Xango 美商讚果山竹果汁1 箱4 瓶商
+      品之訊息，致<font color='red'>許淑華</font>陷於錯誤，下標購買，並於翌（23）
+      日下午2 時30分許，在高雄市鼓山區○○○路1022號「內
+      惟郵局」，以自動櫃員機轉帳3,100 元至上開寶山郵局帳
+      戶內，旋遭提領一空；(3)於99年12月22日晚上6 時許，在
+      露天拍賣網站上虛偽刊登販售iPad之訊息，致蔡明勳陷於
+      錯誤，以電話聯絡後，於同日晚上9 時41分許，在新北市
+      板橋區大漢橋下某統一超商內，以中國信託商業銀行自動
+      櫃員機轉帳13,000元至上開寶山郵局帳戶內，旋遭提領一
+      空。嗣張莉菁、<font color='red'>許淑華</font>及蔡明勳匯款後未收到貨物，察覺
+      受騙，報警處理，始悉上情。
+（二）案經蔡明勳訴由臺北市政府警察局北投分局移送臺灣臺北
+      地方法院檢察署呈請臺灣高等法院檢察署檢察長核轉臺灣
+      新竹地方法院檢察署檢察官，及張莉菁、<font color='red'>許淑華</font>訴由新竹
+      縣政府警察局竹東分局報告臺灣新竹地方法院檢察署檢察
+      官偵查後聲請簡易判決處刑。
+二、證據及理由：
+（一）被告傅楚君於警詢時及偵查中之供述。
+（二）證人即告訴人張莉菁、<font color='red'>許淑華</font>於警詢時之證述。
+（三）證人即告訴人蔡明勳於警詢時及偵查中之證述。
+（四）被告傅楚君之寶山郵局帳戶開戶基本資料、交易明細資料
+      、客戶歷史交易清單等影本各1 份。
+（五）告訴人張莉菁之玉山銀行東台南分行存摺明細表影本1 份
+      。
+（六）告訴人<font color='red'>許淑華</font>之存款明細（儲戶收執聯）、露天拍賣網頁
+      列印資料1 份。
+（七）告訴人蔡明勳之中國信託商業銀行自動櫃員機交易明細表
+      影本1 份。
+（八）被告傅楚君雖坦承上開寶山郵局帳戶之提款卡為其所有，
+      惟矢口否認有何提供帳戶供詐欺集團詐騙他人匯款之幫助
+      詐欺取財犯行，辯稱：伊所有上開帳戶之提款卡連同皮夾
+      （內有填寫提款卡密碼之紙條、身分證、健保卡、會員卡
+      及現金4, 000餘元），於99年11月4 日後某日，在新竹市
+      ○○街一起遺失云云。惟查：
+  １、按金融存款帳戶，事關存戶個人財產權益之保障，其與提
+      款卡及密碼結合，專有性自屬更高，若落入不明人士手中
+      ，極易被利用為取贓之犯罪工具，是一般人均有妥為保管
+      以防止他人任意使用之認識，倘不慎遺失或遭竊，衡情均
+      會報案或掛失，以免帳戶遭冒用產生糾紛，且各金融機構
+      均有24小時之服務專線電話，即使無法立即親臨櫃台辦理
+      掛失，亦可先以電話掛失並停止帳戶之交易，尚無任何困
+      難可言，且為普通常識，而向警方報案更無時間上之限制
+      ，惟本件被告於發現上開帳戶之提款卡遺失後，竟未報警
+      或掛失以防止後續糾紛，完全輕忽以對，實有悖於一般人
+      對帳戶管理之常情。又各金融機構之帳戶存摺提款密碼僅
+      係提供帳戶所有人知悉，帳戶所有人亦通常會另外自行設
+      定，他人實無從知悉該密碼為何，苟單純僅係遺失帳戶存
+      摺及提款卡，他人難以使用上開帳戶作為提款之工具，況
+      一般設定密碼，必以自身熟悉而旁人無從猜測之數字組合
+      為要，然本件被告將填寫密碼之紙條與提款卡置於同處，
+      則形同未設密碼，豈不違背常理，啟人疑竇；況且被告於
+      偵查中尚能明確背誦上開帳戶之提款卡密碼，如此密碼既
+      為其所熟悉，何以有抄寫於紙上之必要。再者，被害人係
+      因受詐騙集團之詐欺而匯款轉帳，倘詐騙集團係拾獲被告
+      之提款卡，衡情當無罔顧業已花費大量人力、物力、時間
+      詐騙被害人後，命被害人匯款至一隨時可能因掛失止付而
+      不能提領款項之帳戶內之理？是詐騙集團於命被害人匯款
+      入被告前揭帳戶內時，應已確信被告該帳戶可供正常使用
+      ，不致因被告掛失而無法使用。而就此等事務之經驗法則
+      判斷，則需被告自行提供提款卡並告知密碼始能達成，從
+      而，堪認被告確曾交付前揭帳戶之提款卡與密碼予詐騙集
+      團以利其詐欺取得他人財物，是被告所辯該提款卡係遺失
+      云云，自難採信。
+  ２、次按刑法上之故意，分直接故意（確定故意）與間接故意
+      （不確定故意），「行為人對於構成犯罪之事實，明知並
+      有意使其發生者」為直接故意；又「行為人對於構成犯罪
+      之事實，預見其發生而其發生並不違背其本意者」為間接
+      故意；而參以郵政儲金或銀行帳戶可供款項之存匯、提領
+      ，一般人均可輕易申請開設，並無任何資格條件之限制，
+      苟有使用金融存款帳戶之正當用途，自以使用其本人或可
+      信賴之親友申請之帳戶，最為便利安全，始可避免帳戶名
+      義人反悔或心存歹念，利用通知掛失止付、變更存戶印鑑
+      圖章或換摺之方式，將帳戶內之款項領走一空，反致使用
+      帳戶人蒙受損失，苟非為犯罪等不法目的或為掩飾自己真
+      實身分，並藉以逃避查緝，依常情並無捨棄自己申設帳戶
+      而迂迴以花費金錢或其他方法向無相當信賴關係之陌生人
+      取得帳戶使用之理，且近年來以詐欺取財之犯罪類型層出
+      不窮，該等犯罪，多數均係利用他人帳戶作為詐欺所得財
+      物之出入帳戶，業經媒體廣為揭載，是依一般人通常之知
+      識、智能及經驗，均已詳知向陌生人購買、承租或其他方
+      法取得帳戶者，多係欲藉該帳戶取得不法犯罪所得，且隱
+      匿帳戶內資金之實際取得人之身分，以逃避追查，被告係
+      成年且有智識之人，對於交付上開寶山郵局帳戶之提款卡
+      及密碼予該真實姓名年籍不詳之詐欺集團成員，將可能被
+      用來作為詐欺取財等非法用途上，應有所預見，被告顯有
+      幫助詐欺取財之不確定故意存在，應堪認定，本件事證明
+      確，被告犯行堪予認定，應依法論科。
+三、論罪及科刑：
+（一）論罪：
+  １、按幫助犯之成立，主觀上行為人須有幫助故意，客觀上須
+      有幫助行為，亦即刑法上之幫助犯，係對於犯罪與正犯有
+      共同之認識，而以幫助之意思，對於正犯資以助力，而未
+      參與實施犯罪之行為者而言（最高法院75年度台上字第15
+      09號、84年度台上字第5998號、第6475號、88年度台上字
+      第1270號判決均同此意旨）。
+  ２、本件被告基於幫助他人詐欺取財之不確定故意，將其所有
+      寶山郵局提款卡及密碼提供予詐騙集團成員使用，以利其
+      誘使他人匯入款項後自該帳戶提領花用，被告所為亦僅係
+      刑法詐欺罪構成要件以外之行為，復無證據證明被告有參
+      與詐欺犯行之實施，應屬刑法第30條之幫助犯。
+  ３、查本件被告以一提供帳戶之幫助行為，幫助詐騙集團分別
+      詐取張莉菁、<font color='red'>許淑華</font>及蔡明勳等3 人之財物，屬一次幫助
+      詐欺行為而觸犯數法益之想像競合犯之裁判上一罪之關係
+      ，依刑法第55條前段規定，應僅成立1 次幫助犯罪行為，
+      故被告所為係犯刑法第339 條第1 項、第30條第1 項前段
+      之幫助詐欺取財罪。又被告係幫助他人犯罪，爰依刑法第
+      30條第2 項之規定，按正犯之刑減輕之。
+（二）科刑：審酌被告明知近年來國內多有詐欺、恐嚇集團犯案
+      ，均係使用人頭帳戶以作為收受不法所得款項之手段，竟
+      仍為幫助他人詐欺之犯行，以助長犯罪集團惡行，供詐欺
+      犯取得所騙財物之工具，其對於社會秩序之擾亂不言而喻
+      ，及其幫助詐欺行為對被害人造成之損害而無從求償，以
+      及被告犯罪後否認犯行、被害人人數、被害人所受之損害
+      等一切情狀，量處如主文所示之刑，並諭知易科罰金之折
+      算標準，以資懲儆。
+四、依刑事訴訟法第449 條第1 項前段、第454 條第1 項，刑法
+    第339 條第1 項、第30條第1 項前段、第2 項、第41條第1
+    項前段、第55條前段，刑法施行法第1 條之1 第1 項、第2
+    項前段，逕以簡易判決處刑如主文。
+中    華    民    國   100    年    9     月    9     日
+                     新竹簡易庭  法  官   邱忠義
+以上正本證明與原本無異。
+如不服本判決，應於判決送達後10日內向本院提出上訴書狀。上
+訴書狀應敘述具體理由，未敘述上訴理由者，應於上訴期間屆滿
+後20日內補提理由書狀於本院（均須按他造當事人之人數附繕本
+）「切勿逕送上級法院」。
+中    華    民    國   100    年    9     月    9     日
+                                 書記官   吳美雲
+附錄本案論罪科刑實體法條全文：
+刑法第339 條第1 項：
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
+物交付者，處5 年以下有期徒刑、拘役或科或併科1,000 元以下
+罰金。（罰金之貨幣單位改為新臺幣，並提高為30倍）
+刑法第30條：
+幫助他人實行犯罪行為者，為幫助犯。雖他人不知幫助之情者，
+亦同。
+幫助犯之處罰，得按正犯之刑減輕之。</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWSCD\CRIMINAL\10009\09\SCDM10099.001] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%ab%b9%e7%b0%a1&selectedCrmno=000680&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c680%2c20110909%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=680&jdate=1000909&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c680%2c20110909%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=680&jdate=1000909&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e7%ab%b9%e7%b0%a1%2c680%2c20110909%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e7%ab%b9%e7%b0%a1','680','1000909','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="SCD 臺灣新竹地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許淑華">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許淑華">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
