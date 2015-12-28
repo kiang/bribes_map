@@ -1,0 +1,336 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣臺中地方法院-刑-88自579</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共25
+											筆 / 現在第25
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%87%aa&selectedCrmno=000579&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=24&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%87%aa%2c579%2c20000107&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%87%aa&jno=579&jdate=890107&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=88%2c%e8%87%aa%2c579%2c20000107&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%87%aa&jno=579&jdate=890107&jcheck=">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('88%2c%e8%87%aa%2c579%2c20000107','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%87%aa','579','890107','')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">88,自,579</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">890107</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">業務侵占</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　　　　　　　八十八年度自字第五七九號
+　　自　訴　人　美西北實業有限公司　設台中市○○路○段一六九之一號五樓之二
+　　代　表　人　黃博昭
+　　自訴代理人　庚○○
+　　被　　　告　丁○○
+　　被　　　告　丙○○
+　　共　　　同
+　　選任辯護人　林家進
+右列被告等因業務侵占案件，經自訴人提起自訴及檢察官移送併案審理（八十八年度
+偵字第八六五二號），本院判決如左：
+    主  文
+丁○○、丙○○均無罪。
+    理  由
+一、自訴意旨略以：自訴人即美西北實業有限公司（下稱美西北公司）係於民國八十
+    五年十二月十日成立，成立之初僅有僅有自訴代表人、被告丁○○二位股東，嗣
+    於八十六年十月復邀集己○○等人入股，被告丙○○亦為公司股東之一，而被告
+    丁○○係任公司總經理，並在大陸購買工廠生產鞋子，且公司對外之業務、採購
+    及台灣公司一切事務均由被告丁○○、丙○○二人負責，均為從事業務之人，詎
+    被告丁○○、丙○○二人竟共同基於概括之犯意聯絡，自八十六年五月間起，竟
+    利用職務之便，連續侵占左列客戶所支付之貨款：
+（一）八十六年五月份向宗益皮革有限公司（下稱宗益公司）請款金額為新台幣（下
+      同）三十六萬二千零九十四元，實際上宗益公司之貨款僅為三十一萬四千八百
+      三十元，被告二人共計侵占四萬七千二百六十四元。
+（二）八十六年六月份之請款金額為九萬四千九百零五元，宗益公司之貨款為八萬一
+      千三百五十元，被告二人共計侵占一萬三千五百五十五元。
+（三）八十七年一月份至二月份之請款金額為五百二十五萬四千一百二十元，宗益公
+      司之貨款為四百六十九萬二千三百七十六點八元，被告二人共計侵占五十六萬
+      一千七百四十三點二元。
+（四）八十七年五月份之請款金額為十二萬一千一百三十九元，宗益公司之貨款為八
+      萬六千一百元，被告二人共計侵占三萬五千零三十九元。
+（五）八十七年十月二十日公司銷貨貨款應收一百四十四萬六千二百四十五元未入帳
+      ，被告丙○○於同年月二十二日僅匯入十一萬一千八百四十八元，而八十七年
+      十月二十六日應入帳有二筆分為二十五萬一千三百二十八元、二十六萬四千元
+     僅有傳票，亦未入帳，被告二人共計侵占一百八十四萬九千七百二十五元。
+    因認被告丁○○、丙○○二人涉有刑法第三百三十六條第二項之業務侵占罪嫌云
+云。
+二、按犯罪事實應依證據認定之，無證據不得推定其犯罪事實；又不能證明被告犯罪
+    者，即應諭知無罪之判決，刑事訴訟法第一百五十四條、第三百零一條第一項分
+    別定有明文。此於自訴案件亦有準用之明文。
+三、本件自訴人認被告丁○○、丙○○二人涉有業務侵占罪嫌，無非以證人戊○○、
+    己○○、江國彬證言、八十六年五、六月份、八十七年一、二、四、六月份之請
+    款明細表影本及轉帳傳票影本各一份、八十七年十月份轉帳傳票影本一份、存摺
+    一份為其主要論據。本件訊據被告丁○○、丙○○均堅決否認有何業務侵占犯行
+    ，被告丁○○辯稱：伊係於八十六年十一月間，始進入自訴人公司任職，負責開
+    發及接單工作，自訴人公司之帳目均有專任會計負責記帳，伊並不經手公司帳款
+    ，並未與被告丙○○有共同侵占自訴人公司應支付予廠商貨款之事實等語；被告
+    丙○○則以：渠係於八十六年十一月間始正式至自訴人公司任職，雖曾於自訴人
+    公司八十六年六月份貨款請款對照表上簽名，惟係因渠對鞋材市場較為熟悉，且
+    與自訴代表人黃博昭有朋友之誼，始應黃博昭要求，義務幫忙製作上開請款對照
+    表，又若自訴人公司應給付予宗益公司之貨款如經渠轉交，渠均會在轉帳傳票上
+    簽名，且公司股東間亦有約定，可在公司資金不足之情況下，先行借款予公司以
+    支付貨款，渠曾多次代墊自訴人公司應支付之貨款，至今自訴人公司尚積欠渠三
+    百多萬元借款，並未侵占自訴人公司應支付予廠商之貨款等語資為辯解。經查：
+    （一）被告丙○○係於八十六年十一月間始與己○○、莊君祿同時加入自訴人公
+    司，其中自訴代表人黃博昭出資四百萬元，被告丙○○出資四百萬元，己○○出
+    資三百萬元，莊君祿出資一百萬元，並於八十七年三月十二日辦理公司股東變更
+    登記完畢之事實，業據被告丁○○、丙○○二人供承在卷，且有當時任職自訴人
+    公司之會計即自訴代表人黃博昭之妻甲○○所製作之自訴人股東入股金明細表一
+    份、被告二人之勞工保險卡各一張、美西北公司變更登記事項卡及董事、股東名
+    單各一份附卷可稽，又觀之卷附之美西北公司八十七年三月十二日前之公司變更
+    登記事項卡及董事、股東名單中（附於偵查卷第一三○頁）並無被告丁○○、丙
+    ○○二人等情，足認被告丁○○、丙○○二人自承係均自八十六年十一月間始進
+    入自訴人公司任職乙節，應屬可採。雖證人己○○、江國彬二人均到庭證稱：被
+    告二人係於八十五年十二月間自訴人公司成立之時，即已在自訴人公司任職云云
+    ，然證人己○○就其入股之時間與自訴人公司會計甲○○所製作之股東入股金明
+    細表所列之時間顯有不符，而證人江國彬則就被告丙○○之出資額部分之證言亦
+    與美西北公司董事、股東名冊上之出資額顯有出入，證人己○○、江國彬二人之
+    證言既有明顯瑕疵，則其二人上開證言顯不足取，從而，被告二人應係自八十六
+    年十一月間起始參與經營自訴人公司業務，是以自訴人上開所述之被告二人侵占
+    美西北公司八十六年五月份、六月份貨款之事實，應屬無稽。又依自訴代表人所
+    提出八十六年六月份請款對照明細表及轉帳傳票各一張之內容以觀，金額核屬相
+    符，自訴人亦未能舉證明被告丙○○確有經手自訴人公司與宗益公司八十六年六
+    月份之貨款，是自難僅以被告丙○○曾於八十六年六月間代自訴人公司製作請款
+    明細表之事實，即認定被告二人有侵占之犯行。（二）又被告丙○○供稱：渠曾
+    借款予美西北公司支付宗益公司之貨款，迄於八十七年四月一日止，經結算渠墊
+    付美西北公司應支付宗益公司八十七年一、二月份貨款之金額為三百七十八萬四
+    千三百零三元，若有經手之金額一定會在轉帳傳票上簽章等語，又證人即八十七
+    年二月十日至同年八月底任職自訴人公司之會計甲○○於檢察官偵查時證稱：其
+    所製作之請款對照表、轉帳傳票均須交由被告丙○○審核等語（見偵查卷第五十
+    頁），核被告丙○○、證人甲○○二人就被告丙○○審核自訴人公司採購、支付
+    貨款等過程均屬一致，參以自訴代表人黃博昭於本院審理時陳稱：美西北公司在
+    經營過程中，若有資金調度困難之時，各出資股東得以自己之現款直接支付往來
+    廠商，充作借予美西北公司之貨款等情，此外復有證人甲○○所製作之自訴人公
+    司向被丙○○借款三百九十八萬四千三百零三元之轉帳傳票一張在卷足稽，足證
+    被告丙○○上開所辯，應屬可採。自訴人雖認被告丙○○、丁○○二人侵占自訴
+    人公司八十七年一、二月份貨款達五十六萬一千七百四十三點二元，並提出請款
+    明細表七張、轉帳傳票二張為證，然由該七張請款明細表上均無承辦人及審核人
+    被告丙○○之簽章以觀，該七張請款明細表是否均係被告丙○○審核過之宗益公
+    司向自訴人公司請款之憑證，已屬可疑，又觀之該二張轉帳傳票之內容，其日期
+    均屬八十七年四月二日，惟其中一張均有證人<font color='red'>王淑芬</font>、被告丙○○之簽章，其上
+    並載明向林太太（指被告丙○○）借款，且為被告丙○○所不否認，應堪信為真
+    實，而另一張僅有會計甲○○簽字，並無審核人被告丙○○簽章，則該張轉帳傳
+    票究係有無由被告丙○○經手，顯有疑義，自訴人復未能舉證證明被告丙○○除
+    收受上開三百七十八萬四千三百零三元外，尚有經手自訴人公司支付宗益公司貨
+    款之事實，自難認定被告丁○○、丙○○二人有侵占此部分貨款之犯行。（三）
+    自訴人公司應支付宗益公司八十七年五月份之貨款十二萬一千一百六十九元之事
+    實，業據被告丙○○提出證人甲○○所製作之八十七年五月份請款對照明細表一
+    份及自訴人公司於八十七年七月十日匯予宗益公司十二萬一千一百三十九元（上
+    開貨款扣除匯費三十元）之華僑銀行匯款委託書一張，足認宗益公司確實已收到
+    貨款十二萬一千一百六十九元無誤，而自訴人公司應支付宗益公司八十七年五月
+    份貨款，並未經由被告丙○○轉交，被告丙○○並無從侵占此部分貨款甚明。然
+    證人即宗益公司負責人戊○○仍在其所製作之請款明細表上載明實收金額八萬六
+    千一百元云云，則顯與事實不符，是證人戊○○之證言是否可採，已屬可疑，又
+    雖證人戊○○於本院審理時附和自訴代表人之詞，證稱被告丙○○確有侵占自訴
+    人公司應交付予宗益公司之貨款，自訴人公司之採購、會計均係丙○○負責云云
+    ，然證人甲○○、乙○○均曾為自訴人公司之會計之情，業據證人乙○○、甲○
+    ○證述在卷，則證人戊○○之證言顯有瑕疵，應不足採為證據，併予敘明。（四
+    ）又被告丙○○供稱：自八十七年九月十八日起至同年十月九日止，先後為自訴
+    人公司墊款一百三十三萬四千三百九十七元，渠在收取加康實業有限公司貨款時
+    ，曾將該筆款項扣回等語，並提出時任自訴人公司之會計乙○○所製作之計算書
+    及轉帳傳票一張為證，復經證人乙○○到庭證稱屬實，又觀之該轉帳傳票上有被
+    告丙○○之簽名，足認被告丙○○確有經手該筆款項無誤，惟被告丙○○在收取
+    上開轉帳傳票所載之加康實業有限公司所交付之一百四十四萬六千二百四十五元
+    貨款後，即預先扣除上開之墊款一百三十三萬四千三百九十七元，剩餘十一萬一
+    千八百四十八元即匯入美西北公司帳戶（扣除三十元匯費），此有豐原市信用合
+    作社跨行匯出匯款回單一張附卷可稽，是被告丙○○上開供詞，應屬可採，而自
+    訴人公司既有積欠被告丙○○借款，則被告丙○○預先扣除代墊款項之行為，應
+    無侵占自訴人公司貨款之犯意甚明。再自訴人雖認該公司在八十七年十月二十六
+    日應有二筆分為二十五萬一千三百二十八元、二十六萬四千元之帳款，惟僅有傳
+    票，亦未入帳，並提出轉帳傳票二張為證，而認被告二人亦有侵占罪嫌云云，然
+    被告二人堅決否認上開犯行，又觀之該二張轉帳傳票上並無被告丙○○簽名，自
+    難據此認定被告丙○○曾經手該二筆款項；又參之該轉帳傳單中二十六萬四千元
+    貨款部分，係由自訴人公司設在大陸地區鑫源鞋廠之經理蔡豪收取，且均係由自
+    訴代表人黃博昭指示出貨，有鑫源鞋廠成品出庫單四張、聯昇鞋業有限公司現金
+    支出證明單一張、陳豪之報告書一份附卷足稽等情，益證上開二筆款項均與被告
+    二人無涉。綜上所述，被告二人上開所辯，尚非全屬無憑，而自訴人既無法提供
+    證據供本院查證，自難僅憑其片面指述遽為不利被告二人之認定，此外復查無其
+    他證據足資證明被告二人有自訴人所指之犯行，既不能證明被告二人犯罪，自應
+    諭知無罪之判決。
+四、移送併辦部分因與本件自訴人自訴之部分，係屬同一事實，為同一案件，本院自
+    得併予審理，附此敘明。
+據上論斷，應依刑事訴訟法第三百四十三條、第三百零一條第一項，判決如主文。
+中        華       民     國    八十九    年      一      月     七     日
+                             台灣台中地方法院刑事第四庭
+                                        法  官   王  世  華
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內向本院提出上訴狀，上訴於臺灣高等法院臺中
+分院( 須附繕本 )。
+                                        書記官
+中    華    民    國      八十九      年       一      月     十    日
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWTCD\CRIMINAL\8901\11\TCDM891B.111] -->
+<!-- 旗標：[] -->
+<!--檢查單號：[]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共25
+											筆 / 現在第25
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%87%aa&selectedCrmno=000579&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=24&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%87%aa%2c579%2c20000107&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%87%aa&jno=579&jdate=890107&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=88%2c%e8%87%aa%2c579%2c20000107&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%87%aa&jno=579&jdate=890107&jcheck=">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('88%2c%e8%87%aa%2c579%2c20000107','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%87%aa','579','890107','')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="25"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王淑芬">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王淑芬">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
