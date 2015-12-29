@@ -92,6 +92,7 @@ $logFh = fopen($tmpPath . '/error.log', 'a+');
 $fh = fopen(__DIR__ . '/list.csv', 'r');
 $lineCount = 0;
 fgetcsv($fh, 2048);
+$caseBlocked = false;
 while ($line = fgetcsv($fh, 2048)) {
     ++$lineCount;
     $tokenFile = $tmpPath . '/' . $line[0];
@@ -112,7 +113,7 @@ while ($line = fgetcsv($fh, 2048)) {
         }
         $urlDecoded = urldecode($url . '?' . $param);
         $md5 = md5($urlDecoded);
-        $cachedFile = $cachePath . '/' . $md5;
+        $cachedFile = $cachePath . '/list_' . $md5;
         if (!file_exists($cachedFile)) {
             error_log($urlDecoded);
 
@@ -127,13 +128,16 @@ while ($line = fgetcsv($fh, 2048)) {
             $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
             $header = substr($response, 0, $header_size);
             $content = substr($response, $header_size);
-            if (empty($header)) {
-                die('blocked');
+            if (empty($header) || false !== strpos($content, 'Object moved')) {
+                die("blocked\n");
             }
             echo $header;
             file_put_contents($cachedFile, $content);
         } else {
             $content = file_get_contents($cachedFile);
+        }
+        if ($caseBlocked) {
+            continue;
         }
 
         //curl_close($curl);
@@ -150,11 +154,15 @@ while ($line = fgetcsv($fh, 2048)) {
         }
         $param = $matches[1];
         for ($j = 1; $j <= $count; $j ++) {
+            if ($caseBlocked) {
+                continue;
+            }
             $case_url = "http://jirs.judicial.gov.tw/FJUD/FJUDQRY03_1.aspx";
             $urlDecoded = urldecode($case_url . "?id={$j}&{$param}");
             $md5 = md5($urlDecoded);
-            $cachedFile = $cachePath . '/' . $md5;
+            $cachedFile = $cachePath . '/case_' . $md5;
             if (!file_exists($cachedFile)) {
+                $curl = curl_init($case_url);
                 error_log("{$j}/{$count} / {$keyword} ( {$lineCount} / 535 )");
                 curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
                 curl_setopt($curl, CURLOPT_URL, $case_url);
@@ -168,8 +176,8 @@ while ($line = fgetcsv($fh, 2048)) {
                 $header = substr($response, 0, $header_size);
                 $content = substr($response, $header_size);
                 echo $header;
-                if (empty($header)) {
-                    die('blocked');
+                if (empty($header) || false !== strpos($content, 'Object moved')) {
+                    $caseBlocked = true;
                 }
                 file_put_contents($cachedFile, $content);
             } else {
@@ -209,5 +217,7 @@ while ($line = fgetcsv($fh, 2048)) {
             }
         }
     }
-    file_put_contents($tmpPath . '/' . $line[0], '1');
+    if (false === $caseBlocked) {
+        file_put_contents($tmpPath . '/' . $line[0], '1');
+    }
 }
