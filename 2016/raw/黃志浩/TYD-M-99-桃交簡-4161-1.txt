@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-99桃交簡4161</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%a1%83%e4%ba%a4%e7%b0%a1&selectedCrmno=004161&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%a1%83%e4%ba%a4%e7%b0%a1&jno=4161&jdate=991228&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%a1%83%e4%ba%a4%e7%b0%a1&jno=4161&jdate=991228&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e6%a1%83%e4%ba%a4%e7%b0%a1','4161','991228','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,桃交簡,4161</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">991228</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">公共危險</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事簡易判決　　　99年度桃交簡字第4161號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%a1%83%e4%ba%a4%e7%b0%a1&jno=4161&jdate=991228&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%a1%83%e4%ba%a4%e7%b0%a1&selectedCrmno=004161&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%a1%83%e4%ba%a4%e7%b0%a1&jno=4161&jdate=991228&jcheck=1
+[*裁判字號*]99,桃交簡,4161
+[*裁判日期*]991228
+[*裁判案由*]公共危險
+[*裁判全文*]臺灣桃園地方法院刑事簡易判決　　　99年度桃交簡字第4161號
 聲請人　臺灣桃園地方法院檢察署檢察官
 被　告　吳清河
 上列被告因公共危險案件，經檢察官聲請以簡易判決處刑（99年
@@ -126,16 +19,16 @@ function openwin(URL,arguments,width,height)
     37號自用小客車離開。於99年10月10日16時24分許，沿桃園
     縣桃園市○○路由南崁往桃園方向行駛，行經該路1456號前
     ，違規跨越中心黃色槽化線逆向駛入對向車道內而先後碰撞
-    行駛於對向車道上之<font color='red'>黃志浩</font>所駕車牌號碼8G─5268號自用小
+    行駛於對向車道上之黃志浩所駕車牌號碼8G─5268號自用小
     客車之左後方與陳松崎所駕車牌號碼258 ─F2號營業小客車
     右前方而肇事。經警到場處理對之實施酒測，測得其吐氣所
     含酒精成分每公升0 ‧97毫克而查獲。案經桃園縣政府警察
     局桃園分局報請臺灣桃園地方法院檢察署檢察官偵查後聲請
     以簡易判決處刑。
 二、被告於警詢時坦承於前揭時、地，其飲酒後駕車行經前開路
-    段，與上開<font color='red'>黃志浩</font>、陳松崎所駕車輛碰撞肇事，經警到場處
+    段，與上開黃志浩、陳松崎所駕車輛碰撞肇事，經警到場處
     理對之實施酒測，測得其吐氣所含酒精成分每公升0 ‧97毫
-    克而查獲情事，其肇事情形，經證人<font color='red'>黃志浩</font>、陳松崎於警詢
+    克而查獲情事，其肇事情形，經證人黃志浩、陳松崎於警詢
     指明，且有道路交通事故現場圖、道路交通事故調查報告表
     （一）、（二）各01份、現場與車輛照片14張可稽。又有酒
     精呼氣檢測單01份顯示其吐氣所含酒精成分每公升0 ‧97毫
@@ -147,23 +40,23 @@ function openwin(URL,arguments,width,height)
     90 0005854號函所載呼氣中酒精濃度每公升含量為0 ．25毫
     克，即相當於血液中酒精濃度（BAC ）百分之0 ．05，且依
     該函所附該所79年「駕駛人行為反應之研究－酒醉駕車對駕
-    駛行為之分析研究」指出：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />BAC 達百分之0 ．03至百分之
+    駛行為之分析研究」指出：BAC 達百分之0 ．03至百分之
     0 ．05時，對駕駛能力之影響為：多數駕駛人心境逐漸變幻
     不定，視覺與反應靈敏性減弱，對速度及距離的判斷力差。
     對心理行為之影響為：觀察力逐漸欠缺，心情漸趨輕鬆，自
-    信心增加，多話，精神狀態處於陶醉感。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />BAC 到達百分之
+    信心增加，多話，精神狀態處於陶醉感。BAC 到達百分之
     0 ．05至百分之0 ．08時，對駕駛能力之影響為：反應遲鈍
     ，駕駛能力受損，遲而不決或決而不行。對心理行為之影響
     為：情緒鬆弛，感情與行為趨向誇張，肌肉不協調，精神處
-    於興奮狀態。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />BAC 到達百分之0 ．08至百分之0 ．15時，
+    於興奮狀態。BAC 到達百分之0 ．08至百分之0 ．15時，
     對駕駛能力之影響為：判斷力嚴重受到影響，體能與精神協
     調受損，駕駛之體能困難增加。對心理行為之影響為：產生
     情緒異常現象，步伐不平穩，言語不清，反應惡劣，記憶及
-    判斷力受損，精神處於錯亂狀態。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />BA C超過百分之0 ．15
+    判斷力受損，精神處於錯亂狀態。BA C超過百分之0 ．15
     時，對駕駛能力之影響為：視線搖晃，駕駛已進入恍惚狀態
     ，判斷及理解遭到扭曲，駕駛不穩定。對心理行為之影響為
     ：意識不明，嘔吐，站、走及講話困難，責任感喪失，精神
-    處於麻痺狀態。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />BAC 超過百分之0 ．5 時，對駕駛人能力
+    處於麻痺狀態。BAC 超過百分之0 ．5 時，對駕駛人能力
     之影響為：無法開車。對心理行為之影響為：爛醉如泥，失
     去知覺可能致死，精神處於昏睡狀態。被告於本件所測得之
     吐氣所含酒精成分為每公升0 ‧97毫克，相當於血液中酒精
@@ -201,86 +94,12 @@ function openwin(URL,arguments,width,height)
 萬元以下罰金。
 刑法施行法第一條之一第一項：
 中華民國九十四年一月七日刑法修正施行後，刑法分則編所定罰
-金之貨幣單位為新臺幣。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWTYD\CRIMINAL\9912\28\TYDM99CS.01I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%a1%83%e4%ba%a4%e7%b0%a1&selectedCrmno=004161&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%a1%83%e4%ba%a4%e7%b0%a1&jno=4161&jdate=991228&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%a1%83%e4%ba%a4%e7%b0%a1&jno=4161&jdate=991228&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e6%a1%83%e4%ba%a4%e7%b0%a1%2c4161%2c20101228%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e6%a1%83%e4%ba%a4%e7%b0%a1','4161','991228','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃志浩">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃志浩">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+金之貨幣單位為新臺幣。
+[*jrecno*]99,桃交簡,4161,20101228,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]桃交簡
+[*jno*]4161
+[*jdate*]991228
+[*jcheck*]1

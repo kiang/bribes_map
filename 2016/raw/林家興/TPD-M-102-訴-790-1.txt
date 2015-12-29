@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-102訴790</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000790&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c790%2c20150211%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=790&jdate=1040211&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c790%2c20150211%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=790&jdate=1040211&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c790%2c20150211%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','790','1040211','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,790</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040211</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　102年度訴字第790號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c790%2c20150211%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=790&jdate=1040211&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000790&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c790%2c20150211%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=790&jdate=1040211&jcheck=1
+[*裁判字號*]102,訴,790
+[*裁判日期*]1040211
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　102年度訴字第790號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　黃修斌
 上列被告因偽造文書等案件，經檢察官提起公訴（102年度偵緝
@@ -121,7 +14,7 @@ function openwin(URL,arguments,width,height)
 如附表一編號一、二所示偽造之印文共貳枚，暨未扣案如附表一
 編號三、四所示之物，均沒收。
     事  實
-一、黃修斌與<font color='red'>林家興</font>（未據起訴）及其所屬真實姓名年籍均不詳
+一、黃修斌與林家興（未據起訴）及其所屬真實姓名年籍均不詳
     之詐欺集團成年成員，共謀利用一般人對於檢警、司法機關
     偵辦案件之流程不熟悉，於接獲自稱為司法人員之來電均會
     信以為真並聽從指示配合之心理，以假冒司法人員監管金錢
@@ -141,12 +34,12 @@ function openwin(URL,arguments,width,height)
     前交給名為陳明志之人云云，致廖桂珍因而陷於錯誤，於同
     日中午12時餘許，依假冒林宗民之詐欺集團成員電話指示，
     攜帶裝有上開存摺、印章之牛皮紙袋至上址赴約，而黃修斌
-    與<font color='red'>林家興</font>則依詐欺集團指示前往該處等候，並由<font color='red'>林家興</font>將先
+    與林家興則依詐欺集團指示前往該處等候，並由林家興將先
     由該詐欺集團成員於不詳時地以不詳方法偽刻之「臺灣省地
     方法院公證處」印章（即附表一編號三所示印章），蓋用於
     如附表一編號一、二所示內容之公文而偽造之公文書2 紙，
     及如附表一編號四所示偽造內載有「收款執行官：陳明志」
-    之識別證1 張交予黃修斌，<font color='red'>林家興</font>則在旁把風，由黃修斌出
+    之識別證1 張交予黃修斌，林家興則在旁把風，由黃修斌出
     面假冒為臺中地方法院執行官之公務員身分行使職權，並提
     示如附表一編號一、二所示之偽造公文書及附表一編號四所
     示之識別證予廖桂珍，及將如附表一編號一、二所示之偽造
@@ -155,14 +48,14 @@ function openwin(URL,arguments,width,height)
     明志（偽造特種文書所載之名義人）、法務部及臺灣臺中地
     方法院暨檢察署之職務執行正確性與公信力，並致廖桂珍因
     而陷於錯誤，將裝有上開存摺及印章之牛皮紙袋交予黃修斌
-    ，黃修斌得手後即與<font color='red'>林家興</font>離去。渠等2 人於同日下午1 時
+    ，黃修斌得手後即與林家興離去。渠等2 人於同日下午1 時
     46分許，再同至址設臺北市○○區○○○路0 段0 號之中華
-    郵政復興橋郵局（下稱復興橋郵局），由<font color='red'>林家興</font>持廖桂珍所
+    郵政復興橋郵局（下稱復興橋郵局），由林家興持廖桂珍所
     有中華郵政存摺及印章，偽造如附表一編號五所示內容之郵
     政存簿儲金提款單1 紙，並盜用「廖桂珍」印章在該提款單
     上蓋印後，持向不知情之復興橋郵局人員行使，使該承辦人
     員誤認為係廖桂珍授權之人前來領取存款而陷於錯誤，將廖
-    桂珍帳戶內之18萬5 千元現金交予<font color='red'>林家興</font>，足以生損害於廖
+    桂珍帳戶內之18萬5 千元現金交予林家興，足以生損害於廖
     桂珍及該郵局對於交付存戶存款之正確性。嗣該詐欺集團成
     員於101 年6 月28日上午某時，又去電廖桂珍誆稱：前開廖
     桂珍所交付之富邦銀行存摺遭消磁，要求廖桂珍應交付該銀
@@ -228,13 +121,13 @@ function openwin(URL,arguments,width,height)
     仍應對其他共犯所分擔實施之犯行負全部事實之刑責；且共
     同正犯之意思聯絡，並不以數人間直接發生者為限，即有間
     接之聯絡者，亦包括在內（最高法院81年度臺上字第6601號
-    判決參照）。查被告於<font color='red'>林家興</font>所屬詐欺集團101 年6 月27日
+    判決參照）。查被告於林家興所屬詐欺集團101 年6 月27日
     詐騙告訴人前即已加入該詐騙集團，且被告於加入該詐欺集
     團時業經分配擔任取款之工作，又被告於101 年6 月27日，
-    依詐騙集團成員之指示，與<font color='red'>林家興</font>共同由臺中至臺北，並持
+    依詐騙集團成員之指示，與林家興共同由臺中至臺北，並持
     偽造之識別證、公文書出面向告訴人自稱為公務員而行使偽
     造之服務證、公文書，及收取告訴人交付之存摺、印章等物
-    品，再與<font color='red'>林家興</font>於同年月27日同至復興橋郵局，由<font color='red'>林家興</font>盜
+    品，再與林家興於同年月27日同至復興橋郵局，由林家興盜
     用告訴人印章偽造私文書而提領告訴人帳戶內之存款，又於
     同年月28日出面向告訴人收取富邦銀行提款卡，且於同年月
     29日，持告訴人之上開富邦銀行提款卡，以不正方式自告訴
@@ -249,15 +142,15 @@ function openwin(URL,arguments,width,height)
     上開犯行係基於單一犯意所為，是被告縱使未親自偽造識別
     證、公文書、私文書，或未以告訴人之提款卡提領部分款項
     ，且僅與部分共犯有所謀議聯繫，亦應對全部所發生之結果
-    負責，故其就本案<font color='red'>林家興</font>所屬詐欺集團於上述101 年6 月27
-    、28日及如附表二編號1 至16所示之犯行，自與<font color='red'>林家興</font>及<font color='red'>林
-    家興</font>所屬詐騙集團其他成員屬共同正犯，至為灼然。被告上
+    負責，故其就本案林家興所屬詐欺集團於上述101 年6 月27
+    、28日及如附表二編號1 至16所示之犯行，自與林家興及林
+    家興所屬詐騙集團其他成員屬共同正犯，至為灼然。被告上
     開所辯，核屬事後諉責之詞，不足採信。
   (三)被告及其所屬詐欺集團以偽造之印章蓋於附表一編號一至二
     所示之公文書上，偽造上開公文書，盜蓋告訴人之印章於附
     表一編號五所示之私文書上，而偽造私文書，另偽造特種文
     書即識別證，並由被告出面向告訴人行使如附表一編號一、
-    二所示公文書及附表一編號四所示識別證，由共犯<font color='red'>林家興</font>向
+    二所示公文書及附表一編號四所示識別證，由共犯林家興向
     復興橋郵局承辦人員行使如附表一編號五所示私文書，自足
     生損害於告訴人、許炳煌、林宗民（上2 人為上開偽造公文
     書所載之名義人）、陳明志（偽造特種文書所載之名義人）
@@ -359,7 +252,7 @@ function openwin(URL,arguments,width,height)
     取款憑條（提款單），由存款人在取款憑條填寫金額等字樣
     並蓋章，足以表示提領存款之意思，係屬刑法第210 條之私
     文書（最高法院49年度台上字第1409號判例意旨可供參照）
-    。查本案被告及<font color='red'>林家興</font>取得告訴人之印章後，未經告訴人之
+    。查本案被告及林家興取得告訴人之印章後，未經告訴人之
     同意或授權，盜用上開印章蓋用印文在如附表一編號五所示
     之郵政存簿儲金提款單上印鑑欄內，並填載帳號、提款金額
     、日期等項目，用以製作表彰告訴人提領存款意思之文書，
@@ -369,7 +262,7 @@ function openwin(URL,arguments,width,height)
     158 條第1 項僭行公務員職權罪、修正前刑法第339 條第1
     項詐欺取財罪、刑法第216 條、第210 條行使偽造私文書罪
     、修正前刑法第339 條之2 第1 項之以不正方法由自動付款
-    設備取得他人之物罪。被告就本案犯行，與<font color='red'>林家興</font>及其所屬
+    設備取得他人之物罪。被告就本案犯行，與林家興及其所屬
     詐欺集團成員間，有犯意聯絡及行為分擔，應論以共同正犯
     。又被告及其共犯偽造印章、印文之行為，為其等偽造公文
     書之部分行為，盜用印章蓋用印文，為偽造私文書之部分行
@@ -615,86 +508,12 @@ function openwin(URL,arguments,width,height)
 修正前刑法第339 條之2
 意圖為自己或第三人不法之所有，以不正方法由自動付款設備取
 得他人之物者，處3 年以下有期徒刑、拘役或1 萬元以下罰金。
-以前項方法得財產上不法之利益或使第三人得之者，亦同。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10402\11\TPDM1042B.027] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000790&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c790%2c20150211%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=790&jdate=1040211&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c790%2c20150211%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=790&jdate=1040211&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c790%2c20150211%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','790','1040211','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林家興">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林家興">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+以前項方法得財產上不法之利益或使第三人得之者，亦同。
+[*jrecno*]102,訴,790,20150211,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]790
+[*jdate*]1040211
+[*jcheck*]1

@@ -1,127 +1,20 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣嘉義地方法院-刑-100訴385</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣嘉義地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000385&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c385%2c20110708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=385&jdate=1000708&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c385%2c20110708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=385&jdate=1000708&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c385%2c20110708%2c1','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','385','1000708','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,385</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000708</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣嘉義地方法院刑事判決　　　　　　　100年度訴字第385號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c385%2c20110708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=385&jdate=1000708&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000385&selectedCrtid=CYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c385%2c20110708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=385&jdate=1000708&jcheck=1
+[*裁判字號*]100,訴,385
+[*裁判日期*]1000708
+[*裁判案由*]違反毒品危害防制條例
+[*裁判全文*]臺灣嘉義地方法院刑事判決　　　　　　　100年度訴字第385號
 公　訴　人　臺灣嘉義地方法院檢察署檢察官
-被　　　告　<font color='red'>劉文忠
-</font>選任辯護人　吳啟勳律師
+被　　　告　劉文忠
+選任辯護人　吳啟勳律師
 上列被告因違反毒品危害防制條例案件，經檢察官提起公訴（
 100年度偵字第388、2717號），本院判決如下：
     主  文
-<font color='red'>劉文忠</font>製造第二級毒品，處有期徒刑拾伍年陸月。扣案如附表一
+劉文忠製造第二級毒品，處有期徒刑拾伍年陸月。扣案如附表一
 、附表二所示之物，均沒收銷燬。附表三所示之物，均沒收。
     犯 罪 事 實
-一、<font color='red'>劉文忠</font>前因脫逃、販賣毒品等案件，經臺灣屏東地方法院以
+一、劉文忠前因脫逃、販賣毒品等案件，經臺灣屏東地方法院以
     94年度重訴字第1號分別判處有期徒刑3月、7年，定應執行
     刑有期徒刑7年2月，並經臺灣高等法院高雄分院駁回上訴確
     定，嗣脫逃罪因符合中華民國96年罪犯減刑條例規定，經臺
@@ -139,7 +32,7 @@ function openwin(URL,arguments,width,height)
     之友人蕭道遠（原名蕭宇庭）無償借用嘉義縣水上鄉寬士村
     崎子頭31之135號之2層樓房及水、電，並搬運或另行購置製
     造甲基安非他命所用之如附表二、三所示之器具及原料至該
-    處後。<font color='red'>劉文忠</font>隨自100年1月4、5日起，在上開屋內利用如附
+    處後。劉文忠隨自100年1月4、5日起，在上開屋內利用如附
     表二、三所示之強酸、丙酮、氫氣桶、過濾設備、加熱設備
     、醋酸鈉、硫酸鋇、活性碳、食鹽、冰箱等物，以艾蒙德（
     Emde）法，進行氫化及純化、結晶等步驟，陸續在上址製造
@@ -147,7 +40,7 @@ function openwin(URL,arguments,width,height)
     液態物，而達既遂。嗣經法務部調查局臺北市調查處、嘉義
     縣調查站、嘉義市調查站、雲林縣調查站、屏東縣調查站及
     臺北憲兵隊組成專案小組偵辦，於100年1月8日13時10分許
-    ，前往上開地點及經<font color='red'>劉文忠</font>同意至其址設屏東縣高樹鄉○○
+    ，前往上開地點及經劉文忠同意至其址設屏東縣高樹鄉○○
     路1之1號之住處搜索，分別扣得如附表一所示之甲基安非他
     命結晶、甲基安非他命液態物及其所有如附表二、三、四所
     示麻黃素及大批製造甲基安非他命之工具、原料等物。
@@ -159,7 +52,7 @@ function openwin(URL,arguments,width,height)
     認為適當者，亦得為證據。當事人、代理人或辯護人於法院
     調查證據時，知有第159條第1項不得為證據之情形，而未於
     言詞辯論終結前聲明異議，視為有前項之同意，刑事訴訟法
-    第159條之5定有明文。查本件被告<font color='red'>劉文忠</font>及辯護人於言詞辯
+    第159條之5定有明文。查本件被告劉文忠及辯護人於言詞辯
     論終結前，對於下述本院採為認定犯罪事實依據之各項證據
     之證據能力，均未聲明異議，復經本院於審理時逐一提示予
     被告及辯護人表示意見，本院審酌該等證據之取得過程並無
@@ -640,86 +533,12 @@ function openwin(URL,arguments,width,height)
 │4 │現金      │貳萬伍仟元│1-51  │與本案製造毒品犯行無關。              │
 ├─┼─────┼─────┼───┼───────────────────┤
 │5 │租屋資料  │壹冊      │2-1   │與本案製造毒品犯行無關                │
-└─┴─────┴─────┴───┴───────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCYD\CRIMINAL\10007\08\CYDM10078.006] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000385&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c385%2c20110708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=385&jdate=1000708&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c385%2c20110708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=385&jdate=1000708&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c385%2c20110708%2c1','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','385','1000708','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CYD 臺灣嘉義地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文忠">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文忠">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴─────┴─────┴───┴───────────────────┘
+[*jrecno*]100,訴,385,20110708,1
+[*v_court*]CYD 臺灣嘉義地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]385
+[*jdate*]1000708
+[*jcheck*]1

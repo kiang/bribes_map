@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-92訴786</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000786&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c786%2c20041015%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=786&jdate=931015&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c786%2c20041015%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=786&jdate=931015&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c786%2c20041015%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','786','931015','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,訴,786</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">931015</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">強盜等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　　　　　　　九十二年度訴字第七八六號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c786%2c20041015%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=786&jdate=931015&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000786&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c786%2c20041015%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=786&jdate=931015&jcheck=1
+[*裁判字號*]92,訴,786
+[*裁判日期*]931015
+[*裁判案由*]強盜等
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　　　　　　　九十二年度訴字第七八六號
 　　公　訴　人　臺灣台南地方法院檢察署檢察官
 　　被　　　告　戊○○
 　　　　　　　　卯○○
@@ -132,11 +25,11 @@ function openwin(URL,arguments,width,height)
 線壹條及鉛錘壹個均沒收。又連續意圖為自己不法之所有，結夥三人以上，搶奪他人
 之動產，累犯，處有期徒刑貳年。又共同竊盜，因防護贓物，當場施以強暴，累犯，
 處有期徒刑伍年肆月。應執行有期徒刑捌年陸月，並應於刑之執行完畢或赦免後，令
-入勞動場所強制工作<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年。扣案之鐵線壹支、釣魚線壹條及鉛錘壹個均沒收。
+入勞動場所強制工作年。扣案之鐵線壹支、釣魚線壹條及鉛錘壹個均沒收。
 卯○○共同竊盜，因防護贓物，當場施以強暴，累犯，處有期徒刑伍年貳月。
 寅○○連續結夥三人以上竊盜，累犯，處有期徒刑壹年陸月。又連續意圖為自己不法
 之所有，結夥三人以上，搶奪他人之動產，累犯，處有期徒刑貳年貳月。應執行有期
-徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年陸月，並應於刑之執行完畢或赦免後，令入勞動場所強制工作<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年。
+徒刑年陸月，並應於刑之執行完畢或赦免後，令入勞動場所強制工作年。
 未○○連續結夥三人以上竊盜，累犯，處有期徒刑壹年，鉛塊壹塊、狙擊手五號釣魚
 線壹綑及口香糖肆塊均沒收。又連續意圖為自己不法之所有，結夥三人以上，搶奪他
 人之動產，累犯，處有期徒刑壹年捌月。應執行有期徒刑貳年陸月，鉛塊壹塊、狙擊
@@ -222,7 +115,7 @@ function openwin(URL,arguments,width,height)
     無故意誣指被告寅○○之理。綜上各情，被告寅○○參與此部分搶奪犯行之事實
     已臻明確。
   3.附表一編號廿八、廿九、三十部分（被害人邱二郎、郭峻谷、林銘城）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />此部分附表所載被害人邱二郎、郭峻谷、林銘城等人之行動電話，係於表載時地
+  此部分附表所載被害人邱二郎、郭峻谷、林銘城等人之行動電話，係於表載時地
     遭人竊取之事實，業據被害人郭峻谷、邱二郎、林銘城等人於警訊中證述在卷（
     見併辦Ｊ部分警卷第八至十四頁）。而其等所有之行動電話，復經案外人乙○○
     分別於其等行動電話遭竊之當日或翌日之九十二年六月七日、六月廿三日及六月
@@ -230,9 +123,9 @@ function openwin(URL,arguments,width,height)
     節，亦經證人即該通訊行店員洪玉蓮於警訊中證述明確（見同警卷第十五頁），
     且有讓渡書影本三紙在卷可查（出賣人均為乙○○，見同警卷第十六、十九、廿
     二頁）。此部分亦屬被告寅○○及未○○所不爭執之事實，自無疑義。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告寅○○於警訊中亦供承夥同乙○○共同竊取被害人林銘城之行動電話（見同
+  被告寅○○於警訊中亦供承夥同乙○○共同竊取被害人林銘城之行動電話（見同
     警卷第六頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />證人乙○○於本院審理時到庭具結後，明確指證被告未○○及寅○○與伊共同竊
+  證人乙○○於本院審理時到庭具結後，明確指證被告未○○及寅○○與伊共同竊
     取上述行動電話，並於伊前往變賣竊得之行動電話時在店外陪同等語（見本院審
     理卷三第一六二、一六三頁）。依卷證資料及被告寅○○、未○○暨證人乙○○
     之供述，證人乙○○與該等被告間並無仇恨夙怨，應無甘冒偽證罪責之風險設詞
@@ -351,9 +244,9 @@ function openwin(URL,arguments,width,height)
     明。
 二、茲依檢察官公訴或移送併辦意旨分述本院之心證如下：
   (一)公訴意旨認被告戊○○涉犯附表二編號十六（被害人丁○○）部分：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />此部分檢察官公訴意旨認被告戊○○亦係搶奪被害人丁○○之共犯。訊據被告戊
+  此部分檢察官公訴意旨認被告戊○○亦係搶奪被害人丁○○之共犯。訊據被告戊
     ○○則堅詞否認參與此次犯行，辯稱伊並未搶奪丁○○之手機等語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />經查被害人丁○○於警訊中僅指證被告寅○○係邀其至店外以供指認之行為人之
+  經查被害人丁○○於警訊中僅指證被告寅○○係邀其至店外以供指認之行為人之
     一，而該被害人於本院審理時亦僅能指認被告寅○○涉案，其餘在場之被告則均
     無從確認（見本院審理卷三第六八、六九頁）。而此部分亦無任何被告自白涉案
     或指證其他被告參與犯行，復無搶奪得手行動電話之變賣紀錄（如手機讓渡書）
@@ -362,14 +255,14 @@ function openwin(URL,arguments,width,height)
     人申○○）之事實，存有連續犯之裁判上一罪關係，爰不另為無罪判決之諭知。
   (二)九十二年度偵字第九四五二號（併辦事實Ｄ）併辦九十二年五月十九日之【竊盜
     】行為部分：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />檢察官以九十二年九月廿三日癸○惟誠九二偵九四五二字第五四０一九號函移送
+  檢察官以九十二年九月廿三日癸○惟誠九二偵九四五二字第五四０一九號函移送
     併辦意旨另認：被告未○○又於九十二年五月十九日下午三時三十分，夥同辰○
     ○，再度駕駛車號ＵＦ─七五九八號其父親所有之自小貨車，至台南縣關廟鄉○
     ○村○○路二九八號旁空地竊取並載運林榮波所有之鐵板九塊，得手後恰為林榮
     波之父壬○○發現，壬○○追呼制止，未○○二人仍駕駛前開自小貨車逃逸離去
     ，並將竊得鐵板變賣朋分花用殆盡，因認被告未○○此部分另涉犯三百二十條第
     一項之普通竊盜罪名云云。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />經查被告未○○並未經起訴涉犯刑法第三百二十九條之準強盜罪。而被告未○○
+  經查被告未○○並未經起訴涉犯刑法第三百二十九條之準強盜罪。而被告未○○
     此部分雖原係實施竊盜行為，然嗣因於竊取鐵板得手尚未離去現場之際，為被害
     人林榮波之父壬○○發現，壬○○並上前攔阻以手攀附被告未○○所駕駛之自小
     貨車副駕駛座車窗，旋因被告未○○加油駛離之行為而倒地受傷等情，業據證人
@@ -382,48 +275,48 @@ function openwin(URL,arguments,width,height)
     應退由檢察官另為適法之處理，附此敘明。
   (三)九十二年度偵字第九四五二號（併辦事實Ｄ）併辦九十二年五月十九日之【準強
     盜】行為部分：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />檢察官以九十二年十一月十三日九十癸○惟誠九二偵九四五二字第六四六四０號
+  檢察官以九十二年十一月十三日九十癸○惟誠九二偵九四五二字第六四六四０號
     函移送併辦意旨另認：被告未○○前揭於九十二年五月十九日下午三時三十分，
     夥同辰○○在上址竊取林榮波所有之鐵板九塊，得手後為防護贓物、脫免逮捕而
     加油駛離之行為致使壬○○倒地受傷乙節，另觸犯刑法第三百二十九條之準強盜
     罪，「而與上述九十二年九月廿三日癸○惟誠九二偵九四五二字第五四０一九號
     函移送併辦之竊盜事實為單純一罪」，故再為移請併辦云云。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />查被告未○○並未經起訴準強盜罪，本院自無擴張起訴範圍而審理此部分準強盜
+  查被告未○○並未經起訴準強盜罪，本院自無擴張起訴範圍而審理此部分準強盜
     事實已如前述，此部分亦應退由檢察官另為適法之處理至明。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />又被害人壬○○及證人庚○○均經本院行交互詰問（見本院審理卷三第卅七至六
+  又被害人壬○○及證人庚○○均經本院行交互詰問（見本院審理卷三第卅七至六
     八頁），上述詰問內容應可供日後偵審之證據資料，併予指明。
   (四)九十二年度偵字第一一０四九號，被告戌○○、寅○○涉嫌共同竊取被害人陳進
-    用行動電話之部分（併辦事實Ｅ<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />移送併辦意旨又認被告寅○○與戌○○亦參與附表一編號二之竊取被害人陳進用
+    用行動電話之部分（併辦事實Ｅ）：
+  移送併辦意旨又認被告寅○○與戌○○亦參與附表一編號二之竊取被害人陳進用
     行動電話之犯行。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />訊據被告寅○○及戌○○均堅決否認涉犯此部分竊盜行為。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被害人陳進用於警訊中僅指陳其所有之行動電話，於附表一編號二所示時地，遭
+  訊據被告寅○○及戌○○均堅決否認涉犯此部分竊盜行為。
+  被害人陳進用於警訊中僅指陳其所有之行動電話，於附表一編號二所示時地，遭
     他人以表載方式竊取，並未指認何等人士涉案（見併辦Ｅ部分警卷第四三頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />已供承犯罪之被告戊○○雖於警訊中供稱係被告寅○○提議行竊等語；同亦自白
+  已供承犯罪之被告戊○○雖於警訊中供稱係被告寅○○提議行竊等語；同亦自白
     犯罪之被告未○○固亦於警訊中供稱係與寅○○、戊○○、戌○○共同犯案等語
     。然被告戊○○與未○○以附表一編號二所載之手法行竊他人行動電話之次數甚
     多，其等於警訊中所為指證同夥之供述有高度誤記之風險，已如前述，自難僅憑
     其二人所為與被告寅○○、戌○○供述不相符合之指證，遽認被告寅○○、戌○
     ○亦涉犯此部分行為。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />被告戊○○及未○○於本院行準備程序時，均供稱僅伊等二人參與此部分犯罪，
+  被告戊○○及未○○於本院行準備程序時，均供稱僅伊等二人參與此部分犯罪，
     被告寅○○、戌○○均未參與等語（見本院審理卷二第六一、六二頁），核與被
     告戌○○及寅○○二人迭於警訊及本院準備程序中之供述相符。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />綜上事證，本院認被告寅○○、戌○○就此部分之被指控事實，尚未達於通常一
+  綜上事證，本院認被告寅○○、戌○○就此部分之被指控事實，尚未達於通常一
     般之人均不致有所懷疑，而得確信其為真實之程度，揆諸前揭說明，自應為對其
     等有利之認定，因認此部無從併案審理。
   (五)九十二年度偵字第一一０四九號，被告寅○○涉嫌搶奪被害人曾子豪行動電話之
-    部分（併辦事實Ｅ<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />移送併辦意旨略以：被告寅○○於九十二年四月八日下午五時許，在台南縣歸仁
+    部分（併辦事實Ｅ）：
+  移送併辦意旨略以：被告寅○○於九十二年四月八日下午五時許，在台南縣歸仁
     鄉○○村○○○路自來水公司的對面，對曾子豪謊稱機車故障，向曾某借用其所
     有之摩托羅拉牌Ｃ二八九型手機一支，佯稱致電友人拿錢後，並要曾某暫往同鄉
     「大歸仁生鮮超市」等候，竟一去不回。寅○○嗣並將該支手機轉售牟利，因認
     被告寅○○此部分涉犯搶奪罪嫌。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />按詐欺、侵占罪與竊盜、搶奪之差異之一，在於原持有人去除對動產之支配管領
+  按詐欺、侵占罪與竊盜、搶奪之差異之一，在於原持有人去除對動產之支配管領
     地位並將之移轉予行為人，是否基於原持有人之同意，設若出於原持有人之同意
     而使持有人確定地去除對動產之支配管領關係，並使行為人因之而建立新的、鞏
     固的持有支配關係，則應論以詐欺或侵占罪名，而不能以搶奪罪名相繩，已如前
     述。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />此部分依被害人曾子豪於警訊證述被告寅○○之犯罪手法為：「當時我接獲一通
+  此部分依被害人曾子豪於警訊證述被告寅○○之犯罪手法為：「當時我接獲一通
     電話，說我機車拋錨在忠孝北路自來水公司對面，問我是否可以過去幫忙推車，
     我說要等我十七時下班後再過去，我到後他就向我借手機打給他朋友，他說他要
     去他朋友家拿錢，要到朋友家樓下再打電話給朋友叫他下來所以向我借手機，要
@@ -431,7 +324,7 @@ function openwin(URL,arguments,width,height)
     我，叫我過去拿手機，我過去等約五鐘等無人，我就回原來地方找他們，他們人
     與車都不見了．．．是寅○○（向我借手機）」等語（見併辦Ｅ部分警卷第二十
     頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />據被害人曾子豪前揭供述可知，被告寅○○係向曾子豪借用行動電話「前往朋友
+  據被害人曾子豪前揭供述可知，被告寅○○係向曾子豪借用行動電話「前往朋友
     住處」，而非「在曾某面前使用」。換言之，曾手豪係同意被告寅○○將其所有
     之行動電話持往曾某「事實上無法支配管領」且「無從即時防護」之處所，而與
     附表二所示之行為態樣不同。故曾子豪將行動電話借予被告寅○○之時，係使自
@@ -441,38 +334,38 @@ function openwin(URL,arguments,width,height)
     並使自己取得行動電話之支配管領關係，係出於其欺罔手段與被害人曾子豪因陷
     於錯誤而為之同意與交付行為，此部分應係成立欺詐取財罪名，而與搶奪罪之構
     成要件不相符合。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />本件被告寅○○因未經起訴詐欺罪名，故此部分犯行即屬無從併辦，而應退由檢
+  本件被告寅○○因未經起訴詐欺罪名，故此部分犯行即屬無從併辦，而應退由檢
     察官續行依法偵查。
   (六)九十二年度偵字第一一０四九號，被告戌○○、未○○涉嫌共同竊取被害人丑○
-    ○行動電話之部分（併辦事實Ｅ<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57B2A0A00000040.GIF" />）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />移送併辦意旨又認被告戌○○與未○○亦參與附表一編號十一之竊取被害人丑○
+    ○行動電話之部分（併辦事實Ｅ）：
+  移送併辦意旨又認被告戌○○與未○○亦參與附表一編號十一之竊取被害人丑○
     ○行動電話之犯行。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />訊之被告戌○○、未○○亦堅詞否認參與此部分犯行。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被告戌○○及未○○雖曾於警訊中供承參與此部分犯行，被告戊○○固亦於警訊
+  訊之被告戌○○、未○○亦堅詞否認參與此部分犯行。
+  被告戌○○及未○○雖曾於警訊中供承參與此部分犯行，被告戊○○固亦於警訊
     中供稱被告戌○○及未○○亦有參與，但均可能係混淆或記憶錯誤之陳述，亦如
     前述。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />被害人丑○○於警訊中僅能指證被告寅○○（併辦Ｅ部分警卷第五三頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />被告戊○○與寅○○均供稱僅伊等二人參與行竊，被告戌○○與未○○並未參與
+  被害人丑○○於警訊中僅能指證被告寅○○（併辦Ｅ部分警卷第五三頁）。
+  被告戊○○與寅○○均供稱僅伊等二人參與行竊，被告戌○○與未○○並未參與
     等語（見本院審理卷二第二三七頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />據上應認被告戌○○、未○○就此部分併辦事實之犯罪未獲嚴格之證明，自難遽
+  據上應認被告戌○○、未○○就此部分併辦事實之犯罪未獲嚴格之證明，自難遽
     認其二人亦涉犯此部分事實，故而亦認無從併辦。
   (七)九十二年度偵字第一一０四九號，被告寅○○涉嫌共同竊取被害人辛○○行動電
-    話之部分（併辦事實Ｅ<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5672A0A00000040.GIF" />）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />移送併辦意旨又認被告寅○○亦參與附表一編號廿三之竊取被害人辛○○行動電
+    話之部分（併辦事實Ｅ）：
+  移送併辦意旨又認被告寅○○亦參與附表一編號廿三之竊取被害人辛○○行動電
     話之犯行。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />訊之被告寅○○堅詞否認參與此部分犯行。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被告戊○○、未○○、戌○○雖於警訊中供稱被告寅○○亦有參與此一犯罪事實
+  訊之被告寅○○堅詞否認參與此部分犯行。
+  被告戊○○、未○○、戌○○雖於警訊中供稱被告寅○○亦有參與此一犯罪事實
     ，但有誤錯及混淆之風險。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />被害人辛○○於警訊中僅能指認被告未○○，無法確定其他被告有無涉案（見併
+  被害人辛○○於警訊中僅能指認被告未○○，無法確定其他被告有無涉案（見併
     辦Ｅ部分警卷第八三頁），該證人於本院審理時則無法指認任何在庭之被告是否
     即為將伊誘出網咖店外之人（見本院審理卷三第四九頁至五一頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />於本院準備程序中供承參與此部分犯行之被告戊○○、未○○、戌○○均供稱被
+  於本院準備程序中供承參與此部分犯行之被告戊○○、未○○、戌○○均供稱被
     告寅○○並未參與本件等語（見本院審理卷二第三十頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />綜上所述，被告寅○○應可排除涉犯此部分行為之可能，就該被告而言，此部分
+  綜上所述，被告寅○○應可排除涉犯此部分行為之可能，就該被告而言，此部分
     亦不生起訴效力擴張之問題，自亦屬無從併辦。
   (八)九十二年度偵字第一一０四九號，被告寅○○涉嫌搶奪被害人鍾坤哲行動電話之
-    部分（併辦事實Ｅ<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5652A0A00000040.GIF" />）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />移送併辦意旨略以：被告寅○○於九十二年四月三十日廿二時三十分許，在台南
+    部分（併辦事實Ｅ）：
+  移送併辦意旨略以：被告寅○○於九十二年四月三十日廿二時三十分許，在台南
     縣仁德鄉○○路○段一一一七號「世界網際網路店」內，要求被害人鍾坤哲到店
     外談話，另一人則在店外對鍾某詢稱昨晚有無欺負其朋友之兄弟，並要求鍾某借
     用摩托羅拉牌Ｖ三六八八Ｘ型行動電話乙支向朋友求證，待鍾坤哲交出手機後旋
@@ -480,56 +373,56 @@ function openwin(URL,arguments,width,height)
     有話要問而加以阻攔，鍾某乃回店請朋友幫忙，再出店外時看見該二人共騎機車
     離開現場，雖經鍾某在後追討，但無所獲，因認被告寅○○就此部分亦犯刑法第
     三百二十五條第一項之搶奪罪嫌。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />訊據被告寅○○則堅稱並未參與此部搶奪犯行，並辯稱該支鍾坤哲之行動電話乃
+  訊據被告寅○○則堅稱並未參與此部搶奪犯行，並辯稱該支鍾坤哲之行動電話乃
     案外人辰○○交由其前往變賣，伊並未與辰○○共同搶奪鍾某等語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被害人鍾坤哲所有之行動電話依卷附手機讓渡書所載（見併辦Ｅ部分警卷第一二
+  被害人鍾坤哲所有之行動電話依卷附手機讓渡書所載（見併辦Ｅ部分警卷第一二
     八頁），雖得確認係被告寅○○持往變賣，然被告寅○○辯稱係經由辰○○交付
     而託伊前往變賣等語。而證人辰○○固於本院審理時，到庭初時證述伊確曾與被
     告寅○○共同參與本件犯行，且係被告寅○○向手機之主人問明有無打伊等之朋
     友，並向機主借用手機稱欲致電被打之友人出面後，利用機主不注意之際拿走，
     得手之手機由寅○○持往仁德之手機店轉賣．．．伊未曾單獨犯案，亦未曾與其
     他人犯案後將手機交由寅○○轉賣，寅○○所賣之手機均係伊與寅○○共同犯案
-    所得之物等語（卷二第二二六至二二八頁），嗣卻又改稱：本件乃伊與<font color='red'>劉文忠</font>共
+    所得之物等語（卷二第二二六至二二八頁），嗣卻又改稱：本件乃伊與劉文忠共
     犯等語（卷二第二三三頁），故證人即共犯辰○○之供述即有前後岐異之顯見瑕
     疵可指，尚無從依其證言而遽認被告寅○○涉犯此一部分事實。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />按身材壯碩肥胖之被告寅○○，其體型乃一極為明顯之特徵，若確曾與被害人有
+  按身材壯碩肥胖之被告寅○○，其體型乃一極為明顯之特徵，若確曾與被害人有
     所接觸，則被害人均曾於警訊中為證述涉案人士有上述特殊體型者，或直接指證
     被告寅○○涉案，然被害人鍾坤哲非但於警訊中未提及涉案人士之特殊體型（見
     併辦Ｅ部分警卷第八六頁），復於本院審理時經當場辨識被告寅○○時證述：「
     （涉案之人）沒有這麼胖的人」等語，堪信被告寅○○確未曾參與此一犯行（證
     卷三第八九頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />據上論述，被告寅○○否認涉犯此部分行為，即非無可信之理，此外復查無其他
+  據上論述，被告寅○○否認涉犯此部分行為，即非無可信之理，此外復查無其他
     積極證據足認被告寅○○參與此部分犯行，應認其此部分被移送犯行不能證明其
     犯罪，自亦無從併予審理。
   (九)九十三年度偵字第五八００號併辦部分（併辦事實Ｋ部分）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />移送併辦意旨略以：被告寅○○意圖為自己不法之所有，於九十二年五月十七日
+  移送併辦意旨略以：被告寅○○意圖為自己不法之所有，於九十二年五月十七日
     零時四十分許，在台南縣永康市○○路五三號前，竊取蘇益聖所有之車牌號碼Ｏ
     ＡＩ－八二五號重型機車乙部（價值新台幣二萬元），得手後，將該車騎至台南
     縣關廟鄉○○村○○路一四五巷三十七號前放置逃逸，為警據報查詢係失竊贓車
     後通知寅○○到台南縣警察局歸仁分局說明，始知上情，因認被告寅○○此部分
     涉犯刑法第三百二十條第一項之竊盜罪嫌。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />訊之被告寅○○堅決否認竊取上述機車，並以：該部機車乃伊向綽號「雲明」之
+  訊之被告寅○○堅決否認竊取上述機車，並以：該部機車乃伊向綽號「雲明」之
     男子借用騎乘，伊並未竊取該部機車等語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />經查上述機車係被害人蘇逸聖所有，並於前揭時地遭竊之事實，雖據被害人蘇逸
+  經查上述機車係被害人蘇逸聖所有，並於前揭時地遭竊之事實，雖據被害人蘇逸
     聖於警訊中證述在卷，並有報案紀錄及贓物領據附卷可佐（見併辦Ｋ部分警卷第
     二至五頁）。然上開證據均無法判斷係何人自被害人蘇逸聖支配管領中下手竊取
     得手。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />行為人無合法權源而持有被竊贓物，存有諸多可能：或竊取得手、或有無贓物之
+  行為人無合法權源而持有被竊贓物，存有諸多可能：或竊取得手、或有無贓物之
     認識而收受故買、或經原行竊者拋棄後而予以侵占等，故單純持有贓車而遭查獲
     之事實，尚無從憑以遽認持有贓車者係最上游且惡性最重之竊盜犯罪行為人。從
     而檢察官僅憑被告寅○○持有贓車之事實，即認其係下手竊取該車之人，尚有未
     合，此部分亦屬不能證明被告寅○○犯罪，亦應退由檢察官續行偵查。
   (十)九十二年度偵字第一二八二０號，被告卯○○涉嫌共犯竊盜部分（併辦事實Ｈ部
     分）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />公訴意旨另認被告卯○○亦涉犯附表一編號七之竊取梁碧芬行動電話之事實。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />訊據被告卯○○雖就此部分事實自白不諱，然本件被告卯○○並未經起訴竊盜罪
+  公訴意旨另認被告卯○○亦涉犯附表一編號七之竊取梁碧芬行動電話之事實。
+  訊據被告卯○○雖就此部分事實自白不諱，然本件被告卯○○並未經起訴竊盜罪
     名，故被告卯○○此部分竊盜事實，並非原起訴效力所及之範圍，自屬無從併予
     審理，應由檢察官就被告卯○○之部分另為適法之處分。
   (十一)九十三年度偵字第七九三九號，被告卯○○涉嫌共同竊盜部分（併辦事實Ｍ部分
     ）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />公訴意旨另認被告卯○○亦涉犯附表一編號卅三之竊取「龍鳳宮」內財物之事實
+  公訴意旨另認被告卯○○亦涉犯附表一編號卅三之竊取「龍鳳宮」內財物之事實
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />基於上述同一法律上理由，被告卯○○既未經起訴竊盜罪名，此部分亦屬無從併
+  基於上述同一法律上理由，被告卯○○既未經起訴竊盜罪名，此部分亦屬無從併
     辦。
 據上論斷，應依刑事訴訟法第二百九十九條第一項前段，刑法第二十八條、第五十六
 條、第三百二十一條第一項第四款、第三百二十六條第一項、第三百二十九條、第四
@@ -556,86 +449,11 @@ function openwin(URL,arguments,width,height)
   (準強盜罪)
   竊盜或搶奪，因防護贓物、脫免逮捕或湮滅罪證，而當場施以強暴脅迫者，以強盜
   論。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\OK\LAWTND\CRIMINAL\9310\20\TNDM93AK.007] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000786&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c786%2c20041015%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=786&jdate=931015&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c786%2c20041015%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=786&jdate=931015&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c786%2c20041015%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','786','931015','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文忠">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文忠">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]92,訴,786,20041015,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]92
+[*jcase*]訴
+[*jno*]786
+[*jdate*]931015
+[*jcheck*]1

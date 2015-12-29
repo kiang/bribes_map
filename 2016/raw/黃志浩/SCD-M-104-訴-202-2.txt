@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新竹地方法院-刑-104訴202</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新竹地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000202&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c202%2c20150819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=202&jdate=1040819&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c202%2c20150819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=202&jdate=1040819&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c202%2c20150819%2c2','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','202','1040819','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,202</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040819</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新竹地方法院刑事判決　　　　　　　104年度訴字第202號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c202%2c20150819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=202&jdate=1040819&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000202&selectedCrtid=SCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c202%2c20150819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=202&jdate=1040819&jcheck=2
+[*裁判字號*]104,訴,202
+[*裁判日期*]1040819
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣新竹地方法院刑事判決　　　　　　　104年度訴字第202號
 公　訴　人　臺灣新竹地方法院檢察署檢察官
 被　　　告　鄭以文
 上列被告因偽造文書等案件，經檢察官提起公訴（104 年度調偵
@@ -128,13 +21,13 @@ function openwin(URL,arguments,width,height)
 一、鄭以文為捷立光電股份有限公司（下稱捷立公司）負責人，
     於民國101 年3 月下旬某日，明知其及捷立公司已無資力，
     為繼續經營捷立公司，竟基於意圖為自己不法所有詐欺取財
-    犯意，向舊識<font color='red'>黃志浩</font>謊稱捷立公司將辦理現金增資，榮景可
-    期，可認股投資云云，<font color='red'>黃志浩</font>因此信以為真，陷於錯誤，分
+    犯意，向舊識黃志浩謊稱捷立公司將辦理現金增資，榮景可
+    期，可認股投資云云，黃志浩因此信以為真，陷於錯誤，分
     別於101 年3 月20日匯款新臺幣（下同）90萬元、於同年4
     月5 日匯款10萬元，共100 萬元至捷立公司開設在彰化商業
-    銀行北新竹分行帳號00000000000000號帳戶。嗣<font color='red'>黃志浩</font>向鄭
+    銀行北新竹分行帳號00000000000000號帳戶。嗣黃志浩向鄭
     以文催討，鄭以文復於同年5 月間某日，交付股權讓渡書1
-    紙給<font color='red'>黃志浩</font>，謊稱<font color='red'>黃志浩</font>已取得股權云云。嗣<font color='red'>黃志浩</font>發現自
+    紙給黃志浩，謊稱黃志浩已取得股權云云。嗣黃志浩發現自
     己根本未列名在捷立公司股東名簿，始知上當受騙。
 二、鄭以文明知捷立公司已無信用，竟基於行使偽造私文書之犯
     意，於102 年10月8 日，以瑞興電訊有限公司（下稱瑞興公
@@ -142,7 +35,7 @@ function openwin(URL,arguments,width,height)
     印章，持向亞亞科技股份有限公司（下稱亞亞公司）進行報
     價以行使，足以生損害於瑞興公司及亞亞公司，嗣經瑞興公
     司發覺始知前情。
-三、案經<font color='red'>黃志浩</font>、瑞興公司訴請臺灣新竹地方法院檢察署檢察官
+三、案經黃志浩、瑞興公司訴請臺灣新竹地方法院檢察署檢察官
     偵查起訴。
     理  由
 一、按除被告所犯為死刑、無期徒刑、最輕本刑為3 年以上有期
@@ -157,7 +50,7 @@ function openwin(URL,arguments,width,height)
     定由受命法官獨任進行簡式審判程序。
 二、前開犯罪事實，業據被告於本院行準備程序時及審理時坦承
     不諱（本院卷第34頁至第35頁、第39頁至第42頁），復經證
-    人即告訴人<font color='red'>黃志浩</font>、證人即告訴人瑞興公司負責人謝永裕各
+    人即告訴人黃志浩、證人即告訴人瑞興公司負責人謝永裕各
     於偵查中指述歷歷（1053號他卷第1 頁至第2 頁、214 號他
     卷第1 頁至第2 頁），核與證人即捷立公司委任簽證會計師
     林瑞雯、亞亞公司工程師陳建成於偵查中所證情節大致相符
@@ -188,16 +81,16 @@ function openwin(URL,arguments,width,height)
   (三)被告所犯詐欺取財罪、行使偽造私文書罪，犯意各別，行為
     互殊，應予分別論斷。
   (四)爰審酌被告為捷立公司負責人，本應正派經營事業，卻向告
-    訴人<font color='red'>黃志浩</font>謊稱可認股投資捷立公司云云，使告訴人<font color='red'>黃志浩
-    </font>信以為真，陷於錯誤，進而交付100 萬元；又偽造告訴人瑞
+    訴人黃志浩謊稱可認股投資捷立公司云云，使告訴人黃志浩
+    信以為真，陷於錯誤，進而交付100 萬元；又偽造告訴人瑞
     興公司報價單而持之向亞亞公司進行報價以行使，足以生損
     害於告訴人瑞興公司及亞亞公司，是其犯罪所生之危害非輕
     ，惟被告於本院行準備程序時及審理時坦承不諱，犯罪後之
-    態度良好，於本院行準備程序時與告訴人<font color='red'>黃志浩</font>達成和解，
-    願意「給付原告（即告訴人<font color='red'>黃志浩</font>）126 萬元，分期給付方
+    態度良好，於本院行準備程序時與告訴人黃志浩達成和解，
+    願意「給付原告（即告訴人黃志浩）126 萬元，分期給付方
     式及金額如下：自104 年9 起至109 年11月，各於每月20日
     前給付2 萬元，共63期，匯入指定帳戶合作金庫銀行壢新分
-    行帳號0000000000000 號戶名<font color='red'>黃志浩</font>之帳戶。如有1 期未付
+    行帳號0000000000000 號戶名黃志浩之帳戶。如有1 期未付
     視同全部到期」，此詳本院104 年度附民字第112 號和解筆
     錄1 份可明（本院卷第43頁），酌以其無前科，從事「科技
     業」，個人教育程度係「大學畢業」，家庭經濟狀況為「小
@@ -211,8 +104,8 @@ function openwin(URL,arguments,width,height)
   (五)查被告未曾因故意犯罪受有期徒刑以上刑之宣告，有前揭臺
     灣高等法院被告前案紀錄表1 份在卷可稽，是其因一時失慮
     ，致罹刑章，經此偵、審程序之教訓，當能知所警惕，應無
-    再犯之虞，經斟酌其與告訴人<font color='red'>黃志浩</font>達成和解，及告訴人瑞
-    興公司負責人謝永裕於本院行準備程序時、告訴人<font color='red'>黃志浩</font>於
+    再犯之虞，經斟酌其與告訴人黃志浩達成和解，及告訴人瑞
+    興公司負責人謝永裕於本院行準備程序時、告訴人黃志浩於
     本院審理時所陳意見（本院卷第18頁、第35頁），因認其所
     受宣告之刑，應以暫不執行為適當，爰依刑法第74條第1 項
     第1 款之規定，宣告緩刑如主文所示，以期自新，並依同法
@@ -251,86 +144,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處5 年以下有期徒刑、拘役或科或併科1 千元以下罰
 金。
 以前項方法得財產上不法之利益或使第三人得之者亦同。
-前2 項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWSCD\CRIMINAL\10408\19\SCDM1048J.00H] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000202&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c202%2c20150819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=202&jdate=1040819&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c202%2c20150819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=202&jdate=1040819&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c202%2c20150819%2c2','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','202','1040819','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="SCD 臺灣新竹地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃志浩">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃志浩">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前2 項之未遂犯罰之。
+[*jrecno*]104,訴,202,20150819,2
+[*v_court*]SCD 臺灣新竹地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]202
+[*jdate*]1040819
+[*jcheck*]2

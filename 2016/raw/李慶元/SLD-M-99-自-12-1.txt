@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣士林地方法院-刑-99自12</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣士林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%87%aa&selectedCrmno=000012&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%87%aa%2c12%2c20120830%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=12&jdate=1010830&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%87%aa%2c12%2c20120830%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=12&jdate=1010830&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%87%aa%2c12%2c20120830%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%87%aa','12','1010830','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,自,12</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010830</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誹謗</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣士林地方法院刑事判決　　　　　　　　99年度自字第12號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%87%aa%2c12%2c20120830%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=12&jdate=1010830&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%87%aa&selectedCrmno=000012&selectedCrtid=SLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%87%aa%2c12%2c20120830%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=12&jdate=1010830&jcheck=1
+[*裁判字號*]99,自,12
+[*裁判日期*]1010830
+[*裁判案由*]誹謗
+[*裁判全文*]臺灣士林地方法院刑事判決　　　　　　　　99年度自字第12號
 自　訴　人　馬以南
 自訴代理人　賴素如律師
 　　　　　　洪文浚律師
@@ -305,7 +198,7 @@ function openwin(URL,arguments,width,height)
     作查證，王廣生沒有很明確的否認，伊當時與王廣生的對話
     有錄音並做成譯文。兆如的部分，是伊聽聞有人向臺北市政
     府檢舉馬以南利用特權請兆如安養院派遣24小時外勞照顧她
-    的婆婆，伊為確認是否有這樣的檢舉內容，有請<font color='red'>李慶元</font>議員
+    的婆婆，伊為確認是否有這樣的檢舉內容，有請李慶元議員
     去調相關的檢舉資料及調查的內容，當時李議員告訴伊說因
     為兆如在他的選區，所以他很清楚，他也有聽到相關的檢舉
     內容，而且李議員也曾說他的主要消息來源是兆如的經營及
@@ -502,7 +395,7 @@ function openwin(URL,arguments,width,height)
       報導。
 （二）系爭報導關於「民眾投訴馬以南利用特權，命台北市兆如
       安養護中心派遣3 位外勞，24小時照顧她的婆婆」部分：
-    1.證人<font color='red'>李慶元</font>於臺灣高等法院100 年度上字第426 號案件審
+    1.證人李慶元於臺灣高等法院100 年度上字第426 號案件審
       理時證稱：被告溫惠敏於系爭報導出刊前，有向伊詢問聽
       聞馬以南的婆婆住在兆如有受到外傭特別照顧的事情，伊
       當時回答：社會局委託經營兆如的恆安機構負責人胡世賢
@@ -542,36 +435,36 @@ function openwin(URL,arguments,width,height)
       是如此，而且入住還要關說等語（見本院卷三第87頁至95
       頁）。證人胡世賢則於臺灣高等法院100 年度上字第426
       號案件審理時證稱：伊為恆安機構負責人，兆如養護中心
-      為恆安機構所屬養護中心。伊不是打電話給<font color='red'>李慶元</font>，是<font color='red'>李
-      慶元</font>到院裡時，伊當面跟他抱怨，抱怨的原因是講說，因
+      為恆安機構所屬養護中心。伊不是打電話給李慶元，是李
+      慶元到院裡時，伊當面跟他抱怨，抱怨的原因是講說，因
       為馬以南婆婆有打電話給社會局說我們的飯是冷的，社會
       局來查過，說飯怎麼是冷的，我們也跟社會局說明，我們
       不可能有冷的飯。社會局派員來看到現場狀況，就沒有再
       講話，而且跟我們講請我們多幫忙，好好照顧，這是社會
-      局例行檢查的結果，但是伊會跟<font color='red'>李慶元</font>抱怨，關鍵在社會
+      局例行檢查的結果，但是伊會跟李慶元抱怨，關鍵在社會
       局每次來查這個案子的時候，他們都說是1999檢舉的，而
       且檢舉的函發給我們的文寫總統的姐姐馬○南的婆婆有三
       個外籍的看護專門照顧，我們對這樣的寫法非常憤怒，我
-      們認為公文書上不應該寫這些字眼，這是我們跟<font color='red'>李慶元</font>抱
+      們認為公文書上不應該寫這些字眼，這是我們跟李慶元抱
       怨，也拿給他看過。養護中心有分安養區、養護區，馬以
       南的婆住安養區，我們機構是可以請外勞的，我們安排不
       論是本籍或外籍看護，都是分樓層，安養區的工作同仁比
       較少，我們在那裡都是每一層樓都有配工作同仁照顧樓層
       ，這個樓層哪個老人家有需要，他們都會去服務，不會因
       是馬以南的婆婆就會有特別看護或24小時看護她，兆如養
-      護中心亦未如證人<font color='red'>李慶元</font>所述，為馬以南的婆婆買單外籍
+      護中心亦未如證人李慶元所述，為馬以南的婆婆買單外籍
       看護的費用。社會局局長是打電話給院內的蔡主任，就是
       講請多照顧，因為有冷飯的原因，所以有打電話。於96年
       間起入住兆如安養中心都要排隊，之前不用。被告溫惠敏
       於系爭報導前，曾與伊見過一次面，但見面原因係為廣慈
       案。被告溫惠敏或壹周刊所屬人員並未就本件報導向伊查
-      證等語（見本院卷三第98頁以下）。衡諸證人<font color='red'>李慶元</font>及胡
+      證等語（見本院卷三第98頁以下）。衡諸證人李慶元及胡
       世賢之證述內容，雖二人就證人胡世賢是否係以電話向證
-      人<font color='red'>李慶元</font>抱怨、兆如安養中心有無為自訴人之的婆婆支付
+      人李慶元抱怨、兆如安養中心有無為自訴人之的婆婆支付
       外籍看護之費用等細節，所述互有出入，惟證人胡世賢確
       就因有民眾檢舉兆如安養中心安排外籍看護，照顧自訴人
       之婆婆，社會局因而派員檢查兆如安養中心之事，向證人
-      <font color='red'>李慶元</font>抱怨等情，證人胡世賢及<font color='red'>李慶元</font>所述大致相符。而
+      李慶元抱怨等情，證人胡世賢及李慶元所述大致相符。而
       確有民眾以臺北市1999市民熱線檢舉兆如老人安養護中心
       派遣3 名外勞24小時特別照顧自訴人之婆婆，經臺北市政
       府派員會勘後，勘查結果並無派遣3 名外勞照顧自訴人之
@@ -615,20 +508,20 @@ function openwin(URL,arguments,width,height)
       頁以下）。但系爭報導則指自訴人是於「馬英九剛當選總
       統不久」（按馬英九先生在97年3 月22日當選總統）即央
       人安排住進兆如老人安養護中心，其時間點並不吻合，且
-      相差甚遠。惟證人<font color='red'>李慶元</font>於前揭臺灣高等法院100 年度上
+      相差甚遠。惟證人李慶元於前揭臺灣高等法院100 年度上
       字第426 號案件審理時證稱：「（問：壹周刊第54頁第2
       段第6 行『馬以南在無計可施之下，經友人推薦，才央請
       社會局局長師豫玲打電話』，這些話是你跟溫惠敏講的？
       ）當時胡世賢跟我講的時候，他沒有說是哪個局長，連我
       都誤以為是師豫玲，因為他跨越馬英九跟郝龍斌的時代，
       有可能是當時我自己轉述錯誤，因為師豫玲是擔任最久的
-      社會局局長。」等語（見本院卷三第92頁）。依證人<font color='red'>李慶
-      元</font>上開證述之內容，其未逕予否認曾向被告溫惠敏告知『
+      社會局局長。」等語（見本院卷三第92頁）。依證人李慶
+      元上開證述之內容，其未逕予否認曾向被告溫惠敏告知『
       馬以南在無計可施之下，經友人推薦，才央請社會局局長
       師豫玲打電話』等情節，並稱：「有可能是當時我自己轉
       述錯誤」、「我跟她說的主要是胡世賢跟我的這些」、「
       我講的東西有融入到（報導）裡面」等語，足認被告溫惠
-      敏辯稱：係經<font color='red'>李慶元</font>告知主要消息來源是兆如的經營及管
+      敏辯稱：係經李慶元告知主要消息來源是兆如的經營及管
       理階層等語，即非無據。雖證人胡世賢於前揭臺灣高等法
       院100 年度上字第426 號案件審理時，執稱被告溫惠敏未
       曾就系爭報導向其查證，惟亦坦認於系爭報導前，曾與被
@@ -639,11 +532,11 @@ function openwin(URL,arguments,width,height)
       局師豫玲局長打電話至兆如安養中心等情，適與系爭報導
       中所載係社會局局長師豫玲打電話予兆如安養中心負責人
       ，希望增派外勞給予特別照顧等情，即有部分程度之一致
-      。依證人<font color='red'>李慶元</font>前揭證述，證人胡世賢並未向證人<font color='red'>李慶元
-      </font>告知係何位社會局局長來電，然報導中有關社會局師豫玲
+      。依證人李慶元前揭證述，證人胡世賢並未向證人李慶元
+      告知係何位社會局局長來電，然報導中有關社會局師豫玲
       局長打電話至兆如安養中心之部分，竟與證人胡世賢所述
       有相當程度之一致；況被告溫惠敏既聽聞有民眾檢舉兆如
-      派遣外籍看護照顧自訴人婆婆情事，又經證人<font color='red'>李慶元</font>告知
+      派遣外籍看護照顧自訴人婆婆情事，又經證人李慶元告知
       其消息來源為兆如安養中心之經營、管理階層，被告溫惠
       敏又係於報導出刊前，即與證人胡世賢見面，依新聞媒體
       記者追查新聞之需求，衡情被告溫惠敏應會向證人胡世賢
@@ -664,20 +557,20 @@ function openwin(URL,arguments,width,height)
       。又證人陳敏雄雖於前揭臺灣高等法院100 年度上字第42
       6 號案件審理時證稱：伊於90、91年間起，即在兆如老人
       安養護中心擔任院長，於99年5 月間離職。伊離職後，約
-      於100 年間，<font color='red'>李慶元</font>曾找伊聊天，伊沒有印象<font color='red'>李慶元</font>有無
+      於100 年間，李慶元曾找伊聊天，伊沒有印象李慶元有無
       向伊詢問馬以南的婆婆在兆如有接受特別照顧，亦無壹傳
       媒公司之記者打電話向伊詢問兆如的事情等語（見本院卷
       三第109 頁以下）。然被告溫惠敏本即非向證人陳敏雄查
-      證，而<font color='red'>李慶元</font>係於系爭報導出刊前，將聽聞證人胡世賢所
+      證，而李慶元係於系爭報導出刊前，將聽聞證人胡世賢所
       述之內容，告知被告溫惠敏等情，已如前述。則證人陳敏
-      雄既非被告溫惠敏查證之對象，其與<font color='red'>李慶元</font>復係於系爭報
-      導出刊後，即100 年間始見面談話，則證人陳敏雄與<font color='red'>李慶
-      元</font>之談話內容既均在系爭報導出刊後，自與被告溫惠敏於
+      雄既非被告溫惠敏查證之對象，其與李慶元復係於系爭報
+      導出刊後，即100 年間始見面談話，則證人陳敏雄與李慶
+      元之談話內容既均在系爭報導出刊後，自與被告溫惠敏於
       系爭報導出刊前之查證行為無涉，即難執為不利於被告溫
       惠敏之認定。退而言之，縱認被告溫惠敏未曾向兆如老人
       安養護中心之人員查證，然被告溫惠敏因民眾以市民熱線
-      檢舉之內容向兆如老人安養護中心所在地區之市議員<font color='red'>李慶
-      元</font>查證，並經<font color='red'>李慶元</font>告知消息來源為兆如老人安養護中心
+      檢舉之內容向兆如老人安養護中心所在地區之市議員李慶
+      元查證，並經李慶元告知消息來源為兆如老人安養護中心
       之經營、管理階層，對其報導內容應有相當理由而形成合
       理確信，縱被告溫惠敏未再向兆如老人安養護中心人員為
       更詳實之查證，致報導中有關自訴人之婆婆入住兆如老人
@@ -713,7 +606,7 @@ function openwin(URL,arguments,width,height)
       長者之機構，其床位及照護資源之分配，涉及社會福利資
       源公平合理分配問題，與公共利益相關而屬可受公評之事
       項。其就民眾檢舉內容部分，為陳述性質之報導，並向證
-      人<font color='red'>李慶元</font>進行查證，其查證後之報導內容並未故意逸脫、
+      人李慶元進行查證，其查證後之報導內容並未故意逸脫、
       扭曲查證所得之範圍，且於報導中亦引述自訴人之回應內
       容，而為平衡報導，縱報導中所引述消息來源所指述之部
       分內容與客觀事實不一致，惟此容屬被告溫惠敏查證行為
@@ -739,86 +632,12 @@ function openwin(URL,arguments,width,height)
 20 日內向本院補提理由書 (均須按他造當事人之人數附繕本 )
 「切勿逕送上級法院」。
                             書記官  蔡昀潔
-中    華    民    國   101    年    8     月  30      日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWSLD\CRIMINAL\10108\30\SLDM1018U.003] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%87%aa&selectedCrmno=000012&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%85%b6%e5%85%83&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%85%b6%e5%85%83&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%87%aa%2c12%2c20120830%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=12&jdate=1010830&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%87%aa%2c12%2c20120830%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=12&jdate=1010830&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%87%aa%2c12%2c20120830%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%87%aa','12','1010830','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="SLD 臺灣士林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="李慶元">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="李慶元">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   101    年    8     月  30      日
+[*jrecno*]99,自,12,20120830,1
+[*v_court*]SLD 臺灣士林地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]自
+[*jno*]12
+[*jdate*]1010830
+[*jcheck*]1

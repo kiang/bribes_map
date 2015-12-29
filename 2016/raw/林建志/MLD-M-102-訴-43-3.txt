@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣苗栗地方法院-刑-102訴43</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣苗栗地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000043&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c43%2c20130430%2c3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=43&jdate=1020430&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c43%2c20130430%2c3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=43&jdate=1020430&jcheck=3">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c43%2c20130430%2c3','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','43','1020430','3')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,43</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020430</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇取財等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣苗栗地方法院刑事判決　　　　　　　 102年度訴字第43號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c43%2c20130430%2c3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=43&jdate=1020430&jcheck=3
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000043&selectedCrtid=MLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c43%2c20130430%2c3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=43&jdate=1020430&jcheck=3
+[*裁判字號*]102,訴,43
+[*裁判日期*]1020430
+[*裁判案由*]恐嚇取財等
+[*裁判全文*]臺灣苗栗地方法院刑事判決　　　　　　　 102年度訴字第43號
 公　訴　人　臺灣苗栗地方法院檢察署檢察官
 被　　　告　邱創偉
 　　　　　　詹子姍
@@ -163,18 +56,18 @@ function openwin(URL,arguments,width,height)
     國泰世華商業銀行股份有限公司（以下簡稱國泰世華銀行）
     信用卡（卡號0000000000000000號）1 張。得手後，繼而基
     於行使偽造私文書暨意圖為自己不法所有而詐騙財物之個別
-    犯意，於附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示時、地，持上開信用卡刷卡
+    犯意，於附表二編號至所示時、地，持上開信用卡刷卡
     消費，致上開編號所示特約商店之不知情店員代為刷卡登錄
-    信用卡審核系統，藉以購買與附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示刷卡金
-    額等值之各項商品，繼而於附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示電子簽帳
+    信用卡審核系統，藉以購買與附表二編號至所示刷卡金
+    額等值之各項商品，繼而於附表二編號至所示電子簽帳
     單之商店存根聯上偽簽「邱文森」之署名各1 枚，藉此前、
     後共20次偽造「邱文森」之署名（總計20枚）暨前、後共20
     次以「邱文森」名義偽造私文書，再將之持交予附表二編號
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示特約商店之不知情店員以行使，以此方式前、後
+    至所示特約商店之不知情店員以行使，以此方式前、後
     共20次行使偽造私文書，足以生損害於持卡人邱文森、如附
-    表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示之特約商店及國泰世華銀行，並使如附
-    表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示特約商店之不知情店員陷於錯誤，而同
-    意交付邱創偉與附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示刷卡金額等值之各項
+    表二編號至所示之特約商店及國泰世華銀行，並使如附
+    表二編號至所示特約商店之不知情店員陷於錯誤，而同
+    意交付邱創偉與附表二編號至所示刷卡金額等值之各項
     商品（共計6 萬1,965 元），即乃藉此方式前、後20次詐騙
     取財得逞。嗣經邱文森報警，始循線查獲。
 四、案經林建龍、國泰世華銀行、邱文森告訴及苗栗縣警察局移
@@ -199,7 +92,7 @@ function openwin(URL,arguments,width,height)
 一、事實欄二所示被告邱創偉、詹子姍犯幫助恐嚇取販罪部分：
   1.訊據被告邱創偉、詹子姍對於上揭事實均坦承不諱（見本院
     卷第48頁背面、第58頁背面至第59頁），並有鴿主即被害人
-    林建龍、<font color='red'>林建志</font>、陳正榮、劉昆霖、李標彰、林忠義、張金
+    林建龍、林建志、陳正榮、劉昆霖、李標彰、林忠義、張金
     容、蘇銘斌、連泳盛、曾乾廣、李振煇、李文瑞、林茂清等
     人於警詢指訴明確（相關證據頁碼參見附表一「卷證一覽」
     欄所示），暨被告詹子姍所開立臺灣銀行苗栗分行帳號0000
@@ -278,10 +171,10 @@ function openwin(URL,arguments,width,height)
     決意旨參照）。準此以言，倘行為人於簽帳單上偽簽他人署
     押，而表示該人消費之證明並持以行使，所觸犯者，即應屬
     刑法第216 條、第210 條之行使偽造私文書罪無誤。從而，
-    被告邱創偉為向如附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示之特約商店，購買
+    被告邱創偉為向如附表二編號至所示之特約商店，購買
     各該編號所示之商品，並分別在電子簽帳單商店存根聯上偽
     簽「邱文森」署名各1 枚（共計20枚），再將之提交予不知
-    情之特約商店店員而為主張行使，即如附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所
+    情之特約商店店員而為主張行使，即如附表二編號至所
     載，均係觸犯刑法第216 條、第210 條之行使偽造私文書罪
     。再者，無付款意思而冒用他人信用卡，於簽帳單上偽簽他
     人姓名（施用詐術），使特約商店陷於錯誤，誤以為行為人
@@ -303,22 +196,22 @@ function openwin(URL,arguments,width,height)
     係該當刑法第339 條第1 項之詐欺取財罪明確。準此以言，
     被告邱創偉如本判決事實欄三之所為，係犯刑法第320 條第
     1 項之普通竊盜罪（竊取被害人邱文森信用卡部分）、同法
-    第216 條、第210 條之行使偽造私文書罪（如附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />
-    至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示）及同法第339 條第1 項之詐欺取財罪（如附表二
-    編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示）。
-三、被告邱創偉如本判決附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示，先偽造私文書
+    第216 條、第210 條之行使偽造私文書罪（如附表二編號
+    至所示）及同法第339 條第1 項之詐欺取財罪（如附表二
+    編號至所示）。
+三、被告邱創偉如本判決附表二編號至所示，先偽造私文書
     （在消費簽帳單上簽名）復持以行使，其偽造私文書之低度
     行為應為高度之行使偽造私文書所吸收；被告偽造「邱文森
     」署押之行為亦為偽造私文書之部分行為，均不另論罪。又
     被告邱創偉前、後共20次以告訴人邱文森名義偽造消費簽帳
     單並提交各該特約商店之不知情店員以行使之目的，係在使
     各該特約商店之不知情店員陷於錯誤而同意給付與各筆刷卡
-    金額等值之財物；是以，被告邱創偉如附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所
+    金額等值之財物；是以，被告邱創偉如附表二編號至所
     示，各次行使偽造私文書，均係其「詐取財物」行為之一部
     ，並均觸犯構成要件不相同之法條罪名，為異種想像競合犯
     ，應各依刑法第55條規定，從一較重之刑法第216 條、第21
     0 條之行使偽造私文書罪處斷。又被告邱創偉所犯前開幫助
-    恐嚇取財罪、普通竊盜罪，及如附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示之前
+    恐嚇取財罪、普通竊盜罪，及如附表二編號至所示之前
     、後20次刑法第216 條、第210 條之行使偽造私文書罪，均
     犯意各別，行為互殊，應予分論併罰。
 四、被告邱創偉有事實欄一所載之刑案執行完畢之情形，此有臺
@@ -351,7 +244,7 @@ function openwin(URL,arguments,width,height)
     ，更已嚴重危害整體社會之金融秩序，兼考量告訴人邱文森
     於本院審理時表示願原諒被告邱創偉所為竊盜犯行（見本院
     卷第31頁），暨被告邱創偉歷次盜刷信用卡以詐取財物之金
-    額差異（除附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示消費金額已高達20,100元
+    額差異（除附表二編號、所示消費金額已高達20,100元
     、14,600元之外，其餘編號所示情節尚屬日常生活小額消費
     之範疇），迄今尚未能與告訴人國泰世華銀行和解並賠償其
     損失，以及始終坦承犯行而表悛悔之犯後態度等一切情狀，
@@ -359,9 +252,9 @@ function openwin(URL,arguments,width,height)
     示之刑，並與前開幫助恐嚇取財罪部分定應執行，併均諭知
     易科罰金折算標準。
 六、末查，被告邱創偉藉由本判決事實欄三所載（即如附表二編
-    號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />所示）方式而偽造之「邱文森」署押總計20枚，不
+    號至所示）方式而偽造之「邱文森」署押總計20枚，不
     問屬於犯人與否，均應依刑法第219 條規定，於其所犯各該
-    罪名項下，爰宣告沒收如附表二編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />「罪名及其應處
+    罪名項下，爰宣告沒收如附表二編號至「罪名及其應處
     刑罰」欄之所載，並依刑法第51條第9 款規定，就宣告多數
     沒收部分，併執行之。
 據上論斷，應依刑事訴訟法第273 條之1 第1 項、第299 條第1
@@ -409,7 +302,7 @@ function openwin(URL,arguments,width,height)
 │編號│ 發生時間 │被害人│竊得鴿隻│ 匯款金額 │    卷證一覽      │
 │    │          │      │        │（新臺幣）│                  │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /> │100.03.14 │林建龍│  2隻   │2,000元   │(1)證人林建龍警詢證│
+│  │100.03.14 │林建龍│  2隻   │2,000元   │(1)證人林建龍警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第46頁至第47頁│
 │    │          │      │        │          │  ）。            │
@@ -417,7 +310,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  書（偵5864號偵查│
 │    │          │      │        │          │  卷第49頁）、    │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" /> │100.03.09 │<font color='red'>林建志</font>│  5隻   │12,000元  │(1)證人<font color='red'>林建志</font>警詢證│
+│  │100.03.09 │林建志│  5隻   │12,000元  │(1)證人林建志警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第52頁至第53頁│
 │    │          │      │        │          │  ）。            │
@@ -426,7 +319,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  票（偵5864號偵查│
 │    │          │      │        │          │  卷第55頁）。    │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" /> │100.03.09 │陳正榮│  1隻   │2,300     │(1)證人陳正隆警詢證│
+│  │100.03.09 │陳正榮│  1隻   │2,300     │(1)證人陳正隆警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第56頁）。    │
 │    │          │      │        │          │(2)台中銀行國內匯款│
@@ -434,7 +327,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  票（偵5864號偵查│
 │    │          │      │        │          │  卷第58頁）。    │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" /> │100.03.14 │劉昆霖│  1隻   │2,000     │(1)證人劉昆霖警詢證│
+│  │100.03.14 │劉昆霖│  1隻   │2,000     │(1)證人劉昆霖警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第59頁至第60頁│
 │    │          │      │        │          │  ）。            │
@@ -442,7 +335,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  申請書（偵5864號│
 │    │          │      │        │          │  偵查卷第62頁）。│
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" /> │100.03.14 │李標彰│  1隻   │2,000     │(1)證人李標彰警詢證│
+│  │100.03.14 │李標彰│  1隻   │2,000     │(1)證人李標彰警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第63頁）。    │
 │    │          │      │        │          │(2)合作金庫商業銀行│
@@ -450,7 +343,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  傳票（偵5864號偵│
 │    │          │      │        │          │  查卷第64頁）。  │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" /> │100.03.14 │林忠義│  1隻   │2,000     │(1)證人林忠義警詢證│
+│  │100.03.14 │林忠義│  1隻   │2,000     │(1)證人林忠義警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第65頁）。    │
 │    │          │      │        │          │(2)台中銀行國內匯款│
@@ -458,7 +351,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  票（偵5864號偵查│
 │    │          │      │        │          │  卷第67頁）。    │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" /> │100.03.14 │張金容│  1隻   │2,000     │(1)證人張金容警詢證│
+│  │100.03.14 │張金容│  1隻   │2,000     │(1)證人張金容警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第68頁）。    │
 │    │          │      │        │          │(2)台中銀行國內匯款│
@@ -466,7 +359,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  票（偵5864號偵查│
 │    │          │      │        │          │  卷第70頁）。    │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" /> │100.03.14 │蘇銘斌│  3隻   │6,000     │(1)證人蘇銘斌警詢證│
+│  │100.03.14 │蘇銘斌│  3隻   │6,000     │(1)證人蘇銘斌警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第71頁）。    │
 │    │          │      │        │          │(2)台中銀行國內匯款│
@@ -474,7 +367,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  票（偵5864號偵查│
 │    │          │      │        │          │  卷第73頁）。    │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57C2A0A00000040.GIF" /> │100.03.14 │連泳盛│  1隻   │2,000     │(1)證人連泳盛警詢證│
+│  │100.03.14 │連泳盛│  1隻   │2,000     │(1)證人連泳盛警詢證│
 │    │（起訴書誤│      │        │          │  述（偵5864號偵查│
 │    │載為100.10│      │        │          │  卷第74頁）。    │
 │    │.11）     │      │        │          │(2)台中銀行國內匯款│
@@ -482,7 +375,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  票（偵5864號偵查│
 │    │          │      │        │          │  卷第76頁）。    │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57B2A0A00000040.GIF" /> │100.03.14 │曾乾廣│  1隻   │2,000     │(1)證人曾乾廣警詢證│
+│  │100.03.14 │曾乾廣│  1隻   │2,000     │(1)證人曾乾廣警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第77頁）。    │
 │    │          │      │        │          │(2)新竹第三信用合作│
@@ -490,7 +383,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  5864號偵查卷第79│
 │    │          │      │        │          │  頁）。          │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57A2A0A00000040.GIF" /> │100.03.09 │李振煇│  1隻   │1,800     │(1)證人李振煇警詢證│
+│  │100.03.09 │李振煇│  1隻   │1,800     │(1)證人李振煇警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第80頁至第81頁│
 │    │          │      │        │          │  ）。            │
@@ -498,7 +391,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  64號偵查卷第82頁│
 │    │          │      │        │          │  ）。            │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5792A0A00000040.GIF" /> │100.03.09 │辛文瑞│  1隻   │2,300     │(1)證人辛文瑞警詢證│
+│  │100.03.09 │辛文瑞│  1隻   │2,300     │(1)證人辛文瑞警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第84頁）。    │
 │    │          │      │        │          │(2)彰化第六信用合作│
@@ -506,7 +399,7 @@ function openwin(URL,arguments,width,height)
 │    │          │      │        │          │  （偵5864號偵查卷│
 │    │          │      │        │          │  第86頁）。      │
 ├──┼─────┼───┼────┼─────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5782A0A00000040.GIF" /> │100.03.09 │林茂清│  1隻   │2,500     │(1)證人林茂清警詢證│
+│  │100.03.09 │林茂清│  1隻   │2,500     │(1)證人林茂清警詢證│
 │    │          │      │        │          │  述（偵5864號偵查│
 │    │          │      │        │          │  卷第87頁至第88頁│
 │    │          │      │        │          │  ）。            │
@@ -520,7 +413,7 @@ function openwin(URL,arguments,width,height)
 │號│          │約商店  │(新臺幣)│暨邱創偉偽簽「邱│                │                │
 │  │          │        │        │文森」署名之個數│                │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />│100.07.14 │苗栗縣頭│100元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.14 │苗栗縣頭│100元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │20：41    │份鎮自強│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路252 號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │統一精工│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -537,7 +430,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  17頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />│100.07.14 │苗栗縣頭│20,100元│邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.14 │苗栗縣頭│20,100元│邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │21：26    │份鎮民族│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │（起訴書誤│路56號如│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑伍月，│
 │  │載為21：25│憶銀樓  │        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -554,7 +447,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  18頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />│100.07.14 │苗栗縣頭│500元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.14 │苗栗縣頭│500元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │21：35    │份鎮自強│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路252 號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │統一精工│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -571,7 +464,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  19頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />│100.07.15 │苗栗縣頭│300元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.15 │苗栗縣頭│300元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │02：55    │份鎮中華│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路1686號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │長利加油│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -588,7 +481,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  20頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />│100.07.15 │新竹市北│2,400元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.15 │新竹市北│2,400元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │03：37    │區北大路│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │324 號5 │        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │樓真情美│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -605,7 +498,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  21頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />│100.07.15 │新竹市北│2,400元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.15 │新竹市北│2,400元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │03：38    │區北大路│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │324 號5 │        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │樓真情美│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -622,7 +515,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  22頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />│100.07.15 │苗栗縣竹│300元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.15 │苗栗縣竹│300元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │13：29    │南鎮光華│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │北路5 號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │百盛加油│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -639,7 +532,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  23頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B82A0A00000040.GIF" />│100.07.15 │苗栗縣頭│8,450元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.15 │苗栗縣頭│8,450元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │13：54    │份鎮民族│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │（起訴書誤│路56號如│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑肆月，│
 │  │載為13：53│憶銀樓  │        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -656,7 +549,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  24頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B92A0A00000040.GIF" />│100.07.15 │桃園縣中│500元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.15 │桃園縣中│500元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │18：16    │壢市民族│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路2 段50│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │1 號萬盛│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -673,7 +566,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  25頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6BA2A0A00000040.GIF" />│100.07.15 │桃園縣龜│500元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.15 │桃園縣龜│500元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │23：21    │山鄉萬壽│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路1 段38│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │3 號中油│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -690,7 +583,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  26頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57A2A0A00000040.GIF" />│100.07.16 │桃園縣中│1,329元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.16 │桃園縣中│1,329元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │00：34    │壢市中華│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路2 段50│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │1 號家樂│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -707,7 +600,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  27頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5792A0A00000040.GIF" />│100.07.16 │桃園縣中│843元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.16 │桃園縣中│843元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │00：40    │壢市中華│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路2 段50│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │1 號家樂│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -724,7 +617,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  28頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5782A0A00000040.GIF" />│100.07.16 │新竹縣竹│1,836元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.16 │新竹縣竹│1,836元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │01：47    │北市中正│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │東路71號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │頂好WELL│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -741,7 +634,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  29頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5772A0A00000040.GIF" />│100.07.17 │桃園縣楊│130元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.17 │桃園縣楊│130元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │03：37    │梅市中山│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │北路1 段│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │43號統一│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -758,7 +651,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  30頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5762A0A00000040.GIF" />│100.07.17 │苗栗縣頭│217元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.17 │苗栗縣頭│217元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │17：33    │份鎮自強│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路230 號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │大潤發賣│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -775,7 +668,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  31頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5752A0A00000040.GIF" />│100.07.18 │新竹市香│142元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.18 │新竹市香│142元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │07：06    │山區中華│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路6 段18│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │2 號全國│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -792,7 +685,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  32頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5742A0A00000040.GIF" />│100.07.18 │苗栗縣頭│6,339元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.18 │苗栗縣頭│6,339元 │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │19：05    │份鎮自強│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路230 號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑肆月，│
 │  │          │大潤發賣│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -809,7 +702,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  33頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5732A0A00000040.GIF" />│100.07.18 │苗栗縣頭│214元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.18 │苗栗縣頭│214元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │19：26    │份鎮自強│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路230 號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │大潤發賣│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -826,7 +719,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  34頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5722A0A00000040.GIF" />│100.07.18 │苗栗縣頭│765元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.18 │苗栗縣頭│765元   │邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │19：27    │份鎮自強│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │路230 號│        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑參月，│
 │  │          │大潤發賣│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -843,7 +736,7 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  35頁）。      │                │
 ├─┼─────┼────┼────┼────────┼────────┼────────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" />│100.07.20 │苗栗縣竹│14,600元│邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
+││100.07.20 │苗栗縣竹│14,600元│邱創偉於左列特約│(1)證人邱文森警詢│邱創偉犯行使偽造│
 │  │09：13    │南鎮博愛│        │商店刷卡消費後，│  證述（他1356號│私文書罪，累犯，│
 │  │          │街34號1 │        │在電子簽帳單商店│  偵查卷第49頁至│處有期徒刑伍月，│
 │  │          │樓寶華珠│        │存根聯上偽簽「邱│  第51頁）。    │如易科罰金，以新│
@@ -859,86 +752,12 @@ function openwin(URL,arguments,width,height)
 │  │          │        │        │                │  存根聯影本（他│                │
 │  │          │        │        │                │  1356號偵查卷第│                │
 │  │          │        │        │                │  36頁）。      │                │
-└─┴─────┴────┴────┴────────┴────────┴────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWMLD\CRIMINAL\10204\30\MLDM1024U.01I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[3]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000043&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c43%2c20130430%2c3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=43&jdate=1020430&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c43%2c20130430%2c3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=43&jdate=1020430&jcheck=3">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c43%2c20130430%2c3','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','43','1020430','3')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="MLD 臺灣苗栗地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林建志">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林建志">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴─────┴────┴────┴────────┴────────┴────────┘
+[*jrecno*]102,訴,43,20130430,3
+[*v_court*]MLD 臺灣苗栗地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]43
+[*jdate*]1020430
+[*jcheck*]3

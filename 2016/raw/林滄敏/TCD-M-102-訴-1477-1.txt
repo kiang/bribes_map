@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-102訴1477</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=001477&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%bb%84%e6%95%8f&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%bb%84%e6%95%8f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%bb%84%e6%95%8f&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%bb%84%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c1477%2c20141229%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1477&jdate=1031229&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c1477%2c20141229%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1477&jdate=1031229&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c1477%2c20141229%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','1477','1031229','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,1477</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1031229</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　 102年度訴字第1477號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c1477%2c20141229%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1477&jdate=1031229&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=001477&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c1477%2c20141229%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1477&jdate=1031229&jcheck=1
+[*裁判字號*]102,訴,1477
+[*裁判日期*]1031229
+[*裁判案由*]貪污治罪條例等
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　 102年度訴字第1477號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　林正二
 選任辯護人　杜英達律師
@@ -146,10 +39,10 @@ function openwin(URL,arguments,width,height)
 被　　　告　戴德賢
 選任辯護人　梁宵良律師
 　　　　　　楊俊彥律師
-被　　　告　許<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100EA802A0A00000040.GIF" />畯
+被　　　告　許畯
 　　　　　　堡聖營造有限公司
 上　一　人
-代　表　人　謝侒<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100ECBD2A0A00000040.GIF" />
+代　表　人　謝侒
 被　　　告　廖威駩
 　　　　　　任盈工程顧問有限公司
 兼上一人
@@ -195,7 +88,7 @@ function openwin(URL,arguments,width,height)
   計委託案」經辦公用工程收取回扣部分，無罪。
 (十二)辛○○犯如附表十二編號1至3所示之罪，附表十二編號1部分
   ，免刑，附表十二編號2、3部分各處如附表十二編號2、3主文
-  欄所示之刑。附表十二編號2、3部分，應執行有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，
+  欄所示之刑。附表十二編號2、3部分，應執行有期徒刑月，
   如易科罰金，以新臺幣壹仟元折算壹日。
 (十三)Ｂ○○犯如附表十三所示之罪，免刑。
 (十四)Ｎ○○犯如附表十四編號1至3所示之罪，各處如附表十四編號
@@ -218,13 +111,13 @@ function openwin(URL,arguments,width,height)
   臺幣拾萬元。
 (二十)世助營造有限公司犯如附表二十編號1至3所示之罪，處如附表
   二十編號1至3主文欄所示之刑。應執行罰金新臺幣拾伍萬元。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />戌○○犯如附表二十一編號1至3所示之罪，各處如附表二十一
+戌○○犯如附表二十一編號1至3所示之罪，各處如附表二十一
   編號1至3主文欄所示之刑。應執行有期徒刑捌月，如易科罰金
   ，以新臺幣壹仟元折算壹日。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />禾森工程技術顧問有限公司犯如附表二十二編號1、2所示之罪
+禾森工程技術顧問有限公司犯如附表二十二編號1、2所示之罪
   ，處如附表二十二編號1、2主文欄所示之刑。應執行罰金新臺
   幣拾萬元。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />宇○○犯如附表二十三編號1、2所示之罪，各處如附表二十三
+宇○○犯如附表二十三編號1、2所示之罪，各處如附表二十三
   編號1、2主文欄所示之刑。應執行有期徒刑伍月，如易科罰金
   以新臺幣壹仟元折算壹日。
     犯罪事實
@@ -309,13 +202,13 @@ function openwin(URL,arguments,width,height)
   (二十)地○○於95年間借用Ｅ○○經營、設立於臺中市之堡聖營造
     有限公司（下簡稱堡聖公司，原負責人為Ｅ○○）名義配合
     得標承攬花蓮市公所發包工程案。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />Ａ○○係設立於花蓮市振豐土木包工業之實際負責人。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />玄○○為振豐土木包工業之會計人員。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />Ｄ○○係任盈工程顧問有限公司（下稱任盈公司）之登記及
+  Ａ○○係設立於花蓮市振豐土木包工業之實際負責人。
+  玄○○為振豐土木包工業之會計人員。
+  Ｄ○○係任盈工程顧問有限公司（下稱任盈公司）之登記及
     實際負責人。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6672A0A00000040.GIF" />戌○○係世助公司之實際負責人（世助公司登記負責人為酉
+  戌○○係世助公司之實際負責人（世助公司登記負責人為酉
     ○○）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />宇○○係禾森工程技術顧問有限公司（已更名為禾森工程有
+  宇○○係禾森工程技術顧問有限公司（已更名為禾森工程有
     限公司，登記負責人為Ｆ○○，下簡稱禾森公司）之實際負
     責人，曾將禾森公司之營利登記證等相關證件出借予Ｈ○○
     、辛○○等人使用參與標案投標。
@@ -1419,7 +1312,7 @@ function openwin(URL,arguments,width,height)
     見面乙事，雖不無微瑕，然尚難認業已明顯影響渠等證述之
     任意性及真實性，自不足排除渠二人調查筆錄之證據能力，
     附此敘明。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、證人於偵查中之證述：
+、證人於偵查中之證述：
     按我國刑事訴訟法基於證據裁判主義及證據能力之規定，得
     以作為認定犯罪事實之依據，以有證據能力之證據為限，惟
     於審判期日證人所為陳述與審判外之陳述相異時，可提出該
@@ -2263,7 +2156,7 @@ function openwin(URL,arguments,width,height)
     之登記及實際負責人，被告戌○○係世助公司之實際負責人
     ，被告宇○○係禾森公司之實際負責人；以上之事實，均為
     上開被告等人所不否認。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、本院認定關於：如首揭犯罪事實二之(一)之1、二之(一)之2、二
+、本院認定關於：如首揭犯罪事實二之(一)之1、二之(一)之2、二
     之(一)之3、二之(一)之4、二之(二)、二之(三)之1、二之(三)之2、二
     之(三)之3、二之(四)等部分之犯罪事實，被告卯○○確與被告
     未○○等人（上揭各犯行共同實施犯罪之正犯，均詳如各事
@@ -2788,7 +2681,7 @@ function openwin(URL,arguments,width,height)
     不法情事。而於自許為在野法朝之律師界，亦一再倡議律師
     陪詢（訊）制度，以免受詢（訊）問人於遭受不當壓力下為
     不實陳述，蓋受詢（訊）人在不當或不法壓力下，常見不實
-    之陳述，此不僅造成<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E43C2A0A00000040.GIF" />案，亦使其他無辜者遭受連累，而此
+    之陳述，此不僅造成案，亦使其他無辜者遭受連累，而此
     律師陪詢（訊）制度，已於少年及原住民刑事案件之法律扶
     助方面獲得相當程度之功效。惟受限於國家預算及國內律師
     未能全面普及化暨律師索費相較於一般民眾所得仍屬高不可
@@ -7152,8 +7045,8 @@ function openwin(URL,arguments,width,height)
     哦」就走了。隔天子○○到辦公室跟伊說，「你昨天拿的那
     個怎麼只有8萬多塊而已」，為何只有給排球場卻沒有給籃
     球場的錢。伊就說籃球場的錢，他們應該會自己處理吧，應
-    該會給立委，子○○隱約講他要給一個蔡主任錢，好像是<font color='red'>林
-    滄敏</font>立委的辦公室主任，伊才說他們會自己處理。子○○打
+    該會給立委，子○○隱約講他要給一個蔡主任錢，好像是林
+    滄敏立委的辦公室主任，伊才說他們會自己處理。子○○打
     點市長的一些送禮、交際應酬的相關費用，市長在第2任時
     在市長辦公室，跟伊及子○○交待說，相關的開銷很大，廠
     商假如說有給回扣的話，就由子○○來做全權處理。伊錢交
@@ -7429,7 +7322,7 @@ function openwin(URL,arguments,width,height)
     玄○○於偵查中結證內容，確與事實相符，而堪採信。
   (3)證人Ａ○○、玄○○於103年4月28日本院審理時，雖分別證
     述如下：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />Ａ○○部分：
+  Ａ○○部分：
     伊自80幾年即認識子○○，偶有往來。伊經營振豐土木包工
     業，也有參與花蓮市95年既有市區道路景觀人行環境改善計
     畫工程投標，得標金額忘了，工程底價是伊自己填的。玄○
@@ -7454,7 +7347,7 @@ function openwin(URL,arguments,width,height)
     有其他的用途。伊與玄○○從95年合作至今並無糾紛，玄○
     ○也不會故意陷害伊。伊偵查中作證均據實陳述。（參本院
     卷七第4至12頁）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />玄○○部分：
+  玄○○部分：
     伊是振豐土木包工業會計，伊認識子○○，振豐土木包工業
     有投標花蓮市既有市區道路景觀與人行環境改善計畫工程案
     。伊印象中是在市公所有遇到子○○，他有跟伊提起這個案
@@ -7478,7 +7371,7 @@ function openwin(URL,arguments,width,height)
     有交代要領錢，伊帳上就會大概註記一下，至於他私下要怎
     麼用，伊不太清楚。Ａ○○請伊去提領30萬元時，只有大概
     說是這個工程上的花費（參本院卷七第12至20頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />渠二人上揭證述內容，因對於客觀已呈現之曾承包本件工程
+  渠二人上揭證述內容，因對於客觀已呈現之曾承包本件工程
     及過程中曾領款30萬元事實已無從掩飾，故仍為一致之陳述
     ，然對於工程如何得知、曾否與被告子○○接觸及領款30萬
     元之目的等，不僅所述均相互歧異，且與渠等先前所述不相
@@ -8226,7 +8119,7 @@ function openwin(URL,arguments,width,height)
     如附表十六、附表十八、附表二十編號1至3、附表二十二編
     號1、2主文（含主刑及從刑）欄所示之罰金。並就世助公司
     及禾森公司部分，分別定其應執行之罰金刑。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />按犯罪在中華民國96年4月24日以前者，除本條例另有規定
+  按犯罪在中華民國96年4月24日以前者，除本條例另有規定
     外，依下列規定減刑：一、死刑減為無期徒刑。二、無期徒
     刑減為有期徒刑20年。三、有期徒刑、拘役或罰金，減其刑
     期或金額二分之一。下列各罪，經宣告死刑、無期徒刑或逾
@@ -8424,7 +8317,7 @@ function openwin(URL,arguments,width,height)
     ○○、Ｊ○○等人，嗣並給付被告卯○○等人共計70萬元，
     因認被告地○○此部分所為，涉犯貪污治罪條例第11條第1
     項、第3項（100年6月29日修正前）之罪嫌（即檢察官起訴
-    事實二之(三)之1，關於被告<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100EA802A0A00000040.GIF" />畯違反政府採購法87條第5項前
+    事實二之(三)之1，關於被告畯違反政府採購法87條第5項前
     段犯行部分外之其餘被訴事實）。
   (二)95年底被告卯○○、未○○與Ｊ○○、Ｑ○○、子○○共同
     基於經辦公用工程收取工程回扣之犯意聯絡，約定由戊○○
@@ -8887,7 +8780,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───────────┼────────────────┼───┤
 │1   │如犯罪事實欄二之(三)之1 │申○○公務員，對於職務上之行為，│      │
 │    │                      │收受賄賂，處有期徒刑肆年，褫奪公│      │
-│    │                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年。所得財物新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />萬元，如│      │
+│    │                      │權年。所得財物新臺幣萬元，如│      │
 │    │                      │全部或一部無法追繳時，以其之財產│      │
 │    │                      │抵償之。                        │      │
 └──┴───────────┴────────────────┴───┘
@@ -8903,7 +8796,7 @@ function openwin(URL,arguments,width,height)
 │    │                      │繳時，以其等之財產連帶抵之。    │      │
 ├──┼───────────┼────────────────┼───┤
 │2   │如犯罪事實欄二之(三)之1 │未○○與公務員共同犯經辦公用工程│      │
-│    │                      │收取回扣罪，處有期徒刑拾<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，褫│      │
+│    │                      │收取回扣罪，處有期徒刑拾年，褫│      │
 │    │                      │奪公權柒年。未扣案之共同犯罪所得│      │
 │    │                      │財物新臺幣柒拾萬元應與卯○○、蔡│      │
 │    │                      │啟塔、子○○連帶追繳沒收，如全部│      │
@@ -8981,17 +8874,17 @@ function openwin(URL,arguments,width,height)
 │編號│犯罪事實              │主    文                        │備註  │
 ├──┼───────────┼────────────────┼───┤
 │1   │如犯罪事實欄二之(一)之1 │Ｎ○○犯政府採購法第八十七條第五│      │
-│    │                      │項前段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項前段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 ├──┼───────────┼────────────────┼───┤
 │2   │如犯罪事實欄二之(三)之3 │Ｎ○○犯政府採購法第八十七條第五│      │
-│    │                      │項前段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項前段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 ├──┼───────────┼────────────────┼───┤
 │3   │如犯罪事實欄二之(四)    │Ｎ○○犯政府採購法第八十七條第五│      │
-│    │                      │項前段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項前段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 └──┴───────────┴────────────────┴───┘
@@ -9019,7 +8912,7 @@ function openwin(URL,arguments,width,height)
 │編號│犯罪事實              │主    文                        │備註  │
 ├──┼───────────┼────────────────┼───┤
 │1   │如犯罪事實欄二之(三)之1 │Ｅ○○犯政府採購法第八十七條第五│      │
-│    │                      │項後段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項後段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。緩刑貳年。並應於本案判決│      │
 │    │                      │確定後陸個月內，向公庫支付新臺幣│      │
@@ -9038,7 +8931,7 @@ function openwin(URL,arguments,width,height)
 │編號│犯罪事實              │主    文                        │備註  │
 ├──┼───────────┼────────────────┼───┤
 │1   │如犯罪事實欄二之(四)    │Ｄ○○犯政府採購法第八十七條第五│      │
-│    │                      │項後段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項後段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。緩刑貳年。並應於本案判決│      │
 │    │                      │確定後陸個月內，向公庫支付新臺幣│      │
@@ -9065,17 +8958,17 @@ function openwin(URL,arguments,width,height)
 │編號│犯罪事實              │主    文                        │備註  │
 ├──┼───────────┼────────────────┼───┤
 │1   │如犯罪事實欄二之(一)之1 │戌○○犯政府採購法第八十七條第五│      │
-│    │                      │項後段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項後段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 ├──┼───────────┼────────────────┼───┤
 │2   │如犯罪事實欄二之(三)之3 │戌○○犯政府採購法第八十七條第五│      │
-│    │                      │項後段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項後段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 ├──┼───────────┼────────────────┼───┤
 │3   │如犯罪事實欄二之(四)    │戌○○犯政府採購法第八十七條第五│      │
-│    │                      │項後段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項後段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 └──┴───────────┴────────────────┴───┘
@@ -9096,12 +8989,12 @@ function openwin(URL,arguments,width,height)
 │編號│犯罪事實              │主    文                        │備註  │
 ├──┼───────────┼────────────────┼───┤
 │1   │如犯罪事實欄二之(一)之2 │宇○○犯政府採購法第八十七條第五│      │
-│    │                      │項後段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項後段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 ├──┼───────────┼────────────────┼───┤
 │2   │如犯罪事實欄五        │宇○○犯政府採購法第八十七條第五│      │
-│    │                      │項後段之妨害投標罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│      │
+│    │                      │項後段之妨害投標罪，處有期徒刑│      │
 │    │                      │月，如易科罰金，以新臺幣壹仟元折│      │
 │    │                      │算壹日。                        │      │
 └──┴───────────┴────────────────┴───┘
@@ -9317,86 +9210,12 @@ function openwin(URL,arguments,width,height)
 │92  │禾森公司登記案卷（全卷影印本）                  │              │
 ├──┼────────────────────────┼───────┤
 │93  │堡聖公司登記案卷（全卷影印本）                  │              │
-└──┴────────────────────────┴───────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10312\29\TCDM103CT.048] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=001477&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%bb%84%e6%95%8f&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%bb%84%e6%95%8f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%bb%84%e6%95%8f&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%bb%84%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c1477%2c20141229%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1477&jdate=1031229&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c1477%2c20141229%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1477&jdate=1031229&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c1477%2c20141229%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','1477','1031229','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林滄敏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林滄敏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴────────────────────────┴───────┘
+[*jrecno*]102,訴,1477,20141229,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]1477
+[*jdate*]1031229
+[*jcheck*]1

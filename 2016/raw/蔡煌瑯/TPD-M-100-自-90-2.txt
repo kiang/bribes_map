@@ -1,129 +1,22 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-100自90</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%87%aa&selectedCrmno=000090&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e7%85%8c%e7%91%af&sdate=&edate=&page=&searchkw=%e8%94%a1%e7%85%8c%e7%91%af&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e7%85%8c%e7%91%af&sdate=&edate=&page=&searchkw=%e8%94%a1%e7%85%8c%e7%91%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%87%aa%2c90%2c20121012%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=90&jdate=1011012&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%87%aa%2c90%2c20121012%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=90&jdate=1011012&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%87%aa%2c90%2c20121012%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%87%aa','90','1011012','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,自,90</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1011012</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反選舉罷免法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　 100年度自字第90號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%87%aa%2c90%2c20121012%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=90&jdate=1011012&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%87%aa&selectedCrmno=000090&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%87%aa%2c90%2c20121012%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=90&jdate=1011012&jcheck=2
+[*裁判字號*]100,自,90
+[*裁判日期*]1011012
+[*裁判案由*]違反選舉罷免法等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　 100年度自字第90號
 自　訴　人　邱　毅
 自訴代理人　蔡惠琇律師
 被　　　告　蘇嘉全
-　　　　　　<font color='red'>蔡煌瑯
-　　　　　　</font>陳其邁
+　　　　　　蔡煌瑯
+　　　　　　陳其邁
 上三人共同
 選任辯護人　洪士傑律師
 被　　　告　徐佳青
 上列被告等因違反公職人員選舉罷免法等案件，經自訴人提起自
 訴，本院判決如下：
     主  文
-蘇嘉全、<font color='red'>蔡煌瑯</font>、陳其邁、徐佳青均無罪。
+蘇嘉全、蔡煌瑯、陳其邁、徐佳青均無罪。
     理  由
 一、自訴意旨略以：緣自訴人邱毅擔任我國第7 屆立法委員，並
     確定參與我國第8屆立法委員之選舉，自訴人於民國100年10
@@ -137,7 +30,7 @@ function openwin(URL,arguments,width,height)
     「我覺得邱毅最近講話大家要求證，看我們有沒有委託書，
     如果有委託書就請他拿出來，如果沒有委託書，說我們要賣
     這個房子那實在是很奇怪。」等語，另被告即民進黨立法院
-    黨團幹事長<font color='red'>蔡煌瑯</font>於同年10月26日接受新聞採訪時表示「蘇
+    黨團幹事長蔡煌瑯於同年10月26日接受新聞採訪時表示「蘇
     嘉全這個房子是上一個屋主委託仲介公司所拍攝要出售時候
     的影片，這是『竹篙裝菜刀』（台語），蘇嘉全已經講過只
     要有污衊不實的爆料，爆一次、告一次。」等語，又被告即
@@ -347,19 +240,19 @@ function openwin(URL,arguments,width,height)
     是要求自訴人提出委託書，此事件係自訴人僅憑網路資料，
     未經求證，且未提出證據，有意利用媒體影響伊選情等語；
     其辯護人亦具狀為其辯護：該房屋係被告蘇嘉全配偶洪恆珠
-    於97年間以銀行借款資金購入，贈與其已成年子女蘇<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3B42A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E0012A0A00000040.GIF" />、
-    蘇<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3B42A0A00000040.GIF" />瑾，並登記其2人名下，被告並未委託出售該房屋，僅
+    於97年間以銀行借款資金購入，贈與其已成年子女蘇、
+    蘇瑾，並登記其2人名下，被告並未委託出售該房屋，僅
     於回應記者詢問相關問題時，否認自訴人之指控，並同時要
     求自訴人提出相關證據，從未發表任何誹謗自訴人之言論，
     核屬言論自由範疇，亦無侵害自訴人之名譽之虞等語。又被
-    告<font color='red'>蔡煌瑯</font>亦不否認有於100年10月26日接受新聞採訪時表示
+    告蔡煌瑯亦不否認有於100年10月26日接受新聞採訪時表示
     「蘇嘉全這個房子是上一個屋主委託仲介公司所拍攝要出售
     時候的影片，這是『竹篙裝菜刀』（台語），蘇嘉全已經講
     過只要有污衊不實的爆料，爆一次、告一次。」等語，惟堅
     決否認有何上開犯嫌，辯稱：伊有向被告蘇嘉全求證，該房
     屋屬被告蘇嘉全女兒所有，其女兒亦已成年，被告蘇嘉全並
     無委託出售之意，伊據此評論，沒有誹謗自訴人之意等語；
-    其辯護人亦具狀為其辯護：被告<font color='red'>蔡煌瑯</font>並未陳述自訴人「烏
+    其辯護人亦具狀為其辯護：被告蔡煌瑯並未陳述自訴人「烏
     龍爆料」之詞，其雖有提及自訴人「竹篙裝菜刀」（台語）
     之詞，係出於自訴人之指控與其向被告蘇嘉全查證後之認知
     有所差異，因而發表其看法，其所提「爆一次、告一次」等
@@ -399,14 +292,14 @@ function openwin(URL,arguments,width,height)
     由中國國民黨（下稱國民黨）之推薦，競選我國第8 屆立法
     委員（選區：高雄市第7 選區），又同期間，被告蘇嘉全確
     定經由民進黨之推薦為副總統候選人，與同黨推薦總統候選
-    人蔡英文搭配競選我國第13屆總統、副總統，又被告<font color='red'>蔡煌瑯
-    </font>擔任民進黨立法院黨團幹事長職務，另被告陳其邁、徐佳青
+    人蔡英文搭配競選我國第13屆總統、副總統，又被告蔡煌瑯
+    擔任民進黨立法院黨團幹事長職務，另被告陳其邁、徐佳青
     均擔任民進黨競選我國第13屆總統、副總統及第8 屆立法委
     員總部發言人職務等情，為自訴人及被告等均不爭執，且為
     公眾所週知，自堪認為真實。
   (二)屏東縣屏東市○○路281號5層樓之房屋及其坐落土地之所有
     權，係於97年6 月16日以買賣為原因，登記於被告蘇嘉全之
-    女兒蘇<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3B42A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E0012A0A00000040.GIF" />、蘇<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3B42A0A00000040.GIF" />瑾之名下，此有屏東縣屏東市地政事務所
+    女兒蘇、蘇瑾之名下，此有屏東縣屏東市地政事務所
     101年1月12日屏所地一字第1010000545號函所附該不動產土
     地、建物登記謄本各1 紙在卷可按。又該房屋作為被告蘇嘉
     全之配偶洪恆珠擔任負責人之椰林基金會聯絡地址一情，業
@@ -414,7 +307,7 @@ function openwin(URL,arguments,width,height)
   (三)被告蘇嘉全於100 年10月25日接受新聞採訪時稱「我覺得邱
     毅最近講話大家要求證，看我們有沒有委託書，如果有委託
     書就請他拿出來，如果沒有委託書，說我們要賣這個房子那
-    實在是很奇怪。」等語，另被告<font color='red'>蔡煌瑯</font>於同年10月26日接受
+    實在是很奇怪。」等語，另被告蔡煌瑯於同年10月26日接受
     新聞採訪時表示「蘇嘉全這個房子是上一個屋主委託仲介公
     司所拍攝要出售時候的影片，這是『竹篙裝菜刀』（台語）
     ，蘇嘉全已經講過只要有污衊不實的爆料，爆一次、告一次
@@ -491,7 +384,7 @@ function openwin(URL,arguments,width,height)
     ，於客觀上對於自訴人之名譽及社會評價尚無影響，亦難據
     此逕認被告蘇嘉全有何誹謗自訴人之故意可言，核與刑法誹
     謗罪之構成要件有間，尚難逕以該罪論處。
-  (六)被告<font color='red'>蔡煌瑯</font>於同年10月26日接受新聞採訪時，確有表示「蘇
+  (六)被告蔡煌瑯於同年10月26日接受新聞採訪時，確有表示「蘇
     嘉全這個房子是上一個屋主委託仲介公司所拍攝要出售時候
     的影片，這是『竹篙裝菜刀』（台語），蘇嘉全已經講過只
     要有污衊不實的爆料，爆一次、告一次。」等語；又被告陳
@@ -513,11 +406,11 @@ function openwin(URL,arguments,width,height)
     帽子。」等語，均已認定如前。再質之被告蘇嘉全於本院審
     理時陳稱民進黨發言人問伊有沒有要脫產，伊說沒有，他們
     問我有沒有委託永慶不動產要賣，伊說伊自己沒有，伊也不
-    知道這間房子要賣等語，核與被告<font color='red'>蔡煌瑯</font>、陳其邁及徐佳青
-    辯稱有先向被告蘇嘉全查證等語相符，堪認被告<font color='red'>蔡煌瑯</font>、陳
+    知道這間房子要賣等語，核與被告蔡煌瑯、陳其邁及徐佳青
+    辯稱有先向被告蘇嘉全查證等語相符，堪認被告蔡煌瑯、陳
     其邁及徐佳青所為上開言論，既均已先向被告蘇嘉全查證後
     ，轉述被告蘇嘉全對此事抱持否定態度之內容，並對此事發
-    表之評論，本院審酌被告<font color='red'>蔡煌瑯</font>、陳其邁及徐佳青分別所為
+    表之評論，本院審酌被告蔡煌瑯、陳其邁及徐佳青分別所為
     上開陳述之目的，並非專以攻擊、謾罵自訴人之人格及貶損
     自訴人之社會評價為唯一目的，堪認係以善意發表言論，對
     於可受公評之事，而為適當之評論無疑，尚無成立刑法誹謗
@@ -531,7 +424,7 @@ function openwin(URL,arguments,width,height)
     開言論，又被告陳其邁、徐佳青係擔任民進黨競選總部發言
     人職務，對於其所屬政黨推薦副總統候選人之被告蘇嘉全遭
     自訴人指控上開事項一事，基於民進黨發言人之地位，經求
-    證被告蘇嘉全後，對此事提出評論，又被告<font color='red'>蔡煌瑯</font>擔任民進
+    證被告蘇嘉全後，對此事提出評論，又被告蔡煌瑯擔任民進
     黨立法院黨團幹事長，基於同黨副總統候選人之被告蘇嘉全
     所涉此事，亦經求證被告蘇嘉全後，提出其個人看法，渠等
     所為言論之內容及目的，均未提及關於自訴人有何不適任立
@@ -569,86 +462,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
 逕送上級法院」。
                                       書記官  許婉如
-中    華    民    國   101    年    10    月    12    日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10110\12\TPDM101AC.008] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%87%aa&selectedCrmno=000090&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e7%85%8c%e7%91%af&sdate=&edate=&page=&searchkw=%e8%94%a1%e7%85%8c%e7%91%af&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e7%85%8c%e7%91%af&sdate=&edate=&page=&searchkw=%e8%94%a1%e7%85%8c%e7%91%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%87%aa%2c90%2c20121012%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=90&jdate=1011012&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%87%aa%2c90%2c20121012%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%87%aa&jno=90&jdate=1011012&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%87%aa%2c90%2c20121012%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%87%aa','90','1011012','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡煌瑯">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡煌瑯">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   101    年    10    月    12    日
+[*jrecno*]100,自,90,20121012,2
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]自
+[*jno*]90
+[*jdate*]1011012
+[*jcheck*]2

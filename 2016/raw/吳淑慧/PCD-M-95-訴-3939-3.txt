@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-95訴3939</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共19
-											筆 / 現在第8
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=003939&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c3939%2c20070730%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=3939&jdate=960730&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c3939%2c20070730%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=3939&jdate=960730&jcheck=3">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('95%2c%e8%a8%b4%2c3939%2c20070730%2c3','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','95','%e8%a8%b4','3939','960730','3')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">95,訴,3939</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">960730</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　95年度訴字第3939號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c3939%2c20070730%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=3939&jdate=960730&jcheck=3
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=003939&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c3939%2c20070730%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=3939&jdate=960730&jcheck=3
+[*裁判字號*]95,訴,3939
+[*裁判日期*]960730
+[*裁判案由*]詐欺等
+[*裁判全文*]臺灣板橋地方法院刑事判決　　　　　　　95年度訴字第3939號
 公　訴　人　臺灣板橋地方法院檢察署檢察官
 被　　　告　乙○○
 　　　　　　丑○○
@@ -184,7 +77,7 @@ function openwin(URL,arguments,width,height)
     下稱臺北國際銀行）、福灣企業股份有限公司（下稱福灣公
     司）、台灣戴姆勒克萊斯勒融資股份有限公司（下稱台灣戴
     姆勒公司）或核發現金卡之台北富邦銀行提出申請而行使之
-    ，甚且在福灣公司以電話徵信時，即訛稱<font color='red'>吳淑慧</font>、丁○○確
+    ，甚且在福灣公司以電話徵信時，即訛稱吳淑慧、丁○○確
     實任職於各該公司，或在如附表一編號2 所示慶豐商業銀行
     股份有限公司（下稱慶豐銀行）徵信人員廖松賢前往台北縣
     民享街6 號「鴻貫蔬果行」實地勘查徵信時，壬○○應丑○
@@ -227,9 +120,9 @@ function openwin(URL,arguments,width,height)
     151 至153 頁，卷證編號參考附表一〉，並與證人寅○○、
     午○○、子○○、戌○○、卯○○〈卷4 第154 至157 、19
     8 至201 、214 至217 、242 至245 、270 至273 頁、本院
-    卷（三）125 至127 頁〉證述申請貸款情節一致；復有<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />寅
+    卷（三）125 至127 頁〉證述申請貸款情節一致；復有寅
     ○○所開戶之00000000000000號郵政存簿儲金簿（卷1 第69
-    至71頁）、舒利公司各類所得扣繳暨免扣繳憑單、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />台北富
+    至71頁）、舒利公司各類所得扣繳暨免扣繳憑單、台北富
     邦95年8 月10日北富銀個管字第03109 號函（附壬○○信用
     貸款申請書、信曄公司各類所得扣繳暨免扣繳憑單、在職證
     明書、全民健保卡、身分證、現金卡申請書、現金卡宣告書
@@ -240,7 +133,7 @@ function openwin(URL,arguments,width,height)
     保卡、戶口名簿、郭俞君0000000000000 號合作金庫銀行活
     期儲蓄存款存摺、經營事實實勘照片、台灣佳事通電子資訊
     股份有限公司勞保資料、最新房屋租賃契約書，卷1 第227
-    至256 頁）、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />中國信託95年8 月7 日函（附午○○申請信
+    至256 頁）、中國信託95年8 月7 日函（附午○○申請信
     用貸款申請書及申請所附相關文件，卷1 第194 至198 頁）
     、台北國際銀行95年8 月7 日函（附午○○授信往來申請書
     、信用貸款申請書、午○○誠泰銀行綜合理財存摺、曼都髮
@@ -248,7 +141,7 @@ function openwin(URL,arguments,width,height)
     秀芬各類所得扣繳暨免扣繳憑單各1 張、午○○及陳秀芬個
     人資料搜集、電腦處理及利用同意書各1 張、午○○及陳秀
     芬身分證各1 張、午○○技術士證2 張、薪資袋6 張，卷1
-    第276 至299 頁）、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />福灣公司95年8 月4 日刑事陳報狀（
+    第276 至299 頁）、福灣公司95年8 月4 日刑事陳報狀（
     附申請書、丙○○身分證、健保卡、駕駛執照、丁○○身分
     證、健保卡、扣繳單位為美樂公司、奇異公司之丙○○、丁
     ○○之各類所得扣繳暨免扣繳憑單、丙○○、丁○○分別任
@@ -256,14 +149,14 @@ function openwin(URL,arguments,width,height)
     0000000000號、丁○○所開戶之00000000000000號板橋大觀
     路郵局之郵政存簿儲金簿各1 份、附條件買賣合約書、動產
     擔保交易附條件買賣設定登記申請書、汽車新領牌照，卷1
-    第322 至343 頁）、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />美樂廣告事業有限公司有關子○○在
+    第322 至343 頁）、美樂廣告事業有限公司有關子○○在
     職證明書、各類所得扣繳暨免扣繳憑單（詳扣案證物內）、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />戌○○之行車執照、保險卡、進口與貨物稅完（免）稅證
+    戌○○之行車執照、保險卡、進口與貨物稅完（免）稅證
     明書、汽車新領牌照登記書、統一發票2 張（卷4 第245 反
     面至249 頁）、戌○○汽車分期付款申請書、汽車新領牌照
     登記書、以戌○○名義開戶之000000000000號中國信託花蓮
     分行之存款存摺、聲明書、本票、亥○○身分證、全民健康
-    保險卡等（卷4 第289 至296 頁）、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />卯○○亦德企業社、
+    保險卡等（卷4 第289 至296 頁）、卯○○亦德企業社、
     保旭公司之各類所得扣繳暨免扣繳憑單（證物袋內）等資料
     影本存卷可參，因卯○○雖曾任職於亦德企業社，惟其證稱
     ：已離職5 年以上等語（卷4 第272 頁反面），亦德企業社
@@ -396,11 +289,11 @@ function openwin(URL,arguments,width,height)
     可確定性，既不足以為生活之職業，自不足恃之維生，而不
     能論以常業犯（最高法院93年台上字第2752號判決意旨參照
     ）。
-五、茲就附表一論罪分述如下：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />不知情寅○○由被告丑○○介
+五、茲就附表一論罪分述如下：不知情寅○○由被告丑○○介
     紹予被告戊○○承辦房屋貸款，由丑○○購買偽造之舒利公
     司各類所得扣繳暨免扣繳憑單，再由被告辛○○製作土城郵
     局之郵政存簿儲金簿內頁收支明細，核其等所為係犯刑法第
-    210 條偽造私文書罪；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />同案被告壬○○提供身分證、健保
+    210 條偽造私文書罪；同案被告壬○○提供身分證、健保
     卡供被告丑○○、癸○○辦理信用貸款及現金卡，由被告丑
     ○○偽造之信曄公司在職證明書、購買偽造之各類所得扣繳
     暨免扣繳憑單、偽造最新房屋租賃契約、不知情郭俞君之合
@@ -410,7 +303,7 @@ function openwin(URL,arguments,width,height)
     條、第212 條、第210 條、第339 條第1 項之行使偽造私文
     書罪、行使偽造特種文書罪、詐欺取財罪；刑法第339 條第
     1 項之詐欺取財罪、刑法第216 條、第210 條、第339 條第
-    1 項之行使偽造私文書罪、詐欺取財罪；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />被告丑○○偽造
+    1 項之行使偽造私文書罪、詐欺取財罪；被告丑○○偽造
     曼都髮型在職證明書、薪資袋，並由午○○盜用「曼都髮型
     美容北醫店」章，業據午○○到庭證述無誤〈本院卷（三）
     第127 頁〉，午○○雖任職於曼都髮型美容北醫店，惟其任
@@ -419,7 +312,7 @@ function openwin(URL,arguments,width,height)
     為偽造，仍向台北國際銀行申請信用貸款，核其所為係犯刑
     法第216 條、第212 條、第217 條、第210 條之罪（因午○
     ○仍繼續繳納貸款，並無詐欺犯行；刑法第217 條雖未諭知
-    被告丑○○，惟因屬輕罪，不影響其權益）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />同案被告丙
+    被告丑○○，惟因屬輕罪，不影響其權益）；同案被告丙
     ○○提供相關證件，由被告丑○○、戊○○偽造美樂公司、
     奇異公司在職證明書、購買偽造各類所得扣繳暨免扣繳憑單
     ，並由被告辛○○偽造板橋大觀路郵局之郵政存簿儲金簿內
@@ -428,14 +321,14 @@ function openwin(URL,arguments,width,height)
     利，同案被告丁○○並同意擔任保證人，事後未依期繳納貸
     款，核其等所為係犯刑法第216 條、第212 條、第210 條、
     第339 條第1 項之行使偽造特種文書罪、行使偽造私文書罪
-    、詐欺取財罪；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />被告丑○○、癸○○、乙○○偽造子○○
+    、詐欺取財罪；被告丑○○、癸○○、乙○○偽造子○○
     美樂公司在職證明書、購買偽造之美樂公司各類所得扣繳暨
     免扣繳憑單，核其等所為係犯刑法第210 條、第212 條偽造
-    私文書、偽造特種文書罪；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />被告丑○○情商其兄不知情戌
+    私文書、偽造特種文書罪；被告丑○○情商其兄不知情戌
     ○○以其名義申辦汽車貸款，並偽造中國信託花蓮分行存款
     存摺內頁收支明細，再向台灣戴姆勒公司申請汽車貸款，事
     後未依期繳納貸款，核其所為係犯刑法第216 條、第210 條
-    、第339 條第1 項行使偽造私文書罪、詐欺取財罪；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />被告
+    、第339 條第1 項行使偽造私文書罪、詐欺取財罪；被告
     辛○○偽造卯○○亦德企業社、保旭公司各類所得扣繳暨免
     扣繳憑單，核其所為係犯刑法第210 條偽造私文書罪。
 六、綜上所述，核被告乙○○、丑○○、辛○○、戊○○所為，
@@ -595,24 +488,24 @@ function openwin(URL,arguments,width,height)
       足認定為表彰能力身分之證明文件）、編號2 、8 、11、
       12所示在職證明書闕漏，則在相關證物闕漏下，尚難據以
       論斷。
-（二）<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />附表二編號1 所示犯行，因丁○○在同案被告丙○○申
+（二）附表二編號1 所示犯行，因丁○○在同案被告丙○○申
       請汽車貸款下來後，即未繼續辦理，業經同案被告丙○○
       、乙○○到庭供述在卷〈本院卷（一）第158 頁〉，則如
       附表二編號1 所示偽造之奇異公司在職證明書、板橋大觀
       路郵局存款明細、各類所得扣繳暨免扣繳憑單，既係如附
       表一編號4 向福灣公司申請汽車貸款之相關保證人資料，
       並在上開有罪部分已論及，則如附表二編號1 即難謂另成
-      立犯行；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />如附表二編號2 所示己○○向慶豐銀行申請貸
+      立犯行；如附表二編號2 所示己○○向慶豐銀行申請貸
       款時，並未提供其在職證明書，且已清償完畢，有慶豐銀
       行大同分行96年5 月22日（96）慶銀同字第158 號函附清
       償明細表在卷為憑；又向台新銀行申請現金卡，未檢附在
       職證明書，此有台新銀行96年6 月4 日台新總法制字第09
       600001678 號函存卷可參，是以卷內並無偽造信曄公司在
-      職證明書之證據；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />如附表二編號3 所示，中國信託存摺
+      職證明書之證據；如附表二編號3 所示，中國信託存摺
       明細，如上所述，僅有存摺內外封面，並無偽造內頁情形
       ，且證人庚○○到庭證述：存摺封面係真正〈本院卷（二
-      ）第88頁〉；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />卷內證物如附表二編號4 所示俊翔生物科
-      技資訊有限公司在職證明書，並未蓋章；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />如附表二編號
+      ）第88頁〉；卷內證物如附表二編號4 所示俊翔生物科
+      技資訊有限公司在職證明書，並未蓋章；如附表二編號
       5 所示向中國信託申請信用貸款，並無檢附曼都髮型在職
       證明書，僅檢附工作名片，且至96年5 月前均正常繳款，
       此有中國信託96年5 月24日函及補充函存卷可稽〈本院卷
@@ -620,16 +513,16 @@ function openwin(URL,arguments,width,height)
       細經查證為真正，有台灣新光商業銀行莊敬分行96年6 月
       1 日新光銀敬字第96072 號函、陳秀芬陽信銀行帳戶存摺
       交易明細為真正，亦有陽信銀行新埔分行96年6 月5 日陽
-      信新埔字第96000019號函存卷可參；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />卷內證物如附表二
+      信新埔字第96000019號函存卷可參；卷內證物如附表二
       編號6 所示昇昀有限公司在職證明書，如上所述，未蓋章
-      ；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />如附表二編號7 所示辰○○○、黃賴課帳戶存摺，經
+      ；如附表二編號7 所示辰○○○、黃賴課帳戶存摺，經
       本院比對大眾銀行新莊分行96年5 月22日96新莊發字第37
       號函附交易明細表確認為真正，況辰○○○向台北國際銀
       行信用貸款，目前正常繳息，亦有永豐商業銀行延平分行
       96年5 月28日永豐銀行延平分行（096）00036號函在卷可
-      憑〈本院卷（三）第33頁〉；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B82A0A00000040.GIF" />如附表二編號8 所示美樂
-      公司在職證明書闕漏；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B92A0A00000040.GIF" />卷內證物如附表二編號9 所示慧
-      德廣告社在職證明書，未蓋章；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6BA2A0A00000040.GIF" />卷內證內如附表二編號
+      憑〈本院卷（三）第33頁〉；如附表二編號8 所示美樂
+      公司在職證明書闕漏；卷內證物如附表二編號9 所示慧
+      德廣告社在職證明書，未蓋章；卷內證內如附表二編號
       10所示慧德廣告社員工在職證明書並未蓋章，且查扣巳○
       ○之勞工保險局被保險人投保資料，與勞工保險局投保資
       料相符，有該局96年5 月29日保承資字第09610169990 號
@@ -957,86 +850,11 @@ function openwin(URL,arguments,width,height)
 5     隨身碟   2個      在職證明書（2個內容相同）
 6     扣繳憑單 1 袋     如卷附影印資料（其餘與本案無涉）
 7     手提包   1個      客戶資料（與本案無涉）
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWPCD\CRIMINAL\9607\30\PCDM967U.05G] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[3]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共19
-											筆 / 現在第8
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=003939&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c3939%2c20070730%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=3939&jdate=960730&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c3939%2c20070730%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=3939&jdate=960730&jcheck=3">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('95%2c%e8%a8%b4%2c3939%2c20070730%2c3','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','95','%e8%a8%b4','3939','960730','3')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="8"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑慧">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑慧">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]95,訴,3939,20070730,3
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]95
+[*jcase*]訴
+[*jno*]3939
+[*jdate*]960730
+[*jcheck*]3

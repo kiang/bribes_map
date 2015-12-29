@@ -1,128 +1,21 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-94訴1000</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第15
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=001000&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c1000%2c20051228%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=1000&jdate=941228&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c1000%2c20051228%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=1000&jdate=941228&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('94%2c%e8%a8%b4%2c1000%2c20051228%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e8%a8%b4','1000','941228','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">94,訴,1000</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">941228</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　94年度訴字第1000號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c1000%2c20051228%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=1000&jdate=941228&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=001000&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c1000%2c20051228%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=1000&jdate=941228&jcheck=1
+[*裁判字號*]94,訴,1000
+[*裁判日期*]941228
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣板橋地方法院刑事判決　　　　　　　94年度訴字第1000號
 公　訴　人　臺灣板橋地方法院檢察署檢察官
 被　　　告　丙○○
-選任辯護人　<font color='red'>吳宜臻　</font>律師
+選任辯護人　吳宜臻　律師
 上列被告因違反毒品危害防制條例案件，經檢察官提起公訴（九
 十三年度偵字第一三一二六號），本院判決如下：
     主  文
 丙○○販賣第二級毒品，累犯，處有期徒刑玖年。扣案之第二級
 毒品ＭＤＭＡ（驗存玖拾貳顆，驗餘淨重貳拾壹點伍陸公克）沒
 收銷燬之；第三級毒品Ｋ他命（驗餘淨重貳點貳柒公克）、帳冊
-貳本、行動電話<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />具、門號為0000000000號、000
-0000000號ＳＩＭ卡各壹枚、（包裝ＭＤＭＡ）塑膠袋<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />
+貳本、行動電話具、門號為0000000000號、000
+0000000號ＳＩＭ卡各壹枚、（包裝ＭＤＭＡ）塑膠袋
 個（重玖點陸壹公克）、（盛裝Ｋ他命）塑膠瓶肆瓶均沒收；販
 賣所得拾玖萬捌仟捌佰柒拾捌元沒收，如全部或一部不能沒收，
 以其財產抵償之。
@@ -148,7 +41,7 @@ function openwin(URL,arguments,width,height)
     號十二樓之九住處附近，以一瓶新台幣（下同）八百元之代
     價，販賣第三級毒品Ｋ他命一瓶給丁○○。又於同日二十二
     時三十分許，在臺北市○○○路、中原街口，以一瓶七百元
-    之代價販賣第三級毒品Ｋ他命一瓶給慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆。後於九十三年
+    之代價販賣第三級毒品Ｋ他命一瓶給慕歆。後於九十三年
     十二月二十九日某時許，在庚○○位於臺北市○○區○○街
     二段七十二號九樓之二住處附近，以ＭＤＭＡ一顆四百元之
     代價，Ｋ他命每公克一千四百元之代價，同時販賣第二級毒
@@ -179,17 +72,17 @@ function openwin(URL,arguments,width,height)
     理  由
 一、訊據被告丙○○矢口否認有上揭犯罪事實，辯稱第二級毒品
     ＭＤＭＡ非伊所有，是甲○○所有，此經甲○○到庭證述甚
-    詳，伊曾經介紹丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆向他人購買毒品，但並沒有
+    詳，伊曾經介紹丁○○、慕歆向他人購買毒品，但並沒有
     販賣毒品給該二人，亦未販賣毒品給庚○○，至於監聽譯文
     之內容是討論網路上的東西，不是指毒品云云。辯護人為被
-    告辯稱：丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆、庚○○於警詢、偵查中之陳述，
+    告辯稱：丁○○、慕歆、庚○○於警詢、偵查中之陳述，
     均屬傳聞證據，無證據能力；又上開證人均到庭證稱並未向
     被告購買任何毒品，而庚○○是因為誤認可以減刑所以在警
     詢、偵查中如此陳述；而監聽譯文內容僅提到「眠」、「馬
     妞」、「蘋果咬一口」、「ＬＶ」、「ＭＯＳＣＨＩＮＯ」
     、「ＢＯ」、「衣服」、「褲子」等不明字義，不能據此認
     定被告確實有販賣毒品犯行。經查：
-    (一)丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆於警詢中之陳述及庚○○於警詢、偵查中
+    (一)丁○○、慕歆於警詢中之陳述及庚○○於警詢、偵查中
       供述，為被告以外之人於審判外之言詞陳述，依刑事訴訟
       法第一百五十九條第一項之規定，前述指述原則上不具證
       據能力；惟按「被告以外之人於檢察事務官、司法警察官
@@ -198,13 +91,13 @@ function openwin(URL,arguments,width,height)
       必要者，得為證據。」、「被告以外之人於偵查中向檢察
       官所為之陳述，除顯不可信之情形外，得為證據」。刑事
       訴訟法第一百五十九條之二、第一百五十九條之一第二項
-      分別定有明文。丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆分別於警詢中明確指認被
+      分別定有明文。丁○○、慕歆分別於警詢中明確指認被
       告於事實欄所述之時間、地點販賣第三級毒品，嗣於本院
       審理中均更易證詞，均改稱並未向被告購買毒品，其中丁
       ○○稱在警局時因為很緊張所以才做不實指述，警察問話
-      時伊只有單純回答是或不是云云。另慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆則稱在警局中
+      時伊只有單純回答是或不是云云。另慕歆則稱在警局中
       ，是警察將筆錄寫好要伊照念，當時伊很緊張，所以照警
-      察意思去說云云。然查，證人丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆於製作警詢
+      察意思去說云云。然查，證人丁○○、慕歆於製作警詢
       筆錄過程，經員警詢問向何人購買毒品時，渠二人均精確
       陳述向被告購買第三級毒品Ｋ他命之時間、地點，且交易
       之數量、金額亦陳述綦詳，倘非實情，何以能清楚交代交
@@ -215,17 +108,17 @@ function openwin(URL,arguments,width,height)
       名警員負責繕打電腦筆錄，並無任何強暴、脅迫、詐欺、
       疲勞訊問等不法取供情形，員警採取一問一答，且員警提
       問後，丁○○均具體詳細回答，並非僅陳述是或不是。慕
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆稱警方是先寫好筆錄要伊照著念云云，然經本院勘驗
-      慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆之警詢筆錄錄影帶，訊問過程，係由一名警員負責
+      歆稱警方是先寫好筆錄要伊照著念云云，然經本院勘驗
+      慕歆之警詢筆錄錄影帶，訊問過程，係由一名警員負責
       訊問，另一名警員負責繕打電腦筆錄，並無任何強暴、脅
       迫、詐欺、疲勞訊問等不法取供情形（雖偵查卷第三十一
       頁第十行之後錄影中斷，然該部分係證人指證甲○○販賣
       毒品部分，與本件無關）。以上有本院九十四年十月十九
       日勘驗筆錄在卷足按。又警員乙○○於本院九十四年七月
-      五日審判期日中證稱，丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆之警詢筆錄為伊負
-      責製作，當時丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆均自行供稱向被告購買毒品
+      五日審判期日中證稱，丁○○、慕歆之警詢筆錄為伊負
+      責製作，當時丁○○、慕歆均自行供稱向被告購買毒品
       ，全程採一問一答，均有錄音等語（見該日審判筆錄第十
-      四頁），足徵丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆於警詢中供述均出於自由意
+      四頁），足徵丁○○、慕歆於警詢中供述均出於自由意
       志所為。庚○○於九十三年十二月二十九日警詢中供稱為
       警查扣之第二級毒品ＭＤＭＡ二百五十一顆、第三級毒品
       Ｋ他命八十四瓶係向被告購買，而一粒眠、５－ＭＥＯ係
@@ -244,13 +137,13 @@ function openwin(URL,arguments,width,height)
       力，證人庚○○對於為何於審判程序中更易說詞，改稱全
       部毒品均係向「小何」購買，均無法說明原委為何，基上
       足見證人庚○○於本院審理中所言，不無虛掩之情，顯係
-      迴護被告之詞。故本院綜以上情，認為丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆、
+      迴護被告之詞。故本院綜以上情，認為丁○○、慕歆、
       庚○○先前於警詢所為之供述，與本院審判中所為之證言
       相較，認其於先前時之外部附隨條件或環境顯具有較為自
       然可信之外部特別狀況，並為證明被告販賣第二級、第三
       級毒品之犯罪事實存在所必要，顯具有刑事訴訟法第一百
       五十九條之二規定之情形。又庚○○在偵查中陳述，並無
-      顯不可信之情形。是證人丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆於警詢中供述及
+      顯不可信之情形。是證人丁○○、慕歆於警詢中供述及
       庚○○於警詢、偵查中之供述，應有證據能力，較審判程
       序中證詞可信。
     (二)臺北市政府警察局刑事警察大隊向臺灣板橋地方法院檢察
@@ -364,8 +257,8 @@ function openwin(URL,arguments,width,height)
       販賣毒品之重罪，足見其意圖營利而販賣第二級毒品、第
       三級毒品。
     (六)綜上，被告於事實欄所述之時、地販賣第三級毒品Ｋ他命
-      得丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆，販賣第二級毒品ＭＤＭＡ、第三級毒
-      品Ｋ他命給庚○○等情，業據丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆、庚○○於
+      得丁○○、慕歆，販賣第二級毒品ＭＤＭＡ、第三級毒
+      品Ｋ他命給庚○○等情，業據丁○○、慕歆、庚○○於
       警詢中陳述明確，復據庚○○於偵查中供述甚詳，此外，
       被告以行動電話聯繫交易毒品等細節，復有監聽譯文在卷
       可參，並有扣案之第二級毒品ＭＤＭＡ、第三級毒品Ｋ他
@@ -395,7 +288,7 @@ function openwin(URL,arguments,width,height)
     同成分之物質，以減低純度、增加重量）中謀取暴利之方式
     或有差異，然其為圖利益而為非法販賣行為，則無二致。本
     案被告丙○○雖矢口否認販賣第二級毒品、第三級毒品之行
-    為，惟查有販賣毒品給丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆、庚○○等犯行，業
+    為，惟查有販賣毒品給丁○○、慕歆、庚○○等犯行，業
     如前述，被告當係為意圖營利（賺取價差、量差）而販入，
     並伺機出售。次按ＭＤＭＡ、Ｋ他命分別為毒品危害防制條
     例第二條第二項第二款及第三款所規定之第二級毒品及第三
@@ -441,7 +334,7 @@ function openwin(URL,arguments,width,height)
     (一)公訴意旨認為被告基於意圖營利之概括犯意，自九十三年
       四月間起，在其位於臺北市○○○路○段一○八號一○二
       四室住處及不詳地點，販賣第二級毒品ＭＤＭＡ給丁○○
-      、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆，販賣第二級毒品大麻給丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆、庚○
+      、慕歆，販賣第二級毒品大麻給丁○○、慕歆、庚○
       ○等人，因認被告涉有違反毒品危害防制條例第四條第二
       項販賣第二級毒品之犯行。
     (二)按犯罪事實應依證據認定之，無證據不得認定犯罪事實；
@@ -451,15 +344,15 @@ function openwin(URL,arguments,width,height)
     (三)公訴人認為被告涉有該部分販賣第二級毒品之犯行，無非
       係以在被告住處查扣之第二級毒品作為主要論據。訊據被
       告丙○○堅詞否認有販賣第二級毒品ＭＤＭＡ給丁○○、
-      慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆，及販賣第二級毒品大麻給丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆、庚○
+      慕歆，及販賣第二級毒品大麻給丁○○、慕歆、庚○
       ○之犯行。
-    (四)經查，證人丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆從未供稱有施用第二級毒品Ｍ
+    (四)經查，證人丁○○、慕歆從未供稱有施用第二級毒品Ｍ
       ＤＭＡ、大麻，亦未供稱向被告購買第二級毒品ＭＤＭＡ
       、大麻等語。又庚○○亦未供稱向被告購買第二級毒品大
       麻，且庚○○被查獲之時，警方亦未扣得大麻。公訴人僅
       憑在被告住處扣得第二級毒品ＭＤＭＡ、大麻逕自推論被
-      告有販賣第二級毒品ＭＤＭＡ給丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆，販賣第
-      二級毒品大麻給丁○○、慕<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC62A0A00000040.GIF" />歆、庚○○之犯行，尚嫌率
+      告有販賣第二級毒品ＭＤＭＡ給丁○○、慕歆，販賣第
+      二級毒品大麻給丁○○、慕歆、庚○○之犯行，尚嫌率
       斷。此外，復查無積極證據證明被告有該部分犯行，本應
       為無罪之諭知，惟該部分如認定有罪與前開論罪科刑部分
       有連續犯之裁判上一罪關係，故不另為無罪之諭知。
@@ -488,86 +381,11 @@ function openwin(URL,arguments,width,height)
 製造、運輸、販賣專供製造或施用毒品之器具者，處一年以上七
 年以下有期徒刑，得併科新臺幣一百萬元以下罰金。
 前五項之未遂犯罰之。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\ok\LAWPCD\CRIMINAL\9412\28\PCDM94CS.111] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第15
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=001000&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c1000%2c20051228%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=1000&jdate=941228&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c1000%2c20051228%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=1000&jdate=941228&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('94%2c%e8%a8%b4%2c1000%2c20051228%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e8%a8%b4','1000','941228','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="15"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳宜臻">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳宜臻">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]94,訴,1000,20051228,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]94
+[*jcase*]訴
+[*jno*]1000
+[*jdate*]941228
+[*jcheck*]1

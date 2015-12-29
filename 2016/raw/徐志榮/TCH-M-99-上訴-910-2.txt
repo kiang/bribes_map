@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-臺中分院-刑-99上訴910</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 臺中分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000910&selectedCrtid=TCH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=910&jdate=1000802&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=910&jdate=1000802&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2','TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2','M','99','%e4%b8%8a%e8%a8%b4','910','1000802','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,上訴,910</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000802</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院臺中分院刑事判決　　　　 99年度上訴字第910號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=910&jdate=1000802&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000910&selectedCrtid=TCH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=910&jdate=1000802&jcheck=2
+[*裁判字號*]99,上訴,910
+[*裁判日期*]1000802
+[*裁判案由*]貪污治罪條例等
+[*裁判全文*]臺灣高等法院臺中分院刑事判決　　　　 99年度上訴字第910號
 上　訴　人　臺灣苗栗地方法院檢察署檢察官
 上　訴　人
 即　被　告　蔡德雄
@@ -198,7 +91,7 @@ function openwin(URL,arguments,width,height)
     」之目的、各該申請名義人需（願收受）所載來源及數量營
     建工程剩餘土，或原核准案件已填土完成、申請核發完工證
     明，或各該工程供土不及、申請變更供土單位等意思之私文
-    書，並分別在其上偽造「吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />」、「謝鍾桂英」、「彭昌
+    書，並分別在其上偽造「吳月」、「謝鍾桂英」、「彭昌
     正」、「王李春燕」、「王阿榮」、「徐劉騰妹」、「劉謝
     未妹」、「王榮漢」、「劉金和」、「楊銘浩」等印文及盜
     用「范員妹」、「謝阿基」、「賴昌權」、「王阿榮印」等
@@ -243,8 +136,8 @@ function openwin(URL,arguments,width,height)
     73、2175號等判決意旨參照），觀諸各該筆錄所載訊問內容
     ，前開供述作成時並無顯不可信之情況，自有刑事訴訟法第
     159條之1第2項傳聞例外規定之適用。又被告等人於審判中
-    已分別行使對<font color='red'>徐志榮</font>、黃文璋、黃生香、黃長輝、謝清敏、
-    吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />、蔡德雄、蔡國雄、劉宗檳、陳宣磬之詰問權，已完
+    已分別行使對徐志榮、黃文璋、黃生香、黃長輝、謝清敏、
+    吳月、蔡德雄、蔡國雄、劉宗檳、陳宣磬之詰問權，已完
     足合法調查程序，復放棄行使對其餘證人之詰問權，參照最
     高法院97年度台上字第603號判決意旨，前開供述均得作為
     認定被告等人犯罪事實判斷之依據。
@@ -513,7 +406,7 @@ function openwin(URL,arguments,width,height)
        被告蔡德雄有簽到出席於92年5月16日上午在公館鄉公所
        2樓會議室舉行之該次會議，該次會議中，農業課報告指
        出「農地改良案，請建設課向縣府建設局查詢『山坡地
-       範圍內之土地』是否可由本所核准」，鄉長<font color='red'>徐志榮</font>亦明
+       範圍內之土地』是否可由本所核准」，鄉長徐志榮亦明
        確裁示「舉凡關於山坡地開發、農地改良、所涉棄土、
        填土等案件，本所均不得發給任何許可證明」（第115號
        他字卷第191-194頁），足證被告蔡德雄於92年5月16 日
@@ -556,8 +449,8 @@ function openwin(URL,arguments,width,height)
        圍。三、綜上，申請人所請北河段0000-0000及0000-000
        0及0000-0000等土地之填土案，應函復申請人逕向苗栗
        縣政府申辦，毋需本所召集勘查。四、加會農業課。」
-       （調七卷第125頁反面、第128頁反面），經鄉長<font color='red'>徐志榮
-       </font>批示「函復申請人向苗縣府申請」後，羅忠桂遂按鄉長
+       （調七卷第125頁反面、第128頁反面），經鄉長徐志榮
+       批示「函復申請人向苗縣府申請」後，羅忠桂遂按鄉長
        指示於92年9月18日重行簽擬函稿，再由被告蔡德雄批示
        後，以代為決行方式核准發文（調七卷第124頁反面、第
        127頁反面）。儘管主任秘書謝吉祥未指出設置管理要點
@@ -647,7 +540,7 @@ function openwin(URL,arguments,width,height)
        得就山坡地核發同意函文，則其為何不進一步深究探詢
        核發「同意辦理」函之適法性？為何竟捨此率為同意核
        發並代為決行？尤有甚者，被告蔡德雄任職公館鄉公所
-       ，鄉長<font color='red'>徐志榮</font>前於92年5月16日鄉務會議中已明確裁示：
+       ，鄉長徐志榮前於92年5月16日鄉務會議中已明確裁示：
        日後於山坡地不得核發同意書，被告既身為鄉公所建設
        課課長，為何不遵從直屬長官之指令，反倒依循與其不
        相隸屬平行鄉鎮之作法？凡此均與常情有間。綜上說明
@@ -784,7 +677,7 @@ function openwin(URL,arguments,width,height)
        置管理自治條例之公文，於職務上得悉上開規定（第115
        號他字卷第179頁、第188頁），復於92年9月間受理謝鍾
        桂英、范員妹名義申請案件時，依公館鄉公所主任秘書
-       謝吉祥簽註之意見及鄉長<font color='red'>徐志榮</font>之指示，重行簽擬請申
+       謝吉祥簽註之意見及鄉長徐志榮之指示，重行簽擬請申
        請人向苗栗縣政府申辦之函稿（調七卷第124-128頁），
        又自承於92年5月16日鄉務會議後，聽過被告蔡德雄轉述
        鄉長裁示內容（第1118號偵查卷一第162頁），另前揭苗
@@ -904,9 +797,9 @@ function openwin(URL,arguments,width,height)
 二、被告陳宣磬、劉宗檳部分：
 (一)附表一至附表四「有」偽造私文書部分所示行使偽造私文書
     及偽造、盜用印文犯行：
-  1.如附表一至附表四所示各該以吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />、謝鍾桂英、彭昌正、
+  1.如附表一至附表四所示各該以吳月、謝鍾桂英、彭昌正、
     王李春燕、徐劉騰妹、劉謝未妹、王榮漢、楊銘浩名義提出
-    之申請案件，依證人吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />、謝清敏（謝鍾桂英之夫，為土
+    之申請案件，依證人吳月、謝清敏（謝鍾桂英之夫，為土
     地實際管理人）、彭昌正、王阿榮（王李春燕之夫，為土地
     實際管理人）、徐劉騰妹、劉謝未妹、王榮漢、楊銘浩於偵
     查中或原審審理時所為證述，均非由其等自行或委託、授權
@@ -1095,16 +988,16 @@ function openwin(URL,arguments,width,height)
     清楚供述其代辦流程為「我把申請書寫好後，把文件夾在卷
     宗內，由劉宗檳去蓋申請人的章，然後拿到鄉公所掛號」（
     原審卷一第32-1頁），其前後說詞，明顯矛盾，益見所辯不
-    足採信。至於如附表二編號9所示申請案件檢附之吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />名
+    足採信。至於如附表二編號9所示申請案件檢附之吳月名
     義92年12月15日申請書，載明欲在公館鄉○○段494地號土
     地回填剩餘土石方4,818立方公尺，然上開土地甫於92年12
     月8日完成4,948立方公尺之填土作業（土石方來源為冠良營
     造廠有限公司承包之「松柏秋賞新建工程」，如附表一編號
     4所示同意備查函參照），被告蔡國雄自承亦為前次申請案
     件之代辦人（原審卷四第25-26頁），其對上開土地相隔不
-    到1週再次申請回填大量土方之必要性、吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />是否知情且
-    同意，豈有可能不心生懷疑之理？又其既認識吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />（原審
-    卷四第40頁），何以不詢問吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />以確認有無取得授權？是
+    到1週再次申請回填大量土方之必要性、吳月是否知情且
+    同意，豈有可能不心生懷疑之理？又其既認識吳月（原審
+    卷四第40頁），何以不詢問吳月以確認有無取得授權？是
     就此一申請案件，即便被告劉宗檳係提供「已蓋妥印章之申
     請書」，仍不足以排除被告蔡國雄偽造之犯意。
   5.被告劉宗檳固辯稱：伊僅有於承包「錫隘隧道新建工程」之
@@ -1119,12 +1012,12 @@ function openwin(URL,arguments,width,height)
     提示公館鄉公所於92年11月11日至93年10 月6日核發之72件
     「同意辦理」函（詳如第115號他字卷第17頁調卷資料統計
     表所示）後，業已供承「所有公館鄉○○段之農地改良申請
-    案件都是由我申請的」，地主包括范員妹、吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />、謝鍾桂
+    案件都是由我申請的」，地主包括范員妹、吳月、謝鍾桂
     英、彭昌正、謝阿基等人（第1118號偵查卷二第61頁），嗣
     於檢察官複訊時亦確認先前供述無誤（第1118號偵查卷二第
     67頁）。前述被告劉宗檳承認代辦之申請案件中，以范員妹
     、謝鍾桂英、彭昌正名義申請者，其土石方來源均非「錫隘
-    隧道新建工程」；以謝阿基、吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />名義申請者，各僅有 2
+    隧道新建工程」；以謝阿基、吳月名義申請者，各僅有 2
     件、1件之土石方來源為「錫隘隧道新建工程」（如附表二
     編號1、5、7【5、7為同一申請案件】、9所示），其餘亦與
     該工程毫無關係。可見被告劉宗檳直接參與部分，當不僅止
@@ -1224,7 +1117,7 @@ function openwin(URL,arguments,width,height)
     凱負責清運，包括取得清運證明及實際雇工清運。」、「進
     場證明、完工證明、遞送聯單等都是透過許恆凱買來的或是
     由許恆凱買來的。」（第2867號偵查卷一第168頁）；編號3
-    所示棄土清運業者<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4F32A0A00000040.GIF" />谷工程有限公司委託之代辦業者蔡協晉
+    所示棄土清運業者谷工程有限公司委託之代辦業者蔡協晉
     ，於偵查中證稱：「我是找同業劉瑞益代辦，劉瑞益如何辦
     出來我不知道。」、「每個月都要提供遞送聯單，交給劉瑞
     益去辦。」（第2867號偵查卷二第15-16頁），受蔡協晉委
@@ -1748,12 +1641,12 @@ function openwin(URL,arguments,width,height)
     ，填方各僅800餘立方公尺，倘不論前揭要點所稱「農地改
     良」是否須兼具「挖方」與「填方」兩者，似有前揭要點相
     關規定之適用。惟查，被告蔡德雄係任職建設課而非農業課
-    ，前揭要點顯非其職務上應明瞭之法令，雖公館鄉鄉長<font color='red'>徐志
-    榮</font>曾於92年5月16日定期鄉務會議中裁示「舉凡關於…農地
+    ，前揭要點顯非其職務上應明瞭之法令，雖公館鄉鄉長徐志
+    榮曾於92年5月16日定期鄉務會議中裁示「舉凡關於…農地
     改良、所涉棄土、填土等案件，本所均不得發給任何證明」
     ，苗栗縣政府並於93年2至7月間，多次將「不同意土方進場
     」之函文副知公館鄉公所，且經被告蔡德雄批閱（第115 號
-    他字卷第181頁、第185頁、第188-190頁），然<font color='red'>徐志榮</font>裁示
+    他字卷第181頁、第185頁、第188-190頁），然徐志榮裁示
     時並未說明依據法令規定為何，其於原審審理時亦自承：當
     時係縣政府長官來電告知其事，自己並不瞭解有關條文（原
     審卷三第117頁、第119頁），前揭苗栗縣政府函文所持理由
@@ -1903,7 +1796,7 @@ function openwin(URL,arguments,width,height)
     造私文書部分）檢附之申請文件，亦為被告陳宣磬、劉宗檳
     及蔡國雄所共同偽造及行使，渠等均涉犯刑法第216條、第
     210條之行使偽造私文書罪嫌。惟查：
-  1.卷內查無劉文秀、劉嘉榮、洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />、劉壽生、劉鳳祥、黃秀
+  1.卷內查無劉文秀、劉嘉榮、洪料、劉壽生、劉鳳祥、黃秀
     坤、劉錦安、楊炳仁、王連興、張文宏、吳添福、楊聖達等
     12名地主之陳述。被告陳宣磬、劉宗檳及蔡國雄亦均否認有
     何偽造或盜用上開地主印章、偽以上開地主名義製作申請文
@@ -2375,28 +2268,28 @@ function openwin(URL,arguments,width,height)
 │、40頁），本件係由蔡國雄接洽，故按蔡國雄所稱每立方公尺約收新台幣（下同）45元（95偵1118卷二第119頁）計算，蔡國雄 │
 │、劉宗檳、陳宣磬3人獲得不法利益金額為45*4978＝224010元                                                          │
 ├─┬────┬──┬───┬──┬──┬──┬──┬──┬──┬──┬──┬────┬───┬───┬──┬──┤
-│3 │92.11.24│同意│吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />│山坡│2149│4948│松柏│欣祥│冠良│戴宏│冠良│偽造之吳│苗栗市│原地主│有  │起訴│
-│  │／12814 │辦理│／北河│地保│    │    │秋賞│建設│營造│塗  │營造│月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />名義│莊敬街│謝清敏│    │／  │
+│3 │92.11.24│同意│吳月│山坡│2149│4948│松柏│欣祥│冠良│戴宏│冠良│偽造之吳│苗栗市│原地主│有  │起訴│
+│  │／12814 │辦理│／北河│地保│    │    │秋賞│建設│營造│塗  │營造│月名義│莊敬街│謝清敏│    │／  │
 │  │        │    │494   │育區│    │    │新建│有限│廠有│    │股份│申請書、│7號、 │稱不需│    │調二│
 │  │        │    │      │    │    │    │工程│公司│限公│    │有限│與冠良營│037-  │填土，│    │70  │
 │  │        │    │      │    │    │    │    │    │司  │    │公司│造廠有限│373291│謝清敏│    │    │
 │  │        │    │      │    │    │    │    │    │    │    │、新│公司簽訂│      │、吳月│    │    │
-│  │        │    │      │    │    │    │    │    │    │    │竹縣│之土石方│      │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />均稱│    │    │
+│  │        │    │      │    │    │    │    │    │    │    │竹縣│之土石方│      │均稱│    │    │
 │  │        │    │      │    │    │    │    │    │    │    │政府│運送協議│      │從未自│    │    │
 │  │        │    │      │    │    │    │    │    │    │    │    │書(92.  │      │行獲委│    │    │
 │  │        │    │      │    │    │    │    │    │    │    │    │11.13， │      │託、同│    │    │
 │  │        │    │      │    │    │    │    │    │    │    │    │上有偽造│      │意任何│    │    │
 │  │        │    │      │    │    │    │    │    │    │    │    │之「吳月│      │人提出│    │    │
-│  │        │    │      │    │    │    │    │    │    │    │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />」印文│      │申請  │    │    │
+│  │        │    │      │    │    │    │    │    │    │    │    │」印文│      │申請  │    │    │
 │  │        │    │      │    │    │    │    │    │    │    │    │)       │      │      │    │    │
 ├─┼────┼──┼───┼──┼──┼──┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│4 │92.12.8 │同意│吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />│    │    │4948│松柏│欣祥│冠良│戴宏│冠良│偽造之吳│苗栗市│戴宏塗│有  │併案│
-│  │／13733 │備查│／北河│    │    │    │秋賞│建設│營造│塗  │營造│月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />名義│莊敬街│稱未實│    │／  │
+│4 │92.12.8 │同意│吳月│    │    │4948│松柏│欣祥│冠良│戴宏│冠良│偽造之吳│苗栗市│戴宏塗│有  │併案│
+│  │／13733 │備查│／北河│    │    │    │秋賞│建設│營造│塗  │營造│月名義│莊敬街│稱未實│    │／  │
 │  │        │    │494   │    │    │    │新建│有限│廠有│    │股份│申請書（│7號、 │際傾倒│    │調七│
 │  │        │    │      │    │    │    │工程│公司│限公│    │有限│92.12.5 │037-  │在該地│    │149 │
 │  │        │    │      │    │    │    │    │    │司  │    │公司│，上有偽│373291│      │    │    │
 │  │        │    │      │    │    │    │    │    │    │    │、新│造之「吳│      │      │    │    │
-│  │        │    │      │    │    │    │    │    │    │    │竹縣│月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />」印│      │      │    │    │
+│  │        │    │      │    │    │    │    │    │    │    │竹縣│月」印│      │      │    │    │
 │  │        │    │      │    │    │    │    │    │    │    │政府│文)     │      │      │    │    │
 ├─┴────┴──┴───┴──┴──┴──┴──┴──┴──┴──┴──┴────┴───┴───┴──┴──┤
 │依據韓振銘證述及蔡國雄供述，本件係由蔡國雄接洽，故按蔡國雄所稱每立方公尺約收45元計算，蔡國雄、劉宗檳、陳宣磬3人 │
@@ -2557,7 +2450,7 @@ function openwin(URL,arguments,width,height)
 │同意辦理函未遭註銷，且有核發完工證明，應認委託人已依約付款；依據陳宣磬供述，本件係由陳宣磬接洽，故按陳宣磬所稱每│
 │立方公尺約收38至40元，取最低金額計算，蔡國雄、劉宗檳、陳宣磬3人獲得不法利益金額為38*4514＝171532元              │
 ├─┬────┬──┬───┬──┬──┬──┬──┬──┬──┬──┬──┬────┬───┬───┬──┬──┤
-│14│93.2.11 │同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│山坡│1009│1773│興南│台北│頂晟│頂晟│中和│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│卷內查│無  │起訴│
+│14│93.2.11 │同意│洪料│山坡│1009│1773│興南│台北│頂晟│頂晟│中和│洪料名│苗栗市│卷內查│無  │起訴│
 │  │／1389  │辦理│／北河│地保│    │    │路3 │縣中│營造│營造│市公│義申請書│莊敬街│無地主│    │／  │
 │  │        │    │419-1 │育區○    ○    ○段73│和市│有限│有限│所、│（93.2. │7號、 │筆錄  │    │調二│
 │  │        │    │      │    │    │    │巷91│公所│公司│公司│頂晟│10）    │037-  │      │    │164 │
@@ -2567,7 +2460,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │    │    │善工│    │    │    │    │        │      │      │    │    │
 │  │        │    │      │    │    │    │程  │    │    │    │    │        │      │      │    │    │
 ├─┼────┼──┼───┼──┼──┼──┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│15│93.5.12 │同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│    │    │1773│興南│台北│頂晟│頂晟│    │洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│頂晟營│無  │併案│
+│15│93.5.12 │同意│洪料│    │    │1773│興南│台北│頂晟│頂晟│    │洪料名│苗栗市│頂晟營│無  │併案│
 │  │／5033  │備查│／北河│    │    │    │路3 │縣中│營造│營造│    │義申請書│獅潭鄉│造有限│    │／  │
 │  │        │    │419-1 │    │    │    │段73│和市│有限│有限│    │（93.5. │和興村│公司負│    │調八│
 │  │        │    │      │    │    │    │巷91│公所│公司│公司│    │10）    │11鄰和│責人郭│    │185 │
@@ -2580,7 +2473,7 @@ function openwin(URL,arguments,width,height)
 │依據郭鴻樟證述（95偵1118卷二第4頁）及陳宣磬供述，本件係由陳宣磬接洽，且郭鴻樟明確證稱委託陳宣磬之價格為每立方公 │
 │尺70元，按此計算，蔡國雄、劉宗檳、陳宣磬3人獲得不法利益金額為70*1773＝124110元                                  │
 ├─┬────┬──┬───┬──┬──┬──┬──┬──┬──┬──┬──┬────┬───┬───┬──┬──┤
-│16│93.2.11 │同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│山坡│1009│2684│中和│台北│豐申│豐申│中和│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│卷內查│無  │起訴│
+│16│93.2.11 │同意│洪料│山坡│1009│2684│中和│台北│豐申│豐申│中和│洪料名│苗栗市│卷內查│無  │起訴│
 │  │／1390  │辦理│／北河│地保│    │（申│排水│縣中│營造│營造│市公│義申請書│莊敬街│無地主│    │／  │
 │  │        │    │419-1 │育區○    ○○○○路（│和市│有限│有限│所、│（93.2. │7號、 │筆錄  │    │調二│
 │  │        │    │      │    │    │載  │員山│公所│公司│公司│豐申│10）    │037-  │      │    │181 │
@@ -2596,7 +2489,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │    │    │置工│    │    │    │    │        │      │      │    │    │
 │  │        │    │      │    │    │    │程  │    │    │    │    │        │      │      │    │    │
 ├─┼────┼──┼───┼──┼──┼──┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│17│93.7.9  │同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│    │    │2685│中和│台北│豐申│豐申│中和│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│豐申營│無  │併案│
+│17│93.7.9  │同意│洪料│    │    │2685│中和│台北│豐申│豐申│中和│洪料名│苗栗市│豐申營│無  │併案│
 │  │／7358  │備查│／北河│    │    │    │排水│縣中│營造│營造│市公│義申請書│中正路│造有限│    │／  │
 │  │        │    │419-1 │    │    │    │路（│和市│有限│有限│所、│（93.7.8│964號 │公司股│    │調八│
 │  │        │    │      │    │    │    │員山│公所│公司│公司│豐申│）      │、    │東兼經│    │230 │
@@ -3136,16 +3029,16 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │人員筆│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │錄    │    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│9 │92.12.17│同意│吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />│山坡│2409  │4818  │錫隘│交通│達欣│利德│達欣│偽造之吳│苗栗縣│一、原│有  │起訴│
-│  │/14213  │辦理│／北河│地保│      │      │隧道│部公│工程│工程│工程│月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />名義│苗栗市│地主謝│    │／  │
+│9 │92.12.17│同意│吳月│山坡│2409  │4818  │錫隘│交通│達欣│利德│達欣│偽造之吳│苗栗縣│一、原│有  │起訴│
+│  │/14213  │辦理│／北河│地保│      │      │隧道│部公│工程│工程│工程│月名義│苗栗市│地主謝│    │／  │
 │  │        │    │494   │育區│      │      │新建│路總│股份│股份│股份│申請書、│福麗里│清敏稱│    │調二│
 │  │        │    │      │    │      │      │工程│局第│有限│有限│有限│剩餘土石│17鄰至│不需填│    │115 │
 │  │        │    │      │    │      │      │    │二區│公司│公司│公司│方處理同│公路99│土，謝│    │    │
 │  │        │    │      │    │      │      │    │養護│    │（轉│    │意書(92.│號、  │清敏、│    │    │
-│  │        │    │      │    │      │      │    │工程│    │包劉│    │12.17， │037-  │吳月<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />│    │    │
+│  │        │    │      │    │      │      │    │工程│    │包劉│    │12.17， │037-  │吳月│    │    │
 │  │        │    │      │    │      │      │    │處  │    │宗檳│    │上有偽造│373291│均稱從│    │    │
 │  │        │    │      │    │      │      │    │    │    │）  │    │之「吳月│      │未自行│    │    │
-│  │        │    │      │    │      │      │    │    │    │    │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4C72A0A00000040.GIF" />」印文│      │獲委託│    │    │
+│  │        │    │      │    │      │      │    │    │    │    │    │」印文│      │獲委託│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │)       │      │、同意│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │任何人│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │提出申│    │    │
@@ -3186,7 +3079,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │號函註│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │銷。  │    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│10│92.8.29 │同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│山坡│合計  │4960  │玄奘│玄奘│建銘│不詳│    │洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│卷內查│無  │併案│
+│10│92.8.29 │同意│洪料│山坡│合計  │4960  │玄奘│玄奘│建銘│不詳│    │洪料名│苗栗市│卷內查│無  │併案│
 │  │／7850  │辦理│／北河│地保│1140  │      │大學│大學│營造│    │    │義申請書│莊敬街│無地主│    │／  │
 │  │        │    │414、 │育區│      │      │人文│    │股份│    │    │、切結書│7號、 │、建銘│    │調七│
 │  │        │    │419-1 │    │      │      │社會│    │有限│    │    │        │037-  │營造股│    │117 │
@@ -3198,7 +3091,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │工程│    │    │    │    │        │      │運業者│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │筆錄  │    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│11│92.10.20│同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│    │      │4956  │玄奘│玄奘│建銘│不詳│    │洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│卷內查│無  │併案│
+│11│92.10.20│同意│洪料│    │      │4956  │玄奘│玄奘│建銘│不詳│    │洪料名│苗栗市│卷內查│無  │併案│
 │  │／11486 │備查│／北河│    │      │      │大學│大學│營造│    │    │義申請書│莊敬街│無地主│    │／  │
 │  │        │    │414、 │    │      │      │人文│    │股份│    │    │（92.10.│7號   │、建銘│    │調一│
 │  │        │    │419-2 │    │      │      │社會│    │有限│    │    │15）    │      │營造股│    │44  │
@@ -3320,7 +3213,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │餘土│    │    │    │    │        │      │求撤銷│    │    │
 │  │        │    │      │    │      │      │石方│    │    │    │    │        │      │      │    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│18│92.11.24│同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│山坡│3078  │4956  │內溝│台北│偉大│日暘│台北│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│一、卷│無  │起訴│
+│18│92.11.24│同意│洪料│山坡│3078  │4956  │內溝│台北│偉大│日暘│台北│洪料名│苗栗市│一、卷│無  │起訴│
 │  │／13113 │辦理│／北河│地保│      │      │溪下│市政│建設│工程│市政│義申請書│莊敬街│內查無│    │／  │
 │  │        │    │333-4 │育區○      ○      ○○段│府工│股份│有限│府工│（92.11.│7號、 │地主筆│    │調二│
 │  │        │    │      │    │      │      │整治│務局│有限│公司│務局│19）    │037-  │錄。二│    │103 │
@@ -3598,7 +3491,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │1595號│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │函註銷│    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│26│93.1.14 │同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│山坡│      │4960  │台北│台北│萬里│不詳│台北│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│一、卷│無  │併案│
+│26│93.1.14 │同意│洪料│山坡│      │4960  │台北│台北│萬里│不詳│台北│洪料名│苗栗市│一、卷│無  │併案│
 │  │／78    │辦理│／北河│地保│      │      │縣高│縣政│揚營│    │縣政│義申請書│莊敬街│內查無│    │／  │
 │  │        │，並│333-4 │育區│      │      │灘地│府  │造有│    │府河│（93.1.5│7號、 │地主、│    │調八│
 │  │        │註銷│      │    │      │      │現有│    │限公│    │川高│）      │037-  │萬里揚│    │17  │
@@ -3616,7 +3509,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │綠化│    │    │    │    │        │      │號函註│    │    │
 │  │        │    │      │    │      │      │工程│    │    │    │    │        │      │銷。  │    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│27│92.12.23│同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│山坡│1009  │4918  │台北│聯皇│晉福│不詳│台北│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│一、台│無  │併案│
+│27│92.12.23│同意│洪料│山坡│1009  │4918  │台北│聯皇│晉福│不詳│台北│洪料名│苗栗市│一、台│無  │併案│
 │  │／14303 │辦理│／北河│地保│      │      │市政│建設│營造│    │市政│義申請書│莊敬街│北市政│    │／  │
 │  │        │    │419-1 │育區│      │      │府工│股份│有限│    │府工│（      │7號、 │府承辦│    │調七│
 │  │        │    │      │    │      │      │務局│有限│公司│    │務局│92.12.19│037-  │人陳俊│    │185 │
@@ -3770,7 +3663,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │發函要│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │    │        │      │求撤銷│    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│32│93.2.27 │同意│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│山坡│378   │3444  │台北│風和│陽明│協吉│協吉│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗縣│一、卷│無  │起訴│
+│32│93.2.27 │同意│洪料│山坡│378   │3444  │台北│風和│陽明│協吉│協吉│洪料名│苗栗縣│一、卷│無  │起訴│
 │  │／1843  │辦理│／北河│地保│      │      │市政│建設│營造│實業│實業│義申請書│獅潭鄉│內查無│    │／  │
 │  │        │    │333-4 │育區│      │      │府工│有限│股份│有限│有限│（      │和興村│地主、│    │調二│
 │  │        │    │      │    │      │      │務局│公司│有限│公司│公司│93.2.19 │11鄰和│陽明營│    │261 │
@@ -5446,7 +5339,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │    │    │    │    │        │      │，暫緩│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │        │      │辦理」│    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│22│93.2.5  │註銷│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│    │      │      │台北│台北│萬里│台北│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│一、卷│無  │併案│
+│22│93.2.5  │註銷│洪料│    │      │      │台北│台北│萬里│台北│洪料名│苗栗市│一、卷│無  │併案│
 │  │／1067  │原核│／    │    │      │      │縣高│縣政│揚營│縣政│義申請書│莊敬街│內查無│    │／  │
 │  │        │准函│北河  │    │      │      │灘地│府河│造有│府河│（93.2.2│7號   │地主筆│    │調八│
 │  │        │（  │333-4 │    │      │      │現有│川高│限公│川高│）      │      │錄    │    │110 │
@@ -5510,7 +5403,7 @@ function openwin(URL,arguments,width,height)
 │  │        │    │      │    │      │      │    │    │    │    │        │      │，暫緩│    │    │
 │  │        │    │      │    │      │      │    │    │    │    │        │      │辦理」│    │    │
 ├─┼────┼──┼───┼──┼───┼───┼──┼──┼──┼──┼────┼───┼───┼──┼──┤
-│25│93.2.5  │註銷│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />│    │      │      │台北│    │晉福│苗栗│洪料<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3CC2A0A00000040.GIF" />名│苗栗市│一、卷│無  │併案│
+│25│93.2.5  │註銷│洪料│    │      │      │台北│    │晉福│苗栗│洪料名│苗栗市│一、卷│無  │併案│
 │  │／1103  │原核│／    │    │      │      │市政│    │營造│縣政│義申請書│莊敬街│內查無│    │／  │
 │  │        │准函│北河  │    │      │      │府工│    │有限│府、│（93.2.2│7號   │地主筆│    │調八│
 │  │        │（  │419-1 │    │      │      │務局│    │公司│台北│）      │      │錄    │    │122 │
@@ -5704,7 +5597,7 @@ function openwin(URL,arguments,width,height)
 │  │      │文件    │      │        │    │    │    │782-1 │      │陳宜磬代辦取│
 │  │      │        │      │        │    │    │    │地號  │      │得          │
 ├─┼───┼────┼───┼────┼──┼──┼──┼───┼───┼──────┤
-│3 │97-539│台北市營│第一、│第九期分│台北│軍功│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4F32A0A00000040.GIF" />谷│苗栗縣│「劉謝│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4F32A0A00000040.GIF" />谷工程有限│
+│3 │97-539│台北市營│第一、│第九期分│台北│軍功│谷│苗栗縣│「劉謝│谷工程有限│
 │  │、    │建工程剩│三、五│管網工程│市政│營造│工程│公館鄉│未妹徐│公司透過蔡協│
 │  │97-603│餘資源運│聯    │第十三標│府工│股份│有限│石圍牆│劉騰妹│晉、劉瑞益委│
 │  │第5項 │送處理證│各1冊 │        │務局│有限│公司│段    │棄土專│託陳宜磬代辦│
@@ -5731,86 +5624,12 @@ function openwin(URL,arguments,width,height)
 │  │      │        │      │        │公司│    │    │      │」、「│            │
 │  │      │        │      │        │    │    │    │      │劉涂惠│            │
 │  │      │        │      │        │    │    │    │      │琴」  │            │
-└─┴───┴────┴───┴────┴──┴──┴──┴───┴───┴──────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCH\CRIMINAL\10008\02\TCHM10082.005] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000910&selectedCrtid=TCH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=910&jdate=1000802&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=910&jdate=1000802&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e4%b8%8a%e8%a8%b4%2c910%2c20110802%2c2','TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2','M','99','%e4%b8%8a%e8%a8%b4','910','1000802','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCH 臺灣高等法院 臺中分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="徐志榮">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="徐志榮">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴───┴────┴───┴────┴──┴──┴──┴───┴───┴──────┘
+[*jrecno*]99,上訴,910,20110802,2
+[*v_court*]TCH 臺灣高等法院 臺中分院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]上訴
+[*jno*]910
+[*jdate*]1000802
+[*jcheck*]2

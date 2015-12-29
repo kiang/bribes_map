@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣士林地方法院-刑-99訴緝55</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣士林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000055&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=55&jdate=1000705&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=55&jdate=1000705&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4%e7%b7%9d','55','1000705','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴緝,55</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000705</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣士林地方法院刑事判決　　　　　　　99年度訴緝字第55號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=55&jdate=1000705&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000055&selectedCrtid=SLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=55&jdate=1000705&jcheck=2
+[*裁判字號*]99,訴緝,55
+[*裁判日期*]1000705
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣士林地方法院刑事判決　　　　　　　99年度訴緝字第55號
 公　訴　人　臺灣士林地方法院檢察署檢察官
 被　　　告　李岑林
 　　 （原名李嘉明）
@@ -126,12 +19,12 @@ function openwin(URL,arguments,width,height)
 其餘被訴對有限責任淡水第一信用合作社詐欺取財未遂部分，無
 罪。
     事  實
-一、緣<font color='red'>許永金</font>與李岑林乃華興中學之師生關係，兩人有意合作投
+一、緣許永金與李岑林乃華興中學之師生關係，兩人有意合作投
     資不動產，曾於民國（下同）95年9 月間共同投資購買坐臺
     北市○○區○○街19號地下一層之1 之房地（下簡稱義理街
     房地），雙方於95年9 月25日簽立「房地產投資協議書」，
-    協議由<font color='red'>許永金</font>出資新臺幣（下同）30萬元，義理街房地登記
-    在<font color='red'>許永金</font>名下，銀行貸款390 萬元均撥入<font color='red'>許永金</font>所開設之有
+    協議由許永金出資新臺幣（下同）30萬元，義理街房地登記
+    在許永金名下，銀行貸款390 萬元均撥入許永金所開設之有
     限責任淡水第一信用合作社（下簡稱淡水一信）帳號000000
     0000000 號帳戶內，而該帳戶之存摺、印章由李岑林保管及
     支用於有關義理街房地投資支出。其後，李岑林獲知梁伯秋
@@ -152,16 +45,16 @@ function openwin(URL,arguments,width,height)
     與李岑林等不實事實之買賣契約書（下簡稱偽造之買賣契約
     書）後，於95年11月22日將偽造之買賣契約書持向淡水一信
     以永和中山路房地申辦抵押貸款而行使之。
-三、李岑林於95年11月間，邀約<font color='red'>許永金</font>共同投資購買永和中山路
-    房地，復偕同<font color='red'>許永金</font>、梁伯恩至現場看屋後，李岑林與<font color='red'>許永
-    金</font>於95年11月22日簽立「房地產投資協議書」，協議由<font color='red'>許永
-    金</font>出資1 百萬元，並由其妻黃鳳玉擔任登記名義人，<font color='red'>許永金
-    </font>依約委由黃鳳玉依李岑林之囑咐，於95年11月23日（起訴書
+三、李岑林於95年11月間，邀約許永金共同投資購買永和中山路
+    房地，復偕同許永金、梁伯恩至現場看屋後，李岑林與許永
+    金於95年11月22日簽立「房地產投資協議書」，協議由許永
+    金出資1 百萬元，並由其妻黃鳳玉擔任登記名義人，許永金
+    依約委由黃鳳玉依李岑林之囑咐，於95年11月23日（起訴書
     誤載為23日、25日，應予更正）各匯款30萬元至李岑林在臺
     北市士林區名山里郵局開設之00000000000000號帳戶（下簡
     稱郵局帳戶）、李岑林女友王淑鈁在玉山商業銀行天母分行
     開設之0000000000000 號帳戶（下簡稱玉山銀行帳戶），另
-    匯款40萬元至李岑林保管之<font color='red'>許永金</font>淡水一信帳戶內，共計
+    匯款40萬元至李岑林保管之許永金淡水一信帳戶內，共計
     100 萬元，依雙方協議由李岑林持有保管作為投資永和中山
     路房地之專用款項。事後，李岑林明知與屋主梁伯秋尚未簽
     立買賣契約書，即向淡水一信辦理貸款，由淡水一信之行員
@@ -171,23 +64,23 @@ function openwin(URL,arguments,width,height)
     行至抵押權設定階段，故請求淡水一信確認並傳真前揭「買
     賣契約書」，始發覺含有前揭偽造之簽名、印文之偽造契約
     書，梁伯恩因而懷疑有詐，決定不出售予李岑林，淡水一信
-    亦拒絕辦理貸款。詎李岑林受領<font color='red'>許永金</font>前揭匯款100 萬元後
+    亦拒絕辦理貸款。詎李岑林受領許永金前揭匯款100 萬元後
     ，竟未依約將匯款專用於永和中山路房地投資之用，更於確
     認房地買賣不成後，未據實以告並返還款項，竟基於為自己
-    不法所有之意圖，接續於95年11月23日提領<font color='red'>許永金</font>匯入自己
+    不法所有之意圖，接續於95年11月23日提領許永金匯入自己
     郵局帳戶內之30萬元匯款；於95年11月25日、26日、27日、
-    30日、12月4 日、5 日、8 日、20日、27日將<font color='red'>許永金</font>匯入王
+    30日、12月4 日、5 日、8 日、20日、27日將許永金匯入王
     淑鈁玉山銀行帳戶內之30萬元提領一空；於96年1 月19日未
-    經同意擅自提領保管中之<font color='red'>許永金</font>淡水一信帳戶內35萬元，共
+    經同意擅自提領保管中之許永金淡水一信帳戶內35萬元，共
     計95萬元侵占入己，挪作自己其他投資。
-四、案經<font color='red'>許永金</font>告訴及臺北市政府警察局內湖分局報告臺灣士林
+四、案經許永金告訴及臺北市政府警察局內湖分局報告臺灣士林
     地方法院檢察署檢察官偵查起訴。
     理  由
 壹、程序方面：按證人、鑑定人依法應具結而未具結者，其證言
     或鑑定意見，不得作為證據；又被告以外之人於審判外之言
     詞或書面陳述，除法律有規定者外，不得作為證據。刑事訴
     訟法第158 條之3 、第159 條之1 第2 項定有明文。查證人
-    即告訴人<font color='red'>許永金</font>於警詢或偵查中，證人陳鴻彬、梁伯恩、曾
+    即告訴人許永金於警詢或偵查中，證人陳鴻彬、梁伯恩、曾
     木京於偵查中，未經法定具結程序所為之證述，均屬被告以
     外之人於審判外之陳述，復無其他法律規定得作為證據，既
     經被告、辯護人於100 年5 月9 日於本院準備程序爭執證據
@@ -198,7 +91,7 @@ function openwin(URL,arguments,width,height)
       日買賣契約書上之梁伯恩、梁伯秋、陳鴻彬之簽名確係其
       所偽造一情，並有偽造之買賣契約書影本在卷可按（偵續
       卷第67頁）。又證人梁伯恩於本院審理時證稱：被告是在
-      帶<font color='red'>許永金</font>去看房子之前好幾天，先付訂金10萬元給我，並
+      帶許永金去看房子之前好幾天，先付訂金10萬元給我，並
       與被告至陳鴻彬代書處簽立訂金收據，當初言明買賣總價
       款為640 萬元，但須等屋主即我弟弟梁伯秋自大陸返臺正
       式簽立買賣契約，收訂金後至梁伯秋返臺之前，淡水一信
@@ -260,8 +153,8 @@ function openwin(URL,arguments,width,height)
       。又該份契約書上方「06.11.22 03 ：16，Justin Lee」
       、「12/13/ 0000 0000000000」、「FAX 00000000」等傳
       真設定內碼及手寫傳真號碼（偵續卷第67頁），其中「06
-      .11. 22 」應係指95年11月22日，即係被告與證人<font color='red'>許永金
-      </font>簽立永和中山路房地「房地產投資協議書」之日期，另「
+      .11. 22 」應係指95年11月22日，即係被告與證人許永金
+      簽立永和中山路房地「房地產投資協議書」之日期，另「
       Justin Lee」即被告之英文名字，0000000000電話係淡水
       一信申用，00000000電話則係證人陳鴻彬申用，以上均據
       證人曾木京、陳鴻彬於本院審理時證述明確，顯見該份偽
@@ -288,8 +181,8 @@ function openwin(URL,arguments,width,height)
       令賣方決定是否出售之情，而於95年11月22日向淡水一信
       聯繫辦理申貸，雖證人陳鴻彬證稱，被告可持訂金收據作
       為買賣契約書以向銀行探詢承貸可能性，惟因其於同日與
-      證人<font color='red'>許永金</font>乃約定由黃鳳玉擔任登記名義人，有前揭協議
-      書及證人<font color='red'>許永金</font>於本院之證述可資佐證，但因訂金收據無
+      證人許永金乃約定由黃鳳玉擔任登記名義人，有前揭協議
+      書及證人許永金於本院之證述可資佐證，但因訂金收據無
       法顯現此項約定，銀行恐無法單憑訂金收據作為對登記名
       義人即貸款人黃鳳玉進行徵信等核貸程序，因而，被告有
       偽造以黃鳳玉作為登記名義人之買賣契約書，用以取信貸
@@ -307,19 +200,19 @@ function openwin(URL,arguments,width,height)
       告前揭自白，應屬可信，此部分犯行，已臻明確，洵堪認
       定。
 二、普通侵占部分
-（一）訊據被告固坦承與證人<font color='red'>許永金</font>於95年11月22日簽立永和中
-      山路房地之「房地產投資協議書」後，<font color='red'>許永金</font>確有依約將
+（一）訊據被告固坦承與證人許永金於95年11月22日簽立永和中
+      山路房地之「房地產投資協議書」後，許永金確有依約將
       100 萬元分別匯至其郵局帳戶、女友王淑鈁之玉山銀行帳
-      戶及其保管之<font color='red'>許永金</font>淡水一信帳戶內，並坦承將前揭帳戶
-      內之匯款共計95萬元領出支用，惟否認有何侵占證人<font color='red'>許永
-      金</font>匯款之95萬元，辯稱：係因另有人出高價購買，梁伯秋
-      始拒絕簽約出售永和中山路房地，<font color='red'>許永金</font>匯款之95萬元乃
+      戶及其保管之許永金淡水一信帳戶內，並坦承將前揭帳戶
+      內之匯款共計95萬元領出支用，惟否認有何侵占證人許永
+      金匯款之95萬元，辯稱：係因另有人出高價購買，梁伯秋
+      始拒絕簽約出售永和中山路房地，許永金匯款之95萬元乃
       挪用於義理街房地投資及裝潢、貸款等支出云云。
-（二）訊之證人<font color='red'>許永金</font>、黃鳳玉於本院審理時均證述：於95年11
+（二）訊之證人許永金、黃鳳玉於本院審理時均證述：於95年11
       月23日有依約按被告囑咐匯款共計100 萬元至被告指定帳
-      戶內等節，有證人<font color='red'>許永金</font>提出之房地投資協議書、郵政國
+      戶內等節，有證人許永金提出之房地投資協議書、郵政國
       內匯款執據、彰化銀行匯款回條在卷可佐（他自卷第12至
-      15頁），而觀之被告與證人<font color='red'>許永金</font>於95年11月22日簽立之
+      15頁），而觀之被告與證人許永金於95年11月22日簽立之
       房地產投資協議書（他字卷第12頁），該份契約內容均為
       被告先行擬定條約及繕打，其中第3 項第4 款約定「投資
       資金以雙方達成協議總金額（投資準備金，金額為新臺幣
@@ -327,24 +220,24 @@ function openwin(URL,arguments,width,height)
       協議書後，將資金交由甲方（即被告）保管處理（所有資
       金必須以投資標的物即永和中山路房地為主），不得另用
       ！如違反此項條約，甲方需負擔刑事及民事責任」，顯見
-      證人<font color='red'>許永金</font>依照協議書所交付被告保管之投資款100 萬元
-      ，乃限用於永和中山路房地之投資無疑。又被告與證人<font color='red'>許
-      永金</font>關於義理街房地投資部分，曾於95年9 月25日簽立房
-      地產投資協議書（他字卷第6 頁），證人<font color='red'>許永金</font>亦於95年
+      證人許永金依照協議書所交付被告保管之投資款100 萬元
+      ，乃限用於永和中山路房地之投資無疑。又被告與證人許
+      永金關於義理街房地投資部分，曾於95年9 月25日簽立房
+      地產投資協議書（他字卷第6 頁），證人許永金亦於95年
       9 月29日依約匯款30萬元至被告開設之臺新銀行內湖分行
       00000000000000號帳戶內，此有匯款回條聯在卷可按（他
       卷第11頁），觀之2 份房地產投資協議書之內容與簽立時
-      間，可證被告與證人<font color='red'>許永金</font>關於不動產投資，係就個別投
+      間，可證被告與證人許永金關於不動產投資，係就個別投
       資標的進行協議決定是否投資，就投資金額、登記名義人
       等事項有不同協商決議，投資金額亦均僅限用於該次投資
       標的物，換言之，並非兩人約定相互出資以經營「共同事
       業」，分享其「事業」所生之利益，或分擔並分享「事業
-      」所生損益之合夥契約，證人<font color='red'>許永金</font>乃依各協議書匯出之
+      」所生損益之合夥契約，證人許永金乃依各協議書匯出之
       各筆款項，應係雙方合作投資單筆標的物之投資金，僅依
       約匯出由被告保管並依約支用而已，並非等同合夥財產由
-      被告與證人<font color='red'>許永金</font>公同共有，因此，被告、辯護人辯稱：
-      證人<font color='red'>許永金</font>匯款100 萬元係合夥財產，為兩人公同共有，
-      並非被告持有保管之證人<font color='red'>許永金</font>投資款云云，顯不可採。
+      被告與證人許永金公同共有，因此，被告、辯護人辯稱：
+      證人許永金匯款100 萬元係合夥財產，為兩人公同共有，
+      並非被告持有保管之證人許永金投資款云云，顯不可採。
 （三）被告與證人梁伯恩簽立訂金收據後，原本證人梁伯恩要求
       需等候屋主梁伯秋自大陸返臺簽立正式買賣契約書，未料
       ，被告為求銀行能儘速辦理貸款，竟未經證人梁伯恩、梁
@@ -369,20 +262,20 @@ function openwin(URL,arguments,width,height)
       述無誤，顯見證人梁伯恩、淡水一信至遲應於95年12月底
       前，業已明確向被告表達不出售及拒絕核貸之訊息，依證
       人梁伯恩於本院更證稱已將10萬元訂金返還被告收執，然
-      被告卻仍於96年1 月19日提領<font color='red'>許永金</font>依約匯入由被告保管
-      之<font color='red'>許永金</font>淡水一信帳戶內之35萬元，此有該帳戶交易明細
+      被告卻仍於96年1 月19日提領許永金依約匯入由被告保管
+      之許永金淡水一信帳戶內之35萬元，此有該帳戶交易明細
       、取款條在卷可憑（本院卷第84至100 頁、他卷第18頁）
-      ，益徵被告應未立即將上情據實告知證人<font color='red'>許永金</font>，否則，
-      證人<font color='red'>許永金</font>何以未立即向被告請求返還永和中山路房地之
+      ，益徵被告應未立即將上情據實告知證人許永金，否則，
+      證人許永金何以未立即向被告請求返還永和中山路房地之
       投資款，任由被告仍得於96年1 月19日提領使用，事後知
       悉，方於96年2 月6 日前往淡水一信辦理止付補發新存摺
       （本院卷第125 頁背面）。
 （五）關於永和中山路房地之投資，被告僅於95年11月20日，與
-      證人<font color='red'>許永金</font>簽立協議書前，自行支付出訂金10萬元外，迄
+      證人許永金簽立協議書前，自行支付出訂金10萬元外，迄
       至95年12月間證人梁伯恩、梁伯秋方面決定不出售，淡水
       一信拒絕核貸為止，被告並無支出任何斡旋金、代書費、
       仲介費、登記費、稅捐等款項、費用，依約被告毫無動用
-      證人<font color='red'>許永金</font>匯入100 萬元專用投資款之餘地，然被告卻於
+      證人許永金匯入100 萬元專用投資款之餘地，然被告卻於
       95年11月23日，黃鳳玉依被告囑咐匯入30萬元至被告郵局
       帳戶之當日，即將30萬元提領一空，此有中華郵政股份有
       限公司99年12月16日儲字第0990180016號函檢送之郵局帳
@@ -391,71 +284,71 @@ function openwin(URL,arguments,width,height)
       之30萬元，自95年11月25日至同年12月27日止陸續提領一
       空，此有被告供述及玉山銀行99年12月30日玉山北天字第
       0991228001號函及該帳戶交易明細資料在卷可參（本院卷
-      第44、111 至119 頁），另於96年1 月19日提領<font color='red'>許永金</font>依
-      約匯入由被告保管之<font color='red'>許永金</font>淡水一信帳戶內之35萬元，此
+      第44、111 至119 頁），另於96年1 月19日提領許永金依
+      約匯入由被告保管之許永金淡水一信帳戶內之35萬元，此
       有該帳戶交易明細在卷可憑（本院卷第84至100 頁、他卷
       第18頁），共計95萬元，永和中山路房地未購買成功後，
-      被告亦未將前揭款項存回帳戶或交還證人<font color='red'>許永金</font>，乃為被
+      被告亦未將前揭款項存回帳戶或交還證人許永金，乃為被
       告所不爭執。
 （六）雖被告或抗辯：將前揭款項用於繳納義理街房地之貸款、
-      裝潢云云，然查被告與證人<font color='red'>許永金</font>關於義理街房地投資，
-      證人<font color='red'>許永金</font>業已依約匯款30萬元至被告帳戶內，已見前述
+      裝潢云云，然查被告與證人許永金關於義理街房地投資，
+      證人許永金業已依約匯款30萬元至被告帳戶內，已見前述
       ，何況，據被告自述義理街房地購買金額僅為360 萬元（
       20萬元訂金，340 萬元尾款），卻向淡水一信貸款390 萬
       元，其中340 萬元用以支付尾款外，尚餘50萬元在帳戶內
       支應義理街房地之貸款本息，觀之該帳戶交易明細資料，
       除黃鳳玉曾於95年11月23日匯入40萬元（永和中山路房地
-      部分投資款），證人<font color='red'>許永金</font>於96年4 月4 日匯入5 萬元，
+      部分投資款），證人許永金於96年4 月4 日匯入5 萬元，
       以及被告於96年1 月29日提領35萬元外，其餘均係正常扣
       繳貸款本息之紀錄，並無任何被告所辯由其存入款項用以
       繳納貸款本息之情，因此，此部分抗辯顯與事實不符。
-（七）參以被告與證人<font color='red'>許永金</font>95年11月22日所簽立之「房地產投
+（七）參以被告與證人許永金95年11月22日所簽立之「房地產投
       資協議書」（他字卷第12頁），其中第3 項第4 款業已明
-      訂證人<font color='red'>許永金</font>依約匯款之100 萬元不得另用於永和中山路
-      房地投資以外，而被告與證人<font color='red'>許永金</font>於95年9 月25日簽立
+      訂證人許永金依約匯款之100 萬元不得另用於永和中山路
+      房地投資以外，而被告與證人許永金於95年9 月25日簽立
       關於義理街房地之「房地產投資協議書」（他字卷第6 頁
-      ）雙方約定投資準備金60萬元，各負一半，證人<font color='red'>許永金</font>負
+      ）雙方約定投資準備金60萬元，各負一半，證人許永金負
       責30萬元業已匯款入被告臺新銀行帳戶中，另有以義理街
       房地貸款之390 萬元，支付其中340 萬元尾款後，尚餘50
       萬元在被告保管中，而依協議書第3 項第5 款約定，義理
       街房地裝潢固由被告經營之悅明空間設計負責裝潢工程，
-      但細節支付所需之費用被告必須提出完整報價單供證人<font color='red'>許
-      永金</font>參閱、同意，然依證人<font color='red'>許永金</font>於本院證稱：當初約定
+      但細節支付所需之費用被告必須提出完整報價單供證人許
+      永金參閱、同意，然依證人許永金於本院證稱：當初約定
       兩人各出30萬元，共計60萬元做為義理街裝潢費用，向淡
       水一信多貸款之金額，也作為裝潢不足額使用等語（本院
-      卷第122 至124 頁），顯見前揭證人<font color='red'>許永金</font>匯款及多餘貸
+      卷第122 至124 頁），顯見前揭證人許永金匯款及多餘貸
       款共計80萬元（30＋50），以及被告依約應支付之30萬元
       ，合計110 萬元均可作為義理街裝潢支出使用，而據被告
       提出之義理街支出明細、裝潢工程資料（偵續卷第34至47
-      頁），前揭支出明細除未依約事先提出供證人<font color='red'>許永金</font>參閱
+      頁），前揭支出明細除未依約事先提出供證人許永金參閱
       及同意外，縱然屬實，總計裝潢費用不過806,880 元、相
       關仲介費、代書費、稅金約7 萬5 千元，每月貸款應納金
       額為2 萬6 千元，自95年10月開始繳納第1 期本息，算至
       永和中山路房地購買不成之95年12月底止，所應繳納共3
       期之金額約7 萬8 千元，合計約959,880 元，以前揭金額
-      支付綽綽有餘，毫無動用證人<font color='red'>許永金</font>因永和中山路房地投
+      支付綽綽有餘，毫無動用證人許永金因永和中山路房地投
       資另外匯款100 萬元中之95萬元，況且，依雙方協議書約
       定，被告依約亦需提出投資款30萬元，扣除被告墊支之訂
       金20萬元後，被告理應自行出資10萬元，卻未見被告有任
-      何存款<font color='red'>許永金</font>帳戶之紀錄，或在裝潢支出或其他費用上扣
+      何存款許永金帳戶之紀錄，或在裝潢支出或其他費用上扣
       除自己應付投資款部分，因此，被告辯稱將用於支付義理
       街房地之裝潢費用等支出云云，顯不可採。
-（八）況被告於本院99年11月17日準備程序亦供稱有將證人<font color='red'>許永
-      金</font>因永和中山路房地所匯款之100 萬元，其中6 、70萬元
+（八）況被告於本院99年11月17日準備程序亦供稱有將證人許永
+      金因永和中山路房地所匯款之100 萬元，其中6 、70萬元
       挪做我其他投資之用，其餘3 、40萬元挪用至義理街房地
       之裝潢等支出等語（審訴緝卷第61頁），益徵被告確實將
-      持有之證人<font color='red'>許永金</font>因永和中山路房地投資匯款100 萬元，
+      持有之證人許永金因永和中山路房地投資匯款100 萬元，
       將其中95萬元侵占入己，供己使用甚明。
-（九）證人<font color='red'>許永金</font>、黃鳳玉雖證稱係受到被告詐騙而匯款100 萬
+（九）證人許永金、黃鳳玉雖證稱係受到被告詐騙而匯款100 萬
       元，並未與淡水一信申辦永和中山路房地之貸款或因而授
-      權刻印開立帳戶等情，惟證人<font color='red'>許永金</font>、黃鳳玉針對有無授
+      權刻印開立帳戶等情，惟證人許永金、黃鳳玉針對有無授
       權刻印及辦理淡水一信帳戶開戶、貸款徵信等節，所述互
-      有出入，然查被告與證人<font color='red'>許永金</font>95年11月22日簽立房地產
+      有出入，然查被告與證人許永金95年11月22日簽立房地產
       投資協議書前，業於95年11月20日與梁伯恩協議以買賣價
       款640 萬元購買永和中山路房地，同日交付訂金10萬元予
       梁伯恩收執，並書立訂金收據等情，已據證人梁伯恩、陳
       鴻彬證述在卷，證人曾木京於本院亦證稱：被告告知係以
-      <font color='red'>許永金</font>之妻黃鳳玉之名義作為永和中山路房地之登記名義
+      許永金之妻黃鳳玉之名義作為永和中山路房地之登記名義
       人，故有向黃鳳玉進行徵信、收取申辦貸款所需證件、資
       料、對保，並由被告帶領前往該房地現場、內部進行拍照
       、估價等情（本院卷第142 至146 頁），此外，淡水一信
@@ -474,28 +367,28 @@ function openwin(URL,arguments,width,height)
       繕打、用印之土地登記申請書、抵押權設定契約書等資料
       （偵續卷第65至110 頁），其上均有黃鳳玉之印文，印文
       形式、型態均與前揭存款印鑑卡上之印文相符，據此，可
-      信被告當初確有洽購永和中山路房地之意，更偕同<font color='red'>許永金
-      </font>、梁伯恩至現場看屋，亦據證人梁伯恩於本院證述明確，
-      與證人<font color='red'>許永金</font>簽立房地產投資協議書之後，亦有以黃鳳玉
+      信被告當初確有洽購永和中山路房地之意，更偕同許永金
+      、梁伯恩至現場看屋，亦據證人梁伯恩於本院證述明確，
+      與證人許永金簽立房地產投資協議書之後，亦有以黃鳳玉
       作為登記名義人向淡水一信申辦貸款，換言之，被告要求
-      證人<font color='red'>許永金</font>於95年11月23日依雙方簽立房地產投資協議書
+      證人許永金於95年11月23日依雙方簽立房地產投資協議書
       匯款100 萬元投資款時，實難謂有施行詐術，縱然事後因
       證人梁伯恩、陳鴻彬及淡水一信發覺前揭偽造買賣契約書
-      ，而拒絕出售及核貸等情，未據實告知證人<font color='red'>許永金</font>並即時
-      歸還前開匯款，亦難憑此遽論被告要求證人<font color='red'>許永金</font>於95年
-      11月23日匯款之前或當時，有施行任何詐術，致證人<font color='red'>許永
-      金</font>陷於錯誤，是以，證人<font color='red'>許永金</font>匯款100 萬元應係履行房
+      ，而拒絕出售及核貸等情，未據實告知證人許永金並即時
+      歸還前開匯款，亦難憑此遽論被告要求證人許永金於95年
+      11月23日匯款之前或當時，有施行任何詐術，致證人許永
+      金陷於錯誤，是以，證人許永金匯款100 萬元應係履行房
       地產投資協議書而為之。
 （十一）承上各節，被告固有意洽購永和中山路房地，而交付訂
-        金，與證人<font color='red'>許永金</font>協議投資購買該房地後，亦以雙方協
-        議之黃鳳玉名義向淡水一信申辦貸款，因此，證人<font color='red'>許永
-        金</font>於95年11月23日匯款100 萬元，乃係為履行房地產投
+        金，與證人許永金協議投資購買該房地後，亦以雙方協
+        議之黃鳳玉名義向淡水一信申辦貸款，因此，證人許永
+        金於95年11月23日匯款100 萬元，乃係為履行房地產投
         資協議，並非受到被告施行詐術而交付，惟被告持有證
-        人<font color='red'>許永金</font>所交付保管之100 萬元投資款後，除未依約專
+        人許永金所交付保管之100 萬元投資款後，除未依約專
         用於該項投資，挪做自己其他投資之用，更於確認永和
-        中山路房地無法購買及申貸後，依舊未如實告知證人<font color='red'>許
-        永金</font>並返還，竟將其中95萬元挪做他用，當屬侵占入己
-        ，因此，被告侵占證人<font color='red'>許永金</font>依約交付之95萬元投資款
+        中山路房地無法購買及申貸後，依舊未如實告知證人許
+        永金並返還，竟將其中95萬元挪做他用，當屬侵占入己
+        ，因此，被告侵占證人許永金依約交付之95萬元投資款
         部分，事證已臻明確，犯行洵堪認定。
 三、論罪科刑
 （一）按刑法第210 條之偽造文書，以無製作權之人冒用他人名
@@ -529,8 +422,8 @@ function openwin(URL,arguments,width,height)
       應論以間接正犯，惟此均為前揭偽造私文書之階段行為，
       而不另論罪，附此敘明。
 （三）另核被告就犯罪事實三部分所為係犯刑法第335 條第1項
-      之普通侵占罪，又其於密切時間、地點，接續將證人<font color='red'>許永
-      金</font>同日委託黃鳳玉匯入之款項共計95萬元提領一空，侵占
+      之普通侵占罪，又其於密切時間、地點，接續將證人許永
+      金同日委託黃鳳玉匯入之款項共計95萬元提領一空，侵占
       入己，顯係基於同一犯意而接續為之，應論一罪。復按刑
       事訴訟法第300 條規定有罪之判決，得就起訴之犯罪事實
       ，變更檢察官所引應適用之法條，即法院得就有罪判決，
@@ -552,7 +445,7 @@ function openwin(URL,arguments,width,height)
       取得系爭財物），即得變更起訴法條之罪名為其餘兩罪中
       之另一罪名（最高法院97年度臺非字第375 號、81年度臺
       非字第423 號判決要旨參照），準此，本院認起訴要旨所
-      述被告對證人<font color='red'>許永金</font>詐取95萬元投資款既遂部分，經本院
+      述被告對證人許永金詐取95萬元投資款既遂部分，經本院
       調查證據結果，認應該當於普通侵占罪，公訴人容有誤會
       ，而兩者乃屬基本社會事實同一，爰依前揭說明，變更起
       訴法條為刑法第335 條第1 項之普通侵占罪。
@@ -562,26 +455,26 @@ function openwin(URL,arguments,width,height)
 （五）爰審酌被告犯本案之前，並無任何經法院判決有期徒刑確
       定及執行完畢之前科紀錄，此有臺灣高等法院被告前案紀
       錄表及臺灣士林地方法院檢察署刑案資料查註紀錄表各1
-      件在卷可稽，復考量被告與告訴人<font color='red'>許永金</font>乃師生關係，兩
-      人先後共同投資房地產，證人<font color='red'>許永金</font>均有依約履行交付投
+      件在卷可稽，復考量被告與告訴人許永金乃師生關係，兩
+      人先後共同投資房地產，證人許永金均有依約履行交付投
       資款，信賴被告出面、交涉、辦理及保管、支用投資款，
       未料，被告明知雙方協議各筆投資款，彼此各有出資額，
       約定需專款專用，竟因自己經濟因素及資金調度不佳，隱
-      瞞永和中山路房地購買不成之情事，將持有之證人<font color='red'>許永金
-      </font>交付投資款挪作自己使用，侵占入己，事後，證人<font color='red'>許永金
-      </font>幾番尋覓，請求歸還，均置之不理，且於犯後矢口否認，
+      瞞永和中山路房地購買不成之情事，將持有之證人許永金
+      交付投資款挪作自己使用，侵占入己，事後，證人許永金
+      幾番尋覓，請求歸還，均置之不理，且於犯後矢口否認，
       飾詞矯賴，說詞前後反覆，直至本院100 年6 月20日審理
       期日，始坦承行使偽造私文書部分犯行，但對於侵占證人
-      <font color='red'>許永金</font>95萬元部分仍矯詞卸責，甚而於本案偵查及審理階
+      許永金95萬元部分仍矯詞卸責，甚而於本案偵查及審理階
       段，對於檢察署及本院之傳喚，置若罔聞，先後於96年8
       月28日、99年1 月19日、100 年2 月22日經臺灣士林地方
       法院檢察署及本院發佈通緝，此有臺灣高等法院被告全國
       通緝紀錄表、通緝書在卷可按，足徵被告欠缺法治觀念，
       無視司法調查程序，犯後態度明顯不佳，經斟酌其所犯行
       使偽造私文書部分，被害人即梁伯恩、陳鴻彬等人均表明
-      不予追究，但其所犯侵占部分，則迄未與證人<font color='red'>許永金</font>達成
+      不予追究，但其所犯侵占部分，則迄未與證人許永金達成
       和解，交互清算，賠償損失，暨被告年僅39歲，正值青壯
-      ，大學畢業之智識程度，利用其師長即證人<font color='red'>許永金</font>之信賴
+      ，大學畢業之智識程度，利用其師長即證人許永金之信賴
       侵占投資款，侵占金額高達95萬元，犯罪手段尚屬平和等
       一切情狀，認被告、辯護人就行使偽造私文書部分求處從
       輕量刑，本院考量上情，認應分別量處如主文所示之刑並
@@ -641,12 +534,12 @@ function openwin(URL,arguments,width,height)
 四、經查：
 （一）被告與證人梁伯恩於95年11月20日確有達成以640 萬元總
       價購買永和中山路房地之協議，於同日交付10萬元並書立
-      訂金收據後，復偕同證人<font color='red'>許永金</font>、梁伯恩前往看屋後，於
-      95年11月22日與證人<font color='red'>許永金</font>簽立房地產投資協議書，約定
+      訂金收據後，復偕同證人許永金、梁伯恩前往看屋後，於
+      95年11月22日與證人許永金簽立房地產投資協議書，約定
       由黃鳳玉擔任登記名義人後，確實有以黃鳳玉名義向淡水
       一信申辦貸款，由淡水一信行員曾木京受理進行對黃鳳玉
       徵信、房地之估價、現場履勘、鑑價等情，業據證人梁伯
-      恩、陳鴻彬、<font color='red'>許永金</font>、曾木京於本院證述明確，並有淡水
+      恩、陳鴻彬、許永金、曾木京於本院證述明確，並有淡水
       一信於100 年1 月31日以淡一信剛字第1000394-1 號函檢
       送黃鳳玉於95年12月1 日開立帳戶之開戶資料，包含有黃
       鳳玉之身分證、健保卡、戶政資料查詢結果（本院卷第17
@@ -658,14 +551,14 @@ function openwin(URL,arguments,width,height)
       淡水一信辦理貸款，但均係表示要以黃鳳玉之名義辦理，
       倘淡水一信核貸撥款，亦係撥入黃鳳玉之帳戶，至為酌然
       。
-（二）復依證人<font color='red'>許永金</font>於本院審理之證述，其確有意與被告共同
+（二）復依證人許永金於本院審理之證述，其確有意與被告共同
       投資永和中山路房地，協議以其妻黃鳳玉為登記名義人，
-      並完成依約給付投資款，顯見被告應無為證人<font color='red'>許永金</font>、黃
+      並完成依約給付投資款，顯見被告應無為證人許永金、黃
       鳳玉向淡水一信詐取貸款之必要，此外，證人曾木京辦理
       永和中山路房地之貸款，亦均以黃鳳玉名義辦理，並請黃
       鳳玉開戶，若淡水一信核貸撥款，衡情應係由黃鳳玉持有
       該筆款項，被告若有詐取貸款之動機，當會有任何騙取黃
-      鳳玉、<font color='red'>許永金</font>保管黃鳳玉帳戶資料之作為，然公訴人並未
+      鳳玉、許永金保管黃鳳玉帳戶資料之作為，然公訴人並未
       提出有此部分證據以為證明，反之，被告係為求取淡水一
       信能儘速確認永和中山路房地之核貸可能性與核貸金額，
       遂未經梁伯恩、梁伯秋、陳鴻彬之同意，在買賣契約書上
@@ -714,7 +607,7 @@ function openwin(URL,arguments,width,height)
 │  │約書後向淡水一信行│                │                        │                  │
 │  │使部分            │                │                        │                  │
 ├─┼─────────┼────────┼────────────┼─────────┤
-│2 │李岑林侵占<font color='red'>許永金</font>依│刑法第三百三十五│處有期徒刑壹年肆月，減為│無                │
+│2 │李岑林侵占許永金依│刑法第三百三十五│處有期徒刑壹年肆月，減為│無                │
 │  │雙方簽立「房地產投│條第一項之普通侵│有期徒刑捌月。          │                  │
 │  │資協議書」所給付支│占罪。          │                        │                  │
 │  │95萬元            │                │                        │                  │
@@ -729,86 +622,12 @@ function openwin(URL,arguments,width,height)
 刑法第335條
 意圖為自己或第三人不法之所有，而侵占自己持有他人之物者，
 處 5 年以下有期徒刑、拘役或科或併科 1 千元以下罰金。
-前項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWSLD\CRIMINAL\10007\05\SLDM10075.00B] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000055&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=55&jdate=1000705&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=55&jdate=1000705&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%e7%b7%9d%2c55%2c20110705%2c2','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4%e7%b7%9d','55','1000705','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="SLD 臺灣士林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許永金">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許永金">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前項之未遂犯罰之。
+[*jrecno*]99,訴緝,55,20110705,2
+[*v_court*]SLD 臺灣士林地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]訴緝
+[*jno*]55
+[*jdate*]1000705
+[*jcheck*]2

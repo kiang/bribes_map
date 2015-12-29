@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-100訴1077</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共34
-											筆 / 現在第21
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001077&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1077%2c20120323%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1077&jdate=1010323&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1077%2c20120323%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1077&jdate=1010323&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1077%2c20120323%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1077','1010323','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,1077</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010323</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">家暴重傷害</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　 100年度訴字第1077號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1077%2c20120323%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1077&jdate=1010323&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001077&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1077%2c20120323%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1077&jdate=1010323&jcheck=1
+[*裁判字號*]100,訴,1077
+[*裁判日期*]1010323
+[*裁判案由*]家暴重傷害
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　 100年度訴字第1077號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　郭○○原名趙○○.
 選任辯護人　鄭世脩律師
@@ -214,16 +107,16 @@ function openwin(URL,arguments,width,height)
     開，發現其上牙齦有撕裂傷，醫師林立倫復於診斷證明書上
     記載其傷勢為「外傷性顱內出血、急性呼吸衰竭、上牙齦撕
     裂傷2 公分」；於當日再緊急將被害人轉往林口長庚醫院，
-    經該院醫師<font color='red'>林建志</font>診療並再加確認，判斷上開骨折、血腫及
+    經該院醫師林建志診療並再加確認，判斷上開骨折、血腫及
     顱內出血是同一次傷害，且顱內出血是新傷，應該是當日發
     生之情形，被害人仍呈現昏迷之植物人狀態，合併呼吸衰竭
     ，需呼吸器長期支持；迄至同年12月4 日凌晨0 時30分許，
     被害人因該外傷性頭部損傷所造成植物人狀態之併發症即支
     氣管肺泡肺炎合併肺泡破壞症引發敗血性休克死亡等情，經
-    證人林立倫、江怡樺、<font color='red'>林建志</font>於偵查中具結後證述在卷（見
+    證人林立倫、江怡樺、林建志於偵查中具結後證述在卷（見
     100 年度他字第1590號卷第62頁正面至第63頁背面、第67頁
     正面至第68頁背面、第107 頁背面至第108 頁正面、第109
-    頁正面），雖林立倫、<font color='red'>林建志</font>2 位醫師就被害人所受枕部顱
+    頁正面），雖林立倫、林建志2 位醫師就被害人所受枕部顱
     骨骨折之傷勢得否定義為「粉碎性」骨折，見解稍有不同，
     然此等關於細部定義上之仁智之見，本院認尚不影響於認定
     被害人確受有枕部顱骨骨折之傷害。此外復有現場照片及被
@@ -245,7 +138,7 @@ function openwin(URL,arguments,width,height)
     ，確有包含枕部顱骨骨折等項目，且被害人送醫急救當時，
     外觀僅有不明顯之頭皮血腫，係經進一步之電腦斷層檢查，
     始確知其受有上開骨折等內部傷害等節，業經證人林立倫、
-    江怡樺、<font color='red'>林建志</font>依其等之醫學專業於偵查中結證明確，且此
+    江怡樺、林建志依其等之醫學專業於偵查中結證明確，且此
     等檢查過程亦查無有何違反常理之處，是被告前揭所辯，本
     院實難憑採。
   (二)就本件案發當時被害人最後所為之活動、被告離開被害人所
@@ -303,7 +196,7 @@ function openwin(URL,arguments,width,height)
     偵查中證述：郭○玲所受上開傷害如係因跌倒之關係造成，
     經過文獻確認後，大概是在超過90公分高度墜落撞擊，始有
     可能發生這樣的傷害等語（見100 年度他字第1590號卷第64
-    頁正面、第65頁正面），而證人<font color='red'>林建志</font>則於偵查中證述：郭
+    頁正面、第65頁正面），而證人林建志則於偵查中證述：郭
     ○玲至該院急診時發現枕部血腫，但沒有流血情形，主要是
     因為沒有明顯撕裂傷，從這樣子的外傷判斷應該是頭部與鈍
     面接觸所造成的傷害；其枕骨骨折，以其目前年齡及活動能
@@ -322,7 +215,7 @@ function openwin(URL,arguments,width,height)
     人席坐墊上面一點，經當庭測量其高度約45公分（見本院卷
     第19頁正面），此等高度亦與上開現場照片所示之情形無甚
     差異，故縱使被害人確有能力攀爬至該床鋪上，並自其上跌
-    落地面，然該床鋪僅約45公分高，且依上開證人<font color='red'>林建志</font>之證
+    落地面，然該床鋪僅約45公分高，且依上開證人林建志之證
     述，被害人無何骨質或體質特殊之情形，其應不至於發生如
     此嚴重之頭部傷害。又被告迭於偵查中及本院準備程序中供
     述：案發當時郭○玲在臥室中之活動區域有鋪地墊，於事後
@@ -377,7 +270,7 @@ function openwin(URL,arguments,width,height)
     死亡原因應屬他殺等語（見100 年度相字第2018號卷第62至
     63頁），本院審酌被害人於本件毆擊發生後，即因上開傷害
     ，長期處於植物人之昏迷狀態中，終不治死亡，依上開證人
-    <font color='red'>林建志</font>於偵查中所證述被害人於植物人狀態中，因合併呼吸
+    林建志於偵查中所證述被害人於植物人狀態中，因合併呼吸
     衰竭，需呼吸器長期支持等語，可知其肺功能極其微弱，且
     被告亦自承被害人從進醫院後就常常感染，可知其免疫力亦
     甚為低落，又綜觀全卷，查無自被害人就醫臥病以來，有何
@@ -451,86 +344,12 @@ function openwin(URL,arguments,width,height)
 使人受重傷者，處5 年以上12年以下有期徒刑。
 犯前項之罪因而致人於死者，處無期徒刑或 7 年以上有期徒刑
 。
-第 1 項之未遂犯罰之。</pre>
-<!-- 原因：[兒童及少年福利法] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTYD\CRIMINAL\10103\23\TYDM1013N.00D] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共34
-											筆 / 現在第21
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001077&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1077%2c20120323%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1077&jdate=1010323&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1077%2c20120323%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1077&jdate=1010323&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1077%2c20120323%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1077','1010323','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="21"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林建志">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林建志">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+第 1 項之未遂犯罰之。
+[*jrecno*]100,訴,1077,20120323,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]1077
+[*jdate*]1010323
+[*jcheck*]1

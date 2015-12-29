@@ -1,123 +1,16 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣宜蘭地方法院-刑-104訴69</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣宜蘭地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000069&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c69%2c20150805%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=69&jdate=1040805&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c69%2c20150805%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=69&jdate=1040805&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c69%2c20150805%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','69','1040805','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,69</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040805</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害自由等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣宜蘭地方法院刑事判決　　　　　　　 104年度訴字第69號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c69%2c20150805%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=69&jdate=1040805&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000069&selectedCrtid=ILD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c69%2c20150805%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=69&jdate=1040805&jcheck=1
+[*裁判字號*]104,訴,69
+[*裁判日期*]1040805
+[*裁判案由*]妨害自由等
+[*裁判全文*]臺灣宜蘭地方法院刑事判決　　　　　　　 104年度訴字第69號
 公　訴　人　臺灣宜蘭地方法院檢察署檢察官
 被　　　告　陳武雄
 上列被告因妨害自由等案件，經檢察官提起公訴（104年度偵緝
 字第32號），本院判決如下：
     主  文
-陳武雄共同犯傷害罪，累犯，處拘役<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾日，如易科罰金，以新
+陳武雄共同犯傷害罪，累犯，處拘役拾日，如易科罰金，以新
 臺幣壹仟元折算壹日。
 被訴剝奪他人行動自由部分，無罪。
     犯 罪 事 實
@@ -132,10 +25,10 @@ function openwin(URL,arguments,width,height)
     年12月27日徒刑執行完畢（構成累犯）。詎仍不知悔改，緣
     友人吳清與周燕翎曾為同居男女朋友，並育有3名非婚生子
     女，吳清不滿周燕翎與林整宏交往，遂夥同陳武雄、陳武雄
-    胞兄<font color='red'>陳長發</font>及另名真實姓名年籍不詳之成年男子，共同基於
+    胞兄陳長發及另名真實姓名年籍不詳之成年男子，共同基於
     傷害之犯意聯絡，於102年5月13日下午6時許，共同前往林
     整宏所經營位於宜蘭縣宜蘭市○○路0段000號之公信力房屋
-    仲介公司內，由吳清、陳武雄、<font color='red'>陳長發</font>徒手，該名真實姓名
+    仲介公司內，由吳清、陳武雄、陳長發徒手，該名真實姓名
     不詳之成年男子則手持鐵棍1支，共同毆打林整宏，致林整
     宏受有背挫傷、軀幹擦傷、肘與前臂及腕擦傷、小腿擦傷及
     小腿挫傷等傷害。
@@ -154,7 +47,7 @@ function openwin(URL,arguments,width,height)
     ，知有第159條第1項不得為證據之情形，而未於言詞辯論終
     結前聲明異議者，視為有前項之同意，刑事訴訟法第159條
     之5第1項、第2項亦定有明文。本件被告於本院準備程序時
-    對證人即告訴人林整宏、證人即共犯吳清、<font color='red'>陳長發</font>及證人周
+    對證人即告訴人林整宏、證人即共犯吳清、陳長發及證人周
     燕翎於警詢、偵訊中之指述，均無意見而不予爭執，且迄至
     言詞辯論終結前亦未聲明異議，本院審酌該等證據資料作成
     時之情況，尚無違法不當之瑕疵，亦無何顯不可信之情形，
@@ -166,39 +59,39 @@ function openwin(URL,arguments,width,height)
     訟法第159條之4之顯有不可信之情況與不得作為證據之情形
     ，故前揭各該證據，均得採為證據，合先敘明。
 二、訊據被告陳武雄固坦認知情吳清跟周燕翎、林整宏間有感情
-    糾紛，且於上開時間、地點與證人吳清、<font color='red'>陳長發</font>及另名成年
+    糾紛，且於上開時間、地點與證人吳清、陳長發及另名成年
     男子同至告訴人林整宏位於宜蘭縣宜蘭市○○路0段000號之
     公信力房屋仲介公司乙情不諱，惟矢口否認有何傷害之犯行
-    ，辯稱：當天吳清原係邀伊與伊胞兄<font color='red'>陳長發</font>及另名叫隊長的
+    ，辯稱：當天吳清原係邀伊與伊胞兄陳長發及另名叫隊長的
     男子來宜蘭談設立臺灣國家衛隊地方黨部一事，後來渠3人
     坐吳清車到林整宏房屋仲介公司，入內後看見林整宏已經喝
-    醉了，吳清有推林整宏一下，林整宏就倒下來，<font color='red'>陳長發</font>去扶
+    醉了，吳清有推林整宏一下，林整宏就倒下來，陳長發去扶
     林整宏，伊有看見隊長拿鐵棍打林整宏的腳好幾下，伊還去
     攔阻。後來吳清看見周燕翎出現，很生氣就打林整宏2巴掌
-    ，但伊都沒有動手，後來伊叫吳清報警處理，就先和胞兄<font color='red'>陳
-    長發</font>離開云云。
+    ，但伊都沒有動手，後來伊叫吳清報警處理，就先和胞兄陳
+    長發離開云云。
 三、經查：證人即告訴人林整宏於警詢、偵查及審理時均指證稱
     ：當日吳清等四人入內後，吳清看見周燕翎很生氣，打了她
     好幾耳光，也用腳踢其腳部，該名不認識的男子又持伸縮鐵
-    棍朝其身上打，被告陳武雄和<font color='red'>陳長發</font>也有打其，在場四個人
+    棍朝其身上打，被告陳武雄和陳長發也有打其，在場四個人
     都有動手對其拳打腳踢，也有人打其巴掌，其受有背挫傷、
     軀幹擦傷、肘與前臂及腕擦傷、小腿擦傷及小腿挫傷等傷勢
     等語（見警卷第9-10頁、偵卷第35-37頁、本院102訴429卷
     第65、68-69頁、本案院卷第70、71頁）。核與證人周燕翎
     亦指稱：吳清入內後看見其在林整宏那裡很生氣，吳清就用
     腳踢林整宏下腹部，陳武雄拉住林整宏不讓其還手，還有打
-    林整宏兩巴掌，<font color='red'>陳長發</font>和另名男子也有動手打林整宏，該名
+    林整宏兩巴掌，陳長發和另名男子也有動手打林整宏，該名
     不認識的男子還有拿鐵棍，其看見在場四人都有動手打林整
     宏。其當天也被吳清打一巴掌等語大致相符（見警卷第14頁
     、偵卷第34頁、102訴429卷第72、74-75頁、本院卷第89頁
     反面、90頁反面）。同案被告吳清亦陳稱：其當天係因為林
-    整宏與其太太周燕翎同居又生了一個小孩，<font color='red'>陳長發</font>、陳武雄
+    整宏與其太太周燕翎同居又生了一個小孩，陳長發、陳武雄
     及另名男子覺得朋友妻不可戲，也打抱不平，渠等才一起到
     宜蘭林整宏的房屋仲介公司找林整宏和周燕翎理論。其入內
     後看見周燕翎很生氣，就大聲罵其2人，用腳踢及打林整宏
     ，打周燕翎一個耳光，其也有看見陳武雄打林整宏兩巴掌等
     語（見警卷第4-5、6頁、偵卷第25-26、37頁、本院卷第66
-    頁反面）。同案被告<font color='red'>陳長發</font>亦陳稱：其與吳清等人去宜蘭找
+    頁反面）。同案被告陳長發亦陳稱：其與吳清等人去宜蘭找
     林整宏，吳清一進去就罵林整宏，罵的很大聲，後來又看見
     周燕翎，吳清就打林整宏，又打周燕翎。後來隊長也有打林
     整宏，隊長手拿一支伸縮棒，該伸縮棒是隊長帶去的等語（
@@ -211,19 +104,19 @@ function openwin(URL,arguments,width,height)
     9頁、92頁）。綜合前揭事證，足證被告陳武雄當日與吳清
     等人同至宜蘭找林整宏時即已知情係要處理吳清、林整宏及
     周燕翎間之感情糾紛一事，且同行之自稱隊長之男子亦有攜
-    帶伸縮鐵棍並毆打林整宏，被告陳武雄亦有與吳清、<font color='red'>陳長發
-    </font>共同毆打告訴人林整宏，此外，並有告訴人林整宏當日就醫
+    帶伸縮鐵棍並毆打林整宏，被告陳武雄亦有與吳清、陳長發
+    共同毆打告訴人林整宏，此外，並有告訴人林整宏當日就醫
     之陽明大學附設醫院診斷證明書乙紙在卷可證（見警卷第23
-    頁），事證明確，被告陳武雄有與共犯吳清、<font color='red'>陳長發</font>及另名
+    頁），事證明確，被告陳武雄有與共犯吳清、陳長發及另名
     成年男子共犯傷害之犯行堪以認定，自應依法論科。
 四、核被告陳武雄所為，係犯刑法第277條第1項之傷害罪。被告
-    與吳清、<font color='red'>陳長發</font>及另名真實姓名年籍不詳之成年男子間，就
+    與吳清、陳長發及另名真實姓名年籍不詳之成年男子間，就
     上開犯行，有犯意聯絡及行為分擔，為共同正犯。又被告有
     事實欄所載前案暨執行完畢紀錄，有卷附臺灣高等法院被告
     前案紀錄表可按，於受有期徒刑之執行完畢後，5年內故意
     再犯本件有期徒刑以上之罪，為累犯，應依法加重其刑。爰
     審酌被告陳武雄因友人吳清與周燕翎、林整宏間有感情糾紛
-    ，即受吳清之邀夥同胞兄<font color='red'>陳長發</font>及另名男子前往宜蘭與告訴
+    ，即受吳清之邀夥同胞兄陳長發及另名男子前往宜蘭與告訴
     人談判，共同以上揭方式傷害告訴人，考量其犯罪動機、目
     的及手段，因此造成告訴人受有前揭傷勢，暨審酌被告初中
     肄業之智識程度、以在中央市場賣魚為業，每月收入約新台
@@ -233,7 +126,7 @@ function openwin(URL,arguments,width,height)
     訴人所用之鐵棍1支，並未扣案，復查無證據證明為被告等
     人所有之物，爰不另為沒收之諭知，附此敘明。
 貳、無罪部分：
-一、公訴意旨另以：被告陳武雄與吳清、<font color='red'>陳長發</font>及真實姓名年籍
+一、公訴意旨另以：被告陳武雄與吳清、陳長發及真實姓名年籍
     不詳之成年男子共同基於剝奪他人行動自由之犯意聯絡，於
     102年5月13日下午6時許，至林整宏所經營位於宜蘭縣宜蘭
     市○○路0段000號之公信力房屋仲介公司，以將該公司鐵捲
@@ -276,8 +169,8 @@ function openwin(URL,arguments,width,height)
     有留人可以進出的縫，且旁邊的玻璃小門也沒有關，事後也
     是林整宏報警，若渠等有妨害林整宏行動自由，其如何能報
     警等語。
-四、經查：證人林整宏於警詢、偵查及另案審理（被告吳清及<font color='red'>陳
-    長發</font>妨害自由案）時雖指稱：當天吳清與被告陳武雄等4人
+四、經查：證人林整宏於警詢、偵查及另案審理（被告吳清及陳
+    長發妨害自由案）時雖指稱：當天吳清與被告陳武雄等4人
     一進來後，吳清就將鐵捲門開關按下全部關上，又將旁邊的
     小玻璃門鎖上，不讓其他人進來，也不讓其接聽電話，其連
     要站起來都不行，之後又強押其上二樓云云（見警卷第8-9
@@ -293,7 +186,7 @@ function openwin(URL,arguments,width,height)
     之大鐵捲門內係玻璃櫥窗，本即無法進入，旁邊之小鐵捲門
     及內設小玻璃門才是可供出入之通道，堪以認定。再佐以同
     案被告吳清證稱：當時其有將大鐵捲門留一個門縫等語（見
-    警卷第5頁、本院卷第68頁）。同案被告<font color='red'>陳長發</font>亦稱：當天
+    警卷第5頁、本院卷第68頁）。同案被告陳長發亦稱：當天
     鐵捲門好像放一半下來等語（見本院卷第69頁反面）。被告
     陳武雄亦迭稱：鐵捲門是吳清叫隊長把鐵捲門關下來，但沒
     有全關，還有留人可以彎腰進出的縫，旁邊一個玻璃小門也
@@ -303,8 +196,8 @@ function openwin(URL,arguments,width,height)
     稱小鐵門沒有拉下，也不記得小玻璃門有無鎖上等語，其餘
     現場同案被告均僅陳稱大鐵捲門有無放下等語，是並無其他
     事證佐證證人林整宏指述供進出之小玻璃門被鎖上等語為真
-    。再稽之證人林整宏復自陳：其有邀同被告陳武雄、<font color='red'>陳長發
-    </font>及另名不知名男子一同上2樓客廳喝茶，因為其手機放在2樓
+    。再稽之證人林整宏復自陳：其有邀同被告陳武雄、陳長發
+    及另名不知名男子一同上2樓客廳喝茶，因為其手機放在2樓
     小茶几上，其到2樓後坐在小茶几旁邊，陳武雄等人坐在附
     近，其就藉機上廁所到頂樓打電話報警等語，亦與其前稱係
     被強押上二樓云云不符，亦有可疑。證人周燕翎亦陳稱：當
@@ -340,86 +233,12 @@ function openwin(URL,arguments,width,height)
 傷害人之身體或健康者，處 3 年以下有期徒刑、拘役或 1 千元
 以下罰金。
 犯前項之罪因而致人於死者，處無期徒刑或 7 年以上有期徒刑
-；致重傷者，處 3 年以上 10 年以下有期徒刑。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWILD\CRIMINAL\10408\05\ILDM10485.006] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000069&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c69%2c20150805%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=69&jdate=1040805&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c69%2c20150805%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=69&jdate=1040805&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c69%2c20150805%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','69','1040805','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="ILD 臺灣宜蘭地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳長發">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳長發">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+；致重傷者，處 3 年以上 10 年以下有期徒刑。
+[*jrecno*]104,訴,69,20150805,1
+[*v_court*]ILD 臺灣宜蘭地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]69
+[*jdate*]1040805
+[*jcheck*]1

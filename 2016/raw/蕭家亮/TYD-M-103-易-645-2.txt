@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-103易645</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000645&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c645%2c20140829%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=645&jdate=1030829&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%98%93%2c645%2c20140829%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=645&jdate=1030829&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e6%98%93%2c645%2c20140829%2c2','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e6%98%93','645','1030829','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,易,645</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030829</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害自由</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　103年度易字第645號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c645%2c20140829%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=645&jdate=1030829&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000645&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e6%98%93%2c645%2c20140829%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=645&jdate=1030829&jcheck=2
+[*裁判字號*]103,易,645
+[*裁判日期*]1030829
+[*裁判案由*]妨害自由
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　103年度易字第645號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　林定凱
 上列被告因妨害自由案件，經檢察官提起公訴（102 年度偵字第
@@ -122,8 +15,8 @@ function openwin(URL,arguments,width,height)
     理  由
 一、公訴意旨略以：被告林定凱於民國102 年5 月1 日上午10時
     32分許，駕駛車牌號碼00-0000 號自用小客車，在桃園縣龍
-    潭鄉○○路000 號國軍桃園總醫院收費亭前，與告訴人<font color='red'>蕭家
-    亮</font>所駕駛車牌號碼00-0000 號自用小客車發生行車糾紛，而
+    潭鄉○○路000 號國軍桃園總醫院收費亭前，與告訴人蕭家
+    亮所駕駛車牌號碼00-0000 號自用小客車發生行車糾紛，而
     搖窗示意要求告訴人停車處理，惟告訴人不予理會而繼續往
     停車場內行駛，被告遂基於強制之犯意，自告訴人上開車輛
     後方繞到其前方將其攔停，阻止告訴人上開車輛前行，以此
@@ -144,12 +37,12 @@ function openwin(URL,arguments,width,height)
     未能發現相當證據，或證據不足以證明，自不能以推測或擬
     制之方法，以為裁判基礎，最高法院20年上字第958 號、40
     年臺上字第86號分別著有判例，可資參考。
-三、公訴人認為被告林定凱<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E44F2A0A00000040.GIF" />犯妨害自由罪嫌，無非係以告訴人
-    <font color='red'>蕭家亮</font>於警詢、偵查中之指訴、證人曹書雅於偵查中之證述
+三、公訴人認為被告林定凱犯妨害自由罪嫌，無非係以告訴人
+    蕭家亮於警詢、偵查中之指訴、證人曹書雅於偵查中之證述
     、被害人蕭○天之驗傷診斷證明書、道路交通事故現場圖、
     道路交通事故調查報告表(一)、(二)、案發現場暨被害人蕭○天
     受傷採證照片等證據為主要論據，惟訊據被告堅詞否認有何
-    強制犯行，辯稱：案發前對方（即告訴人<font color='red'>蕭家亮</font>，下同）所
+    強制犯行，辯稱：案發前對方（即告訴人蕭家亮，下同）所
     駕駛自用小客車之右側後照鏡擦撞我所駕駛自用小客車之左
     側後照鏡，我遂將車窗搖下示意對方停車，但對方卻繼續向
     前行駛，我又把手伸出車窗外拍打對方車輛副駕駛座及右後
@@ -162,7 +55,7 @@ function openwin(URL,arguments,width,height)
     無義務之事之意思等語（見偵字卷第8 、41、64至65頁、審
     易字卷第19頁反面至第20頁、易字卷第21頁正、反面、第24
     頁反面、第25頁反面至第26頁），經查：
- (一) 就案發之過程，證人即<font color='red'>蕭家亮</font>於警詢中證稱：案發前我在上
+ (一) 就案發之過程，證人即蕭家亮於警詢中證稱：案發前我在上
     開地點之收費亭前排隊等收費，林定凱駕駛自用小客車從我
     右側駛入，欲插隊切入我前方，我不讓他過，所以我車輛右
     後照鏡，擦撞到林定凱所駕駛車輛之左後照鏡（下稱第一次
@@ -180,37 +73,37 @@ function openwin(URL,arguments,width,height)
     我們到前面停車場那邊談，我進入醫院院區後便放慢速度想
     找車位，但之後林定凱硬靠過來，駕車自我車輛的左側超越
     ，我避煞不及，就發生第二次碰撞等語（見偵字卷第41頁、
-    易字卷第14至18頁），證人即案發時<font color='red'>蕭家亮</font>車上乘客曹書雅
-    於偵訊時證稱：<font color='red'>蕭家亮</font>於102 年5 月某日駕駛自用小客車在
+    易字卷第14至18頁），證人即案發時蕭家亮車上乘客曹書雅
+    於偵訊時證稱：蕭家亮於102 年5 月某日駕駛自用小客車在
     國軍桃園總醫院排隊準備要進收費亭，林定凱駕車從一旁想
     要擠進來，兩車幾乎貼在一起，但我沒感覺有碰撞，且因當
-    時車子還在行駛中，<font color='red'>蕭家亮</font>好像沒理他，之後我們的車子就
+    時車子還在行駛中，蕭家亮好像沒理他，之後我們的車子就
     先進去醫院院區，林定凱的車跟著進來，他逼車逼得很近，
     我們往前開要找車位停而不想理他，但他突然從左邊雙黃線
     超車、攔車，我們急速煞車，兩車就撞上了等語（見偵字卷
-    第74至75頁），證人<font color='red'>蕭家亮</font>就被告是否有在第一次碰撞後，
+    第74至75頁），證人蕭家亮就被告是否有在第一次碰撞後，
     以拍打其車窗之方式示意其停車處理及其是否有告知被告到
     前方停車場處理第一次碰撞之行車糾紛等節，所證前後不一
-    ，併參前開證人曹書雅證稱證人<font color='red'>蕭家亮</font>於第一次碰撞後並未
-    理會被告一情，則證人<font color='red'>蕭家亮</font>於偵訊及審理時所證，其於雙
+    ，併參前開證人曹書雅證稱證人蕭家亮於第一次碰撞後並未
+    理會被告一情，則證人蕭家亮於偵訊及審理時所證，其於雙
     方發生第一次碰撞後，有搖下車窗告知被告可前往醫院停車
     場處理此糾紛乙節，即屬有疑，而被告歷次辯稱：發生第一
     次碰撞時後，我想要對方停車談賠償問題，以搖下車窗、拍
-    打<font color='red'>蕭家亮</font>車輛副駕駛座及右後車窗之方式，示意<font color='red'>蕭家亮</font>停車
+    打蕭家亮車輛副駕駛座及右後車窗之方式，示意蕭家亮停車
     ，但對方均不予理會，也沒有搖下車窗說要處理此事，就繼
     續直行進入醫院內，我才又閃大燈請他停車，之後對方有減
     速，我認為他會停下來才會超車到他前方等語（見偵字卷第
     8 、41、64至65頁、審易字卷第19頁反面至第20頁、易字卷
     第21頁正、反面、第24頁反面、第25頁反面至第26頁），自
     非全然不可採信。稽上，被告雖於案發當日駕駛前開自用小
-    客車，在前開地點，超越證人<font color='red'>蕭家亮</font>所駕駛之自用小客車，
-    致證人<font color='red'>蕭家亮</font>駕駛自用小客車避煞不及，其車輛左前方保險
-    桿撞擊被告所駕駛車輛之右後門而停車，然依前開證人<font color='red'>蕭家
-    亮</font>於警詢時、曹書雅於偵訊中之證詞及被告歷次所供，本案
-    案發前，被告與證人<font color='red'>蕭家亮</font>確實有發生第一次碰撞而生行車
-    糾紛，且證人<font color='red'>蕭家亮</font>並未於第一時間停留現場處理此事，而
+    客車，在前開地點，超越證人蕭家亮所駕駛之自用小客車，
+    致證人蕭家亮駕駛自用小客車避煞不及，其車輛左前方保險
+    桿撞擊被告所駕駛車輛之右後門而停車，然依前開證人蕭家
+    亮於警詢時、曹書雅於偵訊中之證詞及被告歷次所供，本案
+    案發前，被告與證人蕭家亮確實有發生第一次碰撞而生行車
+    糾紛，且證人蕭家亮並未於第一時間停留現場處理此事，而
     係於進入醫院院區後始放慢速度準備停車，被告見狀遂駕車
-    往證人<font color='red'>蕭家亮</font>之車輛左側超車，難認被告上開行為有何強暴
+    往證人蕭家亮之車輛左側超車，難認被告上開行為有何強暴
     手段，而妨害告訴人離去之情形。
  (二) 次按汽車駕駛人駕駛汽車肇事，無人受傷或死亡而未依規定
     處置者，處新臺幣一千元以上三千元以下罰鍰；逃逸者，並
@@ -226,25 +119,25 @@ function openwin(URL,arguments,width,height)
     逃逸之處罰規定，其目的既在於維護交通安全，加強救護，
     減少被害人之死傷，並促使駕駛人肇事後能對被害人即時救
     護；則汽車駕駛人駕車肇事後，依照前述規定即有「停留現
-    場」及「照顧救護受傷之被害人」等義務。查證人<font color='red'>蕭家亮</font>既
+    場」及「照顧救護受傷之被害人」等義務。查證人蕭家亮既
     明知與被告發生行車糾紛，卻未能停留現場以釐清雙方肇事
     責任及有無人員傷亡，反而逕自駕車離去等情，業如前述（
-    見理由欄三(一)），則本案被告與證人<font color='red'>蕭家亮</font>發生第一次碰撞
-    ，雖無人受傷或死亡，惟證人<font color='red'>蕭家亮</font>駕車與被告發生行車糾
+    見理由欄三(一)），則本案被告與證人蕭家亮發生第一次碰撞
+    ，雖無人受傷或死亡，惟證人蕭家亮駕車與被告發生行車糾
     紛後，理應停留現場，以釐清是否確實肇事及有無致他人受
     傷等情，然告訴人僅以個人認為是被告違規在先，現場無人
     傷亡且雙方車輛並無毀損之臆測（見易字卷第15頁反面至第
     16頁），即逕自駕車離開事故現場之舉，尚非維護交通事故
     受害人生命身體安全，以及責令汽車駕駛人善盡救助傷者之
     法律規範所能容許者。再觀諸當日事件發展脈絡，足見駕車
-    與證人<font color='red'>蕭家亮</font>之車輛發生第一次碰撞後，被告促請其下車處
-    理此糾紛，而證人<font color='red'>蕭家亮</font>並未留在現場，反繼續直行，而於
-    進入醫院院區後減速，被告見狀認為證人<font color='red'>蕭家亮</font>已準備停車
-    ，遂自證人<font color='red'>蕭家亮</font>左側超車，究其目的當有為求告訴人停留
+    與證人蕭家亮之車輛發生第一次碰撞後，被告促請其下車處
+    理此糾紛，而證人蕭家亮並未留在現場，反繼續直行，而於
+    進入醫院院區後減速，被告見狀認為證人蕭家亮已準備停車
+    ，遂自證人蕭家亮左側超車，究其目的當有為求告訴人停留
     現場，以釐清是否肇事，堪認被告前開行為，其主觀上係基
-    於認定其與證人<font color='red'>蕭家亮</font>確有發生行車糾紛，故欲要求證人<font color='red'>蕭
-    家亮</font>應留在現場處理以釐清肇事責任，而非出於妨害證人<font color='red'>蕭
-    家亮</font>行使權利所致，自難認被告有強制罪之主觀犯意，被告
+    於認定其與證人蕭家亮確有發生行車糾紛，故欲要求證人蕭
+    家亮應留在現場處理以釐清肇事責任，而非出於妨害證人蕭
+    家亮行使權利所致，自難認被告有強制罪之主觀犯意，被告
     前開所辯，應堪採信。
  (三) 綜上所述，被告前開行為，客觀上未有以何強暴方式妨害告
     訴人行使權利之情形，主觀上亦無妨害告訴人權利行使之犯
@@ -258,8 +151,8 @@ function openwin(URL,arguments,width,height)
 四、公訴不受理部分：
  (一) 公訴意旨略以：被告林定凱於102 年5 月1 日上午10時32分
     許，在桃園縣龍潭鄉○○路000 號國軍桃園總醫院之停車場
-    外，因其所駕駛車牌號碼00-0000 號自用小客車與告訴人<font color='red'>蕭
-    家亮</font>所駕駛車牌號碼00-0000 號自用小客車發生行車糾紛，
+    外，因其所駕駛車牌號碼00-0000 號自用小客車與告訴人蕭
+    家亮所駕駛車牌號碼00-0000 號自用小客車發生行車糾紛，
     而搖窗示意要求告訴人停車處理，惟告訴人不予理會而繼續
     往停車場內行駛，被告遂自告訴人上開車輛後方繞到其前方
     將其攔停，阻止告訴人上開車輛前行，而告訴人因煞車不及
@@ -280,16 +173,16 @@ function openwin(URL,arguments,width,height)
     係指未經合法告訴之義，包括依法不得告訴及告訴不合法。
     經查：
   1.本件被害人蕭○天為99年4 月14日生，於案發之102 年5 月
-    1 日為未滿12歲之兒童，又其父母<font color='red'>蕭家亮</font>、曹書雅於其出生
-    時並無婚姻關係，其於99年6 月10日被<font color='red'>蕭家亮</font>認領，<font color='red'>蕭家亮
-    </font>及曹書雅於101 年9 月27日約定由母曹書雅行使及負擔對被
+    1 日為未滿12歲之兒童，又其父母蕭家亮、曹書雅於其出生
+    時並無婚姻關係，其於99年6 月10日被蕭家亮認領，蕭家亮
+    及曹書雅於101 年9 月27日約定由母曹書雅行使及負擔對被
     害人蕭○天之權利及義務等情，有被害人蕭○天個人戶籍資
-    料查詢結果1 份在卷可稽（見易字卷第30頁），且經其父<font color='red'>蕭
-    家亮</font>到庭陳述無誤，則被害人蕭○天之法定代理人應為其母
+    料查詢結果1 份在卷可稽（見易字卷第30頁），且經其父蕭
+    家亮到庭陳述無誤，則被害人蕭○天之法定代理人應為其母
     曹書雅，堪以認定。
-  2.又本件過失傷害案件，係由被害人蕭○天之父<font color='red'>蕭家亮</font>提出告
+  2.又本件過失傷害案件，係由被害人蕭○天之父蕭家亮提出告
     訴，有102 年5 月1 日之警詢筆錄1 份存卷可參（見偵字卷
-    第9 頁），且據<font color='red'>蕭家亮</font>到庭陳稱：我在警詢為蕭○天提出告
+    第9 頁），且據蕭家亮到庭陳稱：我在警詢為蕭○天提出告
     訴時，並沒有問過曹書雅是否要提告，而我與曹書雅都認為
     我是孩子的父親，所以我有權告訴等語（見易字卷第46頁反
     面至第47頁反面），惟其並非被害人蕭○天之法定代理人，
@@ -307,86 +200,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
 逕送上級法院」。
                                 書記官  陳亭竹
-中    華    民    國   103    年    9     月    3     日</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTYD\CRIMINAL\10308\29\TYDM1038T.07R] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000645&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c645%2c20140829%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=645&jdate=1030829&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%98%93%2c645%2c20140829%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=645&jdate=1030829&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e6%98%93%2c645%2c20140829%2c2','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e6%98%93','645','1030829','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蕭家亮">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蕭家亮">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   103    年    9     月    3     日
+[*jrecno*]103,易,645,20140829,2
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]易
+[*jno*]645
+[*jdate*]1030829
+[*jcheck*]2

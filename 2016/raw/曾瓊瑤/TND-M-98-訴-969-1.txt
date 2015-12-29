@@ -1,128 +1,21 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-98訴969</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000969&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c969%2c20091030%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=969&jdate=981030&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c969%2c20091030%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=969&jdate=981030&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c969%2c20091030%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','969','981030','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,969</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">981030</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　 98年度訴字第969號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c969%2c20091030%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=969&jdate=981030&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000969&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c969%2c20091030%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=969&jdate=981030&jcheck=1
+[*裁判字號*]98,訴,969
+[*裁判日期*]981030
+[*裁判案由*]違反毒品危害防制條例
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　 98年度訴字第969號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　丙○○
 選任辯護人　劉豐州律師
-　　　　　　<font color='red'>曾瓊瑤</font>律師
+　　　　　　曾瓊瑤律師
 上列被告因違反毒品危害防制條例案件，經檢察官提起公訴（98
 年度偵字第7255號），本院判決如下：
     主  文
-丙○○販賣第三級毒品，共<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾肆罪，各處有期徒刑貳年捌月，
-扣案如附表三所示之物均沒收。販賣第三級毒品<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾肆罪所得共
+丙○○販賣第三級毒品，共拾肆罪，各處有期徒刑貳年捌月，
+扣案如附表三所示之物均沒收。販賣第三級毒品拾肆罪所得共
 新台幣貳萬玖仟陸佰元沒收之，如全部或一部不能沒收時，以其
-財產抵償之；又轉讓第三級毒品，共拾肆罪，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月
+財產抵償之；又轉讓第三級毒品，共拾肆罪，各處有期徒刑月
 ，扣案如附表三編號三、四所示之物，均沒收。應執行有期徒刑
 陸年，扣案如附表三所示之物，均沒收。販賣第三級毒品所得共
 新台幣貳萬玖仟陸佰元沒收之，如全部或一部不能沒收時，以其
@@ -233,14 +126,14 @@ function openwin(URL,arguments,width,height)
       以及累犯加重、自首減輕暨其他法定加減原因（如身分加
       減）與加減比例等一切情形，本於統一性及整體性原則，
       綜其全部罪刑之結果而為比較。
-    (2)又被告行為後毒品危害防制條例修正與本案有關，其中<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />
+    (2)又被告行為後毒品危害防制條例修正與本案有關，其中
       第4條第3項修正前規定：「製造、運輸、販賣第三級毒品
       者，處五年以上有期徒刑，得併科新臺幣五百萬元以下罰
       金。」，修正後規定為：「製造、運輸、販賣第三級毒品
       者，處五年以上有期徒刑，得併科新臺幣五百萬元以下罰
       金。」，修正後之規定，已將併科罰金之數額由五百萬元
       以下，提高為七百萬元以下，乃加重罰金刑部分。此部分
-      對被告較為不利。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />修正後之第17條第2項規定「犯第四
+      對被告較為不利。修正後之第17條第2項規定「犯第四
       條至第八條之罪於偵查及審判中均自白者，減輕其刑」，
       該條例修正前之第17條則未有此規定，查被告本案販賣、
       轉讓第三級毒品行為經警查獲後，於偵查及審判中就附表
@@ -882,98 +775,98 @@ function openwin(URL,arguments,width,height)
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 1  │98年1月21日 │被告丙○○位於臺南│黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │4、5時許    │市○區○○街114巷 │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │10號之6住處樓下   │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │10號之6住處樓下   │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 2  │98年1月23日 │黃彰龍位於臺南市中│黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │2、3時許    │華東路2段48巷17弄 │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │40號住處樓下      │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │40號住處樓下      │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 3  │98年2月3日  │臺南市○○路與府前│黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │22、23時許  │路口              │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │                  │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │                  │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 4  │98年2月20日 │被告丙○○位於臺南│黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │2、3時許    │市○區○○街114巷 │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │10號之6住處樓下   │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │10號之6住處樓下   │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 5  │98年2月22日 │同上              │黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │22、23時許  │                  │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │                  │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │                  │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 6  │98年2月24日 │臺南市○○○路附近│黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │0、1時許    │某撞球店          │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │                  │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │                  │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 7  │98年3月12日 │臺南市○○路與林森│黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │23、24時許  │路口              │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │                  │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │                  │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 8  │98年3月27日 │臺南市○○路附近  │黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │23、24時許  │                  │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │                  │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │                  │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │ 9  │98年4月3日  │臺南市○○路與中正│黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │23、24時許  │路口之「麥當勞」前│          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │                  │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │                  │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │10  │98年4月6日  │臺南市○○路附近  │黃彰龍    │含愷他命成分│丙○○轉讓第三│黃彰龍持用  │
 │    │2、3時許    │                  │          │之香菸1支   │級毒品，處有期│0000000000號│
-│    │            │                  │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │                  │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │11  │98年3月6日  │蘇谹任位於臺南市義│蘇谹任    │含愷他命成分│丙○○轉讓第三│蘇谹任持用  │
 │    │19、20時許  │安街100巷13號住處 │          │之香菸3支   │級毒品，處有期│0000000000號│
-│    │            │頂樓              │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │頂樓              │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │12  │98年3月27日 │被告丙○○位於臺南│蘇谹任    │含愷他命成分│丙○○轉讓第三│蘇谹任持用  │
 │    │3、4時許    │市○區○○街114巷 │          │之香菸3支   │級毒品，處有期│0000000000號│
-│    │            │10號之6住處頂樓   │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│行動電話門號│
+│    │            │10號之6住處頂樓   │          │            │徒刑月。扣案│行動電話門號│
 │    │            │                  │          │            │如附表三編號三│撥打丙○○持│
 │    │            │                  │          │            │、四所示之物均│用0000000000│
 │    │            │                  │          │            │沒收。        │號行動電話  │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │13  │98年3月上旬 │被告丙○○位於臺南│陳家煒    │含愷他命成分│丙○○轉讓第三│陳家煒以家中│
 │    │某日        │市○區○○街114巷 │          │之香菸1支   │級毒品，處有期│室內電話撥打│
-│    │            │10號之6住處頂樓   │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│丙○○持用09│
+│    │            │10號之6住處頂樓   │          │            │徒刑月。扣案│丙○○持用09│
 │    │            │                  │          │            │如附表三編號三│00000000號行│
 │    │            │                  │          │            │、四所示之物均│動電話      │
 │    │            │                  │          │            │沒收。        │            │
 ├──┼──────┼─────────┼─────┼──────┼───────┼──────┤
 │14  │98年3月下旬 │被告丙○○位於臺南│陳家煒    │含愷他命成分│丙○○轉讓第三│陳家煒以家中│
 │    │某日        │市○區○○街114巷 │          │之香菸1支   │級毒品，處有期│室內電話撥打│
-│    │            │10號之6住處頂樓   │          │            │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案│丙○○持用09│
+│    │            │10號之6住處頂樓   │          │            │徒刑月。扣案│丙○○持用09│
 │    │            │                  │          │            │如附表三編號三│00000000號行│
 │    │            │                  │          │            │、四所示之物均│動電話      │
 │    │            │                  │          │            │沒收。        │            │
@@ -988,13 +881,13 @@ function openwin(URL,arguments,width,height)
 │    │(1)編號1至24、29至32：經檢視均為乳白 │鑑字第098007│
 │    │  色塊狀物，外觀型態均相似，隨機抽取│2797號鑑定書│
 │    │  編號3鑑定。                       │            │
-│    │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />驗前總毛重33.63公克【包裝塑膠袋 │            │
+│    │  驗前總毛重33.63公克【包裝塑膠袋 │            │
 │    │    總重約6.16公克】。              │            │
-│    │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />編號3：淨重0.98公克，取0.15公克 │            │
+│    │  編號3：淨重0.98公克，取0.15公克 │            │
 │    │    鑑定用罄，餘0.83公克；檢出三級毒│            │
 │    │    品〝愷他命〞（ketamine，又稱K他 │            │
 │    │    命）成分；純度約98%。           │            │
-│    │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />依據抽測純度值，推估1至24、29至 │            │
+│    │  依據抽測純度值，推估1至24、29至 │            │
 │    │    32均含愷他命之驗前總純值淨重約  │            │
 │    │    26.92公克。                     │            │
 │    │【上開編號(1)驗後淨重共計：27.32公克 │            │
@@ -1003,9 +896,9 @@ function openwin(URL,arguments,width,height)
 │    │(2)編號25至28、33至47：經檢視均為白色│            │
 │    │  晶體，外觀型態均相似，隨機抽取編號│            │
 │    │  43鑑定。                          │            │
-│    │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />驗前總毛重22.94公克【包裝塑膠袋 │            │
+│    │  驗前總毛重22.94公克【包裝塑膠袋 │            │
 │    │    總重約4.18公克】。              │            │
-│    │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />編號43，淨重1.02公克，取0.13公克│            │
+│    │  編號43，淨重1.02公克，取0.13公克│            │
 │    │    鑑定用罄，餘0.89公克；檢出三級毒│            │
 │    │    品〝愷他命〞（ketamine，又稱K他 │            │
 │    │    命）成分。                      │            │
@@ -1145,86 +1038,11 @@ function openwin(URL,arguments,width,height)
 │    │17、18時許  │路370號4樓住處樓下  │每小包700元 │          │附表一    │
 │    │            │                    │            │          │編號42    │
 └──┴──────┴──────────┴──────┴─────┴─────┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWTND\CRIMINAL\9810\30\TNDM98AU.075] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000969&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c969%2c20091030%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=969&jdate=981030&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c969%2c20091030%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=969&jdate=981030&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c969%2c20091030%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','969','981030','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="曾瓊瑤">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="曾瓊瑤">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]98,訴,969,20091030,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]969
+[*jdate*]981030
+[*jcheck*]1

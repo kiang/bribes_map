@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-104選訴3</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000003&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e9%81%b8%e8%a8%b4&jno=3&jdate=1040708&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e9%81%b8%e8%a8%b4&jno=3&jdate=1040708&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e9%81%b8%e8%a8%b4','3','1040708','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,選訴,3</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040708</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反公職人員選舉罷免法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　104年度選訴字第3號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e9%81%b8%e8%a8%b4&jno=3&jdate=1040708&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000003&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e9%81%b8%e8%a8%b4&jno=3&jdate=1040708&jcheck=1
+[*裁判字號*]104,選訴,3
+[*裁判日期*]1040708
+[*裁判案由*]違反公職人員選舉罷免法
+[*裁判全文*]臺灣基隆地方法院刑事判決　　　　　　　104年度選訴字第3號
 公　訴　人　臺灣基隆地方法院檢察署檢察官
 被　　　告　吳坤泰
 選任辯護人　簡翊玹律師
@@ -149,7 +42,7 @@ function openwin(URL,arguments,width,height)
     ○○○○○○○○區○○○○○○○○○○○號兩光）等人
     參加餐宴，並請施勇光覓人共同參加，施勇光乃覓得同具有
     七堵區議員投票權之周天送及簡瑞龍參加；李學博則邀請具
-    有七堵區議員投票權之廖戊銘及<font color='red'>許淑華</font>等人參加；白淑敏則
+    有七堵區議員投票權之廖戊銘及許淑華等人參加；白淑敏則
     係聽聞吳桐茂於上開餐廳舉辦選舉餐會，而與友人蔡市共同
     參加，前開受邀之人除廖戊銘、白淑敏於前往參與前已知悉
     系爭餐宴係為吳桐茂競選七堵區議員意欲拉票所舉辦，而基
@@ -159,7 +52,7 @@ function openwin(URL,arguments,width,height)
     坤泰、陳明坤、蔡承龍、洪乾峰、李學博、姚詹喜、胡昭欽
     、朱盛煌、高子昌、劉崇漢等金蘭會成員均到場外，上開受
     邀之蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、
-    <font color='red'>許淑華</font>、白淑敏及其他具有或不具有七堵區議員投票權之人
+    許淑華、白淑敏及其他具有或不具有七堵區議員投票權之人
     並陸續前往，依桌上所置邀請人「坤泰」、「明坤」、「蔡
     承龍」、「洪乾峰」及「李學博」、「兩光」等桌次入坐，
     且開始飲宴，期間，因吳桐茂在「甕仔雞餐廳」舉辦選舉餐
@@ -168,26 +61,26 @@ function openwin(URL,arguments,width,height)
     人，該2 桌次則係由洪乾峰支付費用。同日晚間6 時55分許
     ，吳桐茂在穿著競選背心的競選團隊陪同下，在甕仔雞餐廳
     內，逐桌敬酒，表示已參選七堵區議員，要求在場接受招待
-    之蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、<font color='red'>許
-    淑華</font>與白淑敏等8 人及其餘在場有選舉權人投票支持，而以
+    之蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、許
+    淑華與白淑敏等8 人及其餘在場有選舉權人投票支持，而以
     免費餐飲服務之不正利益，對前開包括蔡正宗、蔡碧霞、施
-    勇光、簡瑞龍、周天送、廖戊銘、<font color='red'>許淑華</font>及白淑敏等8 人在
+    勇光、簡瑞龍、周天送、廖戊銘、許淑華及白淑敏等8 人在
     內之有投票權人，行求為投票權之一定行使，至此蔡正宗、
-    蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、<font color='red'>許淑華</font>及白淑
+    蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、許淑華及白淑
     敏（廖戊銘、白淑敏赴宴前已知悉）等有投票權人，乃因而
     知悉前開餐飲之目的係吳坤泰、陳明坤、吳桐茂、蔡承龍、
     洪乾峰、李學博等人欲以餐飲之不正利益行求而約使其投票
     權為一定行使，而基於收受不正利益之意思繼續參與宴飲（
-    蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、<font color='red'>許淑
-    華</font>及白淑敏等人涉犯收受賄賂罪部分，應由檢察官另案偵查
+    蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、許淑
+    華及白淑敏等人涉犯收受賄賂罪部分，應由檢察官另案偵查
     ）。同日晚間7 時30分許，不知情之基隆市市長候選人謝立
     功在吳桐茂的陪同下，到達上開餐廳，逐桌敬酒拜票，並於
     同日晚間7 時41分許離開。嗣用餐完畢後，由吳坤泰於同日
     晚間8 時40分許，以現金支付22桌次合菜費用77,000元、飲
     料費用20,410元，合計97,410元。吳坤泰、陳明坤、吳桐茂
     、蔡承龍、洪乾峰、李學博即以此方式，對於上開有投票權
-    之蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、<font color='red'>許
-    淑華</font>、白淑敏及其餘到場有投票權之人，交付免費餐飲之不
+    之蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、許
+    淑華、白淑敏及其餘到場有投票權之人，交付免費餐飲之不
     正利益，而約其投票權為一定之行使（吳桐茂、蔡承龍、洪
     乾峰及李學博共同涉犯對於有投票權之人，交付不正利益，
     而約其投票權為一定之行使罪嫌部分，應由檢察官另案偵辦
@@ -196,16 +89,16 @@ function openwin(URL,arguments,width,height)
     後起訴。
     理  由
 壹、程序事項（關於證據能力）
-一、證人廖戊銘、<font color='red'>許淑華</font>、蔡正宗、白淑敏、廖慶宗、李學博、
+一、證人廖戊銘、許淑華、蔡正宗、白淑敏、廖慶宗、李學博、
     林麗敏、簡瑞龍、周天送、朱盛煌及段有鐘於警詢時之陳述
     無證據能力：
     按被告以外之人於審判外之言詞或書面陳述，除法律有規定
     者外，不得作為證據，刑事訴訟法第159 條第1 項定有明文
-    。查證人廖戊銘、<font color='red'>許淑華</font>、蔡正宗、白淑敏、廖慶宗、李學
+    。查證人廖戊銘、許淑華、蔡正宗、白淑敏、廖慶宗、李學
     博、林麗敏、簡瑞龍、周天送、朱盛煌及段有鐘於警詢時之
     陳述，核屬審判外之陳述，被告吳坤泰、陳明坤及其等辯護
-    人爭執其證據能力，依前開規定，上開證人廖戊銘、<font color='red'>許淑華
-    </font>、蔡正宗、白淑敏、廖慶宗、李學博、林麗敏、簡瑞龍、周
+    人爭執其證據能力，依前開規定，上開證人廖戊銘、許淑華
+    、蔡正宗、白淑敏、廖慶宗、李學博、林麗敏、簡瑞龍、周
     天送、朱盛煌及段有鐘於警詢時之證言無證據能力。
 二、證人施勇光警詢之證述有證據能力：
     按被告以外之人於審判外之言詞或書面陳述，除法律有規定
@@ -243,11 +136,11 @@ function openwin(URL,arguments,width,height)
     再行傳喚上開證人之必要，依刑事訴訟法第159 條之1 第2
     項規定，上開供述證據對於被告吳坤泰、陳明坤均有證據能
     力。
-四、證人<font color='red'>許淑華</font>、簡瑞龍、周天送、朱盛煌、劉崇漢、蔡承龍及
+四、證人許淑華、簡瑞龍、周天送、朱盛煌、劉崇漢、蔡承龍及
     施勇光偵訊之證述有證據能力：
     按被告以外之人於偵查中向檢察官所為之陳述，除顯有不可
     信之情況者外，得為證據，刑事訴訟法第159 條之1 第2 項
-    定有明文。查證人<font color='red'>許淑華</font>、簡瑞龍、周天送、朱盛煌、劉崇
+    定有明文。查證人許淑華、簡瑞龍、周天送、朱盛煌、劉崇
     漢、蔡承龍及施勇光於偵查時以證人身分向檢察官所為之陳
     述，業經依法具結，檢察官亦無違法取供之情形，查無「顯
     有不可信之情況」，復再經本院傳訊，並予被告吳坤泰、陳
@@ -295,12 +188,12 @@ function openwin(URL,arguments,width,height)
     七堵區議員投票權之蔡正宗及蔡碧霞應被告吳坤泰之邀、具
     有七堵區議員投票權之施勇光應被告陳明坤之邀、具七堵區
     議員投票權之簡瑞龍、周天送再應施勇光之邀、具有七堵區
-    議員投票權之廖戊銘及<font color='red'>許淑華</font>應李學博之邀、聽聞吳桐茂於
+    議員投票權之廖戊銘及許淑華應李學博之邀、聽聞吳桐茂於
     甕仔雞餐廳舉辦選舉餐宴之白淑敏與友人蔡市自行前往參加
     ，同日晚間6 時55分許，吳桐茂在穿著競選背心的競選團隊
     陪同下，在甕仔雞餐廳內，逐桌敬酒，表示已參選七堵區議
     員，要求在場受招待之蔡正宗、蔡碧霞、施勇光、簡瑞龍、
-    周天送、廖戊銘、<font color='red'>許淑華</font>與白淑敏等8 人及其餘在場有選舉
+    周天送、廖戊銘、許淑華與白淑敏等8 人及其餘在場有選舉
     權人投票支持；同日晚間7 時30分許，不知情之基隆市市長
     候選人謝立功在吳桐茂的陪同下，到達甕仔雞餐廳，逐桌敬
     酒拜票，並於同日晚間7 時41分許離開，上開餐宴費用分係
@@ -328,7 +221,7 @@ function openwin(URL,arguments,width,height)
     卷一第236 頁反面- 239 頁反面）、周天送於偵訊（見103
     年度選偵字第14號卷第134-136 頁）及本院審理時（見本院
     卷一第233-236 頁）、廖戊銘於本院審理時（見本院卷一第
-    231-216 頁反面）、<font color='red'>許淑華</font>於偵訊（見103 年度選偵字第14
+    231-216 頁反面）、許淑華於偵訊（見103 年度選偵字第14
     號卷第143-145 頁）及本院審理時（見本院卷一第217- 219
     頁）及白淑敏於本院審理時（見本院卷一第226 頁反面-232
     頁反面）、林麗敏（甕仔雞餐廳會計）於本院審理時（見本
@@ -395,7 +288,7 @@ function openwin(URL,arguments,width,height)
       係由吳桐茂競選團隊所掌控，目的是在為吳桐茂競選基隆
       市七堵區議員而舉辦，否則吳桐茂無從作主決定增加2 桌
       ，吳桐潭亦無從指示吳桐茂先進行競選之排演：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />103 年10月12日下午2 時02分，吳桐潭撥打電話給吳桐
+      103 年10月12日下午2 時02分，吳桐潭撥打電話給吳桐
         茂（見103 年度選偵字第37號卷一第98-99 頁）：
         茂：大哥!
         潭：阿茂，晚上謝立功到時，你就帶他去逐桌敬酒。
@@ -432,11 +325,11 @@ function openwin(URL,arguments,width,height)
         潭：你跟他說晚上20桌的餐會後，看他有時間嗎，你要
             帶他去草濫加強一下。
         茂：嗯，大哥看怎麼樣我再打給你。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />103 年10月12日下午2 時45分，吳桐潭撥打電話給吳桐
+      103 年10月12日下午2 時45分，吳桐潭撥打電話給吳桐
         茂（見103 年度選偵字第37號卷一第99頁）：
         潭：謝立功7 點半會到餐會現場。
         茂：好，大哥，我知道了。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />103 年10月12日下午7 時19分，吳桐茂撥打電話給吳桐
+      103 年10月12日下午7 時19分，吳桐茂撥打電話給吳桐
         潭（見103 年度選偵字第37號卷一第99-100頁）：
         潭：茂哥你等一下（轉吳桐潭）
         茂：嗯。
@@ -463,14 +356,14 @@ function openwin(URL,arguments,width,height)
       間關係密切，凡此均足徵被告吳坤泰及陳明坤均有參與吳
       桐茂競選工作，並負責找有七堵區議員投票權之人前來參
       加吳桐茂競選造勢活動，以幫助吳桐茂當選：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />103 年10月25日上午10時41分許，吳桐茂秘書謝尚昀持
+      103 年10月25日上午10時41分許，吳桐茂秘書謝尚昀持
         用0000000000號行動電話與被告吳坤泰上開行動電話聯
         繫（見本院卷二第145 頁反面）：
         吳：喂。你好。
         謝：吳大哥你好，我是小謝，麻煩你下午4 點半來百福
             服務處這邊開會好不好。
         吳：好。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />103 年10月30日上午11時21分，劉崇漢持用0000000000
+      103 年10月30日上午11時21分，劉崇漢持用0000000000
         號行動電話與被告吳坤泰上開行動電話聯繫（見本院卷
         二第149 頁正面）：
         吳：喂胖哥。
@@ -486,7 +379,7 @@ function openwin(URL,arguments,width,height)
         察譯文證稱：這是劉崇漢請我幫忙找人開廣告宣傳車，
         後來我好像有請人幫忙開宣傳車等語（見本院卷二第10
         5 頁反面）。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />103 年11月3 日晚上10時09分，被告陳明坤持用000000
+      103 年11月3 日晚上10時09分，被告陳明坤持用000000
         0000號行動電話與被告吳坤泰上開行動電話聯繫（見本
         院卷二第153 頁反面）：
         吳：喂。
@@ -537,7 +430,7 @@ function openwin(URL,arguments,width,height)
         同一區，俾向吳桐茂競選總部的人表示某一區的人是何
         人找來的，以求表現，但實際並沒有這些人等語（見本
         院卷二第120 頁正面-121頁反面）。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />103 年11月12日下午2 時32分，某女持用0000000000行
+      103 年11月12日下午2 時32分，某女持用0000000000行
         動電話與被告吳坤泰上開行動電話聯繫（見本院卷二第
         160 頁正面）：
         女：你跟小龍晚上有沒有要過去。
@@ -550,7 +443,7 @@ function openwin(URL,arguments,width,height)
         不是每天都跟吳桐茂開會，應該是那天吳桐茂有叫我過
         去開會，我跟吳桐茂真的不熟等語（見本院卷二第101
         頁反面）。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />103 年11月12日下午4 時54分，被告吳坤泰以上開行動
+      103 年11月12日下午4 時54分，被告吳坤泰以上開行動
         電話與蔡承龍持用之0000000000行動電話聯繫（見本院
         卷二第160 頁反面）：
         吳：喂。
@@ -574,7 +467,7 @@ function openwin(URL,arguments,width,height)
         察譯文證稱：這通電話是叫我去基隆市長林右昌競選總
         部吃飯，我跟蔡承龍是林右昌百福社區競選副主委等語
         （見本院卷二第101 頁反面）。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />103 年11月12日晚上6 時14分，吳桐茂持用0000000000
+      103 年11月12日晚上6 時14分，吳桐茂持用0000000000
         號行動電話與被告吳坤泰上開行動電話聯繫（見本院卷
         二第161 頁正面）（先由某男撥通後，再轉由吳桐茂與
         被告吳坤泰對話）：
@@ -591,13 +484,13 @@ function openwin(URL,arguments,width,height)
         吳：我等一下回電話給你，我問看看我朋友那邊還有沒
             有。
         茂：好。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />103 年11月12日晚上6 時33分，被告吳坤泰以上開行動
+      103 年11月12日晚上6 時33分，被告吳坤泰以上開行動
         電話與吳桐茂持用之0000000000號行動電話和上開某男
         聯繫（見本院卷二第161 頁正面）：
         吳：聯繫幫吳桐茂購買大閘蟹之事。
         男：叫吳直接撥打吳桐茂妻謝秋華0000000000號行動電
             話，問看要怎麼買。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />103 年11月12日晚上6 時34分，被告吳坤泰以上開行動
+      103 年11月12日晚上6 時34分，被告吳坤泰以上開行動
         電話與吳桐茂妻謝秋華持用之0000000000號行動電話聯
         繫（見本院卷二第161 頁正面）：
         吳：喂，大嫂，我坤泰。
@@ -619,20 +512,20 @@ function openwin(URL,arguments,width,height)
       義參加103 年10月12日在甕仔雞餐廳之餐敘，除晚會主持
       人朱盛煌繳交5,000 元外，其餘到場金蘭會成員每人要繳
       交1,000 元餐費，非金蘭會成員而應邀到場之證人蔡正宗
-      、蔡碧霞、廖戊銘、<font color='red'>許淑華</font>、施勇光、簡瑞龍、周天送、
+      、蔡碧霞、廖戊銘、許淑華、施勇光、簡瑞龍、周天送、
       白淑敏均有基隆市第18屆議員第七選舉區（七堵區）議員
       投票權，其等均係免費參加餐敘，且參加餐敘之人多為七
       堵區百福社區之具有市議員投票權之人，又其等在參加餐
       敘前，或知悉所參加者係吳桐茂的競選餐宴（證人廖戊銘
       及白淑敏部分），或在餐敘時經由在場人談論內容及吳桐
       茂、謝立功之逐桌敬酒拜票，知悉該餐宴係吳桐茂的競選
-      餐宴，仍繼續參加該餐宴（證人蔡正宗、蔡碧霞、<font color='red'>許淑華
-      </font>、施勇光、簡瑞龍、周天送），期間吳桐茂有至甕仔雞餐
+      餐宴，仍繼續參加該餐宴（證人蔡正宗、蔡碧霞、許淑華
+      、施勇光、簡瑞龍、周天送），期間吳桐茂有至甕仔雞餐
       廳逐桌敬酒拜票，尋求其等支持其參選七堵區議員，並有
       人持大聲公高喊吳桐茂凍選，餐宴中並未聽到有人在講建
       案或土地投資方面的事情，也沒有聽到有人在講家長會或
       是類似家長會之類相關的事情：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人蔡正宗於本院104 年4 月29日審理時證述如下（見
+      證人蔡正宗於本院104 年4 月29日審理時證述如下（見
         本院卷一第219 頁反面-224頁）：
         我住在基隆市七堵區，具有103 年度七堵區市議員投票
         權，103 年10月12日我和我太太蔡碧霞有到甕仔雞餐廳
@@ -650,7 +543,7 @@ function openwin(URL,arguments,width,height)
         票，且餐廳內有人喊「凍選、凍選（台語）」外，並沒
         有聽到有人在談建案或土地投資的事情，也沒有人談選
         家長會長之類的事情。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人蔡碧霞於本院104 年4 月29日審理時之證述如下（
+      證人蔡碧霞於本院104 年4 月29日審理時之證述如下（
         見本院卷一第224 頁反面-226頁）：
         103 年基隆市七堵區選議員時，我有去投票。103 年10
         月12日有到甕仔雞餐廳吃飯，是我先生蔡正宗叫我去的
@@ -659,15 +552,15 @@ function openwin(URL,arguments,width,height)
         告吳坤泰和我們也常聚餐。當天吃飯是被告吳坤泰請的
         ，我和我先生並沒有付錢。餐宴中，我只看到謝立功來
         敬酒，且有人喊「凍選、凍選」，並沒有看到吳桐茂。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人廖戊銘於本院104 年4 月29日審理時證述如下（見
+      證人廖戊銘於本院104 年4 月29日審理時證述如下（見
         本院卷一第213-216 頁）：
         我住在基隆市七堵區，有103 年度七堵區市議員投票權
         。103 年10月12日李學博有找我去甕仔雞餐廳吃飯。李
         學博是在103 年10月11日和我喝酒時，對我說明天帶我
         去給人家請客，他是說他跟一些朋友，結拜的要在那邊
         辦桌喝酒，有人要競選，後來在103 年10月12日當天，
-        李學博又打電話給我，我就跟我太太<font color='red'>許淑華</font>一起去，當
-        天我與<font color='red'>許淑華</font>均未支付餐費。李學博是說他跟他們結拜
+        李學博又打電話給我，我就跟我太太許淑華一起去，當
+        天我與許淑華均未支付餐費。李學博是說他跟他們結拜
         的有幾桌，他們結拜的跟他說看能不能叫你們那邊的人
         ，叫一桌這樣，他說他做生意很忙，叫沒有人，所以打
         電話過來叫我趕快去喝酒。我於警詢時說李學博跟我說
@@ -682,7 +575,7 @@ function openwin(URL,arguments,width,height)
         是在我們菜市場賣東西的。餐會中，印象吳桐茂、謝立
         功有來敬酒，但沒聽到有人在談建案、土地投資或家長
         會之類的事情。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />證人<font color='red'>許淑華</font>分別於偵查中及本院審理時證述如下：
+      證人許淑華分別於偵查中及本院審理時證述如下：
         (1)103 年12月2 日偵訊時之證言（見103 年度選偵字第
           14號卷第143-145 頁）：
           我具有103 年度基隆市七堵區市議員投票權。103 年
@@ -703,7 +596,7 @@ function openwin(URL,arguments,width,height)
           候選人有來敬酒，並說「拜託、拜託」，並未聽到有
           人在講建案或土地投資方面的事情，也沒有聽到有人
           在講家長會或是類似家長會之類相關的事情。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />證人施勇光分別於警詢及偵訊時證述如下：
+      證人施勇光分別於警詢及偵訊時證述如下：
         (1)103 年11月26日第一次警詢時之證言（見103 年度選
           偵字第37號卷一第333-337 頁）：
           我有103 年度七堵區議員選舉投票權。103 年10月12
@@ -741,7 +634,7 @@ function openwin(URL,arguments,width,height)
           告陳明坤請我們吃飯，應該是為了選舉，因為我、周
           天送及簡瑞龍當天吃飯都沒有付錢，且後來謝立功及
           吳桐茂都到現場拜票，一看就知道是為了選舉等語。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />證人簡瑞龍分別於偵查中及本院審理時證述如下：
+      證人簡瑞龍分別於偵查中及本院審理時證述如下：
         (1)103 年12月2 日偵訊時之證言（見103 年度選偵字第
           14號卷第123-125 頁）：
           我戶籍設在基隆市七堵區有10年以上，具有103 年度
@@ -775,7 +668,7 @@ function openwin(URL,arguments,width,height)
           的人跟著助選員喊「凍選（台語）」，其餘並沒有人
           講土地、建案投資或選家長會長尋求支持之類的活動
           。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />證人周天送分別於偵查及本院審理時證述如下：
+      證人周天送分別於偵查及本院審理時證述如下：
         (1)103 年12月2 日偵訊時之證言（見103 年度選偵字第
           14號卷第134-137 頁）：
           我出生戶籍地即在基隆市七堵區，具有103 年度基隆
@@ -810,7 +703,7 @@ function openwin(URL,arguments,width,height)
           謝立功來敬酒拜票，也有人喊「凍選（台語）」的聲
           音外，並無建設公司辦說明會，亦無人說要選家長會
           長之類的活動。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />證人白淑敏於本院104 年4 月29日審理時證述如下（見
+      證人白淑敏於本院104 年4 月29日審理時證述如下（見
         本院卷一第226 頁反面-232頁）：
         103 年基隆市七堵區選議員時，我有七堵區議員的投票
         權。103 年10月12日晚上我有到甕仔雞餐廳吃飯，我是
@@ -836,7 +729,7 @@ function openwin(URL,arguments,width,height)
         們投票給吳桐茂。我是聽到餐廳有人家在辦選舉可以吃
         飯，才去參加時，我認為這是特別為了選舉請人來吃飯
         的。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />證人姚詹喜、胡昭欽於103 年12月23日偵訊時之證言如
+      證人姚詹喜、胡昭欽於103 年12月23日偵訊時之證言如
         下（見103 年度選偵字第14號卷第165-167 頁）：
         我們具有103 年度基隆市七堵區議員投票權，我們與吳
         桐茂、被告陳明坤及被告吳坤泰均係金蘭會成員。103
@@ -847,7 +740,7 @@ function openwin(URL,arguments,width,height)
         聲公帶頭喊「凍選（台語）」，整個餐廳的人就跟著喊
         。當天我們並沒有看到或聽到有公司辦理土地開發說明
         會或家長會說明會的情形等語。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />朱盛煌分別於偵訊及本院審理時證述如下：
+      朱盛煌分別於偵訊及本院審理時證述如下：
         (1)103 年12月23日偵訊時之證言（見103 年度選偵字第
           14號卷第180-182 頁）：
           我、劉崇漢、高子昌、吳桐茂、被告陳明坤及被告吳
@@ -875,7 +768,7 @@ function openwin(URL,arguments,width,height)
           及謝立功都有帶競選團隊逐桌敬酒，餐廳裡面所有的
           人都有跟著喊「凍選（台語）」，我並沒有聽到、也
           沒有看到有關家長會的話題。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />證人高子昌於103 年12月23日偵訊時證述（見103 年度
+      證人高子昌於103 年12月23日偵訊時證述（見103 年度
         選偵字第14號卷第180-182 頁）：
         我、劉崇漢、朱盛煌、吳桐茂、被告陳明坤及被告吳坤
         泰均是金蘭會成員，103 年10月12日在甕仔雞餐廳舉辦
@@ -887,7 +780,7 @@ function openwin(URL,arguments,width,height)
         亦未聽到家長會開會或起來講話，現場只有全部人喊吳
         桐茂及謝立功「凍選（台語）」，其他時候就是吃飯聊
         天。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />證人劉崇漢分別於偵查中及本院審理時證述如下：
+      證人劉崇漢分別於偵查中及本院審理時證述如下：
         (1)103 年12月23日偵訊時之證言（見103 年度選偵字第
           14號卷第180-182 頁）：
           我、朱盛煌、高子昌、吳桐茂、被告陳明坤及被告吳
@@ -909,7 +802,7 @@ function openwin(URL,arguments,width,height)
           有無陪同吳桐茂敬酒。敬酒完畢後，有人拿著大聲公
           對在場所有人喊「凍選（台語）」，要大家一起喊「
           凍選（台語）」，帶動整個氣氛。
-     <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />證人李學博於本院104 年6 月3 日審理時證稱（見本院
+     證人李學博於本院104 年6 月3 日審理時證稱（見本院
        卷二第55頁反面-69頁反面）：
        103 年10月12日有參加系爭餐宴，這是金蘭會舉辦的餐
        宴，是被告陳明坤通知我參加，我參加金蘭會的餐宴有
@@ -940,7 +833,7 @@ function openwin(URL,arguments,width,height)
     式餐點，桌數達22桌之多，尚且備有飲料及酒，其花費共計
     97,410元，2.以授受雙方之認知而言，從被告吳坤泰、陳明
     坤之主觀角度觀察，無非是透過設宴款待蔡正宗、蔡碧霞、
-    施勇光、簡瑞龍、周天送、廖戊銘、<font color='red'>許淑華</font>與白淑敏等8 人
+    施勇光、簡瑞龍、周天送、廖戊銘、許淑華與白淑敏等8 人
     及其餘在場有投票權人，約定他們在投票時，支持吳桐茂，
     使吳桐茂當選，其顯為不正利益之交付，以尋求勝選。另從
     受邀出席之人觀察，渠等與被告吳坤泰、陳明坤間並無其他
@@ -949,7 +842,7 @@ function openwin(URL,arguments,width,height)
     又如此接近選舉投票日，只要稍有社會經驗之成年人，應該
     都可以認知其為賄選對價之餐宴（即一般所稱「選舉飯」）
     ，此亦據蔡正宗、蔡碧霞、施勇光、簡瑞龍、周天送、廖戊
-    銘、<font color='red'>許淑華</font>與白淑敏等8 人證述如前，渠等前往參加收受飲
+    銘、許淑華與白淑敏等8 人證述如前，渠等前往參加收受飲
     宴，顯有默示許諾於行使投票權時，將選票投給吳桐茂。從
     而，本件餐宴在現實社會生活當中，已足以影響選民投票意
     向，即為賄選之對價，約定投票權人在投票時支持候選人吳
@@ -976,7 +869,7 @@ function openwin(URL,arguments,width,height)
       偵訊時經訊以：「那天的餐會與土地開發的事並沒有關係
       ？」時，供稱：「對。現場確實沒有講土地開發的事」等
       語（見103 年度選偵字第14號卷第205 頁），再參酌上開
-      參加系爭餐宴之蔡正宗、蔡碧霞、廖戊銘、<font color='red'>許淑華</font>、施勇
+      參加系爭餐宴之蔡正宗、蔡碧霞、廖戊銘、許淑華、施勇
       光、簡瑞龍、周天送、白淑敏等人一致證述：認系爭餐宴
       是選舉餐宴，現場並沒有人在講在談建案或土地投資的事
       情，也沒有人談選家長會長之類的事情，是系爭餐宴顯係
@@ -1150,7 +1043,7 @@ function openwin(URL,arguments,width,height)
     次刑事庭會議決議(一)意旨足資參照）。準此，被告吳坤泰、
     陳明坤基於使吳桐茂能順利當選基隆市七堵區議員之單一犯
     意，於103 年10月12日，辦理系爭餐宴，同時宴請蔡正宗、
-    蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、<font color='red'>許淑華</font>與白淑
+    蔡碧霞、施勇光、簡瑞龍、周天送、廖戊銘、許淑華與白淑
     敏等8 人及其他在場有七堵區議員投票權之人，交付餐飲之
     不利益，而約渠等投票權為一定之行使，當係侵害同一國家
     選舉公正之法益，是被告吳坤泰、陳明坤交付不正利益於上
@@ -1217,86 +1110,12 @@ function openwin(URL,arguments,width,height)
 犯第一項或第二項之罪，於犯罪後6 個月內自首者，減輕或免除
 其刑；因而查獲候選人為正犯或共犯者，免除其刑。
 犯第一項或第二項之罪，在偵查中自白者，減輕其刑；因而查獲
-候選人為正犯或共犯者，減輕或免除其刑。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWKLD\CRIMINAL\10407\08\KLDM10478.00I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000003&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e9%81%b8%e8%a8%b4&jno=3&jdate=1040708&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e9%81%b8%e8%a8%b4&jno=3&jdate=1040708&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e9%81%b8%e8%a8%b4%2c3%2c20150708%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e9%81%b8%e8%a8%b4','3','1040708','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許淑華">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許淑華">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+候選人為正犯或共犯者，減輕或免除其刑。
+[*jrecno*]104,選訴,3,20150708,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]選訴
+[*jno*]3
+[*jdate*]1040708
+[*jcheck*]1

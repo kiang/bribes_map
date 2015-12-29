@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-98易1800</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=001800&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c1800%2c20091130%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1800&jdate=981130&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e6%98%93%2c1800%2c20091130%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1800&jdate=981130&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e6%98%93%2c1800%2c20091130%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e6%98%93','1800','981130','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,易,1800</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">981130</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">集會遊行法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　98年度易字第1800號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c1800%2c20091130%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1800&jdate=981130&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=001800&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e6%98%93%2c1800%2c20091130%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1800&jdate=981130&jcheck=2
+[*裁判字號*]98,易,1800
+[*裁判日期*]981130
+[*裁判案由*]集會遊行法
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　98年度易字第1800號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　乙○○
 選任辯護人　陳達成律師
@@ -121,7 +14,7 @@ function openwin(URL,arguments,width,height)
 乙○○共同犯集會遊行法第二十九條之首謀不遵令解散集會遊行
 罪，免刑。
     事  實
-一、乙○○與未據起訴之<font color='red'>蔡丁貴</font>（「公投護台灣聯盟」負責人）
+一、乙○○與未據起訴之蔡丁貴（「公投護台灣聯盟」負責人）
     、丙○○（臺灣基督長老教會義光教會牧師）等三人，均明
     知政治集會遊行活動應先申請核准，始得為之。竟基於違反
     集會遊行法之犯意，未向臺北市政府警察局中正第一分局（
@@ -132,25 +25,25 @@ function openwin(URL,arguments,width,height)
     ○○路1 號立法院濟南路群賢樓側門出發，沿路以擴音器喊
     口號、舉布條遊行，並散發「公投法修法草案要點」、「立
     委選制之修法要點」等文宣作政治訴求。於上開集會、遊行
-    期間，<font color='red'>蔡丁貴</font>、丙○○雖均策身其間，然均委由乙○○帶頭
+    期間，蔡丁貴、丙○○雖均策身其間，然均委由乙○○帶頭
     呼喊口號或為行動之指揮。嗣經中正第一分局員警以擴音器
     口頭告誡：上開活動必須事先申請經過核准，非屬不需事前
-    申請核准的宗教活動，而要求命令解散。乙○○依照與<font color='red'>蔡丁
-    貴</font>、丙○○事前之計畫與協議，乃不聽制止，繼續率領群眾
+    申請核准的宗教活動，而要求命令解散。乙○○依照與蔡丁
+    貴、丙○○事前之計畫與協議，乃不聽制止，繼續率領群眾
     往中山南路北上到監察院、行政院前，沿路舉布條、旗幟，
     呼口號：「顧臺灣修選制」、「顧台灣修公投」及散發「公
     投法修法草案要點」、「立委選制之修法要點」等文宣作政
     治訴求。嗣經中正第一分局忠孝東路派出所所長甲○○於同
     日上午10時35分在行政院（忠孝東路1 段1 號）前第1 次舉
-    牌警告，命令解散。乙○○、<font color='red'>蔡丁貴</font>、丙○○仍不聽制止，
+    牌警告，命令解散。乙○○、蔡丁貴、丙○○仍不聽制止，
     繼續沿忠孝東路往西方向到臺北火車站。並沿途舉布條、旗
     幟，以擴音器呼前述口號，並散發文宣作政治訴求。繼於同
     日上午11時8 分，甲○○在南陽路與襄陽路口，第2 次舉牌
-    警告，命令解散。乙○○、<font color='red'>蔡丁貴</font>、丙○○仍不聽制止，沿
+    警告，命令解散。乙○○、蔡丁貴、丙○○仍不聽制止，沿
     襄陽路右轉往公園路到凱達格蘭大道，繼續以擴音器呼前述
     口號，並沿途舉布條、旗幟及散發文宣作政治訴求。嗣於同
     日上午11時23分，前開所長甲○○在外交部（凱達格蘭大道
-    2 號）前第3 次舉牌警告，命令解散，乙○○、<font color='red'>蔡丁貴</font>、丙
+    2 號）前第3 次舉牌警告，命令解散，乙○○、蔡丁貴、丙
     ○○仍不聽制止，繼續率領群眾，以擴音器呼口號，並沿途
     舉布條、旗幟，及散發文宣作政治訴求，而前往自由廣場跟
     靜坐學生致意後，再返回中山南路的立法院，繞行立法院一
@@ -162,7 +55,7 @@ function openwin(URL,arguments,width,height)
     令解散之事實，然矢口否認犯行，辯稱：當天純屬教會之報
     佳音活動，並非政治性集會，故無需事前申請核准，亦不須
     依警方命令解散，此部分事前均經與「公投護台灣聯盟」負
-    責人<font color='red'>蔡丁貴</font>教授、臺灣基督長老教會義光教會丙○○牧師詳
+    責人蔡丁貴教授、臺灣基督長老教會義光教會丙○○牧師詳
     細討論過並取得共識云云。惟查，本件經本院於98年10月6
     日當庭勘驗當日之錄影光碟，可見被告乙○○當日確實有在
     現場，並通常站立於隊伍之前，手持擴音器提示每一步之團
@@ -194,10 +87,10 @@ function openwin(URL,arguments,width,height)
     ，以共同犯罪之意思參與者，亦無礙於共同正犯之成立」，
     最高法院著有84年度上易字第193 號判決，可資參照。以本
     件而言，被告乙○○對本件之違反集會遊行法行為，於事前
-    均經與「公投護台灣聯盟」負責人<font color='red'>蔡丁貴</font>教授、臺灣基督長
+    均經與「公投護台灣聯盟」負責人蔡丁貴教授、臺灣基督長
     老教會義光教會丙○○牧師詳細討論過並取得共識一節，業
     於本院審理中供述明確，核與證人丙○○證稱：「…主要是
-    公投護臺灣聯盟的發起人<font color='red'>蔡丁貴</font>教授，由他來邀請包含我在
+    公投護臺灣聯盟的發起人蔡丁貴教授，由他來邀請包含我在
     內的各團體來進行這個報佳音的活動，我有從頭參與到尾。
     我是接到他們的邀請，來共同籌畫跟進行這個活動。我有看
     到警方3 次舉牌的警告，因為我在最前面。被告當天在這個
@@ -209,11 +102,11 @@ function openwin(URL,arguments,width,height)
     …對於警察會舉牌命令解散，我們都已經事前預期，而且我
     們都已經決定不解散。所謂「我們」，指得就是決策的發起
     人，我們就有這樣的共識和決定的，在這裡我所指的就是我
-    和<font color='red'>蔡丁貴</font>教授兩個人。這樣的決策，被告也知道並同意，且
+    和蔡丁貴教授兩個人。這樣的決策，被告也知道並同意，且
     是由被告負責執行」等語，互核一致。足證本件之違反集會
-    遊行法犯行，其首謀並不限於被告乙○○一人，而是與<font color='red'>蔡丁
-    貴</font>、丙○○三人共同討論計畫且分工執行的結果。從而，本
-    件之「首謀」既有被告乙○○與未據起訴之<font color='red'>蔡丁貴</font>、丙○○
+    遊行法犯行，其首謀並不限於被告乙○○一人，而是與蔡丁
+    貴、丙○○三人共同討論計畫且分工執行的結果。從而，本
+    件之「首謀」既有被告乙○○與未據起訴之蔡丁貴、丙○○
     共三人，即應依共同正犯論科，附此敘明。
 三、按憲法第14條固規定人民有集會之自由，且與憲法第11條規
     定之言論、講學、著作及出版之自由，同屬表現自由之範疇
@@ -224,7 +117,7 @@ function openwin(URL,arguments,width,height)
     牴觸」，亦經大法官會議釋字第445 號解釋明確。是學說上
     對「集會遊行法」固有正反兩面之不同意見，然於立法未經
     修正前，人民自仍應有守法之義務。本件被告乙○○與未據
-    起訴之<font color='red'>蔡丁貴</font>、丙○○三人，均明知室外之政治集會須經申
+    起訴之蔡丁貴、丙○○三人，均明知室外之政治集會須經申
     請，而警員亦經依法告誡並命令解散，仍不遵從，核其所為
     ，係犯違反集會遊行法第29條第1 項之罪，本應依法論科。
     惟念民主之真諦，即在於人民有思想、言論與意見表達之自
@@ -278,86 +171,12 @@ function openwin(URL,arguments,width,height)
 集會遊行法第29條
 （罰則（三））
 集會、遊行經該管主管機關命令解散而不解散，仍繼續舉行經制
-止而不遵從，首謀者處2 年以下有期徒刑或拘役。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWTPD\CRIMINAL\9811\30\TPDM98BU.059] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=001800&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c1800%2c20091130%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1800&jdate=981130&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e6%98%93%2c1800%2c20091130%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1800&jdate=981130&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e6%98%93%2c1800%2c20091130%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e6%98%93','1800','981130','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡丁貴">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡丁貴">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+止而不遵從，首謀者處2 年以下有期徒刑或拘役。
+[*jrecno*]98,易,1800,20091130,2
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]易
+[*jno*]1800
+[*jdate*]981130
+[*jcheck*]2

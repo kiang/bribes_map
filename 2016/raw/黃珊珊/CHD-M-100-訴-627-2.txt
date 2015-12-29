@@ -1,120 +1,15 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-100訴627</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ycylER+g/QEjHjqixDLqMf7W1qM=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000627&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c627%2c20110815%2c2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=627&jdate=1000815&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c627%2c20110815%2c2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=627&jdate=1000815&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c627%2c20110815%2c2','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','627','1000815','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,627</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000815</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　100年度訴字第627號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c627%2c20110815%2c2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=627&jdate=1000815&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000627&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c627%2c20110815%2c2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=627&jdate=1000815&jcheck=2
+[*裁判字號*]100,訴,627
+[*裁判日期*]1000815
+[*裁判案由*]違反毒品危害防制條例
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　100年度訴字第627號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　楊志學
 選任辯護人　鄧雲奎律師
-被　　　告　<font color='red'>黃珊珊
-</font>選任辯護人　劉惠利律師
+被　　　告　黃珊珊
+選任辯護人　劉惠利律師
 被　　　告　陳文杰
 選任辯護人　吳光中律師
 上列被告因違反毒品危害防治條例等案件，經檢察官提起公訴（
@@ -126,10 +21,10 @@ function openwin(URL,arguments,width,height)
 0000000000號電話壹支、門號0000000000
 號ＳＩＭ卡壹張及門號0000000000號ＳＩＭ卡壹張，
 均沒收之；未扣案之共同販賣第一、二級毒品所得共新臺幣伍仟
-元應與<font color='red'>黃珊珊</font>連帶沒收之，如全部或一部不能沒收時，以其等之
+元應與黃珊珊連帶沒收之，如全部或一部不能沒收時，以其等之
 財產連帶抵償之；未扣案之單獨販賣第一級毒品所得共新臺幣捌
 仟元沒收之，如全部或一部不能沒收時，以其財產抵償之。
-<font color='red'>黃珊珊</font>共同犯如附表一編號1至6所示之罪，各處如附表一編號1
+黃珊珊共同犯如附表一編號1至6所示之罪，各處如附表一編號1
 至6所示之刑。應執行有期徒刑拾陸年。扣案之序號00000
 00000000號電話壹支、門號0000000000號Ｓ
 ＩＭ卡壹張及門號0000000000號ＳＩＭ卡壹張，均沒
@@ -143,7 +38,7 @@ function openwin(URL,arguments,width,height)
 陸仟元沒收之，如全部或一部不能沒收時，以其財產連帶抵償之
 。
     事  實
-一、楊志學（綽號阿兄、阿杰、福特）、<font color='red'>黃珊珊</font>（綽號阿妹、糖
+一、楊志學（綽號阿兄、阿杰、福特）、黃珊珊（綽號阿妹、糖
     糖、少年嫂）為情侶關係，2人明知海洛因、甲基安非他命
     分別係屬毒品危害防制條例第2條第2項第1款、第2款所公告
     列管之第一、二級毒品，不得非法持有、販賣，然為獲取利
@@ -151,12 +46,12 @@ function openwin(URL,arguments,width,height)
     非他命以營利之犯意聯絡，以其所有可插用雙卡之序號0000
     000000000號行動電話，同時插用其所有之門號0000000000
     、0000000000號SIM卡，作為對外聯繫毒品交易時間、地點
-    、金額等事宜之聯絡工具，並由楊志學、<font color='red'>黃珊珊</font>以前開行動
+    、金額等事宜之聯絡工具，並由楊志學、黃珊珊以前開行動
     電話與附表一編號1至6所示之購毒者議妥購買第一級毒品海
     洛因、第二級毒品甲基安非他命之數量、金額、時間、地點
-    後，再由<font color='red'>黃珊珊</font>親自，或由楊志學、<font color='red'>黃珊珊</font>一同攜帶約定數
+    後，再由黃珊珊親自，或由楊志學、黃珊珊一同攜帶約定數
     量之第一級毒品海洛因至約定地點交付予購買毒品者，並由
-    楊志學親自收取價金，或<font color='red'>黃珊珊</font>收取價金再將收取之價金交
+    楊志學親自收取價金，或黃珊珊收取價金再將收取之價金交
     付予楊志學之方式，先後於如附表一編號1至6所示之時間及
     地點，販賣海洛因、甲基安非命予附表一編號1至6所示之葉
     建鴻、羅國賓、許銘輝、劉惠莉杰等人（各次販賣之對象、
@@ -165,9 +60,9 @@ function openwin(URL,arguments,width,height)
     犯意，而分別於附表一編號7-9所示之時間，在附表一編號
     7-9所示地點，販售如附表一編號7-9所示金額之海洛因，予
     如附表一編號7-9所示之販售對象，而獲取如附表一編號7-9
-    所示之價金。嗣經彰化縣警察局之員警依法對楊志學、<font color='red'>黃珊
-    珊</font>持用之上開門號實施通訊監察，並於民國100年3月8日上
-    午7時50分許，持本院核發搜索票，至楊志學、<font color='red'>黃珊珊</font>2人位
+    所示之價金。嗣經彰化縣警察局之員警依法對楊志學、黃珊
+    珊持用之上開門號實施通訊監察，並於民國100年3月8日上
+    午7時50分許，持本院核發搜索票，至楊志學、黃珊珊2人位
     於臺中市○區○○路189號C之12樓租屋處搜索，並扣得楊志
     學所有供上開犯行使用之序號0000000000000號行動電話1支
     及門號0000000000、0000000000之SIM卡各1張。
@@ -201,7 +96,7 @@ function openwin(URL,arguments,width,height)
     本院認該些證據作為證據應為適當，是後述所引用證據之證
     據能力均無疑義，合先敘明。
 二、事實認定部分：
-（一）訊據被告楊志學、<font color='red'>黃珊珊</font>對於如附表一所示之犯罪事實均
+（一）訊據被告楊志學、黃珊珊對於如附表一所示之犯罪事實均
       坦承不諱，核與證人即購毒者葉建鴻、羅國賓、許銘輝、
       劉惠莉、陳文杰等人於警詢、偵查中證述之情節大致相符
       （參臺灣彰化地方法院檢察署99年度他字第2266號卷第15
@@ -213,7 +108,7 @@ function openwin(URL,arguments,width,height)
       文各1份（參臺灣彰化地方法院檢察署100年度偵字第2479
       號卷第35-57頁、88頁、108-109頁、115-117頁、132-136
       頁、14 4-145頁、301-314頁）附卷可稽，堪認被告楊志
-      學、<font color='red'>黃珊珊</font>2人之自白應與事實相符，應足採信。另被告
+      學、黃珊珊2人之自白應與事實相符，應足採信。另被告
       陳文杰就附表二所示之犯罪事實亦均坦白承認，核與證人
       即購毒者王錫洲、吳志強、許元宗等人於警詢、偵查中證
       述之情節相符（參臺灣彰化地方法院檢察署99年度他字第
@@ -238,10 +133,10 @@ function openwin(URL,arguments,width,height)
       常尚難因無法查悉其精確之販入價格，作為是否高價賣出
       之比較，諉以無營利之意思而阻卻販賣犯行之追訴。本件
       被告3人均確有上開收取金錢及交付毒品之行為，已經本
-      院調查屬實，參以被告楊志學、<font color='red'>黃珊珊</font>均自承沒有工作分
+      院調查屬實，參以被告楊志學、黃珊珊均自承沒有工作分
       別約1年、3個月（參本院100年度聲羈字第61號卷第7-8頁
       ），且渠等有施用毒品之習慣，須有相當經濟來源，則被
-      告楊志學、<font color='red'>黃珊珊</font>應無為非親非故之購毒者無償提供服務
+      告楊志學、黃珊珊應無為非親非故之購毒者無償提供服務
       之理，另參酌被告陳文杰於警詢中自承販賣毒品時從中賺
       取100-200元不等等情（參臺灣彰化地方法院檢察署100年
       度偵字第2479號卷第61頁），則被告3人均有營利之意圖
@@ -254,19 +149,19 @@ function openwin(URL,arguments,width,height)
       如附表一編號1、2、3、5、7、8、9所示犯行，均係犯毒
       品危害防制條例第4條第1項之販賣第一級毒品罪，其所為
       如附表一編號4、6所示犯行，均係犯毒品危害防制條例第
-      4條第2項之販賣第2級毒品罪；被告<font color='red'>黃珊珊</font>所為如附表一
+      4條第2項之販賣第2級毒品罪；被告黃珊珊所為如附表一
       編號1、2、3、5所示犯行，均係犯毒品危害防制條例第4
       條第1項之販賣第一級毒品罪，其所為如附表一編號4、6
       所示犯行，均係犯毒品危害防制條例第4條第2項之販賣第
       2級毒品罪；被告陳文杰如附表二編號1至11所示犯行，均
       係犯毒品危害防制法第4條第2項之販賣第二級毒品罪，其
       所為如附表二編號12、13所示犯行，均係犯毒品危害防制
-      條例第4條第1項之販賣第一級毒品罪。被告楊志學、<font color='red'>黃珊
-      珊</font>就附表一編號1至6所示犯行，均有犯意之聯絡，及行為
-      分擔，為共同正犯。被告楊志學、<font color='red'>黃珊珊</font>、陳文杰於販賣
+      條例第4條第1項之販賣第一級毒品罪。被告楊志學、黃珊
+      珊就附表一編號1至6所示犯行，均有犯意之聯絡，及行為
+      分擔，為共同正犯。被告楊志學、黃珊珊、陳文杰於販賣
       前，持有第一、二級毒品，進而販賣，其持有之低度行為
       均應各為販賣之高度行為所吸收，不另論罪。又被告楊志
-      學、<font color='red'>黃珊珊</font>所犯如附表一所示之數罪及被告陳文杰所犯如
+      學、黃珊珊所犯如附表一所示之數罪及被告陳文杰所犯如
       附表二所示之數罪，均犯意各別，行為互殊，應分論併罰
       之。另被告陳文杰有如事實欄所載之前科，並經執行完畢
       ，有臺灣高等法院被告前案紀錄表1份在卷可稽，則其於
@@ -294,12 +189,12 @@ function openwin(URL,arguments,width,height)
       上所謂被告之自白，宜從廣義解釋，除指對於犯罪事實全
       部或一部為肯定供述之狹義自白外，尚包括狹義自白以外
       之其他承認不利於己之事實所為之陳述在內（最高法院99
-      年臺上字第4962號、第4874號判決要旨參照）。查被告<font color='red'>黃
-      珊珊</font>於警詢或偵查中，已就附表一編號1、3、4號之犯罪
+      年臺上字第4962號、第4874號判決要旨參照）。查被告黃
+      珊珊於警詢或偵查中，已就附表一編號1、3、4號之犯罪
       事實主要部分為肯定供述之自白（參臺灣彰化地方法院檢
       察署100年度偵字第2479號卷第24頁背面、第25頁、第351
       頁），且於本院審理時全部認罪（參本院審理筆錄），是
-      就被告<font color='red'>黃珊珊</font>上開附表一編號1、3、4部分犯行，自應依
+      就被告黃珊珊上開附表一編號1、3、4部分犯行，自應依
       毒品危害防制條例第17條第2項規定均減輕其刑。另陳文
       杰於警詢中就附表二編號2至13之犯罪事實自白，又於偵
       查中就附表編號1之事實為肯定供述，且與本院審理時全
@@ -308,20 +203,20 @@ function openwin(URL,arguments,width,height)
       陳文杰為累犯，屬同時有加重減輕事由，除法定本刑中之
       死刑、無期徒刑部分外，均應依刑法第71條規定先加後減
       之。
-（三）再查被告<font color='red'>黃珊珊</font>雖曾供稱係向綽號「大摳」男子、綽號「
-      姊仔」女子及王柏翰購買毒品，然經警多次前往<font color='red'>黃珊珊</font>指
+（三）再查被告黃珊珊雖曾供稱係向綽號「大摳」男子、綽號「
+      姊仔」女子及王柏翰購買毒品，然經警多次前往黃珊珊指
       稱處所勘查，未發現有販賣毒品及其他不法跡象，且亦無
       法查得該3人之真實身分，該毒品案欠缺涉案有利之相關
       證據等情，有彰化縣警察局100年3月29日彰警刑偵三字第
-      1000020201號函1紙附卷可稽，顯見並未因<font color='red'>黃珊珊</font>之供詞
-      而查獲共犯或其他正犯，是被告<font color='red'>黃珊珊</font>之辯護人請求就被
-      告<font color='red'>黃珊珊</font>上開所犯數罪，均依毒品危害防制條例第17條第
+      1000020201號函1紙附卷可稽，顯見並未因黃珊珊之供詞
+      而查獲共犯或其他正犯，是被告黃珊珊之辯護人請求就被
+      告黃珊珊上開所犯數罪，均依毒品危害防制條例第17條第
       1項規定予以減刑部分，尚不足採，併此指明。至被告陳
-      文杰雖於偵查中供出毒品來源即共同被告楊志學、<font color='red'>黃珊珊
-      </font>，然該二人早於陳文杰供述前即為警鎖定而實施通訊監察
+      文杰雖於偵查中供出毒品來源即共同被告楊志學、黃珊珊
+      ，然該二人早於陳文杰供述前即為警鎖定而實施通訊監察
       ，此有本院99年聲監字第957號通訊監察書及電話附表在
       卷可查（參臺灣彰化地方法院檢察署100年度偵字第2479
-      號卷第189、191頁），則楊志學、<font color='red'>黃珊珊</font>即非因陳文杰之
+      號卷第189、191頁），則楊志學、黃珊珊即非因陳文杰之
       供述而遭查獲，是被告陳文杰之辯護人請求就被告陳文杰
       上開所犯數罪，均依毒品危害防制條例第17條第1項規定
       予以減刑部分，亦不足採，附此敘明。
@@ -362,13 +257,13 @@ function openwin(URL,arguments,width,height)
       ，何部分屬於犯罪所得之財物，應均予沒收（最高法院91
       年度臺上字第5583號、95年度臺上字第1781號判決、65年
       度第5次刑庭庭推總會議決議(一)意旨參照）。查本案被
-      告楊志學與<font color='red'>黃珊珊</font>共犯販賣第一、二級毒品罪所得如附表
+      告楊志學與黃珊珊共犯販賣第一、二級毒品罪所得如附表
       一編號1至6所示之金額，共計為新臺幣（下同）5,000元
       ；楊志學如附表一編號7至9獨自販賣第一級毒品所得共計
-      為8,000元，已經被告楊志學、<font color='red'>黃珊珊</font>供述在卷，其等犯
+      為8,000元，已經被告楊志學、黃珊珊供述在卷，其等犯
       罪所得雖均未扣案，仍應依毒品危害防制條例第19條第1
       項規定，均宣告沒收。是故，附表一編號1至6所示之犯罪
-      所得即應依上開說明分別宣告被告楊志學、<font color='red'>黃珊珊</font>連帶沒
+      所得即應依上開說明分別宣告被告楊志學、黃珊珊連帶沒
       收之，共計應執行連帶沒收5,000元，如全部或一部不能
       沒收時，均以渠等財產連帶抵償之；附表一編號7至9所示
       之犯罪所得依上開說明應分別宣告沒收，如全部或一部不
@@ -420,7 +315,7 @@ function openwin(URL,arguments,width,height)
 │    │      │話    │      │話    │        │        │      │）    │                      │
 ├──┼───┼───┼───┼───┼────┼────┼───┼───┼───────────┤
 │  1 │葉建鴻│09176 │楊志學│09899 │99年12月│臺中市大│海洛因│500元 │楊志學共同販賣第一級毒│
-│    │      │60975 │<font color='red'>黃珊珊</font>│60475 │22日下午│里區德芳│      │      │品，處有期徒刑拾伍年參│
+│    │      │60975 │黃珊珊│60475 │22日下午│里區德芳│      │      │品，處有期徒刑拾伍年參│
 │    │      │      │      │      │5時許   │路1段82 │      │      │月。扣案之序號三五九八│
 │    │      │      │      │      │        │巷32弄77│      │      │000000000號行│
 │    │      │      │      │      │        │號前之停│      │      │動電話壹支及門號０九八│
@@ -431,7 +326,7 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │珊珊連帶沒收之，如全部│
 │    │      │      │      │      │        │        │      │      │或一部不能沒收時，以其│
 │    │      │      │      │      │        │        │      │      │等之財產連帶抵償之。  │
-│    │      │      │      │      │        │        │      │      │<font color='red'>黃珊珊</font>共同販賣第一級毒│
+│    │      │      │      │      │        │        │      │      │黃珊珊共同販賣第一級毒│
 │    │      │      │      │      │        │        │      │      │品，處有期徒刑柒年捌月│
 │    │      │      │      │      │        │        │      │      │。扣案之序號三五九八九│
 │    │      │      │      │      │        │        │      │      │00000000號行動│
@@ -445,7 +340,7 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │之財產連帶抵償之。    │
 ├──┼───┼───┼───┼───┼────┼────┼───┼───┼───────────┤
 │ 2  │葉建鴻│09176 │楊志學│09541 │99年12月│臺中市南│海洛因│1000元│楊志學共同販賣第一級毒│
-│    │      │60975 │<font color='red'>黃珊珊</font>│72251 │24日下午│區○○路│      │      │品，處有期徒刑拾伍年參│
+│    │      │60975 │黃珊珊│72251 │24日下午│區○○路│      │      │品，處有期徒刑拾伍年參│
 │    │      │      │      │      │10時許  │189號大 │      │      │月。扣案之序號三五九八│
 │    │      │      │      │      │        │樓下    │      │      │000000000號行│
 │    │      │      │      │      │        │        │      │      │動電話壹支及門號０九五│
@@ -456,7 +351,7 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │珊珊連帶沒收之，如全部│
 │    │      │      │      │      │        │        │      │      │或一部不能沒收時，以其│
 │    │      │      │      │      │        │        │      │      │等之財產連帶抵償之。  │
-│    │      │      │      │      │        │        │      │      │<font color='red'>黃珊珊</font>共同販賣第一級毒│
+│    │      │      │      │      │        │        │      │      │黃珊珊共同販賣第一級毒│
 │    │      │      │      │      │        │        │      │      │品，處有期徒刑拾伍年貳│
 │    │      │      │      │      │        │        │      │      │月。扣案之序號三五九八│
 │    │      │      │      │      │        │        │      │      │000000000號行│
@@ -470,7 +365,7 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │等之財產連帶抵償之。  │
 ├──┼───┼───┼───┼───┼────┼────┼───┼───┼───────────┤
 │ 3  │葉建鴻│09176 │楊志學│09899 │100年2月│臺中市大│海洛因│1000元│楊志學共同販賣第一級毒│
-│    │      │60975 │<font color='red'>黃珊珊</font>│60475 │3日凌晨5│里區德芳│      │      │品，處有期徒刑拾伍年參│
+│    │      │60975 │黃珊珊│60475 │3日凌晨5│里區德芳│      │      │品，處有期徒刑拾伍年參│
 │    │      │      │      │      │時許    │路1段82 │      │      │月。扣案之序號三五九八│
 │    │      │      │      │      │        │巷32弄77│      │      │000000000號行│
 │    │      │      │      │      │        │號前之停│      │      │動電話壹支及門號０九八│
@@ -481,7 +376,7 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │珊珊連帶沒收之，如全部│
 │    │      │      │      │      │        │        │      │      │或一部不能沒收時，以其│
 │    │      │      │      │      │        │        │      │      │等之財產連帶抵償之。  │
-│    │      │      │      │      │        │        │      │      │<font color='red'>黃珊珊</font>共同販賣第一級毒│
+│    │      │      │      │      │        │        │      │      │黃珊珊共同販賣第一級毒│
 │    │      │      │      │      │        │        │      │      │品，處有期徒刑柒年捌月│
 │    │      │      │      │      │        │        │      │      │。扣案之序號三五九八九│
 │    │      │      │      │      │        │        │      │      │00000000號行動│
@@ -495,18 +390,18 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │之財產連帶抵償之。    │
 ├──┼───┼───┼───┼───┼────┼────┼───┼───┼───────────┤
 │ 4  │羅國賓│09123 │楊志學│09541 │100年2月│臺中市中│甲基安│1000元│楊志學共同販賣第二級毒│
-│    │      │75699 │<font color='red'>黃珊珊</font>│72251 │10日下午│港路中聯│非他命│      │品，處有期徒刑肆年。扣│
+│    │      │75699 │黃珊珊│72251 │10日下午│港路中聯│非他命│      │品，處有期徒刑肆年。扣│
 │    │      │      │      │      │3、4時許│貨運公司│      │      │案之序號0000000│
 │    │      │      │      │      │        │某辦公室│      │      │一五六四００號行動電話│
 │    │      │      │      │      │        │內      │      │      │壹支及門號０九五四一七│
 │    │      │      │      │      │        │        │      │      │二二五一號ＳＩＭ卡壹張│
 │    │      │      │      │      │        │        │      │      │，均沒收之；未扣案之共│
 │    │      │      │      │      │        │        │      │      │同販賣第二級毒品所得新│
-│    │      │      │      │      │        │        │      │      │臺幣壹仟元應與<font color='red'>黃珊珊</font>連│
+│    │      │      │      │      │        │        │      │      │臺幣壹仟元應與黃珊珊連│
 │    │      │      │      │      │        │        │      │      │帶沒收之，如全部或一部│
 │    │      │      │      │      │        │        │      │      │不能沒收時，以其等之財│
 │    │      │      │      │      │        │        │      │      │產連帶抵償之。        │
-│    │      │      │      │      │        │        │      │      │<font color='red'>黃珊珊</font>共同販賣第二級毒│
+│    │      │      │      │      │        │        │      │      │黃珊珊共同販賣第二級毒│
 │    │      │      │      │      │        │        │      │      │品，處有期徒刑貳年捌月│
 │    │      │      │      │      │        │        │      │      │。扣案之序號三五九八九│
 │    │      │      │      │      │        │        │      │      │00000000號行動│
@@ -520,7 +415,7 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │之財產連帶抵償之。    │
 ├──┼───┼───┼───┼───┼────┼────┼───┼───┼───────────┤
 │ 5  │許銘輝│09704 │楊志學│09899 │99年12月│臺中市金│海洛因│1000元│楊志學共同販賣第一級毒│
-│    │      │34817 │<font color='red'>黃珊珊</font>│60475 │30日下午│錢豹電子│      │      │品，處有期徒刑拾伍年參│
+│    │      │34817 │黃珊珊│60475 │30日下午│錢豹電子│      │      │品，處有期徒刑拾伍年參│
 │    │      │      │      │      │7、8時許│遊戲場  │      │      │月。扣案之序號三五九八│
 │    │      │      │      │      │        │        │      │      │000000000號行│
 │    │      │      │      │      │        │        │      │      │動電話壹支及門號０九八│
@@ -531,7 +426,7 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │珊珊連帶沒收之，如全部│
 │    │      │      │      │      │        │        │      │      │或一部不能沒收時，以其│
 │    │      │      │      │      │        │        │      │      │等之財產連帶抵償之。  │
-│    │      │      │      │      │        │        │      │      │<font color='red'>黃珊珊</font>共同販賣第一級毒│
+│    │      │      │      │      │        │        │      │      │黃珊珊共同販賣第一級毒│
 │    │      │      │      │      │        │        │      │      │品，處有期徒刑拾伍年貳│
 │    │      │      │      │      │        │        │      │      │月。扣案之序號三五九八│
 │    │      │      │      │      │        │        │      │      │000000000號行│
@@ -545,18 +440,18 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │等之財產連帶抵償之。  │
 ├──┼───┼───┼───┼───┼────┼────┼───┼───┼───────────┤
 │ 6  │劉惠莉│09233 │楊志學│09899 │99年12月│彰化縣員│甲基安│500元 │楊志學共同販賣第二級毒│
-│    │      │03936 │<font color='red'>黃珊珊</font>│60475 │22日上午│林鎮南平│非他命│      │品，處有期徒刑肆年。扣│
+│    │      │03936 │黃珊珊│60475 │22日上午│林鎮南平│非他命│      │品，處有期徒刑肆年。扣│
 │    │      │      │      │      │11時許  │四街15號│      │      │案之序號0000000│
 │    │      │      │      │      │        │前      │      │      │一五六四００號行動電話│
 │    │      │      │      │      │        │        │      │      │壹支及門號０九八九九六│
 │    │      │      │      │      │        │        │      │      │０四七五號ＳＩＭ卡壹張│
 │    │      │      │      │      │        │        │      │      │，均沒收之；未扣案之共│
 │    │      │      │      │      │        │        │      │      │同販賣第二級毒品所得新│
-│    │      │      │      │      │        │        │      │      │臺幣伍佰元應與<font color='red'>黃珊珊</font>連│
+│    │      │      │      │      │        │        │      │      │臺幣伍佰元應與黃珊珊連│
 │    │      │      │      │      │        │        │      │      │帶沒收之，如全部或一部│
 │    │      │      │      │      │        │        │      │      │不能沒收時，以其等之財│
 │    │      │      │      │      │        │        │      │      │產連帶抵償之。        │
-│    │      │      │      │      │        │        │      │      │<font color='red'>黃珊珊</font>共同販賣第二級毒│
+│    │      │      │      │      │        │        │      │      │黃珊珊共同販賣第二級毒│
 │    │      │      │      │      │        │        │      │      │品，處有期徒刑參年捌月│
 │    │      │      │      │      │        │        │      │      │。扣案之序號三五九八九│
 │    │      │      │      │      │        │        │      │      │00000000號行動│
@@ -766,86 +661,12 @@ function openwin(URL,arguments,width,height)
 │    │      │      │      │      │        │        │      │      │新臺幣壹仟元沒收之，如│
 │    │      │      │      │      │        │        │      │      │全部或一部不能沒收時，│
 │    │      │      │      │      │        │        │      │      │以其財產抵償之。      │
-└──┴───┴───┴───┴───┴────┴────┴───┴───┴───────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10008\15\CHDM1008F.00X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000627&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c627%2c20110815%2c2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=627&jdate=1000815&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c627%2c20110815%2c2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=627&jdate=1000815&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c627%2c20110815%2c2','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','627','1000815','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃珊珊">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃珊珊">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───┴───┴───┴───┴────┴────┴───┴───┴───────────┘
+[*jrecno*]100,訴,627,20110815,2
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]627
+[*jdate*]1000815
+[*jcheck*]2

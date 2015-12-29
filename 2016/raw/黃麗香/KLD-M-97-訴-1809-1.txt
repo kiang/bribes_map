@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-97訴1809</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=001809&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c1809%2c20090309%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1809&jdate=980309&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c1809%2c20090309%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1809&jdate=980309&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c1809%2c20090309%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','1809','980309','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">97,訴,1809</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">980309</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　97年度訴字第1809號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c1809%2c20090309%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1809&jdate=980309&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=001809&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c1809%2c20090309%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1809&jdate=980309&jcheck=1
+[*裁判字號*]97,訴,1809
+[*裁判日期*]980309
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣基隆地方法院刑事判決　　　　　　　97年度訴字第1809號
 公　訴　人　臺灣基隆地方法院檢察署檢察官
 被　　　告　戊○○
 　　　　　　　　　　　）
@@ -147,7 +40,7 @@ function openwin(URL,arguments,width,height)
     於盜用印章、偽造私文書及行使偽造私文書之犯意，於97年
     4 月29日將丁○○所郵寄交付之系爭房地所有權狀、丁○○
     之印鑑證明書、身分證影本及印鑑章，委由不知情之岳母轉
-    交予不知情之代書<font color='red'>黃麗香</font>，利用不知情之代書<font color='red'>黃麗香</font>製作買
+    交予不知情之代書黃麗香，利用不知情之代書黃麗香製作買
     受人為戊○○、出賣人為丁○○之不實之土地登記申請書、
     土地買賣所有權移轉契約書、建築改良物買賣所有權移轉契
     約書等文件，再委由不知情之黃麗玲持向基隆市信義地政事
@@ -252,7 +145,7 @@ function openwin(URL,arguments,width,height)
 一、訊據被告戊○○固坦承其於97年4月29 日將告訴人即證人丁
     ○○所郵寄交付之系爭房地所有權狀、證人丁○○之印鑑證
     明書、身分證影本及印鑑章，委由不知情之岳母轉交予不知
-    情之代書<font color='red'>黃麗香</font>，利用不知情之代書<font color='red'>黃麗香</font>製作買受人為戊
+    情之代書黃麗香，利用不知情之代書黃麗香製作買受人為戊
     ○○、出賣人為丁○○之不實之土地登記申請書、土地買賣
     所有權移轉契約書、建築改良物買賣所有權移轉契約書等文
     件，再委請不知情之黃麗玲持向基隆市信義地政事務所申請
@@ -268,13 +161,13 @@ function openwin(URL,arguments,width,height)
     ，伊始將資料交由代書辦理云云。經查：
   (一)被告於97年4月29 日將證人丁○○所郵寄交付之系爭房地所
     有權狀、證人丁○○之印鑑證明書、身分證影本及印鑑章，
-    委由其岳母轉交予代書<font color='red'>黃麗香</font>，並由代書<font color='red'>黃麗香</font>製作買受人
+    委由其岳母轉交予代書黃麗香，並由代書黃麗香製作買受人
     為戊○○、出賣人為丁○○之不實之土地登記申請書、土地
     買賣所有權移契約書、建築改良物買賣所有權移轉契約書等
     文件，再委由黃麗玲持向基隆市信義地政事務所申請將系爭
     房地之所有權移轉登記予自己，嗣經基隆市信義地政事務所
-    以涉及私權爭執為由予以駁回之事實，業據證人即代書<font color='red'>黃麗
-    香</font>於偵查中證述明確（詳97年度交查字第188號偵查卷第254
+    以涉及私權爭執為由予以駁回之事實，業據證人即代書黃麗
+    香於偵查中證述明確（詳97年度交查字第188號偵查卷第254
     頁），並經檢察官依職權向基隆市信義地政事務所函調本案
     之土地登記申請書、土地買賣所有權移轉契約書、建築物改
     良物買賣所有權移轉契約書、被告及證人丁○○身分證正反
@@ -572,7 +465,7 @@ function openwin(URL,arguments,width,height)
 二、核被告所為，係犯刑法第342條第2項、第1 項之背信未遂罪
     及同法第216條、第210條行使偽造私文書罪。被告偽造私文
     書、盜用印章及行使偽造私文書罪部分，均係利用不知情之
-    代書<font color='red'>黃麗香</font>、黃麗玲所為，均屬間接正犯。被告盜用印章之
+    代書黃麗香、黃麗玲所為，均屬間接正犯。被告盜用印章之
     行為係偽造私文書之階段行為，偽造私文書後持以行使，偽
     造之低度行為為行使之高度行為所吸受，均不另論罪。又被
     告所犯背信未遂罪與行使偽造私文書罪，乃係一行為觸犯數
@@ -610,86 +503,11 @@ function openwin(URL,arguments,width,height)
 逕送上級法院」。
 中　　華　　民　　國　　98　　年　　3 　　月　　10　　日
                                   書 記 官  王靜敏
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWKLD\CRIMINAL\9803\09\KLDM9839.00E] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=001809&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c1809%2c20090309%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1809&jdate=980309&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c1809%2c20090309%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1809&jdate=980309&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c1809%2c20090309%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','1809','980309','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃麗香">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃麗香">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]97,訴,1809,20090309,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]97
+[*jcase*]訴
+[*jno*]1809
+[*jdate*]980309
+[*jcheck*]1

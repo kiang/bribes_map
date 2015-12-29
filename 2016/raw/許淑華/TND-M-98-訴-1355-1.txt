@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-98訴1355</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=001355&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c1355%2c20110729%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1355&jdate=1000729&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c1355%2c20110729%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1355&jdate=1000729&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c1355%2c20110729%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','1355','1000729','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,1355</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000729</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反藥事法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　98年度訴字第1355號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c1355%2c20110729%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1355&jdate=1000729&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=001355&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c1355%2c20110729%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1355&jdate=1000729&jcheck=1
+[*裁判字號*]98,訴,1355
+[*裁判日期*]1000729
+[*裁判案由*]違反藥事法等
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　98年度訴字第1355號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　王淑梅
 　　　　　　蔡明輝
@@ -125,10 +18,10 @@ function openwin(URL,arguments,width,height)
 徒刑壹年陸月；又犯藥事法第八十二條第一項製造偽藥罪，處有
 期徒刑貳年，扣案偽藥窈窕曲羨陸仟陸佰捌拾伍顆（含外包裝）
 及空盒捌箱均沒收；又犯藥事法第八十二條第一項製造偽藥罪，
-處有期徒刑壹年，扣案偽藥鼻舒靈伍拾<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />瓶沒收；又犯藥事法第
+處有期徒刑壹年，扣案偽藥鼻舒靈伍拾瓶沒收；又犯藥事法第
 八十二條第一項製造偽藥罪，處有期徒刑壹年，扣案偽藥眼舒靈
 肆拾陸瓶沒收，應執行有期徒刑肆年陸月，扣案偽藥窈窕曲羨陸
-仟陸佰捌拾伍顆（含外包裝）及空盒捌箱、偽藥鼻舒靈伍拾<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />瓶
+仟陸佰捌拾伍顆（含外包裝）及空盒捌箱、偽藥鼻舒靈伍拾瓶
 、偽藥眼舒靈肆拾陸瓶均沒收。
     事  實
 一、王淑梅係址設臺南市○○路六六一號「美德中醫醫院」、址
@@ -180,7 +73,7 @@ function openwin(URL,arguments,width,height)
     美德醫療器械企業社」之「窈窕曲羨」（起訴書誤載窈窕曲
     線）偽藥產品一千零三十五盒（每盒三十顆膠囊，共四萬零
     七百七十顆膠囊）後，於同年月間某日起，於分別販賣「窈
-    窕曲羨」偽藥予林靖堯、<font color='red'>許淑華</font>、余錦惠、鄭淑芳等不特定
+    窕曲羨」偽藥予林靖堯、許淑華、余錦惠、鄭淑芳等不特定
     人。並另起意於九十七年九月二日前某日，於不詳時地點，
     分別製造「鼻舒靈」、「眼舒靈」等係足以影響人類身體結
     構及生理機能之藥品，且係未經主管機關行政院衛生署核准
@@ -230,37 +123,37 @@ function openwin(URL,arguments,width,height)
 一、訊據被告王淑梅固坦承與蔡明輝係夫妻關係，九十四年至九
     十五年二月二日蔡明輝人在大陸時，與黃武彥共同經營美德
     中醫醫院、美德老人養護中心、美德護理之家，並負責財務
-    及出納之事實，惟矢口否認有何上揭犯行，辯稱：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />美德老
+    及出納之事實，惟矢口否認有何上揭犯行，辯稱：美德老
     人養護中心及美德護理之家住院之老人病患大多為須長期服
     藥之慢性病人，且為長期臥床導致行動不便之慢性病患，依
     健保局規定此等病患前已有看診記錄者，可只以健保卡委託
     他人向醫師陳述病情，人可不必到醫院，即可由醫師依其專
     業知識判斷及參照前之病歷處方箋，再開給相同之處方劑，
     並不構成虛開病歷處方箋之偽造文書罪，亦無詐領健保醫療
-    費用。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />伊於其夫蔡明輝出國期間即九十五年二月前並無蔡
+    費用。伊於其夫蔡明輝出國期間即九十五年二月前並無蔡
     明輝授權而為美德機構實際負責人之代理人，要無管理美德
     機構全院事務，更無事實上之決策權力。伊並無指示鄭淑芳
     、陳建宏對初診病患住民只拿健保卡而人不必到院，要無違
-    背法令之共同行為。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />葛舜、陳森山、湯燕雪醫師在偵查中
+    背法令之共同行為。葛舜、陳森山、湯燕雪醫師在偵查中
     承認對二診以上住民病患託司機只以健保卡掛號未經實際看
     診即參照前之病歷處方箋即再開給相同之處方劑之偽造文書
     記載病歷表，係符合健保局之規定，其等在偵查中因突被列
     為被告，在緩起訴之利誘下始承認病歷表係偽造云云，該緩
-    起訴處分所載犯罪事實並不能作為伊詐欺健保費之依據。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />
+    起訴處分所載犯罪事實並不能作為伊詐欺健保費之依據。
     美德中醫醫院李憲樹、劉存厚醫師警詢時均供證看診患者均
     為有生病，親自診察後再開立處方箋等情，由此亦足證美德
-    中醫醫師並無虛開病歷處方箋之行為。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />葛舜係美德中醫醫
+    中醫醫師並無虛開病歷處方箋之行為。葛舜係美德中醫醫
     院院長，九十四年十月一日至九十五年二月二十二日美德中
     醫醫院向健保局申報健保給付係以院長名義申報，並無盜領
-    健保給付，亦據證人葛舜證述明確在卷可稽。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />司機陳建宏
+    健保給付，亦據證人葛舜證述明確在卷可稽。司機陳建宏
     係於九十五年九月才到美德安養中心擔任司機，因此其指控
     各項不實之時間均在九十五年九月以後之事，因此陳建宏之
     各項不實指控即與本件無關，不能作為認定伊犯罪之證據。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />司機陳建宏在吳孟青醫師拒絕對沒生病老人開藥詐領健保
+    司機陳建宏在吳孟青醫師拒絕對沒生病老人開藥詐領健保
     費前，亦都有載就診老人到美德中醫，在其拒絕對沒有生病
     及不願看病之老人戴往美德中醫就診後，即都由蔡明輝親自
     載往美德中醫就診。足見就診老人都有人載往美德中醫看診
-    ，並無持健保卡而人未到院之看診情形。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B82A0A00000040.GIF" />據負責辦理美德
+    ，並無持健保卡而人未到院之看診情形。據負責辦理美德
     中醫醫院病患掛號登記之醫院行政人員即證人陳雅真到庭證
     稱：「初診病患只託人帶來健保卡人未到院，一律不予掛號
     看診，醫師當然不必看病，更無病歷表，有時已有初診或前
@@ -375,7 +268,7 @@ function openwin(URL,arguments,width,height)
     看診紀錄，證人陳建宏、鄭淑敏亦均不清楚，顯見證人葛舜
     、陳森山、湯燕雪醫師偵查中就在其等業務上製作之虛偽病
     歷紀錄等不實事項，所為之認罪表示，俱屬實在。（三）上
-    揭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />之辯解均係九十五年二月二十二日被告蔡明輝入境
+    揭、之辯解均係九十五年二月二十二日被告蔡明輝入境
     ，重掌美德中醫醫院、美德老人養護中心、美德護理之家事
     務之後，此自美德中醫醫院吳孟青、李憲樹、劉存厚醫師係
     分別於九十五年十一月間、九十六年四月三十日、九十七年
@@ -445,14 +338,14 @@ function openwin(URL,arguments,width,height)
     德中醫醫院掛名院長，伊有販賣窈窕曲羨給林靖堯等人，癌
     症特別門診全方位治療廣告係伊製作，病患朱金水及陳進生
     有到美德中醫醫院二樓辦公室諮詢有關療癒肝癌之食品及洗
-    腎注意事項之事實，惟矢口否認有何上揭犯行，辯稱：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />美
+    腎注意事項之事實，惟矢口否認有何上揭犯行，辯稱：美
     德中醫醫院於二樓固設有「癌症特別門診」，然設有專人醫
     師馬博榮、李憲樹、鍾玄夫醫師為癌症病人把脈診察，伊因
     在同一層樓亦設有理事長辦公室，然此為協會辦公處所及接
     洽客人朋友泡茶聊天之處所，並非用來為病人把脈診察處所
-    。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />伊並未對朱金水、陳進生把脈看診及開立病歷處方箋，
+    。伊並未對朱金水、陳進生把脈看診及開立病歷處方箋，
     亦無給予藥物治療，僅提供保健食品人參皂甘、共生菌、諾
-    麗水，並無診斷治療行為。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />窈窕曲羨原料藥粉係伊向楊亞
+    麗水，並無診斷治療行為。窈窕曲羨原料藥粉係伊向楊亞
     芳（即楊溱溱）購得，並由楊亞芳一次交付華允公司製成產
     品，伊即無需再另交不明藥粉給華允公司總經理陳韋旭，因
     此衛生署檢驗出該窈窕曲羨含有類緣物之西藥成份，並非伊
@@ -460,7 +353,7 @@ function openwin(URL,arguments,width,height)
     楊亞芳所交出之二十公斤原料藥粉所原有之類緣物成分，況
     且華允公司製成窈窕曲羨膠囊前已送昭信標準檢驗股份有限
     公司（下稱昭信標準公司）檢驗沒有問題，伊並無製造該藥
-    及明知係偽藥而販賣之犯行。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />美德中醫醫院製造之鼻舒靈
+    及明知係偽藥而販賣之犯行。美德中醫醫院製造之鼻舒靈
     、眼舒靈係由醫師兼院長葛舜之處方，再由藥師吳金良調劑
     完成，交由伊包裝陳列在醫院門診藥局之櫃檯，僅能在醫院
     內出售，且須有醫師處方始予出售，該藥品並非伊製造云云
@@ -498,7 +391,7 @@ function openwin(URL,arguments,width,height)
     年後結證該癌症門診是由馬博榮醫師負責看診，未看見蔡明
     輝替病患把脈看診乙節，即難憑採，顯見美德中醫醫院二樓
     癌症特別門診，並非由醫師馬博榮、李憲樹、鍾玄夫醫師看
-    診甚明。（二）<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />證人鍾麗玉即朱金水配偶於偵查中結證伊
+    診甚明。（二）證人鍾麗玉即朱金水配偶於偵查中結證伊
     曾經陪同其先生朱金水到美德中醫診所看診三次，因為伊先
     生有肝癌。是友人阿福介紹去給蔡明輝醫師看，伊二人到美
     德中醫診所一樓櫃檯掛號，告訴小姐說要找蔡醫師，小姐就
@@ -532,7 +425,7 @@ function openwin(URL,arguments,width,height)
     醫生看，而第三次沒有？）對。」、（妳在警察局和地檢署
     時，妳都說妳在二樓是看診，今天為何變成說到二樓是「聊
     天」？）那麼久了，我已經都不清楚。」等語（見偵查卷二
-    第二七九、二八０頁；本院卷第四十二至四十四頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />證
+    第二七九、二八０頁；本院卷第四十二至四十四頁）。證
     人陳進生於偵查中結證伊於九十七年間看到美德中醫診所內
     走廊廣告內容是關於腎臟病可吃藥治療，伊當時有腎臟病，
     奇美醫院醫師建議洗腎，伊去問美德中醫診所櫃臺小姐在走
@@ -713,13 +606,13 @@ function openwin(URL,arguments,width,height)
     七）被告蔡明輝坦承有販賣九十七年二月間製成之窈窕曲羨
     給林靖堯等人之事實，核與證人林靖堯、王宏霖於本院一０
     ０年四月二十七日審理時結證有向被告蔡明輝窈窕曲羨等情
-    （見本院卷三第三十八頁）；證人<font color='red'>許淑華</font>、余錦惠於偵查中
+    （見本院卷三第三十八頁）；證人許淑華、余錦惠於偵查中
     結證有向被告蔡明輝各買窈窕曲羨等情（見偵查卷二第一七
     一、二七五頁）；證人鄭淑芳於偵查中及本院一００年三月
     二日審理中均結證有向被告蔡明輝買窈窕曲羨等情（見偵查
     卷二第一二九頁、本院卷二第二一二頁）大致相符，故被告
     蔡明輝確有販賣九十七年二月間製成之偽藥窈窕曲羨給證人
-    林靖堯、<font color='red'>許淑華</font>、余錦惠、鄭淑芳等人甚明。（八）被告於
+    林靖堯、許淑華、余錦惠、鄭淑芳等人甚明。（八）被告於
     九十七年九月二日警詢時供稱扣案鼻舒靈、眼舒靈準備要賣
     的；另於同日偵查中及同年月三日本院羈押庭時均供稱鼻舒
     靈、眼舒靈均係自己製造等情（見偵查卷二第二十四頁、本
@@ -866,86 +759,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書狀（均須按他造當事人之人數附繕本）「切
 勿逕送上級法院」。
                                 書記官  蔡志賢
-中    華    民    國  100    年    7    月    29    日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\JUpload\Upload\OK\LAWTND\CRIMINAL\10007\29\TNDM1007T.03X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=001355&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c1355%2c20110729%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1355&jdate=1000729&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c1355%2c20110729%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1355&jdate=1000729&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c1355%2c20110729%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','1355','1000729','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許淑華">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許淑華">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國  100    年    7    月    29    日
+[*jrecno*]98,訴,1355,20110729,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]1355
+[*jdate*]1000729
+[*jcheck*]1

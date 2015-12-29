@@ -1,153 +1,46 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-101易2951</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e6%98%93&selectedCrmno=002951&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e6%98%93%2c2951%2c20130412%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=2951&jdate=1020412&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e6%98%93%2c2951%2c20130412%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=2951&jdate=1020412&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e6%98%93%2c2951%2c20130412%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e6%98%93','2951','1020412','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,易,2951</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020412</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">傷害</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　 101年度易字第2951號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e6%98%93%2c2951%2c20130412%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=2951&jdate=1020412&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e6%98%93&selectedCrmno=002951&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e6%98%93%2c2951%2c20130412%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=2951&jdate=1020412&jcheck=1
+[*裁判字號*]101,易,2951
+[*裁判日期*]1020412
+[*裁判案由*]傷害
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　 101年度易字第2951號
 公　訴　人　臺灣新北地方法院檢察署檢察官
-被　　　告　<font color='red'>劉文忠
-</font>被　　　告　鍾金菊
+被　　　告　劉文忠
+被　　　告　鍾金菊
 共　　　同
 選任辯護人　張　權律師
 　　　　　　林永瀚律師
 上列被告因傷害案件，經檢察官提起公訴（101 年度偵字第1032
 8 號），本院判決如下：
     主    文
-<font color='red'>劉文忠</font>、鍾金菊均無罪。
+劉文忠、鍾金菊均無罪。
     理    由
-一、公訴意旨略以：被告<font color='red'>劉文忠</font>與被告鍾金菊係夫妻，二人為鎧
+一、公訴意旨略以：被告劉文忠與被告鍾金菊係夫妻，二人為鎧
     鈺有限公司（下稱鎧鈺公司）之包商，負責承攬鎧鈺公司得
     標之標案，與曹宏全所任職、由其表哥黃炳遠所經營之明成
     國際股份有限公司（下稱明成公司）有合作關係；被告鍾金
     菊於民國101 年3 月22日16時許，代表鎧鈺公司前往址設新
     北市○○區○○路00號之新北市政府警察局參與警用報廢汽
-    、機車標案之開標會議，被告<font color='red'>劉文忠</font>則駕車在開標現場附近
-    等候被告鍾金菊，且被告<font color='red'>劉文忠</font>知悉曹宏全於開標時間亦在
+    、機車標案之開標會議，被告劉文忠則駕車在開標現場附近
+    等候被告鍾金菊，且被告劉文忠知悉曹宏全於開標時間亦在
     開標現場附近，嗣被告鍾金菊因不滿告訴人林強銘於開標時
     向承辦人員反應鎧鈺公司投標登錄時間為11時31分許，業已
     超過投標截止時間11時30分許，致主席宣布各投標廠商需暫
     時離開開標室，待主辦單位討論鎧鈺公司投標資格是否合格
-    之情，導致被告鍾金菊心生不悅，竟與被告<font color='red'>劉文忠</font>、曹宏全
+    之情，導致被告鍾金菊心生不悅，竟與被告劉文忠、曹宏全
     、羅友成、羅翊（曹宏全、羅友成、羅翊部分，另以簡易判
     決處刑判決有罪）與真實姓名年籍均不詳綽號「阿弟仔」之
     成年男子，共同基於傷害之犯意，由被告鍾金菊於同日16時
     21分許，以其所使用之0000000000號門號撥打電話告知被告
-    <font color='red'>劉文忠</font>鎧鈺公司遭告訴人林強銘質疑投標時間逾時之事，被
-    告<font color='red'>劉文忠</font>旋於同日16時23分許，將此事以其所使用之000000
+    劉文忠鎧鈺公司遭告訴人林強銘質疑投標時間逾時之事，被
+    告劉文忠旋於同日16時23分許，將此事以其所使用之000000
     0000號門號撥打電話告知亦在開標現場附近之曹宏全，曹宏
     全遂偕同羅友成、羅翊及「阿弟仔」，於同日16時35分許，
     見告訴人林強銘自開標室離開走至新北市政府警察局門口等
     候承辦人員討論鎧鈺公司投標合格與否之際，即共同徒手毆
     打告訴人林強銘之臉部，致告訴人林強銘涉有顏面鈍挫傷之
-    傷害。因認被告<font color='red'>劉文忠</font>、被告鍾金菊共同涉犯刑法第277 條
+    傷害。因認被告劉文忠、被告鍾金菊共同涉犯刑法第277 條
     第1 項之普通傷害罪嫌等語。
 二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實；又
     不能證明被告犯罪者，即應諭知無罪之判決，刑事訴訟法第
@@ -176,17 +69,17 @@ function openwin(URL,arguments,width,height)
     為已足，尤須綜合一切積極佐證，除認定被告確為加害人之
     可能外，在推理上無從另為其他合理原因之假設，有一不合
     於此，即不能以被害人之陳述作為論斷之證據。
-三、公訴意旨認被告<font color='red'>劉文忠</font>、鍾金菊（下稱被告二人）涉犯刑法
+三、公訴意旨認被告劉文忠、鍾金菊（下稱被告二人）涉犯刑法
     第277 條第1 項傷害之罪嫌，無非係以告訴人林強銘於警詢
     及偵查中指訴、共同被告曹宏全、羅友成、羅翊於警詢及偵
     查中供述、行政院衛生署基隆醫院驗傷診斷書1 紙、新北市
     政府警察局板橋分局101 年6 月7 日新北警板刑字第000000
     0000號函暨所附之案發現場平面圖、監視器畫面翻拍照片14
-    張、被告<font color='red'>劉文忠</font>所使用之0000000000號門號、被告鍾金菊所
+    張、被告劉文忠所使用之0000000000號門號、被告鍾金菊所
     使用之0000000000號門號、被告曹宏全所使用之0000000000
     號門號於101 年3 月22日及101 年6 月12日之雙向通聯紀錄
-    各乙份為據。訊據被告二人均否認有何傷害犯行，被告<font color='red'>劉文
-    忠</font>辯稱：其是鎧鈺有限公司之包商，負責承攬鎧鈺公司得標
+    各乙份為據。訊據被告二人均否認有何傷害犯行，被告劉文
+    忠辯稱：其是鎧鈺有限公司之包商，負責承攬鎧鈺公司得標
     之標案，與曹宏全所任職之明成國際股份有限公司有合作關
     係，其本身另外有開設新旺通運有限公司及忠奇實業有限公
     司，只要公家單位有上網標售車輛、廢五金，其都會以鎧鈺
@@ -214,16 +107,16 @@ function openwin(URL,arguments,width,height)
     也沒跟曹宏全他們說，林強銘有質疑的事情，不知道為何曹
     宏全、羅友成、羅翊會去打林強銘等語。被告鍾金菊辯稱：
     其本身工作是在臺灣肥料公司的承攬商川尹實業有限公司擔
-    任勞安及現場管理人員，當天是因為<font color='red'>劉文忠</font>身體不舒服，<font color='red'>劉
-    文忠</font>委託其女兒劉倩如去投標，其女兒要其陪去順便看車，
+    任勞安及現場管理人員，當天是因為劉文忠身體不舒服，劉
+    文忠委託其女兒劉倩如去投標，其女兒要其陪去順便看車，
     投標時，其女兒打電話跟其說時間沒有超過，但經辦人員說
     已經超過時間11點30分，不收她的件，其就過去，其看其的
     手錶是11點28分，經辦人員說以他們的卡鐘為主，後來就如
     其先生所述去跟主管反應，後來就收件了，這時並沒有其他
-    投標廠商。下午開標是其跟其女兒一車，不知道<font color='red'>劉文忠</font>當時
-    在哪裡，也沒有打電話跟<font color='red'>劉文忠</font>，因為在投標室內沒有帶手
-    機，4 點21分應該是其女兒打電話給<font color='red'>劉文忠</font>，其也沒有打電
-    話跟<font color='red'>劉文忠</font>說林強銘有質疑投標資格的事，後來主管機關宣
+    投標廠商。下午開標是其跟其女兒一車，不知道劉文忠當時
+    在哪裡，也沒有打電話跟劉文忠，因為在投標室內沒有帶手
+    機，4 點21分應該是其女兒打電話給劉文忠，其也沒有打電
+    話跟劉文忠說林強銘有質疑投標資格的事，後來主管機關宣
     布鎧鈺公司是有效標，有4 、5 個廠商說不公平，他們是針
     對另外一家未投標的廠商，其不認識曹宏全、羅翊、羅友成
     ，在開標室外面也沒有看到曹宏全、羅翊、羅友成等語。經
@@ -243,10 +136,10 @@ function openwin(URL,arguments,width,height)
 （二）告訴人於警詢及偵查中雖均指訴：在開標之際伊立刻向警
       察局主張鎧鈺公司超過時間喪失參與投標資格，可能因此
       引發鍾金菊不悅，當時有看到鍾金菊打電話，伊走出開標
-      室約5 分鐘就被打，所以應該是<font color='red'>劉文忠</font>或鍾金菊叫人來打
-      伊等語，惟證人即告訴人於本院審理時則證稱：與<font color='red'>劉文忠
-      </font>認識2 年左右，與<font color='red'>劉文忠</font>、鍾金菊在本案之前無糾紛，只
-      有與<font color='red'>劉文忠</font>後來沒有配合，當天早上並不知道鎧鈺公司有
+      室約5 分鐘就被打，所以應該是劉文忠或鍾金菊叫人來打
+      伊等語，惟證人即告訴人於本院審理時則證稱：與劉文忠
+      認識2 年左右，與劉文忠、鍾金菊在本案之前無糾紛，只
+      有與劉文忠後來沒有配合，當天早上並不知道鎧鈺公司有
       超時投標問題，是下午參加開標會議，主席宣布時才知道
       鎧鈺公司投標資格有爭議，伊有看到鍾金菊在開標室內講
       電話，但講什麼內容不知道，伊不知道是否為被告二人叫
@@ -256,8 +149,8 @@ function openwin(URL,arguments,width,height)
       況比較亂，所以開標人員請廠商先出去開標人員說要開會
       討論，伊就離開開標室走幾秒鐘到大門口想抽煙然後就被
       打，只有伊一人被打，伊被打時有看到其他廠商在伊旁邊
-      ，之前曾要頂讓基隆報廢工廠給<font color='red'>劉文忠</font>，但因<font color='red'>劉文忠</font>資金
-      沒有到就頂給其他人，但這件事伊也無法確定<font color='red'>劉文忠</font>是否
+      ，之前曾要頂讓基隆報廢工廠給劉文忠，但因劉文忠資金
+      沒有到就頂給其他人，但這件事伊也無法確定劉文忠是否
       對伊不滿，曹宏全等人跟伊剛碰面叫伊跟他走，伊回說又
       不認識你為何要跟伊走等語（見本院卷第136 頁至第140
       頁背面），是以告訴人在本案發生前與被告二人並無任何
@@ -307,19 +200,19 @@ function openwin(URL,arguments,width,height)
       辯稱其當日16時21分許在開標室內並無撥打電話，在進入
       開標室時就將電話交給大女兒劉倩如，這通電話應該是劉
       倩如打的等語，然被告鍾金菊於警詢時供稱當日16時21分
-      許跟被告<font color='red'>劉文忠</font>對話大概是講資格已經符合，可以開標了
-      等語，且被告<font color='red'>劉文忠</font>於偵查中及法院審理時均供稱不記得
+      許跟被告劉文忠對話大概是講資格已經符合，可以開標了
+      等語，且被告劉文忠於偵查中及法院審理時均供稱不記得
       是太太還是女兒打給伊，是在講標案時間問題等語，而鐘
       金菊所使用之門號0000000000號於當日16時21分許有撥打
-      電話至被告<font color='red'>劉文忠</font>所使用之0000000000號一節，有門號00
+      電話至被告劉文忠所使用之0000000000號一節，有門號00
       00000000號、0000000000號之雙向通聯紀錄各1 份（見偵
       卷第29頁第34頁）在卷可稽，是以堪認被告鍾金菊有使用
-      門號0000000000號於當日16時21分許撥打電話至被告<font color='red'>劉文
-      忠</font>所使用門號0000000000號之行動電話，又被告<font color='red'>劉文忠</font>所
+      門號0000000000號於當日16時21分許撥打電話至被告劉文
+      忠所使用門號0000000000號之行動電話，又被告劉文忠所
       使用門號0000000000行動電話於當日16時23分許亦有撥打
       至曹宏全所使用門號0000000000號行動電話一節，亦有門
       號0000000000號、0000000000號之雙向通聯紀錄各1 份（
-      見偵卷第29頁第38頁背面）在卷可稽，然被告<font color='red'>劉文忠</font>供稱
+      見偵卷第29頁第38頁背面）在卷可稽，然被告劉文忠供稱
       其跟曹宏全不熟，從100 年開始跟黃炳遠的明成公司合作
       2 、3 次，合作模式就是鎧鈺公司標得的物品有部分會賣
       給他們，本件標案在還沒有投標前，其就把投標清冊傳真
@@ -330,30 +223,30 @@ function openwin(URL,arguments,width,height)
       不清楚路，其沒有跟曹宏全見面，電話中有跟曹宏全說開
       標地點在新北市政府警察局，也沒跟曹宏全他們說，林強
       銘有質疑的事情等語，核與曹宏全於偵查中供稱當天有跟
-      <font color='red'>劉文忠</font>講電話，一通是在問開標時間，一通是在講投標項
-      目，至於當日16時23分<font color='red'>劉文忠</font>打給伊說什麼忘了，當天過
+      劉文忠講電話，一通是在問開標時間，一通是在講投標項
+      目，至於當日16時23分劉文忠打給伊說什麼忘了，當天過
       去是要看結標金額跟投標廠商有誰，伊不知道鎧鈺公司遭
       人質疑投標資格等語大致相符，又曹宏全於當日上午10時
       14分、12時15分、12時51分、15時33分、15時40分、16時
       26分均有以所使用之門號0000000000號行動電話撥打電話
-      給被告<font color='red'>劉文忠</font>所使用0000000000號行動電話；而被告<font color='red'>劉文
-      忠</font>於當日15時30分、16時23分打電話給曹宏全等情，亦有
+      給被告劉文忠所使用0000000000號行動電話；而被告劉文
+      忠於當日15時30分、16時23分打電話給曹宏全等情，亦有
       門號0000000000號、0000000000號之雙向通聯紀錄各1 份
-      （見偵卷第29頁第38頁背面）在卷可稽，是以被告<font color='red'>劉文忠
-      </font>與曹宏全當日上午10時14分起至當日16時26分許雙方即互
+      （見偵卷第29頁第38頁背面）在卷可稽，是以被告劉文忠
+      與曹宏全當日上午10時14分起至當日16時26分許雙方即互
       有聯絡，且從告訴人指訴其是下午開標時始知悉鎧鈺公司
-      投標有爭議才質疑，則被告<font color='red'>劉文忠</font>辯稱跟曹宏全通電話在
+      投標有爭議才質疑，則被告劉文忠辯稱跟曹宏全通電話在
       講投標等事宜，尚非無據，況告訴人指訴其不認識毆打伊
       的四位男子，也不認識帶頭之曹宏全，則若為被告二人要
       曹宏全等人來毆打告訴人，則被告二人如何能在告訴人於
       當日下午質疑鎧鈺公司之投標資格後離開開標室清楚掌握
       告訴人行蹤，並由在場被告鍾金菊電話通知不在警局內之
-      被告<font color='red'>劉文忠</font>後，再由被告<font color='red'>劉文忠</font>在電話中正確告訴曹宏全
+      被告劉文忠後，再由被告劉文忠在電話中正確告訴曹宏全
       關於告訴人離開開標室後會前往何處或其長相、身形而確
       保曹宏全等人不會打錯人等情，此顯與常情相違，是公訴
       人以被告鍾金菊所使用之門號0000000000號於當日16時21
-      分許撥打電話至被告<font color='red'>劉文忠</font>所使用門號0000000000號之行
-      動電話內，又被告<font color='red'>劉文忠</font>所使用門號0000000000行動電話
+      分許撥打電話至被告劉文忠所使用門號0000000000號之行
+      動電話內，又被告劉文忠所使用門號0000000000行動電話
       於當日16時23分許亦有撥打至曹宏全所使用門號00000000
       00號行動電話，進而認為被告二人與曹宏全、羅友成、羅
       翊基於傷害犯意聯絡，為共同為本件傷害犯行，顯屬無據
@@ -373,86 +266,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
 逕送上級法院」
                               書記官  楊璧華
-中    華    民    國   102    年    4     月    12    日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10204\12\PCDM1024C.00X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e6%98%93&selectedCrmno=002951&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e6%98%93%2c2951%2c20130412%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=2951&jdate=1020412&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e6%98%93%2c2951%2c20130412%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=2951&jdate=1020412&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e6%98%93%2c2951%2c20130412%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e6%98%93','2951','1020412','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文忠">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文忠">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   102    年    4     月    12    日
+[*jrecno*]101,易,2951,20130412,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]易
+[*jno*]2951
+[*jdate*]1020412
+[*jcheck*]1

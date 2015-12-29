@@ -1,131 +1,24 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-102訴764</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000764&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c764%2c20130923%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=764&jdate=1020923&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c764%2c20130923%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=764&jdate=1020923&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c764%2c20130923%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','764','1020923','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,764</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020923</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　102年度訴字第764號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c764%2c20130923%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=764&jdate=1020923&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000764&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c764%2c20130923%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=764&jdate=1020923&jcheck=1
+[*裁判字號*]102,訴,764
+[*裁判日期*]1020923
+[*裁判案由*]違反毒品危害防制條例
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　102年度訴字第764號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
-被　　　告　<font color='red'>林家興
-</font>選任辯護人　張貴閔律師
+被　　　告　林家興
+選任辯護人　張貴閔律師
 上列被告因毒品危害防制條例案件，經檢察官提起公訴（102 年
 度偵字第5572號），本院判決如下：
     主    文        
-<font color='red'>林家興</font>所犯罪名及處罰，詳如附表「所犯罪名及處罰」欄所示，
+林家興所犯罪名及處罰，詳如附表「所犯罪名及處罰」欄所示，
 應執行有期徒刑伍年。未扣案之販賣第二級毒品所得共新臺幣陸
 仟元沒收之，如全部或一部不能沒收時，以其財產抵償之；未扣
 案之序號00000000000000C 號手機壹支沒收之，如全部或一部不
 能沒收時，追徵其價額；扣案之黑色NOKIA 牌行動電話壹支、門
 號0000000000號SIM 卡壹張，均沒收之
     犯罪事實        
-一、<font color='red'>林家興</font>前因毒品危害防制條例案件，經本院以97年度簡字第
+一、林家興前因毒品危害防制條例案件，經本院以97年度簡字第
     127 號判處有期徒刑6 月確定，於民國98年1 月22日縮刑期
     滿執行完畢。仍不知悔改，明知甲基安非他命係毒品危害防
     制條例第2 條第2 項第2 款所列管之第2 級毒品，不得非法
@@ -134,7 +27,7 @@ function openwin(URL,arguments,width,height)
     以附表編號(一)至(六)所示之方式、價格及數量，販賣第2 級毒
     品甲基安非他命予附表編號(一)至(六)所示之人（各次販賣甲基
     安非他命之對象、時間、地點、方式、價格及數量等均詳如
-    附表編號(一)至(六)所載）。嗣經檢察官向本院聲請對<font color='red'>林家興</font>所
+    附表編號(一)至(六)所載）。嗣經檢察官向本院聲請對林家興所
     使用之門號0000000000號行動電話實施通訊監察而查悉上情
     ，並經警於102 年7 月3 日17時25分許，持搜索票前往其位
     於彰化縣永靖鄉○○村○○巷000 弄00號住處執行搜索，扣
@@ -357,7 +250,7 @@ function openwin(URL,arguments,width,height)
 │編│購毒者│時間、地點│販賣方式、價格及數量  │    所犯罪名及處罰      │
 │號│      │          │                      │                        │
 ├─┼───┼─────┼───────────┼────────────┤
-│(一)│陳志信│102 年5 月│102 年5 月23日6 時46分│<font color='red'>林家興</font>販賣第二級毒品，累│
+│(一)│陳志信│102 年5 月│102 年5 月23日6 時46分│林家興販賣第二級毒品，累│
 │  │      │23日6 時46│57秒，以其所有之序號35│犯，處有期徒刑肆年，販賣│
 │  │      │分通話後約│000000000000C 號、插用│第二級毒品所得新臺幣壹仟│
 │  │      │4 分鐘；彰│門號0000000000號SIM 卡│元沒收，如全部或一部不能│
@@ -369,10 +262,10 @@ function openwin(URL,arguments,width,height)
 │  │      │          │1,000 元價格，販賣予陳│0000000000號SIM 卡壹張沒│
 │  │      │          │志信，得款1,000 元。  │收之。                  │
 ├─┼───┼─────┼───────────┼────────────┤
-│(二)│陳志信│102 年5 月│102 年5 月25日18時01分│<font color='red'>林家興</font>販賣第二級毒品，累│
+│(二)│陳志信│102 年5 月│102 年5 月25日18時01分│林家興販賣第二級毒品，累│
 │  │      │25日19時17│30秒、18時09分44秒、18│犯，處有期徒刑肆年貳月，│
 │  │      │分通話後約│時52分28秒、19時12分38│販賣第二級毒品所得新臺幣│
-│  │      │15分鐘；彰│秒、19時17分51秒，以其│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部│
+│  │      │15分鐘；彰│秒、19時17分51秒，以其│仟元沒收，如全部或一部│
 │  │      │化縣永靖鄉│所有之序號000000000000│不能沒收時，以其財產抵償│
 │  │      │九分路第一│90C 號、插用門號098366│之。未扣案之序號00000000│
 │  │      │公墓      │8434號SIM 卡之行動電話│586390C 號行動電話壹支沒│
@@ -385,8 +278,8 @@ function openwin(URL,arguments,width,height)
 │  │      │          │甲基安非他命1 包予陳志│                        │
 │  │      │          │信。                  │                        │
 ├─┼───┼─────┼───────────┼────────────┤
-│(三)│賴建男│102 年5 月│102 年5 月21日11時29分│<font color='red'>林家興</font>販賣第二級毒品，累│
-│  │      │21日17時01│08秒、17時01分21秒，以│犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，│
+│(三)│賴建男│102 年5 月│102 年5 月21日11時29分│林家興販賣第二級毒品，累│
+│  │      │21日17時01│08秒、17時01分21秒，以│犯，處有期徒刑年捌月，│
 │  │      │分通話後約│其所有之序號0000000000│販賣第二級毒品所得新臺幣│
 │  │      │10分鐘；彰│6390C 號、插用門號0983│伍佰元沒收，如全部或一部│
 │  │      │化縣永靖鄉│668434號SIM 卡之行動電│不能沒收時，以其財產抵償│
@@ -398,8 +291,8 @@ function openwin(URL,arguments,width,height)
 │  │      │          │格，販賣予賴建男，得款│張沒收之。              │
 │  │      │          │500 元。              │                        │
 ├─┼───┼─────┼───────────┼────────────┤
-│(四)│賴建男│102 年5 月│102 年5 月22日11時48分│<font color='red'>林家興</font>販賣第二級毒品，累│
-│  │      │22日19時35│20秒、12時21分18秒、19│犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，│
+│(四)│賴建男│102 年5 月│102 年5 月22日11時48分│林家興販賣第二級毒品，累│
+│  │      │22日19時35│20秒、12時21分18秒、19│犯，處有期徒刑年捌月，│
 │  │      │分通話後約│時09分04秒、19時35分03│販賣第二級毒品所得新臺幣│
 │  │      │15分鐘；彰│秒，以其所有之序號3563│伍佰元沒收，如全部或一部│
 │  │      │化縣永靖鄉│0000000000C 號、插用門│不能沒收時，以其財產抵償│
@@ -412,8 +305,8 @@ function openwin(URL,arguments,width,height)
 │  │      │          │500 元價格，販賣予賴建│                        │
 │  │      │          │男，得款500 元。      │                        │
 ├─┼───┼─────┼───────────┼────────────┤
-│(五)│賴建男│102 年5 月│102 年5 月23日10時21分│<font color='red'>林家興</font>販賣第二級毒品，累│
-│  │      │23日11時52│05秒、11時42分47秒、11│犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，│
+│(五)│賴建男│102 年5 月│102 年5 月23日10時21分│林家興販賣第二級毒品，累│
+│  │      │23日11時52│05秒、11時42分47秒、11│犯，處有期徒刑年捌月，│
 │  │      │分通話後約│時52分11秒，以其所有之│販賣第二級毒品所得新臺幣│
 │  │      │10分鐘；彰│序號00000000000000C 號│伍佰元沒收，如全部或一部│
 │  │      │化縣永靖鄉│、插用門號0000000000號│不能沒收時，以其財產抵償│
@@ -425,8 +318,8 @@ function openwin(URL,arguments,width,height)
 │  │      │          │小包以500 元價格，販賣│張沒收之。              │
 │  │      │          │予賴建男，得款500 元。│                        │
 ├─┼───┼─────┼───────────┼────────────┤
-│(六)│賴建男│102 年6 月│102 年6 月1 日12時03分│<font color='red'>林家興</font>販賣第二級毒品，累│
-│  │      │1 日19時29│38秒、12時09分50秒、17│犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，│
+│(六)│賴建男│102 年6 月│102 年6 月1 日12時03分│林家興販賣第二級毒品，累│
+│  │      │1 日19時29│38秒、12時09分50秒、17│犯，處有期徒刑年捌月，│
 │  │      │分通話後約│時45分55秒、19時28分17│販賣第二級毒品所得新臺幣│
 │  │      │10分鐘；彰│秒、19時29分02秒，以其│伍佰元沒收，如全部或一部│
 │  │      │化縣永靖鄉│所有之黑色NOKIA 牌、插│不能沒收時，以其財產抵償│
@@ -438,86 +331,12 @@ function openwin(URL,arguments,width,height)
 │  │      │          │毒品甲基安非他命1 小包│                        │
 │  │      │          │以500 元價格，販賣予賴│                        │
 │  │      │          │建男，得款500 元。    │                        │
-└─┴───┴─────┴───────────┴────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10209\23\CHDM1029N.013] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000764&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c764%2c20130923%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=764&jdate=1020923&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c764%2c20130923%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=764&jdate=1020923&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c764%2c20130923%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','764','1020923','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林家興">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林家興">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴───┴─────┴───────────┴────────────┘
+[*jrecno*]102,訴,764,20130923,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]764
+[*jdate*]1020923
+[*jcheck*]1

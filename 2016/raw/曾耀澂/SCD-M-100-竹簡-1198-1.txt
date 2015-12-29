@@ -1,131 +1,24 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新竹地方法院-刑-100竹簡1198</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新竹地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第7
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%ab%b9%e7%b0%a1&selectedCrmno=001198&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=1198&jdate=1010105&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=1198&jdate=1010105&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e7%ab%b9%e7%b0%a1','1198','1010105','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,竹簡,1198</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010105</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">傷害</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新竹地方法院刑事簡易判決　　100年度竹簡字第1198號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=1198&jdate=1010105&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%ab%b9%e7%b0%a1&selectedCrmno=001198&selectedCrtid=SCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=1198&jdate=1010105&jcheck=1
+[*裁判字號*]100,竹簡,1198
+[*裁判日期*]1010105
+[*裁判案由*]傷害
+[*裁判全文*]臺灣新竹地方法院刑事簡易判決　　100年度竹簡字第1198號
 聲　請　人　臺灣新竹地方法院檢察署檢察官
-被　　　告　<font color='red'>曾耀澂　</font>37歲民.
+被　　　告　曾耀澂　37歲民.
 上列被告因傷害案件，經檢察官聲請以簡易判決處刑（100 年度
 偵字第7975號），本院判決如下：
     主  文
-<font color='red'>曾耀澂</font>犯傷害罪，處有期徒刑貳月；如易科罰金，以新臺幣壹仟
+曾耀澂犯傷害罪，處有期徒刑貳月；如易科罰金，以新臺幣壹仟
 元折算壹日。
     犯罪事實及理由
-一、犯罪事實：<font color='red'>曾耀澂</font>因前在址設新竹市○○路335 號「網路帝
+一、犯罪事實：曾耀澂因前在址設新竹市○○路335 號「網路帝
     國網咖」消費之際與在同店內消費之林瑾揚有口角爭執，故
     對林瑾揚心生不滿；嗣於民國100 年7 月10日下午1 時許，
-    <font color='red'>曾耀澂</font>在上開店內遇見林瑾揚，因林瑾揚在走道上繞過<font color='red'>曾耀
-    澂</font>通過時，<font color='red'>曾耀澂</font>自覺其左肩遭林瑾揚碰撞，又因<font color='red'>曾耀澂</font>之
-    左肩因傷復健中而感到疼痛，<font color='red'>曾耀澂</font>竟基於傷害人之身體之
+    曾耀澂在上開店內遇見林瑾揚，因林瑾揚在走道上繞過曾耀
+    澂通過時，曾耀澂自覺其左肩遭林瑾揚碰撞，又因曾耀澂之
+    左肩因傷復健中而感到疼痛，曾耀澂竟基於傷害人之身體之
     犯意，先以身體撞擊林瑾揚，旋以預藏之紅色球棒朝林瑾揚
     身體揮打，致林瑾揚受有右肩、右上臂挫傷等傷害。嗣經林
     瑾揚於100 年8 月11日下午6 時58分檢具診斷證明書報警，
@@ -133,7 +26,7 @@ function openwin(URL,arguments,width,height)
 二、案經林瑾揚訴由新竹市警察局第三分局報告臺灣新竹地方法
     院檢察署檢察官偵查後聲請簡易判決處刑。
 三、理由：
-（一）訊據被告<font color='red'>曾耀澂</font>固承認有傷害之犯行，然其於偵查中、檢
+（一）訊據被告曾耀澂固承認有傷害之犯行，然其於偵查中、檢
       察事務官詢問中及本院訊問時均辯稱：在案發當時，伊持
       棒球棒是為了左肩復健使用，而將棒球棒帶到新竹市○○
       路335 號「網路帝國網咖」內，然在此之前伊從未以棒球
@@ -147,36 +40,36 @@ function openwin(URL,arguments,width,height)
       時情緒沒有控制好云云（見偵查卷第8 、9 、27至29頁，
       本院卷第32、33頁）。惟查：
   １、告訴人即被害人林瑾揚於警詢、檢查事務官詢問及本院訊
-      問時指訴甚詳。其稱：被告<font color='red'>曾耀澂</font>於100年7月10日下午1
+      問時指訴甚詳。其稱：被告曾耀澂於100年7月10日下午1
       時許，在新竹市○○路335號「網路帝國網咖」內檔在走
-      道上，他便繞過從伊右側通過。他不想跟被告<font color='red'>曾耀澂</font>起爭
+      道上，他便繞過從伊右側通過。他不想跟被告曾耀澂起爭
       執，所以繼續往前走，後來發現右手臂很痛，轉身後他才
-      發現被告<font color='red'>曾耀澂</font>手持紅色球棒攻擊他，他因此右肩部及右
+      發現被告曾耀澂手持紅色球棒攻擊他，他因此右肩部及右
       上臂挫傷等語（見偵查卷第4至7、24、25頁，本院卷第32
       頁背面、33頁）。
   ２、另證人林淵儒於檢察事務官詢問中之證述稱：100年7月10
       日他跟告訴人林瑾揚一起到新竹市○○路335號「網路帝
-      國網咖」消費，告訴人林瑾揚要去上廁所時，被告<font color='red'>曾耀澂
-      </font>與之發生口角，後來被告<font color='red'>曾耀澂</font>就拿起棍棒打告訴人林瑾
+      國網咖」消費，告訴人林瑾揚要去上廁所時，被告曾耀澂
+      與之發生口角，後來被告曾耀澂就拿起棍棒打告訴人林瑾
       揚，他與證人王嘉龍、楊君翔就上前制止等語（見偵查卷
       第32、33頁）。
   ３、又證人楊鈞翔於檢察事務官詢問中之證述稱：100年7月10
       日下午1時許，當時他在新竹市○○路335號「網路帝國網
       咖」內打電腦，聽到告訴人林瑾揚說「你在幹什麼」，回
-      頭就看到被告<font color='red'>曾耀澂</font>撞告訴人林瑾揚，告訴人林瑾揚閃過
-      後，被告<font color='red'>曾耀澂</font>就拿棒球棒打告訴人林瑾揚等語（見偵查
+      頭就看到被告曾耀澂撞告訴人林瑾揚，告訴人林瑾揚閃過
+      後，被告曾耀澂就拿棒球棒打告訴人林瑾揚等語（見偵查
       卷第33頁）。
   ４、復證人王嘉龍於檢察事務官詢問中之證述稱：100年7月10
       日下午1時許，當時他在新竹市○○路335號「網路帝國網
       咖」內打電腦，看到證人楊鈞翔回頭他也回頭，見到被告
-      <font color='red'>曾耀澂</font>拿棒球棒打告訴人林瑾揚，他與證人林淵儒、楊鈞
+      曾耀澂拿棒球棒打告訴人林瑾揚，他與證人林淵儒、楊鈞
       翔有上前制止等語（見偵查卷第33頁）。
   ５、衡酌上述告訴人林瑾揚之指述與證人林淵儒、楊鈞翔、王
-      嘉龍等之證詞，與被告<font color='red'>曾耀澂</font>自承持球棒傷害告訴人林瑾
-      揚之情節相符，是以，被告<font color='red'>曾耀澂</font>確有持球棒攻擊告訴人
+      嘉龍等之證詞，與被告曾耀澂自承持球棒傷害告訴人林瑾
+      揚之情節相符，是以，被告曾耀澂確有持球棒攻擊告訴人
       林瑾揚並致告訴人林瑾揚受有右肩部及右上臂挫傷之傷害
       。
-（二）被告<font color='red'>曾耀澂</font>固以告訴人林瑾揚先撞倒伊左肩膀致伊疼痛不
+（二）被告曾耀澂固以告訴人林瑾揚先撞倒伊左肩膀致伊疼痛不
       已，伊才持有紅色棒球棒打告訴人林瑾揚，伊並不是要攻
       擊對方，是為了防衛（見本院卷第32頁背面），主張伊係
       正當防衛並無傷害告訴人林瑾揚之故意。然，按正當防衛
@@ -196,24 +89,24 @@ function openwin(URL,arguments,width,height)
       利，該項反擊行為顯然欠缺必要性，即不能成立正當防衛
       （最高法院79年台上字第38號判決、99年台上字第6114號
       判決可資參考）。準此，本院審酌案發當時發生爭執之上
-      述情景，被告<font color='red'>曾耀澂</font>因告訴人林瑾揚通過網路咖啡店中走
+      述情景，被告曾耀澂因告訴人林瑾揚通過網路咖啡店中走
       道之際，自覺左肩遭告訴人林瑾揚碰撞，姑不論告訴人林
-      瑾揚是否確有碰撞被告<font color='red'>曾耀澂</font>之左肩，以及此碰撞行為是
+      瑾揚是否確有碰撞被告曾耀澂之左肩，以及此碰撞行為是
       否係告訴人林瑾揚故意或過失行為所致，嗣後告訴人林瑾
-      揚並未再有任何不法侵害被告<font color='red'>曾耀澂</font>之狀態，則被告<font color='red'>曾耀
-      澂</font>自不得對已過去之侵害，主張正當防衛，而被告<font color='red'>曾耀澂
-      </font>仍持球棒攻擊告訴人林瑾揚，伊所為已非防衛行為，亦屬
+      揚並未再有任何不法侵害被告曾耀澂之狀態，則被告曾耀
+      澂自不得對已過去之侵害，主張正當防衛，而被告曾耀澂
+      仍持球棒攻擊告訴人林瑾揚，伊所為已非防衛行為，亦屬
       灼然。
-（三）綜上，本件被告<font color='red'>曾耀澂</font>犯行明確，應依法予以論科。
+（三）綜上，本件被告曾耀澂犯行明確，應依法予以論科。
 四、論罪科刑：
-（一）論罪：是核被告<font color='red'>曾耀澂</font>所為，係犯刑法第277 條第1 項之
+（一）論罪：是核被告曾耀澂所為，係犯刑法第277 條第1 項之
       傷害罪。
-（二）量刑：爰審酌被告<font color='red'>曾耀澂</font>前有違反麻醉藥品管理案之刑事
+（二）量刑：爰審酌被告曾耀澂前有違反麻醉藥品管理案之刑事
       紀錄，有臺灣高等法院被告前案紀錄表1 份在卷可佐，足
       徵其素行難謂良善，其與告訴人林瑾揚偶於「網路帝國網
       咖」之公共場所中發生口角，竟持球棒攻擊告訴人，致告
       訴人林瑾揚受有右肩、右上臂挫傷等傷害，顯見其自我情
-      緒控制能力薄弱，再衡酌被告<font color='red'>曾耀澂</font>犯後狡詞卸責，態度
+      緒控制能力薄弱，再衡酌被告曾耀澂犯後狡詞卸責，態度
       不佳，並因告訴人林瑾揚不願與其和解，致雙方無法和解
       成立等一切情狀，量處如主文所示之刑，併諭知易科罰金
       之折算標準，以示懲儆。
@@ -234,86 +127,12 @@ function openwin(URL,arguments,width,height)
 傷害人之身體或健康者，處3年以下有期徒刑、拘役或1千元以下
 罰金。
 犯前項之罪因而致人於死者，處無期徒刑或7 年以上有期徒刑；
-致重傷者，處3年以上10年以下有期徒刑</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWSCD\CRIMINAL\10101\05\SCDM10115.00A] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第7
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%ab%b9%e7%b0%a1&selectedCrmno=001198&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e8%80%80%e6%be%82&sdate=&edate=&page=&searchkw=%e6%9b%be%e8%80%80%e6%be%82&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=1198&jdate=1010105&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%ab%b9%e7%b0%a1&jno=1198&jdate=1010105&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e7%ab%b9%e7%b0%a1%2c1198%2c20120105%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e7%ab%b9%e7%b0%a1','1198','1010105','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="SCD 臺灣新竹地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="曾耀澂">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="曾耀澂">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+致重傷者，處3年以上10年以下有期徒刑
+[*jrecno*]100,竹簡,1198,20120105,1
+[*v_court*]SCD 臺灣新竹地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]竹簡
+[*jno*]1198
+[*jdate*]1010105
+[*jcheck*]1

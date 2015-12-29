@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-100金上重訴12</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+4Ye9ddDe1XkxQm1554D18SCUQfs=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共35
-											筆 / 現在第8
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000012&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=12&jdate=1020207&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=12&jdate=1020207&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','100','%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4','12','1020207','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,金上重訴,12</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020207</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">銀行法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　 100年度金上重訴字第12號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=12&jdate=1020207&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000012&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=12&jdate=1020207&jcheck=2
+[*裁判字號*]100,金上重訴,12
+[*裁判日期*]1020207
+[*裁判案由*]銀行法等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　 100年度金上重訴字第12號
 上　訴　人
 即　被　告　曾美惠
 選任辯護人　葛孟靈律師
@@ -166,7 +61,7 @@ function openwin(URL,arguments,width,height)
     裕、藍慶洲、謝春芳，或由吳翠玲出面遊說林麗貞、林麗雲
     、李宜峰、林麗容、賀兆麟、蔡建民、葉人豪、李曉鴻、趙
     玉華、王紀仁、郭品欣，或由朱文慧、曾美惠、吳翠玲出面
-    遊說林必政、<font color='red'>黃珊珊</font>、駱健基、周昱岐、陳獻仁等，以信用
+    遊說林必政、黃珊珊、駱健基、周昱岐、陳獻仁等，以信用
     卡刷卡佯購洗車禮券或儲值等不實消費名目，虛增業績，並
     約定由速比特公司及皇國公司實際負責人朱文慧支付刷卡所
     生之信用卡帳款（無證據證明有詐欺取財之不法所有意圖，
@@ -257,7 +152,7 @@ function openwin(URL,arguments,width,height)
       上簽名各情，已據被告、證人即共同正犯朱文慧（另案確
       定判決既判力所及，業經原審判決免訴）、除陳文霖外之
       附表一所示人員（潘興華、王玟舜、朱文華、王和義、林
-      必政、李麗雲、魏士傑、林麗貞、林麗雲、<font color='red'>黃珊珊</font>、賈志
+      必政、李麗雲、魏士傑、林麗貞、林麗雲、黃珊珊、賈志
       江、張健一、林軒暵、李宜峰、吳昭宏、李姿穎、吳雅琦
       經原審法院判處罪刑，陳文霖亦經本院判處罪刑）、附表
       二所示人員吳鳳英、駱健基、林麗容、傅麗玉、徐忠勇、
@@ -281,8 +176,8 @@ function openwin(URL,arguments,width,height)
       堪以認定。
 （三）查朱文華係速比特公司、皇國公司實際負責人即共同正犯
       朱文慧之胞弟，潘興華、王玟舜、吳鳳英與共同正犯朱文
-      華係軍中同事，王和義與王玟舜係兄弟，林必政、<font color='red'>黃珊珊
-      </font>、駱健基、傅孟涵、楊怡君、朱永裕、葉人豪、李靜瑄、
+      華係軍中同事，王和義與王玟舜係兄弟，林必政、黃珊珊
+      、駱健基、傅孟涵、楊怡君、朱永裕、葉人豪、李靜瑄、
       林鎂媛、蔡宗憲係速比特公司員工，魏士傑、李宜峰、周
       昱岐、賀兆麟、蔡建民、李曉鴻、趙玉華、藍慶洲、謝芳
       春、陳文霖則係速比特公司、皇國公司之顧客，李麗雲、
@@ -305,7 +200,7 @@ function openwin(URL,arguments,width,height)
       係經朱文慧、吳翠玲出面遊說、請託；另林麗貞、林麗雲
       、李宜峰、林麗容、賀兆麟、蔡建民、葉人豪、李曉鴻、
       趙玉華、王紀仁、郭品欣係因吳翠玲出面遊說、請託；林
-      必政、<font color='red'>黃珊珊</font>、駱健基、周昱岐、陳獻仁，係因朱文慧、
+      必政、黃珊珊、駱健基、周昱岐、陳獻仁，係因朱文慧、
       吳翠玲及被告出面遊說、請託，因礙於相關情誼，而分別
       於附表一編號4 至21、附表二編號1 至所示之時間持用
       附表一編號4 至21、附表二編號1 至所示信用卡，佯以
@@ -360,7 +255,7 @@ function openwin(URL,arguments,width,height)
       等語（見98年度偵字第7729號卷一第43、44頁）等語；惟
       被告係皇國公司總經理，為公司負責人，且受僱速比特公
       司，參與速比特公司業務等情，有下列證據可證：證人
-      <font color='red'>黃珊珊</font>證稱：「在報紙上看到速比特公司應徵職員…前往
+      黃珊珊證稱：「在報紙上看到速比特公司應徵職員…前往
       台北市○○路000 號皇國企業股份有限公司面試，是由曾
       美惠面試…主要幹部有朱文慧、吳翠玲、曾美惠…朱文慧
       為公司的老闆，吳翠玲為店長、曾美惠為朱文慧的秘書…
@@ -401,7 +296,7 @@ function openwin(URL,arguments,width,height)
       司見被告，被告之友人張蒲玉、黃秀峰、李姿穎則係直接
       受被告請託至速比特公司、皇國公司刷卡衝業績，證人黃
       秀峰並證稱被告在速比特公司上班，核與被告所供任職情
-      形相符。且速比特公司員工<font color='red'>黃珊珊</font>是由被告面試錄用，其
+      形相符。且速比特公司員工黃珊珊是由被告面試錄用，其
       與速比特公司員工朱永裕、林鎂媛均指證稱速比特公司、
       皇國公司之主要幹部為同案被告朱文慧、吳翠玲與被告，
       二家公司皆由其三人負責決策。參以，被告供稱：「會幫
@@ -449,7 +344,7 @@ function openwin(URL,arguments,width,height)
       院卷二第54頁），業如前述；再參照被告曾美惠與共同正
       犯朱文慧出面遊說無消費事實及真意之李姿穎、張蒲玉、
       黃秀峰，被告與同案被告朱文慧、吳翠玲出面遊說無消費
-      事實及真意之林必政、<font color='red'>黃珊珊</font>、駱健基、周昱岐、陳獻仁
+      事實及真意之林必政、黃珊珊、駱健基、周昱岐、陳獻仁
       ，以信用卡刷卡佯購洗車禮券，虛增「速比特公司」、「
       皇國公司」業績等情，如前所述，均足見被告曾美惠對於
       同案被告朱文慧、吳翠玲決定以信用卡刷卡佯購洗車券等
@@ -854,25 +749,25 @@ function openwin(URL,arguments,width,height)
       222至226、231 頁、原審卷四第2、26至29、95、96、133
       至151、160至162、163至175、207、208至210頁、原審卷
       五第118至119、143至151頁）。參以：1.遠東國際商業銀
-      行持卡人王玫舜、朱文華、林必政、林麗貞、<font color='red'>黃珊珊</font>、駱
+      行持卡人王玫舜、朱文華、林必政、林麗貞、黃珊珊、駱
       健基、傅孟涵、朱永裕、李曉鴻、黃秀峰已無未清償本金
       ，此有遠東商業銀行100年10月21 日刑事陳報狀及持卡人
       未清償本金明細表可按（見本院函查卷一第11、14、15至
-      23頁）。2.臺灣新光商業銀行持卡人王玫舜、朱文華、<font color='red'>黃
-      珊珊</font>、傅孟涵、楊怡君、朱永裕、藍慶洲已無未清償本金
+      23頁）。2.臺灣新光商業銀行持卡人王玫舜、朱文華、黃
+      珊珊、傅孟涵、楊怡君、朱永裕、藍慶洲已無未清償本金
       ，此有臺灣新光商業銀行股份有限公司100年10月6日（10
       0）新光銀信卡字第5667 號函及信用卡持卡人還款情形資
       料表可按（見本院函查卷一第37、38頁）。3.兆豐國際商
       業銀行持卡人曾美惠、潘興華、王玫舜、王和義、林必政
-      、李麗雲、林麗貞、<font color='red'>黃珊珊</font>已無未清償本金，此有兆豐國
+      、李麗雲、林麗貞、黃珊珊已無未清償本金，此有兆豐國
       際商業銀行100年10月17日（100）兆銀卡字第0454號函可
       按（見本院函查卷一第88頁）。4.上海商業儲蓄銀行持卡
-      人王玫舜、朱文華、王和義、李麗雲、林麗貞、<font color='red'>黃珊珊</font>、
+      人王玫舜、朱文華、王和義、李麗雲、林麗貞、黃珊珊、
       傅孟涵、楊怡君、林淑慧、謝芳春已無未清償本金，此有
       上海商業儲蓄銀行信用卡中心100年9月20日上卡字第0000
       000000號函及信用卡款帳款清償情形可按（見本院函查卷
       一第96、105 頁）。5.國泰世華商業銀行持卡人王玫舜、
-      李麗雲、林麗貞、<font color='red'>黃珊珊</font>、張健一、徐忠勇、楊怡君、張
+      李麗雲、林麗貞、黃珊珊、張健一、徐忠勇、楊怡君、張
       蒲玉、陳獻仁已無未清償本金，此有國泰世華商業銀行業
       務控管部100年9月27日國世業控字第0000000000號函及附
       件清償情形可按（見本院函查卷一第109、115頁）。6.合
@@ -882,7 +777,7 @@ function openwin(URL,arguments,width,height)
       第119、120頁）。7.大眾銀行持卡人葉素雲已無未清償本
       金，此有大眾銀行100年11月16日（10）眾消密發字第096
       86號函可按（見本院函查卷一第235 頁）。8.聯邦商業銀
-      行持卡人潘興華、王玫舜、王和義、李麗雲、<font color='red'>黃珊珊</font>、吳
+      行持卡人潘興華、王玫舜、王和義、李麗雲、黃珊珊、吳
       鳳英、駱健基、傅麗玉、徐忠勇、賀兆麟、蔡建民、林淑
       慧、林鎂媛、陳文霖頁已無未清償本金，此有聯邦商業銀
       行100年10月17日聯銀信卡字第0000000000 號函及附件可
@@ -893,7 +788,7 @@ function openwin(URL,arguments,width,height)
       作社持卡人潘興華、王玫舜已無未清償本金，此有高雄市
       第三信用合作社100年9月28日高三信社審字第055 號函可
       按（見本院函查卷一第268頁）。11.安泰商業銀行持卡人
-      王玫舜、林麗雲、<font color='red'>黃珊珊</font>、李姿穎已無未清償本金，此有
+      王玫舜、林麗雲、黃珊珊、李姿穎已無未清償本金，此有
       安泰商業銀行消金徵審部100年9月29 日（100）安消徵發
       字第0000000000號函可按（見本院函查卷一第299頁）。
       12.中國信託商業銀行持卡人王玫舜、林軒暵已無未清償
@@ -933,7 +828,7 @@ function openwin(URL,arguments,width,height)
       陳柏壽、林麗貞已無未清償本金，此有匯豐（台灣）商業
       銀行股份有限公司100年11月10日（100）台匯銀（總）字
       第38275 號函及可按（見本院函查卷三第210、211頁）。
-      22.台新國際商業銀行持卡人<font color='red'>黃珊珊</font>、葉人豪已無未清償
+      22.台新國際商業銀行持卡人黃珊珊、葉人豪已無未清償
       本金，此有台新國際商業銀行100年12月15日台新作文字
       第00000000號函及可按（見本院函查卷四第19、20頁）。
       益見被告與朱文慧、吳翠玲分工遊說附表一編號4至 21、
@@ -1401,31 +1296,31 @@ function openwin(URL,arguments,width,height)
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
 │    │      │          │                    │合計              │ 79 │          │ 0000000│
 ├──┼───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│ 12 │<font color='red'>黃珊珊</font>│遠東銀行  │0000-0000-0000-0000 │94.01.11          │ 14 │皇國公司  │   50000│
+│ 12 │黃珊珊│遠東銀行  │0000-0000-0000-0000 │94.01.11          │ 14 │皇國公司  │   50000│
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│台新銀行  │0000-0000-0000-0000 │93.11.25-94.01.03 │  5 │皇國公司  │  110000│
+│    │黃珊珊│台新銀行  │0000-0000-0000-0000 │93.11.25-94.01.03 │  5 │皇國公司  │  110000│
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│國泰世華  │0000-0000-0000-0000 │93.12.02-93.12.24 │  3 │速比特公司│  100000│
+│    │黃珊珊│國泰世華  │0000-0000-0000-0000 │93.12.02-93.12.24 │  3 │速比特公司│  100000│
 │    │      │          │                    │                  ├──┼─────┤        │
 │    │      │          │                    │                  │  5 │皇國公司  │        │
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│聯邦銀行  │0000-0000-0000-0000 │93.12.17-93.12.31 │  8 │皇國公司  │  220000│
+│    │黃珊珊│聯邦銀行  │0000-0000-0000-0000 │93.12.17-93.12.31 │  8 │皇國公司  │  220000│
 │    │      │          │0000-0000-0000-0000 │                  │    │          │        │
 │    │      │          │0000-0000-0000-0000 │                  │    │          │        │
 │    │      │          │0000-0000-0000-0000 │                  │    │          │        │
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│中華銀行  │0000-0000-0000-0000 │94.01.11-94.01.12 │  3 │皇國公司  │  100000│
+│    │黃珊珊│中華銀行  │0000-0000-0000-0000 │94.01.11-94.01.12 │  3 │皇國公司  │  100000│
 │    │      │(匯豐銀行)│                    │                  │    │          │        │
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│安泰銀行  │0000-0000-0000-0000 │93.08.30          │  1 │速比特公司│   20000│
+│    │黃珊珊│安泰銀行  │0000-0000-0000-0000 │93.08.30          │  1 │速比特公司│   20000│
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│新光銀行  │0000-0000-0000-0000 │93.12.31          │  1 │皇國公司  │   40000│
+│    │黃珊珊│新光銀行  │0000-0000-0000-0000 │93.12.31          │  1 │皇國公司  │   40000│
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│友邦信用  │0000-0000-0000-0000 │93.11.23-93.12.30 │ 15 │皇國公司  │  177593│
+│    │黃珊珊│友邦信用  │0000-0000-0000-0000 │93.11.23-93.12.30 │ 15 │皇國公司  │  177593│
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│兆豐銀行  │0000-0000-0000-0000 │94.01.14          │ 10 │皇國公司  │   30000│
+│    │黃珊珊│兆豐銀行  │0000-0000-0000-0000 │94.01.14          │ 10 │皇國公司  │   30000│
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
-│    │<font color='red'>黃珊珊</font>│上海銀行  │0000-0000-0000-0000 │93.11.08-94.01.13 │ 22 │皇國公司  │  255000│
+│    │黃珊珊│上海銀行  │0000-0000-0000-0000 │93.11.08-94.01.13 │ 22 │皇國公司  │  255000│
 │    ├───┼─────┼──────────┼─────────┼──┼─────┼────┤
 │    │      │          │                    │合計              │ 87 │          │ 0000000│
 ├──┼───┼─────┼──────────┼─────────┼──┼─────┼────┤
@@ -1746,86 +1641,12 @@ function openwin(URL,arguments,width,height)
  │    │      │          │                      │               合計 │    1   │          │   20000│
  ├──┴───┴─────┴───────────┴──────────┴────┴─────┴────┤
  │                                                                 總計                       24,737,139│
- └───────────────────────────────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10202\07\TPHM10227.01R] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共35
-											筆 / 現在第8
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000012&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=12&jdate=1020207&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=12&jdate=1020207&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c12%2c20130207%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','100','%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4','12','1020207','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="8"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃珊珊">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃珊珊">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+ └───────────────────────────────────────────────────┘
+[*jrecno*]100,金上重訴,12,20130207,2
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]金上重訴
+[*jno*]12
+[*jdate*]1020207
+[*jcheck*]2

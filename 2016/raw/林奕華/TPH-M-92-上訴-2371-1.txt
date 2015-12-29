@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-92上訴2371</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002371&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e4%b8%8a%e8%a8%b4&jno=2371&jdate=930120&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e4%b8%8a%e8%a8%b4&jno=2371&jdate=930120&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','92','%e4%b8%8a%e8%a8%b4','2371','930120','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,上訴,2371</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">930120</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　　　　　　九十二年度上訴字第二三七一號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e4%b8%8a%e8%a8%b4&jno=2371&jdate=930120&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002371&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e4%b8%8a%e8%a8%b4&jno=2371&jdate=930120&jcheck=1
+[*裁判字號*]92,上訴,2371
+[*裁判日期*]930120
+[*裁判案由*]貪污治罪條例
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　　　　　　九十二年度上訴字第二三七一號
 　　上　訴　人
 　　即　被　告　甲○○
 　　選任辯護人　舒建中律師
@@ -129,8 +22,8 @@ function openwin(URL,arguments,width,height)
     人居住之臺北市○○區○○路十一巷三三號一及三樓、三十五號三樓、三十七號
     一樓、三樓及五樓、三十九號六樓房屋因加蓋鐵窗等建物，經臺北市政府工務局
     建築管理處違建處理科查報為違建物，並由第二拆除區隊甲○○負責拆除，楊菊
-    韻等人為求暫緩拆除，透過里長找市議員<font color='red'>林奕華</font>出面召開協調會，市議員<font color='red'>林奕華
-    </font>則委派助理林秀玲（另經檢察官為不起訴處分）協調，於協調期間，上開拆除作
+    韻等人為求暫緩拆除，透過里長找市議員林奕華出面召開協調會，市議員林奕華
+    則委派助理林秀玲（另經檢察官為不起訴處分）協調，於協調期間，上開拆除作
     業暫緩執行，等待協調結果以及建築管理處違建查報隊之決定。甲○○明知所屬
     拆除隊於上開違建物之拆除作業已經暫緩拆除，拆除隊無權決定是否繼續執行，
     竟利用其曾經前往拆除瞭解上開違建物之機會，於九十年十二月中旬與林秀玲電
@@ -169,24 +62,24 @@ function openwin(URL,arguments,width,height)
     二五三五二一二○○號書函一份在卷可按。本件被告前往臺北市○○區○○路十
     一巷三三號一及三樓、三十五號三樓、三十七號一樓、三樓及五樓、三十九號六
     樓房屋因加蓋鐵窗等建物執行拆除業務，因違建戶楊菊韻等人為求暫緩拆除，透
-    過里長找市議員<font color='red'>林奕華</font>出面召開協調會，市議員<font color='red'>林奕華</font>則委派助理林秀玲協調，
+    過里長找市議員林奕華出面召開協調會，市議員林奕華則委派助理林秀玲協調，
     致被告前往執行拆除未果，業經證人楊菊韻、林秀玲、許文瑞、陳美里、黃彩微
     、鍾秋莉分別於台北市調查處詢問時、檢察官以及原審訊問時證述明白（參偵查
     卷第五頁正面、第八頁反面、第十七頁正面、第一一一頁反面、第一一三頁正面
     、第一二○頁反面，原審卷第八八頁、第八九頁、第九三頁、第九七頁、第一○
     ○頁、第一○四頁、第一○五頁、第一○七頁至第一○九頁），被告於原審亦坦
-    承本件曾由市議員<font color='red'>林奕華</font>由議會傳真到區隊，協調暫緩拆除等語（參原審卷第六
+    承本件曾由市議員林奕華由議會傳真到區隊，協調暫緩拆除等語（參原審卷第六
     ○頁、第六一頁、第六六頁、第二一四頁），並於本院供承本件因為有市議員協
     調，伊必須要奉指示才能再執行拆除等語（參本院審判筆錄第八頁），堪認被告
     執行上開違建物之拆除時，因市議員受違建戶之請託出面協調而未果，依上開台
     北市政府工務局書函，被告必須俟協調會結果，而無再繼續執行拆除之權責；（
-    三）、被告於違建戶楊菊韻等人透過里長找市議員<font color='red'>林奕華</font>出面召開協調會，市議
-    員<font color='red'>林奕華</font>則委派助理林秀玲協調期間，尚無結果，惟仍於九十年十二月中旬與林
+    三）、被告於違建戶楊菊韻等人透過里長找市議員林奕華出面召開協調會，市議
+    員林奕華則委派助理林秀玲協調期間，尚無結果，惟仍於九十年十二月中旬與林
     秀玲電話連繫及在臺北市○○路有名堂餐廳餐敘中向林秀玲佯稱：楊菊韻等違建
     戶致送賄賂共十萬元，即可獲取緩拆處理等情，要求林秀玲轉告楊菊韻等上開違
     建之住戶，被告嗣後確有收受林秀玲轉交之現金十萬元等情，業據證人鍾秋莉、
     楊菊韻、黃彩微、林秀玲於偵審中及里長陳美里於偵查中指證綦詳。另參諸證人
-    即臺北市議員<font color='red'>林奕華</font>之助理林秀玲於法務部調查局臺北市調查處調查時明白證稱
+    即臺北市議員林奕華之助理林秀玲於法務部調查局臺北市調查處調查時明白證稱
     ：「我即以電話與甲○○聯絡，希望李能至現場一一向住戶解釋說明將要拆除之
     情形，約一星期後，甲○○與另一個人一同到了現場，並表示渠等違建均要拆除
     ，但因鍾秋莉等住戶若將渠之違建拆除，將無處可住，我於是希望甲○○能教他
@@ -283,8 +176,8 @@ function openwin(URL,arguments,width,height)
     認定。
 三、查被告係臺北市政府工務局建築管理處違建處理科第二拆除區隊小隊長，負責臺
     北市大安、文山二區之違章建築拆除業務，為依據法令從事公務之人員，明知違
-    建戶楊菊韻等人為求暫緩拆除，透過里長找市議員<font color='red'>林奕華</font>出面召開協調會，市議
-    員<font color='red'>林奕華</font>則委派助理林秀玲協調，於協調期間，上開拆除作業暫緩執行，等待協
+    建戶楊菊韻等人為求暫緩拆除，透過里長找市議員林奕華出面召開協調會，市議
+    員林奕華則委派助理林秀玲協調，於協調期間，上開拆除作業暫緩執行，等待協
     調結果，必須等待建築管理處違建查報隊之決定，拆除隊無權決定是否繼續執行
     ，竟利用其曾經前往拆除瞭解上開違建物之機會，向林秀玲佯稱：楊菊韻等違建
     戶致送賄賂共十萬元，即可獲取緩拆處理等情，藉圖詐取財物，並要求林秀玲轉
@@ -330,86 +223,11 @@ function openwin(URL,arguments,width,height)
 二  利用職務上之機會，詐取財物者。
 三  對於職務上之行為，要求、期約或收受賄賂或其他不正利益者。
 前項第一款及第二款之未遂犯罰之。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\judday\OK\LAWTPH\CRIMINAL\9301\20\TPHM931K.603] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002371&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%a5%95%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%a5%95%e8%8f%af&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e4%b8%8a%e8%a8%b4&jno=2371&jdate=930120&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e4%b8%8a%e8%a8%b4&jno=2371&jdate=930120&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e4%b8%8a%e8%a8%b4%2c2371%2c20040120%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','92','%e4%b8%8a%e8%a8%b4','2371','930120','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林奕華">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林奕華">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]92,上訴,2371,20040120,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]92
+[*jcase*]上訴
+[*jno*]2371
+[*jdate*]930120
+[*jcheck*]1

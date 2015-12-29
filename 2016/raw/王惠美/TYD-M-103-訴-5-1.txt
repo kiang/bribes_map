@@ -1,121 +1,14 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-103訴5</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000005&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c5%2c20150806%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=5&jdate=1040806&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c5%2c20150806%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=5&jdate=1040806&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c5%2c20150806%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','5','1040806','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,5</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040806</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　　103年度訴字第5號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c5%2c20150806%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=5&jdate=1040806&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000005&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c5%2c20150806%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=5&jdate=1040806&jcheck=1
+[*裁判字號*]103,訴,5
+[*裁判日期*]1040806
+[*裁判案由*]貪污
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　　103年度訴字第5號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　張永專
 選任辯護人　林　凱律師
-　　　　　　陳志<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />律師
+　　　　　　陳志律師
 上列被告因貪污案件，經檢察官提起公訴（102年度偵字第6674
 號），本院判決如下：
     主  文
@@ -139,7 +32,7 @@ function openwin(URL,arguments,width,height)
     依法有召集召開定期會、提經大會決議延長審議總預算定期
     會期、請求召集臨時會、綜理鄉代會會務及核定鄉代會分層
     負責明細表之權，為依據法令從事於公務之人員。陳信良、
-    王自發、<font color='red'>王惠美</font>則分別係桃園縣復興鄉華陵村（現改制為華
+    王自發、王惠美則分別係桃園縣復興鄉華陵村（現改制為華
     陵里）之天源宮管理委員會之主任委員、委員及會計。緣於
     99年間，天源宮聯外之產業道路地基滑動、坍塌，天源宮管
     理委員會原計劃自行出資施工修築駁崁、擋土牆，惟在施工
@@ -162,14 +55,14 @@ function openwin(URL,arguments,width,height)
     授意陳成惠陳請鄉公所派員會勘前開天源宮產業道路路基坍
     塌之情形並處理，陳成惠遂依張永專之要求，於100 年2 月
     18日以華陵村辦公室之名義發函鄉公所表達上述情事，陳信
-    良亦於同日指示天源宮之會計<font color='red'>王惠美</font>自天源宮收受信徒之捐
+    良亦於同日指示天源宮之會計王惠美自天源宮收受信徒之捐
     款與香油錢等現金款項中，提出10萬元交付予王自發，再由
     王自發赴鄉代會，將該筆10萬元現金交付張永專作為頭期款
     項，鄉公所接獲華陵村辦公室前述公函後，遂於100 年2 月
     23日由建設課約僱人員廖嘉文會同陳成惠、王自發、陳信良
     前往天源宮聯外道路坍塌處會勘，張永專亦到場參與該次會
     勘表示關切，而陳信良亦於該次會勘前一日即100 年2 月22
-    日，指示<font color='red'>王惠美</font>自天源宮之現金與香油錢收入中，提取現金
+    日，指示王惠美自天源宮之現金與香油錢收入中，提取現金
     30萬元後交予王自發，再由王自發送往永隆山莊交付予張永
     專。上述會勘完畢後，廖嘉文遂於100 年3 月4 日簽請鄉公
     所施作擋土排水設施等工程修繕坍塌之路基，預估工程款約
@@ -177,8 +70,8 @@ function openwin(URL,arguments,width,height)
     第一次追加減預算支應工程款，繼之於同年3 月15日鄉代會
     第19屆第3 次臨時大會開議時，致函並以第16號提案，就上
     述施作經費之動支，送請鄉代會審議，並經張永專及其它鄉
-    民代表之審議後通過，陳信良遂於100 年3 月21日指示<font color='red'>王惠
-    美</font>自<font color='red'>王惠美</font>在桃園縣大溪鎮農會所開立、用以存放天源宮收
+    民代表之審議後通過，陳信良遂於100 年3 月21日指示王惠
+    美自王惠美在桃園縣大溪鎮農會所開立、用以存放天源宮收
     入款項之帳號000000000 號帳戶內，提領現金50萬元交付予
     王自發，再由王自發前往永隆山莊將該筆現金50萬元交付張
     永專作為賄賂之尾款，其後鄉代會果於100 年3 月22日以公
@@ -190,7 +83,7 @@ function openwin(URL,arguments,width,height)
     移送臺灣桃園地方法院檢察署檢察官偵查起訴。
     理  由
 壹、證據能力方面：
-一、證人王自發、陳信良、<font color='red'>王惠美</font>、陳成惠於調查站時所為陳述
+一、證人王自發、陳信良、王惠美、陳成惠於調查站時所為陳述
     之證據能力：
 (一)、按「被告以外之人於審判外之言詞或書面陳述，除法律有規
     定者外，不得作為證據。」、「被告以外之人於檢察事務官
@@ -216,7 +109,7 @@ function openwin(URL,arguments,width,height)
     間較近，並經檢察官於訊問時確認渠等於調查站之陳述是否
     實在，具有較可信之特別情況，且為證明上開犯罪事實所必
     要，應認為具有證據能力。
-二、證人王自發、陳信良、<font color='red'>王惠美</font>、陳成惠於偵查中所為陳述之
+二、證人王自發、陳信良、王惠美、陳成惠於偵查中所為陳述之
     證據能力：
 (一)、被告以外之人於偵查中向檢察官所為之陳述，除顯有不信之
     情況者外，得為證據，刑事訴訟法第159 條之1 第2 項定有
@@ -268,7 +161,7 @@ function openwin(URL,arguments,width,height)
     社會經歷都很豐富，應當知悉工程若非自費即為公家機關用
     公共經費免費施作，不可能施作又要求民眾付費的道理，所
     以王自發所稱與被告約定好幫忙做工程而給予賄賂之證述，
-    違反一般經驗法則，另會計<font color='red'>王惠美</font>不僅對於天源宮每年、每
+    違反一般經驗法則，另會計王惠美不僅對於天源宮每年、每
     月的大約收支毫無任何印象，甚至其家用金錢款項也有與天
     源宮混用的情形，且只憑其一人就可以動支，其對於交付金
     錢給王自發的時間、地點、金錢來源反覆不一，其證言難以
@@ -296,11 +189,11 @@ function openwin(URL,arguments,width,height)
     因為擔任鄉民代表本身就很重視公共事務，被告延續其一慣
     關心地方事務的動機，而來關切本件修繕工程，毫無任何行
     求或對價的關係存在云云，經查：
-(一)、上揭犯罪事實，業據證人王自發、陳信良、<font color='red'>王惠美</font>、廖嘉文
+(一)、上揭犯罪事實，業據證人王自發、陳信良、王惠美、廖嘉文
     、陳成惠於調查站、偵查及審理中證述在卷，且有大溪鎮農
     會（現改制為大溪區農會）102 年1 月24日桃溪農信字第00
-    00000000號函及附件桃園縣大溪鎮農會客戶交易查詢表、<font color='red'>王
-    惠美</font>個人記帳紀錄、天源宮收支簿、華陵村辦公處100 年2
+    00000000號函及附件桃園縣大溪鎮農會客戶交易查詢表、王
+    惠美個人記帳紀錄、天源宮收支簿、華陵村辦公處100 年2
     月18日復鄉○○○000000號函、鄉公所100 年2 月23日會勘
     簽到簿、會勘紀錄表、天源宮產業道路地基坍塌陳情案件照
     片、100 年3 月4 日簽呈、鄉公所100 年3 月15日復鄉建設
@@ -359,12 +252,12 @@ function openwin(URL,arguments,width,height)
     嘉文、陳成惠於調查站時所稱被告於100 年2 月23日到場會
     勘乙節較為可採。
 (三)、至於辯護人為被告辯護稱：本件僅有證人王自發一人直接指
-    出被告有行求、收受賄賂，且證人王自發及<font color='red'>王惠美</font>所述亦有
+    出被告有行求、收受賄賂，且證人王自發及王惠美所述亦有
     前後不一之情形云云，然查：
   1.若果被告所述屬實，被告收取天源宮款項90萬元係為證人王
     自發所虛構，被告並未向證人王自發承諾會負責處理上開修
     繕工程，則該工程爾後是否由鄉公所派員施作並由公家支付
-    修繕費用即屬未知，證人王自發向證人<font color='red'>王惠美</font>拿取款項90萬
+    修繕費用即屬未知，證人王自發向證人王惠美拿取款項90萬
     元後，倘若陳成惠未發文給鄉公所，或鄉公所會勘後為不同
     之決定，或鄉代會審議後未通過鄉公所之提案，證人王自發
     收取該90萬元當如何向陳信良及天源宮之委員交代？本件天
@@ -380,8 +273,8 @@ function openwin(URL,arguments,width,height)
     。
   2.又證人王自發就伊於餐廳內告知被告有關天源宮預計修繕路
     基之工程款為90萬元及被告行求之過程、三次交付款項予被
-    告之地點、第三次交付被告50萬元之時間等節，及證人<font color='red'>王惠
-    美</font>就第一次交付10萬元予證人王自發之地點乙節，所述雖有
+    告之地點、第三次交付被告50萬元之時間等節，及證人王惠
+    美就第一次交付10萬元予證人王自發之地點乙節，所述雖有
     不一致之情形，證人王自發於102 年2 月1 日調查站詢問時
     證稱：「用餐時張永專拉我到一邊詢問天源宮自行興建擋土
     牆工程款費用多少，我回頭詢問陳信良，陳信良告知我90萬
@@ -393,23 +286,23 @@ function openwin(URL,arguments,width,height)
     隆山莊當面告知張永專，表示我們同意將款項給他，張永專
     當場告訴我，要我們天源宮不要再繼續動工，他要找復興鄉
     公所建設課的人來勘查現場，由鄉公所來施作，我得到張永
-    專回應後即離開。」、「款項是由天源宮會計<font color='red'>王惠美</font>分為10
+    專回應後即離開。」、「款項是由天源宮會計王惠美分為10
     萬元、30萬元、50萬元3 次，均由我交付給張永專本人親收
     ，我記得第一次10萬元是張永專撥打我手機給我，要我到他
     開設的永隆山莊，他說有話要當面跟我講，我去之後張永專
     告訴我，需要拿一筆錢疏通，我就回去告知陳信良及乩童，
     經過商量後，決定拿10萬元給張永專，我經過大溪的時候，
-    去找住在大溪的<font color='red'>王惠美</font>，<font color='red'>王惠美</font>也接到陳信良及乩童的通知
-    ，就由<font color='red'>王惠美</font>交給我一個紙袋，裡面是1 紮10萬元的千元現
+    去找住在大溪的王惠美，王惠美也接到陳信良及乩童的通知
+    ，就由王惠美交給我一個紙袋，裡面是1 紮10萬元的千元現
     鈔，當天是我要回家的路上經過大溪，我先去拿了之後，第
     二天我就事先聯繫，與張永專約好，拿到復興鄉民代表會主
     席辦公室，直接交給張永專本人，張永專本人沒有特別表示
-    什麼，我就離開了。第二次30萬元是與前述相同到大溪<font color='red'>王惠
-    美</font>住處，由<font color='red'>王惠美</font>將30萬元裝在紙袋中交付給我，那一次我
+    什麼，我就離開了。第二次30萬元是與前述相同到大溪王惠
+    美住處，由王惠美將30萬元裝在紙袋中交付給我，那一次我
     已經忘記是我在回家路上拿或是去上巴崚路上拿，後來我事
     先約好，就把30萬元拿到張永專開設的永隆山莊交給他本人
     。第三次50萬元，是張永專告訴我代表會已經同意施作擋土
-    牆，我便到大溪<font color='red'>王惠美</font>住處，由<font color='red'>王惠美</font>將50萬元裝在紙袋中
+    牆，我便到大溪王惠美住處，由王惠美將50萬元裝在紙袋中
     交付給我，我印象好像是裝在銀行的紙袋中交付給我，其中
     是5 紮各10萬元的千元現鈔，再由我拿到永隆山莊交付給張
     永專，張永專沒有特別表示，這就是3 次付款的過程。」（
@@ -444,7 +337,7 @@ function openwin(URL,arguments,width,height)
     詳情，我忘記是在電話中談或是直接對面談。」、「（問：
     照你所述，第三次付完之前駁崁就已經做好，所以你們才會
     支付最後的50萬元？）對。」等語（見本院卷2 第41頁反面
-    至42頁反面、第45頁反面）；證人<font color='red'>王惠美</font>於102 年2 月1 日
+    至42頁反面、第45頁反面）；證人王惠美於102 年2 月1 日
     調查站詢問時證稱：「（問：承上，據本站調查，天源宮係
     透過張永專協助後，請復興鄉公所施做該擋土牆，其支付款
     項之詳情為何？）：本件擋土牆工程，主委陳信良是透過何
@@ -458,41 +351,41 @@ function openwin(URL,arguments,width,height)
     及捐款中的30萬元交給王自發，第三次是100 年3 月21日，
     也是接到通知要我準備50萬元，王自發會過來拿，但因這次
     的金額比較大，我手邊上沒那麼多現金，所以我是到大溪鎮
-    農會崎頂分部從我<font color='red'>王惠美</font>的戶頭（帳號00-00000-00)提領現
+    農會崎頂分部從我王惠美的戶頭（帳號00-00000-00)提領現
     金50萬元後，再交付給王自發，三次都是王自發到我位在大
     溪鎮華興街5 號家中拿取。」（見偵卷第21頁）；於審理中
     證稱：「10萬元是在天源宮裡給的。」、「到我家拿錢是第
     二次與第三次的30、50萬元。」等語（見本院卷2 第51頁反
     面），然證人王自發對於被告向伊詢問天源宮預計修繕路基
     之工程款數額、被告向伊行求及分三次將共計90萬元之款項
-    交付被告，及證人<font color='red'>王惠美</font>對於分三次將款項交付予證人王自
-    發等節，所述前後一致，而證人<font color='red'>王惠美</font>之證詞更有其所提出
-    之日記帳影本可資為憑，是不能純以證人王自發及<font color='red'>王惠美</font>對
+    交付被告，及證人王惠美對於分三次將款項交付予證人王自
+    發等節，所述前後一致，而證人王惠美之證詞更有其所提出
+    之日記帳影本可資為憑，是不能純以證人王自發及王惠美對
     於非屬構成要件事實之相關周邊情狀之所述，一旦與其等之
     前所述有所不符，即推論其就構成要件事實之所述亦不實在
     ，更何況本件案發時間為100 年2 、3 月間，證人王自發、
-    <font color='red'>王惠美</font>於調查站詢問時已為102 年2 月間，於偵查中訊問時
+    王惠美於調查站詢問時已為102 年2 月間，於偵查中訊問時
     為102 年4 月間，本院審理詰問時為103 年12月10日，證人
-    王自發及<font color='red'>王惠美</font>於調查站詢問時相距案發時間已有2 年，迄
+    王自發及王惠美於調查站詢問時相距案發時間已有2 年，迄
     本院審理詰問時距離案發時間已達3 年近4 年時間，是渠等
     因時間經過對於非屬構成要件事實之相關周邊情狀之前開所
     述有不一致之情形，亦屬合理，尚難執此即認渠等所述均屬
     不實。
-  3.另證人王自發、<font color='red'>王惠美</font>及陳信良於調查站作證時，距離案發
-    時間較近，並經調查官提示相關資料後為陳述，就證人<font color='red'>王惠
-    美</font>交付證人王自發10萬元款項之地點及證人<font color='red'>王惠美</font>交付證人
-    王自發50萬元之時間，證人王自發與<font color='red'>王惠美</font>於調查站時所述
-    相符，且有上開大溪鎮農會客戶交易查詢、<font color='red'>王惠美</font>個人記帳
+  3.另證人王自發、王惠美及陳信良於調查站作證時，距離案發
+    時間較近，並經調查官提示相關資料後為陳述，就證人王惠
+    美交付證人王自發10萬元款項之地點及證人王惠美交付證人
+    王自發50萬元之時間，證人王自發與王惠美於調查站時所述
+    相符，且有上開大溪鎮農會客戶交易查詢、王惠美個人記帳
     紀錄等件在卷為憑，就證人王自發於聚餐時告訴被告有關天
     源宮預計修復路基坍塌工程之費用為90萬元乙節，證人王自
     發與陳信良於調查站時所述相符，自應以證人王自發、陳信
-    良及<font color='red'>王惠美</font>於調查站詢問時所述較為可採，證人陳信良於席
+    良及王惠美於調查站詢問時所述較為可採，證人陳信良於席
     間告知證人王自發有關天源宮原本預計修復工程費用為90萬
     元後，由證人王自發告知被告，證人王自發第一次交付款項
     予被告之地點為鄉代會主席辦公室，第二次、第三次交付款
-    項予被告之地點為永隆山莊，證人<font color='red'>王惠美</font>第三次交付證人王
-    自發50萬元之時間為100 年3 月21日，證人<font color='red'>王惠美</font>第一次交
-    付證人王自發金額10萬元之地點為證人<font color='red'>王惠美</font>住處等事實應
+    項予被告之地點為永隆山莊，證人王惠美第三次交付證人王
+    自發50萬元之時間為100 年3 月21日，證人王惠美第一次交
+    付證人王自發金額10萬元之地點為證人王惠美住處等事實應
     堪認定。至於證人王自發於102 年2 月1 日調查站詢問時所
     稱「吃飯過後幾天張永專撥打我的行動電話0000-000000 ，
     他告訴我將工程款給他」等語，雖未提及2 人碰面之事，然
@@ -565,86 +458,12 @@ function openwin(URL,arguments,width,height)
     付者。
 三、對於職務上之行為，要求、期約或收受賄賂或其他不正利益
     者。
-前項第 1 款及第 2 款之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10408\06\TYDM10486.01C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000005&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c5%2c20150806%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=5&jdate=1040806&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c5%2c20150806%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=5&jdate=1040806&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c5%2c20150806%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','5','1040806','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王惠美">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王惠美">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前項第 1 款及第 2 款之未遂犯罰之。
+[*jrecno*]103,訴,5,20150806,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]5
+[*jdate*]1040806
+[*jcheck*]1

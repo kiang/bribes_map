@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新竹地方法院-刑-100訴113</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新竹地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共17
-											筆 / 現在第8
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000113&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=17&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c113%2c20110928%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=113&jdate=1000928&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c113%2c20110928%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=113&jdate=1000928&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c113%2c20110928%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','113','1000928','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,113</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000928</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新竹地方法院刑事判決　　　　　　　100年度訴字第113號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c113%2c20110928%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=113&jdate=1000928&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000113&selectedCrtid=SCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c113%2c20110928%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=113&jdate=1000928&jcheck=1
+[*裁判字號*]100,訴,113
+[*裁判日期*]1000928
+[*裁判案由*]違反毒品危害防制條例等
+[*裁判全文*]臺灣新竹地方法院刑事判決　　　　　　　100年度訴字第113號
 公　訴　人　臺灣新竹地方法院檢察署檢察官
 被　　　告　林清海
 選任辯護人　財團法人法律扶助基金會許民憲律師
@@ -133,7 +26,7 @@ function openwin(URL,arguments,width,height)
     海竟基於販售第二級毒品甲基安非他命以營利之犯意，先販
     入第二級毒品甲基安非他命後持有，再伺機販賣，先後於附
     表1 所示之時間，以其所使用0000000000號行動電話與綽號
-    「坤另」之成年男子、<font color='red'>吳俊德</font>所使用之門號0000000000、
+    「坤另」之成年男子、吳俊德所使用之門號0000000000、
     0000000000號行動電話聯繫，洽定販售第二級毒品甲基安非
     他命數量、交易時間、地點後，再至新竹縣竹北市某宮、新
     竹市○○路與經國路口、新竹市○○路「思夢樂」賣場旁路
@@ -166,7 +59,7 @@ function openwin(URL,arguments,width,height)
     理人或辯護人於法院調查證據時，知有第159 條第1 項不得
     為證據之情形，而未於言詞辯論終結前聲明異議者，視為有
     前項之同意，刑事訴訟法第159 條第1 項、第159 條之5 分
-    別定有明文。查證人<font color='red'>吳俊德</font>、巫祥銓、方國強、李光治於警
+    別定有明文。查證人吳俊德、巫祥銓、方國強、李光治於警
     詢、偵查時所為之證述及卷內以其記載為內容之文書證據，
     雖屬被告以外之人於審判外之言詞陳述，然被告及其辯護人
     就上開審判外之陳述，於本院審理中，並不爭執證據能力，
@@ -183,7 +76,7 @@ function openwin(URL,arguments,width,height)
     部分：
     訊據被告林清海於本院審理時對於如附表1 所示之販賣第二
     級毒品甲基安非他命之事實均坦承不諱（見本院卷第142 頁
-    ），核與證人<font color='red'>吳俊德</font>於警詢、偵訊中證述情節相符，並有如
+    ），核與證人吳俊德於警詢、偵訊中證述情節相符，並有如
     附表1 「通聯譯文」欄所示通聯內容在卷可稽（詳如附表1
     所示）。足認被告林清海上開自白，應與事實相符，堪信為
     真。
@@ -501,11 +394,11 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │通聯譯文（見99偵7907第17│            │              │                      │              │
 │    │          │        │      │                  │        │頁背面）                │            │              │                      │              │
 ├──┼─────┼────┼───┼─────────┼────┼────────────┼──────┼───────┼───────────┼───────┤
-│ 2  │99年5月29 │林清海  │<font color='red'>吳俊德</font>│新竹市○○路、經國│1,000元 │被告林清海之自白（見99偵│林清海行動電│99/05/29      │林清海販賣第二級毒品，│              │
+│ 2  │99年5月29 │林清海  │吳俊德│新竹市○○路、經國│1,000元 │被告林清海之自白（見99偵│林清海行動電│99/05/29      │林清海販賣第二級毒品，│              │
 │（1 │日23時2分 │        │      │路路口            │，淨重  │7907第142頁背面警詢、100│話號碼：0989│23:02:41      │累犯，處有期徒刑參年捌│              │
 │）  │、23時18分│        │      │                  │0.2公克 │審訴128第13頁背面本院準 │636292→A   │A:喂!         │月；未扣案搭配門號○九│              │
 │    │          │        │      │                  │        │備）                    │            │B:你在哪?     │00000000號之行│              │
-│    │          │        │      │                  │        │                        │<font color='red'>吳俊德</font>行動電│A:我現在馬上過│動電話壹支（含SIM 卡）│              │
+│    │          │        │      │                  │        │                        │吳俊德行動電│A:我現在馬上過│動電話壹支（含SIM 卡）│              │
 │    │          │        │      │                  │        │被告林清海之自白：我幫朋│話號碼：0930│  去了啦!     │沒收，如全部或一部不能│              │
 │    │          │        │      │                  │        │友拿毒品都跟綽號「阿林」│307700→B   │B:你現在在哪? │沒收時，追徵其價額；未│              │
 │    │          │        │      │                  │        │調的，從中沒有獲利，只有│            │  我過去那邊找│扣案犯罪所得之財物新台│              │
@@ -535,14 +428,14 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │日這通我忘記是否我與吳俊│            │              │                      │              │
 │    │          │        │      │                  │        │德之對話，我沒有賣給吳俊│            │              │                      │              │
 │    │          │        │      │                  │        │德毒品，他都是拜託我去拿│            │              │                      │              │
-│    │          │        │      │                  │        │，<font color='red'>吳俊德</font>因為找不到別人買│            │              │                      │              │
+│    │          │        │      │                  │        │，吳俊德因為找不到別人買│            │              │                      │              │
 │    │          │        │      │                  │        │毒品，每次都打電話給我，│            │              │                      │              │
-│    │          │        │      │                  │        │要我幫他找。我先跟<font color='red'>吳俊德</font>│            │              │                      │              │
+│    │          │        │      │                  │        │要我幫他找。我先跟吳俊德│            │              │                      │              │
 │    │          │        │      │                  │        │拿錢，再去跟阿霖仔拿毒品│            │              │                      │              │
 │    │          │        │      │                  │        │，1,000元可以跟阿霖仔拿 │            │              │                      │              │
 │    │          │        │      │                  │        │到實重0.2公克安非他命， │            │              │                      │              │
 │    │          │        │      │                  │        │我把買到的安非他命全部給│            │              │                      │              │
-│    │          │        │      │                  │        │<font color='red'>吳俊德</font>，<font color='red'>吳俊德</font>會分一點給│            │              │                      │              │
+│    │          │        │      │                  │        │吳俊德，吳俊德會分一點給│            │              │                      │              │
 │    │          │        │      │                  │        │我用。我沒有中間抽佣，只│            │              │                      │              │
 │    │          │        │      │                  │        │是他會分一點給我用，吳俊│            │              │                      │              │
 │    │          │        │      │                  │        │德沒有給過1,000元的，他 │            │              │                      │              │
@@ -550,10 +443,10 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │他可以拿到0.8公克的量， │            │              │                      │              │
 │    │          │        │      │                  │        │他分我的數量不一定，要看│            │              │                      │              │
 │    │          │        │      │                  │        │他心情，我又沒有帶磅秤，│            │              │                      │              │
-│    │          │        │      │                  │        │怎麼會知道<font color='red'>吳俊德</font>分我多少│            │              │                      │              │
+│    │          │        │      │                  │        │怎麼會知道吳俊德分我多少│            │              │                      │              │
 │    │          │        │      │                  │        │。5月29日那1次，我真的忘│            │              │                      │              │
-│    │          │        │      │                  │        │記<font color='red'>吳俊德</font>到底拿多少錢給我│            │              │                      │              │
-│    │          │        │      │                  │        │、有無給<font color='red'>吳俊德</font>安非他命，│            │              │                      │              │
+│    │          │        │      │                  │        │記吳俊德到底拿多少錢給我│            │              │                      │              │
+│    │          │        │      │                  │        │、有無給吳俊德安非他命，│            │              │                      │              │
 │    │          │        │      │                  │        │我不知道。（見99偵7907第│            │              │                      │              │
 │    │          │        │      │                  │        │118頁偵訊）我沒有販賣毒 │            │              │                      │              │
 │    │          │        │      │                  │        │品，都是朋友拜託我跟他們│            │              │                      │              │
@@ -568,7 +461,7 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │俊德99年5月29日那次只有 │            │              │                      │              │
 │    │          │        │      │                  │        │碰面，起訴書附表編號1我 │            │              │                      │              │
 │    │          │        │      │                  │        │否認，那天只有碰面聊天，│            │              │                      │              │
-│    │          │        │      │                  │        │<font color='red'>吳俊德</font>本來要叫我幫他拿，│            │              │                      │              │
+│    │          │        │      │                  │        │吳俊德本來要叫我幫他拿，│            │              │                      │              │
 │    │          │        │      │                  │        │但是他錢不夠，所以沒有幫│            │              │                      │              │
 │    │          │        │      │                  │        │他拿。我們在中華路與經國│            │              │                      │              │
 │    │          │        │      │                  │        │路口碰面。（見100訴113第│            │              │                      │              │
@@ -578,11 +471,11 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │23時2分、23 時18分監聽光│            │              │                      │              │
 │    │          │        │      │                  │        │碟之勘驗結果沒有意見，接│            │              │                      │              │
 │    │          │        │      │                  │        │電話是我，跟我對話的人是│            │              │                      │              │
-│    │          │        │      │                  │        │<font color='red'>吳俊德</font>，（見100訴113第  │            │              │                      │              │
+│    │          │        │      │                  │        │吳俊德，（見100訴113第  │            │              │                      │              │
 │    │          │        │      │                  │        │36頁背面至第37頁背面本院│            │              │                      │              │
 │    │          │        │      │                  │        │準備）                  │            │              │                      │              │
 │    │          │        │      │                  │        │                        │            │              │                      │              │
-│    │          │        │      │                  │        │證人<font color='red'>吳俊德</font>之證述：我只有│            │              │                      │              │
+│    │          │        │      │                  │        │證人吳俊德之證述：我只有│            │              │                      │              │
 │    │          │        │      │                  │        │跟林清海購買過好幾次的安│            │              │                      │              │
 │    │          │        │      │                  │        │非他命，是在今（99）年3 │            │              │                      │              │
 │    │          │        │      │                  │        │月初起至06月間向他購買的│            │              │                      │              │
@@ -615,19 +508,19 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │通聯譯文（見99偵5809卷(一)│            │              │                      │              │
 │    │          │        │      │                  │        │第466頁=99偵7907第18頁）│            │              │                      │              │
 ├──┼─────┼────┼───┼─────────┼────┼────────────┼──────┼───────┼───────────┼───────┤
-│ 3  │99年6月4日│林清海  │<font color='red'>吳俊德</font>│新竹市○○路「思夢│4,000元 │被告林清海之自白（見99偵│林清海行動電│99/06/04      │林清海販賣第二級毒品，│              │
+│ 3  │99年6月4日│林清海  │吳俊德│新竹市○○路「思夢│4,000元 │被告林清海之自白（見99偵│林清海行動電│99/06/04      │林清海販賣第二級毒品，│              │
 │（2 │9時12分   │        │      │樂」路邊          │，淨重  │7907第119頁偵訊、99偵790│話號碼：0989│09:12:32      │累犯，處有期徒刑參年拾│              │
 │）  │          │        │      │                  │0.8公克 │7第134頁背面至第135頁警 │636292→A   │B:喂!你在哪?  │月；未扣案搭配門號○九│              │
 │    │          │        │      │                  │        │詢、100審訴128第13頁背面│            │A:牛埔!思夢樂 │00000000號之行│              │
-│    │          │        │      │                  │        │本院準備、100訴113第23頁│<font color='red'>吳俊德</font>行動電│  這邊!       │動電話壹支（含SIM 卡）│              │
+│    │          │        │      │                  │        │本院準備、100訴113第23頁│吳俊德行動電│  這邊!       │動電話壹支（含SIM 卡）│              │
 │    │          │        │      │                  │        │背面至第24頁本院準備）  │話號碼：0930│B:那我要四個便│沒收，如全部或一部不能│              │
 │    │          │        │      │                  │        │                        │307700→B   │  當!         │沒收時，追徵其價額；未│              │
 │    │          │        │      │                  │        │被告林清海之自白：6月4日│            │A:思夢樂這邊阿│扣案犯罪所得之財物新台│              │
-│    │          │        │      │                  │        │那次<font color='red'>吳俊德</font>有拿4,000元給 │            │  !           │幣肆仟元沒收，如全部或│              │
-│    │          │        │      │                  │        │我，我有給<font color='red'>吳俊德</font>安非他命│            │B:那你過來找我│一部不能沒收時，以其財│              │
+│    │          │        │      │                  │        │那次吳俊德有拿4,000元給 │            │  !           │幣肆仟元沒收，如全部或│              │
+│    │          │        │      │                  │        │我，我有給吳俊德安非他命│            │B:那你過來找我│一部不能沒收時，以其財│              │
 │    │          │        │      │                  │        │。（見99偵7907第119頁偵 │            │  阿!         │產抵償之。            │              │
 │    │          │        │      │                  │        │訊）06月04日09時12分通信│            │A:你在哪?     │                      │              │
-│    │          │        │      │                  │        │監察譯文內容是<font color='red'>吳俊德</font>叫我│            │B:信義國小阿! │                      │              │
+│    │          │        │      │                  │        │監察譯文內容是吳俊德叫我│            │B:信義國小阿! │                      │              │
 │    │          │        │      │                  │        │幫他拿4克安非他命，這次 │            │A:恩!好!      │                      │              │
 │    │          │        │      │                  │        │在新竹市○○路思夢樂門口│            │              │                      │              │
 │    │          │        │      │                  │        │交易，交易新台幣6,000元 │            │              │                      │              │
@@ -660,14 +553,14 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │這通我不記得是否我與吳俊│            │              │                      │              │
 │    │          │        │      │                  │        │德之對話，我沒有賣給吳俊│            │              │                      │              │
 │    │          │        │      │                  │        │德毒品，他都是拜託我去拿│            │              │                      │              │
-│    │          │        │      │                  │        │，<font color='red'>吳俊德</font>因為找不到別人買│            │              │                      │              │
+│    │          │        │      │                  │        │，吳俊德因為找不到別人買│            │              │                      │              │
 │    │          │        │      │                  │        │毒品，每次都打電話給我，│            │              │                      │              │
-│    │          │        │      │                  │        │要我幫他找。我先跟<font color='red'>吳俊德</font>│            │              │                      │              │
+│    │          │        │      │                  │        │要我幫他找。我先跟吳俊德│            │              │                      │              │
 │    │          │        │      │                  │        │拿錢，再去跟阿霖仔拿毒品│            │              │                      │              │
 │    │          │        │      │                  │        │，1,000元可以跟阿霖仔拿 │            │              │                      │              │
 │    │          │        │      │                  │        │到實重0.2公克安非他命， │            │              │                      │              │
 │    │          │        │      │                  │        │我把買到的安非他命全部給│            │              │                      │              │
-│    │          │        │      │                  │        │<font color='red'>吳俊德</font>，<font color='red'>吳俊德</font>會分一點給│            │              │                      │              │
+│    │          │        │      │                  │        │吳俊德，吳俊德會分一點給│            │              │                      │              │
 │    │          │        │      │                  │        │我用。我沒有中間抽佣，只│            │              │                      │              │
 │    │          │        │      │                  │        │是他會分一點給我用，吳俊│            │              │                      │              │
 │    │          │        │      │                  │        │德沒有給過1,000元的，他 │            │              │                      │              │
@@ -675,11 +568,11 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │他可以拿到0.8公克的量， │            │              │                      │              │
 │    │          │        │      │                  │        │他分我的數量不一定，要看│            │              │                      │              │
 │    │          │        │      │                  │        │他心情，我又沒有帶磅秤，│            │              │                      │              │
-│    │          │        │      │                  │        │怎麼會知道<font color='red'>吳俊德</font>分我多少│            │              │                      │              │
+│    │          │        │      │                  │        │怎麼會知道吳俊德分我多少│            │              │                      │              │
 │    │          │        │      │                  │        │。（見99偵7907第118頁偵 │            │              │                      │              │
 │    │          │        │      │                  │        │訊）                    │            │              │                      │              │
 │    │          │        │      │                  │        │                        │            │              │                      │              │
-│    │          │        │      │                  │        │證人<font color='red'>吳俊德</font>之證述：我只有│            │              │                      │              │
+│    │          │        │      │                  │        │證人吳俊德之證述：我只有│            │              │                      │              │
 │    │          │        │      │                  │        │跟林清海購買過好幾次的安│            │              │                      │              │
 │    │          │        │      │                  │        │非他命，是在今（99）年3 │            │              │                      │              │
 │    │          │        │      │                  │        │月初起至06月間向他購買的│            │              │                      │              │
@@ -1126,86 +1019,12 @@ function openwin(URL,arguments,width,height)
 │    │          │        │      │                  │        │第193頁=99偵7907第30頁）│            │              │
 ├──┴─────┴────┴───┴─────────┴────┴────────────┴──────┴───────┤
 │編號欄（）內數字為起訴書附表之編號                                                                                      │
-└────────────────────────────────────────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWSCD\CRIMINAL\10009\28\SCDM1009S.00A] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共17
-											筆 / 現在第8
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000113&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=17&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c113%2c20110928%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=113&jdate=1000928&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c113%2c20110928%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=113&jdate=1000928&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c113%2c20110928%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','113','1000928','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="8"> <input type="hidden" name="v_court" value="SCD 臺灣新竹地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└────────────────────────────────────────────────────────────┘
+[*jrecno*]100,訴,113,20110928,1
+[*v_court*]SCD 臺灣新竹地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]113
+[*jdate*]1000928
+[*jcheck*]1

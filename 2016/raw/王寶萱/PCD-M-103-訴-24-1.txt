@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-103訴24</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000024&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c24%2c20140509%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=24&jdate=1030509&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c24%2c20140509%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=24&jdate=1030509&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c24%2c20140509%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','24','1030509','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,24</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030509</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　　 103年度訴字第24號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c24%2c20140509%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=24&jdate=1030509&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000024&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c24%2c20140509%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=24&jdate=1030509&jcheck=1
+[*裁判字號*]103,訴,24
+[*裁判日期*]1030509
+[*裁判案由*]毒品危害防制條例等
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　　 103年度訴字第24號
 公　訴　人　臺灣新北地方法院檢察署檢察官
 被　　　告　陳澍民
 選任辯護人　邱碩松律師
@@ -123,16 +16,16 @@ function openwin(URL,arguments,width,height)
     主  文
 丙○○犯如附表七編號一至二十四主文欄所示之二十五罪，均累
 犯，各處如附表七編號一至二十四主文欄所示之主刑及從刑。應
-執行有期徒刑壹拾<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，扣案如附表五編號一、五所示之物沒收
+執行有期徒刑壹拾年，扣案如附表五編號一、五所示之物沒收
 銷燬，如附表五編號四所示之物沒收，未扣案之販賣第二級毒品
-所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟伍佰元與甲○○連帶沒收，如全部或一部不能沒
+所得新臺幣仟伍佰元與甲○○連帶沒收，如全部或一部不能沒
 收時，以其等財產連帶抵償之；未扣案之販賣第二級毒品所得新
-臺幣肆萬<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟玖佰元沒收，如全部或一部不能沒收時，以其財產
+臺幣肆萬仟玖佰元沒收，如全部或一部不能沒收時，以其財產
 抵償之。
 甲○○犯如附表八編號一至十主文欄所示之十罪，各處如附表八
 編號一至十主文欄所示之主刑及從刑。應執行有期徒刑玖年，扣
 案如附表五編號九所示之物沒收，未扣案之販賣第二級毒品所得
-新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟伍佰元與丙○○連帶沒收，如全部或一部不能沒收時
+新臺幣仟伍佰元與丙○○連帶沒收，如全部或一部不能沒收時
 ，以其等財產連帶抵償之；未扣案之販賣第二級毒品所得新臺幣
 貳萬玖仟伍佰元沒收，如全部或一部不能沒收時，以其財產抵償
 之。
@@ -161,8 +54,8 @@ function openwin(URL,arguments,width,height)
     祥、陳俐儒、賴柏瑞、林志杰、翁志文、陳俊利。
 二、甲○○基於販賣第二級毒品甲基安非他命以營利之犯意，於
     如附表二所示時間、地點，以如附表二所示之價額及方式，
-    分別販賣第二級毒品甲基安非他命予賴柏瑞、李韋儀、<font color='red'>王寶
-    萱</font>、蔡純純、陳俊利。
+    分別販賣第二級毒品甲基安非他命予賴柏瑞、李韋儀、王寶
+    萱、蔡純純、陳俊利。
 三、丙○○與甲○○共同基於販賣第二級毒品甲基安非他命以營
     利之犯意聯絡，於如附表三所示時間、地點，以如附表三所
     示之價額及方式，販賣第二級毒品甲基安非他命予蕭夢麟。
@@ -204,8 +97,8 @@ function openwin(URL,arguments,width,height)
     項不得為證據之情形，而未於言詞辯論終結前聲明異議者，
     視為有前項之同意，則據同法第159 條之1 第2 項、第159
     條之5 分別規定甚明。茲證人許晉航、趙賢文、張天祥、陳
-    俐儒、賴柏瑞、林志杰、翁志文、陳俊利、李韋儀、<font color='red'>王寶萱
-    </font>、蔡純純、蕭夢麟於司法警察調查時、於偵查中向檢察官所
+    俐儒、賴柏瑞、林志杰、翁志文、陳俊利、李韋儀、王寶萱
+    、蔡純純、蕭夢麟於司法警察調查時、於偵查中向檢察官所
     為陳述，雖係被告丙○○、甲○○以外之人於審判外之陳述
     ，然渠等於偵查中具結向檢察官所為陳述，於本案並無顯不
     可信之情況，依同法第159 條之1 第2 項規定，應認有證據
@@ -344,15 +237,15 @@ function openwin(URL,arguments,width,height)
  2、被告甲○○販賣第二級毒品甲基安非他命部分：
     訊據被告甲○○於偵查及本院審理時均坦認有附表二編號1
     至8 所示之販賣第二級毒品甲基安非他命予證人賴柏瑞1 次
-    、證人李韋儀2 次、證人<font color='red'>王寶萱</font>1 次、證人蔡純純3 次、證
+    、證人李韋儀2 次、證人王寶萱1 次、證人蔡純純3 次、證
     人陳俊利1 次之犯行（見102 年度偵字第29326 號偵查卷第
     283 頁背面至第285 頁、本院刑事卷宗第32頁背面、第81頁
     背面、第116 頁）。參以證人賴柏瑞有於附表二編號1 所示
     之時間，以行動電話門號0000000000號與被告甲○○所使用
     之被告丙○○所有門號0000000000號進行聯繫、證人李韋儀
     有於附表二編號2 至3 所示之時間，以行動電話門號000000
-    0000號與被告甲○○之門號0000000000號進行聯繫、證人<font color='red'>王
-    寶萱</font>有於附表二編號4 所示之時間，以行動電話門號000000
+    0000號與被告甲○○之門號0000000000號進行聯繫、證人王
+    寶萱有於附表二編號4 所示之時間，以行動電話門號000000
     0000號與被告甲○○之門號0000000000號進行聯繫、證人蔡
     純純有於附表二編號5 至7 所示之時間，各以行動電話門號
     0000000000號、0000000000號與被告甲○○之門號00000000
@@ -361,12 +254,12 @@ function openwin(URL,arguments,width,height)
     00號進行聯繫，約定購毒事宜、見面時間、地點等情，有本
     院102年聲監字第1090號、第1261號、102年聲監續字第1867
     號、第2076號通訊監察書、如附表六編號18至25所示被告甲
-    ○○與證人賴柏瑞、李韋儀、<font color='red'>王寶萱</font>、蔡純純、陳俊利之通
+    ○○與證人賴柏瑞、李韋儀、王寶萱、蔡純純、陳俊利之通
     訊監察譯文各1 份在卷可憑（見102 年度偵字29326 號偵查
     卷第11頁至第13頁、第14頁至第17頁、第70頁至第75頁、第
     247 頁至第249 頁背面、第257 頁至第259 頁、102 年度偵
     字29327 號偵查卷(一)第151 頁至第152 頁）。再佐以證人賴
-    柏瑞、李韋儀、<font color='red'>王寶萱</font>、蔡純純、陳俊利各於警詢時證述、
+    柏瑞、李韋儀、王寶萱、蔡純純、陳俊利各於警詢時證述、
     偵查中結證：渠等各於如附表二編號1 至8 所示時間與被告
     甲○○間通話後，分別於附表二編號1 至8 所示時、地，由
     被告甲○○向渠等交付第二級毒品甲基安非他命並收取價金
@@ -421,14 +314,14 @@ function openwin(URL,arguments,width,height)
     號判決意旨參照）；茲甲基安非他命之價格不低，取得不易
     ，被告丙○○如附表一所述各該次與證人許晉航、趙賢文、
     張天祥、陳俐儒、賴柏瑞、林志杰、翁志文、陳俊利等人、
-    被告甲○○如附表二所述各該次與證人賴柏瑞、李韋儀、<font color='red'>王
-    寶萱</font>、蔡純純、陳俊利等人、被告丙○○、甲○○如附表三
+    被告甲○○如附表二所述各該次與證人賴柏瑞、李韋儀、王
+    寶萱、蔡純純、陳俊利等人、被告丙○○、甲○○如附表三
     所述各該次與證人蕭夢麟聯繫販賣交付第二級毒品甲基安非
     他命之過程，均係約定以現金交易，非如一般單純轉讓毒品
     者僅係談及交付毒品之數量，此應係慮及從事販賣毒品之風
     險極高之故，是被告丙○○、甲○○如此精於計算，原堪認
     其具營利意圖，況依證人許晉航、趙賢文、張天祥、陳俐儒
-    、賴柏瑞、林志杰、翁志文、陳俊利、李韋儀、<font color='red'>王寶萱</font>、蔡
+    、賴柏瑞、林志杰、翁志文、陳俊利、李韋儀、王寶萱、蔡
     純純、蕭夢麟於偵查中結證係向被告丙○○、甲○○「買」
     毒品等語明確。再徵諸毒品危害防制條例第4 條第2 項所定
     販賣第二級毒品之法定刑為「無期徒刑或7 年以上有期徒刑
@@ -531,7 +424,7 @@ function openwin(URL,arguments,width,height)
     二級毒品甲基安非他命予證人許晉航、趙賢文、張天祥、陳
     俐儒、賴柏瑞、林志杰、翁志文、陳俊利之行為，被告甲○
     ○如事實欄壹、二部分即附表二編號1 至8 所述販賣第二級
-    毒品甲基安非他命予證人賴柏瑞、李韋儀、<font color='red'>王寶萱</font>、蔡純純
+    毒品甲基安非他命予證人賴柏瑞、李韋儀、王寶萱、蔡純純
     、陳俊利之行為、被告丙○○、甲○○如事實欄壹、三部分
     即附表三編號1 至2 所示共同販賣第二級毒品甲基安非他命
     予證人蕭夢麟之行為，各係犯毒品危害防制條例第4 條第2
@@ -1234,7 +1127,7 @@ function openwin(URL,arguments,width,height)
 │    │        │          │      │          │基安非他命既│        │            │
 │    │        │          │      │          │遂。        │        │            │
 ├──┼────┼─────┼───┼─────┼──────┼────┼──────┤
-│4   │102 年9 │桃園縣桃園│<font color='red'>王寶萱</font>│第二級毒品│甲○○使用扣│1500元  │102 年度偵字│
+│4   │102 年9 │桃園縣桃園│王寶萱│第二級毒品│甲○○使用扣│1500元  │102 年度偵字│
 │    │月2 日  │市中正路36│      │甲基安非他│案如附表五編│        │第29326 號偵│
 │    │        │6 號13樓之│      │命0.5 公克│號9 所示行動│        │查卷第16頁至│
 │    │        │8         │      │          │電話（內含門│        │第17頁即附表│
@@ -2247,7 +2140,7 @@ function openwin(URL,arguments,width,height)
 │  │        │          │          │B：我下去我下去，掰掰。         │        │        │          │
 ├─┼────┼─────┼─────┼────────────────┼────┼────┼─────┤
 │21│102 年9 │0000000000│0000000000│A：喂。                         │臺北市士│本院102 │102 年度偵│
-│  │月2 日上│甲○○    │<font color='red'>王寶萱    </font>│B：喂阿姨，ancle出門了嗎？      │林區延平│年聲監字│字第29326 │
+│  │月2 日上│甲○○    │王寶萱    │B：喂阿姨，ancle出門了嗎？      │林區延平│年聲監字│字第29326 │
 │  │午11時57│          │          │A：他有打給你嗎？               │北路7 段│第1261號│號偵查卷第│
 │  │分04秒  │          │          │B：有阿，他說他12點多會到阿。   │261 號3 │        │16頁至第17│
 │  │        │          │          │A：是喔？                       │樓頂    │        │頁        │
@@ -2604,88 +2497,88 @@ function openwin(URL,arguments,width,height)
 ├──┬────────────────────────────┬──────────────┤
 │編號│                   主     文                            │           備    註         │
 ├──┼────────────────────────────┼──────────────┤
-│ 1  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號1所示犯行       │
+│ 1  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號1所示犯行       │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰│                            │
 │    │元沒收之，如全部或一部不能沒收時，以其財產抵償之。      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 2  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號2所示犯行       │
+│ 2  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號2所示犯行       │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣肆仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 3  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號3 所示犯行      │
+│ 3  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號3 所示犯行      │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣貳仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 4  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號4所示犯行       │
+│ 4  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號4所示犯行       │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣肆仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 5  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號5所示犯行       │
-│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒│                            │
+│ 5  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號5所示犯行       │
+│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 6  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，未扣案販│即附表一編號6所示犯行       │
+│ 6  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，未扣案販│即附表一編號6所示犯行       │
 │    │賣毒品所得新臺幣壹仟元沒收之，如全部或一部不能沒收時，以│                            │
 │    │其財產抵償之。                                          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 7  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號7所示犯行       │
+│ 7  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號7所示犯行       │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣壹仟捌佰│                            │
 │    │元沒收之，如全部或一部不能沒收時，以其財產抵償之。      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 8  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年玖月，扣案如附│即附表一編號8所示犯行       │
-│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟陸佰│                            │
+│ 8  │丙○○販賣第二級毒品，累犯，處有期徒刑年玖月，扣案如附│即附表一編號8所示犯行       │
+│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣仟陸佰│                            │
 │    │元沒收之，如全部或一部不能沒收時，以其財產抵償之。      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 9  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號9所示犯行       │
+│ 9  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號9所示犯行       │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰│                            │
 │    │元沒收之，如全部或一部不能沒收時，以其財產抵償之。      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│10  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號10所示犯行      │
+│10  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號10所示犯行      │
 │    │表五編號五所示之物沒收銷燬，未扣案販賣毒品所得新臺幣壹仟│                            │
 │    │伍佰元沒收之，如全部或一部不能沒收時，以其財產抵償之。  │                            │
 ├──┼────────────────────────────┼──────────────┤
-│11  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號11所示犯行      │
+│11  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號11所示犯行      │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣貳仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│12  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，未扣案販│即附表一編號12所示犯行      │
+│12  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，未扣案販│即附表一編號12所示犯行      │
 │    │賣毒品所得新臺幣肆仟元沒收之，如全部或一部不能沒收時，以│                            │
 │    │其財產抵償之。                                          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│13  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號13所示犯行      │
-│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒│                            │
+│13  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號13所示犯行      │
+│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│14  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號14所示犯行      │
-│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒│                            │
+│14  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號14所示犯行      │
+│    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│15  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號15所示犯行      │
+│15  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號15所示犯行      │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰│                            │
 │    │元沒收之，如全部或一部不能沒收時，以其財產抵償之。      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│16  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號16所示犯行      │
+│16  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號16所示犯行      │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣壹仟元沒│                            │
 │    │收之，如全部或一部不能沒收時，以其財產抵償之。          │                            │
 ├──┼────────────────────────────┼──────────────┤
-│17  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，未扣案販│即附表一編號17所示犯行      │
+│17  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，未扣案販│即附表一編號17所示犯行      │
 │    │賣毒品所得新臺幣壹仟伍佰元沒收之，如全部或一部不能沒收時│                            │
 │    │，以其財產抵償之。                                      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│18  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號18所示犯行      │
+│18  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號18所示犯行      │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰│                            │
 │    │元沒收之，如全部或一部不能沒收時，以其財產抵償之。      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│19  │丙○○販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案如附│即附表一編號19所示犯行      │
+│19  │丙○○販賣第二級毒品，累犯，處有期徒刑年捌月，扣案如附│即附表一編號19所示犯行      │
 │    │表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰│                            │
 │    │元沒收之，如全部或一部不能沒收時，以其財產抵償之。      │                            │
 ├──┼────────────────────────────┼──────────────┤
-│20  │丙○○共同販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案│即附表三編號1所示犯行       │
+│20  │丙○○共同販賣第二級毒品，累犯，處有期徒刑年捌月，扣案│即附表三編號1所示犯行       │
 │    │如附表五編號九所示之物沒收，未扣案販賣毒品所得新臺幣壹仟│                            │
 │    │元與甲○○連帶沒收之，如全部或一部不能沒收時，以其等財產│                            │
 │    │連帶抵償之。                                            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│21  │丙○○共同販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，扣案│即附表三編號2所示犯行       │
+│21  │丙○○共同販賣第二級毒品，累犯，處有期徒刑年捌月，扣案│即附表三編號2所示犯行       │
 │    │如附表五編號四所示之物沒收，未扣案販賣毒品所得新臺幣貳仟│                            │
 │    │伍佰元與甲○○連帶沒收之，如全部或一部不能沒收時，以其等│                            │
 │    │財產連帶抵償之。                                        │                            │
@@ -2703,44 +2596,44 @@ function openwin(URL,arguments,width,height)
 ├──┬────────────────────────────┬──────────────┤
 │編號│                   主     文                            │           備    註         │
 ├──┼────────────────────────────┼──────────────┤
-│ 1  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，未扣案販賣毒品│即附表二編號1所示犯行       │
+│ 1  │甲○○販賣第二級毒品，處有期徒刑年捌月，未扣案販賣毒品│即附表二編號1所示犯行       │
 │    │所得新臺幣玖仟元沒收之，如全部或一部不能沒收時，以其財產│                            │
 │    │抵償之。                                                │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 2  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表五編│即附表二編號2所示犯行       │
+│ 2  │甲○○販賣第二級毒品，處有期徒刑年柒月，扣案如附表五編│即附表二編號2所示犯行       │
 │    │號九所示之物沒收，未扣案販賣毒品所得新臺幣伍仟元沒收之，│                            │
 │    │如全部或一部不能沒收時，以其財產抵償之。                │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 3  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表五編│即附表二編號3 所示犯行      │
+│ 3  │甲○○販賣第二級毒品，處有期徒刑年柒月，扣案如附表五編│即附表二編號3 所示犯行      │
 │    │號九所示之物沒收，未扣案販賣毒品所得新臺幣伍仟元沒收之，│                            │
 │    │如全部或一部不能沒收時，以其財產抵償之。                │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 4  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表五編│即附表二編號4所示犯行       │
+│ 4  │甲○○販賣第二級毒品，處有期徒刑年柒月，扣案如附表五編│即附表二編號4所示犯行       │
 │    │號九所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 5  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表五編│即附表二編號5所示犯行       │
+│ 5  │甲○○販賣第二級毒品，處有期徒刑年柒月，扣案如附表五編│即附表二編號5所示犯行       │
 │    │號九所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 6  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表五編│即附表二編號6所示犯行       │
+│ 6  │甲○○販賣第二級毒品，處有期徒刑年柒月，扣案如附表五編│即附表二編號6所示犯行       │
 │    │號九所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 7  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表五編│即附表二編號7所示犯行       │
+│ 7  │甲○○販賣第二級毒品，處有期徒刑年柒月，扣案如附表五編│即附表二編號7所示犯行       │
 │    │號九所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 8  │甲○○販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表五編│即附表二編號8所示犯行       │
+│ 8  │甲○○販賣第二級毒品，處有期徒刑年柒月，扣案如附表五編│即附表二編號8所示犯行       │
 │    │號九所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 9  │甲○○共同販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表│即附表三編號1所示犯行       │
+│ 9  │甲○○共同販賣第二級毒品，處有期徒刑年柒月，扣案如附表│即附表三編號1所示犯行       │
 │    │五編號九所示之物沒收，未扣案販賣毒品所得新臺幣壹仟元與陳│                            │
 │    │澍民連帶沒收之，如全部或一部不能沒收時，以其等財產連帶抵│                            │
 │    │償之。                                                  │                            │
 ├──┼────────────────────────────┼──────────────┤
-│10  │甲○○共同販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表│即附表三編號2所示犯行       │
+│10  │甲○○共同販賣第二級毒品，處有期徒刑年柒月，扣案如附表│即附表三編號2所示犯行       │
 │    │五編號四所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元│                            │
 │    │與丙○○連帶沒收之，如全部或一部不能沒收時，以其等財產連│                            │
 │    │帶抵償之。                                              │                            │
@@ -2771,86 +2664,12 @@ function openwin(URL,arguments,width,height)
 者，處 3 年以上 12 年以下有期徒刑。
 因過失犯第 1 項之罪者，處 2 年以下有期徒刑、拘役或科新臺
 幣 30 萬元以下罰金。
-第1 項之未遂犯罰之。</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWPCD\CRIMINAL\10305\09\PCDM10359.042] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000024&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e5%af%b6%e8%90%b1&sdate=&edate=&page=&searchkw=%e7%8e%8b%e5%af%b6%e8%90%b1&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c24%2c20140509%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=24&jdate=1030509&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c24%2c20140509%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=24&jdate=1030509&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c24%2c20140509%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','24','1030509','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王寶萱">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王寶萱">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+第1 項之未遂犯罰之。
+[*jrecno*]103,訴,24,20140509,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]24
+[*jdate*]1030509
+[*jcheck*]1

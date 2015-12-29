@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣南投地方法院-刑-98訴145</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣南投地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000145&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c145%2c20101109%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=145&jdate=991109&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c145%2c20101109%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=145&jdate=991109&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c145%2c20101109%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','145','991109','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,145</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">991109</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽證等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣南投地方法院刑事判決　　　　　　　 98年度訴字第145號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c145%2c20101109%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=145&jdate=991109&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000145&selectedCrtid=NTD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c145%2c20101109%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=145&jdate=991109&jcheck=1
+[*裁判字號*]98,訴,145
+[*裁判日期*]991109
+[*裁判案由*]偽證等
+[*裁判全文*]臺灣南投地方法院刑事判決　　　　　　　 98年度訴字第145號
 公　訴　人　臺灣南投地方法院檢察署檢察官
 被　　　告　廖學輝
 選任辯護人　陳胘富律師
@@ -155,42 +48,42 @@ function openwin(URL,arguments,width,height)
     林惟森受雇於「蘭諾國際開發有限公司」（以下簡稱為「蘭
     諾公司」）擔任該公司之中區業務人員。緣南投市公所於民
     國九十五年間辦理「採購九十五年度重陽節敬老禮品案」（
-    以下簡稱為系爭採購案），南投市長<font color='red'>許淑華</font>於九十五年七月
+    以下簡稱為系爭採購案），南投市長許淑華於九十五年七月
     五日批示發函通知南投縣商業會轉通知所屬會員提供禮品樣
     式做為選樣參考，並函請南投市代會推派代表一人擔任選樣
     委員，南投市代會即於同年七月十一日函覆由市民代表廖學
     輝擔任選樣委員，廖學輝遂與其他選樣委員於同年七月二十
-    日，就廠商所提供之十六樣禮品樣式進行評選，再由市長<font color='red'>許
-    淑華</font>於同年七月二十八日就評選結果核定禮品式樣後，交由
+    日，就廠商所提供之十六樣禮品樣式進行評選，再由市長許
+    淑華於同年七月二十八日就評選結果核定禮品式樣後，交由
     南投市公所承辦人辦理後續採購事宜。南投市公所承辦人即
-    里幹事黃瓊瑤經市長<font color='red'>許淑華</font>核可後，於同年八月二十五日上
+    里幹事黃瓊瑤經市長許淑華核可後，於同年八月二十五日上
     網公告系爭採購案，其公告項目除刊載該採購案之預算金額
     為新臺幣（下同）二百四十七萬三千八百元外，並載明採購
-    數量為八千二百四十六份；另於同年八月二十八日由市長<font color='red'>許
-    淑華</font>核定底價金額為二百四十六萬元（相當於每份禮品單價
+    數量為八千二百四十六份；另於同年八月二十八日由市長許
+    淑華核定底價金額為二百四十六萬元（相當於每份禮品單價
     為二百九十八元）。
 二、詎廖學輝竟意圖為自己不法之所有，基於詐欺取財之犯意，
     利用其擔任系爭採購案選樣委員與郭芳蘭亟欲取得該案承攬
     權之機會，於郭芳蘭將其選樣禮品樣式送至南投市公所準備
     參與評選前夕，主動至郭芳蘭位於南投市○○路四七八號居
-    住處，向郭芳蘭佯稱其可居間向市長<font color='red'>許淑華</font>關說，助其取得
+    住處，向郭芳蘭佯稱其可居間向市長許淑華關說，助其取得
     系爭採購案之承攬權。且於同年七月二十日評選後，主動告
-    知郭芳蘭稱市長<font color='red'>許淑華</font>表示其所提供之編號十六號禮盒過於
+    知郭芳蘭稱市長許淑華表示其所提供之編號十六號禮盒過於
     陽春，希望增加其他項目等情，郭芳蘭告知廖學輝願意將「
     刨刀、綿羊香皂」改為「牙膏、牙刷與沐浴巾」，以符合市
-    長<font color='red'>許淑華</font>之要求，之後市長<font color='red'>許淑華</font>果依郭芳蘭所更改之內容
+    長許淑華之要求，之後市長許淑華果依郭芳蘭所更改之內容
     ，於同年七月二十八日批示「採編號十六號，請更換綿羊皂
     及刀子，改為牙膏、牙刷、沐浴巾」，並將核定之系爭採購
     案禮品樣式交由南投市公所承辦人黃瓊瑤辦理後續採購事宜
     ，致使郭芳蘭陷於錯誤，相信廖學輝所言。隨後，郭芳蘭於
     系爭採購案在同年九月十二日開標前，詢問廖學輝上開標案
     底價金額，詎廖學輝竟承續其上揭詐欺取財之犯意，明知其
-    並不知悉該標案之底價金額，且市長<font color='red'>許淑華</font>亦未透過其向得
+    並不知悉該標案之底價金額，且市長許淑華亦未透過其向得
     標廠商索取五十萬元之回扣，竟於同年九月十一日某時，在
-    郭芳蘭居住處，向郭芳蘭佯稱其知悉底價金額，惟因市長<font color='red'>許
-    淑華</font>將於同年九月十九日至二十六日率領廖學輝等人前往大
+    郭芳蘭居住處，向郭芳蘭佯稱其知悉底價金額，惟因市長許
+    淑華將於同年九月十九日至二十六日率領廖學輝等人前往大
     陸地區參訪，急需用錢，要郭芳蘭支付五十萬元之回扣款予
-    市長<font color='red'>許淑華</font>，並要求郭芳蘭於系爭採購案開標當天即交付現
+    市長許淑華，並要求郭芳蘭於系爭採購案開標當天即交付現
     金予其，致使郭芳蘭陷於錯誤，同意於取得系爭採購案承攬
     權後即支付五十萬元之回扣。隨後，郭芳蘭即參酌廖學輝所
     告知之底價金額即二百九十六元，安排協議不為價格競爭之
@@ -261,7 +154,7 @@ function openwin(URL,arguments,width,height)
     在其住處告知底價為二百九十六元，當時林任冠在場。其在
     這個標案內，送了五十萬元賄賂給廖學輝，當初廖學輝說是
     公所老闆要出國急需用錢，希望得標之後能馬上付現，公所
-    的老闆應該是指市長<font color='red'>許淑華</font>，應該是要去大陸。之後「蘭諾
+    的老闆應該是指市長許淑華，應該是要去大陸。之後「蘭諾
     公司」得標後，依約於開標當天匯八十八萬二千三百二十二
     元到其所有之彰化銀行南投分行帳戶內，其當天就一次將八
     十八萬二千三百二十二元提出，然後五十萬元現金用報紙包
@@ -299,17 +192,17 @@ function openwin(URL,arguments,width,height)
     ，依刑事訴訟法第一百五十九條之五之規定，當均有證據能
     力，合先敘明。
 貳、有罪部分：
-一、就南投市公所於九十五年間辦理系爭採購案，市長<font color='red'>許淑華</font>於
+一、就南投市公所於九十五年間辦理系爭採購案，市長許淑華於
     九十五年七月五日批示發函通知南投縣商業會轉通知所屬會
     員提供禮品樣式做為選樣參考，並函請市代會推派代表一人
     擔任選樣委員，市代會於同年七月十一日函覆由被告即市民
     代表廖學輝擔任選樣委員，廖學輝遂與其他選樣委員於同年
     七月二十日，就廠商所提供之十六樣禮品樣式進行評選，再
-    由市長<font color='red'>許淑華</font>於同年七月二十八日就評選結果核定禮品式樣
+    由市長許淑華於同年七月二十八日就評選結果核定禮品式樣
     為被告郭芳蘭所提供並經修正內容之編號十六號禮盒，交由
     南投市公所承辦人辦理採購，而於同年八月二十五日上網公
     告系爭採購案，刊載預算金額為二百四十七萬三千八百元，
-    數量為八千二百四十六份，而<font color='red'>許淑華</font>於同年八月二十八日核
+    數量為八千二百四十六份，而許淑華於同年八月二十八日核
     定該標案之底價金額為二百四十六萬元。嗣被告郭芳蘭即透
     過被告劉鎧維認識「蘭諾公司」林惟森，共同形成影響決標
     價格以獲取不法利益之意圖，而基於不為價格競爭之犯意聯
@@ -379,8 +272,8 @@ function openwin(URL,arguments,width,height)
       會合法廠商提供禮品選樣參考，經廠商提供共計十六樣，
       經由委員每人圈選三樣，以累計得票數較高者取前三名〈
       票數相同者同時採取〉，圈選結果，得票數為編號九、十
-      六號各得三票，編號八、九號各得二票」；南投市長<font color='red'>許淑
-      華</font>則批註「採編號十六號，請更換綿羊皂及刀子改為牙膏
+      六號各得三票，編號八、九號各得二票」；南投市長許淑
+      華則批註「採編號十六號，請更換綿羊皂及刀子改為牙膏
       、牙刷、沐浴巾」之簽呈影本一紙（見卷(一)第六頁）。
     3.南投市公所辦理「９５年度重陽節敬老禮品選樣」委員簽
       到單影本一紙（見卷(一)第七頁）。
@@ -466,7 +359,7 @@ function openwin(URL,arguments,width,height)
       他幫忙瞭解本採購案選樣的人會比較喜歡什麼禮品內容，
       所以廖學輝才會到伊店裡找伊。伊原本提供評選的禮盒內
       容有綿羊皂、按摩棒、沐浴乳、洗髮乳、小號牙膏、牙刷
-      等物，廖學輝向伊表示市長<font color='red'>許淑華</font>認為這樣送給老人家太
+      等物，廖學輝向伊表示市長許淑華認為這樣送給老人家太
       失禮、太陽春，所以後來就將小號牙膏換成大條牙膏、洗
       髮乳加量換成大罐並加上一條桑拿巾後組成禮盒送給他看
       過或僅以口頭告知他，讓他知道已經有加強過禮盒內容後
@@ -691,7 +584,7 @@ function openwin(URL,arguments,width,height)
     林凱維、林惟森部分均依同條例第九條規定諭知易科罰金之
     折算標準，就被告郭芳蘭部分依同條例第十一條規定定其應
     執行。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、公訴不受理部分：
+、公訴不受理部分：
 一、按起訴之程序違背規定者，應諭知不受理之判決，刑事訴訟
     法第三百零三條第一款規定參照。而刑事訴訟係對於特定被
     告之特定犯罪事實所進行之程序，被告在刑事訴訟上具有為
@@ -769,86 +662,12 @@ function openwin(URL,arguments,width,height)
 │臺灣南投地方法院檢察署九十七年度偵字第三八六三號偵查卷          │卷(五)    │
 ├────────────────────────────────┼────┤
 │臺灣南投地方法院九十八年度訴字第一四五號卷                      │本院卷  │
-└────────────────────────────────┴────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWNTD\CRIMINAL\9911\09\NTDM99B9.00Q] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000145&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c145%2c20101109%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=145&jdate=991109&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c145%2c20101109%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=145&jdate=991109&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c145%2c20101109%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','145','991109','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="NTD 臺灣南投地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許淑華">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許淑華">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└────────────────────────────────┴────┘
+[*jrecno*]98,訴,145,20101109,1
+[*v_court*]NTD 臺灣南投地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]145
+[*jdate*]991109
+[*jcheck*]1

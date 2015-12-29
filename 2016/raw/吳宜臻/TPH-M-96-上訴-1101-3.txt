@@ -1,125 +1,18 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-96上訴1101</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共50
-											筆 / 現在第41
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001101&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=40&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=42&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=50&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=1101&jdate=960627&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=1101&jdate=960627&jcheck=3">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','96','%e4%b8%8a%e8%a8%b4','1101','960627','3')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">96,上訴,1101</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">960627</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反槍砲彈藥刀械管制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　96年度上訴字第1101號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=1101&jdate=960627&jcheck=3
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001101&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=1101&jdate=960627&jcheck=3
+[*裁判字號*]96,上訴,1101
+[*裁判日期*]960627
+[*裁判案由*]違反槍砲彈藥刀械管制條例
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　96年度上訴字第1101號
 上　訴　人
 即　被　告　戊○○
 　　　　　　　　　　　(
 選任辯護人　何啟熏律師
 上　訴　人
 即　被　告　乙○○
-　　　　　　　　　　　之1 <span  style="color:#e8e8e8">.</span>
-選任辯護人　<font color='red'>吳宜臻</font>律師
+　　　　　　　　　　　之1 .
+選任辯護人　吳宜臻律師
 上　訴　人
 即　被　告　甲○○
 選任辯護人　文聞律師
@@ -170,8 +63,8 @@ function openwin(URL,arguments,width,height)
     、子彈及屬槍枝主要組成零件之行為：
   (一)戊○○自民國（下同）94年初某日起至95年農曆過年（1 月
     29日為大年初一）時止，陸續交付子彈規格圖、具殺傷力制
-    式子彈1 顆（如附表五編號八之<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />號）、不具殺傷力改造子
-    彈1 顆（如附表五編號八之<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />號）予甲○○，甲○○即依據
+    式子彈1 顆（如附表五編號八之號）、不具殺傷力改造子
+    彈1 顆（如附表五編號八之號）予甲○○，甲○○即依據
     設計圖開始購買製造子彈之原料，在其設於桃園縣八德市○
     ○路991巷123弄145號工廠，以其所有之車刀6支、鑽頭1 支
     、手動電床1 台等物製造彈殼、彈頭，隨之持至台北縣鶯歌
@@ -462,7 +355,7 @@ function openwin(URL,arguments,width,height)
     本刑為無期徒刑部分，不得加重外，餘均應依法加重其刑；
     被告甲○○應從一重論以未經許可製造子彈罪、未經許可製
     造槍砲之主要組成零件罪。被告戊○○、甲○○，未經許可
-    持有制式子彈罪（即附表五編號八之<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />號）係為未經許可製
+    持有制式子彈罪（即附表五編號八之號）係為未經許可製
     造子彈罪所犯，二者有方法、目的之牽連關係，應依修正前
     刑法第55條規定，從一重之未經許可製造子彈罪處斷。被告
     戊○○係於相近時間，基於同一製造槍、彈之犯意，製造具
@@ -479,7 +372,7 @@ function openwin(URL,arguments,width,height)
     ○從較重之未經許可持有槍砲之主要組成零件罪處斷。公訴
     人認被告戊○○、乙○○、丙○○所犯上開等罪，犯意各別
     、罪名有異，應分論併罰之，容有未洽。又公訴人雖未就被
-    告戊○○、甲○○未經許可持有子彈（即附表五編號八之<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />
+    告戊○○、甲○○未經許可持有子彈（即附表五編號八之
     號）、未經許可製造子彈80顆（如附表一編號三號）部分起
     訴，惟此等部分與起訴部分之未經許可製造改造手槍犯行部
     分，分有牽連犯、連續犯裁判上一罪關係，依審判不可分之
@@ -554,11 +447,11 @@ function openwin(URL,arguments,width,height)
     資警惕，量無再犯之虞，本院認所處之刑以暫不執行為適當
     ，爰宣告緩刑四年，以勵自新。
 六、扣案如附表二編號一、附表四編號一所示之槍枝各1 支、及
-    附表四編號二、附表五編號八之<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示具殺傷力制式子彈各
+    附表四編號二、附表五編號八之所示具殺傷力制式子彈各
     1 顆、及附表六所示之槍機，均屬違禁物，均應依刑法第38
     條第1項第1款規定宣告沒收；扣案附表二編號二至九號、附
     表三所示之物，為被告戊○○所有供製造槍枝、子彈所用之
-    物、及扣案附表五（編號八之<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />除外）所示之物，為被告甲
+    物、及扣案附表五（編號八之除外）所示之物，為被告甲
     ○○所有供製造子彈所用之物，均應依刑法第38條第1項第2
     款規定宣告沒收。至扣案附表一編號一、三、四、六號所示
     具殺傷力子彈，均經鑑驗射擊發，已失其違禁物性質，均不
@@ -591,7 +484,7 @@ function openwin(URL,arguments,width,height)
 如不服本判決，應於收受送達後十日內向本院提出上訴書狀，其
 未敘述上訴之理由者並得於提起上訴後十日內向本院補提理由書
 （均須按他造當事人之人數附繕本）。
-                                      書記官 蘇秋<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3E42A0A00000040.GIF" />
+                                      書記官 蘇秋
 中　　華　　民　　國　　96　　年　　8 　　月　　10　　日
 附錄：本案論罪科刑法條全文
 槍砲彈藥刀械管制條例第8條第1項：
@@ -613,12 +506,12 @@ function openwin(URL,arguments,width,height)
 ┌──┬────────┬──┬─────────┬──────────┐
 │編號│品名            │數量│送驗文號          │送驗結果            │
 ├──┼────────┼──┼─────────┼──────────┤
-│ 一 │子彈（於戊○○處│51顆│內政部警政署95年2 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />具直徑約9 ｍｍ金屬│
+│ 一 │子彈（於戊○○處│51顆│內政部警政署95年2 │具直徑約9 ｍｍ金屬│
 │    │扣得具殺傷力部分│    │月16日內政部警政署│彈頭之土造子彈29顆，│
 │    │）              │    │刑鑑字第0950023354│均可擊發，認具殺傷力│
 │    │                │    │號                │。                  │
 │    │                │    │                  ├──────────┤
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />具口徑9 ｍｍ空包彈│
+│    │                │    │                  │具口徑9 ｍｍ空包彈│
 │    │                │    │                  │加裝直徑約8.9 ｍｍ之│
 │    │                │    │                  │金屬彈頭改造而成之改│
 │    │                │    │                  │造子彈2 顆試射，均可│
@@ -631,20 +524,20 @@ function openwin(URL,arguments,width,height)
 │    │                │    │                  │20焦耳/ 方公分即足以│
 │    │                │    │                  │進入人體，具殺傷力。│
 ├──┼────────┼──┼─────────┼──────────┤
-│二  │子彈（於戊○○處│46顆│內政部警政署95年2 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />具直徑約9 ｍｍ金屬│
+│二  │子彈（於戊○○處│46顆│內政部警政署95年2 │具直徑約9 ｍｍ金屬│
 │    │扣得不具殺傷力部│    │月16日刑鑑字第0950│彈頭之土造子彈1 顆，│
 │    │分）            │    │023354號、法務部調│無法擊發，認不具殺傷│
 │    │                │    │查局95年6 月30日調│力。                │
-│    │                │    │科參字第0950028936│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />其中42顆子彈經以9 │
+│    │                │    │科參字第0950028936│其中42顆子彈經以9 │
 │    │                │    │0 號鑑定通知書、內│x 19ｍｍ手槍予以實際│
 │    │                │    │政部警政署刑事警察│試射均能擊發，發射彈│
 │    │                │    │局95年9 月27日刑鑑│丸單位面積動能未達20│
 │    │                │    │字第0950136589號函│焦耳/ 方公分。      │
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />2 顆土造子彈，為無│
+│    │                │    │                  │2 顆土造子彈，為無│
 │    │                │    │                  │底火裝置之模擬子彈，│
 │    │                │    │                  │均無法擊發，認不具殺│
 │    │                │    │                  │傷力。              │
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />玩具金屬彈頭加裝直│
+│    │                │    │                  │玩具金屬彈頭加裝直│
 │    │                │    │                  │徑約6 ｍｍ之金屬彈頭│
 │    │                │    │                  │改造而成之改造子彈1 │
 │    │                │    │                  │顆，無法擊發，認不具│
@@ -660,11 +553,11 @@ function openwin(URL,arguments,width,height)
 │    │                │    │鑑字第0950169237號│，經實際試射結果，均│
 │    │                │    │函                │可擊發，認具殺傷力。│
 ├──┼────────┼──┼─────────┼──────────┤
-│四  │改造子彈（於阮仁│17顆│內政部警政署95 年2│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />具直徑約9 ｍｍ金屬│
+│四  │改造子彈（於阮仁│17顆│內政部警政署95 年2│具直徑約9 ｍｍ金屬│
 │    │柱處扣得具殺傷力│    │月16日內政部警政署│彈頭之土造子彈6 顆，│
 │    │部分）          │    │刑鑑字第0950023354│經試射，可擊發，認具│
 │    │                │    │號                │殺傷力。            │
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />具直徑約7.9 ｍｍ金│
+│    │                │    │                  │具直徑約7.9 ｍｍ金│
 │    │                │    │                  │屬彈頭之土造子彈1 顆│
 │    │                │    │                  │，經試射，可擊發，認│
 │    │                │    │                  │具殺傷力。          │
@@ -674,13 +567,13 @@ function openwin(URL,arguments,width,height)
 │    │                │    │鑑字第095013589 號│認具殺傷力。        │
 │    │                │    │函                │                    │
 │    │                │    ├─────────┼──────────┤
-│    │                │    │法務部調查局95年6 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />9 x 19ｍｍ子彈6 顆│
+│    │                │    │法務部調查局95年6 │9 x 19ｍｍ子彈6 顆│
 │    │                │    │月30日調科參字第09│以9 x 19ｍｍ手槍實際│
 │    │                │    │000000000 號鑑通知│試射，均能擊發，且超│
 │    │                │    │書                │出發射彈丸單位面積動│
 │    │                │    │                  │能達20焦耳/ 平公分，│
 │    │                │    │                  │足以進入人體皮肉層。│
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />8 x 17ｍｍ子彈3 顆│
+│    │                │    │                  │8 x 17ｍｍ子彈3 顆│
 │    │                │    │                  │以9 x 19ｍｍ手槍實際│
 │    │                │    │                  │試射，均能擊發，且超│
 │    │                │    │                  │出發射彈丸單位面積動│
@@ -688,50 +581,50 @@ function openwin(URL,arguments,width,height)
 │    │                │    │                  │足以進入人體皮肉層，│
 │    │                │    │                  │具殺傷力。          │
 ├──┼────────┼──┼─────────┬──────────┤
-│五  │改造子彈（於阮仁│5 顆│法務部調查局95年6 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />另9 x 19ｍｍ子彈4 │
+│五  │改造子彈（於阮仁│5 顆│法務部調查局95年6 │另9 x 19ｍｍ子彈4 │
 │    │柱處扣得不具殺傷│    │月30日調科參字第09│顆經以9 x 19ｍｍ手槍│
 │    │力部分）        │    │000000000 號鑑定通│予以全數實際試射均能│
 │    │                │    │知書、內政部警政署│擊發，為發射彈丸單位│
 │    │                │    │刑事警察局95年9 月│面積動能未達20焦耳/ │
 │    │                │    │27日刑鑑字第095013│平方公分。          │
-│    │                │    │6589 號函         │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />8 x 17ｍｍ土製子彈│
+│    │                │    │6589 號函         │8 x 17ｍｍ土製子彈│
 ├──┼────────┼──┼─────────┼──────────┤
 │六  │子彈（於丙○○處│7 顆│內政部警政署95年3 │具直徑約8ｍｍ之金屬 │
 │    │扣得具殺傷力部分│    │月3 日內政部警政署│彈頭之土造子彈1 顆，│
 │    │）              │    │刑鑑字第0950024430│經試射，可擊發，認具│
 │    │                │    │號                │殺傷力。            │
 │    │                │    ├─────────┼──────────┤
-│    │                │    │法務部調查局95年6 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />編號e 者，計2 顆，│
+│    │                │    │法務部調查局95年6 │編號e 者，計2 顆，│
 │    │                │    │月30日調科參字第09│均可擊發，認具殺傷力│
 │    │                │    │000000000 號鑑定通│。                  │
-│    │                │    │知書、內政部警政署│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />編號f 者，計1 顆，│
+│    │                │    │知書、內政部警政署│編號f 者，計1 顆，│
 │    │                │    │刑事警察局95年9 月│可擊發，認具殺傷力。│
-│    │                │    │27日刑鑑字第095013│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />編號g 中，9 x 19ｍ│
+│    │                │    │27日刑鑑字第095013│編號g 中，9 x 19ｍ│
 │    │                │    │6589 號函         │ｍ土製子彈2 顆，可擊│
 │    │                │    │                  │發，認具殺傷力。    │
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />編號h 中，8 x 17ｍ│
+│    │                │    │                  │編號h 中，8 x 17ｍ│
 │    │                │    │                  │ｍ土製子彈1 顆，經以│
 │    │                │    │                  │9 x 19ｍｍ手槍試射，│
 │    │                │    │                  │可擊發，認具殺傷力。│
 ├──┼────────┼──┼─────────┼──────────┤
-│七  │子彈（於丙○○處│9 顆│內政部警政署95年3 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />係以制式口徑9 ｍｍ│
+│七  │子彈（於丙○○處│9 顆│內政部警政署95年3 │係以制式口徑9 ｍｍ│
 │    │扣得不具殺傷力部│    │月3 日內政部警政署│空包彈加裝直徑9 ｍｍ│
 │    │分）            │    │刑鑑字第0950024430│之金屬彈頭改造而成之│
 │    │                │    │號                │改造子彈1 顆，經試射│
 │    │                │    │                  │，可擊發，惟發射動能│
 │    │                │    │                  │不足，認不具殺傷力。│
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />係土造金屬彈頭與彈│
+│    │                │    │                  │係土造金屬彈頭與彈│
 │    │                │    │                  │殼1 顆。            │
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />係具直徑約7.62ｍｍ│
+│    │                │    │                  │係具直徑約7.62ｍｍ│
 │    │                │    │                  │金屬彈頭之玩具子彈1 │
 │    │                │    │                  │顆，經試射，無法擊發│
 │    │                │    │                  │，認不具殺傷力。    │
 │    │                │    ├─────────┼──────────┤
-│    │                │    │法務部調查局95年6 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />9x19mm土製子彈2 顆│
+│    │                │    │法務部調查局95年6 │9x19mm土製子彈2 顆│
 │    │                │    │月30日調科參字第09│，經以9x19mm手槍予以│
 │    │                │    │000000000 號鑑定通│實際試射，無法擊發，│
 │    │                │    │知書、內政部警政署│認不具殺傷力。      │
-│    │                │    │刑事警察局95年9 月│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />8x17mm土製子彈4 顆│
+│    │                │    │刑事警察局95年9 月│8x17mm土製子彈4 顆│
 │    │                │    │27日刑鑑字第095013│，經以9x19mm手槍予以│
 │    │                │    │6589 號函         │實際試射，無法擊發，│
 │    │                │    │                  │認不具殺傷力。      │
@@ -878,10 +771,10 @@ function openwin(URL,arguments,width,height)
 │    │                │    │8 月18日內授警字第│                    │
 │    │                │    │0950871176號函    │                    │
 ├──┼────────┼──┼─────────┼──────────┤
-│八  │制式子彈        │2 顆│內政部警政署95年3 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />係口徑9 ｍｍ制式子│                │
+│八  │制式子彈        │2 顆│內政部警政署95年3 │係口徑9 ｍｍ制式子│                │
 │    │                │    │月3 日內政部警政署│彈1 顆，具殺傷力。  │                │
 │    │                │    │刑鑑字第0950024430├──────────┤                │
-│    │                │    │號                │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />係口徑9 ｍｍ制式空│
+│    │                │    │號                │係口徑9 ｍｍ制式空│
 │    │                │    │                  │包彈加裝直徑約9 ｍｍ│
 │    │                │    │                  │金屬彈頭改造而成之改│
 │    │                │    │                  │造子彈1 顆，經試射，│
@@ -1049,7 +942,7 @@ function openwin(URL,arguments,width,height)
 │    │                │    │                  │3 號公告之砲彈藥主要│
 │    │                │    │                  │組成零件。          │
 ├──┼────────┼──┼─────────┼──────────┤
-│四  │道具長槍        │2 支│內政部警政署95年3 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />1 支（槍枝管制編號│
+│四  │道具長槍        │2 支│內政部警政署95年3 │1 支（槍枝管制編號│
 │    │                │    │月3 日內政部警政署│：0000000000號），係│
 │    │                │    │刑鑑字第0950024430│仿雙管霰彈槍製造之槍│
 │    │                │    │號、內政部95年11月│枝，經檢視，槍管為塑│
@@ -1060,7 +953,7 @@ function openwin(URL,arguments,width,height)
 │    │                │    │                  │）內警第0000000 號公│
 │    │                │    │                  │告之砲彈藥主要組成零│
 │    │                │    │                  │件。                │
-│    │                │    │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />1 支，仿步槍製造槍│
+│    │                │    │                  │1 支，仿步槍製造槍│
 │    │                │    │                  │枝之槍身、槍管（內具│
 │    │                │    │                  │阻鐵）、槍托、彈匣及│
 │    │                │    │                  │仿雙管霰彈槍製造槍枝│
@@ -1192,86 +1085,11 @@ function openwin(URL,arguments,width,height)
 │二五│行動電話3G NET  │1 具│私人所用。        │                    │
 │    │（0000000000）  │    │                  │                    │
 └──┴────────┴──┴─────────┴──────────┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWTPH\CRIMINAL\9606\27\TPHM966R.075] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[3]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共50
-											筆 / 現在第41
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001101&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=40&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=42&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=50&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=1101&jdate=960627&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=1101&jdate=960627&jcheck=3">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('96%2c%e4%b8%8a%e8%a8%b4%2c1101%2c20070627%2c3','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','96','%e4%b8%8a%e8%a8%b4','1101','960627','3')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="41"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳宜臻">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳宜臻">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]96,上訴,1101,20070627,3
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]96
+[*jcase*]上訴
+[*jno*]1101
+[*jdate*]960627
+[*jcheck*]3

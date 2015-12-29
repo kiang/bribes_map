@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-104訴320</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共49
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000320&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=49&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c320%2c20150831%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=320&jdate=1040831&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c320%2c20150831%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=320&jdate=1040831&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c320%2c20150831%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','320','1040831','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,320</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040831</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　　104年度訴字第320號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c320%2c20150831%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=320&jdate=1040831&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000320&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c320%2c20150831%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=320&jdate=1040831&jcheck=1
+[*裁判字號*]104,訴,320
+[*裁判日期*]1040831
+[*裁判案由*]貪污等
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　　104年度訴字第320號
 公　訴　人　臺灣新北地方法院檢察署檢察官
 被　　　告　簡英平
 　　　　　　裴文禎
@@ -119,7 +12,7 @@ function openwin(URL,arguments,width,height)
 選任辯護人　許桂挺律師
 被　　　告　劉志達
 選任辯護人　李庚道律師
-　　　　　　陳志<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />律師
+　　　　　　陳志律師
 被　　　告　楊進德
 　　　　　　TRAN.THI.BICH.THUYEN（中文姓名：陳碧嬋） 
 　　　　　　DAO.THI.BICH.PHUONG（中文姓名：陶碧鳳）
@@ -141,7 +34,7 @@ function openwin(URL,arguments,width,height)
 　　　　　　　　　　女　24歲（民國00年00月00日生）
 　　　　　　　　　　居留證號碼：FD00000000號 
 　　　　　　　　　　住新北市○○區○○路0段000號 
-　　　　　　黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />　男　45歲（民國00年00月00日生）
+　　　　　　黃文　男　45歲（民國00年00月00日生）
 　　　　　　　　　　身分證統一編號：Z000000000號　
 　　　　　　　　　　住新北市○○區○○街000巷00號2樓
 　　　　　　文立人　男　49歲（民國00年0月0日生）
@@ -153,7 +46,7 @@ function openwin(URL,arguments,width,height)
 　　　　　　　　　　住新北市○○區○○路0段000號1樓 
 　　　　　　　　　　居新北市○○區○○路○段000巷00號11
 　　　　　　　　　　樓
-　　　　　　<font color='red'>林世杰　</font>男　28歲（民國00年0月00日生）
+　　　　　　林世杰　男　28歲（民國00年0月00日生）
 　　　　　　　　　　身分證統一編號：Z000000000號　
 　　　　　　　　　　住基隆市○○區○○路00○0號5樓
 　　　　　　GIANG.THI.YEN.NHI（中文姓名：江氏燕兒）
@@ -195,16 +88,16 @@ function openwin(URL,arguments,width,height)
     主  文
 簡英平犯如附表二編號1 至17所示之罪，附表二編號4 至17所示
 之罪均累犯，各處如附表二編號1 至17所示之刑。應執行有期徒
-刑壹年拾月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹
+刑壹年拾月，如易科罰金，以銀元佰元即新臺幣玖佰元折算壹
 日。
 裴文禎犯如附表二編號1 至17所示之罪，各處如附表二編號1 至
-17所示之刑。應執行有期徒刑壹年拾月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />
+17所示之刑。應執行有期徒刑壹年拾月，如易科罰金，以銀元
 佰元即新臺幣玖佰元折算壹日。緩刑貳年，並應向公庫支付新臺
-幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾萬元。
+幣拾萬元。
 劉志達犯如附表二編號1 、編號4 至20所示之罪，附表二編號4
 至12所示之罪均累犯，各處如附表二編號1 、編號4 至20所示之
 刑。附表二編號1 、編號4 至18、編號20所示之罪應執行有期徒
-刑貳年，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日。
+刑貳年，如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日。
 楊進德犯如附表二編號1 所示之罪，處如附表二編號1 所示之刑
 。緩刑貳年，並應向公庫支付新臺幣陸萬元。
 TRAN.THI.BICH.THUYEN（即陳碧嬋）犯如附表二編號1 所示之罪
@@ -219,13 +112,13 @@ DAO.THI.BICH.PHUONG （即陶碧鳳）犯如附表二編號2 所示之罪
 示之刑。
 TRUONG.THI.MONG.TIEN（即張夢錢）犯如附表二編號7 所示之罪
 ，處如附表二編號7 所示之刑。緩刑貳年。
-黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />犯如附表二編號8 所示之罪，處如附表二編號8 所示之刑
+黃文犯如附表二編號8 所示之罪，處如附表二編號8 所示之刑
 。緩刑貳年，並應向公庫支付新臺幣陸萬元。
 文立人犯如附表二編號10所示之罪，處如附表二編號10所示之刑
 。緩刑貳年，並應向公庫支付新臺幣陸萬元。
 NGUYEN.THI.HONG.THAM（即阮氏虹琛）犯如附表二編號10所示之
 罪，處如附表二編號10所示之刑。緩刑貳年。
-<font color='red'>林世杰</font>犯如附表二編號12所示之罪，累犯，處如附表二編號12所
+林世杰犯如附表二編號12所示之罪，累犯，處如附表二編號12所
 示之刑。
 GIANG.THI.YEN.NHI （即江氏燕兒）犯如附表二編號12所示之罪
 ，處如附表二編號12 所 示之刑。緩刑貳年。
@@ -253,8 +146,8 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     ）20萬元至30萬元不等之酬勞招徠無與越南籍女子締結婚姻
     之真意，惟為能使越南籍女子取得「依親」之居留事由俾利
     入境我國謀職就業，而具犯意聯絡之楊進德、呂振通（已歿
-    ）、林啟祥、游承峻、蔡明達、林光毅、許耀文、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、
-    紀勃帆、文立人、黃鵬憲、<font color='red'>林世杰</font>、鄧義錞、陳詠瑜、林偉
+    ）、林啟祥、游承峻、蔡明達、林光毅、許耀文、黃文、
+    紀勃帆、文立人、黃鵬憲、林世杰、鄧義錞、陳詠瑜、林偉
     祥、黃文敬、王炳昆（紀勃帆、林偉祥所犯偽造文書罪部分
     ，業經臺灣新北地方法院檢察署以103年度偵字第19385號、
     104 年度偵字第6890號為緩起訴處分確定；林啟祥、林光毅
@@ -394,8 +287,8 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     知被告簡式審判程序之旨，並聽取當事人、代理人、辯護人
     及輔佐人之意見後，裁定進行簡式審判程序，刑事訴訟法第
     273 條之1 第1 項定有明文。本件被告簡英平、劉志達、裴
-    文禎、楊進德、游承峻、蔡明達、許耀文、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、文立人
-    、<font color='red'>林世杰</font>、鄧義錞、陳詠瑜、黃文敬、王炳昆、陳碧嬋、陶
+    文禎、楊進德、游承峻、蔡明達、許耀文、黃文、文立人
+    、林世杰、鄧義錞、陳詠瑜、黃文敬、王炳昆、陳碧嬋、陶
     碧鳳、張夢錢、阮氏虹琛、江氏燕兒、張瓊如、黃雪鳳、阮
     氏梅詩、黎虹稠等23人所犯之罪，均非屬最輕本刑為3 年以
     上有期徒刑之罪，且被告簡英平等23人分別於本院104 年5
@@ -408,8 +301,8 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
 二、實體方面：
 (一)、上揭事實，業據被告阮氏梅詩於偵查、本院準備程序、審理
     時時、被告陶碧鳳、張夢錢、黃雪鳳、黎虹稠於本院準備程
-    序、審理時、被告簡英平、劉志達、裴文禎、許耀文、<font color='red'>林世
-    杰</font>、王炳昆、楊進德、陳碧嬋、游承峻、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、文立人、
+    序、審理時、被告簡英平、劉志達、裴文禎、許耀文、林世
+    杰、王炳昆、楊進德、陳碧嬋、游承峻、黃文、文立人、
     阮氏虹琛、江氏燕兒、鄧義錞、張瓊如、陳詠瑜、黃文敬於
     警詢、偵查、本院準備程序、審理時、被告蔡明達於本院準
     備程序及審理時均坦承不諱（見臺灣新北地方法院檢察署10
@@ -558,8 +451,8 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     員為結婚之登記，並將國民身分證之配偶欄為不實之登載，
     自應構成刑法第214 條之使公務員登載不實文書罪。是同案
     被告呂振通（已歿）及被告楊進德、林啟祥、游承峻、蔡明
-    達、林光毅、許耀文、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、紀勃帆、文立人、黃鵬憲、
-    <font color='red'>林世杰</font>、鄧義錞、陳詠瑜、林偉祥、黃文敬、王炳昆持內容
+    達、林光毅、許耀文、黃文、紀勃帆、文立人、黃鵬憲、
+    林世杰、鄧義錞、陳詠瑜、林偉祥、黃文敬、王炳昆持內容
     不實之結婚證書向附表一所示之政事務所戶政事務所辦理結
     婚登記，使該戶政事務所不知情之公務員為形式審查後，將
     附表一所示結婚之不實事項，登載於職務上掌管之戶籍登記
@@ -590,11 +483,11 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     志達、裴文禎、簡英平、蔡明達就附表一編號5 所為；被告
     劉志達、裴文禎、簡英平就附表一編號6 所為；被告劉志達
     、裴文禎、簡英平、許耀文、張夢錢就附表一編號7 所為；
-    被告劉志達、裴文禎、簡英平、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />就附表一編號8 所為
+    被告劉志達、裴文禎、簡英平、黃文就附表一編號8 所為
     ；被告劉志達、裴文禎、簡英平就附表一編號9 所為；被告
     劉志達、裴文禎、簡英平、文立人、阮氏虹琛就附表一編號
     10所為；被告劉志達、裴文禎、簡英平就附表一編號11所為
-    ；被告劉志達、裴文禎、簡英平、<font color='red'>林世杰</font>、江氏燕兒就附表
+    ；被告劉志達、裴文禎、簡英平、林世杰、江氏燕兒就附表
     一編號12所為；被告劉志達、裴文禎、簡英平、鄧義錞、張
     瓊如就附表一編號13所為；被告劉志達、裴文禎、簡英平、
     陳詠瑜、黃雪鳳就附表一編號14所為；被告劉志達、裴文禎
@@ -633,12 +526,12 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     蔡明達就附表一編號5 所示之犯行間；被告劉志達、裴文禎
     、簡英平就附表一編號6 所示之犯行間：被告劉志達、裴文
     禎、簡英平、許耀文、張夢錢就附表一編號7 所示之犯行間
-    ；被告劉志達、裴文禎、簡英平、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />就附表一編號8 所
+    ；被告劉志達、裴文禎、簡英平、黃文就附表一編號8 所
     示之犯行間；被告劉志達、裴文禎、簡英平及同案被告紀勃
     帆就附表一編號9 所示之犯行間；被告劉志達、裴文禎、簡
     英平、文立人、阮氏虹琛就附表一編號10所示之犯行間；被
     告劉志達、裴文禎、簡英平就附表一編號11所示之犯行間；
-    被告劉志達、裴文禎、簡英平、<font color='red'>林世杰</font>、江氏燕兒就附表一
+    被告劉志達、裴文禎、簡英平、林世杰、江氏燕兒就附表一
     編號12所示之犯行間；被告劉志達、裴文禎、簡英平、鄧義
     錞、張瓊如就附表一編號13所示之犯行間；被告劉志達、裴
     文禎、簡英平、陳詠瑜、黃雪鳳就附表一編號14所示之犯行
@@ -657,8 +550,8 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     欺案件，經本院以96年度簡字第1289號判決判處有期徒刑3
     月確定，於96年9 月21日易科罰金執行完畢，於98年間，因
     賭博案件，經本院以98年度簡字第4013號判決判處有期徒刑
-    4 月確定，於98年9 月29日易科罰金執行完畢；被告<font color='red'>林世杰
-    </font>於97年間，因幫助詐欺案件，經臺灣基隆地方法院以97年度
+    4 月確定，於98年9 月29日易科罰金執行完畢；被告林世杰
+    於97年間，因幫助詐欺案件，經臺灣基隆地方法院以97年度
     易字第176 號判決判處有期徒刑2 月確定，於97年7 月14日
     易科罰金執行完畢；被告王炳昆於100 年間，因詐欺案件，
     經本院以100 年度易字第2049號判決判處有期徒刑4 月確定
@@ -667,7 +560,7 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     行完畢後，5 年內因故意再犯本件附表一編號4 至12所示之
     有期徒刑以上之罪，被告簡英平於前開所示刑之執行完畢後
     ，5 年內因故意再犯本件附表一編號4 至17所示之有期徒刑
-    以上之罪，被告許耀文、<font color='red'>林世杰</font>、王炳昆於前開所示刑之執
+    以上之罪，被告許耀文、林世杰、王炳昆於前開所示刑之執
     行完畢後，5 年內因故意再犯本件有期徒刑以上之罪，均為
     累犯，各應依刑法第47條第1 項之規定加重其刑。
 ２、事實二部分：
@@ -782,8 +675,8 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     犯後均尚知坦認全部犯行，且被告劉志達就如事實欄四犯行
     所生損害，已與被害人裴文禎、簡英平達成和解、賠償損害
     ，此有和解書1 份附卷可參（見本院卷三第246 、247 頁）
-    ，兼衡被告簡英平五專畢業、被告劉志達、楊進德、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />
-    均高中畢業、被告裴文禎大學肄業、被告<font color='red'>林世杰</font>、游承峻、
+    ，兼衡被告簡英平五專畢業、被告劉志達、楊進德、黃文
+    均高中畢業、被告裴文禎大學肄業、被告林世杰、游承峻、
     鄧義錞均國中畢業、被告許耀文、王炳昆均二、三專畢業、
     被告文立人、黃文敬均高職畢業、被告陳詠瑜高職肄業、被
     告蔡明達高中肄業之智識程度（分別見本院卷三第109 、11
@@ -886,17 +779,17 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     刑，均係得易科罰金之刑，不論依修正前後之規定，本均需
     定應執行刑，是並無新舊法比較問題，逕依一般法律適用原
     則適用裁判時法（即現行法），即為已足，附此敘明。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />、按中華民國96年罪犯減刑條例業於96年7 月4 日經總統公布
+、按中華民國96年罪犯減刑條例業於96年7 月4 日經總統公布
     ，並於同年月16日施行，被告劉志達、裴文禎、簡英平、楊
     進德、陳碧嬋如事實欄一即附表一編號1 所示之行使使公務
     員登載不實文書罪之犯行，因係於96年4 月24日以前犯罪，
     復核無該條例所列不予減刑之情形，即合於減刑條件，爰依
     該條例第2 條第1 項第3 款、第7 條規定，減其宣告刑二分
     之一。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6412A0A00000040.GIF" />、末查，被告裴文禎、楊進德、游承峻、文立人、陳詠瑜、陳
+、末查，被告裴文禎、楊進德、游承峻、文立人、陳詠瑜、陳
     碧嬋、陶碧鳳、張夢錢、阮氏虹琛、江氏燕兒、張瓊如、黃
     雪鳳、阮氏梅詩、黎虹稠前均未曾因故意犯罪而受有期徒刑
-    以上刑之宣告；被告黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />於97年間，因麻醉藥品案件，經
+    以上刑之宣告；被告黃文於97年間，因麻醉藥品案件，經
     臺灣臺中地方法院以87年度易字第542 號判決判處有期徒刑
     4 月確定，於88年9 月9 日易科罰金執行完畢；被告黃文敬
     於96年間，因傷害、毀損案件，經臺灣高等法院以96年度上
@@ -905,29 +798,29 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     罰金執行完畢；被告鄧義錞於96年間，因妨害自由案件，經
     本院以96年度簡字第1137號判決判處有期徒刑3 月，經本院
     以96年度聲減字第4486號減為有期徒刑1 月15日確定，於96
-    年9 月19日易科罰金執行完畢，則被告黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、黃文敬、鄧
+    年9 月19日易科罰金執行完畢，則被告黃文、黃文敬、鄧
     義錞於前開案件執行完畢後之5 年以內均未曾因故意犯罪受
     有期徒刑以上刑之宣告，此有臺灣高等法院被告前案紀錄表
     17份在卷可稽，又其等於本院審理中均表達悔悟之意，其等
     經此偵審教訓後，當知所警惕，是本院認尚無逕對被告裴文
     禎、楊進德、游承峻、文立人、鄧義錞、陳詠瑜、陳碧嬋、
     陶碧鳳、張夢錢、阮氏虹琛、江氏燕兒、張瓊如、黃雪鳳、
-    阮氏梅詩、黎虹稠、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、黃文敬施以自由刑之必要，自
+    阮氏梅詩、黎虹稠、黃文、黃文敬施以自由刑之必要，自
     可先賦予被告裴文禎等17人非在監之適當社會處遇，以期其
     能有效回歸社會，故上開對被告裴文禎等17人宣告之刑，均
     以暫不執行為適當，爰分別依刑法第74條第1 項第1 款、第
     2 款之規定諭知被告裴文禎等17人均緩刑2 年，併斟酌被告
-    裴文禎、楊進德、游承峻、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、文立人、鄧義錞、陳詠
+    裴文禎、楊進德、游承峻、黃文、文立人、鄧義錞、陳詠
     瑜、黃文敬8 人所造成之法益侵害程度，認應向公庫支付一
     定之金額為宜，爰依刑法第74條第2 項第4 款規定，命其於
     本案判決確定後1 年內，被告裴文禎應向公庫支付30萬元、
-    被告楊進德、游承峻、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、文立人、鄧義錞、陳詠瑜、
+    被告楊進德、游承峻、黃文、文立人、鄧義錞、陳詠瑜、
     黃文敬各應向公庫支付6 萬元。另被告裴文禎、楊進德、游
-    承峻、文立人、鄧義錞、陳詠瑜、黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、黃文敬如違反上
+    承峻、文立人、鄧義錞、陳詠瑜、黃文、黃文敬如違反上
     開本院所定應行負擔之事項情節重大者，依刑法第75條之1
     第1 項第4 款規定，其緩刑之宣告仍得由檢察官向本院聲請
     撤銷，併此敘明。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6402A0A00000040.GIF" />、再按犯貪污治罪條例之罪，宣告有期徒刑以上之刑者，並宣
+、再按犯貪污治罪條例之罪，宣告有期徒刑以上之刑者，並宣
     告褫奪公權，貪污治罪條例第17條定有明文，而貪污治罪條
     例第17條係針對犯該條例之罪，並經宣告有期徒刑以上之刑
     者，強制規定於主刑之外，亦應宣告褫奪公權，故貪污治罪
@@ -938,7 +831,7 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
     罪條例第11條之罪，且經宣告有期徒刑以上之刑，應依貪污
     治罪條例第17條及刑法第37條第2 項之規定，併予宣告褫奪
     公權1 年。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F63F2A0A00000040.GIF" />、又扣案之虎骨膏1 瓶，業經被告劉志達交付證人陳冠元，核
+、又扣案之虎骨膏1 瓶，業經被告劉志達交付證人陳冠元，核
     已非被告劉志達所有之物，另其餘扣案之物品均非違禁物，
     或與本案無關，爰均不宣告沒收，附此敘明。
 據上論斷，應依刑事訴訟法第273 條之1 第1 項、第299 條第1
@@ -1163,7 +1056,7 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
 │  │            │        │        │          │        │          │  站100 年2 月10日外僑查察通報表│
 │  │            │        │        │          │        │          │  （偵卷七第223 頁）            │
 ├─┼──────┼────┼────┼─────┼────┼─────┼────────────────┤
-│8 │劉志達、裴文│黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、│99年6 月│新北市蘆洲│99年10月│99年10月23│1.外國人居（停）留案件申請表（本│
+│8 │劉志達、裴文│黃文、│99年6 月│新北市蘆洲│99年10月│99年10月23│1.外國人居（停）留案件申請表（本│
 │  │禎、簡英平  │阮清華  │25日    │戶政事務所│12日    │日        │  院卷二第215頁）               │
 │  │            │        │        │          │        │          │2.戶籍謄本、護照、居留簽證（本院│
 │  │            │        │        │          │        │          │  卷二第216 至218 頁、第221 、22│
@@ -1237,7 +1130,7 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
 │  │            │        │        │          │        │          │  站101 年8 月1 日外僑查察通報表│
 │  │            │        │        │          │        │          │  （本院卷二第257 頁）          │
 ├─┼──────┼────┼────┼─────┼────┼─────┼────────────────┤
-│12│劉志達、裴文│<font color='red'>林世杰</font>、│100 年12│基隆市信義│101 年9 │101年10月5│1.外國人居（停）留案件申請表（本│
+│12│劉志達、裴文│林世杰、│100 年12│基隆市信義│101 年9 │101年10月5│1.外國人居（停）留案件申請表（本│
 │  │禎、簡英平  │江氏燕兒│月2日   │區戶政事務│月18日  │日        │  院卷二第132頁）               │
 │  │            │        │        │所        │        │          │2.戶籍謄本、停留簽證（本院卷二第│
 │  │            │        │        │          │        │          │  133 至134 頁、第136 、137 頁）│
@@ -1366,24 +1259,24 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
 │編號│犯罪行為      │                      罪名及宣告刑                      │
 ├──┼───────┼────────────────────────────┤
 │1   │附表一編號1   │劉志達共同犯行使使公務員登載不實文書罪，處有期徒刑肆月，│
-│    │              │如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日，減為有期│
-│    │              │徒刑貳月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日│
+│    │              │如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日，減為有期│
+│    │              │徒刑貳月，如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日│
 │    │              │。                                                      │
 │    │              │裴文禎共同犯行使使公務員登載不實文書罪，處有期徒刑肆月，│
-│    │              │如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日，減為有期│
-│    │              │徒刑貳月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日│
+│    │              │如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日，減為有期│
+│    │              │徒刑貳月，如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日│
 │    │              │。                                                      │
 │    │              │簡英平共同犯行使使公務員登載不實文書罪，處有期徒刑肆月，│
-│    │              │如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日，減為有期│
-│    │              │徒刑貳月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日│
+│    │              │如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日，減為有期│
+│    │              │徒刑貳月，如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日│
 │    │              │。                                                      │
 │    │              │楊進德共同犯行使使公務員登載不實文書罪，處有期徒刑肆月，│
-│    │              │如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日，減為有期│
-│    │              │徒刑貳月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日│
+│    │              │如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日，減為有期│
+│    │              │徒刑貳月，如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日│
 │    │              │。                                                      │
 │    │              │TRAN.THI.BICH.THUYEN（即陳碧嬋）共同犯行使使公務員登載不│
-│    │              │實文書罪，處有期徒刑肆月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺│
-│    │              │幣玖佰元折算壹日，減為有期徒刑貳月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│
+│    │              │實文書罪，處有期徒刑肆月，如易科罰金，以銀元佰元即新臺│
+│    │              │幣玖佰元折算壹日，減為有期徒刑貳月，如易科罰金，以銀元│
 │    │              │佰元即新臺幣玖佰元折算壹日。                            │
 ├──┼───────┼────────────────────────────┤
 │2   │附表一編號2   │裴文禎共同犯行使使公務員登載不實文書罪，處有期徒刑肆月，│
@@ -1442,7 +1335,7 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
 │    │              │如易科罰金，以新臺幣壹仟元折算壹日。                    │
 │    │              │簡英平共同犯行使使公務員登載不實文書罪，累犯，處有期徒刑│
 │    │              │伍月，如易科罰金，以新臺幣壹仟元折算壹日。              │
-│    │              │黃文<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />共同犯行使使公務員登載不實文書罪，處有期徒刑肆月，│
+│    │              │黃文共同犯行使使公務員登載不實文書罪，處有期徒刑肆月，│
 │    │              │如易科罰金，以新臺幣壹仟元折算壹日。                    │
 ├──┼───────┼────────────────────────────┤
 │9   │附表一編號9   │劉志達共同犯行使使公務員登載不實文書罪，累犯，處有期徒刑│
@@ -1477,7 +1370,7 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
 │    │              │如易科罰金，以新臺幣壹仟元折算壹日。                    │
 │    │              │簡英平共同犯行使使公務員登載不實文書罪，累犯，處有期徒刑│
 │    │              │伍月，如易科罰金，以新臺幣壹仟元折算壹日。              │
-│    │              │<font color='red'>林世杰</font>共同犯行使公務員登載不實文書罪，累犯，處有期徒刑伍│
+│    │              │林世杰共同犯行使公務員登載不實文書罪，累犯，處有期徒刑伍│
 │    │              │月，如易科罰金，以新臺幣壹仟元折算壹日。                │
 │    │              │GIANG.THI.YEN.NHI （即江氏燕兒）共同犯行使使公務員登載不│
 │    │              │實文書罪，處有期徒刑肆月，如易科罰金，以新臺幣壹仟元折算│
@@ -1537,94 +1430,20 @@ LE.HONG.LUA （即黎虹稠）犯如附表二編號17所示之罪，處如附
 │    │              │LE.HONG.LUA （即黎虹稠）共同行使使公務員登載不實文書罪，│
 │    │              │處有期徒刑肆月，如易科罰金，以新臺幣壹仟元折算壹日。    │
 ├──┼───────┼────────────────────────────┤
-│18  │事實欄二      │劉志達共同犯行使業務登載不實文書罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│18  │事實欄二      │劉志達共同犯行使業務登載不實文書罪，處有期徒刑月，如易│
 │    │              │科罰金，以新臺幣壹仟元折算壹日。                        │
 ├──┼───────┼────────────────────────────┤
 │19  │事實欄三      │劉志達犯貪污治罪條例第十一條第四項、第一項之行求賄賂罪，│
 │    │              │處有期徒刑陸月，褫奪公權壹年。                          │
 ├──┼───────┼────────────────────────────┤
-│20  │事實欄四      │劉志達犯詐欺取財罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣│
+│20  │事實欄四      │劉志達犯詐欺取財罪，處有期徒刑月，如易科罰金，以新臺幣│
 │    │              │壹仟元折算壹日。                                        │
-└──┴───────┴────────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10408\31\PCDM1048V.048] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共49
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000320&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=49&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%b8%96%e6%9d%b0&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%b8%96%e6%9d%b0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c320%2c20150831%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=320&jdate=1040831&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c320%2c20150831%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=320&jdate=1040831&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c320%2c20150831%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','320','1040831','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林世杰">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林世杰">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───────┴────────────────────────────┘
+[*jrecno*]104,訴,320,20150831,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]320
+[*jdate*]1040831
+[*jcheck*]1

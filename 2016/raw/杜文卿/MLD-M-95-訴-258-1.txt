@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣苗栗地方法院-刑-95訴258</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣苗栗地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第13
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=000258&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c258%2c20060803%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=258&jdate=950803&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c258%2c20060803%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=258&jdate=950803&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('95%2c%e8%a8%b4%2c258%2c20060803%2c1','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','95','%e8%a8%b4','258','950803','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">95,訴,258</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">950803</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽證</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣苗栗地方法院刑事判決　　　　　　　 95年度訴字第258號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c258%2c20060803%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=258&jdate=950803&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=000258&selectedCrtid=MLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c258%2c20060803%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=258&jdate=950803&jcheck=1
+[*裁判字號*]95,訴,258
+[*裁判日期*]950803
+[*裁判案由*]偽證
+[*裁判全文*]臺灣苗栗地方法院刑事判決　　　　　　　 95年度訴字第258號
 公　訴　人　臺灣苗栗地方法院檢察署檢察官
 被　　　告　甲○○
 選任辯護人　江錫麒 律師
@@ -123,30 +16,30 @@ function openwin(URL,arguments,width,height)
 壹、檢察官起訴的犯罪事實及法條：
 一、起訴事實：
     甲○○係苗栗縣卓蘭鎮民防分隊分隊長。民國93年3 月25
-    日臺灣苗栗地方法院檢察署檢察官另案偵查<font color='red'>杜文卿</font>涉嫌賄選
-    罪案，而以證人身分訊問甲○○時，甲○○明知<font color='red'>杜文卿</font>於同
+    日臺灣苗栗地方法院檢察署檢察官另案偵查杜文卿涉嫌賄選
+    罪案，而以證人身分訊問甲○○時，甲○○明知杜文卿於同
     月7 日晚上，在苗栗縣卓蘭鎮「來來飯店」，僅有捐助新台
     幣5 萬元，並未要求在場之該分隊隊員及眷屬支持當時之「
     1 號總統、副總統候選人陳水扁、呂秀蓮」等情，竟於檢察
-    官告以偽證罪罪責並命其具結作證時，就<font color='red'>杜文卿</font>有無要求支
-    持該組總統、副總統候選人之該案重要事項，虛偽陳述：<font color='red'>杜
-    文卿</font>拿錢出來後，拜託在場之人要支持1 號總統候選人之語
+    官告以偽證罪罪責並命其具結作證時，就杜文卿有無要求支
+    持該組總統、副總統候選人之該案重要事項，虛偽陳述：杜
+    文卿拿錢出來後，拜託在場之人要支持1 號總統候選人之語
     。另經檢察官問及：是否只有杜立委贊助你們，要你們支持
     1 號總統候選人？甲○○虛偽答以：「對」，致檢察官據以
-    對<font color='red'>杜文卿</font>提起公訴。
+    對杜文卿提起公訴。
 二、起訴法條：
     刑法第168條之偽證罪。
 貳、檢察官所為的舉證：
 （一）被告於93年3 月25日檢察官訊問時，親自簽名之「證人結
       文」乙份。
-（二）本院94年8 月2 日之<font color='red'>杜文卿</font>被訴違反總統副總統選舉罷免
+（二）本院94年8 月2 日之杜文卿被訴違反總統副總統選舉罷免
       法案件之審判筆錄。
 （三）臺灣苗栗地方法院檢察署93年度選偵字第3 號起訴書、本
       院93年度選訴字第1 號判決及臺灣高等法院臺中分院94年
       度選上訴字第2023號判決。
 （四）臺灣苗栗地方法院檢察署於95年4 月20日對被告之偵訊筆
       錄及錄音帶。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />、本院的判斷：
+、本院的判斷：
 一、法律依據：
 （一）刑事訴訟法第154 條第1 、2 項分別規定：被告未經審判
       證明有罪確定前，推定其為無罪；犯罪事實應依證據認定
@@ -163,43 +56,43 @@ function openwin(URL,arguments,width,height)
       判決之諭知。
 二、無罪的理由：
 （一）被告是苗栗縣卓蘭鎮民防分隊分隊長。民國93年3 月25
-      日臺灣苗栗地方法院檢察署檢察官另案偵查<font color='red'>杜文卿</font>涉嫌賄
+      日臺灣苗栗地方法院檢察署檢察官另案偵查杜文卿涉嫌賄
       選罪案，而以證人身分訊問被告時，被告經具結後證稱：
-      「他（指<font color='red'>杜文卿</font>）拿錢出來後，拜託在場人要支持1 號總
-      統候選人」，並於檢察官問及：「是否只有杜立委（即<font color='red'>杜
-      文卿</font>）贊助你們，要你們支持1 號總統候選人」時，回答
+      「他（指杜文卿）拿錢出來後，拜託在場人要支持1 號總
+      統候選人」，並於檢察官問及：「是否只有杜立委（即杜
+      文卿）贊助你們，要你們支持1 號總統候選人」時，回答
       ：「對」。以上事實，有檢察官93年3 月25日之偵訊筆錄
       、證人結文各乙份附於臺灣苗栗地方法院檢察署93年度選
       他字第71號偵查卷宗（該案卷第59、60頁）可憑，此經本
       院查核該案卷證屬實。
-（二）起訴事實指被告上述證言，構成偽證，係認為：<font color='red'>杜文卿</font>於
+（二）起訴事實指被告上述證言，構成偽證，係認為：杜文卿於
       93年3 月7 日在苗栗縣卓蘭鎮「來來飯店」，僅有捐助新
       台幣5 萬元，並未要求在場之該分隊隊員及眷屬支持1號
       總統、副總統候選人陳水扁、呂秀蓮，且被告明知其事。
       惟查：
-   1、<font color='red'>杜文卿</font>於本院93年選訴字第1 號違反總統副總統選舉罷免
+   1、杜文卿於本院93年選訴字第1 號違反總統副總統選舉罷免
       法案件審理中，在本院訊及捐助當日究竟有無說請支持1
       號總統副總統侯選人陳水扁、呂秀蓮時，供稱：「當場的
       時候沒有，我要走的時候，他們問我要支持誰，我說我是
       阿扁的總幹事，你們說要支持誰，就只有這樣子而已。」
       等語（該案卷第95頁）。此為本院審理當日之審判筆錄記
-      載明確，而為本院核閱該案卷宗屬實。可見依<font color='red'>杜文卿</font>本人
+      載明確，而為本院核閱該案卷宗屬實。可見依杜文卿本人
       之供述，其捐助當日實際上已經暗示現場之人要支持1 號
       侯選人陳水扁，而非全如起訴事實所指「未要求在場之該
       分隊隊員及眷屬支持1 號總統、副總統候選人陳水扁、呂
       秀蓮」。
-   2、除<font color='red'>杜文卿</font>本人之供述外，尚有多位當時在場之卓蘭鎮民防
-      隊隊員證實<font color='red'>杜文卿</font>於捐助當日，有明示或暗示在場之人支
+   2、除杜文卿本人之供述外，尚有多位當時在場之卓蘭鎮民防
+      隊隊員證實杜文卿於捐助當日，有明示或暗示在場之人支
       持1號總統、副總統侯選人陳水扁、呂秀蓮：
     (1)證人溫生和於法務部調查局苗栗縣調查站（下稱縣調站）
-      警詢中即證稱：「<font color='red'>杜文卿</font>要離席時，曾經要求我們，要投
+      警詢中即證稱：「杜文卿要離席時，曾經要求我們，要投
       票支持陳水扁、呂秀蓮連任第11任總統、副總統」等語（
       93年選他字第71號卷第27頁）；於檢察官偵訊時仍具結證
-      稱：「他（指<font color='red'>杜文卿</font>）要離開時有說要我們支持陳水扁」
+      稱：「他（指杜文卿）要離開時有說要我們支持陳水扁」
       等語（同上卷第30頁背面）。
     (2)證人鍾國忠於縣調站警詢中證稱：「當時我沒有注意聽，
       但杜立委要離席的時候，向在場的人說『拜託大家幫忙』
-      。」、「他（指<font color='red'>杜文卿</font>）是民進黨的，我認為他這樣說的
+      。」、「他（指杜文卿）是民進黨的，我認為他這樣說的
       意思，應該是要我們支持民進黨的侯選人」等語（同上卷
       第35頁）；於檢察官偵訊時再次結證：「他沒明確表示要
       選誰，但要走時他有說，拜託大家幫忙支持」等語（同上
@@ -207,73 +100,73 @@ function openwin(URL,arguments,width,height)
     (3)證人詹勳基於縣調站警詢中證稱：「杜立委只有於要離席
       的時候向在場的人說『拜託大家幫忙支持民進黨的候選人
       』」等語（同上卷第77頁）；於檢察官偵訊時亦證稱：「
-      我離開時，聽到他（指<font color='red'>杜文卿</font>）說『拜託一下，支持民進
+      我離開時，聽到他（指杜文卿）說『拜託一下，支持民進
       黨的候選人，選1號』」等語（同上卷第81頁背面）。
-    (4)證人鍾右全於縣調站警詢中證稱：「<font color='red'>杜文卿</font>於交付5萬元
+    (4)證人鍾右全於縣調站警詢中證稱：「杜文卿於交付5萬元
       予甲○○後，有向在場人士拜託投票支持1號侯選人陳水
       扁、呂秀蓮」等語（同上卷第106頁）；於檢察官偵訊時
       ，又結證：「他在拿出5萬元交給我們分隊長時，就順便
       叫我們要支持1號侯選人」等語（同上卷第110頁）。
-   3、被告於本院93年選訴字第1 號<font color='red'>杜文卿</font>被訴違反總統副總統
+   3、被告於本院93年選訴字第1 號杜文卿被訴違反總統副總統
       選舉罷免法案件審理中作證時，檢察官即曾以其偵查中與
       審判中之證詞出入質問被告，並要求解釋，被告當時即證
-      述說明：「他（<font color='red'>杜文卿</font>）要走的時候，有人在問說總統選
+      述說明：「他（杜文卿）要走的時候，有人在問說總統選
       舉要選誰，他說我是陳水扁的競選總幹事，你們想想就知
       道了」等語（該案卷第92頁）。可見依被告於該案審理中
-      之證詞亦指出：<font color='red'>杜文卿</font>在捐助當日有暗示在場之人支持1
+      之證詞亦指出：杜文卿在捐助當日有暗示在場之人支持1
       號總統、副總統候選人。
-   4、綜合分析以上各事證，可知：<font color='red'>杜文卿</font>於捐助當日究竟是以
+   4、綜合分析以上各事證，可知：杜文卿於捐助當日究竟是以
       明示或暗示方式要求在場之人支持1 號候選人，各有不同
-      說法，如採被告、<font color='red'>杜文卿</font>本人及證人鍾國忠之上述供述或
+      說法，如採被告、杜文卿本人及證人鍾國忠之上述供述或
       證述，即係以暗示之方法；如採證人溫生和、詹勳基、鍾
-      右全之上述證詞，即係以明示之方法。另就<font color='red'>杜文卿</font>要求在
-      場之人支持1 號侯選人之時機，亦存有歧異：依被告、<font color='red'>杜
-      文卿</font>本人、證人溫生和、鍾國忠、詹勳基之上述供述或證
+      右全之上述證詞，即係以明示之方法。另就杜文卿要求在
+      場之人支持1 號侯選人之時機，亦存有歧異：依被告、杜
+      文卿本人、證人溫生和、鍾國忠、詹勳基之上述供述或證
       述，其係在離開時，才有此表明，但依證人鍾右全之上述
       證述，則是在拿出捐助的5 萬元時，即順便表明。惟無論
-      如何，當時的事實是：<font color='red'>杜文卿</font>除捐助5 萬元外，並於其後
+      如何，當時的事實是：杜文卿除捐助5 萬元外，並於其後
       要求在場之人支持1 號總統、副總統候選人，應可認定。
-      起訴事實所指：<font color='red'>杜文卿</font>僅有捐助5 萬元，並未要求在場之
+      起訴事實所指：杜文卿僅有捐助5 萬元，並未要求在場之
       人支持1 號總統、副總統候選人一節並非事實。其既非事
       實，被告即無從「明知其事」。故被告於本院審理中否認
       犯罪，辯稱：其當時所證，並無不實，自可採信。
 （三）另就本案應補充說明如下：
-   1、在<font color='red'>杜文卿</font>涉嫌違反總統副總統選舉罷免法乙案中，被告原
-      於檢察官訊問時，經具結後證稱：「他（指<font color='red'>杜文卿</font>）拿錢
+   1、在杜文卿涉嫌違反總統副總統選舉罷免法乙案中，被告原
+      於檢察官訊問時，經具結後證稱：「他（指杜文卿）拿錢
       出來後，拜託在場之人要支持1 號總統候選人」等語（93
       年度選他字第71號卷第59頁）；於本院審理中，則否認其
       事（本院93年度選訴第1 號卷第88頁），並於檢察官以先
-      前偵訊陳述質疑詰問時，證述說明：「他（<font color='red'>杜文卿</font>）要走
+      前偵訊陳述質疑詰問時，證述說明：「他（杜文卿）要走
       的時候，有人在問說總統選舉要選誰，他說我是陳水扁的
       競選總幹事，你們想想就知道了」等語（本院93年度選訴
       第1 號卷第92頁）。比對其先後證詞，雖然似有前後矛盾
       之處，但仔細推敲其偵訊中之證詞，可以發現：該段證詞
-      ，並未明確說明<font color='red'>杜文卿</font>拿錢出來後，是多久才拜託在場人
+      ，並未明確說明杜文卿拿錢出來後，是多久才拜託在場人
       要支持1 號總統候選人，也未說明其是以何種方式拜託支
       持。故並不能武斷地認為兩者明顯不同，其中之一必有偽
       證。只是偵訊中之證詞，較為籠統概括，以致仍有解釋說
       明空間。
-   2、縱勉強認為：被告於偵訊中所證，係指<font color='red'>杜文卿</font>拿錢出來後
+   2、縱勉強認為：被告於偵訊中所證，係指杜文卿拿錢出來後
       ，「立即」以「明示方式」拜託在場之人要支持1 號候選
       人，而與後來審理中之證詞不符，但此種出入，即不足以
       認為符合偽證罪構成要件中所要求必須係關於案情重要事
-      項。蓋如<font color='red'>杜文卿</font>確實有賄選故意，並以假借該次捐助名義
+      項。蓋如杜文卿確實有賄選故意，並以假借該次捐助名義
       ，作為賄選之代價，則不論其係於拿錢出來後「立即」要
       求拜託，或係離開才要求拜託；又不論其是以「明示方式
       」拜託或是以暗示方式拜託，均應仍構成原所訴追之假借
       捐助賄選罪（總統副總統選舉罷免法第87條第1 項第1 款
-      ），其自非案情重要事項。此觀本院就該案判決<font color='red'>杜文卿</font>無
-      罪（即本院93年度選訴字第1 號判決），無一理由論及<font color='red'>杜
-      文卿</font>係因離開時才以暗示方式拜託支持，故應判決無罪，
+      ），其自非案情重要事項。此觀本院就該案判決杜文卿無
+      罪（即本院93年度選訴字第1 號判決），無一理由論及杜
+      文卿係因離開時才以暗示方式拜託支持，故應判決無罪，
       反倒是肯認被告有在離開現場之際，要求大家支持1 號侯
       選人之事實（該判決第6 頁第三點前四行），但以其他理
       由論斷不能因此認定構成賄選罪，即可明瞭。
    3、另就檢察官原偵訊被告時，問及：「是否只有杜立委贊助
       你們，要你們支持1 號總統候選人」之問題，被告回答：
-      「對」之起訴事實部分，因<font color='red'>杜文卿</font>確實有捐助5 萬元，並
+      「對」之起訴事實部分，因杜文卿確實有捐助5 萬元，並
       要求在場之人支持1 號候選人之事實，已經本院認定如前
-      ，故就此部分，被告自無偽證可言。至於是否「只有」<font color='red'>杜
-      文卿</font>捐助並要求支持，但其他無人捐助並要求支持，未經
+      ，故就此部分，被告自無偽證可言。至於是否「只有」杜
+      文卿捐助並要求支持，但其他無人捐助並要求支持，未經
       檢察官舉證證明有其他捐助並要求支持之人，亦未經於起
       訴事實中予以載明，此部份亦難認為有何偽證之嫌，一併
       在此敘明。
@@ -292,86 +185,11 @@ function openwin(URL,arguments,width,height)
 。
                                     書記官  楊 慧 萍
 中　　華　　民　　國　　95　　年　　8 　　月　　7 　　日
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\judday\OK\LAWMLD\CRIMINAL\9508\03\MLDM9583.028] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第13
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=000258&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c258%2c20060803%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=258&jdate=950803&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c258%2c20060803%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=258&jdate=950803&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('95%2c%e8%a8%b4%2c258%2c20060803%2c1','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','95','%e8%a8%b4','258','950803','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="13"> <input type="hidden" name="v_court" value="MLD 臺灣苗栗地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="杜文卿">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="杜文卿">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]95,訴,258,20060803,1
+[*v_court*]MLD 臺灣苗栗地方法院
+[*v_sys*]M
+[*jyear*]95
+[*jcase*]訴
+[*jno*]258
+[*jdate*]950803
+[*jcheck*]1

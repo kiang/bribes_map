@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-97易228</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e6%98%93&selectedCrmno=000228&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e6%98%93%2c228%2c20081127%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e6%98%93&jno=228&jdate=971127&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e6%98%93%2c228%2c20081127%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e6%98%93&jno=228&jdate=971127&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('97%2c%e6%98%93%2c228%2c20081127%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e6%98%93','228','971127','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">97,易,228</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">971127</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害名譽</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　 97年度易字第228號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=97%2c%e6%98%93%2c228%2c20081127%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e6%98%93&jno=228&jdate=971127&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e6%98%93&selectedCrmno=000228&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=97%2c%e6%98%93%2c228%2c20081127%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e6%98%93&jno=228&jdate=971127&jcheck=1
+[*裁判字號*]97,易,228
+[*裁判日期*]971127
+[*裁判案由*]妨害名譽
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　 97年度易字第228號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　丁○○
 選任辯護人　陳郁芬律師
@@ -132,7 +25,7 @@ function openwin(URL,arguments,width,height)
     的行為？誠如你所講的，你是許添財市長旁邊的紅人，許市
     長如要做什麼事，都要請教你之後才可行，您也自稱是東陽
     集團、大億集團的顧問，他們對你言聽計從，更是知名的薇
-    閣集團陳董事長委任您為總工程師，甚至於<font color='red'>王金平</font>院長見到
+    閣集團陳董事長委任您為總工程師，甚至於王金平院長見到
     您，都要讓您坐大位。諸如種種類似連戰也要敬你為上賓，
     由你策劃TVBS電視評論、街頭運動，以讓農曆九月就要讓阿
     扁總統下台等話語，此有多人可共見共聞，就可以知道您的
@@ -326,12 +219,12 @@ function openwin(URL,arguments,width,height)
       (4)此外，陳守志另分別於95年10月30日上午10時20分、95
         年10月30日上午11時30分、95年10月30日17時許、95年
         10月31日10時許、95年11月1日下午及95年11月22日上
-        午7時20分，六度透過被告丁○○之母莊康金<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F00E2A0A00000040.GIF" />、丁○
+        午7時20分，六度透過被告丁○○之母莊康金、丁○
         ○之妹莊琇珺及麵廠員工楊淑雅、乙○○、林信仰等人
         ，恐嚇要求丁○○依約付款，涉嫌刑法第305條第1項之
         恐嚇罪嫌等情，亦有臺灣臺南地方法院檢察署96年度偵
         字第11755、11756號起訴書影本在卷可稽，並有莊康金
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F00E2A0A00000040.GIF" />、莊琇珺於偵查中之證詞附卷可稽。
+        、莊琇珺於偵查中之證詞附卷可稽。
     2.依下述證據，認陳文啟曾率同包商於95年11月24日下午2
       時30分前往臺南市○○○街116號被告丁○○工廠新址，
       以拉白布條、丟雞蛋、灑冥紙等方式，公然侮辱丁○○：
@@ -714,86 +607,11 @@ function openwin(URL,arguments,width,height)
 勿逕送上級法院」。
   　　　　　　　　　　　　　　　書記官　田富蓉
 中　　華　　民　　國　　97　　年　　11  　月　　28　　日
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWTND\CRIMINAL\9711\27\TNDM97BR.004] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e6%98%93&selectedCrmno=000228&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e6%98%93%2c228%2c20081127%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e6%98%93&jno=228&jdate=971127&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e6%98%93%2c228%2c20081127%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e6%98%93&jno=228&jdate=971127&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('97%2c%e6%98%93%2c228%2c20081127%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e6%98%93','228','971127','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王金平">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王金平">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]97,易,228,20081127,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]97
+[*jcase*]易
+[*jno*]228
+[*jdate*]971127
+[*jcheck*]1

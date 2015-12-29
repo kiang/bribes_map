@@ -1,142 +1,37 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣南投地方法院-刑-99訴706</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+OfVdAgWlSqZdrJPidBQZSR5sl0U=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣南投地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000706&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c706%2c20110316%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=706&jdate=1000316&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c706%2c20110316%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=706&jdate=1000316&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c706%2c20110316%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','706','1000316','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴,706</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000316</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反槍砲彈藥刀械管制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣南投地方法院刑事判決　　　　　　　 99年度訴字第706號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c706%2c20110316%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=706&jdate=1000316&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000706&selectedCrtid=NTD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c706%2c20110316%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=706&jdate=1000316&jcheck=1
+[*裁判字號*]99,訴,706
+[*裁判日期*]1000316
+[*裁判案由*]違反槍砲彈藥刀械管制條例
+[*裁判全文*]臺灣南投地方法院刑事判決　　　　　　　 99年度訴字第706號
 公　訴　人　臺灣南投地方法院檢察署檢察官
-被　　　告　<font color='red'>黃國書
-</font>選任辯護人　呂秀梅律師
+被　　　告　黃國書
+選任辯護人　呂秀梅律師
 　　　　　　朱文財律師
 上列被告因違反槍砲彈藥刀械管制條例案件，經檢察官提起公訴
 （99年度偵字第4093號），本院判決如下：
     主      文
-<font color='red'>黃國書</font>未經許可，寄藏可發射子彈具有殺傷力之改造手槍，處有
+黃國書未經許可，寄藏可發射子彈具有殺傷力之改造手槍，處有
 期徒刑貳年，併科罰金新臺幣陸萬元，罰金如易服勞役，以新臺
 幣壹仟元折算壹日。扣案改造手槍壹枝（含彈匣壹個，槍枝管制
 編號：0000000000號），沒收。
     犯罪事實
-一、<font color='red'>黃國書</font>於民國（下同）97年年初某日，在南投縣埔里鎮○○
+一、黃國書於民國（下同）97年年初某日，在南投縣埔里鎮○○
     路路邊車上，受友人潘正緯（業於99年2月間自殺身亡）之
     託，保管具有殺傷力之改造手槍（仿WALTHER廠PPS/K型半自
     動手槍製造之槍枝、槍枝管制編號：0000000000號）1枝、
-    彈匣1個及是否具殺傷力不明之子彈4顆，<font color='red'>黃國書</font>明知未經中
+    彈匣1個及是否具殺傷力不明之子彈4顆，黃國書明知未經中
     央主管機關許可，不得持有、寄藏可發射子彈，具有殺傷力
     之槍枝，竟基於寄藏可發射子彈具有殺傷力之改造手槍之犯
     意，應允之，並於同日將上開改造手槍及子彈攜至其位於南
     投縣埔里鎮○○路26號住處後面鐵皮屋藏放，而寄藏之。嗣
-    於99年10月5日23時45分許，<font color='red'>黃國書</font>應友人之邀至南投縣魚
-    池鄉新城村通文巷47之10號「夜歡卡拉OK」處理事情，<font color='red'>黃國
-    書</font>乃將上開槍枝（含彈匣1個，內裝上開子彈4顆）起出並帶
-    在身上，因雙方在前述卡拉OK店前發生爭吵，<font color='red'>黃國書</font>見有人
+    於99年10月5日23時45分許，黃國書應友人之邀至南投縣魚
+    池鄉新城村通文巷47之10號「夜歡卡拉OK」處理事情，黃國
+    書乃將上開槍枝（含彈匣1個，內裝上開子彈4顆）起出並帶
+    在身上，因雙方在前述卡拉OK店前發生爭吵，黃國書見有人
     持棍棒向伊靠近，緊張之餘乃持上開槍枝對空擊發前揭子彈
-    4顆後逃逸。之後，於99年10月13日15時許，<font color='red'>黃國書</font>於具偵
+    4顆後逃逸。之後，於99年10月13日15時許，黃國書於具偵
     查犯罪職權之公務員尚未知悉上開犯罪嫌疑人之前，主動持
     前揭改造手槍1枝，向南投縣政府警察局集集分局偵查隊員
     警投案，並願意接受裁判，警方才知悉上情。
@@ -174,14 +69,14 @@ function openwin(URL,arguments,width,height)
     言詞辯論終結前聲明異議，視為有前項之同意，刑事訴訟法
     第159條之5定有明文。查本件本院認定事實所憑之部分證據
     為被告以外之人於審判外之書面陳述而屬傳聞證據，公訴人
-    、被告<font color='red'>黃國書</font>及選任辯護人均未於本院言詞辯論終結前對其
+    、被告黃國書及選任辯護人均未於本院言詞辯論終結前對其
     等證據能力聲明異議，復經本院於審理時逐一提示予檢察官
     、被告及辯護人表示意見，本院審酌該等證據之取得，並無
     違法取證或其他瑕疵，與本案待證事實間復具有相當之關聯
     性，以之為本案證據堪認為適當，是依上開規定，自得採為
     本件認定事實之基礎，合先敘明。
 二、實體方面
-  (一)上開犯罪事實，業據被告<font color='red'>黃國書</font>於警詢、偵查及審理時均坦
+  (一)上開犯罪事實，業據被告黃國書於警詢、偵查及審理時均坦
     承不諱，並有：(1)南投縣政府警察局槍枝初步檢視報告表暨
     表附槍枝初步檢視人員履歷資料、(2)照片10張、(3)監視器翻
     拍照片14張附卷可憑，並有改造手槍1枝扣案可證，而扣案
@@ -280,86 +175,12 @@ function openwin(URL,arguments,width,height)
 未經許可，持有、寄藏或意圖販賣而陳列第 1 項所列槍枝者，
 處 3 年以上10 年以下有期徒刑，併科新臺幣 700 萬元以下罰
 金。
-第 1 項至第 3 項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWNTD\CRIMINAL\10003\16\NTDM1003G.002] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000706&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c706%2c20110316%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=706&jdate=1000316&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c706%2c20110316%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=706&jdate=1000316&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c706%2c20110316%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','706','1000316','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="NTD 臺灣南投地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃國書">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃國書">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+第 1 項至第 3 項之未遂犯罰之。
+[*jrecno*]99,訴,706,20110316,1
+[*v_court*]NTD 臺灣南投地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]訴
+[*jno*]706
+[*jdate*]1000316
+[*jcheck*]1

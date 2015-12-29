@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-花蓮分院-刑-103上易187</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 花蓮分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000187&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=187&jdate=1040828&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=187&jdate=1040828&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','187','1040828','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,上易,187</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040828</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院花蓮分院刑事判決　　　　103年度上易字第187號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=187&jdate=1040828&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000187&selectedCrtid=HLH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=187&jdate=1040828&jcheck=1
+[*裁判字號*]103,上易,187
+[*裁判日期*]1040828
+[*裁判案由*]詐欺
+[*裁判全文*]臺灣高等法院花蓮分院刑事判決　　　　103年度上易字第187號
 上　訴　人
 即　被　告　陳星耀
 選任辯護人　邱聰安律師
@@ -360,7 +253,7 @@ function openwin(URL,arguments,width,height)
     教訓，應知所警惕，無再犯之虞，所宣告之刑，以暫不執行
     為適當，爰依刑法第74條第1項第2款規定，諭知緩刑4年，
     以啟自新。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、不另為無罪諭知部分：
+、不另為無罪諭知部分：
 一、公訴意旨略以：被告戊○○於97年2月29日帶李己○○向陽
     秀瑩借款30萬元後(即前揭有罪之犯罪事實一、2部分)，因
     李己○○無法清償該筆借款，再次要求戊○○解決該難題，
@@ -470,10 +363,10 @@ function openwin(URL,arguments,width,height)
   5.又證人黃國書所寫李己○○、丙○○貸款情形大致如下：98
     年6月19日在楊月珠代書事務所貸款20萬元後(此與被告無關
     )，利息未付，99年4月13日送法院執行拍賣不動產，99年4
-    月23日李己○○、丙○○找被告及<font color='red'>許秀雯</font>協商還款，99年4
+    月23日李己○○、丙○○找被告及許秀雯協商還款，99年4
     月28日到○○代書事務所陽秀瑩還款30萬元整，總共欠57.5
     萬元(含代書費、利息)，嗣99年7月9日李己○○、丙○○帶
-    被告及<font color='red'>許秀雯</font>稱有困難再借20萬元，總共欠77.5萬元整，有
+    被告及許秀雯稱有困難再借20萬元，總共欠77.5萬元整，有
     警卷所附借款及還款經過說明書可按。另證人黃國書於原審
     證稱：警卷所附借款及還款經過說明書之內容正確，李己○
     ○、丙○○陸續跟伊借過很多次，有時要借錢伊都不要，第
@@ -736,86 +629,12 @@ function openwin(URL,arguments,width,height)
 之情形，使之將本人或第三人之物交付者，處五年以下有期徒刑
 、拘役或科或併科十萬元以下罰金。
 以前項方法得財產上不法之利益，或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[未滿18] -->
-<!-- 檔名：[D:\JUpload\Upload\NOK\LAWHLH\CRIMINAL\10408\28\HLHM1048S.007] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000187&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=187&jdate=1040828&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=187&jdate=1040828&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c187%2c20150828%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','187','1040828','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLH 臺灣高等法院 花蓮分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許秀雯">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許秀雯">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]103,上易,187,20150828,1
+[*v_court*]HLH 臺灣高等法院 花蓮分院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]上易
+[*jno*]187
+[*jdate*]1040828
+[*jcheck*]1

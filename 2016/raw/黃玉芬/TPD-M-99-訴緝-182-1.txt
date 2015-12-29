@@ -1,136 +1,29 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-99訴緝182</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第7
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000182&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=182&jdate=1000830&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=182&jdate=1000830&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4%e7%b7%9d','182','1000830','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴緝,182</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000830</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　 99年度訴緝字第182號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=182&jdate=1000830&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000182&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=182&jdate=1000830&jcheck=1
+[*裁判字號*]99,訴緝,182
+[*裁判日期*]1000830
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　 99年度訴緝字第182號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
-被　　　告　<font color='red'>黃玉芬
-</font>選任辯護人　黃達元律師
+被　　　告　黃玉芬
+選任辯護人　黃達元律師
 上列被告因偽造文書等案件，經檢察官提起公訴（九十七年度調
 偵緝字第一一八號、第一二四號、第一二五號），本院判決如下
 ：
     主  文
-<font color='red'>黃玉芬</font>連續行使偽造私文書，足以生損害於他人，處有期徒刑壹
+黃玉芬連續行使偽造私文書，足以生損害於他人，處有期徒刑壹
 年陸月。如附表十一所示之文書及署押均沒收。
     事  實
-一、<font color='red'>黃玉芬</font>前於臺北市○○區○○路某停車場擔任收費員，因許
-    鳳蘭常至該停車場停車而與許鳳蘭熟識。<font color='red'>黃玉芬</font>於民國九十
+一、黃玉芬前於臺北市○○區○○路某停車場擔任收費員，因許
+    鳳蘭常至該停車場停車而與許鳳蘭熟識。黃玉芬於民國九十
     三年六月間某日，邀約許鳳蘭一同申辦信用卡、現金卡，許
-    鳳蘭同意後，即與<font color='red'>黃玉芬</font>一同透過代辦業者江姿瑩申辦如附
+    鳳蘭同意後，即與黃玉芬一同透過代辦業者江姿瑩申辦如附
     表一所示之信用卡及現金卡，惟因許鳳蘭不欲其家人知悉其
-    辦卡之事，遂與<font color='red'>黃玉芬</font>議定，於各信用卡、現金卡申辦書上
-    之現居地址欄，均填載<font color='red'>黃玉芬</font>斯時之住所即臺北市中正區○
-    ○○街三六號二樓，委由<font color='red'>黃玉芬</font>代收並代為保管如附表一所
-    示之信用卡及現金卡。詎<font color='red'>黃玉芬</font>於代收如附表一所示許鳳蘭
+    辦卡之事，遂與黃玉芬議定，於各信用卡、現金卡申辦書上
+    之現居地址欄，均填載黃玉芬斯時之住所即臺北市中正區○
+    ○○街三六號二樓，委由黃玉芬代收並代為保管如附表一所
+    示之信用卡及現金卡。詎黃玉芬於代收如附表一所示許鳳蘭
     申辦之信用卡及現金卡後，竟基於意圖為自己不法所有、行
     使偽造私文書之概括犯意，先以不詳方式佯為許鳳蘭本人，
     向各發卡銀行完成開卡程序後，連續為下列行為：
@@ -154,11 +47,11 @@ function openwin(URL,arguments,width,height)
     ○路○段六六巷三弄二一號），向不知情之店員出示行使該
     許鳳蘭所有之信用卡，而向該不知情之店員施用詐術，佯裝
     其為合法持卡人，使該不知情之店員因此陷於錯誤，認為係
-    許鳳蘭本人持卡消費，而將簽帳單交由<font color='red'>黃玉芬</font>，由<font color='red'>黃玉芬</font>在
+    許鳳蘭本人持卡消費，而將簽帳單交由黃玉芬，由黃玉芬在
     簽帳單商店存根聯上偽造「許鳳蘭」之署押一枚，以此方式
     偽造用以表示確認該簽帳單上所載之消費金額無誤之簽帳單
     私文書後，交予該不知情之店員行使核對，致該不知情之店
-    員因此提供<font color='red'>黃玉芬</font>所欲購買、價值新臺幣（下同）一萬一千
+    員因此提供黃玉芬所欲購買、價值新臺幣（下同）一萬一千
     五百元之商品，足以生損害於許鳳蘭及發卡銀行即中信銀行
     及特約商店即ＨＬ超大尺碼對於該信用卡持卡人身份核對之
     正確性。
@@ -175,12 +68,12 @@ function openwin(URL,arguments,width,height)
     、地，前往如附表五所示之商店，向各該不知情之店員出示
     行使該許鳳蘭所有之信用卡，而向各該不知情之店員施用詐
     術，佯裝其為合法持卡人，使各該不知情之店員因此陷於錯
-    誤，認為係許鳳蘭本人持卡消費，而將簽帳單交由<font color='red'>黃玉芬</font>，
-    由<font color='red'>黃玉芬</font>在簽帳單上偽造如附表五所示之署押（偽造署押次
+    誤，認為係許鳳蘭本人持卡消費，而將簽帳單交由黃玉芬，
+    由黃玉芬在簽帳單上偽造如附表五所示之署押（偽造署押次
     數均如附表五所載），以此方式偽造用以表示許鳳蘭確認如
     附表五所示之消費金額無誤之簽帳單私文書後，交予各該不
-    知情之店員行使核對，致各該不知情之店員均分別提供<font color='red'>黃玉
-    芬</font>所欲購買之商品或服務，足以生損害於<font color='red'>黃玉芬</font>及發卡銀行
+    知情之店員行使核對，致各該不知情之店員均分別提供黃玉
+    芬所欲購買之商品或服務，足以生損害於黃玉芬及發卡銀行
     即國泰世華銀行及如附表五所示之特約商店對於該信用卡持
     卡人身份核對之正確性。
   (四)於如附表六所載時間，持如附表一編號四所示許鳳蘭申辦之
@@ -202,15 +95,15 @@ function openwin(URL,arguments,width,height)
     往如附表八所示之商店，向各該不知情之店員出示行使該許
     鳳蘭所有之信用卡，而向各該不知情之店員施用詐術，佯裝
     其為合法持卡人，使各該不知情之店員因此陷於錯誤，認為
-    係許鳳蘭本人持卡消費，而將簽帳單交由<font color='red'>黃玉芬</font>，由<font color='red'>黃玉芬
-    </font>在簽帳單上偽造如附表八所示之署押（偽造署押次數均如附
+    係許鳳蘭本人持卡消費，而將簽帳單交由黃玉芬，由黃玉芬
+    在簽帳單上偽造如附表八所示之署押（偽造署押次數均如附
     表八所載），以此方式偽造用以表示許鳳蘭確認如附表八所
     示之消費金額無誤之簽帳單私文書後，交予各該不知情之店
-    員行使核對，致各該不知情之店員均分別提供<font color='red'>黃玉芬</font>所欲購
-    買之商品或服務，足以生損害於<font color='red'>黃玉芬</font>及發卡銀行即第一銀
+    員行使核對，致各該不知情之店員均分別提供黃玉芬所欲購
+    買之商品或服務，足以生損害於黃玉芬及發卡銀行即第一銀
     行及如附表八所示之特約商店對於該信用卡持卡人身份核對
     之正確性。
-二、<font color='red'>黃玉芬</font>食髓知味，明知其未經許鳳蘭之同意或授權，竟承前
+二、黃玉芬食髓知味，明知其未經許鳳蘭之同意或授權，竟承前
     意圖為自己不法所有、行使偽造私文書之概括犯意，於(一)九
     十三年九月二十三日，冒用許鳳蘭名義，在美商花旗銀行股
     份有限公司（下稱花旗銀行）信用卡申請書上填載許鳳蘭之
@@ -224,10 +117,10 @@ function openwin(URL,arguments,width,height)
     不知情之花旗銀行承辦人員而行使之，使花旗銀行承辦人員
     陷於錯誤，誤信為許鳳蘭本人申請信用卡使用，而交付該行
     所發行之信用卡一張（卡號：四三一一＊＊＊＊＊＊＊＊七
-    一○五號）予<font color='red'>黃玉芬</font>，並於九十三年九月三十日，核撥六萬
-    八千元、八萬二千元，共計十五萬元之款項以代償<font color='red'>黃玉芬</font>上
+    一○五號）予黃玉芬，並於九十三年九月三十日，核撥六萬
+    八千元、八萬二千元，共計十五萬元之款項以代償黃玉芬上
     揭盜用信用卡及現金卡時所積欠之卡債，足以生損害於許鳳
-    蘭及花旗銀行對於信用卡申辦人管理之正確性。<font color='red'>黃玉芬</font>更於
+    蘭及花旗銀行對於信用卡申辦人管理之正確性。黃玉芬更於
     如附表九所載時間，持該花旗銀行信用卡，前往如附表九所
     載地點，操作各該銀行所設置之自動櫃員機，鍵入密碼，使
     該自動付款設備辨識系統陷於錯誤，誤認其係有正當權源持
@@ -245,11 +138,11 @@ function openwin(URL,arguments,width,height)
     卡債之意思表示之申請書私文書，並持交不知情之遠東銀行
     承辦人員而行使之，使遠東銀行承辦人員陷於錯誤，誤信為
     許鳳蘭本人申請信用卡使用，而交付該行所發行之信用卡一
-    張（卡號：0000000000000000號）予<font color='red'>黃玉
-    芬</font>，並於九十三年十一月十一日，核撥上揭款項以代償<font color='red'>黃玉
-    芬</font>上揭盜用信用卡及現金卡時所積欠之卡債，足以生損害於
-    許鳳蘭及遠東銀行對於信用卡申辦人管理之正確性。<font color='red'>黃玉芬
-    </font>更於如附表十所載時間，持該遠東銀行信用卡，前往如附表
+    張（卡號：0000000000000000號）予黃玉
+    芬，並於九十三年十一月十一日，核撥上揭款項以代償黃玉
+    芬上揭盜用信用卡及現金卡時所積欠之卡債，足以生損害於
+    許鳳蘭及遠東銀行對於信用卡申辦人管理之正確性。黃玉芬
+    更於如附表十所載時間，持該遠東銀行信用卡，前往如附表
     十所載地點，操作各該銀行所設置之自動櫃員機，鍵入密碼
     ，使該自動付款設備辨識系統陷於錯誤，誤認其係有正當權
     源持卡人意欲以該遠東銀行信用卡預借現金，以該不正方法
@@ -265,8 +158,8 @@ function openwin(URL,arguments,width,height)
     情之陽信銀行承辦人員而行使之，使陽信銀行承辦人員陷於
     錯誤，誤信為許鳳蘭本人申請信用卡使用，而交付該行所發
     行之信用卡一張（卡號：000000000000000
-    0號）予<font color='red'>黃玉芬</font>，並於九十三年十二月十四日，核撥十七萬
-    元以代償<font color='red'>黃玉芬</font>上揭盜用信用卡時所積欠之卡債，足以生損
+    0號）予黃玉芬，並於九十三年十二月十四日，核撥十七萬
+    元以代償黃玉芬上揭盜用信用卡時所積欠之卡債，足以生損
     害於許鳳蘭及陽東銀行對於信用卡申辦人管理之正確性。嗣
     因許鳳蘭接獲銀行催收帳款之通知，發覺有異，始循線查悉
     上情。
@@ -284,14 +177,14 @@ function openwin(URL,arguments,width,height)
     五十九條第一項不得為證據之情形，而未於言詞辯論終結前
     聲明異議者，視為有前項之同意，刑事訴訟法第一百五十九
     條第一項及第一百五十九條之五分別定有明文。查本判決下
-    列所引用之各項證據方法之證據能力，公訴人、被告<font color='red'>黃玉芬
-    </font>及其選任辯護人於本院準備程序及審判期日中均未予爭執，
+    列所引用之各項證據方法之證據能力，公訴人、被告黃玉芬
+    及其選任辯護人於本院準備程序及審判期日中均未予爭執，
     且迄至言詞辯論終結前亦未再聲明異議（本院一○○年八月
     九日審判筆錄參照），本院審酌該等言詞陳述及書面陳述作
     成時之情況，並無不宜作為證據之情事，依刑事訴訟法第一
     百五十九條之五之規定，自得作為證據，合先敘明。
   (二)被告之辯解：
-    被告<font color='red'>黃玉芬</font>於本院審理時，固坦承如附表一所載以許鳳蘭名
+    被告黃玉芬於本院審理時，固坦承如附表一所載以許鳳蘭名
     義申辦之現金卡、信用卡及事實二所載以許鳳蘭名義申辦之
     花旗銀行信用卡、遠東銀行信用卡、陽信銀行信用卡均係伊
     保管，且如附表二、三、四、六、七、九、十使用上揭各現
@@ -507,7 +400,7 @@ function openwin(URL,arguments,width,height)
     行堪以認定，應予依法論科。
 二、論罪科刑之法律適用：
   (一)新、舊法比較：
-    查被告<font color='red'>黃玉芬</font>為事實一、二所載之行為後，刑法業於九十四
+    查被告黃玉芬為事實一、二所載之行為後，刑法業於九十四
     年二月二日修正公布，九十五年七月一日起施行。按行為後
     法律有變更者，適用行為時之法律，但行為後之法律有利於
     行為人者，適用最有利於行為人之法律，刑法第二條第一項
@@ -538,7 +431,7 @@ function openwin(URL,arguments,width,height)
     並同意依照信用卡使用規定，一經使用或訂購物品，均應按
     所示之全部金額，付款予發卡銀行之文書，故簽帳單之性質
     為私文書（最高法院九十一年度臺上字第四五三一號判決意
-    旨參照）。是核被告<font color='red'>黃玉芬</font>所為，係犯刑法第三百三十九條
+    旨參照）。是核被告黃玉芬所為，係犯刑法第三百三十九條
     第一項之詐欺取財罪、同條第二項之詐欺得利罪、同法第二
     百十六條、第二百十條之行使偽造私文書罪及同法第三百三
     十九條之二之違法由自動付款設備取得他人之物罪。其偽造
@@ -740,7 +633,7 @@ function openwin(URL,arguments,width,height)
 │十八│93年11月9 日│遠東銀行於不詳地點所設置之自動櫃員機    │  10,000元│
 ├──┼──────┼────────────────────┼─────┤
 │十九│94年2 月2 日│中信銀行於統一超商股份有限公司（下稱７－│  10,000元│
-│    │            │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />）寧波店內所設置之自動櫃員機          │          │
+│    │            │）寧波店內所設置之自動櫃員機          │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┼────────────────────┼─────┤
 │二十│94年4 月12日│臺北富邦銀行於不詳地點所設置之自動櫃員機│   5,000元│
@@ -748,17 +641,17 @@ function openwin(URL,arguments,width,height)
 ├──┼──────┼────────────────────┼─────┤
 │二一│94年4 月15日│臺北富邦銀行於不詳地點所設置之自動櫃員機│   5,000元│
 ├──┼──────┼────────────────────┼─────┤
-│二二│94年7 月7 日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />寧波店內所設置之自動櫃員│  12,000元│
+│二二│94年7 月7 日│中信銀行於７－寧波店內所設置之自動櫃員│  12,000元│
 │    │            │機                                      │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┼────────────────────┼─────┤
-│二三│94年8 月4 日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />桂明店內所設置之自動櫃員│   7,000元│
+│二三│94年8 月4 日│中信銀行於７－桂明店內所設置之自動櫃員│   7,000元│
 │    │            │機                                      │          │
 │    │            │臺北市○○區○○路55號                  │          │
 ├──┼──────┼────────────────────┼─────┤
 │二四│94年9 月5 日│遠東銀行於不詳地點所設置之自動櫃員機    │   3,000元│
 ├──┼──────┼────────────────────┼─────┤
-│二六│94年9 月7 日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />寧波店內所設置之自動櫃員│   5,000元│
+│二六│94年9 月7 日│中信銀行於７－寧波店內所設置之自動櫃員│   5,000元│
 │    │            │機                                      │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┴────────────────────┴─────┤
@@ -805,19 +698,19 @@ function openwin(URL,arguments,width,height)
 ├──┼──────┼────────────────────┼─────┤
 │十五│93年12月10日│台新銀行於不詳地點所設置之自動櫃員機    │  20,000元│
 ├──┼──────┼────────────────────┼─────┤
-│十六│93年12月11日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />寧波店內所設置之自動櫃員│  20,000元│
+│十六│93年12月11日│中信銀行於７－寧波店內所設置之自動櫃員│  20,000元│
 │    │            │機                                      │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┼────────────────────┼─────┤
-│十七│93年12月11日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />寧波店內所設置之自動櫃員│  20,000元│
+│十七│93年12月11日│中信銀行於７－寧波店內所設置之自動櫃員│  20,000元│
 │    │            │機                                      │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┼────────────────────┼─────┤
-│十八│93年12月11日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />寧波店內所設置之自動櫃員│  20,000元│
+│十八│93年12月11日│中信銀行於７－寧波店內所設置之自動櫃員│  20,000元│
 │    │            │機                                      │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┼────────────────────┼─────┤
-│十九│93年12月12日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />寧波店內所設置之自動櫃員│  20,000元│
+│十九│93年12月12日│中信銀行於７－寧波店內所設置之自動櫃員│  20,000元│
 │    │            │機                                      │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┼────────────────────┼─────┤
@@ -853,7 +746,7 @@ function openwin(URL,arguments,width,height)
 ├──┼──────┼────────────────────┼─────┤
 │三一│94年7 月13日│安泰銀行於不詳地點所設置之自動櫃員機    │  10,000元│
 ├──┼──────┼────────────────────┼─────┤
-│三二│94年9 月7 日│中信銀行於７－<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" />寧波店內所設置之自動櫃員│   5,000元│
+│三二│94年9 月7 日│中信銀行於７－寧波店內所設置之自動櫃員│   5,000元│
 │    │            │機                                      │          │
 │    │            │臺北市中正區○○○街3號                 │          │
 ├──┼──────┼────────────────────┼─────┤
@@ -1087,12 +980,12 @@ function openwin(URL,arguments,width,height)
 ├──┼───────────────────────────┤
 │ 一 │附表一編號二、三、五所示之中信銀行信用卡、國泰世華銀行│
 │    │信用卡及第一銀行信用卡背面持卡人簽名欄上偽造之「許鳳蘭│
-│    │」簽名各壹枚（共<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />枚）                                │
+│    │」簽名各壹枚（共枚）                                │
 ├──┼───────────────────────────┤
-│ 二 │<font color='red'>黃玉芬</font>於94年5 月12日前往興麗有限公司（即ＨＬ超大尺碼）│
+│ 二 │黃玉芬於94年5 月12日前往興麗有限公司（即ＨＬ超大尺碼）│
 │    │消費購物時之簽帳單顧客存根聯（即持卡人存根聯）壹張    │
 ├──┼───────────────────────────┤
-│ 三 │<font color='red'>黃玉芬</font>於94年5 月12日前往興麗有限公司（即ＨＬ超大尺碼）│
+│ 三 │黃玉芬於94年5 月12日前往興麗有限公司（即ＨＬ超大尺碼）│
 │    │消費購物時之簽帳單商店存根聯上偽造之「許鳳蘭」簽名壹枚│
 ├──┼───────────────────────────┤
 │ 四 │附表五編號一至編號四之簽帳單顧客存根聯（即持卡人存根聯│
@@ -1115,86 +1008,12 @@ function openwin(URL,arguments,width,height)
 ├──┼───────────────────────────┤
 │ 十 │陽信銀行坐享其成代償不費利申請書上申請人中文正楷親簽欄│
 │    │偽造之「許鳳蘭」簽名壹枚                              │
-└──┴───────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10008\30\TPDM1008U.00C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第7
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000182&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=182&jdate=1000830&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4%e7%b7%9d&jno=182&jdate=1000830&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%e7%b7%9d%2c182%2c20110830%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4%e7%b7%9d','182','1000830','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃玉芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃玉芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───────────────────────────┘
+[*jrecno*]99,訴緝,182,20110830,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]訴緝
+[*jno*]182
+[*jdate*]1000830
+[*jcheck*]1

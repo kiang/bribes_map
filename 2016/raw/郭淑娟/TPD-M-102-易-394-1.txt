@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-102易394</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000394&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c394%2c20150527%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=394&jdate=1040527&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c394%2c20150527%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=394&jdate=1040527&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c394%2c20150527%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','394','1040527','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,易,394</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040527</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">業務侵占等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　102年度易字第394號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c394%2c20150527%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=394&jdate=1040527&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000394&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e6%98%93%2c394%2c20150527%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=394&jdate=1040527&jcheck=1
+[*裁判字號*]102,易,394
+[*裁判日期*]1040527
+[*裁判案由*]業務侵占等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　102年度易字第394號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　欒宜璇
 選任辯護人　陳珮瑜律師
@@ -122,10 +15,10 @@ function openwin(URL,arguments,width,height)
     主  文
 欒宜璇共同犯背信罪，處有期徒刑肆月，如易科罰金，以新臺幣
 壹仟元折算壹日；又共同犯業務侵占罪，處有期徒刑壹年貳月。
-羅珮玲共同犯背信罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣
+羅珮玲共同犯背信罪，處有期徒刑月，如易科罰金，以新臺幣
 壹仟元折算壹日；又共同犯業務侵占罪，處有期徒刑陸月，如易
 科罰金，以新臺幣壹仟元折算壹日。應執行有期徒刑捌月，如易
-科罰金，以新臺幣壹仟元折算壹日，緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年。
+科罰金，以新臺幣壹仟元折算壹日，緩刑年。
     事  實
 一、欒宜璇與羅珮玲均為台灣秀得美股份有限公司（址設臺北市
     ○○區○○○路0段000號7 樓，下稱秀得美公司）之客戶服
@@ -253,7 +146,7 @@ function openwin(URL,arguments,width,height)
 (二)
   1.事實欄一(二)部分，業經被告羅珮玲於本院審理時供承不諱
     ，核與證人即擔任告訴人公司客戶服務部經理之潘劭真、證
-    人即案發時擔任告訴人公司客戶服務部專員之<font color='red'>郭淑娟</font>之證述
+    人即案發時擔任告訴人公司客戶服務部專員之郭淑娟之證述
     情節相符（見本院卷一第303至304頁、第345至355頁、第38
     0至382頁、第371至375頁），並有告訴人102年7月24日刑事
     補充告訴理由（二）狀、102年7月25日刑事補充告訴理由（
@@ -284,10 +177,10 @@ function openwin(URL,arguments,width,height)
     ，有問題的部分會以手寫加註在上面，因此告訴人公司所收
     的金額短少是否被告羅珮玲以手寫的方式所造成的缺口不得
     而知，依照罪疑惟輕原則，不得為被告欒宜璇有直接拿取現
-    金的推論；證人<font color='red'>郭淑娟</font>證稱她在擔任客戶服務部人員時，下
+    金的推論；證人郭淑娟證稱她在擔任客戶服務部人員時，下
     班前會與被告2 人一起把現金箱進行點核，當日如果有短少
-    金額，3 人就會平均分攤短少的部分補進現金箱，然證人<font color='red'>郭
-    淑娟</font>也證稱說印象中有短少現金的情形大約4、5次以上，金
+    金額，3 人就會平均分攤短少的部分補進現金箱，然證人郭
+    淑娟也證稱說印象中有短少現金的情形大約4、5次以上，金
     額大約幾千元左右，是以該3 人共同任職客戶服務部期間，
     點收現金的狀況並沒有大量現金短少，與告訴人公司主張現
     金共短少206萬元差距甚大云云，然查：
@@ -315,7 +208,7 @@ function openwin(URL,arguments,width,height)
     云云，然證人羅珮玲於本院審理時已明確證述：伊沒有被告
     欒宜璇的密碼，伊也沒有權限修改被告欒宜璇的電腦紀錄等
     語（見本院卷一第301 頁反面），且關於應收未收帳款之查
-    詢，證人潘劭真及<font color='red'>郭淑娟</font>均證稱：客戶服務部人員隨時可以
+    詢，證人潘劭真及郭淑娟均證稱：客戶服務部人員隨時可以
     自行查看應收未收的帳款，客戶服務部經理潘劭真至少每個
     月會查核1 次等語（見本院卷一第354、第372頁），是被告
     欒宜璇於其任職期間，如認其所負責訂單之應收未收帳款有
@@ -355,7 +248,7 @@ function openwin(URL,arguments,width,height)
     依照罪疑惟輕原則，不得為被告欒宜璇有直接拿取現金的推
     論云云，惟就每日報表如何製作及內容為何，證人羅珮玲證
     稱：每個人做好自己的報表，伊會印出3 位組員（即羅珮玲
-    、欒宜璇、<font color='red'>郭淑娟</font>）個別的報表，要稍微對一下，如果訂購
+    、欒宜璇、郭淑娟）個別的報表，要稍微對一下，如果訂購
     的金額跟實際收到的金額有落差（即產生應收未收帳款之情
     形），伊會詢問負責的客服人員為什麼會有這樣的落差，在
     報表上面用手寫附註原因，不會用電腦改等語（見本院卷一
@@ -367,15 +260,15 @@ function openwin(URL,arguments,width,height)
     6萬4,161元是根據電腦內訂單資料及被告欒宜璇自己交出尚
     未輸入電腦內訂單之原始紙本資料所統計而得，自不可能因
     被告羅珮玲手寫註記而產生金額短少。
-  (5)至被告欒宜璇之選任辯護人另辯稱：證人<font color='red'>郭淑娟</font>證稱她在89
+  (5)至被告欒宜璇之選任辯護人另辯稱：證人郭淑娟證稱她在89
     年5月至101年9 月都是擔任告訴人公司客戶服務部專員，下
     班前會與被告2 人一起把現金箱的錢點過後與帳目核對，當
     日如果有短少金額，3 人就會平均分攤短少的部分補進現金
     箱，印象中有短少現金的情形大約4、5次以上，金額大約幾
     千元左右等語（見本院卷一第371頁），可見被告2人與證人
-    <font color='red'>郭淑娟</font>共同任職客戶服務部期間，點收現金的狀況並沒有大
+    郭淑娟共同任職客戶服務部期間，點收現金的狀況並沒有大
     量現金短少之情形，與告訴人公司主張現金共短少206 萬元
-    差距甚大云云，惟證人<font color='red'>郭淑娟</font>亦證述：輸入訂單後訂貨單檔
+    差距甚大云云，惟證人郭淑娟亦證述：輸入訂單後訂貨單檔
     看不到是現金、支票或匯款付款，只看的到是刷卡付款，不
     過如果客戶是前一天刷卡，由客戶服務部暫收，隔天才打訂
     單，也會看不到有刷卡紀錄，在應收帳款的報表會顯示當天
@@ -389,7 +282,7 @@ function openwin(URL,arguments,width,height)
     內，該筆遭侵占之金額在報表上即成為應收未收之帳款，而
     會在報表上做註記，後續的處理方式係由負責的客戶服務部
     人員自行向客戶追款（於本案則係被告2 人以他筆訂單之刷
-    卡單沖銷該筆應收帳款），而就證人<font color='red'>郭淑娟</font>前開證述有關短
+    卡單沖銷該筆應收帳款），而就證人郭淑娟前開證述有關短
     少現金的情形，其另補充證稱：當天點完錢之後發現有少，
     3 個人當天把錢直接拿出來，與出現應收未收帳款後，自行
     向客戶追款的程序並不相關，就伊個人而言，伊習慣在原始
@@ -398,11 +291,11 @@ function openwin(URL,arguments,width,height)
     2 人說是伊少收，伊會自己先把錢補進去，再跟顧客要，如
     果被告2人忘記是否是他們少收，查不出原因，就3個人一起
     賠，伊等3 個人會互相幫忙看紙本上面有無註記等語（見本
-    院卷一第374 頁），是證人<font color='red'>郭淑娟</font>所證稱有關短少現金的情
+    院卷一第374 頁），是證人郭淑娟所證稱有關短少現金的情
     形，係指排除應收未收帳款之金額後，現金仍有短少之狀況
     ，而本案被告2 人之犯罪手法係侵占現金後，先將該筆數額
     列在應收未收帳款內，之後再以他筆刷卡單沖銷，本就與證
-    人<font color='red'>郭淑娟</font>所證稱之短少現金為不同之情形，故被告欒宜璇之
+    人郭淑娟所證稱之短少現金為不同之情形，故被告欒宜璇之
     選任辯護人上揭所辯，與本案認定之犯罪手法及情節顯不相
     關，尚難採為有利於被告欒宜璇之認定。
 (三)綜上所述，本案事證已明，被告2 人之犯行均洵堪認定，應
@@ -561,86 +454,12 @@ function openwin(URL,arguments,width,height)
 年以上 7 年以下有期徒刑，得併科 5 千元以下罰金。
 對於業務上所持有之物，犯前條第 1 項之罪者，處 6 月以上
 5 年以下有期徒刑，得併科 3 千元以下罰金。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10405\27\TPDM1045R.00X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000394&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c394%2c20150527%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=394&jdate=1040527&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c394%2c20150527%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=394&jdate=1040527&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c394%2c20150527%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','394','1040527','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="郭淑娟">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="郭淑娟">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]102,易,394,20150527,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]易
+[*jno*]394
+[*jdate*]1040527
+[*jcheck*]1

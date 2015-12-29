@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-96訴489</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000489&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c489%2c20070829%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=489&jdate=960829&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c489%2c20070829%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=489&jdate=960829&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c489%2c20070829%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','489','960829','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">96,訴,489</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">960829</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽證等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　 96年度訴字第489號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c489%2c20070829%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=489&jdate=960829&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000489&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c489%2c20070829%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=489&jdate=960829&jcheck=1
+[*裁判字號*]96,訴,489
+[*裁判日期*]960829
+[*裁判案由*]偽證等
+[*裁判全文*]臺灣基隆地方法院刑事判決　　　　　　　 96年度訴字第489號
 公　訴　人　臺灣基隆地方法院檢察署檢察官
 被　　　告　乙○○
 上列被告因偽證等案件，經檢察官提起公訴（95年度偵字第3575
@@ -119,7 +12,7 @@ function openwin(URL,arguments,width,height)
     主  文
 乙○○證人，於執行審判職務之公署審判時，於案情有重要關係
 之事項，供前具結，而為虛偽陳述，處有期徒刑陸月，減為有期
-徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。
+徒刑月。
 被訴意圖使犯人隱避而頂替部分，免刑。
     事  實
 一、緣謝耀樟自民國95年1 月7 日晚間7 時30分起，至95年1 月
@@ -130,7 +23,7 @@ function openwin(URL,arguments,width,height)
     ，因酒後注意力下降，在國道一號高速公路南向4.8 公里處
     ，不慎擦撞同向行駛在左，由徐國瑞駕駛、搭載許耀煌之QO
     -4867 號自用小客車，繼而任意停駛、下車查看，致其同向
-    行駛在後、由<font color='red'>徐志榮</font>駕駛之196-MR號營業用小客車閃避不及
+    行駛在後、由徐志榮駕駛之196-MR號營業用小客車閃避不及
     ，而自後追撞業已停駛於其車道前方、由謝耀樟駕駛之3131
     -EL 號自用小客車（嗣經施測結果，謝耀樟呼氣所含酒精濃
     度為每公升0.61毫克、乙○○呼氣所含酒精濃度則為每公升
@@ -232,7 +125,7 @@ function openwin(URL,arguments,width,height)
     後，雙方即下車處理，其看見「謝耀樟自駕駛座下車；被告
     則自副駕駛座下車」，其所搭載乘客即證人許輝煌與謝耀樟
     發生衝突，其即上前先將證人許輝煌拉開，再去車內欲取出
-    警示用三角架，此時證人<font color='red'>徐志榮</font>所駕駛之計程車即自後再撞
+    警示用三角架，此時證人徐志榮所駕駛之計程車即自後再撞
     到3131-EL 號自用小客車等語在卷。至證人許輝煌於前案偵
     查、審理時則亦曾到庭結稱：車禍發生後，伊率先下車欲找
     對方駕駛理論，即見「謝耀樟自駕駛座下來」，伊尚未開口
@@ -256,7 +149,7 @@ function openwin(URL,arguments,width,height)
     以彼2 證人於車禍發生後之第一時間所親眼目睹「自3131-E
     L 號自用小客車駕駛座」離車之人，均係被告之夫「謝耀樟
     」其人？
-  2.次觀證人<font color='red'>徐志榮</font>於前案偵查、審理中，亦曾證述略以：伊駕
+  2.次觀證人徐志榮於前案偵查、審理中，亦曾證述略以：伊駕
     駛計程車自後追撞3131-EL 號自用小客車以後，伊看到被告
     已在車外，其後方目睹「謝耀樟即從駕駛座的門出來」，「
     謝耀樟」並將伊拉到一旁告稱「等一下警察來就說是乙○○
@@ -271,34 +164,34 @@ function openwin(URL,arguments,width,height)
     可以確認車子應該是由謝耀樟駕駛無誤」等語在卷。據此對
     照被告經施以呼氣酒精濃度測試結果，並無酒精反應，此觀
     前案卷附被告酒精濃度測試紙所載之側定值（0 ）即明。則
-    「謝耀樟係為圖免一己酒駕刑責，方唆擺證人<font color='red'>徐志榮</font>為上開
+    「謝耀樟係為圖免一己酒駕刑責，方唆擺證人徐志榮為上開
     內容之虛偽陳述」，乃至「謝耀樟方為肇事車輛駕駛人」等
-    事實，均已不言可喻。（至證人蕭文盛即製作證人<font color='red'>徐志榮</font>警
+    事實，均已不言可喻。（至證人蕭文盛即製作證人徐志榮警
     詢筆錄之國道公路警察局第一警察隊汐止分隊員警雖於本院
-    審理時到庭證述，於製作證人<font color='red'>徐志榮</font>筆錄時，並未看到謝耀
-    樟對證人<font color='red'>徐志榮</font>使眼色等語，而與證人<font color='red'>徐志榮</font>證述謝耀樟有
-    此舉止之情節不同。惟謝耀樟既希望證人<font color='red'>徐志榮</font>向警員為不
+    審理時到庭證述，於製作證人徐志榮筆錄時，並未看到謝耀
+    樟對證人徐志榮使眼色等語，而與證人徐志榮證述謝耀樟有
+    此舉止之情節不同。惟謝耀樟既希望證人徐志榮向警員為不
     實之陳述，自無使其使眼色之舉止遭警發覺之理，是證人蕭
-    文盛未查覺此情，乃合於常情，要難以之否定證人<font color='red'>徐志榮</font>證
+    文盛未查覺此情，乃合於常情，要難以之否定證人徐志榮證
     言之信憑性。）
   3.本案關鍵證人即徐國瑞證稱「於車禍發生後，謝耀樟未再返
     回3131-EL 號自用小客車」等情節，雖與證人許輝煌於前案
-    審理時之所證，及證人<font color='red'>徐志榮</font>於前案偵查、審理中之所證內
+    審理時之所證，及證人徐志榮於前案偵查、審理中之所證內
     容不符。然觀諸證人徐國瑞係駕駛人，於車禍後不僅要下車
     為緊急安全之處置，以防後車追撞，復要排解證人許輝煌與
-    謝耀樟間之爭執，其後又發生證人<font color='red'>徐志榮</font>在後追撞3131-EL
+    謝耀樟間之爭執，其後又發生證人徐志榮在後追撞3131-EL
     號自用小客車之連環車禍，衡其時間之短瞬、事發之匆促，
     倘猶責令證人徐國瑞應就關此前後之細節詳為觀察，自客觀
     以言，未免強人所難。又證人許輝煌於前案偵查中證稱，證
-    人<font color='red'>徐志榮</font>所駕車輛自後撞到3131-EL 號自用小客車時，沒有
+    人徐志榮所駕車輛自後撞到3131-EL 號自用小客車時，沒有
     人在3131-EL 號自用小客車內等情，固亦與證人徐國瑞上開
     證述撞到3131-EL 號自用小客車時，謝耀樟在車內等語不符
     ，惟證人許輝煌於前案審理時既已明確證稱「謝耀樟所駕車
     輛與證人徐國瑞所駕車輛發生車禍後，謝耀樟有再次返回所
     駕車輛內」，而謝耀樟復於前案審理時自承「伊再次返回車
-    內時，方遭證人<font color='red'>徐志榮</font>自後追撞」，據此推敲，證人許輝煌
-    關於謝耀樟返回3131-EL 號自用小客車及該車遭證人<font color='red'>徐志榮
-    </font>自後追撞之先後順序所為描述，應係出於記憶之錯誤，而非
+    內時，方遭證人徐志榮自後追撞」，據此推敲，證人許輝煌
+    關於謝耀樟返回3131-EL 號自用小客車及該車遭證人徐志榮
+    自後追撞之先後順序所為描述，應係出於記憶之錯誤，而非
     可與「故為虛偽之陳述」等量齊觀。按證人之陳述有部分前
     後不符，或相互間有所歧異時，究竟何者為可採，法院仍得
     本其自由心證予以斟酌，非謂一有不符或矛盾，即應認其全
@@ -321,10 +214,10 @@ function openwin(URL,arguments,width,height)
     、誠實意願、嚴謹程度及利害關係之不同，而有對相同事物
     異其供述之情形發生，而其歧異之原因，未必絕對係出於虛
     偽所致（最高法院92年度臺上字第4387號判決意旨參照）。
-    即就本案情節而論，證人徐國瑞、<font color='red'>徐志榮</font>上開證述內容之歧
+    即就本案情節而論，證人徐國瑞、徐志榮上開證述內容之歧
     異，既或係出於觀察不清，或係出於記憶錯誤，尤以俱屬與
     待證事實渺不相關之枝微末節，而無涉於犯罪主要事實之認
-    定，則本院當亦不能據此摒棄證人<font color='red'>徐志榮</font>、許輝煌2 人證述
+    定，則本院當亦不能據此摒棄證人徐志榮、許輝煌2 人證述
     之證據價值，即彼2 證人於前案所為之證述，之於本案犯罪
     事實證明力之具備，當亦毋待贅言。
   4.末以，證人陳諾詩於前案審理時雖證稱：95年1 月7 日與謝
@@ -385,7 +278,7 @@ function openwin(URL,arguments,width,height)
     項所列各款規定之適用，是其當屬「應予減刑」之案件。爰
     依中華民國九十六年罪犯減刑條例第七條、第二條第一項第
     三款規定，就所宣告之有期徒刑減其刑期二分之一，併參酌
-    法院辦理九十六年減刑案件應行注意事項<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F69C2A0A00000040.GIF" />所揭示意旨，於
+    法院辦理九十六年減刑案件應行注意事項所揭示意旨，於
     本判決之主文項下同時諭知其宣告刑及減得之刑。惟本案被
     告所犯刑法第一百六十八條之罪，既係「七年以下有期徒刑
     之罪」，且中華民國九十六年罪犯減刑條例第二條第一項規
@@ -427,86 +320,11 @@ function openwin(URL,arguments,width,height)
 刑法第167條
 配偶、五親等內之血親或三親等內之姻親圖利犯人或依法逮捕拘
 禁之脫逃人，而犯第164條或第165條之罪者，減輕或免除其刑。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWKLD\CRIMINAL\9608\29\KLDM968T.073] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000489&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c489%2c20070829%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=489&jdate=960829&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c489%2c20070829%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=489&jdate=960829&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c489%2c20070829%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','489','960829','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="徐志榮">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="徐志榮">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]96,訴,489,20070829,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]96
+[*jcase*]訴
+[*jno*]489
+[*jdate*]960829
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-101金訴11</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共19
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1020903&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1020903&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e9%87%91%e8%a8%b4','11','1020903','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,金訴,11</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020903</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反銀行法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　 101年度金訴字第11號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1020903&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1020903&jcheck=1
+[*裁判字號*]101,金訴,11
+[*裁判日期*]1020903
+[*裁判案由*]違反銀行法等
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　 101年度金訴字第11號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　鄭正春
 選任辯護人　熊賢祺律師
@@ -549,7 +442,7 @@ function openwin(URL,arguments,width,height)
     南屯路上某棟大樓的9樓簽的，當時林德耀也有在場等語(見
     臺灣臺中地方法院檢察署101年度偵字第10197號卷(一)第239-
     240頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />、證人張識於101年5月15日在警詢中、101年7月4日在偵查中
+、證人張識於101年5月15日在警詢中、101年7月4日在偵查中
     均證述：伊與朋友林玉一起投資，有簽立「杯式飲料自動販
     賣機合作經營契約書」；伊跟謝快達與蔡秀麗簽訂。在100
     年11月18日在臺北市中山區○○街00號（活麗自動公司）所
@@ -561,7 +454,7 @@ function openwin(URL,arguments,width,height)
     計收到27,500元；都是活麗公司轉帳至伊的國泰世華銀行帳
     戶等語(見臺灣臺中地方法院檢察署101年度偵字第10197號
     卷(三)第11-13、74頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />、證人林玉於101年5月15日在警詢中、101年7月4日在偵查中
+、證人林玉於101年5月15日在警詢中、101年7月4日在偵查中
     均證述：伊有簽立「杯式飲料自動販賣機合作經營契約書」
     ；伊跟謝快達與蔡秀麗簽訂。在100年11月18日在臺北市中
     山區○○街00號3樓（活麗自動公司）所簽訂。並簽立杯式
@@ -576,7 +469,7 @@ function openwin(URL,arguments,width,height)
     每月利潤7,500元都是活麗公司直接以郵局轉帳至伊郵局存
     摺等語(見臺灣臺中地方法院檢察署101年度偵字第10197號
     卷(三)第18-20、77頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />、證人林明憲於101年5月14日在警詢中、101年7月4日在偵查
+、證人林明憲於101年5月14日在警詢中、101年7月4日在偵查
     中均證述：伊有簽立「杯式飲料自動販賣機合作經營契約書
     」；伊跟謝快達與蔡秀麗簽訂。在100年3月8日在臺北市中
     山區錦州街（活麗公司）所簽訂。並簽立杯式飲料自動販賣
@@ -591,7 +484,7 @@ function openwin(URL,arguments,width,height)
     公司會計蔡婉貞直接以郵局轉帳至伊的郵局存摺等語(見臺
     灣臺中地方法院檢察署101年度偵字第10197號卷(三)第29-31
     、83-84頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />、證人黃清一於101年5月14日在警詢中、101年7月4日在偵查
+、證人黃清一於101年5月14日在警詢中、101年7月4日在偵查
     中均證述：伊有簽立「杯式飲料自動販賣機合作經營契約書
     」；伊與謝快達所簽訂。在99年12月1日活麗公司所簽訂；
     伊簽訂契約書沒有人介紹，是謝快達一直向伊推銷的；伊是
@@ -607,7 +500,7 @@ function openwin(URL,arguments,width,height)
     看契約有寫，伊還覺得很有制度；伊不知道利潤如何計算。
     伊只知道2年就結束，而且錢也不是拿來給伊，是直接匯入
     銀行等語(見本院卷(三)第187─189頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5762A0A00000040.GIF" />、證人汪道盛於101年7月12日在警詢中、101年7月4日在偵查
+、證人汪道盛於101年7月12日在警詢中、101年7月4日在偵查
     中均證述：活麗公司有招募股票情節，並伊有認購活麗公司
     股票；伊有簽立「杯式飲料自動販賣機合作經營契約書」；
     伊跟謝快達簽訂。在100年11月3日在臺中市市○路00號3樓
@@ -619,7 +512,7 @@ function openwin(URL,arguments,width,height)
     交給「達麗國際股份資訊有限公司」現金共計15萬元；伊都
     沒領到錢等語(見臺灣臺中地方法院檢察署101年度偵字第10
     197號卷(三)第113-116、128-129頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />、證人范林君於101年7月12日在警詢中證述：活麗公司有招募
+、證人范林君於101年7月12日在警詢中證述：活麗公司有招募
     股票情節，並伊有認購活麗公司股票；伊有簽立「杯式飲料
     自動販賣機合作經營契約書」；伊跟謝快達與蔡秀麗簽訂。
     在100年11月10日在臺中市市○路00號3樓簽訂，以3年為限
@@ -685,8 +578,8 @@ function openwin(URL,arguments,width,height)
     出資額…。」；依上開汪道盛等人所立之杯式飲料自動販賣
     機合作經營契約書所示，於其契約書第3、4、8條分別約定
     ：「第三條為確保乙方(即汪道盛等人)獲利穩定，特採固定
-    比率：每萬元半年1500元，一年3500元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />參與金額○元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />領
-    取方式○。應領金額○元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />合作期：○年。第四條合作方式
+    比率：每萬元半年1500元，一年3500元參與金額○元領
+    取方式○。應領金額○元合作期：○年。第四條合作方式
     1.乙方出資由甲方(即活麗公司)團隊負責經營、維護、管理
     …。第八條轉換價格與過戶本合作經營契約到期後，同意給
     予乙方回認轉換股票，每股以32元計算，轉換為股權後享有
@@ -1053,7 +946,7 @@ function openwin(URL,arguments,width,height)
     資金，題係被告謝快達所為，與被告鄭正春無涉無訛。
 ３、證人溫寬蓉、陳炳鴻、鄭建彬分別為下列證述：
 (1)、證人溫寬蓉：
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、於101年5月2日在警詢中證述：伊目前是擔任活麗公司日文
+、於101年5月2日在警詢中證述：伊目前是擔任活麗公司日文
     與英文翻譯，並接待外國客戶，例如日本跟韓國進口自動販
     賣機；目前活麗公司有在營運。主要在北二高速公路及其它
     公共場所擺設自動販賣機為主要營運；伊不知道活麗公司有
@@ -1080,7 +973,7 @@ function openwin(URL,arguments,width,height)
     紹他們投資其實都是假的，所以他叫伊把那些資料刪除，也
     不必讓謝快達知道等語(見臺灣臺中地方法院檢察署101年度
     偵字第10197號卷(二)第44-47頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、於101年5月3日在偵查中證述：伊是活麗公司負責人鄭正春
+、於101年5月3日在偵查中證述：伊是活麗公司負責人鄭正春
     的翻譯，也是秘書，活麗公司是從日本、韓國進口飲料販賣
     機，擺放在國道高速公路休息站等處，銷售還不錯，但是據
     點不多；活麗公司之業務為販賣自動販賣機，此外沒有其他
@@ -1098,7 +991,7 @@ function openwin(URL,arguments,width,height)
     是謝快達或蔡秀麗他們想要的方式，因為這樣成功比較快等
     語(見臺灣臺中地方法院檢察署101年度偵字第10197號卷(二)
     第55-56頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、於101年7月4日在偵查中證述：活麗公司在去年(100年)有跟
+、於101年7月4日在偵查中證述：活麗公司在去年(100年)有跟
     韓國訂4台，日本訂14台，總花費240萬元；去韓國、日本訂
     的自動販賣機，是日本人來推銷，伊再向鄭正春講；日本是
     中古1台10幾萬元，韓國是全新，韓國機型每台買9-10萬元
@@ -1112,7 +1005,7 @@ function openwin(URL,arguments,width,height)
     ，不要非法做生意，就是伊聽別人講他們在臺中招募未上市
     股票，這是不對的行為等語(見臺灣臺中地方法院檢察署101
     年度偵字第10197號卷(三)第66頁背面-67頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、於102年4月2日在本院審理時證述：伊在活麗公司擔任英日
+、於102年4月2日在本院審理時證述：伊在活麗公司擔任英日
     文翻譯；伊上司為鄭正春；伊任職期間，公司跟日本買過1
     次、韓國買過1次，日本買的兩個加起來大概160幾萬。日本
     有14台，如果在加稅金跟運費，金額大概有200萬。韓國36
@@ -1238,14 +1131,14 @@ function openwin(URL,arguments,width,height)
 ２、再被告蔡松霖、唐清山、趙子建、陳薰風、陳茗富即陳映嘉
     並分別為下列供述及證述：
 (1)、被告蔡松霖分別為下列供述及證述：
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、於101年4月25日在警詢中供述：伊於100年9月間，進入活麗
+、於101年4月25日在警詢中供述：伊於100年9月間，進入活麗
     公司臺中分公司任職，擔任執行長職位，後於100年11月中
     旬離職；扣押物「認購分紅一覽表」該份資料是在伊離職後
     之事；於伊離職後，謝快達、蔡秀麗應有持續販售活麗公司
     股票，後續販售情形伊不清楚，詳情應向謝快達、蔡秀麗詢
     明等語(見法務部調查局臺中市調查處卷第72、74頁背面、
     第75頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、於101年7月4日在偵查中證述：伊100年8月20幾號看聯合報
+、於101年7月4日在偵查中證述：伊100年8月20幾號看聯合報
     去應徵，當時因為沒有人，他們就叫伊擔任執行長月薪4萬
     元，同年11月16日公司謝快達要唐清山把我開除；伊質疑公
     司的咖啡機台，就是叫人員投資機台伊認為程序有問題，結
@@ -1255,17 +1148,17 @@ function openwin(URL,arguments,width,height)
     備換人等語(見臺灣臺中地方法院檢察署101年度偵字第1019
     7號卷(三)第61頁背面-62頁)。
 (2)、被告唐清山分別為下列供述：
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、於101年3月28日在警詢中供述：大約在100年9月間，伊在公
+、於101年3月28日在警詢中供述：大約在100年9月間，伊在公
     司(活麗公司)擔任業務員，伊主要業務是推銷杯式自動販賣
     機(設置業務)；伊知道活麗公司股票販售價格每張股票為2
     萬9,000元，股票販售實際詳情要向謝快達、蔡松霖詢明等
     語(見法務部調查局臺中市調查處卷第65頁背面、第66頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、於101年7月4日在偵查中供述：伊100年9月到職；公司相關
+、於101年7月4日在偵查中供述：伊100年9月到職；公司相關
     公告伊沒有經手；投資自動販賣機制度伊沒有參與。是他們
     在談的等語(見臺灣臺中地方法院檢察署101年度偵字第1019
     7號卷(三)第65頁背面、第66頁)。
 (3)、被告趙子建分別為下列供述及證述：
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、於101年3月29日在警詢中供述：伊在100年9月初進入活麗公
+、於101年3月29日在警詢中供述：伊在100年9月初進入活麗公
     司臺中分公司擔任業務員，於100年10月中旬曾代理臺中分
     公司執行長，於100年12月初離職；後來執行長蔡松霖於100
     年11月18日突然離職，特助唐清山指示伊代理執行長，惟當
@@ -1274,7 +1167,7 @@ function openwin(URL,arguments,width,height)
     未領任何工作獎金及分紅，所以僅領取1個月之車馬費4,000
     元而已等語(見法務部調查局臺中市調查處卷第68、69、71
     頁)。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、於101年5月3日在偵查中證述：後面這一個投資方案(少投資
+、於101年5月3日在偵查中證述：後面這一個投資方案(少投資
     賺錢術)，伊沒有找朋友進來等語(見臺灣臺中地方法院檢察
     署101年度偵字第10197號卷(二)第41頁背面)。
 (4)、被告陳薰風於101年5月2日在警詢中供述：警方提供伊活麗
@@ -1739,7 +1632,7 @@ function openwin(URL,arguments,width,height)
 ├───┼──────┼─────┼───┼──────┼──────┼──────┼──────┼────────┼──────┤
 │      │            │          │      │            │            │            │            │財政部臺北市國稅│扣押物編號  │
 │      │            │          │      │            │            │            │            │局年度證券交易稅│2-27-2、扣押│
-│  72  │  100.10.26 │  <font color='red'>張麗芬  </font>│  2   │  29，000   │    14，000 │    58，000 │    28，000 │一般代徵稅額繳款│物名稱股票交│
+│  72  │  100.10.26 │  張麗芬  │  2   │  29，000   │    14，000 │    58，000 │    28，000 │一般代徵稅額繳款│物名稱股票交│
 │      │            │          │      │            │            │            │            │書、活麗公司股票│易資料      │
 ├───┼──────┼─────┼───┼──────┼──────┼──────┼──────┼────────┼──────┤
 │      │            │          │      │            │            │            │            │財政部臺北市國稅│扣押物編號  │
@@ -1764,7 +1657,7 @@ function openwin(URL,arguments,width,height)
 ├───┼──────┼─────┼───┼──────┼──────┼──────┼──────┼────────┼──────┤
 │      │            │          │      │            │            │            │            │財政部臺北市國稅│扣押物編號  │
 │      │            │          │      │            │            │            │            │局年度證券交易稅│2-27-1、扣押│
-│  77  │  100.10.26 │  徐<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E8512A0A00000040.GIF" />郎  │  2   │29，000     │    14，000 │    58，000 │    28，000 │一般代徵稅額繳款│物名稱股票交│
+│  77  │  100.10.26 │  徐郎  │  2   │29，000     │    14，000 │    58，000 │    28，000 │一般代徵稅額繳款│物名稱股票交│
 │      │            │          │      │            │            │            │            │書、活麗公司股票│易資料      │
 ├───┼──────┼─────┼───┼──────┼──────┼──────┼──────┼────────┼──────┤
 │      │            │          │      │            │            │            │            │活麗公司股票    │扣押物編號壹│
@@ -2107,7 +2000,7 @@ function openwin(URL,arguments,width,height)
 │3       │印章(總經理謝快達直 │11  │個  │為活麗公司所有供違反銀行法及證券交│應依刑法第38條第│
 ├────┤式及橫式印章各1個、 │    │    │易法所用之物                      │1項第2款規定諭知│
 │2-6     │限活麗股票專用、江依│    │    │                                  │沒收。          │
-│        │靜、徐<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E8512A0A00000040.GIF" />郎、杜秋菊、│    │    │                                  │                │
+│        │靜、徐郎、杜秋菊、│    │    │                                  │                │
 │        │吳碧貴、謝美麗、蕭方│    │    │                                  │                │
 │        │成、徐瑞堯、郭茂楠印│    │    │                                  │                │
 │        │章各1個)            │    │    │                                  │                │
@@ -2740,86 +2633,12 @@ function openwin(URL,arguments,width,height)
 │    │頁。                                                              │    │
 ├──┼─────────────────────────────────┼──┤
 │6、 │台灣工商企業聯合會第4屆理監事名冊，第60-61、68-69頁。             │    │
-└──┴─────────────────────────────────┴──┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10209\03\TCDM10293.01F] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共19
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1020903&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1020903&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e9%87%91%e8%a8%b4%2c11%2c20130903%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e9%87%91%e8%a8%b4','11','1020903','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="張麗芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="張麗芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴─────────────────────────────────┴──┘
+[*jrecno*]101,金訴,11,20130903,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]金訴
+[*jno*]11
+[*jdate*]1020903
+[*jcheck*]1

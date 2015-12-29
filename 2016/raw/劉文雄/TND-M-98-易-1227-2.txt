@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-98易1227</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=001227&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c1227%2c20100519%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1227&jdate=990519&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e6%98%93%2c1227%2c20100519%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1227&jdate=990519&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e6%98%93%2c1227%2c20100519%2c2','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e6%98%93','1227','990519','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,易,1227</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">990519</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　97年度易字第1900號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c1227%2c20100519%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1227&jdate=990519&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=001227&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e6%98%93%2c1227%2c20100519%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1227&jdate=990519&jcheck=2
+[*裁判字號*]98,易,1227
+[*裁判日期*]990519
+[*裁判案由*]詐欺
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　97年度易字第1900號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　甲○○
 選任辯護人　陳清白律師
@@ -138,7 +31,7 @@ function openwin(URL,arguments,width,height)
     事  實
 一、背景說明：
     丙○○係位於台南縣歸仁鄉○○○段1546等地號共21筆土地
-    及<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3412A0A00000040.GIF" />豬厝段（下稱台厝段）1077-1等地號共7筆土地，合計
+    及豬厝段（下稱台厝段）1077-1等地號共7筆土地，合計
     共28筆土地（下稱系爭土地）之實際所有權人，甲○○、乙
     ○○、辛○○、丁○○、壬○○、癸○○及姓名年籍不詳自
     稱「吳總」（綽號「老兄」）之成年男子（下稱「吳總」）
@@ -152,7 +45,7 @@ function openwin(URL,arguments,width,height)
       不知情的仲介和地主上鉤；
     2.由癸○○、壬○○傳達投資方式為中間人想賺取價差，希
       望地主配合；
-    3.與地主約定：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />用價差作為仲介酬勞；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />仲介酬勞，於買
+    3.與地主約定：用價差作為仲介酬勞；仲介酬勞，於買
       方付款後先行取款。
   (二)操作土地買方：
     1.透過仲介尋找有意賺價差之投資人，以合作買受後轉賣誘
@@ -223,16 +116,16 @@ function openwin(URL,arguments,width,height)
 │    │            │己○○簽訂不動│              │                │
 │    │            │產買賣契約書。│              │                │
 ├──┼──────┼───────┼───────┤                │
-│9   │李依婷（未被│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />李依婷、杜怡│於本案中未獲得│                │
+│9   │李依婷（未被│李依婷、杜怡│於本案中未獲得│                │
 │    │起訴）      │慧介紹己○○與│系爭6000萬元中│                │
 │    │            │「林小姐」認識│之任何利益    │                │
 ├──┼──────┤；            ├───────┤                │
-│10  │杜怡慧（未被│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />「林小姐」復│於本案中未獲得│                │
+│10  │杜怡慧（未被│「林小姐」復│於本案中未獲得│                │
 │    │起訴）      │以介紹土地買賣│系爭6000萬元中│                │
 │    │            │為由介紹「小朱│之任何利益    │                │
 ├──┼──────┤」與己○○認識├───────┤                │
 │11  │「林小姐」即│；            │於本案中未獲得│                │
-│    │林碧蓮（未被│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />「小朱」向徐│系爭6000萬元中│                │
+│    │林碧蓮（未被│「小朱」向徐│系爭6000萬元中│                │
 │    │起訴）      │儷玲稱有中部某│之任何利益    │                │
 ├──┼──────┤財團「吳總」願├───────┤                │
 │12  │「小朱」即朱│意購買台南高鐵│於本案中未獲得│                │
@@ -525,7 +418,7 @@ function openwin(URL,arguments,width,height)
           因為有找到買主「吳總」才來簽這1份買賣契約云云
           。
         (2)辯護意旨稱：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />告訴人買受系爭土地、支付6000萬元並未陷於錯誤
+          告訴人買受系爭土地、支付6000萬元並未陷於錯誤
             ，並不該當刑法第339條詐欺罪之要件，因告訴人
             係專業代書，應具有土地買賣事務之專業能力，其
             對於本案土地買賣之履約條件、轉賣有何風險存在
@@ -542,7 +435,7 @@ function openwin(URL,arguments,width,height)
             總差價係8000多萬元，比本件之6000萬元還高，其
             質疑系爭土地之買賣佣金太高，顯係事後卸責之詞
             云云。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告壬○○係土地仲介業者，並未對告訴人為任何
+          被告壬○○係土地仲介業者，並未對告訴人為任何
             詐欺行為，因被告壬○○與告訴人接觸，僅談到土
             地價格、設定等相關事宜，並未為任何誑騙、不實
             之陳述；告訴人後來反悔不買與系爭土地無任何關
@@ -555,7 +448,7 @@ function openwin(URL,arguments,width,height)
             人明白表示不買定金要沒收，並要告訴人考慮清楚
             ，是被告壬○○自始至終均未對告訴人為任何誑騙
             之行為或言語表示，自無任何詐欺犯行可言云云。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />退而言之，縱告訴人係遭人詐騙，亦與被告壬○○
+          退而言之，縱告訴人係遭人詐騙，亦與被告壬○○
             無關，因被告壬○○對於告訴人另將土地出賣予李
             明利、高明峰等人均毫無所悉，且共同被告甲○○
             於96年3月28日簽名，而由共同被告辛○○寄予告
@@ -588,7 +481,7 @@ function openwin(URL,arguments,width,height)
           載，及本案主要過程發生之時序，詳如附表二所載，
           業經被告癸○○供述在卷，核與證人即告訴人己○○
           、證人即土地代書郭順、證人即合作金庫銀行路竹分
-          行襄理<font color='red'>劉文雄</font>、證人即派駐在台灣銀行岡山分行之警
+          行襄理劉文雄、證人即派駐在台灣銀行岡山分行之警
           員劉上令、證人即即共同被告辛○○、丁○○、宋玫
           橘、壬○○分別於警詢、偵查及本院審理中所為之證
           述相符，並有共同被告甲○○、辛○○寄發之書信影
@@ -652,7 +545,7 @@ function openwin(URL,arguments,width,height)
           丁○○、甲○○、壬○○分別於警詢、偵查及本院審
           理時所為之證述及被告癸○○於偵查及本院審理時所
           為之供述，分別整理如下：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />證人即告訴人己○○之證述：
+          證人即告訴人己○○之證述：
             A.偵查時具結證稱：「（簽約時是否有跟吳總聯絡
               ?）有。他說要我趕快簽，他才來得及在2點簽台
               支本票給我，吳總在簽約過程中一直跟我聯繫並
@@ -861,7 +754,7 @@ function openwin(URL,arguments,width,height)
               對象，還是一個競爭的買方？）他要買的話，應
               該算合作對象」等語〔見院卷97年度易字第1900
               號(三)頁123至151〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />證人即共同被告辛○○之證述：
+          證人即共同被告辛○○之證述：
             A.警詢中證稱：「（若無詐騙意圖為何被害人將6
               千萬元匯入帳戶當日即提領一空?）一個鍾董、
               一個劉先生（宋四哥）他們要先拿第一筆款項，
@@ -1225,7 +1118,7 @@ function openwin(URL,arguments,width,height)
               有先跟己○○認識，甲○○介紹壬○○是她的哥
               哥，介紹我是她的朋友」等語〔見院卷97年度易
               字第1900號(三)頁80至116〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />證人即共同被告丁○○之證述：
+          證人即共同被告丁○○之證述：
             A.警詢時證稱：「（就你所知當初與地主及被害人
               己○○及辛○○、甲○○是如何接觸?）辛○○
               我本身不認識，是透過朋友轉介認識再介紹給綽
@@ -1278,7 +1171,7 @@ function openwin(URL,arguments,width,height)
               的時候，你有看到那台銀色福特的車在現場嗎？
               ）沒有」等語〔見院卷97年度易字第1900號(三)頁
               267至271〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />證人即共同被告甲○○之證述：
+          證人即共同被告甲○○之證述：
             A.警詢時證稱：「（若無詐騙意圖為何被害人將新
               台幣6千萬元匯入帳戶當日即提領一空?）一個鍾
               董、一個劉先生 (宋四哥)他們要先拿走第一筆
@@ -1377,7 +1270,7 @@ function openwin(URL,arguments,width,height)
               他是買主的股東之一，他跟壬○○跟我說他們的
               代表要來跟我簽約」等語〔見院卷97年度易字第
               1900號(三)頁152至165〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />證人即共同被告壬○○於本院審理時具結證稱：「
+          證人即共同被告壬○○於本院審理時具結證稱：「
             （買地的事情，你是怎麼知道？）因為大家都知道
             業界有什麼土地仲介，我本身91年度開始在做土地
             仲介，那時候我在做土地買賣仲介，癸○○跟我說
@@ -1523,7 +1416,7 @@ function openwin(URL,arguments,width,height)
             」、「〔他（指癸○○）為什麼會跟你說這件事情
             到這裡就沒有你的事情了？〕他說公司不買」等語
             〔見院卷97年度易字第1900號(三)頁167至186〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />被告癸○○之供述：
+          被告癸○○之供述：
             A.偵查中供稱：「〔（提示98年度偵字第6868號卷
               第74頁）這張是否你擬稿後交給辛○○發送? 〕
               這封信是林董交給我後，我再交給辛○○的，當
@@ -1587,16 +1480,16 @@ function openwin(URL,arguments,width,height)
         (4)茲互核參酌證人即告訴人己○○、證人即共同被告楊
           家銘、丁○○、甲○○、壬○○之上開證述與被告鍾
           介能之上開供述可知，被告癸○○確有參與本件詐欺
-          之行為分擔：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />邀約共同被告壬○○擔任其仲介，負
+          之行為分擔：邀約共同被告壬○○擔任其仲介，負
           責與賣方即地主及買方即告訴人協調，由共同被告劉
-          醇發以地主家人「宋四哥」之身分與告訴人協商；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />
+          醇發以地主家人「宋四哥」之身分與告訴人協商；
           其將催告信函傳真予不知情之共同被告辛○○，由共
           同被告辛○○打字後，再交由不知情之共同被告宋玫
-          橘簽名後寄予告訴人；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />在地主與告訴人簽約時，由
-          共犯即共同被告壬○○以「宋四哥」的身分在場；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />
+          橘簽名後寄予告訴人；在地主與告訴人簽約時，由
+          共犯即共同被告壬○○以「宋四哥」的身分在場；
           當日自台銀岡山分行領出5700萬元後，由共同被告楊
           家銘、壬○○即將5400萬元裝入其所準備之袋子內，
-          再提至被告癸○○的車上；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />其在高雄縣岡山鎮將
+          再提至被告癸○○的車上；其在高雄縣岡山鎮將
           4830萬元交予「吳總」等情，堪以認定。是被告鍾介
           能確係利用仲介為工具，一人扮演兩角色分為兩線進
           行兩手策略，一方面引誘不知情之仲介及地主上鉤，
@@ -1626,7 +1519,7 @@ function openwin(URL,arguments,width,height)
           丁○○、甲○○、癸○○分別於警詢、偵查及本院審
           理時所為之證述及被告壬○○於偵查及本院審理時所
           為之供述，分別整理如下：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />證人即告訴人己○○於本院審理時具結證稱：「〔
+          證人即告訴人己○○於本院審理時具結證稱：「〔
             妳說有庭上被告壬○○、辛○○在場（指告訴人第
             1次至台南看地時），他們是用什麼身份自居？〕
             宋小哥就說他是地主，辛○○介紹他是地主」、「
@@ -1649,7 +1542,7 @@ function openwin(URL,arguments,width,height)
             放心去簽約，我們就回到屋內，同意壬○○的條件
             」等語〔見院卷97年度易字第1900號(三)頁123至151
             〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />證人即共同被告辛○○之證述：
+          證人即共同被告辛○○之證述：
             A.警詢中證稱：「（若無詐騙意圖為何被害人將6
               千萬元匯入帳戶當日即提領一空?）一個鍾董、
               一個劉先生（宋四哥）他們要先拿第一筆款項，
@@ -1802,7 +1695,7 @@ function openwin(URL,arguments,width,height)
               ？〕…，甲○○有先跟己○○認識，甲○○介紹
               壬○○是她的哥哥，介紹我是她的朋友」等語〔
               見院卷97年度易字第1900號(三)頁80至116〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />證人即共同被告丁○○於本院審理時具結證稱：「
+          證人即共同被告丁○○於本院審理時具結證稱：「
             （4月2日簽約當天你有無在場？）我沒有在場」、
             「（你人在什麼地方？）那一天我載壬○○跟鍾介
             能來台南，壬○○進去簽約，我們在外面等」、「
@@ -1819,7 +1712,7 @@ function openwin(URL,arguments,width,height)
             那裡等一下，我停下來後，看到後面有一輛車開過
             來靠近我的車，癸○○下車把錢拿走」等語〔見院
             卷97年度易字第1900號(三)頁267至271〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />證人即共同被告甲○○之證述：
+          證人即共同被告甲○○之證述：
             A.警詢時證稱：「（若無詐騙意圖為何被害人將新
               台幣6千萬元匯入帳戶當日即提領一空?）一個鍾
               董、一個劉先生 (宋四哥)他們要先拿走第一筆
@@ -1864,7 +1757,7 @@ function openwin(URL,arguments,width,height)
               我知道他是買主的股東之一，他跟壬○○跟我說
               他們的代表要來跟我簽約」等語〔見院卷98年度
               易字第1900號(三)頁152至165〕。
-            <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />證人即共同被告癸○○於本院審理時具結證稱：
+            證人即共同被告癸○○於本院審理時具結證稱：
               「（你本人是股東還是仲介？）一開始是業主叫
               我找土地」、「（你的業主是誰？）『老兄』」
               、「（『老兄』就是吳總？）我起先不知道他叫
@@ -2128,7 +2021,7 @@ function openwin(URL,arguments,width,height)
               ）這就是我們講的『自己殺賺內臟』（台語意旨
               賺自己人的錢）」等語〔見院卷97年度易字第19
               00號(三)頁235至266〕。
-            <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />被告壬○○之供述：
+            被告壬○○之供述：
               A.偵查時供稱：「（丁○○說你有分到400萬元?
                 ）我只有拿到癸○○交給我的90萬元，我會自
                 稱是宋四哥是因為我與甲○○的第四個哥哥之
@@ -2177,14 +2070,14 @@ function openwin(URL,arguments,width,height)
         (3)茲互核參酌證人即告訴人己○○、證人即共同被告楊
           家銘、丁○○、甲○○、癸○○之上開證述與被告劉
           醇發之上開供述可知，被告壬○○確有參與本件詐欺
-          之行為分擔：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />其受共同被告癸○○之邀請擔任仲介
-          ，負責與賣方即地主及買方即告訴人協調；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />由其佯
-          以地主家人「宋四哥」之身分與告訴人協商；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />在地
+          之行為分擔：其受共同被告癸○○之邀請擔任仲介
+          ，負責與賣方即地主及買方即告訴人協調；由其佯
+          以地主家人「宋四哥」之身分與告訴人協商；在地
           主與告訴人簽約時，由其佯以「宋四哥」的身分在場
-          ；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />當日自臺灣銀行岡山分行領出5700萬元後，其與
+          ；當日自臺灣銀行岡山分行領出5700萬元後，其與
           不知情之共同被告辛○○即將5400萬元裝入共犯即共
           同被告癸○○所準備之袋子內，再提至共同被告鍾介
-          能的車上；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />其與共犯即共同被告癸○○一同搭乘不
+          能的車上；其與共犯即共同被告癸○○一同搭乘不
           知情之共同被告丁○○所駕駛之自小客車離開臺灣銀
           行岡山分行，嗣共同被告癸○○在高雄縣岡山鎮將
           4830萬元交予「吳總」後，共同被告癸○○在車上交
@@ -2312,7 +2205,7 @@ function openwin(URL,arguments,width,height)
       資參照）。
     (三)公訴人認被告甲○○、乙○○、辛○○、丁○○、丙○○
       等人涉犯上開共同詐欺取財犯行，無非係以被害人己○○
-      、證人郭順、<font color='red'>劉文雄</font>、劉上令之證述、被告辛○○、丁○
+      、證人郭順、劉文雄、劉上令之證述、被告辛○○、丁○
       ○、甲○○、壬○○、癸○○之部分自白、被告甲○○、
       辛○○所寄發之催促信函影本1份、台灣銀行岡山分行96
       年4月2日錄影光碟1份暨翻拍照片30張、被害人己○○之6
@@ -2337,14 +2230,14 @@ function openwin(URL,arguments,width,height)
           的公司代表徐總即己○○要來簽約，其餘伊都不知道
           ，伊不知道被告癸○○背後的買主是誰等語。
         (2)辯護意旨稱：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />被告甲○○顯然缺乏詐欺之動機，因系爭土地確係
+          被告甲○○顯然缺乏詐欺之動機，因系爭土地確係
             存在，並無不能移轉登記或不能交付之情事等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告甲○○除共同被告辛○○外，與其他人無一認
+          被告甲○○除共同被告辛○○外，與其他人無一認
             識，不可能共組詐欺集團，且因共同被告辛○○說
             要介紹買主予共同被告丙○○認識，被告甲○○才
             於96年2月14日在伊所服務之「阿裕火鍋店」見到
             「鍾董」、「宋四哥」及丁○○等人等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被告甲○○會在催告信函上簽名，是因系爭土地買
+          被告甲○○會在催告信函上簽名，是因系爭土地買
             賣完成後，被告甲○○亦有1份仲介費可拿，被告
             甲○○才會應共同被告辛○○之要求，在催告函上
             簽名，希望趕快成交，且催告信函係仲介人為使交
@@ -2354,9 +2247,9 @@ function openwin(URL,arguments,width,height)
             人表示為了方便與告訴人談價錢，才於共同被告劉
             醇發自稱宋四哥時，被告甲○○才保持沉默未予拆
             穿，不得因此即認被告甲○○共謀詐欺等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />被告甲○○一家如係詐欺共犯，不可能只得到360
+          被告甲○○一家如係詐欺共犯，不可能只得到360
             萬元之款項而已等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />本件如係有意詐騙，宋家亦為被害人，因告訴人係
+          本件如係有意詐騙，宋家亦為被害人，因告訴人係
             因合夥人資金未到位，才無法履約，才遭沒收定金
             ，設告訴人能履約，宋家又非無能力移轉土地，何
             來詐欺之說，又買地資金之籌措，告訴人本應自行
@@ -2384,25 +2277,25 @@ function openwin(URL,arguments,width,height)
           等語。
         (2)辯護意旨稱：被告丙○○僅單純出售土地，而非詐騙
           集團之成員，理由如下：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />被告丙○○想在有生之年處分系爭土地，以公平分
+          被告丙○○想在有生之年處分系爭土地，以公平分
             配予子女，惟系爭土地金額龐大，不易找到買主，
             乃以較為優渥之仲介條件，委託共同被告辛○○予
             以仲介，並授權予共同被告甲○○於仲介帶買主前
             來時代為開門等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告丙○○、乙○○之所以同意自告訴人匯入之第
+          被告丙○○、乙○○之所以同意自告訴人匯入之第
             1期款項中領取現金5700萬元予共同被告辛○○，
             係因共同被告辛○○在簽約前，即經共同被告宋玫
             橘轉達要在第1期款項先支付5700萬元之仲介費，
             且共同被告甲○○亦證稱「我就跟我爸爸說15天後
             ，我們就可以把錢拿到了，我們先給他們」等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被告丙○○、乙○○係委託共同被告辛○○出售系
+          被告丙○○、乙○○係委託共同被告辛○○出售系
             爭土地，系爭土地確係存在，產權清楚，未設定任
             何負擔，更無不能移轉登記或不能交付之情事，且
             告訴人係專業代書，並從事土地仲介開發買賣業務
             十餘年，經其專業判斷後，才向伊購買土地，且簽
             約時均有代書在場，被告丙○○、乙○○實不可能
             詐騙告訴人等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />告訴人係經過專業評估後，認為有厚利可圖，才簽
+          告訴人係經過專業評估後，認為有厚利可圖，才簽
             約買受系爭土地，與共同被告壬○○是否為被告宋
             萬得之家人，有何關係，且縱使被告丙○○、宋國
             安於簽約時並未道破共同被告壬○○非其家人，亦
@@ -2419,17 +2312,17 @@ function openwin(URL,arguments,width,height)
           人有找到轉手要賣的對象，且不曉得告訴人有跟「吳
           總」約出去，還與「高董」見面的事情等語。
         (2)辯護意旨稱：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />告訴人對於系爭土地之價格行情顯然明瞭，且被告
+          告訴人對於系爭土地之價格行情顯然明瞭，且被告
             辛○○身為賣方仲介，依原先與賣方之協議，於買
             賣完成時收取仲介佣金，並無任何詐欺可言等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />系爭土地本身並無任何瑕疵，是告訴人係明暸系爭
+          系爭土地本身並無任何瑕疵，是告訴人係明暸系爭
             土地確有開發價值始願購買，告訴人認為購入系爭
             土地確可有相當之獲利，足徵被告辛○○並未施用
             詐術詐騙告訴人，告訴人亦未陷於錯誤等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被告辛○○僅係單純仲介，210萬元係仲介所得，
+          被告辛○○僅係單純仲介，210萬元係仲介所得，
             本件係一般正常買賣，被告辛○○並未施用詐術詐
             騙告訴人等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />在交易過程中被告辛○○充當賣方代表，有人帶地
+          在交易過程中被告辛○○充當賣方代表，有人帶地
             時配合買方看地，此係居於賣方仲介人之責任，縱
             共同被告癸○○與「吳總」、「高明峰」早有合謀
             虛構「高明峰」為第二手假買主詐騙告訴人，惟被
@@ -2448,9 +2341,9 @@ function openwin(URL,arguments,width,height)
           癸○○與共同被告辛○○認識，並有時候載送共同被
           告癸○○處理一些事情等語。
         (2)辯護意旨稱：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />本件地主與被告丁○○等人係「吳總」兩線操作下
+          本件地主與被告丁○○等人係「吳總」兩線操作下
             之工具等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />告訴人係從事不動產交易經驗豐富之專業代書，甚
+          告訴人係從事不動產交易經驗豐富之專業代書，甚
             至是從事「民間放款」者，事前又親自履勘系爭土
             地，對於系爭土地之價值應有相當之評估與認知，
             且告訴人如認系爭土地並無「吳總」所稱轉買予其
@@ -2460,18 +2353,18 @@ function openwin(URL,arguments,width,height)
             履約之風險，告訴人明知有此風險，且亦明知土地
             價值不足，猶甘願冒險出資，自出於欲對「轉賣之
             對象」詐取差價之意圖，無陷於錯誤可言等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />若告訴人認為系爭土地有「吳總」所稱欲轉賣其他
+          若告訴人認為系爭土地有「吳總」所稱欲轉賣其他
             股東之價值，則地主將土地以合理之價格出售，並
             無詐欺可言，事後告訴人與其擬投資之對象發生糾
             紛，亦與賣方無關等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />被告丁○○僅單純為共同被告癸○○牽線認識賣方
+          被告丁○○僅單純為共同被告癸○○牽線認識賣方
             仲介辛○○，被告丁○○自共同被告癸○○處取得
             90萬元為合法取得之服務費，且被告丁○○完成牽
             線後，即不再介入本件土地買賣，僅偶爾受共同被
             告癸○○之委託擔任司機前往台南，對於共同被告
             癸○○、壬○○以如何之手段使買賣成立均不知情
             ，顯無詐欺犯行等語；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />告訴人不否認系爭土地有每分地340萬元之價值，
+          告訴人不否認系爭土地有每分地340萬元之價值，
             且還欲以每分地410萬元售予高明鋒，足證告訴人
             係認為系爭土地有此價值，且告訴人身為專業代書
             ，自應熟悉此種短時間高額獲利之不動產買賣操作
@@ -2481,7 +2374,7 @@ function openwin(URL,arguments,width,height)
             況告訴人如順利支付價金即可取得系爭土地所有權
             ，若土地有其預計之價值，告訴人並未受任何損失
             ；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />本件地主及仲介，均只是單純出面想促成本件買賣
+          本件地主及仲介，均只是單純出面想促成本件買賣
             成立以獲取應得利益，告訴人亦係希望藉此買賣而
             獲取差價利潤，則有問題者應係「吳董」或「老兄
             」，被告丁○○僅係遭利用之工具等語。
@@ -2504,11 +2397,11 @@ function openwin(URL,arguments,width,height)
           是以，被告丁○○不無可能僅係間接正犯底下被利用
           之工具，如公訴人認被告丁○○係參與之共同正犯，
           自應舉證證明：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />被告丁○○對於有罪共犯操縱買賣雙方仲介之事實
+          被告丁○○對於有罪共犯操縱買賣雙方仲介之事實
             均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />被告丁○○對於有罪共犯與告訴人間之交涉、買賣
+          被告丁○○對於有罪共犯與告訴人間之交涉、買賣
             契約均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />被告丁○○明知有罪共犯不會履行與告訴人間之買
+          被告丁○○明知有罪共犯不會履行與告訴人間之買
             賣契約。
         (3)證人即告訴人己○○於本院審理中具結證稱：「（妳
           本身是否做不動產買賣投資的行業？）我之前有地政
@@ -2531,7 +2424,7 @@ function openwin(URL,arguments,width,height)
           依其所述甚至是從事「民間放款」者，事前又親身履
           勘過系爭土地，對於系爭土地之價值確有相當之評估
           與認知，準此可知：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />若告訴人認為系爭土地並無有罪共犯所稱欲轉賣其
+          若告訴人認為系爭土地並無有罪共犯所稱欲轉賣其
             他股東之價值，則告訴人對於該「欲轉賣之對象（
             高明峰）」豈非具有共犯詐欺之意圖? （告訴人甚
             至要求賣方在有人詢問時高報售價）或者，告訴人
@@ -2540,7 +2433,7 @@ function openwin(URL,arguments,width,height)
             量。其明知有此風險，且亦明知土地價值不足，猶
             甘願冒險出資，自無因為被告丁○○而陷於錯誤可
             言。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />若告訴人認為系爭土地有有罪共犯所稱欲轉賣其他
+          若告訴人認為系爭土地有有罪共犯所稱欲轉賣其他
             股東之價值，則地主將土地以該價值出售，自屬合
             理，並無對告訴人詐欺可言。事後告訴人與其擬共
             同合作投資之人發生糾紛，自與賣方即地主共同被
@@ -2635,7 +2528,7 @@ function openwin(URL,arguments,width,height)
           組買方會出現了，催促妳趕快下一個決定。妳知道有
           這種促銷手法嗎？）是有沒有錯」等語〔見院卷97年
           度易字第1900號卷(三)頁123至151〕，可知：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />告訴人自行與「吳總」取得聯繫後，認為此人與林
+          告訴人自行與「吳總」取得聯繫後，認為此人與林
             碧蓮先前所提及之金主背景相似，但因慮及林碧蓮
             、朱貴宏若知悉伊繼續要買系爭土地會要求收取佣
             金，遂亦不向林碧蓮確認「吳總」身分；又為免地
@@ -2647,7 +2540,7 @@ function openwin(URL,arguments,width,height)
             ，致己陷於日後買方即「高董」無法履約之風險，
             此疏失固係因有罪共犯施詐所致，但其自身未予查
             證之嚴重疏失亦無法解免。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />96年3月30日，告訴人與「吳總」在台中高鐵站見
+          96年3月30日，告訴人與「吳總」在台中高鐵站見
             面，告訴人主動告知願意幫忙購地，並與「吳總」
             談到1分地400萬元價款，並約隔天3月31日與「高
             董」（高明峰）簽約。96年3月31日，告訴人、「
@@ -2718,7 +2611,7 @@ function openwin(URL,arguments,width,height)
           以每分地340萬元向賣方買進，係基於告訴人己○○
           自身充分之自由判斷下所決定，要非有罪被告以外之
           被告有何施詐而陷於錯誤下所決定之價格。
-        (7)<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />依證人即告訴人己○○於本院審理中具結證稱：「
+        (7)依證人即告訴人己○○於本院審理中具結證稱：「
             （妳在跟乙○○他們家的人談買賣土地的時候，27
             日已經談一些細節有簽了意願書，那時候有跟對方
             討論說仲介費要怎麼給嗎？）我是林碧蓮、朱貴宏
@@ -2734,7 +2627,7 @@ function openwin(URL,arguments,width,height)
             6000萬元中之5700萬元，只要地主與仲介約定好，
             亦非不符常理，自不能執此資為有罪被告以外之被
             告不利認定之依據。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />依證人即告訴人己○○於本院審理中具結證稱：「
+          依證人即告訴人己○○於本院審理中具結證稱：「
             （妳在付第一期頭期的訂金6000多萬元這麼大筆的
             金額的時候，有沒有跟乙○○那邊的人要求要有一
             些保障？）…，這中間我比較擔心買方會不會不買
@@ -2778,14 +2671,14 @@ function openwin(URL,arguments,width,height)
           ，本件實由「吳總」與「高董」主謀，與共同被告鍾
           介能、壬○○共謀，利用不知情之仲介為工具，趁地
           主老實配合之機會，分為兩線進行「兩手策略」：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />操作土地賣方：
+          操作土地賣方：
             A.由癸○○散佈找買地之消息，並勾結知情之劉醇
               發，以使不知情的仲介和地主上鉤；
             B.由癸○○、壬○○傳達投資方式為中間人想賺取
               價差，希望地主配合；
             C.與地主約定：a.用價差作為仲介酬勞；b.仲介酬
               勞為買方付款後即先行取款。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />操作土地買方：
+          操作土地買方：
             A.透過仲介尋找有意賺價差之投資人（如本件之告
               訴人），以合作買受後轉賣誘人上鉤；
             B.分飾最後買方角色，使投資人即告訴人信其可以
@@ -2796,7 +2689,7 @@ function openwin(URL,arguments,width,height)
           甲○○、壬○○、癸○○分別於本院審理時所為之證
           述及被告丁○○於本院審理時所為之供述，分別整理
           如下：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />證人即告訴人己○○於本院審理時具結證稱：「（
+          證人即告訴人己○○於本院審理時具結證稱：「（
             妳是怎麼去那一塊土地看地，妳這邊是誰聯繫的？
             ）是李依婷跟杜怡慧她們找朱貴宏、林碧蓮帶我去
             ，是杜怡慧開車帶我去現場，現場來的時候，就有
@@ -2833,7 +2726,7 @@ function openwin(URL,arguments,width,height)
             見過」、「（名字也是後來妳告發的時候，妳才知
             道這個人？）是，我才知道還有這個人」等語〔見
             院卷97年度易字第1900號卷(三)頁123至151〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />證人即共同被告辛○○於本院審理時具結證稱：「
+          證人即共同被告辛○○於本院審理時具結證稱：「
             我們剛剛看的光碟那一天，扣掉銀行的人員以外，
             總共有誰一起到台銀那邊領款？）我、甲○○、宋
             萬得、乙○○、癸○○、壬○○」、「（還有誰是
@@ -2860,7 +2753,7 @@ function openwin(URL,arguments,width,height)
             好像只是司機」、「（去岡山台銀的時候，丁○○
             有無一起去？）我沒有印象」等語〔見院卷97年度
             易字第1900號卷(三)頁80至83、頁84至88、111〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />證人即共同被告甲○○於本院審理時具結證稱：「
+          證人即共同被告甲○○於本院審理時具結證稱：「
             （妳是怎麼認識丁○○的？）是辛○○介紹的」、
             「（什麼時候，在那邊？96年2月14日晚上，在我
             上班的牛肉火鍋店見面的」、「（現場有誰？）現
@@ -2892,7 +2785,7 @@ function openwin(URL,arguments,width,height)
             伯成在這一件買賣中是什麼身份？）鍾董第一次跟
             我介紹他是司機」等語〔見院卷97年度易字第1900
             號卷(三)頁152至155〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />證人即共同被告壬○○於本院審理時具結證稱：「
+          證人即共同被告壬○○於本院審理時具結證稱：「
             （癸○○有告訴你丁○○也是這一件買賣的仲介嗎
             ？）沒有講到這個」、「（他沒有告訴你？）沒有
             」、「（你有看過丁○○在整個土地的買賣過程中
@@ -2917,7 +2810,7 @@ function openwin(URL,arguments,width,height)
             （都是誰在談？）剛開始是癸○○在說比較多」、
             「（丁○○都沒有跟地主談話？）比較少」等語〔
             見院卷97年度易字第1900號卷(三)頁170至171〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />證人即共同被告癸○○於本院審理時具結證稱：「
+          證人即共同被告癸○○於本院審理時具結證稱：「
             （這一件你是如何找到丁○○？）一開始都沒有頭
             緒的時候，我去找丁○○，我就把這個訊息給他，
             因為我知道他有在做這方面的工作」、「（你之前
@@ -3035,7 +2928,7 @@ function openwin(URL,arguments,width,height)
             的階段是他引進的，所以他也有處理一些事？）是
             」等語〔見院卷97年度易字第1900號卷(三)頁240至
             244、頁257至266〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />被告丁○○於本院審理時供稱：「（90萬元你是從
+          被告丁○○於本院審理時供稱：「（90萬元你是從
             誰那裡取得？）癸○○」、「（那是算什麼錢？）
             應該是算我介紹牽線的錢」、「（你牽什麼人跟什
             麼人？）我介紹胡代書認識辛○○去仲介這塊土地
@@ -3068,7 +2961,7 @@ function openwin(URL,arguments,width,height)
             雄這邊還有工作要做，不然你們就自己開我的車上
             去，所以我沒有每次都有上來台南」等語〔見院卷
             97年度易字第1900號卷(三)頁303至304〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />茲參酌證人即即告訴人己○○、證人即共同被告楊
+          茲參酌證人即即告訴人己○○、證人即共同被告楊
             家銘、甲○○、壬○○、癸○○之上開證述與被告
             丁○○之上開供述，互核相符，是被告丁○○在共
             同被告癸○○與辛○○及地主等人之商談過程，被
@@ -3135,11 +3028,11 @@ function openwin(URL,arguments,width,height)
           ，是以，被告辛○○不無可能僅係間接正犯底下被利
           用之工具，如公訴人認被告辛○○係參與之共同正犯
           ，自應舉證證明：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />被告辛○○對於有罪共犯操縱買賣雙方仲介之事實
+          被告辛○○對於有罪共犯操縱買賣雙方仲介之事實
             均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />被告辛○○對於有罪共犯與告訴人間之交涉、買賣
+          被告辛○○對於有罪共犯與告訴人間之交涉、買賣
             契約均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />被告辛○○明知有罪共犯不會履行與告訴人間之買
+          被告辛○○明知有罪共犯不會履行與告訴人間之買
             賣契約。
         (3)本件告訴人以每分地340萬元之價格與地主簽約，係
           告訴人認為有此價值且自行殺價後所接受之價格，致
@@ -3150,7 +3043,7 @@ function openwin(URL,arguments,width,height)
         (4)茲將證人即告訴人己○○、證人即共同被告甲○○、
           丁○○、壬○○、癸○○分別於本院審理時所為之證
           述及被告辛○○於時所為之供述，分別整理如下：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />證人即告訴人己○○於本院審理中具結證稱：「（
+          證人即告訴人己○○於本院審理中具結證稱：「（
             當天去看地有庭上哪一些被告出現在現場？）有楊
             家銘及宋小哥」、「（妳說有庭上被告壬○○、楊
             家銘在場，他們是用什麼身份自居？）宋小哥就說
@@ -3193,7 +3086,7 @@ function openwin(URL,arguments,width,height)
             ？）辛○○幾乎沒有講到什麼話，幾乎都是壬○○
             講」等語〔見院卷97年度易字第1900號卷(三)頁123
             至152〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />證人即共同被告甲○○於本院審理中具結證稱：「
+          證人即共同被告甲○○於本院審理中具結證稱：「
             （妳是怎麼認識丁○○的？）是辛○○介紹的」、
             「（什麼時候，在那邊？）96年2月14日晚上，在
             我上班的牛肉火鍋店見面的」、「（辛○○是怎麼
@@ -3246,12 +3139,12 @@ function openwin(URL,arguments,width,height)
             中1次」、「（辛○○仲介是誰找來的？）95年我
             們有賣一塊土地是辛○○仲介的」等語〔見院卷97
             年度易字第1900號卷(三)頁153至165〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />證人即共同被告丁○○於本院審理中具結證稱：「
+          證人即共同被告丁○○於本院審理中具結證稱：「
             （為什麼你可以分得這麼多錢？）癸○○叫我幫他
             介紹土地，因為外縣市的土地我比較不熟，我是透
             過朋友，剛好胡代書認識辛○○」等語〔見院卷97
             年度易字第1900號卷(三)頁267至270〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />證人即共同被告壬○○於本院審理中具結證稱：「
+          證人即共同被告壬○○於本院審理中具結證稱：「
             （你跟辛○○怎麼認識的？）癸○○介紹的」、「
             （他怎麼介紹，介紹的情形為何？）那時候找我來
             台南看這一塊土地，介紹辛○○是這一塊土地地主
@@ -3273,7 +3166,7 @@ function openwin(URL,arguments,width,height)
             候，有無跟辛○○提到是誰要買這塊土地？）那時
             候他介紹我跟辛○○認識說公司要買的」等語〔見
             院卷97年度易字第1900號卷(三)頁167至186〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />證人即共同被告癸○○於本院審理中具結證稱：「
+          證人即共同被告癸○○於本院審理中具結證稱：「
             （你如何知道這一塊地有人要賣，才來看？）楊家
             銘先生介紹」、「（你傳真那張催告函的用意是什
             麼？）那時候『老兄』跟我碰面的時候，他跟我說
@@ -3332,7 +3225,7 @@ function openwin(URL,arguments,width,height)
             丙○○、乙○○、甲○○、辛○○、癸○○、劉醇
             發」等語〔見院卷97年度易字第1900號卷(三)頁236
             至266〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />被告辛○○於本院審理中供稱：「（你憑什麼拿這
+          被告辛○○於本院審理中供稱：「（你憑什麼拿這
             210萬元？）因為這一塊地一開始就是我在仲介」
             、「（你是哪一邊的仲介？）地主」、「（你是賣
             方那邊的仲介？）對，我認識地主，所以我替地主
@@ -3456,11 +3349,11 @@ function openwin(URL,arguments,width,height)
           是以，被告甲○○不無可能僅係間接正犯底下被利用
           之工具，如公訴人認被告甲○○係參與之共同正犯，
           自應舉證證明：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />被告甲○○對於有罪共犯操縱買賣雙方仲介之事實
+          被告甲○○對於有罪共犯操縱買賣雙方仲介之事實
             均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />被告甲○○對於有罪共犯與告訴人間之交涉、買賣
+          被告甲○○對於有罪共犯與告訴人間之交涉、買賣
             契約均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />被告甲○○明知有罪共犯不會履行與告訴人間之買
+          被告甲○○明知有罪共犯不會履行與告訴人間之買
             賣契約。
         (3)本件告訴人以每分地340萬元之價格與地主簽約，係
           告訴人認為有此價值且自行殺價後所接受之價格，致
@@ -3472,7 +3365,7 @@ function openwin(URL,arguments,width,height)
           丁○○、壬○○、癸○○分別於本院審理時所為之證
           述及被告甲○○於本院審理時所為之供述，分別整理
           如下：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />證人即告訴人己○○於本院審理時具結證稱：「（
+          證人即告訴人己○○於本院審理時具結證稱：「（
             妳是怎麼去那一塊土地看地，妳這邊是誰聯繫的？
             ）是李依婷跟杜怡慧她們找朱貴宏、林碧蓮帶我去
             ，是杜怡慧開車帶我去現場，現場來的時候，就有
@@ -3538,7 +3431,7 @@ function openwin(URL,arguments,width,height)
             講說要快，授權書快點傳真過來，他要請款，我想
             說他很確實要買，那就沒有關係，…」等語〔見院
             卷97年度易字第1900號卷(三)頁123至152〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />證人即共同被告辛○○於本院審理時具結證稱：你
+          證人即共同被告辛○○於本院審理時具結證稱：你
             說是丙○○委託你賣本件土地，為什麼最後是出具
             授權書給甲○○處理這件事物？）我第一次仲介他
             們家土地的時候，我在仲介公司是找甲○○，宋萬
@@ -3613,12 +3506,12 @@ function openwin(URL,arguments,width,height)
             ，我想說第一組來的速度這麼快，應該他們後面還
             有預備好幾組買方要買地」等語〔見院卷97年度易
             字第1900號卷(三)頁80至116〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />證人即共同被告丁○○於本院審理時具結證稱：「
+          證人即共同被告丁○○於本院審理時具結證稱：「
             （你跟甲○○有任何接觸嗎？）沒有」、「（根據
             你瞭解甲○○在本案是地主還是仲介？）應該是地
             主」等語〔見院卷97年度易字第1900號卷(三)頁269
             〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />證人即共同被告壬○○於本院審理時具結證稱：「
+          證人即共同被告壬○○於本院審理時具結證稱：「
             （你是否有跟甲○○說你們有政商關係，土地要變
             更，要他們比較低調？）我沒有講這個」、「（宋
             玫橘有無跟告訴人介紹你是宋四哥？）小哥」、「
@@ -3650,7 +3543,7 @@ function openwin(URL,arguments,width,height)
             ）是，有跟宋家的人討論過」、「（這些討論是誰
             在主導的？）癸○○」等語〔見院卷97年度易字第
             1900號卷(三)頁167至186〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />證人即共同被告癸○○於本院審理時具結證稱：「
+          證人即共同被告癸○○於本院審理時具結證稱：「
             （你說你有跟地主講好要把價錢壓低一點，不賺佣
             金要賺差價，這是你親身跟地主講的嗎？）那是我
             跟『老兄』說的」、「（『老兄』這麼交代，這件
@@ -3700,7 +3593,7 @@ function openwin(URL,arguments,width,height)
             有誰？）丙○○、乙○○、甲○○、辛○○、鍾介
             能、壬○○」等語〔見院卷97年度易字第1900號卷
             (三)頁236至266〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />被告甲○○於本院審理中供稱：「（妳憑什麼拿60
+          被告甲○○於本院審理中供稱：「（妳憑什麼拿60
             萬元？）這塊地都是我在處理，仲介都是找我」、
             「（為什麼都是妳在處理？）因為我住離那塊地比
             較近，爸爸都交代我，要進去那塊地要有鑰匙」、
@@ -3804,11 +3697,11 @@ function openwin(URL,arguments,width,height)
           、乙○○不無可能僅係間接正犯底下被利用之工具，
           如公訴人認被告丙○○、乙○○係參與之共同正犯，
           自應舉證證明：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />被告丙○○、乙○○對於有罪共犯操縱買賣雙方仲
+          被告丙○○、乙○○對於有罪共犯操縱買賣雙方仲
             介之事實均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />被告丙○○、乙○○對於有罪共犯與告訴人間之交
+          被告丙○○、乙○○對於有罪共犯與告訴人間之交
             涉、買賣契約均知悉，並有意使其發生；
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />被告丙○○、乙○○明知有罪共犯不會履行與告訴
+          被告丙○○、乙○○明知有罪共犯不會履行與告訴
             人間之買賣契約。
         (3)本件告訴人以每分地340萬元之價格與地主簽約，係
           告訴人認為有此價值且自行殺價後所接受之價格，致
@@ -3820,7 +3713,7 @@ function openwin(URL,arguments,width,height)
           辛○○、壬○○、癸○○分別於本院審理時所為之證
           述及被告丙○○、乙○○分別於本院審理時所為之供
           述，分別整理如下：
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />證人即告訴人己○○於本院審理時具結證稱：「（
+          證人即告訴人己○○於本院審理時具結證稱：「（
             妳是怎麼去那一塊土地看地，妳這邊是誰聯繫的？
             ）是李依婷跟杜怡慧她們找朱貴宏、林碧蓮帶我去
             ，是杜怡慧開車帶我去現場，現場來的時候，就有
@@ -3886,7 +3779,7 @@ function openwin(URL,arguments,width,height)
             講說要快，授權書快點傳真過來，他要請款，我想
             說他很確實要買，那就沒有關係，…」等語〔見院
             卷97年度易字第1900號卷(三)頁123至152〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />證人即共同被告甲○○於本院審理時具結證稱：「
+          證人即共同被告甲○○於本院審理時具結證稱：「
             〔那時候（指第1次見面時）妳跟丁○○、癸○○
             、壬○○他們見面的時候，妳是如何介紹妳自己？
             〕我是地主的妹妹，因為這塊地是爸爸在做決定的
@@ -3943,7 +3836,7 @@ function openwin(URL,arguments,width,height)
             信催促的部分，妳有沒有告知丙○○跟乙○○？）
             沒有，他們不知道」等語〔見院卷97年度易字第19
             00號卷(三)頁153至165〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />證人即共同被告辛○○於本院審理時具結證稱：「
+          證人即共同被告辛○○於本院審理時具結證稱：「
             （之後告訴人跟乙○○他們簽立買賣意願書的時候
             ，你有無在場？）有」、「（在場還有什麼人？
             ）在場有我、壬○○、甲○○、告訴人帶來的幾個
@@ -3980,7 +3873,7 @@ function openwin(URL,arguments,width,height)
             醇發嗎？）丙○○重聽，我們跟他講的事情有時候
             會詞不達意，我不太記得，乙○○話比較少」等語
             〔見院卷97年度易字第1900號卷(三)頁80至116〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />證人即共同被告癸○○於本院審理時具結證稱：「
+          證人即共同被告癸○○於本院審理時具結證稱：「
             （你有介紹『老兄』給乙○○、丙○○、甲○○認
             識嗎？）沒有」、「（有沒有跟乙○○、丙○○、
             甲○○提起過『老兄』這個人嗎？）沒有」、「（
@@ -4013,7 +3906,7 @@ function openwin(URL,arguments,width,height)
             跟甲○○以外，地主這邊還有誰？）丙○○、宋國
             安、甲○○、辛○○、癸○○、壬○○」等語〔見
             院卷97年度易字第1900號卷(三)頁236至266〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />證人即共同被告壬○○於本院審理時具結證稱：「
+          證人即共同被告壬○○於本院審理時具結證稱：「
             （你在整個買賣的過程當中，有無看過丙○○，什
             麼時候看到？）見過他2次面，1次在牛肉店甲○○
             帶他來，第2次在簽約當時，第3次在丙○○在工作
@@ -4034,7 +3927,7 @@ function openwin(URL,arguments,width,height)
             所約定的土地的價格、付訂金等等，是你跟甲○○
             出面跟告訴人討論出來的？）是」等語〔見院卷97
             年度易字第1900號卷(三)頁167至186〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />被告丙○○於本院審理時供稱：「（如果現在這塊
+          被告丙○○於本院審理時供稱：「（如果現在這塊
             地，原來的買方把錢準備好，要繼續把買賣完成要
             辦過戶，你要不要？）大家現在講好，我都可以，
             我本來就是要賣地的，…」、「（你女兒有發一封
@@ -4059,7 +3952,7 @@ function openwin(URL,arguments,width,height)
             是什麼情形？）我要賣300萬元，他們出價270萬元
             這樣而已，讓他們去發落」等語〔見院卷97年度易
             字第1900號卷(三)頁304至307〕。
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />被告乙○○於本院審理時供稱：「（這塊地決定要
+          被告乙○○於本院審理時供稱：「（這塊地決定要
             賣是誰的意思？）爸爸的意思」、「（這些地在96
             年4月2日正式簽約的時候，這些地是否有債權？）
             沒有」、「（有無地上權？有無讓別人栽種？）沒
@@ -4171,7 +4064,7 @@ function openwin(URL,arguments,width,height)
           此部分有詐欺取財之犯行，既不能證明被告丙○○、
           乙○○之犯罪，依據前述說明，依法即應為被告宋萬
           得、乙○○無罪之諭知。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />、又被告癸○○於偵查中及本院審理中均供稱綽號「老兄」、
+、又被告癸○○於偵查中及本院審理中均供稱綽號「老兄」、
     「吳總」者即為「林仁山」等語，該部分宜由檢察官另行偵
     辦，在此敘明。
 據上論斷，應依刑事訴訟法第299條第1項前段、第301條第1項，
@@ -4195,86 +4088,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處5年以下有期徒刑、拘役或科或併科1千元以下罰金
 。
 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWTND\CRIMINAL\9905\19\TNDM995J.017] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=001227&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c1227%2c20100519%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1227&jdate=990519&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e6%98%93%2c1227%2c20100519%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=1227&jdate=990519&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e6%98%93%2c1227%2c20100519%2c2','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e6%98%93','1227','990519','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]98,易,1227,20100519,2
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]易
+[*jno*]1227
+[*jdate*]990519
+[*jcheck*]2

@@ -1,123 +1,16 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-102交簡1110</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e4%ba%a4%e7%b0%a1&selectedCrmno=001110&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%ba%a4%e7%b0%a1&jno=1110&jdate=1020607&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%ba%a4%e7%b0%a1&jno=1110&jdate=1020607&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e4%ba%a4%e7%b0%a1','1110','1020607','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,交簡,1110</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020607</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">公共危險</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事簡易判決　　　 102年度交簡字第1110號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%ba%a4%e7%b0%a1&jno=1110&jdate=1020607&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e4%ba%a4%e7%b0%a1&selectedCrmno=001110&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%ba%a4%e7%b0%a1&jno=1110&jdate=1020607&jcheck=1
+[*裁判字號*]102,交簡,1110
+[*裁判日期*]1020607
+[*裁判案由*]公共危險
+[*裁判全文*]臺灣彰化地方法院刑事簡易判決　　　 102年度交簡字第1110號
 聲　請　人　臺灣彰化地方法院檢察署檢察官
-被　　　告　<font color='red'>李根政
-</font>上列被告因公共危險案件，經檢察官聲請以簡易判決處刑（102
+被　　　告　李根政
+上列被告因公共危險案件，經檢察官聲請以簡易判決處刑（102
 年度偵字第3814號），本院判決如下：
     主      文
-<font color='red'>李根政</font>服用酒類，不能安全駕駛動力交通工具而駕駛，處拘役伍
+李根政服用酒類，不能安全駕駛動力交通工具而駕駛，處拘役伍
 拾日，如易科罰金，以新臺幣壹仟元折算壹日。
     事實及理由
 一、本案除犯罪事實欄一第7、8行「自小客車」更正為「自小客
@@ -125,7 +18,7 @@ function openwin(URL,arguments,width,height)
     紀錄表」，另補充「證人蕭秀明於警詢之證述」、「仁和醫
     院診斷證明書1 份」外，其餘犯罪事實及證據均引用檢察官
     聲請簡易判決處刑書之記載（如附件）。
-二、核被告<font color='red'>李根政</font>所為，係犯刑法第185 條之3 第1 項服用酒類
+二、核被告李根政所為，係犯刑法第185 條之3 第1 項服用酒類
     不能安全駕駛動力交通工具而駕駛罪。爰審酌被告罔顧政府
     宣導酒後禁止駕車，仍於飲酒後，已達不能安全駕駛程度，
     貿然駕駛車輛，漠視其他用路人之安全，且為警查獲送醫救
@@ -152,24 +45,24 @@ function openwin(URL,arguments,width,height)
 附件：
 臺灣彰化地方法院檢察署檢察官聲請簡易判決處刑書
                                      102年度偵字第3814號
-    被      告  <font color='red'>李根政  </font>男  47歲（民國00年0月00日生）
+    被      告  李根政  男  47歲（民國00年0月00日生）
                         住彰化縣田中鎮○○里○○路0段000
                         巷0號
                         國民身分證統一編號：Z000000000號
 上列被告因公共危險案件，業經偵查終結，認為宜聲請以簡易判
 決處刑，茲將犯罪事實及證據並所犯法條分敘如下：
             犯罪事實
-一、<font color='red'>李根政</font>自民國102年3月21日下午3時許，在彰化縣田中鎮○
+一、李根政自民國102年3月21日下午3時許，在彰化縣田中鎮○
     ○里○○路0段000巷0號之住處內獨自飲用藥酒後，致達不
     能安全駕駛動力交通工具之情況下，仍於當日晚上6時許，
     騎乘車牌號碼000-000號機車前往田中鎮中南路與山腳路口
     之統一便利商店購買鮮乳後欲返回住處，嗣於該日晚上6時
     30分許，途經彰化縣田中鎮○○里○○路0段000號前，因不
     勝酒力，自後方追撞由蕭秀明駕駛之車牌號碼0000- 00號自
-    小客車，導致<font color='red'>李根政</font>人車倒地後，因此受有頭部外傷、右臉
+    小客車，導致李根政人車倒地後，因此受有頭部外傷、右臉
     部擦傷、右手擦傷、右小腿挫裂傷併脛骨開放性骨折等傷害
    （已與蕭秀明和解，未對蕭秀明提出過失傷害告訴）。經警
-    到場處理並於同日晚上7時32分許，對<font color='red'>李根政</font>施以呼氣酒精
+    到場處理並於同日晚上7時32分許，對李根政施以呼氣酒精
     濃度測試，測得其呼氣中酒精濃度為每公升0.55毫克；然由
     其駕車至酒測之時間相距約達1.5小時，依國人體內酒精含
     量之代謝率計算，若於其駕車之初，測試其呼氣酒精濃度，
@@ -177,7 +70,7 @@ function openwin(URL,arguments,width,height)
     r=0.6442mg/l ），始知上情。
 二、案經彰化縣警察局田中分局報告偵辦。
             證據並所犯法條
-一、上揭犯罪事實，業據被告<font color='red'>李根政</font>於警詢及偵查中均坦承不諱
+一、上揭犯罪事實，業據被告李根政於警詢及偵查中均坦承不諱
     ，復有酒精測定紀錄表、刑法第一百八十五條之三案件測試
     觀察紀錄表、汽車駕駛人酒後生理協調平衡檢測紀錄表、道
     路交通事故現場圖、道路交通事故調查報告表(一)(二)、現場照
@@ -210,7 +103,7 @@ function openwin(URL,arguments,width,height)
     降而不慎肇事受傷等情，其顯然已達「不能安全駕駛動力交
     通工具」之程度，是以被告於偵查中之自白與事實相符，本
     案事證明確，被告犯行應堪認定。
-二、核被告<font color='red'>李根政</font>所為係涉犯刑法第185條之3第1項之罪嫌。
+二、核被告李根政所為係涉犯刑法第185條之3第1項之罪嫌。
 三、依刑事訴訟法第451條第1項聲請逕以簡易判決處刑。
     此    致
 臺灣彰化地方法院
@@ -230,86 +123,12 @@ function openwin(URL,arguments,width,height)
 傳喚被告、輔佐人、告訴人、告發人等出庭即以簡易判決處刑；
 被告、被害人、告訴人等對告訴乃論案件如已達成民事和解而要
 撤回告訴或對非告訴乃論案件認有受傳喚到庭陳述意見之必要時
-，請即另以書狀向簡易法庭陳述或請求傳訊。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10206\07\CHDM10267.00E] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e4%ba%a4%e7%b0%a1&selectedCrmno=001110&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%ba%a4%e7%b0%a1&jno=1110&jdate=1020607&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e4%ba%a4%e7%b0%a1&jno=1110&jdate=1020607&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e4%ba%a4%e7%b0%a1%2c1110%2c20130607%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e4%ba%a4%e7%b0%a1','1110','1020607','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="李根政">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="李根政">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+，請即另以書狀向簡易法庭陳述或請求傳訊。
+[*jrecno*]102,交簡,1110,20130607,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]交簡
+[*jno*]1110
+[*jdate*]1020607
+[*jcheck*]1

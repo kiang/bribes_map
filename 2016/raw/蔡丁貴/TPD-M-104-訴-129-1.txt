@@ -1,132 +1,25 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-104訴129</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000129&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c129%2c20151202%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=129&jdate=1041202&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c129%2c20151202%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=129&jdate=1041202&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c129%2c20151202%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','129','1041202','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,129</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041202</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害公務</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　104年度訴字第129號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c129%2c20151202%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=129&jdate=1041202&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000129&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c129%2c20151202%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=129&jdate=1041202&jcheck=1
+[*裁判字號*]104,訴,129
+[*裁判日期*]1041202
+[*裁判案由*]妨害公務
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　104年度訴字第129號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
-被　　　告　<font color='red'>蔡丁貴
-</font>選任辯護人　陳建州律師
+被　　　告　蔡丁貴
+選任辯護人　陳建州律師
 　　　　　　蔡易餘律師
 被　　　告　陳儒逸
 選任辯護人　曾威凱律師
 上列被告等因妨害公務等案件，經檢察官提起公訴（102年度偵
 字第23908號），本院判決如下：
     主  文
-<font color='red'>蔡丁貴</font>共同對於公務員依法執行職務時，施強暴，處有期徒刑肆
+蔡丁貴共同對於公務員依法執行職務時，施強暴，處有期徒刑肆
 月，如易科罰金，以新臺幣壹仟元折算壹日。
 陳儒逸對於公務員依法執行職務時，施強暴，處拘役伍拾玖日，
 如易科罰金，以新臺幣壹仟元折算壹日。
     事  實
-一、<font color='red'>蔡丁貴</font>為公投護臺灣聯盟(下稱公投盟)召集人，向臺北市政
+一、蔡丁貴為公投護臺灣聯盟(下稱公投盟)召集人，向臺北市政
     府警察局中正第一分局(下稱中正一分局)申請於民國102年8
     月3日、4日之9時至22時，在臺北市中正區中山南路(介於青
     島東路和濟南路，即立法院大門南側)集會遊行獲准，於102
@@ -135,18 +28,18 @@ function openwin(URL,arguments,width,height)
     ，臺北市政府警察局內湖分局(下稱內湖分局)則依警察法、
     警察職權行使法、集會遊行法等法律依據，派遣多名員警到
     場維持秩序並防止犯罪之發生，而執行代號為「0803專案勤
-    務」之職務。<font color='red'>蔡丁貴</font>身為該次集會活動之領導人物，竟不思
+    務」之職務。蔡丁貴身為該次集會活動之領導人物，竟不思
     理性和平表達理念，而與現場參與集會之成年民眾數人（不
     包含陳儒逸）共同基於妨害公務之犯意聯絡，於102年8月4
-    日凌晨2時27分許，在立法院大門圍籬外，<font color='red'>蔡丁貴</font>突站立高
+    日凌晨2時27分許，在立法院大門圍籬外，蔡丁貴突站立高
     喊「來，不然我們換ㄟ這邊的警察」、「來、來、ㄟ下去、
     來」等語後，數名成年集會民眾即一同站起來往左側移動，
-    與身穿制服手持盾牌執行職務之員警發推擠，<font color='red'>蔡丁貴</font>並靠近
+    與身穿制服手持盾牌執行職務之員警發推擠，蔡丁貴並靠近
     其中一名站在第一排的男性員警，一直喊著：「推啦、推啦
     ，帶走、帶走、帶走」等語，數名成年集會民眾即湧向該員
-    警前，<font color='red'>蔡丁貴</font>復稱：「拖出去」，並以右手搭載該名員警右
+    警前，蔡丁貴復稱：「拖出去」，並以右手搭載該名員警右
     肩頭，欲將該員警推離，數名成年集會民眾隨即將該名員警
-    往其左側拉扯，導致該名員警往左前方跌倒，<font color='red'>蔡丁貴</font>仍喊稱
+    往其左側拉扯，導致該名員警往左前方跌倒，蔡丁貴仍喊稱
     ：「一個一個拖出去」等語，以此方式與數名成年集會民眾
     共同施強暴於該名正在執行公務之員警。
 二、陳儒逸為參與上開集會遊行活動之一員，於102年8月3日23
@@ -239,8 +132,8 @@ function openwin(URL,arguments,width,height)
       證據排除之情事，復均經依刑事訴訟法第165條踐行書證
       之調查程序，檢察官、被告及辯護人對此部分之證據能力
       亦均不爭執，堪認均有證據能力。
-二、被告<font color='red'>蔡丁貴</font>部分：
-    訊據被告<font color='red'>蔡丁貴</font>固坦承有於102年8月3日、4日到立法院大門
+二、被告蔡丁貴部分：
+    訊據被告蔡丁貴固坦承有於102年8月3日、4日到立法院大門
     外參與上開集會活動之事實，惟矢口否認有何妨害公務犯行
     ，辯稱：伊係公投盟之召集人，長期以來申請在立法院院外
     靜坐，係為即時反應直接民意，當立法院做出任何違反人民
@@ -269,23 +162,23 @@ function openwin(URL,arguments,width,height)
     判決所援用，而妨害公務罪保護之法益為國家法益，係為保
     護公權力之合理執行，國家與人民間之資源及實力存在巨大
     的差距，難認國家會單純因人民抗議之手段而輕易感受到恐
-    懼，進而影響公務員執行職務之順暢，本件被告<font color='red'>蔡丁貴</font>未對
+    懼，進而影響公務員執行職務之順暢，本件被告蔡丁貴未對
     現場之公務員造成任何身體之危害，又其於現場群眾眾多之
     下，不免與各該公務員發生輕微之肢體接觸，然參諸上開實
     務見解，此均不足以評價為刑法第135條之妨害公務行為。
-    3.被告<font color='red'>蔡丁貴</font>當天在現場有表達「來、來、換ㄟ這邊的警察
+    3.被告蔡丁貴當天在現場有表達「來、來、換ㄟ這邊的警察
     」等語，係因一群員警將被告以及群眾以環狀方式包圍起來
-    ，顯有挑釁之意味，被告<font color='red'>蔡丁貴</font>擔心會發生嚴重之暴力狀況
+    ，顯有挑釁之意味，被告蔡丁貴擔心會發生嚴重之暴力狀況
     ，因此才會以稍加強勢之態度請求員警退到立法院門口之第
-    一線，而非包圍群眾，是以被告<font color='red'>蔡丁貴</font>並未有妨害公務之主
-    觀犯意，另請斟酌被告<font color='red'>蔡丁貴</font>係對現行體制面無法改變現狀
-    而須走上街頭表達直接民意等現實狀況，而為被告<font color='red'>蔡丁貴</font>無
+    一線，而非包圍群眾，是以被告蔡丁貴並未有妨害公務之主
+    觀犯意，另請斟酌被告蔡丁貴係對現行體制面無法改變現狀
+    而須走上街頭表達直接民意等現實狀況，而為被告蔡丁貴無
     罪之判決等語，惟查：
-（一）被告<font color='red'>蔡丁貴</font>於102年8月3日至102年8月4日向中正一分局申
+（一）被告蔡丁貴於102年8月3日至102年8月4日向中正一分局申
       請在中山南路(介於青島東路和濟南路)立法院側人行道及
       慢車道集會遊行，並於該日與現場群眾針對核四預算及公
       投等議題表達意見，而與在場員警發生衝突推擠乙情，為
-      被告<font color='red'>蔡丁貴</font>所自承在卷(見本院卷第121頁)，並有中正一
+      被告蔡丁貴所自承在卷(見本院卷第121頁)，並有中正一
       分局集會遊行申請書、集會代理人同意書、臺北市政府工
       務局新建工程處102年7月15日北市工新配字第00000000
       000號書函、中正一分局102年7月23日北市警中正一分督
@@ -333,40 +226,40 @@ function openwin(URL,arguments,width,height)
       生安全之行為，當屬依法執行職務之行為。
 （三）經本院當庭勘驗內湖分局102年8月3日之「0803專案勤務
       」專案蒐證光碟紀錄組別組別(十一)(光碟片編號2，檔案名稱
-      VTS- 01-2)結果為：『102年8月4日2時27分45秒，被告<font color='red'>蔡
-      丁貴</font>及抗議群眾原本聚集坐在立法院大門圍籬外，後被告
-      <font color='red'>蔡丁貴</font>站起來說「來，不然我們換ㄟ這裡的警察」、「來
+      VTS- 01-2)結果為：『102年8月4日2時27分45秒，被告蔡
+      丁貴及抗議群眾原本聚集坐在立法院大門圍籬外，後被告
+      蔡丁貴站起來說「來，不然我們換ㄟ這裡的警察」、「來
       、來、ㄟ下去、來」，周圍抗議群眾一起站起來往左側移
       動，與手持盾牌之警察開始發生推擠；2時28分48秒，被
-      告<font color='red'>蔡丁貴</font>靠近某站在第一排的男性警察，一直喊著「推啦
+      告蔡丁貴靠近某站在第一排的男性警察，一直喊著「推啦
       ，推啦，帶走、帶走、帶走」，抗議群眾湧上該警察面前
       ；2時29分06秒，某位白鬍子的老人連續喊「你怎麼不讓
-      他出去」（臺語），被告<font color='red'>蔡丁貴</font>說出「拖出去」(國語)，
-      被告<font color='red'>蔡丁貴</font>右手搭在該警察右肩頭，欲將該警察推離，隨
+      他出去」（臺語），被告蔡丁貴說出「拖出去」(國語)，
+      被告蔡丁貴右手搭在該警察右肩頭，欲將該警察推離，隨
       後抗議群眾將該警察往其左側拉扯，導致該警察往左前方
-      跌倒，此時蒐證錄影還能聽見被告<font color='red'>蔡丁貴</font>一直喊著「一個
+      跌倒，此時蒐證錄影還能聽見被告蔡丁貴一直喊著「一個
       一個拖出去」』等情(見本院卷第84頁背面、第86頁背面
-      、第87頁)，可證被告<font color='red'>蔡丁貴</font>原先與集會群眾係靜坐抗議
-      之方式，隨後被告<font color='red'>蔡丁貴</font>起身喊稱：「不然我們換ㄟ這裡
+      、第87頁)，可證被告蔡丁貴原先與集會群眾係靜坐抗議
+      之方式，隨後被告蔡丁貴起身喊稱：「不然我們換ㄟ這裡
       的警察」、「帶走帶走」、「一個一個拖出去」等語，在
-      旁群眾亦隨即一同起身與被告<font color='red'>蔡丁貴</font>共同推擠在旁之員警
+      旁群眾亦隨即一同起身與被告蔡丁貴共同推擠在旁之員警
       ，致在場警民陷入一片混亂，一名維持秩序身穿制服的員
-      警因群眾拉扯跌倒等情甚明，被告<font color='red'>蔡丁貴</font>與上開一同起身
+      警因群眾拉扯跌倒等情甚明，被告蔡丁貴與上開一同起身
       推擠員警之民眾數名，自有對依法執行職務之員警施以推
       擠、拉扯至其跌倒之強暴行為，因而妨礙該員警執行公務
       。
-（四）被告<font color='red'>蔡丁貴</font>及其辯護人雖以前詞置辯，然查：
+（四）被告蔡丁貴及其辯護人雖以前詞置辯，然查：
   1、本件內湖分局員警執行「0803專案勤務」為合法執行職務
-     ，業據本院認定如前，被告<font color='red'>蔡丁貴</font>此部分抗辯，已非可採
-     。又被告<font color='red'>蔡丁貴</font>辯以：伊在現場所說之「帶走、帶走」、
+     ，業據本院認定如前，被告蔡丁貴此部分抗辯，已非可採
+     。又被告蔡丁貴辯以：伊在現場所說之「帶走、帶走」、
      「一個一個拖出去」係為指揮現場民眾將不理性之民眾帶
      走，以免警察被民眾攻擊云云，然觀之現場蒐證光碟畫面
-     ，被告<font color='red'>蔡丁貴</font>說完「來，來，我們換ㄟ這裡的警察」，身
-     旁群眾即起而轉身與被告<font color='red'>蔡丁貴</font>共同推擠畫面左方之警察
-     ，並在被告<font color='red'>蔡丁貴</font>表達「帶走、帶走」、「一個一個拖出
+     ，被告蔡丁貴說完「來，來，我們換ㄟ這裡的警察」，身
+     旁群眾即起而轉身與被告蔡丁貴共同推擠畫面左方之警察
+     ，並在被告蔡丁貴表達「帶走、帶走」、「一個一個拖出
      去」等言語後，現場隨即陷入一陣混亂，一名制服員警隨
-     即因現場群眾拉扯而跌倒等情，顯與被告<font color='red'>蔡丁貴</font>上開所辯
-     不相符合。是被告<font color='red'>蔡丁貴</font>前揭所辯詞，均非可採。
+     即因現場群眾拉扯而跌倒等情，顯與被告蔡丁貴上開所辯
+     不相符合。是被告蔡丁貴前揭所辯詞，均非可採。
   2、辯護意旨雖以：解釋刑法妨害公務罪之「強暴脅迫」時，
      應以其結果顯足以影響公務員停止執行職務為判斷標準，
      此亦為最高法院84年度台非字第333號刑事判決所援用云云
@@ -393,21 +286,21 @@ function openwin(URL,arguments,width,height)
      為要件，其所欲保護之法益無非係公務員執行職務之順暢
      ，且不以有足以影響公務員停止執行職務之要件為限，此
      觀刑法第135條第1項規定甚明。本案發生時在場之員警均
-     屬依法執行公務之人，被告<font color='red'>蔡丁貴</font>與數名成年集會民眾以
+     屬依法執行公務之人，被告蔡丁貴與數名成年集會民眾以
      強力推擠、拉扯之方式妨害維持秩序員警之行為，係屬運
      用不法腕力所為之強暴行為，已堪認定。辯護人雖辯以：
      被告係為表達政治性言論，在解釋妨害公務罪之「強暴脅
      迫」要素上，應秉持合乎憲法意旨之法律解釋予以限縮之
-     等語，觀以被告<font color='red'>蔡丁貴</font>為表達對核四公投等公共議題之意
+     等語，觀以被告蔡丁貴為表達對核四公投等公共議題之意
      見，而欲進入立法院陳情抗議乙節，固可認含有象徵性意
-     見表達之內涵，惟被告<font color='red'>蔡丁貴</font>直接對員警人身施以強制力
+     見表達之內涵，惟被告蔡丁貴直接對員警人身施以強制力
      ，而達壓制員警執行公務之方式，顯已逾越國家保護言論
      自由之最大範疇，再者，相較於該強暴手段，被告非不可
      選擇以媒體傳播、網路串聯或於現場以布條、標語載述文
      字等和平方式表達其言論，以說服公眾或對政治人物施壓
      ，本無須以對員警施強暴之手段表達其特定立場，且其上
      開施強暴之行為亦無法表達其特定訴求，自非憲法所保障
-     之言論，是被告<font color='red'>蔡丁貴</font>及辯護人前揭所辯，容非可採。
+     之言論，是被告蔡丁貴及辯護人前揭所辯，容非可採。
 三、被告陳儒逸部分：
     訊據被告陳儒逸固坦承有參與102年8月3日在立法院大門前
     集會，並拉扯當時在場執行勤務員警洪頂翔之衣領及抱住洪
@@ -487,24 +380,24 @@ function openwin(URL,arguments,width,height)
       衣領要求道歉，自難認被告陳儒逸拉扯洪頂翔之衣領係為
       表達上開反核等言論，故辯護意旨與被告陳儒逸自己答辯
       之事實南轅北轍，自非可信。
-四、綜上，本案事證明確，被告<font color='red'>蔡丁貴</font>、陳儒逸之犯行均洵堪認
+四、綜上，本案事證明確，被告蔡丁貴、陳儒逸之犯行均洵堪認
     定，應依法論科。
-五、核被告<font color='red'>蔡丁貴</font>、陳儒逸所為，均係犯刑法第135條第1項妨害
-    公務執行罪。被告<font color='red'>蔡丁貴</font>與上開參與集會之成年民眾數名間
+五、核被告蔡丁貴、陳儒逸所為，均係犯刑法第135條第1項妨害
+    公務執行罪。被告蔡丁貴與上開參與集會之成年民眾數名間
     ，就推擠拉扯執勤員警致其跌倒之強暴行為間，有犯意聯絡
-    及行為分擔，應論以共同正犯。爰審酌被告<font color='red'>蔡丁貴</font>參加集會
+    及行為分擔，應論以共同正犯。爰審酌被告蔡丁貴參加集會
     遊行以表達公共性言論，並身為現場活動之領導人之一，對
     於參與民眾有較高之影響力，未秉持理性溝通、和平協調之
     精神，竟仍挑動民眾向警方施強暴行為尋釁，妨礙員警維持
     現場秩序及執行公務，所為誠有不該，且事後未表露悔意，
-    犯後態度非佳，惟念被告<font color='red'>蔡丁貴</font>參與上開集會活動之初衷係
+    犯後態度非佳，惟念被告蔡丁貴參與上開集會活動之初衷係
     出於對公共議題之關懷，非圖一己之私，且未造成員警傷亡
-    ，所生之損害非鉅，兼衡被告自承<font color='red'>蔡丁貴</font>為博士畢業之智識
+    ，所生之損害非鉅，兼衡被告自承蔡丁貴為博士畢業之智識
     程度，現職自由臺灣黨黨主席及公投盟召集人，以退休金為
     生之生活狀況等一切情狀（見本院卷第13頁、第128頁），
-    就被告<font color='red'>蔡丁貴</font>之部分量處如主文第一項所示之刑，並諭知易
-    科罰金之折算標準。公訴檢察官雖對被告<font color='red'>蔡丁貴</font>具體求刑有
-    期徒刑1年6月，惟其求刑基礎係認定被告<font color='red'>蔡丁貴</font>上涉犯刑法
+    就被告蔡丁貴之部分量處如主文第一項所示之刑，並諭知易
+    科罰金之折算標準。公訴檢察官雖對被告蔡丁貴具體求刑有
+    期徒刑1年6月，惟其求刑基礎係認定被告蔡丁貴上涉犯刑法
     第136條第1項之聚眾妨礙公務首謀罪嫌，然此部分罪名經本
     院認定犯嫌疑不足，而不另為無罪之諭知（詳後述），是公
     訴檢察官之求刑未及審酌上情，誠有過重，尚非可採。復審
@@ -522,11 +415,11 @@ function openwin(URL,arguments,width,height)
     或其他重大危害，本院認為公訴檢察官此部分求刑亦顯有過
     重，容非可採，併此敘明。
 六、不另為無罪之諭知部分
-（一）公訴意旨另以：被告<font color='red'>蔡丁貴</font>參與上開集會遊行，於102年8
+（一）公訴意旨另以：被告蔡丁貴參與上開集會遊行，於102年8
       月3日21時46分許起，持油壓剪破壞立法院南側車道大門
       鋼索，及率眾推拉立法院大門，群眾亦分持油壓剪破壞立
       法院左、右兩側第一、二區圍牆欄杆及連結鋼索之鎖頭。
-      嗣部分欄杆遭群眾破壞拆除後，<font color='red'>蔡丁貴</font>明知警方已在欄杆
+      嗣部分欄杆遭群眾破壞拆除後，蔡丁貴明知警方已在欄杆
       缺口處排成人牆，並手持盾牌阻止群眾進入，勢必須對值
       勤警員施以強暴、脅迫之手段始能進入，仍基於聚眾妨害
       公務之犯意，於同日21時46分許起，持麥克風以「來啦，
@@ -535,9 +428,9 @@ function openwin(URL,arguments,width,height)
       少的地方進去」、「大家去找」等語號召群眾衝入立法院
       ，並於群眾拉扶下站上原欄杆底部之水泥墩，並於同日21
       時50分許，撥開盾牌後跳入警方人牆中，群眾同以強暴之
-      手段用力推擠盾牌，<font color='red'>蔡丁貴</font>進入立法院院區後亦與群眾共
+      手段用力推擠盾牌，蔡丁貴進入立法院院區後亦與群眾共
       同推擠警員，以此強暴方式聚眾妨害警員執行公務，因認
-      被告<font color='red'>蔡丁貴</font>涉犯刑法第135條第1項之妨害公務及同法136
+      被告蔡丁貴涉犯刑法第135條第1項之妨害公務及同法136
       條第1項之首謀聚眾妨害公務罪嫌等語。
 （二）按犯罪事實應依證據認定之，無證據不得認定犯罪事實，
       不能證明被告犯罪者，應諭知無罪之判決，刑事訴訟法第
@@ -563,7 +456,7 @@ function openwin(URL,arguments,width,height)
       於偵查中之供述、內湖分局執行0803專案蒐證記錄組別(五)
       之現場蒐證光碟及翻拍照片、臺灣臺北地方法院檢察署檢
       察官勘驗蒐證紀錄組別(五)編號1之蒐證光碟之勘驗筆錄為
-      其論據。訊據被告<font color='red'>蔡丁貴</font>堅詞否認有何聚眾妨害公務犯行
+      其論據。訊據被告蔡丁貴堅詞否認有何聚眾妨害公務犯行
       ，辯稱：伊當天係針對立法院強行通過核四預算乙事前往
       立法院前抗議，伊當天所稱「來啦、每個門都要有人進去
       」、「大家都在看熱鬧，沒有人要進去」、「你們自己去
@@ -578,35 +471,35 @@ function openwin(URL,arguments,width,height)
       告陳儒逸於審理中供稱：我當天到現場係為參加洪仲丘之
       晚會，且在網路上有看到當天有核四續建之議題，知道在
       立法院門外有這個活動等語(見本院卷第120頁)，此亦為
-      被告<font color='red'>蔡丁貴</font>在偵查、審理中坦認在卷(見偵卷第224頁背面
+      被告蔡丁貴在偵查、審理中坦認在卷(見偵卷第224頁背面
       、本院卷第第120頁)，復參諸現場蒐證光碟翻拍照片所示
       ，當天現場群眾身著「扁案、政治迫害」，並在立法院大
       門鐵欄杆上貼有「停建核四」等情(見本院卷第194頁背面
-      )。足認被告<font color='red'>蔡丁貴</font>發起本次集會遊行之主觀目的，係在
+      )。足認被告蔡丁貴發起本次集會遊行之主觀目的，係在
       抗議立法院欲進行核四公投等公共議題，並非自始為對執
       行公務之員警施強暴行為而聚集群眾。縱使集會抗議之過
-      程中被告<font color='red'>蔡丁貴</font>有與若干民眾對員警施強暴行為（詳前揭
-      有罪判決部分），亦係被告<font color='red'>蔡丁貴</font>臨時起意而為，難認其
-      聚集民眾之原始目的即為妨害公務。又被告<font color='red'>蔡丁貴</font>持油壓
+      程中被告蔡丁貴有與若干民眾對員警施強暴行為（詳前揭
+      有罪判決部分），亦係被告蔡丁貴臨時起意而為，難認其
+      聚集民眾之原始目的即為妨害公務。又被告蔡丁貴持油壓
       剪破壞立法院南側車道大門鋼索，及率眾推拉立法院大門
       ，群眾亦分持油壓剪破壞立法院左、右兩側第一、二區圍
       牆欄杆及連結鋼索之鎖頭等行為，並未施強暴於現場維持
-      秩序員警，且查無積極證據證明被告<font color='red'>蔡丁貴</font>及上開民眾破
+      秩序員警，且查無積極證據證明被告蔡丁貴及上開民眾破
       壞之鋼索、鎖頭為現場執行公務員警所設置或維持秩序之
       用，上開破壞行為自難認對員警執行職務有何影響，應僅
       係涉及毀損罪之範疇（此部分未具合法告訴），而與妨害
-      公務無涉。至於起訴書所指「被告<font color='red'>蔡丁貴</font>於群眾拉扶下站
+      公務無涉。至於起訴書所指「被告蔡丁貴於群眾拉扶下站
       上原欄杆底部之水泥墩，並於同日21時50分許，撥開盾牌
       後跳入警方人牆中」之行為，經本院當庭勘驗內湖分局執
       行0803專案蒐證紀錄組別五、光碟片1，檔案名稱VTS-01
       -3，內容呈：「時間晚間09時50分07秒，先有一上身赤裸
-      之男子站上圍籬水泥墩上，而後右手扶抓著<font color='red'>蔡丁貴</font>左手，
-      幫助<font color='red'>蔡丁貴</font>站上圍籬水泥墩上，同時蒐證畫面內，<font color='red'>蔡丁貴
-      </font>站立之右邊立法院大門圍籬前抗議群眾已經與警察發生推
-      擠，<font color='red'>蔡丁貴</font>站立圍籬水泥墩上，圍籬內之警察手持盾牌抵
-      著圍籬，而後<font color='red'>蔡丁貴</font>先是上半身往警察前傾，隨後即整個
+      之男子站上圍籬水泥墩上，而後右手扶抓著蔡丁貴左手，
+      幫助蔡丁貴站上圍籬水泥墩上，同時蒐證畫面內，蔡丁貴
+      站立之右邊立法院大門圍籬前抗議群眾已經與警察發生推
+      擠，蔡丁貴站立圍籬水泥墩上，圍籬內之警察手持盾牌抵
+      著圍籬，而後蔡丁貴先是上半身往警察前傾，隨後即整個
       人跌入警方人牆內，周圍之群眾隨即開始拉扯警方盾牌，
-      並開始與警方發生推擠衝突。」等情，可認被告<font color='red'>蔡丁貴</font>係
+      並開始與警方發生推擠衝突。」等情，可認被告蔡丁貴係
       因群眾與警方推擠時，因站立高處重心不穩而跌入警方人
       牆，並非故意對警方施強暴行為。而現場群眾與警方發生
       推擠之行為，未見警方有跌倒、受傷或行動受限等影響執
@@ -614,7 +507,7 @@ function openwin(URL,arguments,width,height)
       135條第1項所稱之施強暴行為，客觀上自與妨害公務之要
       件有間。
 （四）綜上，依檢察官所提出之上開積極證據尚無法確實證明被
-      告<font color='red'>蔡丁貴</font>有為妨害公務執行而聚眾之行為，且其持油壓剪
+      告蔡丁貴有為妨害公務執行而聚眾之行為，且其持油壓剪
       破壞大門鋼索、鎖頭之行為，以及不慎跌入警方人牆之行
       為、群眾推擠警方未影響執行職務等行為，亦不符合刑法
       第135條第1項之妨害公務要件，此部分本應為無罪諭知，
@@ -649,86 +542,12 @@ function openwin(URL,arguments,width,height)
 意圖使公務員執行一定之職務或妨害其依法執行一定之職務或使
 公務員辭職，而施強暴脅迫者，亦同。
 犯前二項之罪，因而致公務員於死者，處無期徒刑或 7 年以上
-有期徒刑；致重傷者，處 3 年以上、 10 年以下有期徒刑。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10412\02\TPDM104C2.006] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000129&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e4%b8%81%e8%b2%b4&sdate=&edate=&page=&searchkw=%e8%94%a1%e4%b8%81%e8%b2%b4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c129%2c20151202%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=129&jdate=1041202&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c129%2c20151202%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=129&jdate=1041202&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c129%2c20151202%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','129','1041202','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡丁貴">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡丁貴">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+有期徒刑；致重傷者，處 3 年以上、 10 年以下有期徒刑。
+[*jrecno*]104,訴,129,20151202,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]129
+[*jdate*]1041202
+[*jcheck*]1

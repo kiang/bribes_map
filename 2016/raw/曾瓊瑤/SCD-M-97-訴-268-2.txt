@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新竹地方法院-刑-97訴268</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新竹地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000268&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c268%2c20080819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=268&jdate=970819&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c268%2c20080819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=268&jdate=970819&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c268%2c20080819%2c2','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','268','970819','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">97,訴,268</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">970819</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新竹地方法院刑事判決　　　　　　　 97年度訴字第268號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c268%2c20080819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=268&jdate=970819&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000268&selectedCrtid=SCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c268%2c20080819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=268&jdate=970819&jcheck=2
+[*裁判字號*]97,訴,268
+[*裁判日期*]970819
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣新竹地方法院刑事判決　　　　　　　 97年度訴字第268號
 公　訴　人 臺灣新竹地方法院檢察署檢察官
 被　　　告　丙○○
 上列被告因偽造文書等案件，經檢察官提起公訴（96年度偵緝字
@@ -120,7 +13,7 @@ function openwin(URL,arguments,width,height)
 並判決如下：
     主  文
 丙○○連續行使偽造私文書，足以生損害於他人，處有期徒刑捌
-月，緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年。
+月，緩刑年。
     事  實
 一、丙○○自民國93年間起，召集如附表一編號1、2所示之民間
     互助會，並擔任會首，每會會金、會員及會期均如附表一編
@@ -304,7 +197,7 @@ function openwin(URL,arguments,width,height)
  ┌──┬──────────┬──────────────┬───────┐
  │編號│    時    間        │      會單上所載會員        │    補  註    │
  ├──┼──────────┼──────────────┼───────┤
- │1   │92年10月20日起至95年│1、會首丙○○。2、吳鳳凰。3 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />編號23至26之│
+ │1   │92年10月20日起至95年│1、會首丙○○。2、吳鳳凰。3 │編號23至26之│
  │    │3月20日止。         │、月芬。4、李小姐。5、麗珠。│會員均由壬○○│
  │    │合會金5000元。      │6、福嫂。7、福嫂。8、阿祥。9│處理。        │
  │    │內標方式。          │、陳利新。10、陳利新。11、美│              │
@@ -319,10 +212,10 @@ function openwin(URL,arguments,width,height)
  │    │                    │蘇暐淳。28、蘇暐淳。29、高淑│              │
  │    │                    │芬。30、劉碧玉。            │              │
  ├──┼──────────┼──────────────┼───────┤
- │2   │93年3月5日起至95年6 │1、會首丙○○。2、許文玲。3 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />編號14至16及│
+ │2   │93年3月5日起至95年6 │1、會首丙○○。2、許文玲。3 │編號14至16及│
  │    │月5日止。           │、淑惠。4、國盛。5、國盛。6 │27之會員均由劉│
  │    │合會金10000元。     │、義軍（即己○○）。7、美蘭 │麗琴處理。    │
- │    │內標方式。          │。8 、素娟。9、高淑芬。10、 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />編號25、26之│
+ │    │內標方式。          │。8 、素娟。9、高淑芬。10、 │編號25、26之│
  │    │底標1000元。        │玉華。11、阿猴。12 、阿姨子 │會員均由丁○○│
  │    │                    │。13、楊根弟。14、麗琴（即劉│處理。        │
  │    │                    │麗琴）。15、陳武堂（即陳聖諺│              │
@@ -333,10 +226,10 @@ function openwin(URL,arguments,width,height)
  │    │                    │。25、陳洪煌。26、陳洪煌。27│              │
  │    │                    │、辛○○。28、洪淑玲。      │              │
  ├──┼──────────┼──────────────┼───────┤
- │3   │自94年2月1日起至97年│1、會首丙○○。2、許桂香。3 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />編號23、24之│
+ │3   │自94年2月1日起至97年│1、會首丙○○。2、許桂香。3 │編號23、24之│
  │    │7月1日。            │、阿雲。4、淑惠。5、國盛。6 │會員均由戊○○│
  │    │合會金5000元。      │、義軍（即己○○）。7、阿明 │處理。        │
- │    │內標方式。          │。8 、阿明。9、候君。10、鄭 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />編號18、19之│
+ │    │內標方式。          │。8 、阿明。9、候君。10、鄭 │編號18、19之│
  │    │底標500元。         │雅玲。11、顏秀琴。12、素娥。│會員由丁○○處│
  │    │                    │13、玉華。14、美蘭。15、月芬│理。          │
  │    │                    │。16、楊根弟。17、阿玲。18、│              │
@@ -347,10 +240,10 @@ function openwin(URL,arguments,width,height)
  │    │                    │。28、李茗修。29、志豪。30、│              │
  │    │                    │甲○○。                    │              │
  ├──┼──────────┼──────────────┼───────┤
- │4   │94年12月15日起至97年│1、會首丙○○。2、許宜君（即│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />編號21、22、│
+ │4   │94年12月15日起至97年│1、會首丙○○。2、許宜君（即│編號21、22、│
  │    │9月15日。           │己○○）。3、癸○○。4、蔡美│23之會員由莊瑞│
  │    │合會金5000元。      │子。5、國盛。6、美蘭。7、素 │琴處理。      │
- │    │內標方式。          │娟。8、雅惠。9、孫立凡。10  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />編號9之會員 │
+ │    │內標方式。          │娟。8、雅惠。9、孫立凡。10  │編號9之會員 │
  │    │底標500元。         │、林金蓮。11、林金蓮。12、淑│均由戊○○處理│
  │    │                    │惠。13、許桂香。14、蘇小姐。│。            │
  │    │                    │15、小玫。16、暐淳。17、靜宜│              │
@@ -367,14 +260,14 @@ function openwin(URL,arguments,width,height)
  │    │                    │雅玲。                      │              │
  ├──┼──────────┼──────────────┼───────┤
  │5   │95年3月15日起至96年5│1、會首戊○○。2、戴翠琴。3 │              │
- │    │月15日。            │、王錦雪。4、<font color='red'>曾瓊瑤</font>。5、楊明│              │
+ │    │月15日。            │、王錦雪。4、曾瓊瑤。5、楊明│              │
  │    │合會金10000元。     │宗。6、高銘良。7、邱元貞。8 │              │
  │    │內標方式。          │、張玉春。9、張玉春。10、陳 │              │
  │    │底標1000元。        │燕雪。11、陳敏。12、丙○○。│              │
  │    │                    │13、庚○○。14、林唯真。15、│              │
  │    │                    │張少甄。                    │              │
  ├──┼──────────┼──────────────┼───────┤
- │6   │95年3月25日起至97年2│1、會首丙○○。2、雅惠。3、 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />編號8之會員 │
+ │6   │95年3月25日起至97年2│1、會首丙○○。2、雅惠。3、 │編號8之會員 │
  │    │月25日。            │老莫。4、庚○○。5、林金蓮。│由戊○○處理。│
  │    │合會金10000元。     │6、美蘭。7、培棋。8、孫立民 │              │
  │    │內標方式。          │。9 、阿猴。10、阿慧姐。11、│              │
@@ -450,86 +343,11 @@ function openwin(URL,arguments,width,height)
 │底標：1,000元                                                       │
 │開標時間、地點：每月5日晚間8時許，在被告位於新竹市○○○街9號2樓住處│
 └──────────────────────────────────┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWSCD\CRIMINAL\9708\19\SCDM978J.00X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000268&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c268%2c20080819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=268&jdate=970819&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c268%2c20080819%2c2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=268&jdate=970819&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c268%2c20080819%2c2','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','268','970819','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="SCD 臺灣新竹地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="曾瓊瑤">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="曾瓊瑤">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]97,訴,268,20080819,2
+[*v_court*]SCD 臺灣新竹地方法院
+[*v_sys*]M
+[*jyear*]97
+[*jcase*]訴
+[*jno*]268
+[*jdate*]970819
+[*jcheck*]2

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-100訴2632</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=002632&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c2632%2c20130430%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=2632&jdate=1020430&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c2632%2c20130430%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=2632&jdate=1020430&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c2632%2c20130430%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','2632','1020430','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,2632</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020430</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　 100年度訴字第2632號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c2632%2c20130430%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=2632&jdate=1020430&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=002632&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c2632%2c20130430%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=2632&jdate=1020430&jcheck=1
+[*裁判字號*]100,訴,2632
+[*裁判日期*]1020430
+[*裁判案由*]偽造文書
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　 100年度訴字第2632號
 公　訴　人　臺灣新北地方法院檢察署檢察官
 被　　　告　答鯨玫
 選任辯護人　陳舜銘律師
@@ -119,9 +12,9 @@ function openwin(URL,arguments,width,height)
 22208 號），本院判決如下：
     主  文                                              
 答鯨玫犯共同連續行使偽造私文書罪，累犯，處有期徒刑捌月，
-減為有期徒刑肆月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元
+減為有期徒刑肆月，如易科罰金，以銀元佰元即新臺幣玖佰元
 折算壹日。偽造「雷志明」之印章貳顆及如附表所示偽造印文共
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />枚、偽造署押共陸枚，均沒收。
+枚、偽造署押共陸枚，均沒收。
     事  實
 一、答鯨玫於民國84年間曾犯詐欺罪，經臺灣高等法院以87年度
     上易字第5424號刑事判決判處應執行有期徒刑2 年6 月確定
@@ -149,7 +42,7 @@ function openwin(URL,arguments,width,height)
       2 所示董事願任同意書、董事會議簽到單等文件上，而偽
       造雷志明願意擔任傑美公司董事，並表示出席該次董事會
       之不實內容私文書各1 件。復指示不知情之鑫寶公司職員
-      王俐婷與<font color='red'>吳淑敏</font>（均另經臺灣新北地方法院檢察署檢察官
+      王俐婷與吳淑敏（均另經臺灣新北地方法院檢察署檢察官
       為不起訴處分確定），將上揭偽造之同意書與簽到單交予
       不知情之李志哲，由李志哲將上揭文件連同申請辦理變更
       傑美公司登記事項之申請書，委託不知情之顧訓康會計師
@@ -211,7 +104,7 @@ function openwin(URL,arguments,width,height)
     或供後具結，其陳述始符合上揭規定而有證據能力。若係以
     被告身分而非以證人身分訊問，即與「依法應具結」之要件
     不合，縱未命其具結，純屬檢察官調查證據職權之適法行使
-    ，無違法可言。經查，本判決下列所引用之證人<font color='red'>吳淑敏</font>於偵
+    ，無違法可言。經查，本判決下列所引用之證人吳淑敏於偵
     查中以被告身分所為之供述，本即無庸具結，且被告於本院
     準備程序中，表示不爭執證據能力（見本院101 年6 月27日
     準備程序筆錄第4 頁）；又證人李志哲、林忠勇、王俐婷於
@@ -229,9 +122,9 @@ function openwin(URL,arguments,width,height)
     志哲談到變更董事，伊不知董事會變更成雷志明，伊只負責
     公司資金調度及業務，並未碰到任何相關文件，並不瞭解這
     些文件上的簽名；伊不知雷志明擔任董事這件事的來由，亦
-    未指示<font color='red'>吳淑敏</font>代為簽名或辦理行政流程；而董事願任同意書
-    上「雷志明」之署押係由<font color='red'>吳淑敏</font>所簽署，因為其上為<font color='red'>吳淑敏
-    </font>字跡云云，而選任辯護人則以：一般擔任公司人頭負責人或
+    未指示吳淑敏代為簽名或辦理行政流程；而董事願任同意書
+    上「雷志明」之署押係由吳淑敏所簽署，因為其上為吳淑敏
+    字跡云云，而選任辯護人則以：一般擔任公司人頭負責人或
     董監事，通常會領有人頭費或車馬費，告訴人雷志明應有按
     月領取傑美公司人頭費云云置辯。惟查：
 （一）傑美公司委由顧訓康會計師為代理人於93年4 月2 日檢附
@@ -269,8 +162,8 @@ function openwin(URL,arguments,width,height)
       37、36頁），均堪予認定。
 （二）證人即告訴人雷志明於本院審理時證述：如附表所示董事
       願任同意書、議事錄、簽到單上簽名或印文，均非伊簽署
-      或蓋印，伊沒有這兩顆印章；伊不認識被告、李志哲、<font color='red'>吳
-      淑敏</font>、王俐婷；傑美公司93年3 月24日辦理董監事變更登
+      或蓋印，伊沒有這兩顆印章；伊不認識被告、李志哲、吳
+      淑敏、王俐婷；傑美公司93年3 月24日辦理董監事變更登
       記時所附具雷志明身分證影本為伊的身分證，伊並未拿身
       分證讓他人去辦理傑美公司董事變更登記；伊的身分證曾
       經遺失；伊應徵工作之際亦曾將身分證影本交付與他人；
@@ -300,19 +193,19 @@ function openwin(URL,arguments,width,height)
       計王俐婷於本院審理時證稱：伊有在李志哲提供之協議書
       上簽名，當時被告、曾俊彥均在場；辦理傑美公司董事願
       任同意書是由李志哲找的會計師準備；會計師拿空白董事
-      願任同意書給伊，伊轉交給<font color='red'>吳淑敏</font>；<font color='red'>吳淑敏</font>再將已簽好雷
+      願任同意書給伊，伊轉交給吳淑敏；吳淑敏再將已簽好雷
       志明姓名之董事願任同意書交給伊，伊再交給李志哲；變
       更登記後伊有經手傑美公司的大小章及一些董監事印章等
       情明確（見本院101 年10月8 日審判筆錄第18至19、21、
       23頁），核與證人王俐婷於偵查中具結後所為證述情節相
       合（見99偵字第22594 號卷第50、51頁、100 年度偵字第
       706 號卷第89頁、100 年偵字第22208 號卷第17、18頁）
-      。另證人<font color='red'>吳淑敏</font>於本院審理時證述：伊曾於鑫寶公司擔任
+      。另證人吳淑敏於本院審理時證述：伊曾於鑫寶公司擔任
       被告助理；李志哲曾至鑫寶公司與被告討論傑美公司事宜
       ；被告交代要辦理傑美公司董監事變更登記；所以伊將一
       疊資料交給王俐婷去辦理董監事變更登記事宜等情明確（
       見本院101 年10月8 日審判筆錄第18至19、21、23頁）。
-      又證人<font color='red'>吳淑敏</font>於偵查中以被告身分供稱：是王俐婷拿給伊
+      又證人吳淑敏於偵查中以被告身分供稱：是王俐婷拿給伊
       空白文件說需要董監事簽名，伊將空白文件交給被告，伊
       不認識雷志明，之後被告便將已簽妥雷志明姓名之相關文
       件交還給伊，伊取得雷志明已簽名文件時，被告與綽號「
@@ -322,10 +215,10 @@ function openwin(URL,arguments,width,height)
       偵字第22208 號卷第18、19頁）。是有關傑美公司於93年
       間3 月間經營權轉讓及變更董監事登記事宜完全由被告負
       責主導，且指定由曾俊彥擔任經營權移轉後之傑美公司董
-      事長，而證人王俐婷、<font color='red'>吳淑敏</font>均承被告指示進行辦理雷志
+      事長，而證人王俐婷、吳淑敏均承被告指示進行辦理雷志
       明願任傑美公司董事之公司變更登記事宜，且該已完成簽
-      署「雷志明」之董事願任同意書係由被告交由證人<font color='red'>吳淑敏
-      </font>等情，均堪認定。則被告既然負責取得傑美公司經營權事
+      署「雷志明」之董事願任同意書係由被告交由證人吳淑敏
+      等情，均堪認定。則被告既然負責取得傑美公司經營權事
       宜，並以更換董監事方式取得該公司經營權，且與即將新
       任傑美公司董事長曾俊彥均參與經營權移轉過程，則被告
       與曾俊彥必均知悉將由何人將擔任經營權移轉後之董監事
@@ -335,7 +228,7 @@ function openwin(URL,arguments,width,height)
       意書及董事會議簽到單上「雷志明」之署押，均係由姓名
       、年籍不詳之人所偽造等情，必然為被告及曾俊彥所知悉
       甚明。被告明知該附表編號1 、2 所示之私文書係屬偽造
-      ，竟仍利用不知情之<font color='red'>吳淑敏</font>、王俐婷、李志哲、林忠勇持
+      ，竟仍利用不知情之吳淑敏、王俐婷、李志哲、林忠勇持
       上開偽造之文件向經濟部中部辦公室行使，藉以辦理傑美
       公司變更登記，使不知情之承辦人員，於同年4 月5 日將
       雷志明任傑美公司董事之不實事項，登載在職務上所掌之
@@ -369,27 +262,27 @@ function openwin(URL,arguments,width,height)
       料中（見本院卷第194 至197 頁），告訴人並無自傑美公
       司或鑫寶公司領取薪資用情形，可見，上揭選任辯護人所
       指告訴人應領有車馬費或出席費云云，顯為臆測之詞，不
-      足採信。證人<font color='red'>吳淑敏</font>於偵查中以被告身分供稱：阿弟介紹
+      足採信。證人吳淑敏於偵查中以被告身分供稱：阿弟介紹
       雷志明來的云云（見100 年度偵字第22207 號卷第10頁）
       ，惟證人即綽號「阿弟仔」之許世盛於本院審理時證稱：
       伊不認識雷志明，亦未見過雷志明等情明確（見本院102
-      年4 月15日審判筆錄第5、6頁），是上揭證人<font color='red'>吳淑敏</font>供稱
+      年4 月15日審判筆錄第5、6頁），是上揭證人吳淑敏供稱
       ：阿弟介紹雷志明來的云云，並非可採，益徵告訴人雷志
-      明確係遭人冒用名義而擔任傑美公司董事甚明。另證人<font color='red'>吳
-      淑敏</font>雖於本院審理時證稱：被告或綽號「阿弟」之許世盛
-      其中一人交給伊一疊資料云云，參以證人<font color='red'>吳淑敏</font>於偵查中
+      明確係遭人冒用名義而擔任傑美公司董事甚明。另證人吳
+      淑敏雖於本院審理時證稱：被告或綽號「阿弟」之許世盛
+      其中一人交給伊一疊資料云云，參以證人吳淑敏於偵查中
       明確供稱：其至被告辦公室茶几上取得已簽署雷志明之董
       事願任同意書時，被告與綽號阿弟之許世盛均在場之情節
       ，尚難以此認定係由綽號「阿弟」之許世盛將已簽署雷志
-      明之董事願任同意書交給<font color='red'>吳淑敏</font>，是起訴書遽認被告係與
+      明之董事願任同意書交給吳淑敏，是起訴書遽認被告係與
       綽號「阿弟」之許世盛共同偽造雷志明之董事願任同意書
       等文件，尚嫌速斷，附此指明。另被告辯稱：董事願任同
-      意書上「雷志明」之署押係由<font color='red'>吳淑敏</font>所簽署云云，惟證人
-      <font color='red'>吳淑敏</font>經本院命其當庭書寫「雷志明」、「打雷」等字，
+      意書上「雷志明」之署押係由吳淑敏所簽署云云，惟證人
+      吳淑敏經本院命其當庭書寫「雷志明」、「打雷」等字，
       經與如附表所示文件上雷志明之字跡比對，其勾、勒、捺
-      、劃均有明顯不同，顯非證人<font color='red'>吳淑敏</font>所簽署甚明，是被告
+      、劃均有明顯不同，顯非證人吳淑敏所簽署甚明，是被告
       上揭所辯並非可採，則選任辯護人請求鑑定董事願任同意
-      書、董事會議事錄上之「雷志明」簽名係<font color='red'>吳淑敏</font>字跡云云
+      書、董事會議事錄上之「雷志明」簽名係吳淑敏字跡云云
       ，本院認並無調查必要，附此指明。
 （五）綜上所述，本件事證明確、被告犯行堪以認定，應依法論
       科。
@@ -463,7 +356,7 @@ function openwin(URL,arguments,width,height)
       法第1 條之1 規定（參照臺灣高等法院暨所屬法院95年法
       律座談會刑事類提案第16、19號法律問題），附此敘明。
 （二）核被告所為偽造如附表編號1 、2 所示私文書，復指示不
-      知情之王俐婷與<font color='red'>吳淑敏</font>，將上揭偽造之同意書與簽到單交
+      知情之王俐婷與吳淑敏，將上揭偽造之同意書與簽到單交
       由不知情之李志哲，李志哲復將上揭文件連同申請辦理變
       更傑美公司登記事項之申請書，委託不知情之林忠勇持上
       開偽造之文件向經濟部中部辦公室行使，藉以辦理傑美公
@@ -485,7 +378,7 @@ function openwin(URL,arguments,width,height)
       之成年人間，就如上揭事實欄一（二）至（四）所示，行
       使如附表編號3 至7 所示之偽造私文書犯行間，均有犯意
       聯絡及行為分擔，應依修正前刑法第28條論以共同正犯。
-      又被告經由不知情之<font color='red'>吳淑敏</font>、王俐婷、李志哲、林忠勇將
+      又被告經由不知情之吳淑敏、王俐婷、李志哲、林忠勇將
       如附表編號1 、2 所示之偽造私文書持向經濟部中部辦公
       室行使，並使該管公務員遽以將告訴人雷志明擔任傑美公
       司董事之不實事項登載於所執掌之公司登記事項表上，此
@@ -619,86 +512,12 @@ function openwin(URL,arguments,width,height)
 │    │          │            │簿        │          │                │          │
 ├──┼─────┴──────┴─────┴─────┴────────┴─────┤
 │總計│偽造署押共計6 枚、印文共計3 枚                                                │
-└──┴───────────────────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10204\30\PCDM1024U.08I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=002632&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c2632%2c20130430%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=2632&jdate=1020430&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c2632%2c20130430%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=2632&jdate=1020430&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c2632%2c20130430%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','2632','1020430','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑敏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑敏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───────────────────────────────────────┘
+[*jrecno*]100,訴,2632,20130430,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]2632
+[*jdate*]1020430
+[*jcheck*]1

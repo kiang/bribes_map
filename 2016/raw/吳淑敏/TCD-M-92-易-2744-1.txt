@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-92易2744</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第10
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e6%98%93&selectedCrmno=002744&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e6%98%93%2c2744%2c20040623%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e6%98%93&jno=2744&jdate=930623&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e6%98%93%2c2744%2c20040623%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e6%98%93&jno=2744&jdate=930623&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e6%98%93%2c2744%2c20040623%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e6%98%93','2744','930623','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,易,2744</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">930623</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　　　　　　九十二年度易字第二七四四號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=92%2c%e6%98%93%2c2744%2c20040623%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e6%98%93&jno=2744&jdate=930623&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e6%98%93&selectedCrmno=002744&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=92%2c%e6%98%93%2c2744%2c20040623%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e6%98%93&jno=2744&jdate=930623&jcheck=1
+[*裁判字號*]92,易,2744
+[*裁判日期*]930623
+[*裁判案由*]詐欺
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　　　　　　　九十二年度易字第二七四四號
 　　公　訴　人　臺灣臺中地方法院檢察署檢察官
 　　被　　　告　乙○○
 　　選任辯護人　吳光陸律師
@@ -137,7 +30,7 @@ function openwin(URL,arguments,width,height)
     變更為商業區之公告，倘無法完成公告，合作協議書即失效，中央投資公司不負
     擔任何費用。嗣於同年二月十日乙○○與庚○○，隱匿刪除上開三個月內未完成
     協議書即失效之條文，未告知宜興營造有限公司（下稱宜興公司）全權代表人兼
-    股東之丁○○、<font color='red'>吳淑敏</font>（另為不起訴處分）即將於八十九年四月十八日失效之事
+    股東之丁○○、吳淑敏（另為不起訴處分）即將於八十九年四月十八日失效之事
     實，以富仁公司名義與宜興公司簽訂工程草約，將興建兩棟大樓及人工地盤暨內
     裝工程、公共空間、機電空調設備、周邊地坪道路及景觀、綠化之工程交給宜興
     公司，取得履約保證金現金三千兩百萬元，及支票三千九百萬元（支票部分未兌
@@ -230,7 +123,7 @@ function openwin(URL,arguments,width,height)
       宜，若富仁公司完成變更公告，該合作協議始生效力等語綦詳（見本院卷第二
       五、二六頁），且有Ａ合作協議書一份附卷可佐（見偵查卷第一七九至一八一
       頁）。
-  ２、證人即宜興公司負責人<font color='red'>吳淑敏</font>於偵查中證稱：宜興公司與富仁公司簽約時，她
+  ２、證人即宜興公司負責人吳淑敏於偵查中證稱：宜興公司與富仁公司簽約時，她
       有在現場等語（見偵查卷第二五○頁），另證人即宜興公司與富仁公司簽約之
       見證人子○○亦於本院證稱：宜興公司與富仁公司所簽訂之工程草約確實由他
       見證，且蓋印於工程草約之上，宜興公司是由丁○○出面商議簽約事宜等語（
@@ -264,8 +157,8 @@ function openwin(URL,arguments,width,height)
       司）雙方同意於甲方開發本案之新公司成立時，正式簽訂工程承攬契約書。」
       等語，是認富仁公司與中央投資公司簽約時，針對未來大型購物及育樂中心之
       經營開發乃須待標的物完成變更公告後，由富仁公司與中央投資公司共組新公
-      司為主體進行，富仁公司就該合作協議書所應履踐之義務為<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />於簽訂協議書起
-      三個月內完成標的物變更公告為商業區，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />若於期限內完成公告為商業區，則
+      司為主體進行，富仁公司就該合作協議書所應履踐之義務為於簽訂協議書起
+      三個月內完成標的物變更公告為商業區，若於期限內完成公告為商業區，則
       主導新公司之成立，以進行購地開發經營等事項。從而：
   １、富仁公司登記所營事業固為「布料木材煤炭進進出口經銷買賣業務、電腦零組
       件之經銷業務、電路板檢修設備及各種發電機進出口之買賣業務、前向各項產
@@ -310,11 +203,11 @@ function openwin(URL,arguments,width,height)
       予被告二人反對詰問之權利，是以丁○○前開書面陳述，不得採為認定本件犯
       罪事實之依據，先予敘明。
   ２、本件經證人即富仁公司與宜興公司簽訂工程草約之見證人子○○於本院證稱：
-      宜興公司是由丁○○出面與富仁公司簽約，過程中在場的<font color='red'>吳淑敏</font>好像是丁○○
-      的妻子等語（見本院卷【三】第五十、五三頁），且證人<font color='red'>吳淑敏</font>於偵查時證稱
+      宜興公司是由丁○○出面與富仁公司簽約，過程中在場的吳淑敏好像是丁○○
+      的妻子等語（見本院卷【三】第五十、五三頁），且證人吳淑敏於偵查時證稱
       ：與富仁公司簽約時，她有在場立約簽名，但她沒有看合作協議書等語（見九
       十一年度偵字第七三八八號偵查卷第二五○頁），足稽宜興公司雖由丁○○及
-      <font color='red'>吳淑敏</font>二人出面與富仁公司簽約，然主要商議簽約事宜應係由丁○○進行。再
+      吳淑敏二人出面與富仁公司簽約，然主要商議簽約事宜應係由丁○○進行。再
       查，本件富仁公司於八十九年二月十九日與宜興公司簽訂工程草約時，工程總
       價款高達三十一億元，有該工程草約在卷可憑（有丁○○於偵查時所提出資料
       之附件Ｂ之１），以此工程投注金額之高昂及工程之耗大，應可想見締約雙方
@@ -333,8 +226,8 @@ function openwin(URL,arguments,width,height)
       供現金六千萬元整交予富仁公司作為履約保證金，且富仁公司確係由宜興公司
       取得現金三千二百萬元、支票三千八百萬元（檢察官誤載為三千九百萬元【其
       中一張票號ＱＣ0000000號票面金額一百萬元之支票已換回】，均未兌
-      現），有八十九年二月十四日<font color='red'>吳淑敏</font>匯款一千五百萬元予被告郝皙生之彰化銀
-  行匯款回條聯、八十九年二月十六日由<font color='red'>吳淑敏</font>匯各五百萬元之款項入富仁公司
+      現），有八十九年二月十四日吳淑敏匯款一千五百萬元予被告郝皙生之彰化銀
+  行匯款回條聯、八十九年二月十六日由吳淑敏匯各五百萬元之款項入富仁公司
       華南商業銀行西湖分行之000000000號帳戶之銀行帳目資料及收據、
       另於二月十七日、三月三日由丁○○給付被告乙○○保證金各五百萬元、二百
       萬元之收據，並有丁○○以上允營造股份有限公司為發票人開具付款人為台北
@@ -408,7 +301,7 @@ function openwin(URL,arguments,width,height)
       記公司人員說明合作協議書的內容，簽約過程的二個小時之間，主談的人是丁
       ○○，被告二人均未合作協議書發表過任何意見，在現場亦未聽人提起開發案
       公告實施的過程等語（見本院卷【一】第一一二至一一五頁），綜上：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />上開告訴人齊記公司與宜興公司簽約時均在場之人對於簽訂工程草約商議過程
+    上開告訴人齊記公司與宜興公司簽約時均在場之人對於簽訂工程草約商議過程
       中係由何人出面洽談一情，立於告訴人齊記公司一方之辛○○、許秀武、己○
       ○、壬○○彼此所為指述及證述各情，已有明顯出入，其或謂被告乙○○、郝
       皙生二人均在現場商議，或稱係被告郝皙生出面洽談，抑或指由丁○○出面主
@@ -416,7 +309,7 @@ function openwin(URL,arguments,width,height)
       請出面擔任工程草約立約見證之戊○○律師結證稱：主談人是丁○○，被告二
       人並未出面洽商工程草約之內容，亦無說明開發案之背景等語南轅北轍，大相
       逕庭。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />衡之，上開告訴人齊記公司在場簽約之人就被告犯行所為供稱及證述，其中辛
+    衡之，上開告訴人齊記公司在場簽約之人就被告犯行所為供稱及證述，其中辛
       ○○、許秀武身居齊記公司高層領導，證人己○○則為齊記公司之主任技師，
       另壬○○則係居中引薦丁○○與齊記公司簽訂本件工程草約之中人，各自立場
       難以期待客觀中立，且以其就締約之際究係何人主談、說明等情所述各節已然
@@ -625,86 +518,11 @@ function openwin(URL,arguments,width,height)
 「切勿逕送上級法院」。
                                           書記官
 中      華      民      國      九十三      年    六   月     二十三   日
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\OK\LAWTCD\CRIMINAL\9306\23\TCDM936N.077] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第10
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e6%98%93&selectedCrmno=002744&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e6%98%93%2c2744%2c20040623%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e6%98%93&jno=2744&jdate=930623&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e6%98%93%2c2744%2c20040623%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e6%98%93&jno=2744&jdate=930623&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e6%98%93%2c2744%2c20040623%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e6%98%93','2744','930623','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="10"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑敏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑敏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]92,易,2744,20040623,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]92
+[*jcase*]易
+[*jno*]2744
+[*jdate*]930623
+[*jcheck*]1

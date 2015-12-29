@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-101基交簡555</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ywHECHFlY/0CE9FgFOlXEeDSP3M=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e5%9f%ba%e4%ba%a4%e7%b0%a1&selectedCrmno=000555&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e5%9f%ba%e4%ba%a4%e7%b0%a1&jno=555&jdate=1010731&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e5%9f%ba%e4%ba%a4%e7%b0%a1&jno=555&jdate=1010731&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e5%9f%ba%e4%ba%a4%e7%b0%a1','555','1010731','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,基交簡,555</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010731</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">交通肇事逃逸</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事簡易判決　　　101年度基交簡字第555號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e5%9f%ba%e4%ba%a4%e7%b0%a1&jno=555&jdate=1010731&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e5%9f%ba%e4%ba%a4%e7%b0%a1&selectedCrmno=000555&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e5%9f%ba%e4%ba%a4%e7%b0%a1&jno=555&jdate=1010731&jcheck=1
+[*裁判字號*]101,基交簡,555
+[*裁判日期*]1010731
+[*裁判案由*]交通肇事逃逸
+[*裁判全文*]臺灣基隆地方法院刑事簡易判決　　　101年度基交簡字第555號
 聲　請　人　臺灣基隆地方法院檢察署檢察官
 被　　　告　高泉芳
 上列被告因交通肇事逃逸案件，經檢察官聲請以簡易判決處刑（
@@ -123,7 +18,7 @@ function openwin(URL,arguments,width,height)
 二、本院審酌被告高泉芳於車禍肇事後竟不停留在現場，提供傷
     患必要之救助，反駕車揚長而去，顯見其輕忽他人之生命、
     身體法益，所為殊值非難，惟慮其前無不良素行，且於犯後
-    坦承犯行，並與告訴人即被害人<font color='red'>李岳峰</font>達成和解，賠償新臺
+    坦承犯行，並與告訴人即被害人李岳峰達成和解，賠償新臺
     幣（下同）62,000元，有和解書1 紙附於101 度偵字第1956
     號卷可憑等一切情狀，量處如主文所示之刑，併諭知易科罰
     金之折算標準。又查被告前未曾因故意犯罪受有期徒刑以上
@@ -162,8 +57,8 @@ function openwin(URL,arguments,width,height)
           犯罪事實
 一、高泉芳於民國101年4月24日16時20分左右，駕駛車牌號碼
     T8-6945號自小貨車在基隆市○○區○○路15號前違規迴轉
-    ，致<font color='red'>李岳峰</font>所駕駛車牌號碼6475-YD號自小貨車閃避不及而
-    發生擦撞，<font color='red'>李岳峰</font>即因車禍導致左手腕扭傷之傷害（過失傷
+    ，致李岳峰所駕駛車牌號碼6475-YD號自小貨車閃避不及而
+    發生擦撞，李岳峰即因車禍導致左手腕扭傷之傷害（過失傷
     害部分業已和解撤回告訴由本署另為不起訴處分）。高泉芳
     雖知駕駛動力交通工具發生車禍致人受傷，應即採取救護及
     其他必要措施，立即向警察機關報案並不得逕行離開現場，
@@ -172,9 +67,9 @@ function openwin(URL,arguments,width,height)
     附近監視器紀錄資料，循線查知係高泉芳肇事逃逸。
 二、案經新北市政府警察局金山分局報告偵辦。
           證據並所犯法條
-一、證據：（一）被告高泉芳之自白、（二）被害人<font color='red'>李岳峰</font>敘述
+一、證據：（一）被告高泉芳之自白、（二）被害人李岳峰敘述
     案發過程之內容，（三）財團法人臺灣區煤礦業基金會臺灣
-    礦工醫院出具<font color='red'>李岳峰</font>前往急診之乙種診斷證明書、（四）車
+    礦工醫院出具李岳峰前往急診之乙種診斷證明書、（四）車
     輛撞擊部位照片4張。（五）基隆市○○○道路交通事故現
     場草圖、（六）基隆市○○○道路交通事故案件追查管制表
     。
@@ -199,86 +94,12 @@ function openwin(URL,arguments,width,height)
 輔佐人、告訴人、告發人等出庭即以簡易判決處刑；被告、被害
 人、告訴人等對於告訴乃論案件如已達成民事和解而要撤回告訴
 或對非告訴乃論案件認有受傳喚到庭陳述意見之必要時，請即另
-以書狀向簡易法庭陳述或請求傳訊。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWKLD\CRIMINAL\10107\31\KLDM1017V.02I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e5%9f%ba%e4%ba%a4%e7%b0%a1&selectedCrmno=000555&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e5%9f%ba%e4%ba%a4%e7%b0%a1&jno=555&jdate=1010731&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e5%9f%ba%e4%ba%a4%e7%b0%a1&jno=555&jdate=1010731&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e5%9f%ba%e4%ba%a4%e7%b0%a1%2c555%2c20120731%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e5%9f%ba%e4%ba%a4%e7%b0%a1','555','1010731','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="李岳峰">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="李岳峰">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+以書狀向簡易法庭陳述或請求傳訊。
+[*jrecno*]101,基交簡,555,20120731,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]基交簡
+[*jno*]555
+[*jdate*]1010731
+[*jcheck*]1

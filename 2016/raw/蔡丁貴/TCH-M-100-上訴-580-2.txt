@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-臺中分院-刑-100上訴580</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 臺中分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000580&selectedCrtid=TCH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=580&jdate=1010307&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=580&jdate=1010307&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2','TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2','M','100','%e4%b8%8a%e8%a8%b4','580','1010307','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,上訴,580</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010307</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">重傷害</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院臺中分院刑事判決　　　　100年度上訴字第580號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=580&jdate=1010307&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000580&selectedCrtid=TCH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=580&jdate=1010307&jcheck=2
+[*裁判字號*]100,上訴,580
+[*裁判日期*]1010307
+[*裁判案由*]重傷害
+[*裁判全文*]臺灣高等法院臺中分院刑事判決　　　　100年度上訴字第580號
 上　訴　人
 即 自訴 人　張銘祐
 　　　　　　蔡黃春玉
@@ -164,8 +57,8 @@ function openwin(URL,arguments,width,height)
     為諭知被告無罪之判決（最高法院40年台上字第86號、30年
     上字第816號、76年台上字第4986號判例參照）。
 三、自訴人認被告宋國棟、盧進隆、陳隨統涉犯強制罪嫌，及被
-    告盧進隆、陳隨統涉犯使人重傷害未遂罪嫌，無非以證人<font color='red'>蔡
-    丁貴</font>、李夙儒、蘇麗香之證詞，及急診診斷證明書2張、現
+    告盧進隆、陳隨統涉犯使人重傷害未遂罪嫌，無非以證人蔡
+    丁貴、李夙儒、蘇麗香之證詞，及急診診斷證明書2張、現
     場照片1張、現場蒐證錄影光碟內容、擷取畫面等為主要論
     據。惟訊據被告宋國棟堅決否認有為強制之犯行，被告盧進
     隆、陳隨統亦均堅決否認有為強制及重傷害未遂之犯行，被
@@ -281,7 +174,7 @@ function openwin(URL,arguments,width,height)
     灑之傷害犯行，核非基於妨害自訴人張銘祐、蔡黃春玉行使
     權利之強制犯意，而為之強暴行為，與本案有無該當於刑法
     第304條強制罪之強暴行為應分別審論。
-  (3)證人<font color='red'>蔡丁貴</font>在原審亦具結證述：蔡黃春玉受到噴射後感到相
+  (3)證人蔡丁貴在原審亦具結證述：蔡黃春玉受到噴射後感到相
     當難過，眼睛張不開來，且一直哀號，希望趕快送到醫院，
     伊跑去前方封鎖線發現張銘祐矇著眼睛倒地哀號，大家又急
     著要警方呼叫救護車把傷者送到醫院救治，警方沒有同意，
@@ -297,7 +190,7 @@ function openwin(URL,arguments,width,height)
     過中港路下榻的地方休息，張銘祐向警方說要過去休息，及
     這裡不是管制區，他係去協調為何不讓我們過去，當時人很
     多，伊聽不太清楚警方的回答之詞（見原審卷二第45反面至
-    46頁），亦可知警方僅於證人<font color='red'>蔡丁貴</font>欲護送自訴人蔡黃春玉
+    46頁），亦可知警方僅於證人蔡丁貴欲護送自訴人蔡黃春玉
     去醫院救治行進中有發生推擠情形，未見警員或被告盧進隆
     、宋國棟、陳隨統對於自訴人2人等民眾有何實施強暴、脅
     迫之行為，而妨礙自訴人2人等民眾行使權利之情形。又承
@@ -410,7 +303,7 @@ function openwin(URL,arguments,width,height)
     等民眾並未離開，自不可能分身另持化學性噴霧器傷害或重
     傷害自訴人蔡黃春玉。是自訴人蔡黃春玉眼睛部位所受之化
     學性結膜炎之傷害，應亦非被告陳隨統之行為所造成。
-  (3)至證人即自訴人蔡黃春玉之配偶<font color='red'>蔡丁貴</font>在原審雖證述：伊當
+  (3)至證人即自訴人蔡黃春玉之配偶蔡丁貴在原審雖證述：伊當
     天23時53分有看到陳隨統用一個紅色光點雷射線作為定位之
     類似噴霧器，設定蔡黃春玉之眼睛作為目標，並朝蔡黃春玉
     噴射不明液體，伊為了保護蔡黃春玉，有一部份噴射在伊穿
@@ -440,11 +333,11 @@ function openwin(URL,arguments,width,height)
     張銘祐對面什麼人，伊沒有看到陳隨統，因為看不清楚，所
     以沒有印象等詞（見原審卷二第45反面至46頁)，是與被告
     陳隨統面對面之蘇麗香尚無法看到陳隨統之長相，而與陳隨
-    統相距較遠之證人<font color='red'>蔡丁貴</font>，竟能指認出係陳隨統對蔡黃春玉
-    噴不明液體，是證人<font color='red'>蔡丁貴</font>之上開證述是否與實情相符，尚
+    統相距較遠之證人蔡丁貴，竟能指認出係陳隨統對蔡黃春玉
+    噴不明液體，是證人蔡丁貴之上開證述是否與實情相符，尚
     不能令人無疑，此應係因當時事發突然，現場光線昏暗，場
-    面混亂，證人<font color='red'>蔡丁貴</font>因而回想案發時之記憶有所誤差所致，
-    自不能僅憑證人<font color='red'>蔡丁貴</font>事後有瑕疵之指認，即遽認被告陳隨
+    面混亂，證人蔡丁貴因而回想案發時之記憶有所誤差所致，
+    自不能僅憑證人蔡丁貴事後有瑕疵之指認，即遽認被告陳隨
     統有何持不明物體傷害自訴人張銘祐、蔡黃春玉之行為。
   (4)而證人即共同被告宋國棟在原審審理時雖具結證稱：當天伊
     擔任保護分局長盧進隆之隨扈，是伊持辣椒噴霧器噴灑，因
@@ -500,11 +393,11 @@ function openwin(URL,arguments,width,height)
     與持疑似化學性噴霧器對民眾噴灑之警員有何犯意聯絡或行
     為之分擔，且證人李夙儒於原審審理中所具結證述：當天晚
     上伊進入停車場時，自訴人張銘祐及蔡黃春玉走在比較前面
-    ，伊在比較後面，自訴人2人受到攻擊後，伊有與<font color='red'>蔡丁貴</font>坐
+    ，伊在比較後面，自訴人2人受到攻擊後，伊有與蔡丁貴坐
     車去醫院，在醫院裡，印象中有3、4個穿警察制服的警官，
     跟著盧進隆從大門過來，伊當時站在外面，盧進隆看到伊就
     跟伊道歉，希望要和解，但伊還滿生氣的，遂稱到時候再以
-    法律處理後，即進去找<font color='red'>蔡丁貴</font>，後來民進黨1位副秘書長過
+    法律處理後，即進去找蔡丁貴，後來民進黨1位副秘書長過
     來質問盧進隆怎麼可以拿那個東西噴灑民眾，那是警方配備
     之東西嗎？盧進隆說那個不是警方配備之東西，其他沒有另
     外說明，警方那時一直在道歉等情（見原審卷一第275反面
@@ -537,7 +430,7 @@ function openwin(URL,arguments,width,height)
     等此部分之上訴。至本件持疑似化學性噴霧器對自訴人張銘
     祐及蔡黃春玉噴灑之人，係當時站在被告陳隨統左後方之其
     他員警，顯非被告陳隨統所為，已如前述，自不能僅憑自訴
-    人等片面之指述及證人<font color='red'>蔡丁貴</font>事後有瑕疵之指認，即遽令被
+    人等片面之指述及證人蔡丁貴事後有瑕疵之指認，即遽令被
     告陳隨統承擔共同傷害或重傷害未遂罪責，是被告陳隨統被
     訴使人重傷害未遂部分尚屬不能證明，原審未予詳細勾稽上
     開證據，就此部分遽對被告陳隨統論以傷害罪科刑之判決，
@@ -612,86 +505,12 @@ function openwin(URL,arguments,width,height)
 二、判決違背司法院解釋。
 三、判決違背判例。
 刑事訴訟法第三百七十七條至第三百七十九條、第三百九十三條
-第一款規定，於前項案件之審理，不適用之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCH\CRIMINAL\10103\07\TCHM10137.002] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000580&selectedCrtid=TCH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=580&jdate=1010307&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=580&jdate=1010307&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e4%b8%8a%e8%a8%b4%2c580%2c20120307%2c2','TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2','M','100','%e4%b8%8a%e8%a8%b4','580','1010307','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCH 臺灣高等法院 臺中分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡丁貴">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡丁貴">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+第一款規定，於前項案件之審理，不適用之。
+[*jrecno*]100,上訴,580,20120307,2
+[*v_court*]TCH 臺灣高等法院 臺中分院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]上訴
+[*jno*]580
+[*jdate*]1010307
+[*jcheck*]2

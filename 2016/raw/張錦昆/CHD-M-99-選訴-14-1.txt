@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-99選訴14</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000014&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%81%b8%e8%a8%b4&jno=14&jdate=990322&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%81%b8%e8%a8%b4&jno=14&jdate=990322&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e9%81%b8%e8%a8%b4','14','990322','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,選訴,14</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">990322</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反公職人員選舉罷免法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　99年度選訴字第14號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%81%b8%e8%a8%b4&jno=14&jdate=990322&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000014&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%81%b8%e8%a8%b4&jno=14&jdate=990322&jcheck=1
+[*裁判字號*]99,選訴,14
+[*裁判日期*]990322
+[*裁判案由*]違反公職人員選舉罷免法
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　99年度選訴字第14號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　甲○○
 選任辯護人　楊益松律師
@@ -129,7 +22,7 @@ function openwin(URL,arguments,width,height)
     舉區之投票權人，其知悉張麗香（業經臺灣彰化地方法院檢
     察署檢察官為緩起訴處分）設籍在彰化縣永靖鄉浮圳村圳中
     巷8 號，亦為上開縣議員第四選舉區內具有投票權之人，為
-    使其所支持登記參選該第四選舉區之候選人<font color='red'>張錦昆</font>（登記第
+    使其所支持登記參選該第四選舉區之候選人張錦昆（登記第
     3 號）能順利當選，竟基於對於有投票權之人交付賄賂，而
     約其投票權為一定行使之犯意，於98年11月21日19時許，在
     張麗香位於上址之住處內，對於有投票權之人張麗香交付賄
@@ -138,11 +31,11 @@ function openwin(URL,arguments,width,height)
     共計6 票，每票300 元），約定張麗香、莊慶順及該戶籍內
     有投票權之其餘4 名家屬，應聽從指示於中華民國第十七屆
     彰化縣縣議員選舉時，投票圈選彰化縣第四選區編號3 號之
-    縣議員候選人<font color='red'>張錦昆</font>，就投票權為一定之行使，經張麗香允
+    縣議員候選人張錦昆，就投票權為一定之行使，經張麗香允
     諾而收受上開賄賂，張麗香並於同日21時許，在其住處將此
     賄選乙事告知丈夫莊慶順（業經臺灣彰化地方法院檢察署檢
-    察官為緩起訴處分），莊慶順亦同意依指示支持候選人<font color='red'>張錦
-    昆</font>。嗣經彰化縣警察局員林分局報請臺灣彰化地方法院檢察
+    察官為緩起訴處分），莊慶順亦同意依指示支持候選人張錦
+    昆。嗣經彰化縣警察局員林分局報請臺灣彰化地方法院檢察
     署檢察官指揮偵辦，而循線查獲，並扣得張麗香、莊慶順所
     繳回之上開賄款1800元。
 二、案經彰化縣警察局員林分局報請臺灣彰化地方法院檢察署檢
@@ -236,8 +129,8 @@ function openwin(URL,arguments,width,height)
     臺上字第1934、4759號判決意旨可資參照。本件扣案張麗香
     所收受之賄賂現金1800元，係屬已交付之賄賂，按諸前揭說
     明，自不得另依公職人員選舉罷免法第99條第3 項規定，宣
-    告沒收。至扣案之桌曆紙1 張、電話聯絡簿1 本、<font color='red'>張錦昆</font>競
-    選總部報票表1 張及<font color='red'>張錦昆</font>選舉文宣小卡片52張，被告甲○
+    告沒收。至扣案之桌曆紙1 張、電話聯絡簿1 本、張錦昆競
+    選總部報票表1 張及張錦昆選舉文宣小卡片52張，被告甲○
     ○否認與本件向張麗香賄選之犯行有關，堅稱：桌曆紙是與
     友人玩牌（13支）輸贏之記載、電話聯絡簿是多年前村長發
     送的、報票表是要等到星期六（98年12月5 日）開票後幫忙
@@ -271,86 +164,12 @@ function openwin(URL,arguments,width,height)
 犯第1 項或第2 項之罪，於犯罪後六個月內自首者，減輕或免除
 其刑；因而查獲候選人為正犯或共犯者，免除其刑。
 犯第1 項或第2 項之罪，在偵查中自白者，減輕其刑；因而查獲
-候選人為正犯或共犯者，減輕或免除其刑。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWCHD\CRIMINAL\9903\22\CHDM993M.005] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000014&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%81%b8%e8%a8%b4&jno=14&jdate=990322&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%81%b8%e8%a8%b4&jno=14&jdate=990322&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e9%81%b8%e8%a8%b4%2c14%2c20100322%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e9%81%b8%e8%a8%b4','14','990322','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="張錦昆">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="張錦昆">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+候選人為正犯或共犯者，減輕或免除其刑。
+[*jrecno*]99,選訴,14,20100322,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]選訴
+[*jno*]14
+[*jdate*]990322
+[*jcheck*]1

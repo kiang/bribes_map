@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣澎湖地方法院-刑-91訴24</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣澎湖地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000024&selectedCrtid=PHD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c24%2c20030829%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=24&jdate=920829&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c24%2c20030829%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=24&jdate=920829&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c24%2c20030829%2c1','PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','24','920829','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">91,訴,24</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">920829</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣澎湖地方法院刑事判決　　　　　　　　　　　　　　九十一年度訴字第二四號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c24%2c20030829%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=24&jdate=920829&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000024&selectedCrtid=PHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c24%2c20030829%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=24&jdate=920829&jcheck=1
+[*裁判字號*]91,訴,24
+[*裁判日期*]920829
+[*裁判案由*]詐欺等
+[*裁判全文*]臺灣澎湖地方法院刑事判決　　　　　　　　　　　　　　九十一年度訴字第二四號
 　　公　訴　人　臺灣澎湖地方法院檢察署檢察官
 　　被　　　告　己○○
 　　選任辯護人　史乃文律師
@@ -226,13 +119,13 @@ function openwin(URL,arguments,width,height)
     費章；至於亞洲新聞報、真相新聞報、先鋒日報、台灣產經雜誌均是伊合法成立
     的報紙及雜誌，雖然沒有定時發行，也沒對外販售，但是贊助廣告者即係客戶，
     且均有據實刊登廣告，並寄給客戶，伊沒有詐欺云云。惟查：
-（一）證人即民眾日報業務部總經理盧清<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4352A0A00000040.GIF" />於偵查中明確證稱：丙○○僅係民眾日報
+（一）證人即民眾日報業務部總經理盧清於偵查中明確證稱：丙○○僅係民眾日報
       負責台北工商廣告業務的記者，該社並未授權丙○○委託他人以該社名義對外
       招攬週年慶贊助廣告，且該社五十一週年慶是以公函名義由該社記者對外為之
       ，但不包括己○○、戊○○的自行招攬，該社亦未授權任何人成立「民眾日報
       北區採訪中心新竹分處」等語（九十一年偵字第一四三號卷第六十五、六十六
       頁）；且民眾日報社於本案發生後，更於九十一年四月二日在該報第六版刊載
-      聲明啟事：針對澎湖地檢署偵辦丁○○及在逃的黃姓及徐姓等詐欺集團，<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E44F2A0A00000040.GIF" />嫌
+      聲明啟事：針對澎湖地檢署偵辦丁○○及在逃的黃姓及徐姓等詐欺集團，嫌
       假借本報辦理週年慶名義，向各政府機關及公司行號行訛騙贊助廣告一案，本
       報特提出嚴正聲明，丁○○等詐騙嫌犯均非本報社任何單位的人員，其在外一
       切行為，本報一概不知，也與本報無關，更對於他們的犯行提出嚴正譴責，本
@@ -308,7 +201,7 @@ function openwin(URL,arguments,width,height)
       俊明』者涉嫌詐欺犯罪事實節略」一紙、被告丁○○於九十一年三月廿六日冒
       名『陳俊明』與洪威華通話之電話錄音帶一捲及其譯文數紙、九十一年三月二
       十八日民眾日報第十七版報紙一紙、電話錄音單一紙附卷足憑，並經證人盧清
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4352A0A00000040.GIF" />於偵查中證述屬實，益見被告等確有利用民眾日報名義邀約廣告詐財之行為
+      於偵查中證述屬實，益見被告等確有利用民眾日報名義邀約廣告詐財之行為
       。
 （四）按登載廣告之消費者，無非期望渠等所登載之刊物，得對不特定之公眾發行，
       廣為流通，始能產生宣傳效果，若登載之內容，只有自己看得到，即無須花費
@@ -5411,7 +5304,7 @@ function openwin(URL,arguments,width,height)
  900924 林進輝   00000000   0000 台灣產經雜誌社  桃園縣警局警詢筆錄
                                                  第一四一頁
                                                  匯款單第十三卷第十八頁
- 900830 <font color='red'>趙正宇   </font>00000000   0000 台灣產經雜誌社  桃園縣警局警詢筆錄
+ 900830 趙正宇   00000000   0000 台灣產經雜誌社  桃園縣警局警詢筆錄
                                                  第九頁
                                                  匯款單第十四卷第一頁
                                                  第一四一頁                                                                                         ?
@@ -7381,86 +7274,11 @@ function openwin(URL,arguments,width,height)
 匯款單第十四卷第十一頁
  901219 陳石耕    00000000  0000  台灣產經雜誌社 台中縣警察局警詢筆錄
  十頁
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\judday\OK\LAWPHD\CRIMINAL\9209\04\PHDM9294.001] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000024&selectedCrtid=PHD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c24%2c20030829%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=24&jdate=920829&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c24%2c20030829%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=24&jdate=920829&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c24%2c20030829%2c1','PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','24','920829','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PHD 臺灣澎湖地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="趙正宇">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="趙正宇">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]91,訴,24,20030829,1
+[*v_court*]PHD 臺灣澎湖地方法院
+[*v_sys*]M
+[*jyear*]91
+[*jcase*]訴
+[*jno*]24
+[*jdate*]920829
+[*jcheck*]1

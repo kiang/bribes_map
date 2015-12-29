@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-高雄分院-刑-104上易489</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ywHECHFlY/0CE9FgFOlXEeDSP3M=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 高雄分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000489&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e6%98%93&jno=489&jdate=1041111&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e6%98%93&jno=489&jdate=1041111&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','104','%e4%b8%8a%e6%98%93','489','1041111','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,上易,489</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041111</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">背信等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院高雄分院刑事判決　　　　104年度上易字第489號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e6%98%93&jno=489&jdate=1041111&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000489&selectedCrtid=KSH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e6%98%93&jno=489&jdate=1041111&jcheck=1
+[*裁判字號*]104,上易,489
+[*裁判日期*]1041111
+[*裁判案由*]背信等
+[*裁判全文*]臺灣高等法院高雄分院刑事判決　　　　104年度上易字第489號
 上　訴　人
 即　被　告　黃清育
 　　　　　　簡鼓月
@@ -199,7 +94,7 @@ function openwin(URL,arguments,width,height)
     見本院卷第81頁、第175 頁正面至第176 頁正面），且經證
     人即福春公司經理洪顯達、福春公司負責人洪榮鐘、證人即
     拓展公司負責人謝福財、證人即金元公司會計吳秀英、證
-    人即長輪公司實際負責人蔡明勛、證人<font color='red'>林新凱</font>、證人即正鴻
+    人即長輪公司實際負責人蔡明勛、證人林新凱、證人即正鴻
     公司股東葉靜蘭、證人即豐國公司業務陳彥宏、證人即九福
     公司經理林琦然、證人即聯新秤量處與中山秤量處實際負責
     人張瓊娥、證人即財政部關務署高雄關稅局進口業務股股長
@@ -210,7 +105,7 @@ function openwin(URL,arguments,width,height)
     94頁正面；謝福財部分見調查局卷第164 至170 頁，偵卷第
     45至49頁；吳秀英見調查局卷第177 至182 頁、偵卷第189
     頁；蔡明勛部分見調查局卷第187 至193 頁，偵卷第46至47
-    頁、第189 頁；<font color='red'>林新凱</font>部分見調查局卷第198 至204 頁，偵
+    頁、第189 頁；林新凱部分見調查局卷第198 至204 頁，偵
     卷第47頁；葉靜蘭部分見調查局卷第209 至215 頁，偵卷第
     48至49頁；陳彥宏部分見調查局卷第223 至228 頁，偵卷第
     48頁；林琦然部分見調查局卷第233 至236 頁；張瓊娥部分
@@ -251,7 +146,7 @@ function openwin(URL,arguments,width,height)
     4 頁）、兆豐國際商業銀行國內匯款申請書（匯款人：邱善
     ，見同上卷第185 頁）、大眾銀行銀行匯款申請書暨取款憑
     條（匯款人：蔡明勛，見同上卷第194 頁）、高雄銀行入戶
-    電匯匯款回條（匯款人：<font color='red'>林新凱</font>，見同上卷第207 頁）、合
+    電匯匯款回條（匯款人：林新凱，見同上卷第207 頁）、合
     作金庫商業銀行匯款申請書代收入傳票及轉帳傳票（見同上
     卷第219 頁）、被告2 人所提出之匯款紀錄（見偵卷第162
     頁）、被告簡鼓月之臺灣銀行活期儲蓄存款存摺影本（見偵
@@ -551,86 +446,12 @@ function openwin(URL,arguments,width,height)
 │    │            │1000公斤）    │313萬5364元                 │
 │    │            │              ├──────────────┤
 │    │            │              │11萬1895元                  │
-└──┴──────┴───────┴──────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWKSH\CRIMINAL\10411\11\KSHM104BB.00T] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000489&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e6%98%93&jno=489&jdate=1041111&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e6%98%93&jno=489&jdate=1041111&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e6%98%93%2c489%2c20151111%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','104','%e4%b8%8a%e6%98%93','489','1041111','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KSH 臺灣高等法院 高雄分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林新凱">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林新凱">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴──────┴───────┴──────────────┘
+[*jrecno*]104,上易,489,20151111,1
+[*v_court*]KSH 臺灣高等法院 高雄分院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]上易
+[*jno*]489
+[*jdate*]1041111
+[*jcheck*]1

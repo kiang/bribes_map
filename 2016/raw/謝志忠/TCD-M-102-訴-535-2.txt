@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-102訴535</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+mV2bhz+1lomrjQnpty74T8dHXUI=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共41
-											筆 / 現在第12
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000535&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=41&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c535%2c20130627%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=535&jdate=1020627&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c535%2c20130627%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=535&jdate=1020627&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c535%2c20130627%2c2','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','535','1020627','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,535</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020627</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　102年度訴字第535號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c535%2c20130627%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=535&jdate=1020627&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000535&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c535%2c20130627%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=535&jdate=1020627&jcheck=2
+[*裁判字號*]102,訴,535
+[*裁判日期*]1020627
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　　102年度訴字第535號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　吳清忠
 指定辯護人　何崇民律師
@@ -194,12 +89,12 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
     生路與學府路口之寶島眼鏡行前，由吳清忠當場交付重約0.
     12公克之第一級毒品海洛因1小包予張墩盛，張墩盛則當面
     交付現金1000元予吳清忠，而完成交易。
-(八)<font color='red'>謝志忠</font>於101年9月20日上午7時5分、21分、33分許，以門號
+(八)謝志忠於101年9月20日上午7時5分、21分、33分許，以門號
     0000000000號行動電話，撥打、接聽吳清忠持用之門號0000
     000000號行動電話，聯絡要購買第一級毒品海洛因事宜，並
     於通話結束於7時35分許後，在臺中市大雅區雅環路之福懋
     加油站旁，由吳清忠當場交付重約0.06公克之第一級毒品海
-    洛因1小包予<font color='red'>謝志忠</font>，<font color='red'>謝志忠</font>則當面交付現金500元予吳清忠
+    洛因1小包予謝志忠，謝志忠則當面交付現金500元予吳清忠
     ，而完成交易。
 (九)蔡鋒吉於101年10月27日晚間10時17分、39分許，以門號000
     0000000號行動電話，撥打吳清忠持用之門號0000000000號
@@ -329,7 +224,7 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
     述，因其陳述未經被告詰問，應認屬於未經合法調查之證據
     ，但非為無證據能力（亦有最高法院96年度台上字第4365號
     、96年度台上字第3923號判決、97年台上字第356號判決意
-    旨可參）。經查，本案證人鍾昌榮、張墩盛、<font color='red'>謝志忠</font>、蔡鋒
+    旨可參）。經查，本案證人鍾昌榮、張墩盛、謝志忠、蔡鋒
     吉、陳志吉、王慶宗於偵查中具結證述之內容，被告及其辯
     護人並未釋明有何顯不可信之情況，且亦查無顯有不可信之
     情況，另再經本院於審理時將上開證人等筆錄逐一提示予辯
@@ -355,7 +250,7 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
     力（最高法院97年度台上字第1069號判決要旨參照）。揆諸
     上揭說明，本判決引用為證據之監聽譯文，其內容係有關被
     告使用之0000000000、0000000000、0000000000、00000000
-    00號行動電話，分別與證人鍾昌榮、張墩盛、<font color='red'>謝志忠</font>、蔡鋒
+    00號行動電話，分別與證人鍾昌榮、張墩盛、謝志忠、蔡鋒
     吉、陳志吉、王慶宗使用之電話，聯絡購買毒品之事宜，係
     屬受監察人進行本件犯罪行為之對話內容，並非所謂被告或
     被告以外之人於審判外之陳述至明。再按依據監聽錄音結果
@@ -423,7 +318,7 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
     ，當有證據能力。
 貳、認定犯罪事實所憑之證據及理由：
 一、上開犯罪事實業據被告於警、偵訊及本院審理時均坦承不諱
-    ，核與證人鍾昌榮、張墩盛、<font color='red'>謝志忠</font>、蔡鋒吉、陳志吉、王
+    ，核與證人鍾昌榮、張墩盛、謝志忠、蔡鋒吉、陳志吉、王
     慶宗於警、偵訊時證述其等分別向被告購買毒品之經過情形
     大致相符（見102年度偵字第1965號卷一第148至155頁、第1
     87至189頁、第193至197頁、第220至221頁、第226至232頁
@@ -435,14 +330,14 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
     」、「海洛因」、「甲基安非他命」等名稱或相近之用語稱
     之，都以彼此已有默契之含混語意而為溝通，因此，被告持
     用0000000000、0000000000、0000000000、0000000000號行
-    動電話，分別與證人鍾昌榮、張墩盛、<font color='red'>謝志忠</font>、蔡鋒吉、陳
+    動電話，分別與證人鍾昌榮、張墩盛、謝志忠、蔡鋒吉、陳
     志吉、王慶宗聯絡見面、交易毒品之通訊監察譯文（見本院
     卷第113至139頁），雖未見被告分別與證人鍾昌榮、張墩盛
-    、<font color='red'>謝志忠</font>、蔡鋒吉、陳志吉、王慶宗雙方明言購買毒品之暗
-    語或說詞，惟證人鍾昌榮、張墩盛、<font color='red'>謝志忠</font>、蔡鋒吉、陳志
+    、謝志忠、蔡鋒吉、陳志吉、王慶宗雙方明言購買毒品之暗
+    語或說詞，惟證人鍾昌榮、張墩盛、謝志忠、蔡鋒吉、陳志
     吉、王慶宗等均分別證述確有向被告分別購買海洛因、甲基
     安非他命之證詞，足徵卷附通訊監察譯文與證人鍾昌榮、張
-    墩盛、<font color='red'>謝志忠</font>、蔡鋒吉、陳志吉、王慶宗等之證述有相當之
+    墩盛、謝志忠、蔡鋒吉、陳志吉、王慶宗等之證述有相當之
     關聯性，足以補強其等之證詞，而擔保其等前開所稱被告販
     賣海洛因、甲基安非他命之真實性。此外，復有臺中市政府
     警察局刑警大隊搜索、扣押筆錄、扣押物品目錄表、被告通
@@ -455,13 +350,13 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
     頁）等資料附卷可憑，及被告所有、供本案犯罪使用之ZTEm
     obile牌行動電話1支（含門號0000000000號SIM卡1張）、電
     子磅秤1個、藥鏟1支等物扣案可證。上揭證據經調查結果，
-    互核相符，足認證人鍾昌榮、張墩盛、<font color='red'>謝志忠</font>、蔡鋒吉、陳
+    互核相符，足認證人鍾昌榮、張墩盛、謝志忠、蔡鋒吉、陳
     志吉、王慶宗就其等分別於上開犯罪事實欄一所載之時間、
     地點，與被告交易第一級毒品海洛因、第二級毒品甲基安非
     他命之數量、金額、次數等重要事項之證述，均非子虛，核
     與被告所為任意性自白相符，顯見被告於上開犯罪事實欄一
-    所示之時間、地點，確有分別與證人鍾昌榮、張墩盛、<font color='red'>謝志
-    忠</font>、陳志吉聯絡購買第一級毒品海洛因、與蔡鋒吉、王慶宗
+    所示之時間、地點，確有分別與證人鍾昌榮、張墩盛、謝志
+    忠、陳志吉聯絡購買第一級毒品海洛因、與蔡鋒吉、王慶宗
     聯絡購買第二級毒品甲基安非他命事宜後，進行毒品買賣交
     易完畢之事實甚明。
 二、按刑事法之販賣行為，係基於禁止管制之物品擴散、流通之
@@ -484,7 +379,7 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
     於有償讓與他人之初，係基於營利之意思，並著手實施，而
     因故無法高於購入之原價出售，最後不得不以原價或低於原
     價讓與他人時，仍屬販賣行為。本件被告所為上開販賣第一
-    級毒品海洛因予證人鍾昌榮、張墩盛、<font color='red'>謝志忠</font>、陳志吉、第
+    級毒品海洛因予證人鍾昌榮、張墩盛、謝志忠、陳志吉、第
     二級毒品甲基安非他命予證人蔡鋒吉、王慶宗之行為，均屬
     有償行為，被告並均係親自在特定約定地點交付毒品、收取
     價款，且被告於102年3月7日本院訊問時自承：海洛因伊買3
@@ -979,86 +874,12 @@ M卡各壹張）沒收之，如全部或一部不能沒收時，追徵其價額�
 │    │          │其價額。未扣案之販賣第二級毒品所得財│
 │    │          │物新臺幣貳仟元沒收之，如全部或一部不│
 │    │          │能沒收時，以其財產抵償之。          │
-└──┴─────┴──────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10206\27\TCDM1026R.02G] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共41
-											筆 / 現在第12
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000535&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=41&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c535%2c20130627%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=535&jdate=1020627&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c535%2c20130627%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=535&jdate=1020627&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c535%2c20130627%2c2','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','535','1020627','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="12"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="謝志忠">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="謝志忠">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴─────┴──────────────────┘
+[*jrecno*]102,訴,535,20130627,2
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]535
+[*jdate*]1020627
+[*jcheck*]2

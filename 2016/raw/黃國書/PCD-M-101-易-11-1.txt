@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-101易11</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+nX0CWOqhyNNCuqZUaF4FjOxLMdo=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共53
-											筆 / 現在第29
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e6%98%93&selectedCrmno=000011&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=30&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=53&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e6%98%93%2c11%2c20120627%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=11&jdate=1010627&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e6%98%93%2c11%2c20120627%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=11&jdate=1010627&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e6%98%93%2c11%2c20120627%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e6%98%93','11','1010627','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,易,11</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010627</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害公務等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　 101年度易字第11號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e6%98%93%2c11%2c20120627%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=11&jdate=1010627&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e6%98%93&selectedCrmno=000011&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e6%98%93%2c11%2c20120627%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=11&jdate=1010627&jcheck=1
+[*裁判字號*]101,易,11
+[*裁判日期*]1010627
+[*裁判案由*]妨害公務等
+[*裁判全文*]臺灣板橋地方法院刑事判決　　　　　　　 101年度易字第11號
 公　訴　人　臺灣板橋地方法院檢察署檢察官
 被　　　告　柯世宗
 上列被告因妨害公務等案件，經檢察官提起公訴（100 年度偵字
@@ -133,13 +28,13 @@ function openwin(URL,arguments,width,height)
     電風扇及室內電話各1 臺、玻璃窗7 面、盆栽15盆、茶杯及
     碗盤共10組均損壞，足生損害於豐年國小及楊文達。
   (二)其於100 年9 月21日下午2 時50分許，在豐年國小校長室外
-    ，明知新北市政府警察局新莊分局福營派出所副所長<font color='red'>黃國書
-    </font>率同員警蔡昇長、婁少懷據報前往處理前開毀損案件，為依
-    法執行公務之員警，因不願配合員警<font color='red'>黃國書</font>返回派出所製作
+    ，明知新北市政府警察局新莊分局福營派出所副所長黃國書
+    率同員警蔡昇長、婁少懷據報前往處理前開毀損案件，為依
+    法執行公務之員警，因不願配合員警黃國書返回派出所製作
     筆錄，並以跳躍之方式越過員警依法拉起之封鎖線，經員警
     制止，基於對依法執行職務之公務員施強暴、侮辱公務員之
-    犯意，以腳踢踹<font color='red'>黃國書</font>（未成傷），並當場以「幹」等語辱
-    罵<font color='red'>黃國書</font>（涉犯公然侮辱部分，未據告訴），妨害公務之執
+    犯意，以腳踢踹黃國書（未成傷），並當場以「幹」等語辱
+    罵黃國書（涉犯公然侮辱部分，未據告訴），妨害公務之執
     行。
   (三)其於100 年10月20日上午9 時許，至豐年國小校長室，復基
     於毀損之犯意，徒手砸毀豐年國小校長室內印台2 個等物，
@@ -173,7 +68,7 @@ function openwin(URL,arguments,width,height)
     開言詞陳述作成時之情況，並無違法取供情形或其他程式上
     之瑕疵，引用其等於警詢及偵查之證述為證據應屬適當，依
     刑事訴訟法第159 條之5 之規定，即具證據能力。
-  (二)關於<font color='red'>黃國書</font>、婁少懷、蔡昇長於偵查中之證述，雖經被告於
+  (二)關於黃國書、婁少懷、蔡昇長於偵查中之證述，雖經被告於
     本件準備程序中表示不同意作為本案證據使用，惟其等偵查
     中之證述，係經檢察官諭知證人有具結之義務及偽證之處罰
     並命朗讀結文具結擔保其證言之真實性後，以證人身份，於
@@ -207,8 +102,8 @@ function openwin(URL,arguments,width,height)
     與警察之友會的會員證表示伊為警察之友，該便衣男子就將
     該證件揉爛並開始對伊粗暴鎖喉，當時伊大叫「啊」或「靠
     」一聲，眾多警員就將伊壓制在地上，當場造成伊原來的傷
-    口流血，事後才知該便衣男子係福營派出所副所長<font color='red'>黃國書</font>，
-    伊完全配合員警辦案，沒有故意踢員警<font color='red'>黃國書</font>，係拉扯及掙
+    口流血，事後才知該便衣男子係福營派出所副所長黃國書，
+    伊完全配合員警辦案，沒有故意踢員警黃國書，係拉扯及掙
     扎中無意的肢體碰撞行為，也沒有罵髒話「幹」那個字云云
     。經查：
   (一)有關犯罪事實一(一)、(三)之部分：業據被告柯世宗於警詢、偵
@@ -226,22 +121,22 @@ function openwin(URL,arguments,width,height)
     時，被告因請假問題跟人事室人員發生口角，伊覺得沒有辦
     法處理，就請求支援，員警蔡昇長先來，被告一下子說要請
     公傷假，一下子又說要領錢賠給校長，還說要回教室拿東西
-    ，此時支援的副所長<font color='red'>黃國書</font>到現場，經過有拉封鎖線的校長
+    ，此時支援的副所長黃國書到現場，經過有拉封鎖線的校長
     室時，伊等不願意讓被告過去並告知要回去做筆錄，但被告
-    不願意配合，就跳過去，還踢副所長<font color='red'>黃國書</font>，副所長叫伊等
+    不願意配合，就跳過去，還踢副所長黃國書，副所長叫伊等
     上銬，上銬時，被告說「幹」、「你銬我。」等語明確（見
     同上偵查卷宗第53至54頁），其於本院審理中另證述：被告
     涉嫌毀損的案件是由伊承辦，當天伊穿著員警制服並戒護被
     告就醫，就醫後，被告返回學校就表示要請公傷假，並稱要
     到教室拿東西，伊與蔡昇長就陪同被告回去教室，但伊不知
     道回教室須經過封鎖線，另戒護過程中，有跟被告告知要返
-    回派出所製作筆錄，但是被告不太配合，所以才找副所長<font color='red'>黃
-    國書</font>過來支援，<font color='red'>黃國書</font>在封鎖線前面的走廊出現，雖<font color='red'>黃國書
-    </font>沒有穿著員警制服，但有出示證件，表示他是警察，此外因
+    回派出所製作筆錄，但是被告不太配合，所以才找副所長黃
+    國書過來支援，黃國書在封鎖線前面的走廊出現，雖黃國書
+    沒有穿著員警制服，但有出示證件，表示他是警察，此外因
     封鎖線的位置是在校長室前面的走廊上，被告表示要回教室
     拿東西，因到教室會經過封鎖線，被告走到封鎖線內，同事
     請求被告配合返所製作筆錄，被告表示他不去，就跳過封鎖
-    線要跑離開現場，伊有看到被告用腳踢<font color='red'>黃國書</font>腿部，踢幾下
+    線要跑離開現場，伊有看到被告用腳踢黃國書腿部，踢幾下
     忘記了，在給被告上銬時，被告說出「幹」、「你銬我」，
     此外，伊記得被告當天是穿運動鞋，伊也有聽到勘驗照片編
     號30照片1 的對話等語綦詳（見本院卷第78至82頁）；(2)佐
@@ -250,23 +145,23 @@ function openwin(URL,arguments,width,height)
     示校長要對伊提出毀損告訴，所以請被告到派出所製作筆錄
     ，被告稱明天才要過去，伊回應不行，又被告請完假後，想
     要離開現場，所以伊就請求支援，支援到場時，被告想要逃
-    跑，同事就制止，被告用腳踹副所長<font color='red'>黃國書</font>，至於被告講什
+    跑，同事就制止，被告用腳踹副所長黃國書，至於被告講什
     麼，伊記不清楚之情（見同上偵查卷宗第53頁）；其於本院
     審理中亦具結證述：被告進入校園後，伊陪同被告進入人事
     室請假，但不記得被告有無反應要去教室拿東西及去銀行領
     錢，過程中也沒有聽到婁少懷跟被告講說可以先回去，不用
     到警局製作筆錄，反而是叫被告回去製作筆錄，但被告不願
     意，一直講說明天或有空才去，因被告不配合，所以伊等請
-    求支援，就請副所長<font color='red'>黃國書</font>過來，穿著白色衣服的<font color='red'>黃國書</font>到
+    求支援，就請副所長黃國書過來，穿著白色衣服的黃國書到
     了現場後，有出示證件且要求被告要去製作筆錄，伊不清楚
-    被告有無出示警察之友的證件給<font color='red'>黃國書</font>看，當時被告就跳過
-    在教室走廊外面的封鎖線，所以才制止被告，<font color='red'>黃國書</font>再次要
+    被告有無出示警察之友的證件給黃國書看，當時被告就跳過
+    在教室走廊外面的封鎖線，所以才制止被告，黃國書再次要
     求被告配合回去製作筆錄，被告還是不願意配合，在拉扯之
-    間，伊就看到被告用穿著球鞋的腳踹了<font color='red'>黃國書</font>的左腳一下，
+    間，伊就看到被告用穿著球鞋的腳踹了黃國書的左腳一下，
     伊等制止被告，就聽到被告罵「幹」、「你銬我」，這句話
     現場可以聽到，但是伊視線被同仁擋住，之後沒有看到有無
     同仁勾住被告脖子之情綦詳（見本院卷第82背面至86頁）；
-    (3)參以證人<font color='red'>黃國書</font>於偵查中具結證稱：當天下午2 時40分許
+    (3)參以證人黃國書於偵查中具結證稱：當天下午2 時40分許
     到場支援，因被告不願意返所製作筆錄，還轉身逃跑，所以
     伊就上前扣住被告，被告就踹伊2 腳，伊跟被告表示要逃跑
     就要上銬，被告用三字經罵「幹」、「你銬我。」等語（見
@@ -285,15 +180,15 @@ function openwin(URL,arguments,width,height)
     告且告知要上銬，被告就故意踹伊腳最少一下，又罵伊「幹
     」，不是單純講「靠」，當場伊就跟被告表示「你又給我幹
     譙」，這個地點是在封鎖線就是校長室門口前等語歷歷（見
-    本院卷第73至77背面頁），則由證人婁少懷、蔡昇長及<font color='red'>黃國
-    書</font>於偵查及審理中歷次所證述之情節均大致相符，若非其等
+    本院卷第73至77背面頁），則由證人婁少懷、蔡昇長及黃國
+    書於偵查及審理中歷次所證述之情節均大致相符，若非其等
     親身經驗，實難於本院審理中就相關情節仍能清楚描述，且
-    證人婁少懷、蔡昇長及<font color='red'>黃國書</font>於偵查及本院審理中均係以證
+    證人婁少懷、蔡昇長及黃國書於偵查及本院審理中均係以證
     人身分經過具結作證，擔保其所言為真實，實無陷害被告柯
     世宗刻意虛構事實甘冒偽證罪之理，其等證詞自值採信，顯
     見被告柯世宗有於上開時、地基於對依法執行職務之公務員
-    施強暴、侮辱公務員之犯意，以腳踢踹<font color='red'>黃國書</font>，並當場以「
-    幹」等語辱罵<font color='red'>黃國書</font>，妨害公務之執行之情至明，是被告柯
+    施強暴、侮辱公務員之犯意，以腳踢踹黃國書，並當場以「
+    幹」等語辱罵黃國書，妨害公務之執行之情至明，是被告柯
     世宗所辯，自不足採。
   2.又稽本院依職權勘驗現場光碟並翻拍照片顯示：「時間：00
     ：00：33（照片編號27）穿布鞋之人腳有舉起踢身穿白衣警
@@ -305,13 +200,13 @@ function openwin(URL,arguments,width,height)
     有新北市政府警察局新莊分局現場照片1 張在卷足憑（見同
     上偵查卷宗第39頁），益徵被告柯世宗確實有於上開時、地
     於警員依法執行職務時施強暴及侮辱警員之事實無訛。
-  3.至被告柯世宗辯稱：伊沒有故意踢<font color='red'>黃國書</font>，係拉扯及不小心
-    的肢體碰撞云云。惟徵之證人<font color='red'>黃國書</font>於本院審理中證述：被
-    告是故意踹伊腳乙節，詳於前述。另衡以員警<font color='red'>黃國書</font>遭被告
+  3.至被告柯世宗辯稱：伊沒有故意踢黃國書，係拉扯及不小心
+    的肢體碰撞云云。惟徵之證人黃國書於本院審理中證述：被
+    告是故意踹伊腳乙節，詳於前述。另衡以員警黃國書遭被告
     柯世宗以腳踢的部位係腿部而非足踝之部位，於人體直立時
     ，仍有一定的高度，若非被告柯世宗刻意高舉腳並出力踢出
-    ，情理上容無可能觸及，堪認被告柯世宗以腳踢員警<font color='red'>黃國書
-    </font>之行為係刻意為之，是被告柯世宗上開所辯，亦不足採。
+    ，情理上容無可能觸及，堪認被告柯世宗以腳踢員警黃國書
+    之行為係刻意為之，是被告柯世宗上開所辯，亦不足採。
   4.又被告柯世宗雖辯稱：當時係遭鎖喉才發出「啊」，並沒有
     辱罵員警三字經云云。然徵之證人婁少懷於本院審理中亦具
     結證稱：被告有說「幹」，這句話不可能是因為勒住脖子而
@@ -323,11 +218,11 @@ function openwin(URL,arguments,width,height)
     編號42）被告遭員警以手臂勾住喉嚨部位壓制在地上後上手
     銬」，亦有翻拍照片共計24張附卷足憑（見本院卷第47背面
     至53頁），綜觀上開情詞，足見被告柯世宗當時尚未遭員警
-    以手臂鉤住喉嚨部位壓制之情無訛。況細繹員警<font color='red'>黃國書</font>對於
+    以手臂鉤住喉嚨部位壓制之情無訛。況細繹員警黃國書對於
     被告柯世宗辱罵三字經之行為當場回應說「你又給我幹樵（
     台語）」乙節，亦有翻拍照片1 張在卷可佐（見本院卷第46
     背面頁），若被告柯世宗真是單純因壓制發出「啊」或「靠
-    」之音，員警<font color='red'>黃國書</font>當場豈會有此之反應，自與常情有悖，
+    」之音，員警黃國書當場豈會有此之反應，自與常情有悖，
     益徵被告柯世宗就此所辯，顯不可採。
   5.另被告柯世宗辯稱：員警當天告知可隔日製作筆錄云云。惟
     證人婁少懷於本院審理中另具結證陳：在戒護被告的過程中
@@ -361,7 +256,7 @@ function openwin(URL,arguments,width,height)
     354 條毀損器物罪；其就犯罪事實一(二)部分所為，係犯同法
     第13 5條第1 項於公務員依法執行職務時施強暴罪及同法第
     140 條之侮辱公務員罪。又其係於密切接近之時、地，對執
-    行職務之員警<font color='red'>黃國書</font>施以強暴之行為，並對<font color='red'>黃國書</font>出言辱罵
+    行職務之員警黃國書施以強暴之行為，並對黃國書出言辱罵
     ，其上揭舉動均係基於同一個妨害公務之犯意而發生，其行
     為依一般社會通念，難以強行分割，應視為數個舉動之接續
     實施，而以包括之一行為予以評價，從重論以刑法第135 條
@@ -410,86 +305,12 @@ function openwin(URL,arguments,width,height)
 中華民國刑法第354條
 （毀損器物罪）
 毀棄、損壞前二條以外之他人之物或致令不堪用，足以生損害於
-公眾或他人者，處2 年以下有期徒刑、拘役或5 百元以下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10106\27\PCDM1016R.01R] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共53
-											筆 / 現在第29
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e6%98%93&selectedCrmno=000011&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=30&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=53&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e6%98%93%2c11%2c20120627%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=11&jdate=1010627&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e6%98%93%2c11%2c20120627%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e6%98%93&jno=11&jdate=1010627&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e6%98%93%2c11%2c20120627%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e6%98%93','11','1010627','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="29"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃國書">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃國書">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+公眾或他人者，處2 年以下有期徒刑、拘役或5 百元以下罰金。
+[*jrecno*]101,易,11,20120627,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]易
+[*jno*]11
+[*jdate*]1010627
+[*jcheck*]1

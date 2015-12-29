@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣宜蘭地方法院-刑-102易48</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+mV2bhz+1lomrjQnpty74T8dHXUI=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣宜蘭地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000048&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c48%2c20131223%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=48&jdate=1021223&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c48%2c20131223%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=48&jdate=1021223&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c48%2c20131223%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','48','1021223','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,易,48</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021223</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣宜蘭地方法院刑事判決　　　　　　　 102年度易字第48號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c48%2c20131223%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=48&jdate=1021223&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000048&selectedCrtid=ILD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e6%98%93%2c48%2c20131223%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=48&jdate=1021223&jcheck=1
+[*裁判字號*]102,易,48
+[*裁判日期*]1021223
+[*裁判案由*]詐欺
+[*裁判全文*]臺灣宜蘭地方法院刑事判決　　　　　　　 102年度易字第48號
 　　　　　　　　　　　　　　　　　　　102年度易字第123號
 公　訴　人　臺灣宜蘭地方法院檢察署檢察官
 被　　　告　黃國華
@@ -124,8 +19,8 @@ function openwin(URL,arguments,width,height)
 被　　　告　簡進興
 　　　　　　藍中祥
 　　　　　　江政鴻
-　　　　　　<font color='red'>謝志忠
-　　　　　　</font>高志清
+　　　　　　謝志忠
+　　　　　　高志清
 　　　　　　林韋志
 上列被告因詐欺案件，經檢察官提起公訴（臺灣宜蘭地方法院檢
 察署101年度偵字第3498號、第3749號、第4860號、101年度偵緝
@@ -154,7 +49,7 @@ function openwin(URL,arguments,width,height)
 江政鴻犯共同詐欺取財罪，共貳罪，各處有期徒刑陸月，如易科
 罰金，均以新臺幣壹仟元折算壹日。應執行有期徒刑拾月，如易
 科罰金，以新臺幣壹仟元折算壹日。
-<font color='red'>謝志忠</font>犯共同詐欺取財罪，共貳罪，均為累犯，各處有期徒刑陸
+謝志忠犯共同詐欺取財罪，共貳罪，均為累犯，各處有期徒刑陸
 月，如易科罰金，均以新臺幣壹仟元折算壹日。應執行有期徒刑
 拾月，如易科罰金，以新臺幣壹仟元折算壹日。
 林則安犯幫助詐欺取財罪，處有期徒刑肆月，如易科罰金，以新
@@ -165,7 +60,7 @@ function openwin(URL,arguments,width,height)
 簡進興被訴共同對陳世馨、朱興龍、高振堯、呂忠斌、黃共桐詐
 欺取財部分無罪。
     事  實                                              
-一、<font color='red'>謝志忠</font>前因違反槍砲彈藥刀械管制條例及殺人案件，經本院
+一、謝志忠前因違反槍砲彈藥刀械管制條例及殺人案件，經本院
     以88年度重訴字第3號判決判處有期徒刑3月、14年，應執行
     有期徒刑14年，上訴後經被告撤回上訴確定。又因恐嚇案件
     ，經臺灣高等法院以90年度上易字第1814號判決判處有期徒
@@ -189,7 +84,7 @@ function openwin(URL,arguments,width,height)
     高銘鴻再於101年4月間吸收林奕鑫為詐騙集團成員；101年3
     月間由「阿南」吸收簡進興為詐騙集團成員；101年4、5月
     間，由「小林」吸收藍中祥為詐騙集團成員，再由藍中祥吸
-    收江政鴻、<font color='red'>謝志忠</font>分別為以下犯行：
+    收江政鴻、謝志忠分別為以下犯行：
   (一)黃國華與「阿南」詐騙集團共同基於意圖為自己不法所有之
     犯意聯絡，以附表一編號2（游緯禎，涉犯幫助詐欺部分業
     經本院以101年度簡字第682號判決判處有期徒刑2月確定）
@@ -324,7 +219,7 @@ function openwin(URL,arguments,width,height)
   (九)藍中祥受「阿南」詐騙集團「小林」成年男子指示收購人頭
     帳戶，藍中祥即向江政鴻告知「小林」有意收購帳戶，藍中
     祥、江政鴻及「阿南」詐騙集團即共同基於意圖為自己不法
-    所有之犯意聯絡，由江政鴻告知<font color='red'>謝志忠</font>此事，<font color='red'>謝志忠</font>即基於
+    所有之犯意聯絡，由江政鴻告知謝志忠此事，謝志忠即基於
     縱對方持其存款帳戶作為詐騙之犯罪工具，以及所提領之款
     項係屬詐騙所得之贓款，亦不違背其本意之詐欺取財犯意，
     於附表一編號10犯罪行為欄所載時間、地點將帳戶交付予江
@@ -337,12 +232,12 @@ function openwin(URL,arguments,width,height)
     天明、張洺祿陷於錯誤而匯款至附表二編號11、15被害經過
     情形欄所列之帳戶，並受有財產上之損害。嗣於101年5月28
     日前某時許，江政鴻於接獲「小林」之指示後，先自「阿南
-    」詐騙集團成員處取得<font color='red'>謝志忠</font>帳戶之提款卡及密碼，再於同
+    」詐騙集團成員處取得謝志忠帳戶之提款卡及密碼，再於同
     日下午2時20分許至宜蘭縣壯圍鄉某便利商店之自動提款機
-    ，自<font color='red'>謝志忠</font>帳戶提領9,000元後，交給「阿南」詐騙集團成
-    員。<font color='red'>謝志忠</font>另於101年5月29日下午2時40分許，至中國信託
-    商業銀行宜蘭分行臨櫃自<font color='red'>謝志忠</font>帳戶提領現金100,000元，
-    再由<font color='red'>謝志忠</font>至宜蘭縣羅東鎮中山公園交付予「阿南」詐騙集
+    ，自謝志忠帳戶提領9,000元後，交給「阿南」詐騙集團成
+    員。謝志忠另於101年5月29日下午2時40分許，至中國信託
+    商業銀行宜蘭分行臨櫃自謝志忠帳戶提領現金100,000元，
+    再由謝志忠至宜蘭縣羅東鎮中山公園交付予「阿南」詐騙集
     團成員。
 三、案經黃共桐、陳文峰、童明照訴由宜蘭縣政府警察局礁溪分
     局報告臺灣宜蘭地方法院檢察署、宜蘭縣政府警察局移送臺
@@ -371,8 +266,8 @@ function openwin(URL,arguments,width,height)
     未聲明異議，本院審酌各該證據資料作成時之一切客觀情況
     ，認無違法不當之瑕疵，以之為證據應屬適當，自得為本案
     論罪科刑之依據，合先敘明。
-二、被告江政鴻爭執除同案被告<font color='red'>謝志忠</font>警詢陳述外，其餘同案被
-    告之警詢陳述之證據能力、被告<font color='red'>謝志忠</font>於準備程序爭執同案
+二、被告江政鴻爭執除同案被告謝志忠警詢陳述外，其餘同案被
+    告之警詢陳述之證據能力、被告謝志忠於準備程序爭執同案
     被告江政鴻警詢陳述之證據能力、被告高志清於準備程序爭
     執同案被告黃國華警詢陳述之證據能力、被告簡進興於準備
     程序爭執同案被告高銘鴻、黃國華於警詢中陳述之證據能力
@@ -381,12 +276,12 @@ function openwin(URL,arguments,width,height)
     合同法第159條之3、第159條之5之規定。是對被告江政鴻而
     言，同案被告黃國華、簡進興、高銘鴻、林則安、潘文偉、
     藍中祥、高志清、林韋志、章雅婷、楊順福於警詢陳述，對
-    被告江政鴻而言無證據能力；對被告<font color='red'>謝志忠</font>而言，同案被告
+    被告江政鴻而言無證據能力；對被告謝志忠而言，同案被告
     江政鴻於警詢陳述無證據能力；對被告高志清而言，同案被
     告黃國華於警詢陳述無證據能力；對被告簡進興而言，同案
     被告高銘鴻、黃國華於警詢陳述無證據能力；對被告藍中祥
     而言，同案被告江政鴻於警詢陳述無證據能力。
-三、被告江政鴻、<font color='red'>謝志忠</font>、高志清、簡進興、藍中祥於本院審理
+三、被告江政鴻、謝志忠、高志清、簡進興、藍中祥於本院審理
     時對下列所述其他證據資料，均不爭執其證據能力，本院審
     酌該等證據資料作成時之情況，亦無不宜作為證據之情事，
     依刑事訴訟法第159條之5第2項規定，自均有證據能力。
@@ -419,23 +314,23 @@ function openwin(URL,arguments,width,height)
     華、簡進興、林韋志、高志清之防禦尚無妨礙，附此敘明。
 貳、實體部分：
 一、訊據被告簡進興就上開犯行均坦承不諱；被告黃國華、高銘
-    鴻、<font color='red'>謝志忠</font>、林則安、潘文偉固坦承有事實欄二所載之各項
+    鴻、謝志忠、林則安、潘文偉固坦承有事實欄二所載之各項
     犯行，惟均否認有詐欺或幫助詐欺之犯意；被告林韋志雖坦
     承有附表一編號12、13所載收購同案被告高志清、證人游志
     銘之帳戶，惟否認有與同案被告高志清、黃國華共同收購證
     人游志銘帳戶；被告高志清固坦承有提供自己如附表一編號
     12之帳戶，惟否認有與同案被告林韋志、黃國華共同收購附
     表一編號13之證人游志銘帳戶；被告江政鴻固坦承有事實欄
-    二(九)所載向同案被告<font color='red'>謝志忠</font>收取帳戶後交付予同案被告藍中
-    祥，以及有於102年5月28日自同案被告<font color='red'>謝志忠</font>帳戶內提領款
+    二(九)所載向同案被告謝志忠收取帳戶後交付予同案被告藍中
+    祥，以及有於102年5月28日自同案被告謝志忠帳戶內提領款
     項後交付予不詳之人等情，惟否認有於102年5月29日以電話
-    聯繫同案被告<font color='red'>謝志忠</font>要求其領款，以及與同案被告藍中祥、
-    <font color='red'>謝志忠</font>間有詐欺之犯意聯絡；被告藍中祥則否認有事實欄二
+    聯繫同案被告謝志忠要求其領款，以及與同案被告藍中祥、
+    謝志忠間有詐欺之犯意聯絡；被告藍中祥則否認有事實欄二
     (九)所載之犯行。經查：
-  (一)被告黃國華、高銘鴻、簡進興、林韋志、高志清、<font color='red'>謝志忠</font>、
+  (一)被告黃國華、高銘鴻、簡進興、林韋志、高志清、謝志忠、
     林則安、潘文偉、江政鴻上開坦承部分，業據其等於警詢、
     偵查及本院審理中供承在卷，互核與同案被告黃國華、高銘
-    鴻、簡進興、林韋志、高志清、<font color='red'>謝志忠</font>、林則安、潘文偉、
+    鴻、簡進興、林韋志、高志清、謝志忠、林則安、潘文偉、
     江政鴻、藍中祥於警詢、偵查及本院審理中之證述、同案被
     告楊順福、章雅婷於警詢及偵查中之證述、同案被告陳文德
     、邱盛權於警詢、偵查及本院審理中之證述、證人陳毅樊、
@@ -446,7 +341,7 @@ function openwin(URL,arguments,width,height)
     二編號4-25被害人欄所示之被害人等於警詢時證述在卷，復
     有渠等提出之自動櫃員機交易明細表、附表一編號2-14所示
     帳戶之開戶資料暨交易往來明細資料、被告黃國華、高銘鴻
-    、江政鴻、<font color='red'>謝志忠</font>提款時之監視錄影畫面翻拍照片等附卷足
+    、江政鴻、謝志忠提款時之監視錄影畫面翻拍照片等附卷足
     憑，均堪信為真實。
   (二)被告黃國華固否認有詐欺之犯意，辯稱伊以為是職棒簽賭云
     云，惟：
@@ -679,9 +574,9 @@ function openwin(URL,arguments,width,height)
     之幫助詐欺取財及共同詐欺取財犯意。
   (五)被告藍中祥固否認犯行，辯稱伊僅有介紹同案被告簡進興與
     大陸的「小盧」、「小陳」、「小林」認識云云；被告江政
-    鴻固坦承有收購同案被告<font color='red'>謝志忠</font>帳戶及提領款項，惟辯稱伊
-    只有負責接線，伊沒有打電話叫同案被告<font color='red'>謝志忠</font>提領現金10
-    萬元云云；被告<font color='red'>謝志忠</font>固坦承有交付帳戶予同案被告江政鴻
+    鴻固坦承有收購同案被告謝志忠帳戶及提領款項，惟辯稱伊
+    只有負責接線，伊沒有打電話叫同案被告謝志忠提領現金10
+    萬元云云；被告謝志忠固坦承有交付帳戶予同案被告江政鴻
     及提領款項，惟辯稱是同案被告江政鴻說要到大陸做生意所
     用，伊不知道是要詐騙使用云云。惟查：
   1.被告藍中祥於本院審理中自承：「我去江政鴻開在東港路15
@@ -694,31 +589,31 @@ function openwin(URL,arguments,width,height)
     ，他們要我找要好的朋友，信任的朋友」（見本院102年度
     易字第123號卷(三)第122、429、430頁）。
   2.同案被告江政鴻於偵查中證述：「101年5月時在宜蘭火車站
-    85度c或員山新城，我把<font color='red'>謝志忠</font>的存摺、提款卡交給『黑點
-    』，『黑點』把15000元交給我，我再交給<font color='red'>謝志忠</font>，我是在
-    交給『黑點』前幾天，向<font color='red'>謝志忠</font>拿存摺、提款卡，是在宜蘭
-    東港路的檳榔攤，我拿到錢後在宜蘭交給<font color='red'>謝志忠</font>」、「我幫
-    忙領了一次，是<font color='red'>謝志忠</font>交給我後，我交給他們，隔了一個禮
-    拜，『黑點』在員山星晨把<font color='red'>謝志忠</font>的提款卡交給我，叫我去
+    85度c或員山新城，我把謝志忠的存摺、提款卡交給『黑點
+    』，『黑點』把15000元交給我，我再交給謝志忠，我是在
+    交給『黑點』前幾天，向謝志忠拿存摺、提款卡，是在宜蘭
+    東港路的檳榔攤，我拿到錢後在宜蘭交給謝志忠」、「我幫
+    忙領了一次，是謝志忠交給我後，我交給他們，隔了一個禮
+    拜，『黑點』在員山星晨把謝志忠的提款卡交給我，叫我去
     領，我去壯圍派出所旁的7-11領1萬元，在宜蘭火車站85度c
     交給『黑點』，我都還沒有拿到報酬」（見102年度偵字第
     640號卷(三)第61頁），又於本院審理中稱：「藍中祥看我很
     有禮貌，留電話給我，第二天打電話跟我說他大陸的朋友小
     林需要人頭帳戶，叫我看看有沒有人頭帳戶可以提供給小林
-    ，小林他們要買人頭帳戶，當時<font color='red'>謝志忠</font>在場，他剛好聽到…
-    …<font color='red'>謝志忠</font>的經濟困難，後來<font color='red'>謝志忠</font>就說要提供帳戶，其實我
-    知道這樣收購帳戶應該是不正當的，<font color='red'>謝志忠</font>是剛好聽到要收
-    購帳戶，<font color='red'>謝志忠</font>經濟不好，也知道帳戶是要騙錢使用的……
-    大陸的人叫藍中祥跟我接洽，我跟<font color='red'>謝志忠</font>接洽，大陸的人跟
-    藍中祥說需要什麼資料並拿1萬元給我，我就轉達給<font color='red'>謝志忠
-    </font>，並向<font color='red'>謝志忠</font>拿取資料」、「我有跟<font color='red'>謝志忠</font>說這應該是犯法
+    ，小林他們要買人頭帳戶，當時謝志忠在場，他剛好聽到…
+    …謝志忠的經濟困難，後來謝志忠就說要提供帳戶，其實我
+    知道這樣收購帳戶應該是不正當的，謝志忠是剛好聽到要收
+    購帳戶，謝志忠經濟不好，也知道帳戶是要騙錢使用的……
+    大陸的人叫藍中祥跟我接洽，我跟謝志忠接洽，大陸的人跟
+    藍中祥說需要什麼資料並拿1萬元給我，我就轉達給謝志忠
+    ，並向謝志忠拿取資料」、「我有跟謝志忠說這應該是犯法
     的，不要這麼做」、「我確實有牽線」（102年度易字第123
     號卷(三)430-432頁）；嗣被告江政鴻於本院審理時改稱同案
-    被告<font color='red'>謝志忠</font>的帳戶是由其至東港路郵局把<font color='red'>謝志忠</font>帳戶資料寄
+    被告謝志忠的帳戶是由其至東港路郵局把謝志忠帳戶資料寄
     到大陸去、102年5月28日提領款項應為9,000元，提領之後
     轉直接轉帳給大陸那邊的人（見102年度易字第123號卷(三)第
     134、135頁）。
-  3.被告<font color='red'>謝志忠</font>於本院審理中證述：「101年3月份，江政鴻跟我
+  3.被告謝志忠於本院審理中證述：「101年3月份，江政鴻跟我
     說很久了……他跟我說借給他帳戶，他說他的帳戶被銀行打
     槍，就是不能跟銀行往來……他說他要在大陸做生意，要投
     資大陸生意……他要在大陸領錢，所以我就同意借給他……
@@ -747,24 +642,24 @@ function openwin(URL,arguments,width,height)
     第95 頁），則被告江政鴻於102年5月28日提領後應不可能
     交給被告藍中祥，應以其審理時所述為真，即本次提領所得
     之現金9000元應由被告江政鴻交給「阿南」詐騙集團成員而
-    非被告藍中祥；而被告江政鴻於本院審理雖稱被告<font color='red'>謝志忠</font>帳
-    戶已寄到大陸，惟查被告<font color='red'>謝志忠</font>帳戶之歷史交易明細，其中
+    非被告藍中祥；而被告江政鴻於本院審理雖稱被告謝志忠帳
+    戶已寄到大陸，惟查被告謝志忠帳戶之歷史交易明細，其中
     101年5月14日被害人張洺祿匯款30000元至該帳戶後，即由
     不詳之人於同日以金融卡提領30000元，該帳戶至101年5月
     22日始有以人民幣提款之紀錄（見102年度偵字第640號卷(一)
-    第51-52頁），對照被告<font color='red'>謝志忠</font>上開陳述及被告藍中祥之陳
+    第51-52頁），對照被告謝志忠上開陳述及被告藍中祥之陳
     述，可見該帳戶之金融卡於初始時並未寄至大陸地區，而由
     「阿南」詐騙集團於臺灣所使用，之後才於大陸地區以人民
     幣海外提款方式提領贓款，應以被告江政鴻偵查中證述為真
-    實。綜觀上開被告藍中祥、江政鴻、<font color='red'>謝志忠</font>之陳述，被告藍
+    實。綜觀上開被告藍中祥、江政鴻、謝志忠之陳述，被告藍
     中祥自承曾去過被告江政鴻的店內消費，此與被告江政鴻所
     述相符；而被告藍中祥亦自承曾向被告簡進興表示大陸的「
     小林」、「小陳」、「小盧」等人有意收購人頭帳戶，復參
     酌被告江政鴻稱係被告藍中祥向其表示大陸有人要收購人頭
-    帳戶、被告<font color='red'>謝志忠</font>稱被告江政鴻向其收購帳戶，可見本件「
+    帳戶、被告謝志忠稱被告江政鴻向其收購帳戶，可見本件「
     阿南」詐騙集團係透過被告藍中祥在臺灣地區收購人頭帳戶
-    ，被告藍中祥因此轉知被告江政鴻，被告江政鴻再向被告<font color='red'>謝
-    志忠</font>收購帳戶資料，於收購帳戶資料後再由被告江政鴻將帳
+    ，被告藍中祥因此轉知被告江政鴻，被告江政鴻再向被告謝
+    志忠收購帳戶資料，於收購帳戶資料後再由被告江政鴻將帳
     戶資料交付予被告藍中祥轉交「阿南」詐騙集團。
   5.被告藍中祥既有向被告江政鴻轉達收購人頭帳戶之事，又有
     轉交人頭帳戶資料予詐騙集團，而被告藍中祥並未提供自己
@@ -777,23 +672,23 @@ function openwin(URL,arguments,width,height)
     告藍中祥自始即知「小林」、「小陳」、「小盧」等人欲從
     事詐騙行為，仍聽從其等之指示在臺灣收購帳戶。
   6.被告江政鴻雖稱只有負責接線，惟其既有提領款項後匯給「
-    阿南」詐騙集團，又自稱知道被告<font color='red'>謝志忠</font>帳戶是要從事詐騙
-    所用，其於本院審理時雖稱忘記提領被告<font color='red'>謝志忠</font>帳戶時之提
+    阿南」詐騙集團，又自稱知道被告謝志忠帳戶是要從事詐騙
+    所用，其於本院審理時雖稱忘記提領被告謝志忠帳戶時之提
     款卡為何人所交付，但顯為「阿南」詐騙集團之成員，是被
     告江政鴻所為自非僅有「接線」，而屬參與「阿南」詐騙集
     團收購人頭帳戶及提領贓款之犯罪行為。
-  7.被告<font color='red'>謝志忠</font>雖稱交付帳戶資料不知是詐騙使用云云，惟依被
-    告<font color='red'>謝志忠</font>前開辯詞，若被告江政鴻既告知使用帳戶之目的是
+  7.被告謝志忠雖稱交付帳戶資料不知是詐騙使用云云，惟依被
+    告謝志忠前開辯詞，若被告江政鴻既告知使用帳戶之目的是
     要在大陸做生意，但依常情判斷即可知在大陸做生意為何不
     能使用自己帳戶？況在大陸做生意又有何理由必須使用臺灣
-    地區之提款卡？種種說詞實啟人疑竇，不符常理。且被告<font color='red'>謝
-    志忠</font>既已覺得有問題而去終止帳戶，為何又將自己帳戶內提
-    領出之款項交付予他人？可見被告<font color='red'>謝志忠</font>於交付帳戶及提領
+    地區之提款卡？種種說詞實啟人疑竇，不符常理。且被告謝
+    志忠既已覺得有問題而去終止帳戶，為何又將自己帳戶內提
+    領出之款項交付予他人？可見被告謝志忠於交付帳戶及提領
     款項時，對於該帳戶可能為詐騙集團所使用、其帳戶內之金
-    錢可能涉及財產犯罪均有所認識，足徵被告<font color='red'>謝志忠</font>存有縱對
+    錢可能涉及財產犯罪均有所認識，足徵被告謝志忠存有縱對
     方持其存款帳戶作為詐騙之犯罪工具，以及所提領之款項係
     屬詐騙所得之贓款，均不違背其本意之詐欺取財犯意。
-  8.綜上，被告藍中祥、江政鴻、<font color='red'>謝志忠</font>間就本件詐欺取財犯行
+  8.綜上，被告藍中祥、江政鴻、謝志忠間就本件詐欺取財犯行
     ，有犯意聯絡及行為分擔，其所辯均係畏罪卸責之詞，不足
     採信。
   (六)被告林則安、潘文偉固均坦承有將帳戶交給被告黃國華、高
@@ -830,7 +725,7 @@ function openwin(URL,arguments,width,height)
     文偉均有縱對方持其存款帳戶作為詐騙之犯罪工具，亦不違
     背其本意之幫助詐欺取財犯意。
   (七)綜上，本件事證明確，被告黃國華、簡進興、高銘鴻、藍中
-    祥、林韋志、高志清、江政鴻、<font color='red'>謝志忠</font>、林則安、潘文偉之
+    祥、林韋志、高志清、江政鴻、謝志忠、林則安、潘文偉之
     犯行均堪以認定，均應依法論科。
 二、論罪部分：                  
   (一)併辦部分：臺灣宜蘭地方法院檢察官102年度偵字第340號、
@@ -875,7 +770,7 @@ function openwin(URL,arguments,width,height)
     二(七)部分，被告黃國華、高銘鴻、簡進興與「阿南」詐騙集
     團間；事實欄二(八)部分，被告黃國華、高銘鴻、簡進興、林
     奕鑫與「阿南」詐騙集團間；事實欄二(九)部分，被告藍中祥
-    、江政鴻、<font color='red'>謝志忠</font>與「阿南」詐騙集團間，俱有犯意聯絡及
+    、江政鴻、謝志忠與「阿南」詐騙集團間，俱有犯意聯絡及
     行為分擔，均為共同正犯。
   (三)上開被告等就詐欺如附表二編號4、5、7-19等被害人，就同
     一被害人所為數次詐欺犯行間，時間密接，且經周密佈局，
@@ -910,13 +805,13 @@ function openwin(URL,arguments,width,height)
     詐欺取財罪，其與同案被告林韋志共同收購證人游志銘帳戶
     部分交由詐騙集團為詐欺犯行之被害人有附表二編號5、7、
     9、13、15、17、18所示之被害人，所為係犯刑法第339條第
-    1項之詐欺取財罪，共成立7罪詐欺取財罪；被告江政鴻、<font color='red'>謝
-    志忠</font>、藍中祥所為，均應就被告<font color='red'>謝志忠</font>帳戶之被害人部分成
+    1項之詐欺取財罪，共成立7罪詐欺取財罪；被告江政鴻、謝
+    志忠、藍中祥所為，均應就被告謝志忠帳戶之被害人部分成
     立犯罪，本部分有附表二編號11、15所示之被害人，所為均
     犯刑法第339條第1項之詐欺取財罪，均成立2罪詐欺取財罪
     ；被告林則安、潘文偉提供帳戶資料所為，均係犯刑法第30
     條、第339條第1項之幫助詐欺取財罪。
-  (五)被告<font color='red'>謝志忠</font>曾受有如上事實欄一所載之犯罪科刑及執行情形
+  (五)被告謝志忠曾受有如上事實欄一所載之犯罪科刑及執行情形
     ，有臺灣高等法院被告全國前案紀錄表1份在卷可稽，其於
     徒刑執行完畢後5年內故意再犯本件有期徒刑以上之罪，為
     累犯，依法加重其刑。
@@ -940,7 +835,7 @@ function openwin(URL,arguments,width,height)
     被告高銘鴻原於偵查中坦承犯行，嗣後又於本院審理中改口
     否認詐欺犯意，惟已與被害人吳帝養達成和解；被告簡進興
     坦承全部犯行；被告藍中祥否認全部犯行；被告林韋志、高
-    志清、江政鴻、<font color='red'>謝志忠</font>否認詐欺犯意；被告林則安、陳文偉
+    志清、江政鴻、謝志忠否認詐欺犯意；被告林則安、陳文偉
     否認詐欺犯意。其中被告黃國華、簡進興、藍中祥在本件犯
     罪中屬上層，可直接與「阿南」詐騙集團之「阿南」、「小
     林」、「小陳」、「小盧」等人聯繫，並將帳戶資料交付予
@@ -959,7 +854,7 @@ function openwin(URL,arguments,width,height)
     犯後態度難認良好；被告藍中祥於本院審理時推卸全部犯行
     及責任，犯後態度不佳；被告江政鴻於本院審理時就提領款
     項部分含糊其詞，惟尚能坦承犯行，犯後態度尚稱良好；被
-    告<font color='red'>謝志忠</font>則僅負責提供人頭帳戶及提領款項，並就全部事實
+    告謝志忠則僅負責提供人頭帳戶及提領款項，並就全部事實
     交待明確，態度尚可；被告林則安、潘文偉僅坦承部分犯行
     ，兼衡被害人等遭詐騙之金額高低有別、被告等人參與程度
     、分工情狀、暨各被告之犯罪動機、目的、手段、生活狀況
@@ -1125,86 +1020,12 @@ function openwin(URL,arguments,width,height)
 刑法第30條
 幫助他人實行犯罪行為者，為幫助犯。雖他人不知幫助之情者，
 亦同。
-幫助犯之處罰，得按正犯之刑減輕之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWILD\CRIMINAL\10212\23\ILDM102CN.001] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=000048&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c48%2c20131223%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=48&jdate=1021223&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c48%2c20131223%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=48&jdate=1021223&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c48%2c20131223%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','48','1021223','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="ILD 臺灣宜蘭地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="謝志忠">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="謝志忠">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+幫助犯之處罰，得按正犯之刑減輕之。
+[*jrecno*]102,易,48,20131223,1
+[*v_court*]ILD 臺灣宜蘭地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]易
+[*jno*]48
+[*jdate*]1021223
+[*jcheck*]1

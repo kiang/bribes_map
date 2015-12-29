@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-101選訴4</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000004&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%81%b8%e8%a8%b4&jno=4&jdate=1010731&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%81%b8%e8%a8%b4&jno=4&jdate=1010731&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e9%81%b8%e8%a8%b4','4','1010731','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,選訴,4</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010731</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反公職人員選舉罷免法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　101年度選訴字第4號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%81%b8%e8%a8%b4&jno=4&jdate=1010731&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000004&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%81%b8%e8%a8%b4&jno=4&jdate=1010731&jcheck=1
+[*裁判字號*]101,選訴,4
+[*裁判日期*]1010731
+[*裁判案由*]違反公職人員選舉罷免法
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　101年度選訴字第4號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　詹金水
 選任辯護人　王昌鑫律師
@@ -123,20 +16,20 @@ function openwin(URL,arguments,width,height)
 詹金水無罪。
     理  由
 一、公訴意旨略以：被告詹金水現為彰化縣二林鎮廣興里里長，
-    為求候選人<font color='red'>鄭汝芬</font>順利當選中華民國第八屆彰化縣第三選區
+    為求候選人鄭汝芬順利當選中華民國第八屆彰化縣第三選區
     之立法委員，竟基於行賄具投票權之人之集合犯意，先於民
     國100 年12月底某日下午，單獨駕駛BMW 廠牌車牌號碼5077
     -D5 號休旅車前往彰化縣二林鎮廣興里廣興巷38號楊逢春（
     所涉投票受賄罪另經臺灣彰化地方法院檢察署檢察官為緩起
     訴處分）住處，在該住處門口當場將新臺幣（下同）2,000
     元現金之賄賂交付予楊逢春，以前述方式行賄楊逢春，並約
-    使楊逢春屆期投票支持<font color='red'>鄭汝芬</font>當選本屆立法委員；復於當日
+    使楊逢春屆期投票支持鄭汝芬當選本屆立法委員；復於當日
     下午，又在彰化縣二林鎮○○里○○路上載有二林廣興社區
     字樣之碑牌處（楊逢春住處附近）遇到楊萬生（所涉投票受
     賄罪另經同署檢察官為緩起訴處分），當場再將2,000 元現
-    金之賄賂交付予楊萬生，並同時交付<font color='red'>鄭汝芬</font>立法委員候選人
+    金之賄賂交付予楊萬生，並同時交付鄭汝芬立法委員候選人
     之相關文宣予楊萬生，以前述方式行賄楊萬生，並約使楊萬
-    生屆期投票支持<font color='red'>鄭汝芬</font>當選本屆立法委員。嗣於101 年1 月
+    生屆期投票支持鄭汝芬當選本屆立法委員。嗣於101 年1 月
     10日臺灣彰化地方法院檢察署檢察官據報後，指揮彰化縣警
     察局芳苑分局員警傳喚楊逢春及楊萬生2 人，並拘提被告詹
     金水未果，嗣經被告詹金水於翌日（11日）主動到案說明，
@@ -182,10 +75,10 @@ function openwin(URL,arguments,width,height)
       ，其中關於筆錄記載「（問：你是否認識廣興里里長詹金
       水及涂元森？）均認識，我及涂元森都是詹金水的親戚，
       我要叫詹金水父親舅舅」、「（問：選舉期間詹金水是否
-      有拿2 千元賄款給妳，要你支持立委候選人<font color='red'>鄭汝芬</font>？）有
+      有拿2 千元賄款給妳，要你支持立委候選人鄭汝芬？）有
       ，大約在12月底下午詹金水獨自駕駛廠牌BMW 的自小客車
       到我家，在我家門口將2 千元現金交給我，要我本屆立法
-      委員選舉時要投票支持<font color='red'>鄭汝芬</font>，我因為與詹金水是親戚關
+      委員選舉時要投票支持鄭汝芬，我因為與詹金水是親戚關
       係，就將前開賄款收下」、「（問：詹金水有無告知你他
       所向你行賄之款項，是自何來？）在我收到賄款後，我與
       詹金水在路上巧遇一名調解委員洪自然，洪自然與詹金水
@@ -209,14 +102,14 @@ function openwin(URL,arguments,width,height)
       金水及楊逢春？）均認識，楊逢春是廣興社區發展協會理
       事長，詹金水是我們該里里長，我是該發展協會環保義工
       」、「（問：選舉期間詹金水是否有拿2 千元賄款給你，
-      要你支持立委候選人<font color='red'>鄭汝芬</font>？）有，大約在<font color='red'>鄭汝芬</font>二林地
+      要你支持立委候選人鄭汝芬？）有，大約在鄭汝芬二林地
       區服務處成立時，詳細時間我忘記了，詹金水於當日上午
       在二林鎮○○里○○路載有二林廣興社區字樣之碑牌處，
       詹金水獨自駕駛廠牌BMW 的休旅車到上開地點，將2 千元
-      現金交給我，並將馬英九及吳敦義正副總統候選人及<font color='red'>鄭汝
-      芬</font>立委候選人文宣一併交給我，並表示要我本屆立法委員
+      現金交給我，並將馬英九及吳敦義正副總統候選人及鄭汝
+      芬立委候選人文宣一併交給我，並表示要我本屆立法委員
       選舉時如果可以的話再互相（台語譯音，意即立委投票時
-      投票支持<font color='red'>鄭汝芬</font>），我就將前開賄款收下」、「（問：詹
+      投票支持鄭汝芬），我就將前開賄款收下」、「（問：詹
       金水有無告知你他所向你行賄之款項，是自何來？）不知
       道」、「（問：詹金水除了將賄選款項交給你，還有交給
       何人？）我不清楚」、「（問：你是否願意主動所收受的
@@ -310,13 +203,13 @@ function openwin(URL,arguments,width,height)
     後交付2,000 元予楊逢春、楊萬生之事實，惟堅決否認有何
     投票交付賄賂犯行，辯稱：楊逢春是社區發展協會理事長，
     那陣子常常帶人去掃地、澆水及清掃環境，給他2,000 元是
-    要讓他可以買一些涼水給人家喝，並未拜託楊逢春支持<font color='red'>鄭汝
-    芬</font>，之前伊都會這樣做，以後還是會這樣做；關於楊萬生部
+    要讓他可以買一些涼水給人家喝，並未拜託楊逢春支持鄭汝
+    芬，之前伊都會這樣做，以後還是會這樣做；關於楊萬生部
     分，平常不管是路燈或路面壞掉，里民向楊萬生反應，楊萬
     生就會來找伊處理，伊也曾經叫他去農會載面紙及文宣給里
     民，再加上楊萬生平時對里內的貢獻，伊交付2,000 元是要
-    給楊萬生一些彌補，交付金錢之際，並未向他表明關於<font color='red'>鄭汝
-    芬</font>參與選舉之事，也沒有交付選舉的文宣品；伊上開所為均
+    給楊萬生一些彌補，交付金錢之際，並未向他表明關於鄭汝
+    芬參與選舉之事，也沒有交付選舉的文宣品；伊上開所為均
     無買票的意思等語。辯護人則以被告固然有交付2,000 元予
     楊逢春及楊萬生，但並非向其等行賄之用，且證人楊逢春、
     楊萬生於偵查中證述之筆錄記載與錄音錄影光碟之內容出入
@@ -340,12 +233,12 @@ function openwin(URL,arguments,width,height)
     。
   (二)依本院勘驗證人楊逢春於偵訊中證述之錄音錄影光碟略以：
     「（問：選舉期間，這個詹金水是否有拿賄款2,000 元給你
-    ，叫你支持他<font color='red'>鄭汝芬</font>？）有」、「（問：什麼時間？）日期
+    ，叫你支持他鄭汝芬？）有」、「（問：什麼時間？）日期
     我忘了，大約差不多這2 、3 個禮拜，就那天他們農會有辦
     聚餐，約12月底，可以去查他們辦聚餐那天」、「（問：拿
     去你家給你嗎？）嘿」、「（問：在客廳交給你的嗎？）門
     口，沒有進來家裡面」、「（問：2 千元嘛？）（點頭）」
-    、「（問：叫你這次立委選舉要支持<font color='red'>鄭汝芬</font>，要投票給她？
+    、「（問：叫你這次立委選舉要支持鄭汝芬，要投票給她？
     ）恩哼。（點頭）」、「（問：你那時錢就收起來，就答應
     好囉？）事實上我本身綠的，我嘛是攏講麥麥麥，黑攏綠的
     ，黑是白賊（笑）」、「（問：所以你是因為親戚關係才把
@@ -387,7 +280,7 @@ function openwin(URL,arguments,width,height)
     錢，也會購買飲料、中餐等，而這段時間社區在施作腳踏車
     步道，其有時會與楊萬生一同去澆水、打掃環境，詹金水表
     示這段時間其很辛苦而交付2,000 元，交付之際並未提及有
-    關選舉的事情，也沒有表示要支持誰，亦無交付<font color='red'>鄭汝芬</font>的競
+    關選舉的事情，也沒有表示要支持誰，亦無交付鄭汝芬的競
     選文宣，其與詹金水聊了2 、30分鐘後詹金水即離去，不知
     道詹金水接下來要去找誰；至於其在偵訊中的陳述，因為那
     段期間身體、精神狀況不好，且當天工作是排中班，至地檢
@@ -484,7 +377,7 @@ function openwin(URL,arguments,width,height)
     府選舉宣導，而其實際上也有以該2,000 元購買麵與飲料給
     施作自行車步道的人吃；詹金水在交付2,000 元前曾經要其
     去載運印有馬英九與臺灣加油、總統與副總統肖像的面紙，
-    以及印有<font color='red'>鄭汝芬</font>的農民曆，兩者時間先後相距6 天；至於其
+    以及印有鄭汝芬的農民曆，兩者時間先後相距6 天；至於其
     接受檢察官緩起訴處分是因為想要趕快離開等語（見本院卷
     第83頁背面至87頁）。是證人楊萬生就被告交付2,000 元之
     原因為何，不論於偵訊證稱係為了慰勞其身為義工之辛苦等
@@ -498,7 +391,7 @@ function openwin(URL,arguments,width,height)
     不是這樣？）他講有剛好擱互相啦。我是講問我朋友看麥阿
     。互相服務」等語，以及於本院審理中證稱被告交付2,000
     之際，有提及要叫選民出來投票等語，固可證明被告支持立
-    法委員候選人<font color='red'>鄭汝芬</font>，並有拉票之舉，惟在無其他積極證據
+    法委員候選人鄭汝芬，並有拉票之舉，惟在無其他積極證據
     可資佐證之情形下，可否逕此與被告交付2,000 元之行為相
     互勾稽，而認被告被告交付2,000 元予證人楊萬生之行為，
     主觀上係基於行賄之意思，而該交付2,000 元之行為，是否
@@ -511,7 +404,7 @@ function openwin(URL,arguments,width,height)
     告犯罪之證據。故公訴人前開所舉，尚不足作為認定被告涉
     有本件犯行之證據。
   (四)又公訴人主張證人楊逢春、楊萬生在緊接時間收到相同的金
-    額，又皆與<font color='red'>鄭汝芬</font>有關，可互為補強證據等語。然證人楊逢
+    額，又皆與鄭汝芬有關，可互為補強證據等語。然證人楊逢
     春、楊萬生證稱被告交付2,000 元之時間、地點均不相同，
     業經本院認定如前，顯見被告各次交付2,000 元之行為各自
     獨立，彼此互不相屬，故證人楊逢春、楊萬生前開證述尚難
@@ -531,86 +424,12 @@ function openwin(URL,arguments,width,height)
 檢察官如不服本判決，應自判決送達之日起十日內，向本院提起
 上訴。
 中    華    民    國   101    年    7     月    31    日
-                                      書記官  顧嘉文</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10107\31\CHDM1017V.036] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%81%b8%e8%a8%b4&selectedCrmno=000004&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%81%b8%e8%a8%b4&jno=4&jdate=1010731&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%81%b8%e8%a8%b4&jno=4&jdate=1010731&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e9%81%b8%e8%a8%b4%2c4%2c20120731%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e9%81%b8%e8%a8%b4','4','1010731','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="鄭汝芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="鄭汝芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+                                      書記官  顧嘉文
+[*jrecno*]101,選訴,4,20120731,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]選訴
+[*jno*]4
+[*jdate*]1010731
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-102訴1720</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=001720&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c1720%2c20140108%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1720&jdate=1030108&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c1720%2c20140108%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1720&jdate=1030108&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c1720%2c20140108%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','1720','1030108','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,1720</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030108</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　 102年度訴字第1720號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c1720%2c20140108%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1720&jdate=1030108&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=001720&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c1720%2c20140108%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1720&jdate=1030108&jcheck=1
+[*裁判字號*]102,訴,1720
+[*裁判日期*]1030108
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　 102年度訴字第1720號
 公　訴　人　臺灣新北地方法院檢察署檢察官
 被　　　告　楊定明
 選任辯護人　鄭佑祥律師
@@ -121,7 +14,7 @@ function openwin(URL,arguments,width,height)
     主  文
 楊定明犯如附表編號一至七所示之罪，各處如附表編號一至七主
 文欄所示之刑。應執行有期徒刑陸年，扣案之第二級毒品甲基安
-非他命、MDMA玖拾柒顆（總驗餘淨重貳拾捌點壹<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />公克）沒收銷
+非他命、MDMA玖拾柒顆（總驗餘淨重貳拾捌點壹公克）沒收銷
 燬，扣案之第三級毒品愷他命伍拾壹包（總驗餘純質淨重貳拾捌
 點玖零陸陸公克）、上開甲基安非他命、MDMA之包裝袋共拾個、
 上開愷他命之包裝袋共伍拾壹個、行動電話壹支（含門號○○○
@@ -136,7 +29,7 @@ function openwin(URL,arguments,width,height)
     三級毒品愷他命之犯意，以其所持用之門號0000000000號行
     動電話為聯絡工具，於如附表所示時、地，分別以附表編號
     1 至7 所示之對價販賣如附表編號1 至7 所示之毒品種類及
-    數量與陳俊仰、<font color='red'>吳俊德</font>、吳詠賢。嗣經警於民國102 年4 月
+    數量與陳俊仰、吳俊德、吳詠賢。嗣經警於民國102 年4 月
     2 日14時30分許，持搜索票至楊定明位於新北市○○區○○
     路0 段00○0 號15樓住處執行搜索，當場扣得含有第二級毒
     品甲基安非他命、MDMA之藥錠共97顆（總淨重29公克，總驗
@@ -163,10 +56,10 @@ function openwin(URL,arguments,width,height)
     亦查無違反法定程序取得之情形，依刑事訴訟法第158 條之
     4 反面規定，亦具證據能力，合先敘明。
 二、訊據被告楊定明對上開犯罪事實於偵查中及本院審理中均坦
-    承不諱，核與證人陳俊仰、<font color='red'>吳俊德</font>、吳詠賢於偵查中證述大
+    承不諱，核與證人陳俊仰、吳俊德、吳詠賢於偵查中證述大
     致相符（見偵卷第64頁至第65頁、第69頁至第71頁、第89頁
     至第90頁），並有被告所使用0000000000號行動電話與陳俊
-    仰所使用0000000000號行動電話、<font color='red'>吳俊德</font>所使用0000000000
+    仰所使用0000000000號行動電話、吳俊德所使用0000000000
     號行動電話、吳詠賢所使用0000000000號行動電話間之通訊
     監察譯文及各該通訊監察書在卷可佐（見偵卷第22頁至第23
     頁、第25頁至第26頁、第33頁、第37頁至第42頁）。又被告
@@ -197,13 +90,13 @@ function openwin(URL,arguments,width,height)
     從中賺一點點差價等語（見偵卷第8 頁反面、第80頁至第81
     頁），是被告確實有賺取差價營利之意圖及事實，至為灼然
     。又附表編號2 、3 、5 被告販賣第三級毒品愷他命與證人
-    <font color='red'>吳俊德</font>之價額一節，被告供稱因其每次購入毒品之價格不同
+    吳俊德之價額一節，被告供稱因其每次購入毒品之價格不同
     ，販售的價格不一定，一小包愷他命約在380 元至450 元之
-    間等語（見偵卷第80頁），證人<font color='red'>吳俊德</font>亦證述附表編號2、3
+    間等語（見偵卷第80頁），證人吳俊德亦證述附表編號2、3
     所示部分係當場給付被告400 元至430 元、附表編號5 部分
     係當場給付被告850 元至900 元等語（見偵卷第69頁至第70
     頁），而無法確實得知被告於附表編號2 、3 、5 販賣愷他
-    命與<font color='red'>吳俊德</font>之正確交易金額一情，爰依「罪證有疑，利於被
+    命與吳俊德之正確交易金額一情，爰依「罪證有疑，利於被
     告」之原則，就起訴書所載未能明確之販賣金額均以最低金
     額分別認定如附表編號2 、3 、5 所載。綜上，足認被告前
     述任意性之自白與事實相符，被告販賣第二級毒品甲基安非
@@ -379,7 +272,7 @@ function openwin(URL,arguments,width,height)
 │  │        │附近    │        │00000000號行動電話│2,400 元（起訴│        │基安非他命、│
 │  │        │        │        │通話，並相約在前開│書原記載「含有│        │MDMA玖拾柒顆│
 │  │        │        │        │時、地，由楊定明販│第二級毒品MDMA│        │（總驗餘淨重│
-│  │        │        │        │賣含有第二級毒品甲│、甲基安非他命│        │貳拾捌點壹<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />│
+│  │        │        │        │賣含有第二級毒品甲│、甲基安非他命│        │貳拾捌點壹│
 │  │        │        │        │基安非他命、MDMA之│之錠劑1 顆；第│        │公克）沒收銷│
 │  │        │        │        │錠劑2 顆及第三級毒│三級毒品愷他命│        │燬，扣案之第│
 │  │        │        │        │品愷他命2 小包與陳│1 小包，共1,40│        │三級毒品愷他│
@@ -410,7 +303,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │                  │              │        │。          │
 │  │        │        │        │                  │              │        │            │
 ├─┼────┼────┼────┼─────────┼───────┼────┼──────┤
-│2 │102年1月│新北市永│<font color='red'>吳俊德  </font>│<font color='red'>吳俊德</font>於102 年1 月│第三級毒品愷他│毒品危害│楊定明販賣第│
+│2 │102年1月│新北市永│吳俊德  │吳俊德於102 年1 月│第三級毒品愷他│毒品危害│楊定明販賣第│
 │  │20日18時│和區中正│        │20日17時29分許，以│命1 小包 400元│防制條例│三級毒品，處│
 │  │許      │路某處  │        │所持用之門號092805│              │第4 條第│有期徒刑壹年│
 │  │        │        │        │0700號行動電話與楊│              │3 項    │肆月，扣案之│
@@ -419,8 +312,8 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │通話，並相約在前開│              │        │（總驗餘純質│
 │  │        │        │        │時、地，由楊定明販│              │        │淨重貳拾捌點│
 │  │        │        │        │賣第三級毒品愷他命│              │        │玖零陸陸公克│
-│  │        │        │        │1 小包與<font color='red'>吳俊德</font>，並│              │        │）、上開愷他│
-│  │        │        │        │當場向<font color='red'>吳俊德</font>收取40│              │        │命之包裝袋共│
+│  │        │        │        │1 小包與吳俊德，並│              │        │）、上開愷他│
+│  │        │        │        │當場向吳俊德收取40│              │        │命之包裝袋共│
 │  │        │        │        │0 元之價額而完成交│              │        │伍拾壹個、行│
 │  │        │        │        │易。              │              │        │動電話壹支（│
 │  │        │        │        │                  │              │        │含門號○九三│
@@ -438,7 +331,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │                  │              │        │產抵償之。  │
 │  │        │        │        │                  │              │        │            │
 ├─┼────┼────┼────┼─────────┼───────┼────┼──────┤
-│3 │102年1月│新北市永│<font color='red'>吳俊德  </font>│<font color='red'>吳俊德</font>於102 年1 月│第三級毒品愷他│毒品危害│楊定明販賣第│
+│3 │102年1月│新北市永│吳俊德  │吳俊德於102 年1 月│第三級毒品愷他│毒品危害│楊定明販賣第│
 │  │22日22時│和區中正│        │22日22時14分許，以│命1 小包400 元│防制條例│三級毒品，處│
 │  │45分至23│路某處  │        │所持用之門號092805│              │第4 條第│有期徒刑壹年│
 │  │時20分間│        │        │0700號行動電話與楊│              │3 項    │肆月，扣案之│
@@ -447,8 +340,8 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │通話，並相約在前開│              │        │（總驗餘純質│
 │  │        │        │        │時、地，由楊定明販│              │        │淨重貳拾捌點│
 │  │        │        │        │賣第三級毒品愷他命│              │        │玖零陸陸公克│
-│  │        │        │        │1 小包與<font color='red'>吳俊德</font>，並│              │        │）、上開愷他│
-│  │        │        │        │當場向<font color='red'>吳俊德</font>收取40│              │        │命之包裝袋共│
+│  │        │        │        │1 小包與吳俊德，並│              │        │）、上開愷他│
+│  │        │        │        │當場向吳俊德收取40│              │        │命之包裝袋共│
 │  │        │        │        │0 元之價額而完成交│              │        │伍拾壹個、行│
 │  │        │        │        │易。              │              │        │動電話壹支（│
 │  │        │        │        │                  │              │        │含門號○九三│
@@ -467,7 +360,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │                  │              │        │            │
 │  │        │        │        │                  │              │        │            │
 ├─┼────┼────┼────┼─────────┼───────┼────┼──────┤
-│4 │102 年2 │臺北市大│<font color='red'>吳俊德  </font>│<font color='red'>吳俊德</font>於102 年2 月│第三級毒品愷他│毒品危害│楊定明販賣第│
+│4 │102 年2 │臺北市大│吳俊德  │吳俊德於102 年2 月│第三級毒品愷他│毒品危害│楊定明販賣第│
 │  │月14日22│安區忠孝│        │14日22時31分許，以│命10 小包，共 │防制條例│三級毒品，處│
 │  │時31分後│東路4 段│        │所持用之門號092805│4,000 元      │第4 條第│有期徒刑壹年│
 │  │之某時  │223巷5號│        │0700號行動電話與楊│              │3 項    │捌月，扣案之│
@@ -476,8 +369,8 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │通話，並相約在前開│              │        │（總驗餘純質│
 │  │        │        │        │時、地，由楊定明販│              │        │淨重貳拾捌點│
 │  │        │        │        │賣第三級毒品愷他命│              │        │玖零陸陸公克│
-│  │        │        │        │10小包與<font color='red'>吳俊德</font>，並│              │        │）、上開愷他│
-│  │        │        │        │當場向<font color='red'>吳俊德</font>收取4,│              │        │命之包裝袋共│
+│  │        │        │        │10小包與吳俊德，並│              │        │）、上開愷他│
+│  │        │        │        │當場向吳俊德收取4,│              │        │命之包裝袋共│
 │  │        │        │        │000 元價額而完成交│              │        │伍拾壹個、行│
 │  │        │        │        │易。              │              │        │動電話壹支（│
 │  │        │        │        │                  │              │        │含門號○九三│
@@ -496,7 +389,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │                  │              │        │            │
 │  │        │        │        │                  │              │        │            │
 ├─┼────┼────┼────┼─────────┼───────┼────┼──────┤
-│5 │102年2月│新北市永│<font color='red'>吳俊德  </font>│<font color='red'>吳俊德</font>於102 年2 月│第三級毒品愷他│毒品危害│楊定明販賣第│
+│5 │102年2月│新北市永│吳俊德  │吳俊德於102 年2 月│第三級毒品愷他│毒品危害│楊定明販賣第│
 │  │15日23時│和區中正│        │15日23時11分許（起│命2 小包共850 │防制條例│三級毒品，處│
 │  │11分許後│路某處  │        │訴書誤載為1 分許）│元            │第4 條第│有期徒刑壹年│
 │  │10分鐘內│        │        │，以所持用之門號09│              │3 項    │陸月，扣案之│
@@ -506,8 +399,8 @@ function openwin(URL,arguments,width,height)
 │  │）      │        │        │電話通話，並相約在│              │        │淨重共貳拾捌│
 │  │        │        │        │前開時、地，由楊定│              │        │點玖零陸陸公│
 │  │        │        │        │明販賣第三級毒品愷│              │        │克）、上開愷│
-│  │        │        │        │他命2 小包與<font color='red'>吳俊德</font>│              │        │他命之包裝袋│
-│  │        │        │        │，並當場向<font color='red'>吳俊德</font>收│              │        │共伍拾壹個、│
+│  │        │        │        │他命2 小包與吳俊德│              │        │他命之包裝袋│
+│  │        │        │        │，並當場向吳俊德收│              │        │共伍拾壹個、│
 │  │        │        │        │取850 元之價額而當│              │        │行動電話壹支│
 │  │        │        │        │場完成交易。      │              │        │（含門號○九│
 │  │        │        │        │                  │              │        │三○三○○六│
@@ -533,7 +426,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │00000000號行動電話│500 元        │        │基安非他命、│
 │  │        │        │        │通話，並相約在前開│              │        │MDMA玖拾柒顆│
 │  │        │        │        │時、地，由楊定明販│              │        │（總驗餘淨重│
-│  │        │        │        │賣含有第二級毒品甲│              │        │貳拾捌點壹<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />│
+│  │        │        │        │賣含有第二級毒品甲│              │        │貳拾捌點壹│
 │  │        │        │        │基安非他命、MDMA之│              │        │公克）沒收銷│
 │  │        │        │        │錠劑2 顆及第三級毒│              │        │燬，扣案之第│
 │  │        │        │        │品愷他命1 小包與吳│              │        │三級毒品愷他│
@@ -564,7 +457,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │                  │              │        │償之。      │
 │  │        │        │        │                  │              │        │            │
 ├─┼────┼────┼────┼─────────┼───────┼────┼──────┤
-│7 │102年3月│新北市永│<font color='red'>吳俊德  </font>│<font color='red'>吳俊德</font>於102 年3 月│含有第二級毒品│毒品危害│楊定明販賣第│
+│7 │102年3月│新北市永│吳俊德  │吳俊德於102 年3 月│含有第二級毒品│毒品危害│楊定明販賣第│
 │  │12日19時│和區中正│        │12日18時54分許，以│甲基安非他命、│防制條例│二級毒品，處│
 │  │許      │路某處  │        │所持用之門號092805│MDMA之錠劑6顆 │第4條第2│有期徒刑貳年│
 │  │        │        │        │0700號行動電話與楊│、第三級毒品愷│項、第4 │，扣案之第二│
@@ -572,7 +465,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │00000000號行動電話│440 元        │        │非他命、MDMA│
 │  │        │        │        │通話，並相約在前開│              │        │玖拾柒顆（總│
 │  │        │        │        │時、地，由楊定明販│              │        │驗餘淨重貳拾│
-│  │        │        │        │賣含有第二級毒品甲│              │        │捌點壹<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />公克│
+│  │        │        │        │賣含有第二級毒品甲│              │        │捌點壹公克│
 │  │        │        │        │基安非他命、MDMA之│              │        │）沒收銷燬，│
 │  │        │        │        │錠劑6 顆及第三級毒│              │        │扣案之第三級│
 │  │        │        │        │品愷他命2 小包與吳│              │        │毒品愷他命伍│
@@ -595,93 +488,19 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │                  │              │        │袋壹佰陸拾個│
 │  │        │        │        │                  │              │        │均沒收；未扣│
 │  │        │        │        │                  │              │        │案之犯罪所得│
-│  │        │        │        │                  │              │        │新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />仟肆│
+│  │        │        │        │                  │              │        │新臺幣仟肆│
 │  │        │        │        │                  │              │        │佰肆拾元沒收│
 │  │        │        │        │                  │              │        │，如全部或一│
 │  │        │        │        │                  │              │        │部不能沒收時│
 │  │        │        │        │                  │              │        │，以其財產抵│
 │  │        │        │        │                  │              │        │償之。      │
 │  │        │        │        │                  │              │        │            │
-└─┴────┴────┴────┴─────────┴───────┴────┴──────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10301\08\PCDM10318.02D] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=001720&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c1720%2c20140108%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1720&jdate=1030108&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c1720%2c20140108%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=1720&jdate=1030108&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c1720%2c20140108%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','1720','1030108','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴────┴────┴────┴─────────┴───────┴────┴──────┘
+[*jrecno*]102,訴,1720,20140108,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]1720
+[*jdate*]1030108
+[*jcheck*]1

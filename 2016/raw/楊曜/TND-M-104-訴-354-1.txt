@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-104訴354</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000354&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c354%2c20151123%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=354&jdate=1041123&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c354%2c20151123%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=354&jdate=1041123&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c354%2c20151123%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','354','1041123','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,354</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041123</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誣告等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　104年度訴字第354號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c354%2c20151123%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=354&jdate=1041123&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000354&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c354%2c20151123%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=354&jdate=1041123&jcheck=1
+[*裁判字號*]104,訴,354
+[*裁判日期*]1041123
+[*裁判案由*]誣告等
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　104年度訴字第354號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　王騰毅
 選任辯護人　蘇文斌律師
@@ -136,12 +29,12 @@ function openwin(URL,arguments,width,height)
     沿臺南市仁德區三甲子11-2旁道路由南往北方向行駛，行經
     該路段與保安路2段路口欲作左轉時，因飲酒致控制及反應
     、判斷能力均已降低，且明知支線道車應讓幹道車先行，仍
-    未注意及此，適有<font color='red'>楊曜</font>徽騎乘車牌號碼000-000號普通重型
+    未注意及此，適有楊曜徽騎乘車牌號碼000-000號普通重型
     機車，沿保安路2段由西向東行駛穿越該路口，亦疏未注意
     車前狀況減速慢行，兩車遂發生碰撞，王騰毅因而受有左腳
-    多處挫擦傷、左脛骨及腓骨上端骨折、胸壁挫傷等傷害（<font color='red'>楊
-    曜</font>徽所涉過失傷害罪嫌，另由本院判決公訴不受理）；<font color='red'>楊曜
-    </font>徽則受有臉部挫傷腫脹、左下肢挫擦傷等傷害。嗣經警於同
+    多處挫擦傷、左脛骨及腓骨上端骨折、胸壁挫傷等傷害（楊
+    曜徽所涉過失傷害罪嫌，另由本院判決公訴不受理）；楊曜
+    徽則受有臉部挫傷腫脹、左下肢挫擦傷等傷害。嗣經警於同
     日20時30分許，在臺南市立醫院對王騰毅實施酒精測試，呼
     氣酒精濃度值為每公升0.69毫克。詎王騰毅於上開車禍事故
     發生後，為免酒駕情事遭人發覺，於103年7月23日13時47分
@@ -164,7 +57,7 @@ function openwin(URL,arguments,width,height)
 二、被告之辯詞：訊據被告王騰毅固坦承其於103年3月2日下午
     某時許，在臺南市仁德區中正路一段「姊妹檳榔攤」飲酒，
     及於同日18時25分許，在臺南市仁德區保安路二段與三甲子
-    11 -2旁道路交岔路口，與證人<font color='red'>楊曜</font>徽騎乘車號000-000號普
+    11 -2旁道路交岔路口，與證人楊曜徽騎乘車號000-000號普
     通重型機車發生碰撞致其受有起訴書所載之傷害，並於同日
     20時30分許為警員以呼氣酒精測試器測定其吐氣所含酒精濃
     度達每公升0.69毫克之事實，惟辯稱：當時是林清微騎乘車
@@ -175,7 +68,7 @@ function openwin(URL,arguments,width,height)
 三、對被告論罪科刑之理由：
   (一)被告王騰毅於103年3月2日20時30分許，經警員劉政忠在臺
     南市立醫院以呼氣酒精測試器測定其吐氣所含酒精濃度時，
-    向警員表示其騎乘車號000-000號輕型機車並與證人<font color='red'>楊曜</font>徽
+    向警員表示其騎乘車號000-000號輕型機車並與證人楊曜徽
     騎乘之普通重型機車發生碰撞，此有上開酒精測試過程錄音
     光碟1片及臺灣臺南地方法院檢察署檢察事務官於103年9月
     22日之勘驗筆錄1份在卷可稽（偵二卷第16至19頁、證物袋
@@ -206,13 +99,13 @@ function openwin(URL,arguments,width,height)
     定其吐氣所含酒精濃度時，並無其所辯意識不清致無法瞭解
     警員問題之情事，被告王騰毅前開所辯，顯係臨訟卸責之詞
     ，自不足採。
-  (二)證人<font color='red'>楊曜</font>徽於警詢及偵查中迭次證述：本件事故發生時，騎
+  (二)證人楊曜徽於警詢及偵查中迭次證述：本件事故發生時，騎
     乘機車與其發生碰撞之人，係戴一頂白色帽子之人，並根據
     現場照片指認該戴白色帽子之人即為被告王騰毅，而被告林
-    清微是從路旁出現並向證人<font color='red'>楊曜</font>徽稱：如果不是伊坐在後座
+    清微是從路旁出現並向證人楊曜徽稱：如果不是伊坐在後座
     有跳車，不然伊也會受傷等語（警一卷第14頁、警二卷第12
     頁、第18頁、偵二卷第3頁反面、第14頁反面、偵三卷第22
-    頁、偵四卷第4頁反面），嗣證人<font color='red'>楊曜</font>徽於本院審理中亦證
+    頁、偵四卷第4頁反面），嗣證人楊曜徽於本院審理中亦證
     述：「（經過多久之後，被告林清微走過來？）我坐起來看
     了一下環境之後，拿手機準備要打電話時，就突然聽到被告
     林清微對我大吼大叫，叫我不要打電話給警察、（被告林清
@@ -231,21 +124,21 @@ function openwin(URL,arguments,width,height)
     時騎車的人？(提示警二卷第49頁下方照片)）我可以確認。
     因為當時對方的機車並無歪斜，是直直朝我的方向騎過來，
     所以我確認至少當時他是騎車的人。」（院二卷第81至82頁
-    、第83頁反面），是以證人<font color='red'>楊曜</font>徽就本件事故發生前後之細
-    節，其證述內容前後一致，並有證人許素姻（<font color='red'>楊曜</font>徽之母）
-    於偵查中之證述：「（103年3月2日<font color='red'>楊曜</font>徽發生車禍當時，
+    、第83頁反面），是以證人楊曜徽就本件事故發生前後之細
+    節，其證述內容前後一致，並有證人許素姻（楊曜徽之母）
+    於偵查中之證述：「（103年3月2日楊曜徽發生車禍當時，
     你有無到現場？）有，我到現場之後，林清微就過來跟我說
     ，是因為他坐在後座跳車，不然就像王騰毅一樣倒在地上了
     ，之後我就沒有跟他再對話，接下來就是我先生跟林清微說
     後續如何處理。」（偵五卷第9頁反面），及證人楊傅翔（
-    <font color='red'>楊曜</font>徽之父）於偵查中之證述：「（103年3月2日晚上<font color='red'>楊曜
-    </font>徽發生車禍後你是否有到場？）……我去放三角警示架時，
+    楊曜徽之父）於偵查中之證述：「（103年3月2日晚上楊曜
+    徽發生車禍後你是否有到場？）……我去放三角警示架時，
     林清微跟我太太說車子不是他騎，是王騰毅騎的，他坐在後
     座提前跳車，我才注意到王騰毅坐在地上。」（偵四卷第4
-    頁至第4頁反面），上開證人之證述內容與證人<font color='red'>楊曜</font>徽之證
+    頁至第4頁反面），上開證人之證述內容與證人楊曜徽之證
     述相符，故被告王騰毅當日頭戴白色帽子並騎乘機車與證人
-    <font color='red'>楊曜</font>徽騎乘之車輛發生碰撞，且被告林清微係事後自路旁出
-    現並向證人<font color='red'>楊曜</font>徽稱其乘坐於後座並於碰撞前先行跳車而幸
+    楊曜徽騎乘之車輛發生碰撞，且被告林清微係事後自路旁出
+    現並向證人楊曜徽稱其乘坐於後座並於碰撞前先行跳車而幸
     未受傷等語，即堪認定。
   (三)被告王騰毅之辯護人雖陳稱：根據卷附臺南市○○區○○○
     00號處設置之監視器拍攝畫面，可看見後座被搭載之人頭戴
@@ -289,7 +182,7 @@ function openwin(URL,arguments,width,height)
       被告二人騎乘機車行經上開地點，而自上開拍攝地點至本
       件事故發生地點之前，被告二人是否曾互換帽子或互換座
       位，而改由被告王騰毅騎乘機車至本件事故發生地點，並
-      與證人<font color='red'>楊曜</font>徽所騎乘之機車發生碰撞。
+      與證人楊曜徽所騎乘之機車發生碰撞。
     4.綜上所述，卷附監視器拍攝畫面照片4張（偵二卷第20至
       21頁），並無法作為有利被告王騰毅未曾騎乘車號000-00
       0號輕型機車之證據，其辯護人前開辯護意旨並不足採。
@@ -307,7 +200,7 @@ function openwin(URL,arguments,width,height)
     定而處以行政罰緩，無從影響法院對刑事犯罪事實之認定。
   (五)綜上所論，本件被告王騰毅於103年3月2日18時25分許，因
     飲用酒類後，仍騎乘車號000-000號輕型機車搭載被告林清
-    微，行經本件事故路口時，與證人<font color='red'>楊曜</font>徽騎乘之車輛發生碰
+    微，行經本件事故路口時，與證人楊曜徽騎乘之車輛發生碰
     撞，嗣於同日20時30分許，經警員在臺南市立醫院對被告王
     騰毅實施酒精測試，測得呼氣酒精濃度值為每公升0.69毫克
     之事實已足確認，有臺南市政府警察局歸仁分局道路交通事
@@ -337,7 +230,7 @@ function openwin(URL,arguments,width,height)
     駛之刑事處罰規範趨於嚴厲，被告無視於法制規範，酒後駕
     車，顯然自我克制能力不足，堪予非難，且嗣後明知其係騎
     乘TMD-521號輕型機車搭載被告林清微之人，竟虛構被告林
-    清微騎乘前開機車搭載其並與證人<font color='red'>楊曜</font>徽騎乘之車輛發生碰
+    清微騎乘前開機車搭載其並與證人楊曜徽騎乘之車輛發生碰
     撞之事實，向臺南市政府警察局歸仁分局偵查隊警員、臺灣
     臺南地方法院檢察署誣指被告林清微對其有過失傷害之行為
     ，所為已致被告林清微有誤遭刑事訴追之風險，業已浪費國
@@ -354,12 +247,12 @@ function openwin(URL,arguments,width,height)
 四、被告王騰毅被訴過失傷害部分：按告訴乃論之罪，告訴人於
     第一審辯論終結前，得撤回其告訴。又告訴經撤回者，應諭
     知不受理之判決，此觀諸刑事訴訟法第238條第1項、第303
-    條第3款之規定自明。本件告訴人<font color='red'>楊曜</font>徽告訴被告王騰毅過
+    條第3款之規定自明。本件告訴人楊曜徽告訴被告王騰毅過
     失傷害部分，檢察官起訴書認被告王騰毅係觸犯刑法第284
     條第1項前段之過失傷害罪嫌，依同法第287條前段之規定須
     告訴乃論。告訴人於本院審理時，當庭表示願撤回對被告涉
     犯過失傷害之告訴，民事部分則另以訴訟或調解方式解決（
-    本院卷第79頁反面），並有告訴人<font color='red'>楊曜</font>徽親簽之撤回告訴狀
+    本院卷第79頁反面），並有告訴人楊曜徽親簽之撤回告訴狀
     1紙在卷可查（本院卷第97頁），揆之前開說明，爰為被告
     此部分公訴不受理之諭知。
 據上論斷，應依刑事訴訟法第299條第1項前段、第303條第3款、
@@ -399,86 +292,12 @@ function openwin(URL,arguments,width,height)
 （藏匿人犯或使之隱避、頂替罪）
 藏匿犯人或依法逮捕拘禁之脫逃人或使之隱避者，處 2 年以下
 有期徒刑、拘役或 5 百元以下罰金。
-意圖犯前項之罪而頂替者，亦同。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTND\CRIMINAL\10411\23\TNDM104BN.014] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000354&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c354%2c20151123%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=354&jdate=1041123&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c354%2c20151123%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=354&jdate=1041123&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c354%2c20151123%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','354','1041123','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="楊曜">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="楊曜">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+意圖犯前項之罪而頂替者，亦同。
+[*jrecno*]104,訴,354,20151123,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]354
+[*jdate*]1041123
+[*jcheck*]1

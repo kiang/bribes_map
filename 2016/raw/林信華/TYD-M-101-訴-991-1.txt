@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-101訴991</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000991&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%bf%a1%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%bf%a1%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%bf%a1%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%bf%a1%e8%8f%af&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c991%2c20141128%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=991&jdate=1031128&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c991%2c20141128%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=991&jdate=1031128&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c991%2c20141128%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','991','1031128','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,991</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1031128</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反廢棄物清理法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　101年度訴字第991號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c991%2c20141128%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=991&jdate=1031128&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000991&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c991%2c20141128%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=991&jdate=1031128&jcheck=1
+[*裁判字號*]101,訴,991
+[*裁判日期*]1031128
+[*裁判案由*]違反廢棄物清理法等
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　101年度訴字第991號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　楊福順
 選任辯護人　洪榮彬律師
@@ -137,15 +30,15 @@ function openwin(URL,arguments,width,height)
 0 年度偵字第10979 號、100 年度偵字第19800 號、101 年度偵
 字第1490號），本院判決如下：
     主  文
-Ｇ○○犯強制罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣壹仟
+Ｇ○○犯強制罪，處有期徒刑月，如易科罰金，以新臺幣壹仟
 元折算壹日。
 宙○○共同犯強制罪，處有期徒刑伍月，如易科罰金，以新臺幣
-壹仟元折算壹日；又犯強制罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，
+壹仟元折算壹日；又犯強制罪，處有期徒刑月，如易科罰金，
 以新臺幣壹仟元折算壹日；又犯恐嚇危害安全罪，處有期徒刑貳
 月，如易科罰金，以新臺幣壹仟元折算壹日；又共同犯剝奪他人
 行動自由罪，處拘役有期徒刑陸月，如易科罰金，以新臺幣壹仟
 元折算壹日，扣案之電擊棒壹支沒收；又犯強制罪，處有期徒刑
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣壹仟元折算壹日。應執行有期徒刑
+月，如易科罰金，以新臺幣壹仟元折算壹日。應執行有期徒刑
 壹年伍月，如易科罰金，以新臺幣壹仟元折算壹日，扣案之電擊
 棒壹支沒收。
 宙○○被訴毀損部分公訴不受理。
@@ -668,7 +561,7 @@ function openwin(URL,arguments,width,height)
       餘8 萬元則私扣而未併予交付之事實，應可認定。
   5.再者，有關被告Ｇ○○究係如何在電話中出言恫嚇戊○○以
     迫使其依指示前往鐵皮回收場之強制部分：
-  (1)、證人戊○○已先後迭於：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />、警詢時指稱：我在與楊榮星
+  (1)、證人戊○○已先後迭於：、警詢時指稱：我在與楊榮星
       、楊茂達簽妥系爭農地之租約後，有打電話給Ｇ○○，Ｇ
       ○○約我於下午2 時許前往中壢市合圳北路2 段395 巷口
       的鐵皮屋回收場碰面，但我抵達後，宙○○跟Ｇ○○說這
@@ -686,11 +579,11 @@ function openwin(URL,arguments,width,height)
       在電話中出言恐嚇我說：「你現在一定要馬上到鐵皮屋，
       我保證你不會有事，如果等到明天，你絕對會出事情」。
       後來我因為害怕，就找了朋友子○○跟我一同前去等語（
-      見101 年度偵字第1490號卷一第4 至5 頁）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />、於檢察
+      見101 年度偵字第1490號卷一第4 至5 頁）；、於檢察
       官偵訊時證稱：我先打電話給Ｇ○○，跟他說還有一半的
       錢沒收到，我明天再一起拿過去，但是Ｇ○○就跟我說要
       我過去，保證不會有事，但是如果明天再來，一定會出事
-      等語（見101 年度偵字第1490號卷四第3 頁）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />、於本
+      等語（見101 年度偵字第1490號卷四第3 頁）；、於本
       院審理時則證稱：當天我有接到Ｇ○○的電話，他要求我
       前往Ｄ○○位於桃園縣中壢市合圳北路395 巷口鐵皮屋之
       資源回收場去向他老闆說明，我原本是跟Ｇ○○說因為還
@@ -1083,10 +976,10 @@ function openwin(URL,arguments,width,height)
   1.本件案發現場經桃園縣政府環境保護局派員前往稽查結果，
     確認被告Ｅ○○、亥○○、卯○○、甲○○等人各自將自己
     車上曳引車車島上之廢棄物，包含廢塑膠、廢木材、廢土、
-    垃圾等物品，堆置於現場定位點各為：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />X27292 6、Y27656
-    24、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />X272932 、Y0000000、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />X272914 、Y0000000、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />X2
-    72940 、Y0000000、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />X272965 、Y0000000、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />X272 884、
-    Y0000000、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />X272889 、Y0000000等位置上等情，已有前開
+    垃圾等物品，堆置於現場定位點各為：X27292 6、Y27656
+    24、X272932 、Y0000000、X272914 、Y0000000、X2
+    72940 、Y0000000、X272965 、Y0000000、X272 884、
+    Y0000000、X272889 、Y0000000等位置上等情，已有前開
     桃園縣政府環境保護局環境稽查工作紀錄表在卷可憑（見10
     0 年度偵字第19800 號卷第40頁）。
   2.其次，被告Ｅ○○於警詢業已坦言：「（警方查獲你之前，
@@ -2234,8 +2127,8 @@ function openwin(URL,arguments,width,height)
 (二)、其次，被告宙○○先前固有於99年1 、2 月間，因受桃園縣
     中壢市○○段○000 ○000 ○000 ○000 ○地號之不同地主
     之委託代為清理置放在上開各該地號農地上之廢棄物，因而
-    夥同林振來、陳健輝、玄○○、Ａ○○○、王瑞麟、<font color='red'>林信華
-    </font>、潘建宏等人，由被告宙○○以日薪1,000 元至3,000 元間
+    夥同林振來、陳健輝、玄○○、Ａ○○○、王瑞麟、林信華
+    、潘建宏等人，由被告宙○○以日薪1,000 元至3,000 元間
     不等之代價，先後雇用劉敏杰、黃立霖、張峻祥、陳俊德、
     邱家隆等人，並且找來怪手司機數人逕將上開地號土地上之
     廢棄物就地掩埋後，再於其上鋪蓋由砂石車司機自不詳地點
@@ -2834,86 +2727,12 @@ function openwin(URL,arguments,width,height)
 五、執行機關之人員委託未取得許可文件之業者，清除、處理一
     般廢棄物者；或明知受託人非法清除、處理而仍委託。
 六、公民營廢棄物處理機構負責人或相關人員、或執行機關之人
-    員未處理廢棄物，開具虛偽證明。</pre>
-<!-- 原因：[未滿18] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTYD\CRIMINAL\10311\28\TYDM103BS.04S] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000991&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%bf%a1%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%bf%a1%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e4%bf%a1%e8%8f%af&sdate=&edate=&page=&searchkw=%e6%9e%97%e4%bf%a1%e8%8f%af&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c991%2c20141128%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=991&jdate=1031128&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c991%2c20141128%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=991&jdate=1031128&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c991%2c20141128%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','991','1031128','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林信華">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林信華">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+    員未處理廢棄物，開具虛偽證明。
+[*jrecno*]101,訴,991,20141128,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]訴
+[*jno*]991
+[*jdate*]1031128
+[*jcheck*]1

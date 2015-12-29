@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-103訴28</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+vmA7yt2po2dQvBPewBbmtKjM25g=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共53
-											筆 / 現在第18
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000028&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=17&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=53&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c28%2c20140414%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=28&jdate=1030414&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c28%2c20140414%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=28&jdate=1030414&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c28%2c20140414%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','28','1030414','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,28</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030414</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　　 103年度訴字第28號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c28%2c20140414%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=28&jdate=1030414&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000028&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c28%2c20140414%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=28&jdate=1030414&jcheck=2
+[*裁判字號*]103,訴,28
+[*裁判日期*]1030414
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　　 103年度訴字第28號
 公　訴　人　臺灣新北地方法院檢察署檢察官
 被　　　告　陳明甫
 選任辯護人　黃柏承律師
@@ -222,21 +117,21 @@ function openwin(URL,arguments,width,height)
     黃凱文製作第2 次警詢筆錄，黃凱文在講到如何與陳明甫連
     絡購買毒品時，並拿出手機，點開LINE通訊軟體中伊與黃凱
     文聯絡毒品交易之對話內容；且伊在對黃凱文製作完第2 次
-    警詢筆錄後，即向所長<font color='red'>黃國書</font>報告黃凱文供出有請陳明甫幫
+    警詢筆錄後，即向所長黃國書報告黃凱文供出有請陳明甫幫
     忙購買毒品之情，伊並於對黃凱文製作完第3 次警詢筆錄後
     ，去交誼廳跟陳明甫說其已被轉列為被告等語（見本院卷第
-    61頁、第63頁），證人<font color='red'>黃國書</font>（即新北市政府警察局新莊分
+    61頁、第63頁），證人黃國書（即新北市政府警察局新莊分
     局丹鳳派出所所長）於本院審理時結證稱：郭騰午於製作完
     黃凱文之警詢筆錄後有來跟伊說在黃凱文的手機裡有發現黃
     凱文向陳明甫購買毒品的對話，伊就詢問坐在交誼廳的陳明
     甫，陳明甫當場承認有幫黃凱文購買毒品，在郭騰午來向伊
     報告之前，陳明甫並未向伊提過幫黃凱文購買毒品之事等語
     （見本院卷第64頁至第65頁）。是被告於黃凱文向證人郭騰
-    午供出伊係拿1,500 元請被告幫忙購買毒品後，經證人<font color='red'>黃國
-    書</font>向其詢問時，被告始承認有幫黃凱文購買毒品之事實，則
+    午供出伊係拿1,500 元請被告幫忙購買毒品後，經證人黃國
+    書向其詢問時，被告始承認有幫黃凱文購買毒品之事實，則
     被告前開陳述，祇可謂為自白，不符自首之構成要件。辯護
-    意旨稱被告在與丹鳳派出所所長<font color='red'>黃國書</font>聊天時，主動向<font color='red'>黃國
-    書</font>供出伊有幫黃凱文向「阿俗」拿毒品之事實云云，不足採
+    意旨稱被告在與丹鳳派出所所長黃國書聊天時，主動向黃國
+    書供出伊有幫黃凱文向「阿俗」拿毒品之事實云云，不足採
     信。
 三、綜上，本案事證明確，被告犯行已堪認定。
 四、論罪科刑：
@@ -368,86 +263,12 @@ function openwin(URL,arguments,width,height)
 前五項之未遂犯罰之。
 毒品危害防制條例第10條
 施用第一級毒品者，處 6 月以上 5 年以下有期徒刑。
-施用第二級毒品者，處 3 年以下有期徒刑。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10304\14\PCDM1034E.00F] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共53
-											筆 / 現在第18
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000028&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=17&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=53&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c28%2c20140414%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=28&jdate=1030414&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c28%2c20140414%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=28&jdate=1030414&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c28%2c20140414%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','28','1030414','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="18"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃國書">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃國書">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+施用第二級毒品者，處 3 年以下有期徒刑。
+[*jrecno*]103,訴,28,20140414,2
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]28
+[*jdate*]1030414
+[*jcheck*]2

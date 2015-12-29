@@ -1,119 +1,12 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣宜蘭地方法院-刑-93易279</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣宜蘭地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e6%98%93&selectedCrmno=000279&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e6%98%93%2c279%2c20041222%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e6%98%93&jno=279&jdate=931222&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=93%2c%e6%98%93%2c279%2c20041222%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e6%98%93&jno=279&jdate=931222&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('93%2c%e6%98%93%2c279%2c20041222%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e6%98%93','279','931222','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">93,易,279</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">931222</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">賭博</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣宜蘭地方法院刑事判決　　　　　　　　　　　　　九十三年度易字第二七九號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=93%2c%e6%98%93%2c279%2c20041222%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e6%98%93&jno=279&jdate=931222&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e6%98%93&selectedCrmno=000279&selectedCrtid=ILD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=93%2c%e6%98%93%2c279%2c20041222%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e6%98%93&jno=279&jdate=931222&jcheck=1
+[*裁判字號*]93,易,279
+[*裁判日期*]931222
+[*裁判案由*]賭博
+[*裁判全文*]臺灣宜蘭地方法院刑事判決　　　　　　　　　　　　　九十三年度易字第二七九號
 　　公　訴　人　臺灣宜蘭地方法院檢察署檢察官
-　　被　　　告　乙○○　男　三<span  style="color:#e8e8e8">.</span>
+　　被　　　告　乙○○　男　三.
 　　右　一　人　李秋銘律師
 　　選任辯護人　黃金亮律師
 右列被告因賭博案件，經檢察官聲請簡易判決處刑（九十二年度偵字第一七五六號）
@@ -126,7 +19,7 @@ function openwin(URL,arguments,width,height)
     在內之不特定賭客賭博財物，丁○○因此輸款新臺幣八萬元，乙○○藉此賺取抽
     頭金牟利，因認被告涉有刑法第二百六十八條意圖營利，供給賭博場所及聚眾賭
     博罪嫌。
-二、公訴人認被告涉有右揭犯罪，係以證人丁○○、<font color='red'>吳淑慧</font>證詞，及丙○○使用之行
+二、公訴人認被告涉有右揭犯罪，係以證人丁○○、吳淑慧證詞，及丙○○使用之行
     動電話號碼0000000000之通聯紀錄為主要論據，訊據被告堅詞否認有
     右揭犯行，並辯稱丁○○之八萬元係丁○○向伊借的等語。
 三、按犯罪事實應依證據認定之，無證據不得推定其犯罪事實；另不能證明被告犯罪
@@ -140,19 +33,19 @@ function openwin(URL,arguments,width,height)
     能以推測或擬制之方法，以為裁判之基礎，最高法院分別著有七十六年台上字第
     四九八六號、三十二年上字第六七號、四十年台上字第八六號判例可資參照。
 四、經查：
-　(一)證人<font color='red'>吳淑慧</font>前於調查站調查時，調查人員訊以：「（提示九十二年十月一日二十
+　(一)證人吳淑慧前於調查站調查時，調查人員訊以：「（提示九十二年十月一日二十
   　二時二十六分五十二秒電話通聯譯文）據本站調查該通電話係蔡竹勳打至你家，
     譯文內容妳曾表示『我告訴你那一天喔，就是那個ㄚ方知道ㄚ宏還你十五萬元的
     票』、『對對對，他之前就告訴我們黎Ａ說，說如果你沒有辦法，你不會去跟你
     們巡官借，說ㄚ宏已經開十五萬元的支票去你巡官那』，該談話內容主要意思為
-    何？上述所指的巡官是否為蔡竹勳？」，<font color='red'>吳淑慧</font>答稱：「上述所巡官係蔡竹勳，
+    何？上述所指的巡官是否為蔡竹勳？」，吳淑慧答稱：「上述所巡官係蔡竹勳，
     據我先生向我表示，ㄚ宏係羅東地區的混混，並有經營麻將賭場，曾在今年農曆
     年前向蔡竹勳借二十萬元，事後只還五萬元，另十五萬元開立支票，但跳票，ㄚ
     宏才表示要蔡竹勳將該十五萬元納入合夥經營賭場。」（參見九十二年四月十六
-    日調查站訊問筆錄），依證人<font color='red'>吳淑慧</font>之證詞，其所知悉被告經營賭場之事，係經
+    日調查站訊問筆錄），依證人吳淑慧之證詞，其所知悉被告經營賭場之事，係經
     由其先生丁○○告知，而非其親身經歷所得，而按證人之個人意見或推測之詞，
     除以實際經驗為基礎者外，不得作為證據，刑事訴訟法第一百六十條定有明文，
-    是證人<font color='red'>吳淑慧</font>於調查站訊問時證稱被告經營之事係屬傳聞證據，不得為認定被告
+    是證人吳淑慧於調查站訊問時證稱被告經營之事係屬傳聞證據，不得為認定被告
     犯罪事實之證據。
   (二)丁○○前於九十二年四月十八日偵查中，陳稱：「（你在乙○○處有賭博輸錢，
     賭場在何處？）我們是在玩麻將，他自己租的房子在羅東中山西路，時間是去年
@@ -260,86 +153,11 @@ function openwin(URL,arguments,width,height)
 如不服本判決，應於判決送達後十日內向本院提出上訴狀（應抄附繕本）。
                                            書記官  林  秀  麗
 中　　　華　　　民　　　國　　九十三　　年　　 十二 　　月　　二十四　　日
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\OK\LAWILD\CRIMINAL\9312\22\ILDM93CM.005] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e6%98%93&selectedCrmno=000279&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e6%98%93%2c279%2c20041222%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e6%98%93&jno=279&jdate=931222&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=93%2c%e6%98%93%2c279%2c20041222%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e6%98%93&jno=279&jdate=931222&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('93%2c%e6%98%93%2c279%2c20041222%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e6%98%93','279','931222','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="ILD 臺灣宜蘭地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑慧">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑慧">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]93,易,279,20041222,1
+[*v_court*]ILD 臺灣宜蘭地方法院
+[*v_sys*]M
+[*jyear*]93
+[*jcase*]易
+[*jno*]279
+[*jdate*]931222
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-103交訴121</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%ba%a4%e8%a8%b4&selectedCrmno=000121&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%ba%a4%e8%a8%b4&jno=121&jdate=1031021&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%ba%a4%e8%a8%b4&jno=121&jdate=1031021&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e4%ba%a4%e8%a8%b4','121','1031021','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,交訴,121</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1031021</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">公共危險等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　103年度交訴字第121號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%ba%a4%e8%a8%b4&jno=121&jdate=1031021&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%ba%a4%e8%a8%b4&selectedCrmno=000121&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%ba%a4%e8%a8%b4&jno=121&jdate=1031021&jcheck=1
+[*裁判字號*]103,交訴,121
+[*裁判日期*]1031021
+[*裁判案由*]公共危險等
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　103年度交訴字第121號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　鄭聰明
 上列被告因公共危險等案件，經檢察官提起公訴（103 年度偵緝
@@ -121,8 +14,8 @@ function openwin(URL,arguments,width,height)
     主  文
 鄭聰明犯如附表編號一至十六所示之罪，均累犯，各處如附表編
 號一至十六主文欄所示之刑（含主刑、從刑）。主刑部分應執行
-有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年陸月。
-鄭聰明犯如附表編號十七所示之罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰
+有期徒刑年陸月。
+鄭聰明犯如附表編號十七所示之罪，處有期徒刑月，如易科罰
 金，以新臺幣壹仟元折算壹日。
     犯罪事實
 一、鄭聰明因缺錢花用，竟意圖為自己不法之所有，基於詐欺取
@@ -136,12 +29,12 @@ function openwin(URL,arguments,width,height)
     據或廢鐵處理同意書上，各別偽造「林大村」、「周義松」
     、「江文章」、「黃文章」之署押各1 枚，偽造「林大村」
     、「周義松」、「江文章」、「黃文章」等人為各該文書內
-    容意思表示之私文書後，復分別持向陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模、周錦聰、羅宏
+    容意思表示之私文書後，復分別持向陳模、周錦聰、羅宏
     文、黃文崧以行使之，足以生損害於「林大村」、「周義松
-    」、「江文章」、「黃文章」、陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模、周錦聰、羅宏文、
+    」、「江文章」、「黃文章」、陳模、周錦聰、羅宏文、
     黃文崧之權益。
-二、鄭聰明於民國101 年8 月8 日上午10時36分許，駕駛其妻<font color='red'>吳
-    淑慧</font>所有之車牌號碼00-0000 號自用小客車搭載附表編號8
+二、鄭聰明於民國101 年8 月8 日上午10時36分許，駕駛其妻吳
+    淑慧所有之車牌號碼00-0000 號自用小客車搭載附表編號8
     所示之蔡淑媛前往郵局領錢，沿彰化縣溪口鄉游東村157 線
     道由西往東方向行駛，途經三塊厝路之交岔路口時，本應注
     意汽車行駛至交岔路口，其行進、轉彎，應遵守燈光號誌之
@@ -169,7 +62,7 @@ function openwin(URL,arguments,width,height)
     、沈定乾、陳葉及林國雄於警詢中之證述在卷可稽，復有證
     人李春及林國雄分別出具之贓物認領保管單、被害人羅宏文
     所提被告偽造「江文章」名義之廢鐵處理同意書、被害人陳
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模所提被告偽造「林大村」名義之訂金收據、被害人周錦
+    模所提被告偽造「林大村」名義之訂金收據、被害人周錦
     聰所提被告偽造「周義松」名義之訂金收據、被害人黃文崧
     所提被告偽造「黃文章」名義之廢鐵處理同意書、車牌號碼
     000-0000號自用小客車車輛詳細資料報表及汽車出租單、車
@@ -388,7 +281,7 @@ function openwin(URL,arguments,width,height)
 │    │          │        │        │縣中埔鄉裕民村石頭厝某處紅│署檢察官偵查起│                │
 │    │          │        │        │綠燈下，應予更正）之1 批廢│訴。          │                │
 │    │          │        │        │鐵為其所有欲兜售販賣，並駕│              │                │
-│    │          │        │        │駛其配偶<font color='red'>吳淑慧</font>所有車牌號碼│              │                │
+│    │          │        │        │駛其配偶吳淑慧所有車牌號碼│              │                │
 │    │          │        │        │00-0000 號自用小客車搭載潘│              │                │
 │    │          │        │        │高賓前往上開2 址查看確有該│              │                │
 │    │          │        │        │物品後返回潘高賓住處，致潘│              │                │
@@ -397,14 +290,14 @@ function openwin(URL,arguments,width,height)
 │    │          │        │        │構之行動電話門號0000000000│              │                │
 │    │          │        │        │號。                      │              │                │
 ├──┼─────┼────┼────┼─────────────┼───────┼────────┤
-│3   │99年8月3日│陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模  │7千元   │鄭聰明向陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模佯稱在嘉義縣│案經陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模訴嘉│鄭聰明犯行使偽造│
+│3   │99年8月3日│陳模  │7千元   │鄭聰明向陳模佯稱在嘉義縣│案經陳模訴嘉│鄭聰明犯行使偽造│
 │（即│中午12時56│        │        │朴子市光復新路與中興路口之│義縣警察朴子分│私文書罪，累犯，│
 │起訴│分許，在嘉│        │        │1 批鐵材及報廢車身為其所有│局報請臺灣嘉義│處有期徒刑拾月，│
 │書附│義縣朴子市│        │        │欲兜售販賣，即駕駛其配偶吳│地方法院檢察署│偽造之「林大村」│
 │表編│永和里應菜│        │        │淑慧所有車牌號碼00-0000 號│呈請臺灣高等法│署押壹枚沒收。  │
-│號8 │埔00之0號 │        │        │自用小客車搭載陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模前往上│院檢察署檢察長│                │
-│）  │陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模之住│        │        │址查看確有該物品後返回陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />│令轉臺灣彰化地│                │
-│    │處        │        │        │模住處，致陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模陷於錯誤，│方法院檢察署檢│                │
+│號8 │埔00之0號 │        │        │自用小客車搭載陳模前往上│院檢察署檢察長│                │
+│）  │陳模之住│        │        │址查看確有該物品後返回陳│令轉臺灣彰化地│                │
+│    │處        │        │        │模住處，致陳模陷於錯誤，│方法院檢察署檢│                │
 │    │          │        │        │前往郵局提款機提領7 千元之│察官偵查起訴。│                │
 │    │          │        │        │買賣價金交付予鄭聰明，鄭聰│              │                │
 │    │          │        │        │明復同時基於行使偽造私文書│              │                │
@@ -415,8 +308,8 @@ function openwin(URL,arguments,width,height)
 │    │          │        │        │動電話門號0000000000號，而│              │                │
 │    │          │        │        │偽造「林大村」表示已收受該│              │                │
 │    │          │        │        │價金意思表示之私文書後，交│              │                │
-│    │          │        │        │由陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模以行使之，足以生損│              │                │
-│    │          │        │        │害於「林大村」及陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4F22A0A00000040.GIF" />模之權│              │                │
+│    │          │        │        │由陳模以行使之，足以生損│              │                │
+│    │          │        │        │害於「林大村」及陳模之權│              │                │
 │    │          │        │        │益。                      │              │                │
 ├──┼─────┼────┼────┼─────────────┼───────┼────────┤
 │4   │100年1月18│周錦聰  │5千元   │鄭聰明向周錦聰佯稱其名為「│案經周錦聰訴由│鄭聰明犯行使偽造│
@@ -425,7 +318,7 @@ function openwin(URL,arguments,width,height)
 │書附│雲林縣虎尾│        │        │之00號共同經營「乾裕鐵工廠│雲林地方法院檢│偽造之「周義松」│
 │表編│鎮頂溪里下│        │        │」，沈定乾所有之1 批廢鐵為│察署呈請臺灣高│署押壹枚沒收。  │
 │號9 │過溪00 號 │        │        │其所有欲兜售販賣，即駕駛其│等法院檢察署檢│                │
-│）  │周錦聰之住│        │        │配偶<font color='red'>吳淑慧</font>所有車牌號碼00-0│察官令轉臺灣彰│                │
+│）  │周錦聰之住│        │        │配偶吳淑慧所有車牌號碼00-0│察官令轉臺灣彰│                │
 │    │處，即其所│        │        │000 號自用小客車搭載周錦聰│化地方法院檢察│                │
 │    │經營之永裕│        │        │前往上址查看確有該物品後返│署檢察官偵查起│                │
 │    │資源回收廠│        │        │回周錦聰住處，致周錦聰陷於│訴。          │                │
@@ -445,7 +338,7 @@ function openwin(URL,arguments,width,height)
 │5   │100年11月 │林黃豆  │5千元   │鄭聰明向林黃豆佯稱在南投縣│案經南投縣政府│鄭聰明犯修正前詐│
 │（即│25日上午9 │        │        │竹山鎮○○里○○路000 號旁│警察局竹山分局│欺取財罪，累犯，│
 │起訴│時許，在南│        │        │之0 批廢鐵為其所有欲兜售販│報請臺灣南投地│處有期徒刑柒月。│
-│書附│投縣竹山鎮│        │        │賣，即駕駛其配偶<font color='red'>吳淑慧</font>所有│方法院檢察署呈│                │
+│書附│投縣竹山鎮│        │        │賣，即駕駛其配偶吳淑慧所有│方法院檢察署呈│                │
 │表編│田子里（起│        │        │車牌號碼00-0000 號自用小客│請臺灣高等法院│                │
 │號1 │訴書誤載為│        │        │車搭載林黃豆前往上址查看確│臺中分院檢察署│                │
 │）  │南投鎮田子│        │        │有該物品後返回林黃豆住處，│檢察長令轉臺灣│                │
@@ -459,7 +352,7 @@ function openwin(URL,arguments,width,height)
 │（即│27日中午12│        │        │瑞寶佯稱在臺中市旱溪東路3 │臺中市警察局第│欺取財罪，累犯，│
 │起訴│時26分許，│        │        │段與松竹路附近空地之1 批廢│二分局報請臺灣│處有期徒刑柒月。│
 │書附│在臺中市北│        │        │鐵為其所有欲便宜出售，即駕│臺中地方法院檢│                │
-│表編│區國泰街00│        │        │駛其配偶<font color='red'>吳淑慧</font>所有車牌號碼│察署呈請臺灣高│                │
+│表編│區國泰街00│        │        │駛其配偶吳淑慧所有車牌號碼│察署呈請臺灣高│                │
 │號6 │號林瑞寶之│        │        │00-0000 號自用小客車搭載林│等法院臺中分院│                │
 │）  │住處前    │        │        │瑞寶前往上址查看確有該物品│檢察署檢察長令│                │
 │    │          │        │        │後返回林瑞寶住處，致林瑞寶│轉臺灣彰化地方│                │
@@ -492,7 +385,7 @@ function openwin(URL,arguments,width,height)
 │（即│日上午10時│        │        │溪口鄉游東村天宋宮旁之不知│嘉義縣警察局民│欺取財罪，累犯，│
 │起訴│30分許，在│        │        │情之尤茂男所有之1 批廢鐵為│雄分局報請臺灣│處有期徒刑柒月。│
 │書附│嘉義縣溪口│        │        │其所有欲兜售販賣，即駕駛其│嘉義地方法院檢│                │
-│表編│鄉妙崙村下│        │        │配偶<font color='red'>吳淑慧</font>所有車牌號碼00-0│察署呈請臺灣高│                │
+│表編│鄉妙崙村下│        │        │配偶吳淑慧所有車牌號碼00-0│察署呈請臺灣高│                │
 │號2 │崙0 號蔡淑│        │        │000 號自用小客車搭載蔡淑媛│等法院檢察署檢│                │
 │）  │媛之住處  │        │        │前往上址查看確有該物品，致│察長令轉臺灣彰│                │
 │    │          │        │        │蔡淑媛陷於錯誤，並在嘉義縣│化地方法院檢察│                │
@@ -503,7 +396,7 @@ function openwin(URL,arguments,width,height)
 │（即│日下午2時 │        │        │學甲區平和里西平寮00號之0 │警察局學甲分局│欺取財罪，累犯，│
 │起訴│10分許，在│        │        │之不知情之李春所有之1 批廢│報請臺灣臺南地│處有期徒刑捌月。│
 │書附│臺南市學甲│        │        │鐵為其所有欲便宜出售，即駕│方法院檢察署呈│                │
-│表編│區秀昌里煥│        │        │駛其配偶<font color='red'>吳淑慧</font>所有車牌號碼│請臺灣高等法院│                │
+│表編│區秀昌里煥│        │        │駛其配偶吳淑慧所有車牌號碼│請臺灣高等法院│                │
 │號5 │昌00號之0 │        │        │00-0000 號自用小客車搭載李│檢察署檢察長令│                │
 │）  │李同勝之住│        │        │同勝前往上址查看確有該物品│轉臺灣彰化地方│                │
 │    │處        │        │        │後返回李同勝住處，致李同勝│法院檢察署檢察│                │
@@ -527,7 +420,7 @@ function openwin(URL,arguments,width,height)
 │11  │102年8月28│謝富裕  │2 萬9,75│鄭聰明向謝富裕佯稱在彰化縣│案經謝富裕訴由│鄭聰明犯修正前詐│
 │（即│日上午9時 │        │0 元    │埔心鄉瑤鳳路0段000巷一處空│彰化縣警察局溪│欺取財罪，累犯，│
 │起訴│許，在彰化│        │        │地之1 批廢鐵為其所有欲兜售│湖分局報請臺灣│處有期徒刑拾月。│
-│書附│縣埔心鄉瑤│        │        │販賣，即駕駛其配偶<font color='red'>吳淑慧</font>所│彰化地方法院檢│                │
+│書附│縣埔心鄉瑤│        │        │販賣，即駕駛其配偶吳淑慧所│彰化地方法院檢│                │
 │表編│鳳路0段000│        │        │租用車牌號碼000-0000（起訴│察署檢察官偵查│                │
 │號16│號謝富裕之│        │        │書誤載為000-0000，應予更正│起訴。        │                │
 │）  │住處，即其│        │        │）號自用小客車搭載謝富裕前│              │                │
@@ -539,7 +432,7 @@ function openwin(URL,arguments,width,height)
 │12  │102年9月3 │謝其呈  │2萬5千元│鄭聰明向謝其呈佯稱在彰化縣│案經謝其呈訴由│鄭聰明犯修正前詐│
 │（即│日下午1時 │        │        │和美鎮○○路00巷00號旁空地│彰化縣警察局和│欺取財罪，累犯，│
 │起訴│20分許，在│        │        │之1 批廢鐵為其所有欲兜售販│美分局報請臺灣│處有期徒刑玖月。│
-│書附│彰化縣彰化│        │        │賣，即駕駛其配偶<font color='red'>吳淑慧</font>所租│彰化地方法院檢│                │
+│書附│彰化縣彰化│        │        │賣，即駕駛其配偶吳淑慧所租│彰化地方法院檢│                │
 │表編│市彰草路  │        │        │用車牌號碼000-0000號自用小│察署檢察官偵查│                │
 │號11│000 之0 號│        │        │客車搭載謝其呈前往上址查看│起訴。        │                │
 │）  │謝其呈之住│        │        │確有該物品後返回謝其呈住處│              │                │
@@ -552,7 +445,7 @@ function openwin(URL,arguments,width,height)
 │起訴│許，在南投│        │        │地之不知情之林國雄所有之1 │報請臺灣彰化地│處有期徒刑捌月。│
 │書附│縣草屯鎮草│        │        │台貨櫃屋及置放其內之1 台割│方法院檢察署檢│                │
 │表編│溪路000之 │        │        │草機為其所有欲兜售販賣，即│察官偵查起訴。│                │
-│號15│00號陳氏慕│        │        │駕駛其配偶<font color='red'>吳淑慧</font>所租用車牌│              │                │
+│號15│00號陳氏慕│        │        │駕駛其配偶吳淑慧所租用車牌│              │                │
 │）  │之住處，即│        │        │號碼000-0000號自用小客車指│              │                │
 │    │其所經營之│        │        │引陳氏慕駕駛自用小客車前往│              │                │
 │    │泓泰資源回│        │        │上址查看確有該物品，陳氏慕│              │                │
@@ -567,7 +460,7 @@ function openwin(URL,arguments,width,height)
 │起訴│許，在黃文│        │        │空地（起訴書誤載為彰化縣浮│臺灣彰化地方法│處有期徒刑拾月，│
 │書附│崧所經營位│        │        │圳路，應予更正）之1 批廢鐵│院檢察署檢察官│偽造之「黃文章」│
 │表編│於彰化縣員│        │        │為其所有欲兜售販賣，即駕駛│偵查起訴。    │署押壹枚沒收。  │
-│號12│林鎮員東路│        │        │其配偶<font color='red'>吳淑慧</font>所租用車牌號碼│              │                │
+│號12│林鎮員東路│        │        │其配偶吳淑慧所租用車牌號碼│              │                │
 │）  │0 段00巷之│        │        │000-0000號自用小客車搭載黃│              │                │
 │    │龍吉資源回│        │        │文崧前往上址查看確有該物品│              │                │
 │    │收場      │        │        │後返回龍吉資源回收場，致黃│              │                │
@@ -611,7 +504,7 @@ function openwin(URL,arguments,width,height)
 │    │                                                          │訴。          │                │
 ├──┼─────────────────────────────┼───────┼────────┤
 │17（│如犯罪事實欄二、所示過失傷害部分。                        │案經林愛珠訴由│鄭聰明犯過失傷害│
-│即起│                                                          │嘉義縣警察局民│罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />│
+│即起│                                                          │嘉義縣警察局民│罪，處有期徒刑│
 │訴書│                                                          │雄分局報請臺灣│月，如易科罰金，│
 │附表│                                                          │嘉義地方法院檢│以新臺幣壹仟元折│
 │編號│                                                          │察署呈請臺灣高│算壹日。        │
@@ -620,86 +513,12 @@ function openwin(URL,arguments,width,height)
 │    │                                                          │化地方法院檢察│                │
 │    │                                                          │署檢察官偵查起│                │
 │    │                                                          │訴。          │                │
-└──┴─────────────────────────────┴───────┴────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10310\21\CHDM103AL.00V] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%ba%a4%e8%a8%b4&selectedCrmno=000121&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%85%a7&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%85%a7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%ba%a4%e8%a8%b4&jno=121&jdate=1031021&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%ba%a4%e8%a8%b4&jno=121&jdate=1031021&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e4%ba%a4%e8%a8%b4%2c121%2c20141021%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e4%ba%a4%e8%a8%b4','121','1031021','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑慧">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑慧">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴─────────────────────────────┴───────┴────────┘
+[*jrecno*]103,交訴,121,20141021,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]交訴
+[*jno*]121
+[*jdate*]1031021
+[*jcheck*]1

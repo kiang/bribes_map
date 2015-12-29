@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-102訴578</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000578&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c578%2c20131220%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=578&jdate=1021220&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c578%2c20131220%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=578&jdate=1021220&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c578%2c20131220%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','578','1021220','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,578</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021220</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　102年度訴字第578號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c578%2c20131220%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=578&jdate=1021220&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000578&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c578%2c20131220%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=578&jdate=1021220&jcheck=1
+[*裁判字號*]102,訴,578
+[*裁判日期*]1021220
+[*裁判案由*]貪污治罪條例
+[*裁判全文*]臺灣基隆地方法院刑事判決　　　　　　　102年度訴字第578號
 公　訴　人　臺灣基隆地方法院檢察署檢察官
 被　　　告　江儒德
 選任辯護人　楊思勤律師
@@ -223,7 +116,7 @@ function openwin(URL,arguments,width,height)
     同時基於填製不實會計憑證之犯意聯絡，將如附表一之(一)編
     號1 至6 所示漁船申購上開浮報數量優惠漁船油之不實事項
     ，填製於如附表一之(一)編號1 至6 所示浮報申購部分之統一
-    發票及「發油記錄單」上（其中附表一之(一)編號6 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所示
+    發票及「發油記錄單」上（其中附表一之(一)編號6 之所示
     浮報申購部分之統一發票僅填載銷售數量，而未填載買受人
     ，並無登載不實），以利作帳。
 三、江儒德、李根池基於行使公務員登載不實文書及填製不實會
@@ -234,8 +127,8 @@ function openwin(URL,arguments,width,height)
     發油記錄單」，佯以該部分油量係由如附表二編號1 至12所
     示漁船所申購，並製作如附表二編號1 至12所示購油數量不
     實之「補充漁船用油書」及「漁船購油記錄日報表」（其中
-    附表二編號2 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、3 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />、6
-    之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、7 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、8 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />、9 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />所示之「補充漁船
+    附表二編號2 之、、3 之、、4 之、、、6
+    之、7 之、8 之、、9 之、所示之「補充漁船
     用油書」，其上登載購油數量與該漁船實際申購數量相符，
     並無登載不實），再於每月月底，持該登載不實之「漁船購
     油記錄日報表」向農委會請領優惠油價補貼款而行使之，以
@@ -252,7 +145,7 @@ function openwin(URL,arguments,width,height)
     會計憑證及圖利廖信德之犯意，以及與廖信德共同基於登載
     不實公文書以行使之犯意，由江儒德於「漁管系統」內，虛
     增「金瑞益36號」漁船實際申購之甲種漁船油數量，並製作
-    如附表三編號1 浮報申購<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所示內容不實之統一發票及「發
+    如附表三編號1 浮報申購所示內容不實之統一發票及「發
     油記錄單」，佯以該浮報之6 公秉甲種漁船油係由「金瑞益
     36號」漁船所申購，然實際上江儒德係將該部分油量，以10
     1 年9 月9 日之油價私下售予廖信德，而於101 年9 月11日
@@ -274,12 +167,12 @@ function openwin(URL,arguments,width,height)
     ，嗣江儒德再持如附表三編號1 所示購油數量登載不實之「
     漁船購油記錄日報表」向農委會請領優惠油價補貼款，使農
     委會承辦人員誤以為該1 公秉油量，亦係由「金瑞益36號」
-    漁船合法申購，而將如附表三編號1 浮報申購<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />部分所示之
+    漁船合法申購，而將如附表三編號1 浮報申購部分所示之
     補貼款歸付和平島加油站，使江長泉詐得3,667 元，足以生
     損害於農委會管理優惠漁船油之正確性。江儒德於前述撿油
     過程中，亦單獨基於填製不實會計憑證之犯意，將「金瑞益
     36 號 」漁船申購上開浮報數量優惠漁船油之不實事項，填
-    製於如附表三編號1 浮報申購<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />部分之統一發票及「發油記
+    製於如附表三編號1 浮報申購部分之統一發票及「發油記
     錄單」，以利作帳。
   (二)江長泉與李根池共同意圖為自己或他人不法之所有及行使公
     務員登載不實文書之犯意，由李根池於100 年4 月10日，利
@@ -303,7 +196,7 @@ function openwin(URL,arguments,width,height)
 一、證據能力之說明：
   (一)共同被告江儒德於調查時所為不利於被告楊慶宗、廖信德之
     供述，以及共同被告李根池、夏再成、羅世雄、陳崑祥、林
-    萬發、證人倪萬來、陳永華、宋德祥、鄭基賢、<font color='red'>黃麗香</font>、吳
+    萬發、證人倪萬來、陳永華、宋德祥、鄭基賢、黃麗香、吳
     榮華、陳一珠、ZAINUDIN MOHAD、CAREDDI 、JUNEDI、SAHI
     M 、ADICITO BIN DASKA 、WAWAN IMDRA PRATAMA 、WAPPIN
     、JUNEDI、吳永成、杜世藩於調查時所為不利於被告楊慶宗
@@ -367,13 +260,13 @@ function openwin(URL,arguments,width,height)
     廖信德、江長泉之供述，依前揭說明，並無「應具結」而未
     具結之違法情形，雖屬前開被告以外之人於審判外之陳述，
     然而：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告李根池、廖信德、江長泉及其等之辯護人，於本院準備
+  被告李根池、廖信德、江長泉及其等之辯護人，於本院準備
     程序時均明示同意作為證據使用（見本院卷(一)第221 至222
     頁、卷(二)第30、31頁），且本院審酌該供述係共同被告江儒
     德經權利告知後，依其自由意識所為，因認以之作為證據亦
     屬適當，依刑事訴訟法第159 條之5 第1 項規定，對於被告
     李根池、廖信德及江長泉均具有證據能力。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />本院已依證人身分傳喚江儒德到庭具結作證，並由被告楊慶
+  本院已依證人身分傳喚江儒德到庭具結作證，並由被告楊慶
     宗及其辯護人行使詰問權，且被告楊慶宗及其辯護人均未敘
     明共同被告江儒德前揭供述有何顯不可信之情況，依刑事訴
     訟法第159 條之1 第2 項規定，對於被告楊慶宗自有證據能
@@ -382,12 +275,12 @@ function openwin(URL,arguments,width,height)
     江長泉之供述，以及共同被告李根池轉換為證人身分具結後
     所為之證述，依前揭說明，均符合刑事訴訟法第158 條之3
     規定，雖屬傳聞證據，然而：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告江長泉及其辯護人於本院準備程序時明示均同意作為證
+  被告江長泉及其辯護人於本院準備程序時明示均同意作為證
     據使用（見本院卷(二)第31頁），且本院審酌該供述證據係共
     同被告李根池依其身分，分別受權利告知後，本於自由意識
     所為，因認以之作為證據亦屬適當，依刑事訴訟法第159 條
     之5 第1 項規定，對於被告江長泉具有證據能力。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />本院已依證人身分傳喚李根池到庭具結作證，並由被告江儒
+  本院已依證人身分傳喚李根池到庭具結作證，並由被告江儒
     德、楊慶宗及其等之辯護人行使詰問權；又共同被告李根池
     對其所涉犯行均自白不諱，尚無捏詞卸責之必要，且證人保
     護法第14條第1 項規定：「第二條所列刑事案件之被告或犯
@@ -591,25 +484,25 @@ function openwin(URL,arguments,width,height)
     及撿油發票，並比對撿油前後是否有大船加油，以確認各次
     撿油之撿油漁船是否為「鴻海2 號」、「龍進6 號」漁船，
     其於調查時表示確認者，均屬實在等語（見本院卷(二)第127
-    頁反面至第128 頁）；而其於調查時供稱：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />如附表一之(一)
+    頁反面至第128 頁）；而其於調查時供稱：如附表一之(一)
     編號1 所示XX00000000號統一發票登載之100 公秉油量，係
     其協助「鴻海2 號」漁船撿「源發166 號」漁船的油（見10
-    2 年度偵字第2179號卷(一)第55頁反面）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />如附表一之(一)編
+    2 年度偵字第2179號卷(一)第55頁反面）；如附表一之(一)編
     號2 所示ZA00000000號統一發票登載之14公秉油量，係其協
     助「鴻海2 號」漁船撿「益大168 號」漁船的油（見102 年
-    度偵字第2179號卷(一)第54頁）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />如附表一之(一)編號3 所示
+    度偵字第2179號卷(一)第54頁）；如附表一之(一)編號3 所示
     AP00000000號統一發票登載之10公秉油量，係其協助「龍進
     6 號」漁船撿「隆勝168 號」漁船的油（見102 年度偵字第
-    2179號卷(一)第57頁）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />如附表一之(一)編號4 所示AP000000
+    2179號卷(一)第57頁）；如附表一之(一)編號4 所示AP000000
     00、AP00000000、AP00000000號統一發票登載之60、70、10
     公秉油量，分別係其協助「鴻海2 號」或「龍進6 號」漁船
     撿「合信興37號」、「益大37號」、「隆勝168 號」漁船的
     油（見102 年度偵字第2179號卷(一)第51頁、第53頁反面、第
-    57頁）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />如附表一之(一)編號5 所示CC00000000、CC000000
+    57頁）；如附表一之(一)編號5 所示CC00000000、CC000000
     00號統一發票登載之50、51公秉油量，分別係其協助「鴻海
     2 號」或「龍進6 號」漁船撿「金瑞益21號」、「益大37號
     」漁船的油（見102 年度偵字第2179號卷(一)第52頁反面、第
-    53頁反面）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />如附表一之(一)編號6 ，應係101 年10月5 日
+    53頁反面）；如附表一之(一)編號6 ，應係101 年10月5 日
     被告楊慶宗前來支付撿油款，因此被告江儒德協助被告楊慶
     宗撿101 年10月1 日「益大37號」漁船剩餘之核配油量，並
     製作編號002284號「發油記錄單」及101 年10月5 日無買受
@@ -618,7 +511,7 @@ function openwin(URL,arguments,width,height)
     附表一之(一)編號1 至6 所示漁船遭浮報申購之甲種漁船油，
     均係由被告李根池、江儒德協助被告楊慶宗撿油予「鴻海2
     號」或「龍進6 號」漁船：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />如附表一之(一)編號1 部分：
+  如附表一之(一)編號1 部分：
     證人即「源發166 號」漁船之船主蘇吉雄於偵訊時證稱：「
     源發166 號」漁船於100 年11月29日僅申購60公秉甲種漁船
     油，其餘100 公秉甲種漁船油並未加入「源發166 號」漁船
@@ -643,7 +536,7 @@ function openwin(URL,arguments,width,height)
     罄，當有撿油以補不足之必要，足彰「源發166 號」漁船遭
     浮報申購之100 公秉油量，確係於100 年12月3 日「鴻海2
     號」漁船進港加油時，撿油予「鴻海2 號」漁船。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />如附表一之(一)編號2 部分：
+  如附表一之(一)編號2 部分：
     被告江儒德於本院審理時以證人身分具結證稱：101 年2 月
     17日僅有「益大168 號」及「鴻海2 號」漁船至和平島加油
     站加油，故如附表一之(一)編號2 所示浮報申購之14公秉甲種
@@ -660,7 +553,7 @@ function openwin(URL,arguments,width,height)
     已用罄，有撿油以補不足之必要，足信「益大168 號」漁船
     遭浮報申購之14公秉油量，確係於同日撿油予「鴻海2 號」
     漁船。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />如附表一之(一)編號3 部分：
+  如附表一之(一)編號3 部分：
     「隆勝168 號」漁船於101 年3 月9 日遭撿油之數量為10公
     秉，而依前揭「漁管系統」實配油量修改操作紀錄電子檔光
     碟，緊接在「隆勝168 號」漁船後加油者分別為「新海隆」
@@ -674,7 +567,7 @@ function openwin(URL,arguments,width,height)
     係接續插入同一灌台內灌裝發油，足證「隆勝168 號」漁船
     遭浮報申購之10公秉油量，確係於101 年3 月11日「龍進6
     號」漁船進港加油時，撿油予「龍進6 號」漁船。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />如附表一之(一)編號4 部分：
+  如附表一之(一)編號4 部分：
     「合信興37號」、「益大37號」、「隆勝168 號」漁船均於
     101 年4 月1 日遭撿油，且剔除該漁船實際申購部分之統一
     發票，其餘遭浮報申購部分之統一發票，均係由被告李根池
@@ -688,12 +581,12 @@ function openwin(URL,arguments,width,height)
     補充油量」幾已用罄，有撿油以補不足之必要，足徵上開漁
     船遭浮報之140 公秉油量，係於101 年4 月5 日「龍進6 號
     」漁船進港加油時，同次撿油予「龍進6 號」漁船。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />如附表一之(一)編號5 部分：
+  如附表一之(一)編號5 部分：
     證人即「金瑞益21號」漁船之船主陳黃登於偵訊時證稱：如
-    附表一之(一)編號5 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所示2 張「金瑞益21號」漁船之統一
+    附表一之(一)編號5 之所示2 張「金瑞益21號」漁船之統一
     發票中，其僅見過編號CC00000000號者等語（見102 年度偵
     字第1700號卷(三)第130 頁反面），足見如附表一之(一)編號5
-    之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所示CZ000000000 號統一發票確係撿油發票。又「金瑞
+    之所示CZ000000000 號統一發票確係撿油發票。又「金瑞
     益21號」、「益大37號」漁船均於101 年6 月25日遭撿油，
     且剔除該漁船實際申購部分及建利8 號漁船於同日申購0.2
     公秉甲種漁船油之統一發票外（建利8 號之統一發票編號為
@@ -713,7 +606,7 @@ function openwin(URL,arguments,width,height)
     】），堪認上開漁船遭浮報之101 公秉油量，係於101 年7
     月3 日「鴻海2 號」漁船進港加油時，同次撿油予「鴻海2
     號」漁船。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />如附表一之(一)編號6部分：
+  如附表一之(一)編號6部分：
     依前揭「漁管系統」實配油量修改操作紀錄電子檔光碟，「
     益大68號」漁船係於101 年10月1 日至和平島加油站申購53
     公秉甲種漁船油，嗣「鴻海2 號」漁船於101 年10月5 日上
@@ -747,7 +640,7 @@ function openwin(URL,arguments,width,height)
     油數量，前往和平島加油站支付油款，並未要求被告江儒德
     、李根池協助撿油，亦不知悉被告江儒德、李根池如何撿油
     云云，惟查：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人即共同被告李根池於偵訊時證稱：被告楊慶宗於100 年
+  證人即共同被告李根池於偵訊時證稱：被告楊慶宗於100 年
     11、12月間，與陳英仁一同前往和平島加油站，希望其能協
     助撿油，嗣其他漁船有剩餘未加完之「核實補充油量」約10
     公秉左右，其與被告江儒德即會替「鴻海2 號」、「龍進6
@@ -782,7 +675,7 @@ function openwin(URL,arguments,width,height)
     對先前申購漁船油後仍有剩餘核配量之漁船進行撿油，則撿
     油款亦須以遭撿油漁船申購漁船油當日之油價加以計算，帳
     務資料始為一致，此時即須將撿油之數量及油價分別列計（
-    舉例而言，如附表一之(一)編號5 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所示「金瑞益21號」漁
+    舉例而言，如附表一之(一)編號5 之所示「金瑞益21號」漁
     船於101 年6 月25日購油時遭撿油50公秉，當時之優惠油價
     係每公秉19,258元，然「鴻海2 號」漁船於101 年7 月3 日
     前往和平島加油站申購核配漁船油並撿油時，優惠油價已調
@@ -790,7 +683,7 @@ function openwin(URL,arguments,width,height)
     ，「鴻海2 號」漁船核配油量部分，則應以每公秉19,086元
     計算），顯見被告李根池另行以紙張手寫計算予被告楊慶宗
     者，亦係撿油款無訛，且為被告楊慶宗所知悉。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人即和平島加油站灌台人員杜世藩於偵訊時證稱：其於調
+  證人即和平島加油站灌台人員杜世藩於偵訊時證稱：其於調
     查時陳述「鴻海2 號」、「龍進6 號」漁船都是由同一個船
     東去找被告江儒德、李根池商討「核實補充油量」不足欲多
     加油之問題，其係依照被告江儒德、李根池之指示，多加油
@@ -799,7 +692,7 @@ function openwin(URL,arguments,width,height)
     部分均屬實在（見102 年度他字第38號卷(二)第18頁、第14頁
     反面），益徵被告江儒德、李根池係經被告楊慶宗請託，始
     協助撿油予「鴻海2 號」、「龍進6 號」漁船。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告楊慶宗於調查時供稱：其知悉漁業署有對臺灣漁船之油
+  被告楊慶宗於調查時供稱：其知悉漁業署有對臺灣漁船之油
     料補助，並有公式可以計算補貼金額，而其申購核配之優惠
     漁船油時，需簽署「補充漁船用油書」，該文書上記載核准
     油量、實際加油量及補貼金額等語（見102 年度偵字第2635
@@ -814,7 +707,7 @@ function openwin(URL,arguments,width,height)
   5.公訴意旨認：被告江儒德、李根池、楊慶宗就填製不實會計
     憑證部分，亦具有犯意聯絡，且其等共同詐取之不法所得，
     尚包括撿油部分之貨物稅及營業稅免稅額云云，惟查：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告李根池、江儒德於調查時供稱：其等撿油時所預先開立
+  被告李根池、江儒德於調查時供稱：其等撿油時所預先開立
     之「發油記錄單」，會註記被告楊慶宗欲購買之數量，並填
     寫遭撿油漁船之船名或不寫船名，俟「鴻海2 號」或「龍進
     6 號」漁船至和平島加油站加油時，再將該「發油記錄單」
@@ -837,7 +730,7 @@ function openwin(URL,arguments,width,height)
     卷附證據，顯無從認定被告楊慶宗就填製不實「發油記錄單
     」或統一發票部分，與被告江儒德、楊慶宗有何犯意聯絡及
     行為分擔。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />按「漁業動力用油，免徵貨物稅」、「下列貨物或勞務免徵
+  按「漁業動力用油，免徵貨物稅」、「下列貨物或勞務免徵
     營業稅：……二十八、供沿岸、近海漁業使用之漁船、供漁
     船使用之機器設備、漁網及其用油」，分別為漁業法第59條
     前段、加值型及非加值型營業稅法第8 條第1 項第28款所明
@@ -897,10 +790,10 @@ function openwin(URL,arguments,width,height)
     2 號」或「龍進6 號」漁船，其等並共同利用職務上之機會
     ，詐取該浮報申購部分之優惠油價補貼款、貨物稅及營業稅
     云云，惟查：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告江儒德、李根池於調查時供稱：除附表二編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、編號2 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、編號6 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、編號8 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />、編號9 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />、編號10之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、編號
-    11之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />、編號12之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />外，其餘如附表二所示之撿油
+  被告江儒德、李根池於調查時供稱：除附表二編號1 之、
+    、、、編號2 之、、編號4 之、編號6 之、
+    、編號8 之、、編號9 之、編號10之、、編號
+    11之、、、編號12之外，其餘如附表二所示之撿油
     紀錄，其等均無法確定撿油漁船為何等語（見102 年度偵字
     第1700號卷(三)第154 頁反面至第160 頁、卷(四)第4 至7 頁、
     102 年度偵字第2179號卷(一)第40頁反面至第41頁、第50頁反
@@ -908,10 +801,10 @@ function openwin(URL,arguments,width,height)
     江儒德、李根池無法確認撿油漁船者，均起訴係撿油予「鴻
     海2 號」漁船「龍進6 號」漁船，顯未盡舉證責任，難認被
     告楊慶宗與此部分犯罪有關。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告李根池於調查時供稱：如附表二編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、編號2 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、編號6 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、編號
-    8 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />、編號9 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />、編號10之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、編號11之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />所示之撿油紀錄，分別係撿油予「鴻海2 號」或「龍
+  被告李根池於調查時供稱：如附表二編號1 之、、、
+    、編號2 之、、編號4 之、編號6 之、、編號
+    8 之、、編號9 之、編號10之、、編號11之、
+    、所示之撿油紀錄，分別係撿油予「鴻海2 號」或「龍
     進6 號」漁船云云，然而：
   (甲)被告李根池於本院準備程序供稱：其為被告楊慶宗撿油之期
     間為「鴻海2 號」、「龍進6 號」漁船至和平島加油站加油
@@ -924,24 +817,24 @@ function openwin(URL,arguments,width,height)
     反面至第128頁反面）。
   (乙)依前揭「漁管系統」實配油量修改操作紀錄電子檔光碟及扣
     案之100 年11、12月份甲3 統一發票簿、「補充漁船用油書
-    」所示，如附表二編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />所示漁船於100 年12
+    」所示，如附表二編號1 之、、所示漁船於100 年12
     月9 日、100 年12月11日遭撿油後，即有CT5 之「發春發號
     」漁船（統一編號：CT5-1246號）至和平島加油站加油（「
     漁船購油記錄日報表」雖記載「發春發號」漁船係於100 年
     12月10日申購優惠漁船油，然「發春發號」漁船之統一發票
     日期係100 年12月11日、編號係XX00000000，均在如附表二
-    編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />之後，故「發春發號」漁船實際繳付油
+    編號1 之、、之後，故「發春發號」漁船實際繳付油
     款加油之日期應係100 年12月11日），且「發春發號」漁船
     自身之「核實補充油量」幾已用罄（見扣押物編號A-08-1、
     A-12-9、102 年度偵字第2635號卷(一)第152 頁反面），無法
-    排除「發春發號」漁船係附表二編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />部分之
+    排除「發春發號」漁船係附表二編號1 之、、部分之
     撿油漁船，則此部分撿油期間既有其他大船進港加油，而被
     告李根池復未說明其供述此部分係撿油予「鴻海2 號」漁船
     之理由（見102 年度偵字第2179號卷(一)第54頁反面、第57頁
     、第51頁），自難使本院確信其為真實。
   (丙)依卷附「漁船購油記錄日報表」及前揭「漁管系統」實配油
-    量修改操作紀錄電子檔光碟，如附表二編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、編號2
-    之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />所示漁船至和平島加油站申購優惠漁船油後，分別
+    量修改操作紀錄電子檔光碟，如附表二編號1 之、編號2
+    之、所示漁船至和平島加油站申購優惠漁船油後，分別
     係於100 年12月18日及101 年1 月15日遭竄改「漁管系統」
     內之「實加油量」紀錄，而「鴻海2 號」漁船係遲至101 年
     2 月17日始至和平島加油站申購自身之「核實補充油量」，
@@ -955,25 +848,25 @@ function openwin(URL,arguments,width,height)
     船油之金額，於101 年3 月12日為每公秉19,516元，嗣於10
     1 年3 月19日調漲為每公秉19,602元（見102 年度偵字第26
     35號卷(一)第235 頁）；又依卷附「漁船購油記錄日報表」及
-    扣案「補充漁船用油書」，如附表二編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />所示之「佳
+    扣案「補充漁船用油書」，如附表二編號4 之所示之「佳
     興3 號」漁船，係油價調漲前最後進港加油且有剩餘大量「
     核實補充油量」之CT5 大船（見102 年度偵字第2635號卷(一)
     第15 8頁反面至第159 頁、扣押物編號A-12-6），自無法排
     除被告江儒德、李根池係將「佳興3 號」漁船剩餘之「核實
     補充油量」撿油予不及於油價調漲前進港加油之「佳興3 號
-    」漁船。況如附表二編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />所示浮報申購部分
+    」漁船。況如附表二編號4 之、、所示浮報申購部分
     之「發油記錄單」，其上壓印之「印數機編號」均接續相連
-    ，倘如附表二編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />部分係撿油予「龍進6 號」漁船，
-    如附表二編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />部分亦應得確認係撿油予「龍進6
+    ，倘如附表二編號4 之部分係撿油予「龍進6 號」漁船，
+    如附表二編號4 之、部分亦應得確認係撿油予「龍進6
     號」漁船，惟被告江儒德、李根池卻表示無法確認如附表二
-    編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />部分之撿油漁船，顯不合理（見102 年度偵
+    編號4 之、部分之撿油漁船，顯不合理（見102 年度偵
     字第1700號卷(三)第158 頁正反面、第160 頁、102 年度偵字
     第2179號卷(一)第54頁、第57頁反面），則被告李根池既未說
-    明其供述如附表二編號4 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />部分係撿油予「龍進6 號」漁
+    明其供述如附表二編號4 之部分係撿油予「龍進6 號」漁
     船之理由（見102 年度偵字第2179號卷(一)第55頁），即難使
     本院確信其為真實。
   (戊)依卷附「漁船購油記錄日報表」及前揭「漁管系統」實配油
-    量修改操作紀錄電子檔光碟，如附表二編號6 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />所示
+    量修改操作紀錄電子檔光碟，如附表二編號6 之、所示
     漁船，分別係於101 年5 月23日及101 年5 月29日遭撿油，
     而「龍進6 號」、「鴻海2 號」漁船分別係遲至101 年6 月
     21日、101 年7 月3 日始至和平島加油站申購自身之「核實
@@ -983,19 +876,19 @@ function openwin(URL,arguments,width,height)
     油予「鴻海2 號」或「龍進6 號」漁船之理由（見102 年度
     偵字第2179號卷(一)第53頁），即難使本院確信其為真實。
   (己)依前揭「漁管系統」實配油量修改操作紀錄電子檔光碟及卷
-    附「漁船購油記錄日報表」，如附表二編號8 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />所示
+    附「漁船購油記錄日報表」，如附表二編號8 之、所示
     漁船，分別係於101 年7 月7 日及101 年7 月22日遭撿油，
     而「鴻海2 號」、「龍進6 號」漁船分別係遲至101 年8 月
     5 日、101 年8 月26日始至和平島加油站申購自身之「核實
     補充油量」，距離前開撿油日期，顯均已超過被告李根池所
     述之最長撿油期間10天（見102 年度偵字第2635號卷(一)第17
     0 、172 頁），則被告李根池既未說明其供述如附表編號8
-    之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />係撿油予「鴻海2 號」及如附表二編號8 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />係撿油予
+    之係撿油予「鴻海2 號」及如附表二編號8 之係撿油予
     「鴻海2 號」或「龍進6 號」漁船之理由（見102 年度偵字
     第2179號卷(一)第55頁、第51頁反面），即難使本院確信其為
     真實。
   (庚)依卷附「發油記錄單」及「漁船購油記錄日報表」，如附表
-    二編號9 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />所示之撿油紀錄，僅有1 張101 年8 月25日應
+    二編號9 之所示之撿油紀錄，僅有1 張101 年8 月25日應
     發數量為20公秉之「發油記錄單」，而「龍進6 號」、「鴻
     海2 號」漁船分別係於101 年8 月26日、101 年10月5 日始
     進港加油（見102 年度偵字第1700號卷(三)第196 頁、102 年
@@ -1005,25 +898,25 @@ function openwin(URL,arguments,width,height)
     發數量中之12.26 公秉係撿油予「鴻海2 號」或「龍進6 號
     」漁船，既未說明其依憑之理由（見102 年度偵字第2179號
     卷(一)第53頁），即難使本院確信其為真實。
-  (辛)被告李根池於調查中供稱：如附表二編號10之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />所示「隆勝
+  (辛)被告李根池於調查中供稱：如附表二編號10之所示「隆勝
     168 號」漁船遭浮報申購之5.6 公秉油量，係其撿油予「鴻
-    海2 號」漁船，如附表二編號10之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />所示「永鴻發88號」漁
+    海2 號」漁船，如附表二編號10之所示「永鴻發88號」漁
     船遭浮報申購之15公秉油量，係其撿油予「鴻海2 號」或「
     龍進6 號」漁船云云（見102 年度偵字第2179號卷(一)第57頁
     反面、第51頁反面），惟依前揭「漁管系統」實配油量修改
     操作紀錄電子檔光碟及卷附「漁船購油記錄日報表」，如附
-    表二編號10之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />所示漁船，分別於101 年9 月26日、10
+    表二編號10之、所示漁船，分別於101 年9 月26日、10
     1 年9 月30日即遭竄改「漁管系統」內之「實加油量」紀錄
     ，而「鴻海2 號」漁船係於101 年10月5 日始進港加油（見
     102 年度偵字第2635號卷(一)第174 頁反面，即附表一之(二)編
     號6 所示購油紀錄），且比對附表一之(二)編號6 及附表二編
-    號10之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />浮報申購部分之統一發票、「發油記錄單」等
+    號10之、浮報申購部分之統一發票、「發油記錄單」等
     單據，亦未發現有何直接關聯性，顯不足以佐據被告李根池
     前揭所述之憑信性，而使本院確信其為真實。
   (壬)依前揭「漁管系統」實配油量修改操作紀錄電子檔光碟，如
-    附表二編號11之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />所示漁船，分別係於101 年10月11日
+    附表二編號11之、所示漁船，分別係於101 年10月11日
     、101 年10月12日遭撿油，「鴻海2 號」漁船則係於101 年
-    10月14日進港加油。又如附表二編號11之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />撿油數量合
+    10月14日進港加油。又如附表二編號11之、撿油數量合
     計僅為34公秉，50噸以上之CT4 、CT5 、CT6 漁船均可能為
     撿油漁船，而「鴻海2 號」漁船進港加油前，即有CT4 之「
     順益航168 號」漁船於101 年10月12日進港加油，且依卷附
@@ -1041,15 +934,15 @@ function openwin(URL,arguments,width,height)
     （見102 年度偵字第2179號卷(一)第50頁反面、第53頁），自
     難本院確信其為真實。
   (癸)依前揭「漁管系統」實配油量修改操作紀錄電子檔光碟及卷
-    附「漁船購油記錄日報表」，如附表二編號11之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />所示漁船
+    附「漁船購油記錄日報表」，如附表二編號11之所示漁船
     ，係於101 年10月20日遭撿油，而「鴻海2 號」漁船係遲至
     101 年11月15日始至和平島加油站申購自身之「核實補充油
     量」（見102 年度偵字第2635號卷(一)第178 頁），距離前開
     撿油日期，顯已超過被告李根池所述之最長撿油期間10天，
-    則被告李根池既未說明其供述如附表編號11之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />係撿油予「
+    則被告李根池既未說明其供述如附表編號11之係撿油予「
     鴻海2 號」之理由（見102 年度偵字第2179號卷(一)第51頁）
     ，即難使本院確信其為真實。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告江儒德供述如附表二編號12之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />之撿油紀錄，係撿油予
+  被告江儒德供述如附表二編號12之之撿油紀錄，係撿油予
     「鴻海2 號」及「龍進6 號」漁船云云，惟其於同次調查時
     供稱：其與被告李根池係將撿的油放在油槽內，等待「鴻海
     2 號」、「龍進6 號」漁船回港時加予該兩漁船，原則上所
@@ -1058,15 +951,15 @@ function openwin(URL,arguments,width,height)
     153 頁）；嗣於本院準備程序時復供稱：「鴻海2 號」、「
     龍進6 號」漁船通常都是加自己核配油時才會撿油等語（見
     本院卷(二)第49頁）。又依前揭「漁管系統」實配油量修改操
-    作紀錄電子檔光碟，如附表二編號12之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />所示漁船係於101
+    作紀錄電子檔光碟，如附表二編號12之所示漁船係於101
     年11月25日遭撿油，而「鴻海2 號」漁船係遲至101 年12月
     10日始進港加油，「龍進6 號」漁船自101 年11月18日後，
     即未再至和平島加油站申購優惠漁船油，則「鴻海2 號」漁
-    船進港申購自身核配油之日期，與如附表二編號12之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />所示
+    船進港申購自身核配油之日期，與如附表二編號12之所示
     漁船遭撿油之日期，既已逾被告江儒德所述之1 、2 週撿油
     期間，復無其他證據足以佐證被告江儒德此部分供述之憑信
     性，自難使本院確信其為真實。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />貪污治罪條例第5 條第1 項第2 款利用職務上之機會詐取財
+  貪污治罪條例第5 條第1 項第2 款利用職務上之機會詐取財
     物罪，就詐取財物之要件言，與刑法詐欺取財罪相同，必須
     行為人意圖為自己或第三人不法之所有，以詐術使人將本人
     或第三人之物交付為要件（最高法院94年度台上字第5286號
@@ -1086,7 +979,7 @@ function openwin(URL,arguments,width,height)
     第49、28頁），核與證人即「金瑞益36號」漁船之船主陳黃
     登於偵訊時證述遭撿油予被告廖信德之情節相符（見102 年
     度偵字第1700號卷(三)第131 頁反面），並有如附表三編號1
-    所示之「漁船購油記錄日報表」及浮報申購<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />部分之統一發
+    所示之「漁船購油記錄日報表」及浮報申購部分之統一發
     票、「發油記錄單」等在卷可憑。又被告廖信德為「順德發
     號」漁船之船主乙節，亦有「順德發號」漁船購油手冊（見
     102 年度偵字第1700號卷(二)第92頁反面）存卷可考。
@@ -1102,15 +995,15 @@ function openwin(URL,arguments,width,height)
     ，亦具有犯意聯絡，且其等係共同利用職務上之機會，詐取
     優惠漁船油之補助款、貨物稅及營業稅，計達54,997元云云
     ，惟查：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告江儒德於撿油過程中所製作之「發油記錄單」及統一發
+  被告江儒德於撿油過程中所製作之「發油記錄單」及統一發
     票，均未交予撿油漁船所屬人員收執，已如前述，且無證據
     證明被告廖信德知悉被告江儒德係以製作上開不實會計憑證
     之方式平帳，自難認被告廖信德與被告江儒德有何填製不實
     會計憑證之犯意聯絡及行為分擔。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />漁業人申購漁船油，依法即免徵貨物稅及營業稅，已如前述
+  漁業人申購漁船油，依法即免徵貨物稅及營業稅，已如前述
     ，此免稅利益與被告江儒德、廖信德共同登載不實公文書之
     行為間，不具有因果關係，並非本案犯罪之不法所得。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />依卷附「順德發號」漁船之「購油手冊」及「漁船購油紀日
+  依卷附「順德發號」漁船之「購油手冊」及「漁船購油紀日
     報表」，「順德發號」漁船之主機係600 馬力，其於101 年
     9 月11日進港加油時，該航次之作業時數為187.5 小時，「
     實加油量」為4 公秉（見102 年度偵字第1700號卷(二)第92至
@@ -1145,7 +1038,7 @@ function openwin(URL,arguments,width,height)
     於偵訊時證述遭撿油之情節，互核均大致相符（見102 年度
     偵字第1700號卷(三)第65頁、第131 頁反面），並有如附表三
     編號1 、2 所示之「漁船購油記錄日報表」及附表三編號1
-    浮報申購<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />部分、編號2 所示之統一發票、「發油記錄單」
+    浮報申購部分、編號2 所示之統一發票、「發油記錄單」
     等存卷可考。
   2.被告江長泉至和平島加油站申購「新勝號」漁船之核配漁船
     油時，確曾在「補充漁船用油書」之「申請人」欄內簽名（
@@ -1219,7 +1112,7 @@ function openwin(URL,arguments,width,height)
     犯商業會計法第71條第1 款之填製不實罪嫌云云（見檢察官
     補充理由書第8 頁），因被告楊慶宗未參與填製會計憑證之
     行為，且無證據證明被告楊慶宗與被告江儒德、李根池就此
-    部分具有犯意聯絡（詳如本判決「得心證之理由」欄(三)5.<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />
+    部分具有犯意聯絡（詳如本判決「得心證之理由」欄(三)5.
     ），本應就此部分判處被告楊慶宗無罪，惟因公訴人認此部
     分應為前開論罪部分所吸收而具有一罪關係（見檢察官起訴
     書第14頁），本院爰不另為無罪之諭知。
@@ -1258,7 +1151,7 @@ function openwin(URL,arguments,width,height)
     （見檢察官起訴書第13至14頁），本院爰不另為無罪之諭知
     ；又檢察官未舉證證明被告江儒德、李根池此部分具有為自
     己或他人不法所有之意圖（見本判決「得心證之理由」欄(四)
-    2.<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />），自亦不得對被告江儒德、李根池論以利用職務機會
+    2.），自亦不得對被告江儒德、李根池論以利用職務機會
     詐取財物罪。
   (四)事實欄四部分：
   1.按貪污治罪條例第6 條第1 項第4 款之圖利罪，係屬身分犯
@@ -1295,7 +1188,7 @@ function openwin(URL,arguments,width,height)
     見檢察官補充理由書第7 、9 頁），惟被告廖信德撿油之動
     機，並非基於詐取補貼款之不法所有意圖，而係貪圖油價調
     漲前後實際購買金額之價差利益（見本判決「得心證之理由
-    」欄(五)3.<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />），是檢察官起訴法條，容有未恰，爰於基本社
+    」欄(五)3.），是檢察官起訴法條，容有未恰，爰於基本社
     會事實同一之範圍內，變更起訴法條；又被告廖信德未參與
     填製會計憑證之行為，亦無證據證明被告廖信德與被告江儒
     德就填製不實會計憑證部分具有犯意聯絡或行為分擔，本應
@@ -1306,8 +1199,8 @@ function openwin(URL,arguments,width,height)
   1.被告江儒德與被告江長泉共同基於詐取補貼款之不法意圖，
     以竄改「漁管系統」紀錄，製作不實「漁船購油記錄日報表
     」後行使之方式，施用詐術，使農委會之承辦人員陷於錯誤
-    ，因而給付如附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />所示之補貼款得手，核被告
-    江儒德如附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />所為，係犯貪污治罪條例第5 條
+    ，因而給付如附表三編號1 之所示之補貼款得手，核被告
+    江儒德如附表三編號1 之所為，係犯貪污治罪條例第5 條
     第1 項第2 款利用職務機會詐取財物罪及刑法第216 、213
     條行使公務員登載不實文書罪；被告江長泉雖不具有公務員
     身分，然其與被告江儒德具有犯意聯絡及行為分擔，依貪污
@@ -1331,9 +1224,9 @@ function openwin(URL,arguments,width,height)
     不實罪。被告李根池、江長泉以一施用詐術之行為，同時觸
     犯上開數罪名，為想像競合犯，應依刑法第55條前段規定，
     各從一重之利用職務機會詐取財物罪處斷。
-  3.被告江長泉就附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、編號2 所犯二罪，犯意各
+  3.被告江長泉就附表三編號1 之、編號2 所犯二罪，犯意各
     別，行為互殊，應予分論併罰。
-  4.公訴意旨認被告江長泉如附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、編號2 部分亦
+  4.公訴意旨認被告江長泉如附表三編號1 之、編號2 部分亦
     涉犯商業會計法第71條第1 款之填製不實罪嫌云云（見檢察
     官補充理由書第9 頁），因被告江長泉未參與填製會計憑證
     之行為，且無證據證明被告江長泉與被告江儒德、李根池具
@@ -1380,14 +1273,14 @@ function openwin(URL,arguments,width,height)
     於證人保護法第14條第1 項係就同法第2 條所列舉各類犯罪
     而為一般共同之規範，自屬特別法而應優先適用。
   3.被告江儒德、李根池就附表一之(一)編號1 至6 、附表三編號
-    1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />及編號2 所示之犯行，於偵查中均自白不諱
-    。又附表一之(一)編號1 至6 、附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />及編號2 所
+    1 之、1 之及編號2 所示之犯行，於偵查中均自白不諱
+    。又附表一之(一)編號1 至6 、附表三編號1 之及編號2 所
     示浮報申購部分之統一發票，其上填載之甲種漁船油單價，
     均係扣除優惠油價補貼款後之「漁民實際購買金額」，堪信
     被告楊慶宗、江長泉所支付之撿油款，已先行扣除補貼款，
     而由農委會事後代為歸付和平島加油站，故此部分犯罪所詐
     得之補貼款，實際上係由被告楊慶宗、江長泉取得；而如附
-    表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />部分，亦僅由被告廖信德獲取購油價差之不
+    表三編號1 之部分，亦僅由被告廖信德獲取購油價差之不
     法利益。是以，被告江儒德、李根池就上開犯行，均無實際
     犯罪所得，依前揭1.說明，其等於偵查中自白，即符合貪污
     治罪條例第8 條第2 項前段所定之減刑要件。
@@ -1397,11 +1290,11 @@ function openwin(URL,arguments,width,height)
     度偵字第2179號卷(一)第67頁、第54頁）；附表一之(一)編號1
     、3 至6 部分，分別係因被告李根池於102 年5 月27日、10
     2 年4 月22日調查時之供述，而查悉被告楊慶宗之犯行（見
-    本判決「得心證之理由」欄(三)2.）；附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />部分
+    本判決「得心證之理由」欄(三)2.）；附表三編號1 之部分
     ，最早係因證人陳黃登於102 年6 月4 日偵訊時之證述，而
     查悉被告廖信德之犯行，被告江儒德係於102 年6 月7 日調
     查時始為相同之供述（見102 年度偵字第1700號卷(三)第131
-    頁反面、第157 頁正反面）；附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />部分，證人
+    頁反面、第157 頁正反面）；附表三編號1 之部分，證人
     陳黃登於102 年6 月4 日偵訊時僅供稱撿油者係綽號「阿泉
     」之人，嗣經被告江儒德於102 年6 月7 日調查時供稱「阿
     泉」係「新勝號」漁船船主，始查悉被告江長泉之犯行（見
@@ -1411,13 +1304,13 @@ function openwin(URL,arguments,width,height)
     7 日供稱撿油漁船係「新勝號」漁船，始查悉被告江長泉之
     犯行（見102 年度偵字第2179號卷(一)第51頁、102 年度偵字
     第1700號卷(三)第155 頁）。是以，被告江儒德就附表一之(一)
-    編號2 、附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />部分，以及被告李根池就附表一
+    編號2 、附表三編號1 之部分，以及被告李根池就附表一
     之(一)編號1 、3 至6 部分，分別符合貪污治罪條例第8 條第
     2 項後段所定之減刑要件。
-  5.從而，被告江儒德就附表一之(一)編號2 、附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />
+  5.從而，被告江儒德就附表一之(一)編號2 、附表三編號1 之
     部分，應依貪污治罪條例第8 條第2 項後段規定減輕其刑（
     依刑法第66條但書規定，得減至3 分之2 ）；就附表一之(一)
-    編號1 、3 至6 及附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />部分，應依貪污治罪條
+    編號1 、3 至6 及附表三編號1 之部分，應依貪污治罪條
     例第8 條第2 項前段規定減輕其刑（依刑法第66條本文規定
     ，減輕其刑至2 分之1 ）。被告李根池就附表一之(一)編號1
     、3 至6 部分，應依貪污治罪條例第8 條第2 項後段規定減
@@ -1429,7 +1322,7 @@ function openwin(URL,arguments,width,height)
     2 部分，應依貪污治罪條例第8 條第2 項前段規定減輕其刑
     。
   6.被告江長泉於偵查中雖自白犯罪，然並未繳交如附表三編號
-    1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />及編號2 所示之不法所得，自無從依貪污治罪條例第
+    1 之及編號2 所示之不法所得，自無從依貪污治罪條例第
     8 條第2 項前段規定予以減輕其刑。
   (二)貪污治罪條例第12條第1項部分：
   1.按貪污治罪條例第4 條至第6 條之罪，情節輕微，而其所得
@@ -1441,8 +1334,8 @@ function openwin(URL,arguments,width,height)
     ，縱屬情節輕微，仍無該條項之適用（最高法院第93年度台
     上字第2231號判決要旨參照）。
   2.被告江儒德、李根池、楊慶宗就附表一之(一)編號2 、3 部分
-    ，被告江儒德就附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />部分，被告江儒德、江長
-    泉就附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />部分，以及被告李根池、江長泉就附
+    ，被告江儒德就附表三編號1 之部分，被告江儒德、江長
+    泉就附表三編號1 之部分，以及被告李根池、江長泉就附
     表三編號2 部分，所共同詐得或圖得之財物或不正利益均在
     5 萬元以下，爰依貪污治罪條例第12條第1 項規定，各減輕
     其刑。至附表一編號1 、4 至6 部分，被告江儒德、李根池
@@ -1455,15 +1348,15 @@ function openwin(URL,arguments,width,height)
     時證稱：其係自90年6 月起任職於和平島加油站，而其到職
     前即存在漁船間互助撿油之事等語即明（見本院卷(二)第104
     頁反面），是被告江儒德、李根池依循前例，而為附表一之
-    (一)編號1 至6 、附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、編號2 所示之撿油
+    (一)編號1 至6 、附表三編號1 之、、編號2 所示之撿油
     行為，主觀惡性及反社會性均難認屬重大，且上開撿油行為
     所詐取之補貼款及圖得之不法利益，均係由撿油漁船所屬漁
     業人享有，足見被告江儒德、李根池並非出於營利之目的而
     為，本院因認縱量處其等前揭減輕其刑後之法定最低刑度，
     仍稍嫌過重，爰依刑法第59條規定，就其等所犯如附表一之
-    (一)編號1 至6 、附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、編號2 部分，各再
+    (一)編號1 至6 、附表三編號1 之、、編號2 部分，各再
     予遞減其刑。
-  2.被告江長泉係因定額補助不敷使用，而為附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />
+  2.被告江長泉係因定額補助不敷使用，而為附表三編號1 之
     、編號2 所示之撿油行為，且每次撿油之數量均僅1 公秉，
     購油頻率亦無明顯異常，堪信確係用於從事漁業行為，雖同
     係以不法手段獲取補貼款，然「優惠油價標準」既規定漁船
@@ -1472,7 +1365,7 @@ function openwin(URL,arguments,width,height)
     足之處，自難嚴予苛責領取補貼款而確實投入漁業生產之漁
     業人；本院因認縱量處被告江長泉前揭減輕其刑後之法定最
     低刑度，仍屬法重情輕而顯可憫恕，爰依刑法第59條規定，
-    就其所犯附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、編號2 部分，各再予遞減其刑
+    就其所犯附表三編號1 之、編號2 部分，各再予遞減其刑
     。
   3.被告楊慶宗已申購「鴻海2 號」、「龍進6 號」漁船自身之
     核配用油而獲得高額補貼款，仍不知足，復私下撿油詐取補
@@ -1534,7 +1427,7 @@ function openwin(URL,arguments,width,height)
     共同詐得之補貼款，依貪污治罪條例第10條第1 項、第3項
     規定，應予連帶追繳，如全部或一部無法追繳時，應連帶以
     財產抵償之。
-  2.被告江儒德、江長泉如附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所示共同詐得之補
+  2.被告江儒德、江長泉如附表三編號1 之所示共同詐得之補
     貼款，依貪污治罪條例第10條第1 項、第3 項規定，應予連
     帶追繳，如全部或一部無法追繳時，應連帶以財產抵償之。
   3.被告李根池、江長泉如附表三編號2 所示共同詐得之補貼款
@@ -1743,12 +1636,12 @@ function openwin(URL,arguments,width,height)
     得如附表一之(一)所示之補貼款等情，已如前述，固均堪予認
     定。
   2.惟查：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告江儒德、李根池如附表二所示之撿油行為，依卷附證據
+  被告江儒德、李根池如附表二所示之撿油行為，依卷附證據
     ，均不足以認定係撿油予「鴻海2 號」、「龍進6 號」漁船
     ，已如前述，自難認被告夏再成、羅世雄、陳崑祥、林萬發
     就此部分犯罪，與被告江儒德、李根池具有犯意聯絡或行為
     分擔。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告李根池於偵查中及本院審理時，迭次所陳述關於賄賂之
+  被告李根池於偵查中及本院審理時，迭次所陳述關於賄賂之
     事，均係由被告楊慶宗向被告江儒德、李根池為期約及交付
     賄款（見102 年度偵字第2179號卷(一)41頁反面、102 年度偵
     字第1700號卷(四)第49頁、102 年度2635號卷(二)第55至56頁、
@@ -1761,7 +1654,7 @@ function openwin(URL,arguments,width,height)
     相關證據，即遽行起訴被告夏再成、羅世雄、陳崑祥、林萬
     發涉犯貪污治罪條例第4 條第1 項第5 款違背職務收受賄賂
     及同條例第11條第1 項交付賄賂罪嫌，顯屬無稽。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告林萬發供稱：「龍進6 號」漁船申購優惠漁船油時，係
+  被告林萬發供稱：「龍進6 號」漁船申購優惠漁船油時，係
     由被告陳崑祥負責與加油站人員接洽，後續情況亦均係由被
     告楊慶宗、陳崑祥處理，其大多時候均不在現場等語（見10
     2 年度偵字第1700號卷(二)第181 頁、102 年度偵字第2635號
@@ -1789,7 +1682,7 @@ function openwin(URL,arguments,width,height)
     ，均未提及任何足認與本案撿油相關之內容，其縱有依被告
     楊慶宗之指示而為不實之陳述，亦不足以推論其與被告楊慶
     宗就附表一之(一)所示之撿油犯行，具有犯意聯絡。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告夏再成、羅世雄、陳崑祥雖分別負責「鴻海2 號」、「
+  被告夏再成、羅世雄、陳崑祥雖分別負責「鴻海2 號」、「
     龍進6 號」漁船之加油事務，且知悉該漁船各航次之「核實
     補充油量」，然被告李根池、江儒德於偵查中供稱：「鴻海
     2 號」、「龍進6 號」漁船均係由被告楊慶宗主動要求撿油
@@ -1823,7 +1716,7 @@ function openwin(URL,arguments,width,height)
     僅憑被告羅世雄係負責確認發油量，即遽認其必知悉被告江
     儒德、李根池、楊慶宗如附表一之(一)所示之撿油犯行，而與
     被告江儒德、李根池、楊慶宗具有犯意聯絡。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />附表四編號7 、8 、9 、13、21所示之證據，縱得證明「鴻
+  附表四編號7 、8 、9 、13、21所示之證據，縱得證明「鴻
     海2 號」、「龍進6 號」漁船未從事採捕水產動植物之漁業
     行為，亦僅涉及「鴻海2 號」、「龍進6 號」漁船本身得否
     依「優惠油價標準」規定核配優惠漁船油並享有優惠油價補
@@ -1851,7 +1744,7 @@ function openwin(URL,arguments,width,height)
     雄、陳崑祥、林萬發之罪嫌無涉，爰不予贅述。
   (二)被告陳黃登部分：
   1.被告陳黃登係「金瑞益36號」漁船之管理人；又附表三編號
-    1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />之撿油行為，係被告廖信德於101 年9 月9 日「金瑞
+    1 之之撿油行為，係被告廖信德於101 年9 月9 日「金瑞
     益36號」漁船至和平島加油站申購優惠漁船油時，先行向被
     告陳黃登表明欲向「金瑞益36號」漁船撿油，被告陳黃登答
     稱「好，若有剩下的才給你加」，嗣「順德發號」漁船於10
@@ -1862,24 +1755,24 @@ function openwin(URL,arguments,width,height)
     告陳黃登有同意被告廖信德私下購買「金瑞益36號」漁船該
     航次未用罄之「核實補充油量」。
   2.惟查：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告江儒德於撿油過程所製作登載遭撿油漁船名義之不實統
+  被告江儒德於撿油過程所製作登載遭撿油漁船名義之不實統
     一發票及「發油記錄單」，均未交予遭撿油漁船所屬人員收
     執，已如前述，亦無證據顯示被告陳黃登知悉被告江儒德於
     撿油過程中，有製作不實會計憑證作帳之情事，顯難認定被
     告陳黃登與被告江儒德有填製不實會計憑證之犯意聯絡或行
     為分擔。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />「核實補充油量」係依據漁船各航次作業時數所計算之優惠
+  「核實補充油量」係依據漁船各航次作業時數所計算之優惠
     漁船油核配量，該漁船當次所未用罄之「核實補充油量」，
     依「供售作業要點」第10點規定，即不得保留，亦不得再至
     其他供油單位申購，漁業人對之並未享有任何處分權。又被
-    告江儒德於偵查中供稱：附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />所示「新勝號」
+    告江儒德於偵查中供稱：附表三編號1 之所示「新勝號」
     漁船撿油1 公秉部分，係其先行撿「金瑞益36號」漁船的油
     ，隔天才告訴被告陳黃登等語（見102 年度偵字第1700號卷
-    (三)第157 頁正反面），而附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />復係利用「
+    (三)第157 頁正反面），而附表三編號1 之、復係利用「
     金瑞益36號」漁船同航次剩餘之「核實補充油量」進行撿油
     ，顯見被告陳黃登是否同意其他漁船撿油，對於上開撿油行
     為之完成並無影響，亦無任何助益。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告江儒德就附表三編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />部分，係圖利被告廖信德，
+  被告江儒德就附表三編號1 之部分，係圖利被告廖信德，
     使被告廖信德獲取購油價差之不法利益，並非與被告廖信德
     共同詐取優惠油價補貼款，已如前述；又被告江儒德、廖信
     德係於被告陳黃登不在場之101 年9 月11日完成撿油行為，
@@ -2032,7 +1925,7 @@ function openwin(URL,arguments,width,height)
 │    ├───────┴───────┴─────┴─────┴───┴───┴─────┴─────────┼───────┤
 │    │撿油漁船：龍進6 號漁船（實際撿油時間同附表一之(二)編號3）                                               │              │
 ├──┼───────┬─┬─────┬─────┬─────┬───┬───┬─────┬─────────┼───────┤
-│ ４ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />合信興37號  │實│統一發票  │AP00000000│101/4/1   │54    │李根池│          │102 年度偵字第1700│              │
+│ ４ │合信興37號  │實│統一發票  │AP00000000│101/4/1   │54    │李根池│          │102 年度偵字第1700│              │
 │（即│              │際│          │          │          │      │      │          │號卷(二)第37頁反面、│              │
 │起訴│              │申│          │          │          │      │      │          │扣押物編號A-08-1  │              │
 │書附│              │購├─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
@@ -2057,7 +1950,7 @@ function openwin(URL,arguments,width,height)
 │    │              │漁船購油記錄日│          │101/4/1   │114   │      │          │102 年度偵字第2635│              │
 │    │              │報表          │          │          │      │      │          │號卷(一)第160 頁反面│              │
 │    ├───────┼─┬─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />益大37號    │實│統一發票  │AP00000000│101/4/1   │35    │李根池│          │102 年度偵字第1700│              │
+│    │益大37號    │實│統一發票  │AP00000000│101/4/1   │35    │李根池│          │102 年度偵字第1700│              │
 │    │              │際│          │          │          │      │      │          │號卷(二)第223 頁反面│              │
 │    │              │申│          │          │          │      │      │          │、扣押物編號A-08-1│              │
 │    │              │購├─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
@@ -2078,7 +1971,7 @@ function openwin(URL,arguments,width,height)
 │    │              │漁船購油記錄日│          │101/4/1   │105   │      │          │102 年度偵字第2635│              │
 │    │              │報表          │          │          │      │      │          │號卷(一)第160 頁反面│              │
 │    ├───────┼─┬─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />隆勝168號   │實│統一發票  │AP00000000│101/4/1   │7.61  │江儒德│          │102 年度偵字第1700│              │
+│    │隆勝168號   │實│統一發票  │AP00000000│101/4/1   │7.61  │江儒德│          │102 年度偵字第1700│              │
 │    │              │際│          │          │          │      │      │          │號卷(二)第55頁反面、│              │
 │    │              │申│          │          │          │      │      │          │扣押物編號A-08-1  │              │
 │    │              │購├─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
@@ -2102,7 +1995,7 @@ function openwin(URL,arguments,width,height)
 │    ├───────┴───────┴─────┴─────┴───┴───┴─────┴─────────┼───────┤
 │    │撿油漁船：龍進6 號漁船（實際撿油時間同附表一之(二)編號4）                                           小計│444,780元     │
 ├──┼───────┬─┬─────┬─────┬─────┬───┬───┬─────┬─────────┼───────┤
-│ ５ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />金瑞益21號  │實│統一發票  │CC00000000│101/6/25  │58.7  │李根池│          │102 年度偵字第1700│              │
+│ ５ │金瑞益21號  │實│統一發票  │CC00000000│101/6/25  │58.7  │李根池│          │102 年度偵字第1700│              │
 │（即│              │際│          │          │          │      │      │          │號卷(二)第137 頁、扣│              │
 │起訴│              │申│          │          │          │      │      │          │押物編號A-08-1    │              │
 │書附│              │購├─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
@@ -2124,7 +2017,7 @@ function openwin(URL,arguments,width,height)
 │    │              │漁船購油記錄日│          │101/6/25  │108.7 │      │          │102 年度偵字第2635│              │
 │    │              │報表          │          │          │      │      │          │號卷(一)第166 頁    │              │
 │    ├───────┼─┬─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />益大37號    │實│統一發票  │CC00000000│101/6/25  │33.6  │李根池│          │102 年度偵字第1700│              │
+│    │益大37號    │實│統一發票  │CC00000000│101/6/25  │33.6  │李根池│          │102 年度偵字第1700│              │
 │    │              │際│          │          │          │      │      │          │號卷(二)第224 頁、扣│              │
 │    │              │申│          │          │          │      │      │          │押物編號A-08-1    │              │
 │    │              │購├─────┼─────┼─────┼───┼───┼─────┼─────────┼───────┤
@@ -2261,7 +2154,7 @@ function openwin(URL,arguments,width,height)
 │編號│    漁船船名    │     名稱     │    編號    │   日期   │ 數量 │製作人│印數機編號│       出處       │   備註   │
 │    │                │              │            │          │ 公秉 │      │          │                  │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ １ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />順益航168 號  │實│統一發票  │XX00000000  │100/12/9  │13.1  │李根池│          │102 年度偵字第1700│          │
+│ １ │順益航168 號  │實│統一發票  │XX00000000  │100/12/9  │13.1  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第123 頁反面│          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001159      │100/12/9  │13.1  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2278,7 +2171,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │100/12/9  │40.1  │      │          │102 年度偵字第2635│虛增27公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第152 頁反面│          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />隆勝168 號    │實│統一發票  │XX00000000  │100/12/9  │6.92  │李根池│          │102 年度偵字第1700│          │
+│    │隆勝168 號    │實│統一發票  │XX00000000  │100/12/9  │6.92  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第53頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001162      │100/12/9  │6.92  │李根池│甲3 流量計│102 年度偵字第1700│          │
@@ -2295,7 +2188,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │100/12/9  │17.92 │      │          │102 年度偵字第2635│虛增11公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第152 頁反面│          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />鑫豐春11號    │實│統一發票  │XX00000000  │100/12/11 │8     │江儒德│          │102 年度偵字第1700│          │
+│    │鑫豐春11號    │實│統一發票  │XX00000000  │100/12/11 │8     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第87頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001165      │100/12/11 │8     │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -2313,7 +2206,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │100/12/11 │35.3  │      │          │102 年度偵字第2635│虛增27.3公│
 │    │                │報表          │            │          │      │      │          │號卷(一)第152 頁反面│秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />順德發號      │實│統一發票  │XX00000000  │100/12/10 │5.45  │江儒德│          │102 年度偵字第1700│          │
+│    │順德發號      │實│統一發票  │XX00000000  │100/12/10 │5.45  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第97頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001169      │100/12/＿ │5.45  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2330,7 +2223,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │100/12/10 │10.45 │      │          │102 年度偵字第2635│虛增5公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第152 頁反面│          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />永鴻發62號    │實│統一發票  │XX00000000  │100/12/18 │8     │李根池│          │102 年度偵字第1700│          │
+│    │永鴻發62號    │實│統一發票  │XX00000000  │100/12/18 │8     │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第31頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│00185       │100/12/18 │8     │李根池│甲5 流量計│扣案物編號A-07-1  │          │
@@ -2346,7 +2239,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │100/12/18 │14    │      │          │102 年度偵字第2635│虛增6公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第153頁     │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ ２ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />順益航168號   │實│統一發票  │ZA00000000  │101/1/11  │14.34 │江儒德│          │102 年度偵字第1700│          │
+│ ２ │順益航168號   │實│統一發票  │ZA00000000  │101/1/11  │14.34 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第124頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001253      │101/1/11  │14.34 │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -2363,7 +2256,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/1/11  │44.34 │      │          │102 年度偵字第2635│虛增30公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第154頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />順德發號      │實│統一發票  │ZA00000000  │101/1/11  │9.43  │李根池│          │102 年度偵字第1700│          │
+│    │順德發號      │實│統一發票  │ZA00000000  │101/1/11  │9.43  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第97頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001247      │101/1/11  │9.43  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2380,7 +2273,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/1/11  │16.43 │      │          │102 年度偵字第2635│虛增7公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第154頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />益大168號     │實│統一發票  │ZA00000000  │101/1/12  │12    │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │ZA00000000  │101/1/12  │12    │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第224頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001258      │101/1/12  │12    │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2397,7 +2290,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/1/12  │25    │      │          │102 年度偵字第2635│虛增13公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第154頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />合信興37號    │實│統一發票  │ZA00000000  │101/1/13  │16.71 │李根池│          │102 年度偵字第1700│          │
+│    │合信興37號    │實│統一發票  │ZA00000000  │101/1/13  │16.71 │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第37頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001260      │101/1/13  │16.71 │江儒德│甲3       │102 年度偵字第1700│          │
@@ -2414,7 +2307,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/1/13  │66.71 │      │          │102 年度偵字第2635│虛增50公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第154頁反面 │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ ３ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />隆勝168號     │實│統一發票  │ZA00000000  │101/2/2   │7.85  │江儒德│          │102 年度偵字第1700│          │
+│ ３ │隆勝168號     │實│統一發票  │ZA00000000  │101/2/2   │7.85  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第54頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │請│發油記錄單│            │          │      │      │          │未扣案            │          │
@@ -2430,7 +2323,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/2/2   │15.85 │      │          │102 年度偵字第2635│虛增8公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第155頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />益大168號     │實│統一發票  │ZA00000000  │101/2/11  │7     │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │ZA00000000  │101/2/11  │7     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第225頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001363      │101/2/9   │7     │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2447,7 +2340,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/2/9   │8     │      │          │102 年度偵字第2635│虛增1公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第156頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />隆勝168號     │實│統一發票  │ZA00000000  │101/2/24  │5.8   │江儒德│          │102 年度偵字第1700│          │
+│    │隆勝168號     │實│統一發票  │ZA00000000  │101/2/24  │5.8   │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第54頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│            │          │      │      │          │未扣案            │          │
@@ -2463,7 +2356,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/2/24  │15.4  │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第157頁反面 │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ ４ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />益大168號     │實│統一發票  │AP00000000  │101/＿/＿ │6     │江儒德│          │102 年度偵字第1700│          │
+│ ４ │益大168號     │實│統一發票  │AP00000000  │101/＿/＿ │6     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第226頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001443      │101/3/3   │6     │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -2480,7 +2373,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/3/3   │15.87 │      │          │102 年度偵字第2635│虛增9.87公│
 │    │                │報表          │            │          │      │      │          │號卷(一)第158頁     │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />順德發號      │實│統一發票  │AP00000000  │101/3/3   │6.84  │江儒德│          │102 年度偵字第1700│          │
+│    │順德發號      │實│統一發票  │AP00000000  │101/3/3   │6.84  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第98頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001447      │101/3/3   │6.84  │江儒德│甲4 流量計│扣押物編號A-07-1  │          │
@@ -2497,7 +2390,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/3/3   │12.84 │      │          │102 年度偵字第2635│虛增6公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第158頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />勝豐33號      │實│統一發票  │AP00000000  │101/3/11  │6     │江儒德│          │102 年度偵字第1700│          │
+│    │勝豐33號      │實│統一發票  │AP00000000  │101/3/11  │6     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第75頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001469      │101/3/11  │6     │江儒德│甲4       │102 年度偵字第1700│          │
@@ -2514,7 +2407,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/3/11  │36    │      │          │102 年度偵字第2635│虛增30公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第158頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />順德發號      │實│統一發票  │AP00000000  │101/3/11  │5.79  │江儒德│          │102 年度偵字第1700│          │
+│    │順德發號      │實│統一發票  │AP00000000  │101/3/11  │5.79  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第98頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001467      │101/3/11  │5.8   │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -2531,7 +2424,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/3/11  │15.79 │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第158頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />佳興3號       │實│統一發票  │AP00000000  │101/3/18  │14    │李根池│          │102 年度偵字第1700│          │
+│    │佳興3號       │實│統一發票  │AP00000000  │101/3/18  │14    │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第46頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001486      │101/3/18  │14    │李根池│甲4 流量計│102 年度偵字第1700│          │
@@ -2548,7 +2441,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/3/18  │44    │      │          │102 年度偵字第2635│虛增30公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第159頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />順德發號      │實│統一發票  │AP00000000  │101/3/20  │8.46  │江儒德│          │102 年度偵字第1700│          │
+│    │順德發號      │實│統一發票  │AP00000000  │101/3/20  │8.46  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第99頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001501      │101/3/20  │8.46  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2565,7 +2458,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/3/20  │15.46 │      │          │102 年度偵字第2635│虛增7公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第159頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />益大168號     │實│統一發票  │AP00000000  │101/3/21  │8     │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │AP00000000  │101/3/21  │8     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第227頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001506      │101/3/21  │8     │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -2599,7 +2492,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/4/9   │35.2  │      │          │102 年度偵字第2635│虛增17公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第161頁     │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ ６ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />佳興3號       │實│統一發票  │CC0000000   │101/5/14  │11.72 │李根池│          │102 年度偵字第1700│          │
+│ ６ │佳興3號       │實│統一發票  │CC0000000   │101/5/14  │11.72 │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第46頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001699      │101/5/14  │11.72 │李根池│甲3 流量計│102 年度偵字第1700│          │
@@ -2616,7 +2509,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/5/14  │23.76 │      │          │102 年度偵字第2635│虛增12.04 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第163頁反面 │公秉      │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />永鴻發88號    │  │統一發票  │CC00000000  │101/5/16  │167.96│江儒德│          │102 年度偵字第1700│          │
+│    │永鴻發88號    │  │統一發票  │CC00000000  │101/5/16  │167.96│江儒德│          │102 年度偵字第1700│          │
 │    │                │  │          │            │          │      │      │          │號卷(二)第32頁      │          │
 │    │                │實├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │際│發油記錄單│001707      │101/5/16  │60    │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -2640,7 +2533,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/5/15  │205.63│      │          │102 年度偵字第2635│虛增37.67 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第163頁反面 │公秉      │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />金瑞益36號    │實│統一發票  │CC00000000  │101/5/23  │6.66  │李根池│          │102 年度偵字第1700│          │
+│    │金瑞益36號    │實│統一發票  │CC00000000  │101/5/23  │6.66  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第139頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001731      │101/5/23  │6.66  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2657,7 +2550,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/5/23  │16.66 │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第164頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />金瑞益36號    │實│統一發票  │CC00000000  │101/5/29  │4.5   │江儒德│          │102 年度偵字第1700│          │
+│    │金瑞益36號    │實│統一發票  │CC00000000  │101/5/29  │4.5   │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第140頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001755      │101/5/29  │4.5   │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2674,7 +2567,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/5/29  │14.5  │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第164頁     │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ ７ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />隆勝168號     │實│統一發票  │CC00000000  │101/6/19  │8     │江儒德│          │102 年度偵字第1700│          │
+│ ７ │隆勝168號     │實│統一發票  │CC00000000  │101/6/19  │8     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第56頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001823      │101/6/19  │8     │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -2691,7 +2584,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/6/19  │18    │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第165頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />益大168號     │實│統一發票  │CC00000000  │101/6/21  │16.1  │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │CC00000000  │101/6/21  │16.1  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第227頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001829      │101/6/21  │16.1  │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -2708,7 +2601,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/6/21  │57.1  │      │          │102 年度偵字第2635│虛增41公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第166頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />勝豐33號      │實│統一發票  │CC00000000  │101/6/21  │17.83 │李根池│          │102 年度偵字第1700│          │
+│    │勝豐33號      │實│統一發票  │CC00000000  │101/6/21  │17.83 │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第75頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001826      │101/6/22  │17.83 │李根池│甲3       │102 年度偵字第1700│          │
@@ -2725,7 +2618,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/6/21  │37.83 │      │          │102 年度偵字第2635│虛增20公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第166頁     │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ ８ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />順益航168號   │實│統一發票  │DR00000000  │101/7/7   │11    │李根池│          │102 年度偵字第1700│          │
+│ ８ │順益航168號   │實│統一發票  │DR00000000  │101/7/7   │11    │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第124頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001918      │101/7/7   │11    │李根池│甲5 流量計│102 年度偵字第1700│          │
@@ -2742,7 +2635,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/7   │36    │      │          │102 年度偵字第2635│虛增25公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第167頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />永鴻發158號   │實│統一發票  │DR00000000  │101/7/8   │28    │李根池│          │102 年度偵字第1700│          │
+│    │永鴻發158號   │實│統一發票  │DR00000000  │101/7/8   │28    │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第35頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001946      │101/7/8   │28    │李根池│甲3 流量計│102 年度偵字第1700│          │
@@ -2759,7 +2652,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/8   │103   │      │          │102 年度偵字第2635│虛增75公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第168頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />益大168號     │實│統一發票  │DR00000000  │101/7/8   │16.8  │李根池│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │DR00000000  │101/7/8   │16.8  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第228頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│            │          │      │      │          │未扣案            │          │
@@ -2777,7 +2670,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/8   │50.5  │      │          │102 年度偵字第2635│虛增33.7公│
 │    │                │報表          │            │          │      │      │          │號卷(一)第168頁     │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />金瑞益21號    │實│統一發票  │DR00000000  │101/7/21  │37.7  │江儒德│          │102 年度偵字第1700│          │
+│    │金瑞益21號    │實│統一發票  │DR00000000  │101/7/21  │37.7  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第216頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001996      │101/7/21  │37.7  │江儒德│甲4 流量計│扣押物編號A-07-1  │          │
@@ -2794,7 +2687,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/21  │77.7  │      │          │102 年度偵字第2635│虛增40公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第169頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />益大168號     │實│統一發票  │DR00000000  │101/7/21  │15.44 │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │DR00000000  │101/7/21  │15.44 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │ 號卷(二)第229頁    │          │
 │    │                │  ├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │申│發油記錄單│001994      │101/7/21  │15.44 │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -2811,7 +2704,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/21  │28.4  │      │          │102 年度偵字第2635│虛增8公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第169頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />益大168號     │實│統一發票  │DR00000000  │101/7/21  │15.44 │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │DR00000000  │101/7/21  │15.44 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │ 號卷(二)第229頁    │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│001994      │101/7/21  │15.44 │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -2828,7 +2721,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/21  │28.4  │      │          │102 年度偵字第2635│虛增12.96 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第169頁     │公秉      │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />永鴻發88號    │實│統一發票  │DR00000000  │101/7/22  │30.68 │江儒德│          │102 年度偵字第1700│          │
+│    │永鴻發88號    │實│統一發票  │DR00000000  │101/7/22  │30.68 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第33頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002001      │101/7/22  │30.68 │江儒德│甲4 流量計│扣押物編號A-07-1  │          │
@@ -2848,7 +2741,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/22  │190.68│      │          │102 年度偵字第2635│虛增160公 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第169頁反面 │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />連利12號      │實│統一發票  │DR00000000  │101/7/25  │79.6  │李根池│          │102 年度偵字第1700│          │
+│    │連利12號      │實│統一發票  │DR00000000  │101/7/25  │79.6  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第71頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│            │          │      │      │          │未扣案            │          │
@@ -2863,7 +2756,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/7/25  │129.6 │      │          │102 年度偵字第2635│虛增50公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第169頁反面 │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ ９ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />金瑞益21號    │實│統一發票  │DR00000000  │101/8/3   │14.14 │江儒德│          │102 年度偵字第1700│          │
+│ ９ │金瑞益21號    │實│統一發票  │DR00000000  │101/8/3   │14.14 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第138頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002035      │101/8/3   │14.14 │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2881,7 +2774,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/3   │34.14 │      │          │102 年度偵字第2635│虛增20公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第170頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />金瑞益36號    │實│統一發票  │DR00000000  │101/8/3   │7.4   │江儒德│          │102 年度偵字第1700│          │
+│    │金瑞益36號    │實│統一發票  │DR00000000  │101/8/3   │7.4   │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第140頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│            │          │      │      │          │未扣案            │          │
@@ -2898,7 +2791,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/3   │21.4  │      │          │102 年度偵字第2635│虛增14公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第170頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />順益航168號   │實│統一發票  │DR00000000  │101/8/3   │9.97  │李根池│          │102 年度偵字第1700│          │
+│    │順益航168號   │實│統一發票  │DR00000000  │101/8/3   │9.97  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第125頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002039      │101/8/3   │9.97  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2915,7 +2808,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/3   │12.97 │      │          │102 年度偵字第2635│虛增3公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第170頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />順德發號      │實│統一發票  │DR00000000  │101/＿/＿ │3.9   │江儒德│          │102 年度偵字第1700│          │
+│    │順德發號      │實│統一發票  │DR00000000  │101/＿/＿ │3.9   │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第99頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002053      │101/8/7   │3.9   │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -2932,7 +2825,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/7   │5.7   │      │          │102 年度偵字第2635│虛增1.8公 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第170頁     │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />益大168號     │實│統一發票  │DR00000000  │101/8/8   │18.38 │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │DR00000000  │101/8/8   │18.38 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第229頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002059      │101/8/8   │18.38 │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -2949,7 +2842,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/8   │33.38 │      │          │102 年度偵字第2635│虛增15公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第170頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />隆勝168號     │實│統一發票  │DR00000000  │101/8/8   │4.34  │江儒德│          │102 年度偵字第1700│          │
+│    │隆勝168號     │實│統一發票  │DR00000000  │101/8/8   │4.34  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第56頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002058      │101/8/8   │4.34  │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -2966,7 +2859,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/8   │9.34  │      │          │102 年度偵字第2635│虛增5公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第170頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />源發166號     │實│統一發票  │DR00000000  │101/8/12  │6.07  │李根池│          │102 年度偵字第1700│          │
+│    │源發166號     │實│統一發票  │DR00000000  │101/8/12  │6.07  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第109頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002080      │101/8/12  │6.07  │李根池│甲4 流量計│102 年度偵字第1700│          │
@@ -2983,7 +2876,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/12  │14.07 │李根池│          │102 年度偵字第2635│虛增8公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第170頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />金瑞益36號    │實│統一發票  │DR00000000  │101/＿/＿ │7.74  │      │          │102 年度偵字第1700│          │
+│    │金瑞益36號    │實│統一發票  │DR00000000  │101/＿/＿ │7.74  │      │          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第144頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│            │          │      │      │          │未扣案            │          │
@@ -2999,7 +2892,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/24  │20    │      │          │102 年度偵字第2635│虛增20公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第171頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />永鴻發158號   │實│統一發票  │DR00000000  │101/8/25  │21.36 │李根池│          │102 年度偵字第1700│          │
+│    │永鴻發158號   │實│統一發票  │DR00000000  │101/8/25  │21.36 │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第35頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002125      │101/8/25  │21.36 │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -3016,7 +2909,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/25  │51.36 │      │          │102 年度偵字第2635│虛增30公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第171頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />順益航168號   │實│統一發票  │DR00000000  │101/8/26  │6.3   │李根池│          │102 年度偵字第1700│          │
+│    │順益航168號   │實│統一發票  │DR00000000  │101/8/26  │6.3   │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第125頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002133      │101/8/26  │6.3   │李根池│甲3 流量計│102 年度偵字第1700│          │
@@ -3035,7 +2928,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/8/26  │12.38 │      │          │102 年度偵字第2635│虛增6.08公│
 │    │                │報表          │            │          │      │      │          │號卷(一)第172頁     │秉        │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ １０ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />順德發號      │實│統一發票  │FE00000000  │101/9/25  │9.04  │江儒德│          │102 年度偵字第1700│          │
+│ １０ │順德發號      │實│統一發票  │FE00000000  │101/9/25  │9.04  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第100頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002239      │101/9/25  │9.04  │江儒德│甲 流量計 │102 年度偵字第1700│          │
@@ -3052,7 +2945,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/9/25  │16.04 │      │          │102 年度偵字第2635│虛增7公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第174頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />隆勝168號     │實│統一發票  │FE00000000  │101/9/26  │8.56  │江儒德│          │102 年度偵字第1700│          │
+│    │隆勝168號     │實│統一發票  │FE00000000  │101/9/26  │8.56  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第57頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002242      │101/9/26  │8.56  │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -3069,7 +2962,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/9/26  │14.16 │      │          │102 年度偵字第2635│虛增5.6公 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第174頁     │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />永鴻發88號    │  │統一發票  │FE00000000  │101/9/30  │160   │江儒德│          │102 年度偵字第1700│          │
+│    │永鴻發88號    │  │統一發票  │FE00000000  │101/9/30  │160   │江儒德│          │102 年度偵字第1700│          │
 │    │                │  │          │            │          │      │      │          │號卷(二)第34頁      │          │
 │    │                │實├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │際│發油記錄單│002259      │101/9/＿  │100   │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -3090,7 +2983,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/9/28  │175   │      │          │102 年度偵字第2635│虛增15公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第174頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />源發166號     │實│統一發票  │FE00000000  │101/9/30  │12    │江儒德│          │102 年度偵字第1700│          │
+│    │源發166號     │實│統一發票  │FE00000000  │101/9/30  │12    │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第109頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002261      │101/9/30  │12    │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -3110,7 +3003,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/9/30  │92    │      │          │102 年度偵字第2635│虛增80公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第174頁     │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" /> │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />日春168號     │實│統一發票  │FE00000000  │101/10/11 │5.02  │李根池│          │102 年度偵字第1700│          │
+│  │日春168號     │實│統一發票  │FE00000000  │101/10/11 │5.02  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第158頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002301      │101/10/11 │5.02  │李根池│甲4 流量計│102 年度偵字第1700│          │
@@ -3127,7 +3020,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/11 │15.02 │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第175頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />金瑞益36號    │實│統一發票  │FE00000000  │101/10/12 │11.5  │李根池│          │102 年度偵字第1700│          │
+│    │金瑞益36號    │實│統一發票  │FE00000000  │101/10/12 │11.5  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第142頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002305      │101/10/12 │11.5  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -3144,7 +3037,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/12 │35.5  │      │          │102 年度偵字第2635│虛增24公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第175頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />金瑞益21號    │實│統一發票  │FE00000000  │101/10/18 │17.47 │江儒德│          │102 年度偵字第1700│          │
+│    │金瑞益21號    │實│統一發票  │FE00000000  │101/10/18 │17.47 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第138頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002338      │101/10/18 │17.47 │李根池│甲4 流量計│102 年度偵字第1700│          │
@@ -3161,7 +3054,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/18 │47.47 │      │          │102 年度偵字第2635│虛增30公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第175頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />順益航168號   │實│統一發票  │FE00000000  │101/10/18 │4.26  │江儒德│          │102 年度偵字第1700│          │
+│    │順益航168號   │實│統一發票  │FE00000000  │101/10/18 │4.26  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第126頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002334      │101/10/18 │4.26  │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -3178,7 +3071,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/18 │14.26 │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第175頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />隆勝168號     │實│統一發票  │FE00000003  │101/10/18 │7     │江儒德│          │102 年度偵字第1700│          │
+│    │隆勝168號     │實│統一發票  │FE00000003  │101/10/18 │7     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第57頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002336      │101/10/18 │7     │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -3195,7 +3088,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/18 │17    │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第175頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />鑫豐春11號    │實│統一發票  │FE00000009  │101/10/19 │10    │江儒德│          │102 年度偵字第1700│          │
+│    │鑫豐春11號    │實│統一發票  │FE00000009  │101/10/19 │10    │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第88頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002340      │101/10/19 │10    │李根池│甲5 流量計│102 年度偵字第1700│          │
@@ -3212,7 +3105,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/19 │21    │      │          │102 年度偵字第2635│虛增11公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第175頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />益大168號     │實│統一發票  │FE00000000  │101/10/29 │18.85 │李根池│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │FE00000000  │101/10/29 │18.85 │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第230頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002388      │101/10/29 │18.85 │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -3229,7 +3122,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/29 │35.85 │      │          │102 年度偵字第2635│虛增17公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第176頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />隆勝168號     │實│統一發票  │FE00000000  │101/10/29 │9.34  │李根池│          │102 年度偵字第1700│          │
+│    │隆勝168號     │實│統一發票  │FE00000000  │101/10/29 │9.34  │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第58頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002389      │101/10/29 │9.34  │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -3246,7 +3139,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │          │18.34 │      │          │102 年度偵字第2635│虛增9公秉 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第176頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />金瑞益36號    │實│統一發票  │FE00000000  │101/10/31 │14.22 │江儒德│          │102 年度偵字第1700│          │
+│    │金瑞益36號    │實│統一發票  │FE00000000  │101/10/31 │14.22 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第142頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002398      │101/10/31 │14.22 │江儒德│甲5 流量計│102 年度偵字第1700│          │
@@ -3263,7 +3156,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/10/31 │37.22 │      │          │102 年度偵字第2635│虛增23公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第176頁反面 │          │
 ├──┼────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6412A0A00000040.GIF" /> │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />昇發財168號   │實│統一發票  │GT0000000   │101/11/2  │19.03 │李根池│          │102 年度偵字第1700│          │
+│  │昇發財168號   │實│統一發票  │GT0000000   │101/11/2  │19.03 │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第62頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002407      │101/11/2  │19.03 │李根池│甲5 流量計│102 年度偵字第1700│          │
@@ -3280,7 +3173,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/2  │28.34 │      │          │102 年度偵字第2635│虛增9.4公 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第177頁     │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />金瑞益36號    │實│統一發票  │GT00000000  │101/11/6  │4.8   │江儒德│          │102 年度偵字第1700│          │
+│    │金瑞益36號    │實│統一發票  │GT00000000  │101/11/6  │4.8   │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第143頁     │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002423      │101/11/6  │4.8   │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -3297,7 +3190,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/6  │15.4  │      │          │102 年度偵字第2635│虛增10.6公│
 │    │                │報表          │            │          │      │      │          │號卷(一)第177頁反面 │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />順益航168號   │實│統一發票  │GT0000000   │101/11/6  │12.7  │江儒德│          │102 年度偵字第1700│          │
+│    │順益航168號   │實│統一發票  │GT0000000   │101/11/6  │12.7  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第126頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002424      │101/11/6  │12.7  │江儒德│甲5       │102 年度偵字第1700│          │
@@ -3313,7 +3206,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/6  │42.7  │      │          │102 年度偵字第2635│虛增30公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第177頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />隆勝168號     │實│統一發票  │GT00000000  │101/11/7  │8.37  │江儒德│          │102 年度偵字第1700│          │
+│    │隆勝168號     │實│統一發票  │GT00000000  │101/11/7  │8.37  │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第58頁反面  │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002436      │101/11/7  │8.37  │江儒德│甲3 流量計│102 年度偵字第1700│          │
@@ -3330,7 +3223,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/7  │18.37 │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第177頁反面 │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />勝豐33號      │實│統一發票  │GT00000000  │101/11/12 │8     │江儒德│          │102 年度偵字第1700│          │
+│    │勝豐33號      │實│統一發票  │GT00000000  │101/11/12 │8     │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第76頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002453      │101/11/12 │8     │江儒德│甲3       │102 年度偵字第1700│          │
@@ -3347,7 +3240,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/12 │18    │      │          │102 年度偵字第2635│虛增10公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第178頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />順德發號      │實│統一發票  │GT00000000  │101/11/13 │10    │江儒德│          │102 年度偵字第1700│          │
+│    │順德發號      │實│統一發票  │GT00000000  │101/11/13 │10    │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第100頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002458      │101/11/13 │10    │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -3364,7 +3257,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/13 │16.6  │      │          │102 年度偵字第2635│虛增6.6公 │
 │    │                │報表          │            │          │      │      │          │號卷(一)第178頁     │秉        │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />益大168號     │實│統一發票  │GT00000000  │101/11/15 │17.22 │江儒德│          │102 年度偵字第1700│          │
+│    │益大168號     │實│統一發票  │GT00000000  │101/11/15 │17.22 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第230頁反面 │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002472      │101/11/15 │17.22 │江儒德│甲4 流量計│102 年度偵字第1700│          │
@@ -3381,7 +3274,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/15 │37.22 │      │          │102 年度偵字第2635│虛增20公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第178頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />佳興3號       │實│統一發票  │GT00000000  │101/11/16 │8.6   │李根池│          │102 年度偵字第1700│          │
+│    │佳興3號       │實│統一發票  │GT00000000  │101/11/16 │8.6   │李根池│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第47頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002478      │101/11/16 │8.6   │李根池│甲4 流量計│102 年度偵字第1700│          │
@@ -3398,7 +3291,7 @@ function openwin(URL,arguments,width,height)
 │    │                │漁船購油記錄日│            │101/11/16 │23.6  │      │          │102 年度偵字第2635│虛增15公秉│
 │    │                │報表          │            │          │      │      │          │號卷(一)第178頁     │          │
 │    ├────────┼─┬─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />永鴻發158號   │實│統一發票  │GT00000000  │101/11/23 │13.94 │江儒德│          │102 年度偵字第1700│          │
+│    │永鴻發158號   │實│統一發票  │GT00000000  │101/11/23 │13.94 │江儒德│          │102 年度偵字第1700│          │
 │    │                │際│          │            │          │      │      │          │號卷(二)第36頁      │          │
 │    │                │申├─────┼──────┼─────┼───┼───┼─────┼─────────┼─────┤
 │    │                │購│發油記錄單│002510      │101/11/23 │13.94 │江儒德│甲3 流量計│扣押物編號A-07-1  │          │
@@ -3432,13 +3325,13 @@ function openwin(URL,arguments,width,height)
 │    │          │報│          │          │        │      │      │          │                  │          │        │
 │    │          │申├─────┼─────┼────┼───┼───┼─────┼─────────┼─────┤        │
 │    │          │購│發油記錄單│002177    │101/9/9 │6     │江儒德│甲3流量計 │扣案物編號A-07-1  │          │        │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />│          │          │        │      │      │374-375   │                  │          │        │
+│    │          ││          │          │        │      │      │374-375   │                  │          │        │
 │    │          ├─┼─────┼─────┼────┼───┼───┼─────┼─────────┼─────┼────┤
 │    │          │浮│統一發票  │FE00000000│101/9/9 │1     │江儒德│          │扣押物編號A-08-1  │3,667 元  │新勝號  │
 │    │          │報│          │          │        │      │      │          │                  │（每公秉補│        │
 │    │          │申│          │          │        │      │      │          │                  │助3,667 元│        │
 │    │          │購├─────┼─────┼────┼───┼───┼─────┼─────────┤，見102 年│        │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />│發油記錄單│002178    │101/9/9 │1     │江儒德│甲2流量計 │扣案物編號A-07-1  │度偵字第26│        │
+│    │          ││發油記錄單│002178    │101/9/9 │1     │江儒德│甲2流量計 │扣案物編號A-07-1  │度偵字第26│        │
 │    │          │  │          │          │        │      │      │418-419   │                  │35號卷(一)第│        │
 │    │          │  │          │          │        │      │      │          │                  │236 頁）  │        │
 │    │          ├─┴─────┼─────┼────┼───┼───┼─────┼─────────┼─────┼────┤
@@ -3508,21 +3401,21 @@ function openwin(URL,arguments,width,height)
 │ １０ │證人鄭基賢在警詢之陳述                          │「鴻海二號」至和平島加油站購油事務由夏再成、楊慶宗及羅世雄3 人負責；│
 │    │                                                │加油時會將船上大部分加滿，並由羅世雄負責看油表。                    │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6422A0A00000040.GIF" /> │證人<font color='red'>黃麗香</font>在調查站陳述                          │伊受被告楊慶宗之委託辦理「鴻海二號」、「龍進六號」之移轉登記，而前揭│
+│  │證人黃麗香在調查站陳述                          │伊受被告楊慶宗之委託辦理「鴻海二號」、「龍進六號」之移轉登記，而前揭│
 │    │                                                │漁船均曾於購買後，立即私下改造油艙，且未經申請；伊於101 年9 月至10月│
 │    │                                                │間曾收受被告楊慶宗傳真之漁船漁獲交易資料；一般而言，油不可能作壓艙使│
 │    │                                                │用等語。                                                            │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6412A0A00000040.GIF" /> │證人吳榮華在調查站之陳述                        │「鴻海二號」及「龍進六號」改造油艙之事實。                          │
+│  │證人吳榮華在調查站之陳述                        │「鴻海二號」及「龍進六號」改造油艙之事實。                          │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6402A0A00000040.GIF" /> │證人陳一珠在調查站陳述                          │伊曾於101 年4 月間接獲被告楊慶宗電話請託填寫101 年9 月13日、101 年10│
-│    │                                                │月14日及同月25日之進貨證明，並傳真與證人<font color='red'>黃麗香</font>。                    │
+│  │證人陳一珠在調查站陳述                          │伊曾於101 年4 月間接獲被告楊慶宗電話請託填寫101 年9 月13日、101 年10│
+│    │                                                │月14日及同月25日之進貨證明，並傳真與證人黃麗香。                    │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F63F2A0A00000040.GIF" /> │證人即漁工ZAINUDIN MOHAD、CAREDDI 、JUNEDI、SAHI│伊等在外海與漁船接駁搬魚獲並將漁船用油駁至該外海之漁船上。          │
+│  │證人即漁工ZAINUDIN MOHAD、CAREDDI 、JUNEDI、SAHI│伊等在外海與漁船接駁搬魚獲並將漁船用油駁至該外海之漁船上。          │
 │    │M 、ADICITO BIN DASKA 、WAWAN IMDRA PRATAMA、WAP│                                                                    │
 │    │PIN及JUNEDI等人警詢及調查站陳述                 │                                                                    │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F63E2A0A00000040.GIF" /> │證人阮茂松（即「益大37號」、「益大68號」經營者及│前揭漁船如附表所示之發票、優惠漁船用油油量均與渠等無涉。            │
+│  │證人阮茂松（即「益大37號」、「益大68號」經營者及│前揭漁船如附表所示之發票、優惠漁船用油油量均與渠等無涉。            │
 │    │「益大168 號」船主）、洪金良（「鑫豐春11 號 」船│                                                                    │
 │    │主）、朱鐵永（即「永鴻發62號」、「永鴻發88號」、│                                                                    │
 │    │「永鴻發158 號（改名前合信興37號）」經營者）、陳│                                                                    │
@@ -3536,23 +3429,23 @@ function openwin(URL,arguments,width,height)
 │    │偵查中陳述，與證人林美珠（「連利12號」行政人員）│                                                                    │
 │    │和、張麗華（「勝豐33號」管理人）調查站之陳述    │                                                                    │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F63D2A0A00000040.GIF" /> │證人邱宜賢偵查中之證述                          │漁船優惠用油加油法規、加油程序、加油站人員執行職務之情況、VDR 維修程│
+│  │證人邱宜賢偵查中之證述                          │漁船優惠用油加油法規、加油程序、加油站人員執行職務之情況、VDR 維修程│
 │    │                                                │序及實務上之相關違規情形。                                          │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F63C2A0A00000040.GIF" /> │證人杜世藩及吳永成偵查中之陳述                  │漁船加油之實際流程。                                                │
+│  │證人杜世藩及吳永成偵查中之陳述                  │漁船加油之實際流程。                                                │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F63B2A0A00000040.GIF" /> │證人謝碧琴偵查中之證述                          │基隆區漁會辦理VDR報修之情形，而前揭漁船加油時均無報修之情況。       │
+│  │證人謝碧琴偵查中之證述                          │基隆區漁會辦理VDR報修之情形，而前揭漁船加油時均無報修之情況。       │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F63A2A0A00000040.GIF" /> │被告江儒德及李根池之中油在職證明及「漁業動力用油│被告江儒德及李根池為刑法第10條第2 項第2 款後段所稱之公務員，尤其是「│
+│  │被告江儒德及李根池之中油在職證明及「漁業動力用油│被告江儒德及李根池為刑法第10條第2 項第2 款後段所稱之公務員，尤其是「│
 │    │優惠油價標準」、「漁業動力用油供售作業要點」    │漁業動力用油優惠油價標準」第7 條授權無VDR 時數勾稽時，仍得依規定比例│
 │    │                                                │核配加油；「漁業動力用油供售作業要點」第4 點及第12點，中油公司前揭許│
 │    │                                                │可出售優惠用油，仍可繼續適用，漁業署免與再行簽約，供油單位應遵守之售│
 │    │                                                │油程序。                                                            │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6392A0A00000040.GIF" /> │前揭「日春168 號」等19艘漁船之流量計印數機發油紀│被告江儒德等人撿油之數量、詐取財物及被告李根池與江儒德收受賄款之範圍│
+│  │前揭「日春168 號」等19艘漁船之流量計印數機發油紀│被告江儒德等人撿油之數量、詐取財物及被告李根池與江儒德收受賄款之範圍│
 │    │錄單、統一發票及漁業動力用油購油手冊等          │。                                                                  │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6382A0A00000040.GIF" /> │行政院農委會漁業署102 年3 月1 日漁二字第00000000│被告楊慶宗所屬之「龍進六號」、「鴻海二號」加油之情形，及被告夏再成、│
+│  │行政院農委會漁業署102 年3 月1 日漁二字第00000000│被告楊慶宗所屬之「龍進六號」、「鴻海二號」加油之情形，及被告夏再成、│
 │    │16號函及所附「龍進六號」、「鴻海二號」加油統計、│羅世雄、陳崑祥與林萬發等人得在海上駁油及依渠等航跡圖顯示，「龍進六號│
 │    │日報表；漁船購油歷史紀錄及101 年3 月28日漁二字第│」、「鴻海二號」並無在海上捕魚等情形。                              │
 │    │00000000000 號函所附航跡圖、漁船生命史；台灣中油│                                                                    │
@@ -3562,14 +3455,14 @@ function openwin(URL,arguments,width,height)
 │    │冊、進出港紀錄、「龍進六號」之第十六海巡隊拍攝相│                                                                    │
 │    │片                                              │                                                                    │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6372A0A00000040.GIF" /> │被告楊慶宗彰化銀行瑞芳分行交易明細、合作金庫商業│被告楊慶宗之資金來源，均係與渠不認識之人所匯得。                    │
+│  │被告楊慶宗彰化銀行瑞芳分行交易明細、合作金庫商業│被告楊慶宗之資金來源，均係與渠不認識之人所匯得。                    │
 │    │銀行基隆分行交易明細、新北市瑞芳區漁會交易明細及│                                                                    │
 │    │有限責任基隆第一信用合作社交易明細等            │                                                                    │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6362A0A00000040.GIF" /> │施工說明書（102 年3 月5 日）及法務部調查局基隆市│「龍進六號」未經許可改造油艙、該等漁船並無撈捕設備且有駁油裝置之事實│
+│  │施工說明書（102 年3 月5 日）及法務部調查局基隆市│「龍進六號」未經許可改造油艙、該等漁船並無撈捕設備且有駁油裝置之事實│
 │    │調查站102 年5 月7 日及102 年5 月17日會勘紀錄表  │。                                                                  │
 ├──┼────────────────────────┼──────────────────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6352A0A00000040.GIF" /> │通訊監察譯文〈102 年3 月4 日下午5 時40分14秒（下│被告李根池及江儒德撿油之手法，被告楊慶宗、林萬發及夏再成等人在討論10│
+│  │通訊監察譯文〈102 年3 月4 日下午5 時40分14秒（下│被告李根池及江儒德撿油之手法，被告楊慶宗、林萬發及夏再成等人在討論10│
 │    │以0000-000000 表示），被告李根池與江儒德之通聯譯│2 年1 月9 日「龍進六號」為海巡隊及102 年4 月19日「龍進六號」及「鴻海│
 │    │文；0000-000000 、0000-000000 、0000 -000000、01│二號」為法務部基隆市調查站查獲後，應對之情形，可知渠等均有犯意聯絡。│
 │    │00-000000 、0000-000000 、0000-0 00000、0000-000│                                                                    │
@@ -3680,12 +3573,12 @@ function openwin(URL,arguments,width,height)
 │  │編號12    │文書罪，處有期徒刑壹年。      │文書罪，處有期徒刑壹年。      │                              │            │
 ├─┼─────┼───────────────┼───────────────┼───────────────┼──────┤
 │事│附表三    │江儒德犯對主管事務圖利罪，處有│                              │                              │            │
-│實│編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />│期徒刑壹年，褫奪公權壹年。    │                              │                              │            │
+│實│編號1 之│期徒刑壹年，褫奪公權壹年。    │                              │                              │            │
 │欄│          │                              │                              │                              │            │
 │四│          │                              │                              │                              │            │
 ├─┼─────┼───────────────┼───────────────┼───────────────┼──────┤
 │事│附表三    │江儒德共同犯利用職務機會詐取財│                              │                              │江長泉共同犯│
-│實│編號1 之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />│物罪，處有期徒刑壹年，褫奪公權│                              │                              │利用職務機會│
+│實│編號1 之│物罪，處有期徒刑壹年，褫奪公權│                              │                              │利用職務機會│
 │欄│          │壹年。犯罪所得財物新臺幣參仟陸│                              │                              │詐取財物罪，│
 │五│          │佰陸拾柒元應與江長泉連帶追繳，│                              │                              │處有期徒刑壹│
 │之│          │並發還行政院農業委員會，如全部│                              │                              │年拾月，褫奪│
@@ -3717,86 +3610,12 @@ function openwin(URL,arguments,width,height)
 │  │          │                              │                              │                              │一部無法追繳│
 │  │          │                              │                              │                              │時，應連帶以│
 │  │          │                              │                              │                              │財產抵償之。│
-└─┴─────┴───────────────┴───────────────┴───────────────┴──────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWKLD\CRIMINAL\10212\20\KLDM102CK.00V] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000578&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c578%2c20131220%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=578&jdate=1021220&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c578%2c20131220%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=578&jdate=1021220&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c578%2c20131220%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','578','1021220','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃麗香">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃麗香">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴─────┴───────────────┴───────────────┴───────────────┴──────┘
+[*jrecno*]102,訴,578,20131220,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]578
+[*jdate*]1021220
+[*jcheck*]1

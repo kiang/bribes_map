@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-92金重訴3</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e9%87%91%e9%87%8d%e8%a8%b4&selectedCrmno=000003&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e9%87%91%e9%87%8d%e8%a8%b4&jno=3&jdate=920910&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e9%87%91%e9%87%8d%e8%a8%b4&jno=3&jdate=920910&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e9%87%91%e9%87%8d%e8%a8%b4','3','920910','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,金重訴,3</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">920910</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反證券交易法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　 九十二年度金重訴字第三號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e9%87%91%e9%87%8d%e8%a8%b4&jno=3&jdate=920910&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e9%87%91%e9%87%8d%e8%a8%b4&selectedCrmno=000003&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e9%87%91%e9%87%8d%e8%a8%b4&jno=3&jdate=920910&jcheck=1
+[*裁判字號*]92,金重訴,3
+[*裁判日期*]920910
+[*裁判案由*]違反證券交易法等
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　 九十二年度金重訴字第三號
 　　公　訴　人　臺灣桃園地方法院檢察署檢察官
 　　被　　　告　丁○○
 　　選任辯護人　葉大慧律師
@@ -179,7 +72,7 @@ function openwin(URL,arguments,width,height)
     張匯予癸○○○所提供子○○帳戶八萬元。另四萬元支付一萬七千元至二萬元予
     業務員，其餘作為公司之薪資與行政開銷等情；被告癸○○○於調查站訊問時稱
     ：我轉交綺馥公司股票予尚鼎公司午○○，共拿了約三百餘張予午○○販售，午
-    ○○每張<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4E92A0A00000040.GIF" />八萬元至我先生子○○帳戶，再由我匯予綺馥公司丁○○等語，並有
+    ○○每張八萬元至我先生子○○帳戶，再由我匯予綺馥公司丁○○等語，並有
     委託購買書影本六十三張在卷可稽。依該等委託購買書之記載係經由尚鼎公司、
     定邦公司人員蓋用公司名義章戳，由公司出納人員簽收，而經由主管卯○○或午
     ○○最後核章，且午○○於調查站且陳明差價四萬元，除支付業務員一萬七千元
@@ -290,22 +183,22 @@ function openwin(URL,arguments,width,height)
     係在其投資前，被告所提供云云及證人申○○於本院所稱：是丁○○提供營運計
     劃書資料後，我們才投資云云，非可採信。(二)癸○○○投資綺馥公司後，綺馥公
     司確曾有因銀行緊縮信用抽銀根情事，此亦為癸○○○所知悉，並陪同丁○○及
-    時住立法委員之<font color='red'>陳超明</font>前往彰化商銀新竹分行洽商貸款事宜，惟彰銀新竹分行仍
-    未核貸，當時癸○○○確實知道銀行要抽綺馥公司銀根之事等情，亦據證人<font color='red'>陳超
-    明</font>於本院述明，癸○○○亦是認當其與申○○陪同一起前往該銀行情事。可見癸
+    時住立法委員之陳超明前往彰化商銀新竹分行洽商貸款事宜，惟彰銀新竹分行仍
+    未核貸，當時癸○○○確實知道銀行要抽綺馥公司銀根之事等情，亦據證人陳超
+    明於本院述明，癸○○○亦是認當其與申○○陪同一起前往該銀行情事。可見癸
     ○○○於其投資後，對於嗣後綺馥公司曾遭遇財務困難亦知情，被告丁○○並未
     刻意隱瞞，而癸○○○與申○○亦積極陪同前往銀行，俾貸款紓困，尚難認被告
     丁○○係自始基於不法所有之意圖而施詐。(三)證人戊○○於本院證稱：九十年我
-    要領福克多款時，癸○○○會叫她弟弟來載我，又去接癸○○○與歐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />麗，我領
-    了付款的支票後直接到銀行，由歐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />麗切結，領到錢後，他們拿去共有三次等情
-    ，證人歐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />麗於本院證稱：九十年六月，申○○交代我會同戊○○去領福克多貨
+    要領福克多款時，癸○○○會叫她弟弟來載我，又去接癸○○○與歐麗，我領
+    了付款的支票後直接到銀行，由歐麗切結，領到錢後，他們拿去共有三次等情
+    ，證人歐麗於本院證稱：九十年六月，申○○交代我會同戊○○去領福克多貨
     款，前後去三次，第一次拿四百萬元，第二次拿九十一萬七千六百零四元，第三
     次拿到一百零六萬一千七百五十七元，其中一次癸○○○有陪同，領到的錢申○
     ○交代把錢部分匯入綺富公司戶頭支付貨款，剩下的就留在癸○○○戶頭，匯的
     款支付員工薪資、貨款付地下錢莊二百多萬元及八十萬元等語，證人申○○於本
     院稱：丁○○於九十年五月跟我講綺富公司之供貨廠商不供貨，要我出面希望他
     們繼續供貨，丁○○講是被銀行抽銀根。福克多款項是直接付給物流公司，是由
-    戊○○陪同歐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />麗去提  支票將款付給廠商等情，則癸○○○、申○○確有於九
+    戊○○陪同歐麗去提  支票將款付給廠商等情，則癸○○○、申○○確有於九
     十年五、六月間，因綺富公司被抽銀根，週轉有問題，而出面處理福克多應付予
     綺富公司之多筆款項，並代為處理，並保留部分款項，則癸○○○、申○○對於
     綺富公司於九十年五、六月間因經營上之困難非僅知情，且親自參與處理部分該
@@ -388,290 +281,215 @@ function openwin(URL,arguments,width,height)
 │１０  │九十年三月三十│同右      │李勝堂    │二          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />  │九十年四月二日│同右      │同右      │一          │同右     │
+│  │九十年四月二日│同右      │同右      │一          │同右     │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />  │九十年一月四日│同右      │李姜浮    │一          │同右      │
+│  │九十年一月四日│同右      │李姜浮    │一          │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />  │九十年二月十五│同右      │同右      │五          │同右      │
+│  │九十年二月十五│同右      │同右      │五          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />  │九十年五月十四│同右      │周淑玲    │一          │同右      │
+│  │九十年五月十四│同右      │周淑玲    │一          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63E2A0A00000040.GIF" />  │九十年三月二十│同右      │楊熾誠    │三          │同右      │
+│  │九十年三月二十│同右      │楊熾誠    │三          │同右      │
 │    │八日          │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />  │九十年六月一日│同右      │同右      │二          │同右      │
+│  │九十年六月一日│同右      │同右      │二          │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />  │九十年一月十四│同右      │劉曾保妹  │一          │同右      │
+│  │九十年一月十四│同右      │劉曾保妹  │一          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63B2A0A00000040.GIF" />  │九十年一月三日│同右      │管秀梅    │一          │同右      │
+│  │九十年一月三日│同右      │管秀梅    │一          │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />  │九十年一月十日│同右      │同右      │一          │同右      │
+│  │九十年一月十日│同右      │同右      │一          │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6392A0A00000040.GIF" />  │九十年二月二日│同右      │同右      │一          │同右      │
+│  │九十年二月二日│同右      │同右      │一          │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6382A0A00000040.GIF" />  │九十年三月五日│同右      │同右      │一          │同右      │
+│  │九十年三月五日│同右      │同右      │一          │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6372A0A00000040.GIF" />  │九十年一月十八│同右      │劉翠玉    │三          │同右      │
+│  │九十年一月十八│同右      │劉翠玉    │三          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6362A0A00000040.GIF" />  │九十年二月十五│同右      │同右      │二          │同右      │
+│  │九十年二月十五│同右      │同右      │二          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6352A0A00000040.GIF" />  │九十年一月十五│同右      │接美玲    │二          │同右      │
+│  │九十年一月十五│同右      │接美玲    │二          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6342A0A00000040.GIF" />  │九十年一月十九│同右      │同右      │一          │同右      │
+│  │九十年一月十九│同右      │同右      │一          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6332A0A00000040.GIF" />  │九十年二月七日│同右      │同右      │一          │同右      │
+│  │九十年二月七日│同右      │同右      │一          │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />  │九十年二月十九│同右      │同右      │二          │同右      │
+│  │九十年二月十九│同右      │同右      │二          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6312A0A00000040.GIF" />  │九十年一月十八│同右      │未○○    │一          │同右      │
+│  │九十年一月十八│同右      │未○○    │一          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6302A0A00000040.GIF" />  │九十年二月九日│同右      │同右      │一 │同右      │
+│  │九十年二月九日│同右      │同右      │一 │同右      │
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62F2A0A00000040.GIF" />  │九十年四月二十│同右      │同右      │一          │同右      │
+│  │九十年四月二十│同右      │同右      │一          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62E2A0A00000040.GIF" />  │八十九年九月二│超鋒公司股│李光益    │二          │四萬六千元│
+│  │八十九年九月二│超鋒公司股│李光益    │二          │四萬六千元│
 │    │十八日        │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62D2A0A00000040.GIF" />  │八十九年九月二│同右      │李姜浮    │六          │同右      │
+│  │八十九年九月二│同右      │李姜浮    │六          │同右      │
 │    │十八日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62C2A0A00000040.GIF" />  │八十九年九月二│同右      │陳蘭英    │二          │同右      │
+│  │八十九年九月二│同右      │陳蘭英    │二          │同右      │
 │    │十八日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62B2A0A00000040.GIF" />  │八十九年九月二│同右      │劉翠玉    │五          │同右      │
+│  │八十九年九月二│同右      │劉翠玉    │五          │同右      │
 │    │十七日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62A2A0A00000040.GIF" />  │八十九年九月二│同右      │管秀梅    │二          │同右      │
+│  │八十九年九月二│同右      │管秀梅    │二          │同右      │
 │    │十二日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />  │八十九年九月二│同右      │林鍾毓美  │二          │同右      │
+│  │八十九年九月二│同右      │林鍾毓美  │二          │同右      │
 │    │十一日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6282A0A00000040.GIF" />  │八十九年十一月│王友公司股│管秀梅    │二          │十二萬元  │
+│  │八十九年十一月│王友公司股│管秀梅    │二          │十二萬元  │
 │    │二十二日      │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />  │八十九年十月十│同右      │同右      │一     │同右      │
+│  │八十九年十月十│同右      │同右      │一     │同右      │
 │    │六日          │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6262A0A00000040.GIF" />  │八十九年十月三│同右      │同右      │一          │同右      │
+│  │八十九年十月三│同右      │同右      │一          │同右      │
 │    │十一日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6252A0A00000040.GIF" />  │八十九年十一月│同右      │接愛玲    │二          │同右      │
+│  │八十九年十一月│同右      │接愛玲    │二          │同右      │
 │    │十六日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />  │八十九年十月三│同右      │同右      │二          │同右      │
+│  │八十九年十月三│同右      │同右      │二          │同右      │
 │    │十一日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6232A0A00000040.GIF" />  │八十九年十一月│同右      │蔡秀娟    │一          │同右      │
+│  │八十九年十一月│同右      │蔡秀娟    │一          │同右      │
 │    │十六日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />  │八十九年十一月│同右      │未○○    │二          │同右      │
+│  │八十九年十一月│同右      │未○○    │二          │同右      │
 │    │十六日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6212A0A00000040.GIF" />  │八十九年十一月│同右      │賴婉蓉    │二          │同右      │
+│  │八十九年十一月│同右      │賴婉蓉    │二          │同右      │
 │    │二十二日      │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6202A0A00000040.GIF" />  │八十九年十月三│同右      │林秋吟    │二          │同右      │
+│  │八十九年十月三│同右      │林秋吟    │二          │同右      │
 │    │十一日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F61F2A0A00000040.GIF" />  │八十九年十月二│同右      │孫仲偉    │一          │同右      │
+│  │八十九年十月二│同右      │孫仲偉    │一          │同右      │
 │    │十七日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F61E2A0A00000040.GIF" />  │八十九年七月二│圓益公司股│管秀梅    │三         │四萬五千元│
+│  │八十九年七月二│圓益公司股│管秀梅    │三         │四萬五千元│
 │    │十四日        │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F61D2A0A00000040.GIF" />  │八十九年八月七│同右      │劉得全    │三          │同右      │
+│  │八十九年八月七│同右      │劉得全    │三          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F61C2A0A00000040.GIF" />  │八十九年八月十│海灣公司股│李光益    │二          │三萬七千元│
+│  │八十九年八月十│海灣公司股│李光益    │二          │三萬七千元│
 │    │五日          │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F61B2A0A00000040.GIF" />  │八十九年八月八│同右      │林齊銘    │五          │同右      │
+│  │八十九年八月八│同右      │林齊銘    │五          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F61A2A0A00000040.GIF" />  │八十九年八月八│同右      │未○○    │一          │同右      │
+│  │八十九年八月八│同右      │未○○    │一          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6192A0A00000040.GIF" />  │八十九年八月二│同右      │劉葉      │一          │同右      │
+│  │八十九年八月二│同右      │劉葉      │一          │同右      │
 │    │十四日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6182A0A00000040.GIF" />  │八十九年八月二│同右      │楊金妹    │五          │同右      │
+│  │八十九年八月二│同右      │楊金妹    │五          │同右      │
 │    │十四日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6172A0A00000040.GIF" />  │八十九年八月二│同右      │林鍾毓美  │三          │同右      │
+│  │八十九年八月二│同右      │林鍾毓美  │三          │同右      │
 │    │十四日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6162A0A00000040.GIF" />  │八十九年八月二│同右      │陳家驊    │五          │同右      │
+│  │八十九年八月二│同右      │陳家驊    │五          │同右      │
 │    │十四日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6152A0A00000040.GIF" />  │八十九年八月二│同右      │林齊魁    │二          │同右      │
+│  │八十九年八月二│同右      │林齊魁    │二          │同右      │
 │    │十二日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6142A0A00000040.GIF" />  │八十九年八月二│同右      │鐘曉萍    │十          │同右      │
+│  │八十九年八月二│同右      │鐘曉萍    │十          │同右      │
 │    │十二日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6132A0A00000040.GIF" />  │八十九年七月二│同右      │劉得維    │二          │三萬五千元│
+│  │八十九年七月二│同右      │劉得維    │二          │三萬五千元│
 │    │十九日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6122A0A00000040.GIF" />  │八十九年七月二│同右      │劉曾保妹  │一          │同右      │
+│  │八十九年七月二│同右      │劉曾保妹  │一          │同右      │
 │    │十四日        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6112A0A00000040.GIF" />  │八十九年七月二│同右      │管秀梅    │一          │同右      │
+│  │八十九年七月二│同右      │管秀梅    │一          │同右      │
 │    │二十九日      │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6102A0A00000040.GIF" />  │八十九年九月六│美齊科技公│孫仲偉    │二          │五萬五千元│
+│  │八十九年九月六│美齊科技公│孫仲偉    │二          │五萬五千元│
 │    │日            │司        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F60F2A0A00000040.GIF" />  │八十九年九月二│同右      │接美玲    │一          │同右      │
+│  │八十九年九月二│同右      │接美玲    │一          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F60E2A0A00000040.GIF" />  │八十九年九月二│同右      │管秀梅    │二          │同右      │
+│  │八十九年九月二│同右      │管秀梅    │二          │同右      │
 │    │日            │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F60D2A0A00000040.GIF" />  │八十九年十二月│綺馥公司股│壬○○    │二          │十二萬元  │
+│  │八十九年十二月│綺馥公司股│壬○○    │二          │十二萬元  │
 │    │間            │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F60C2A0A00000040.GIF" />  │八十九年十月間│王友公司股│同右   │二          │十二萬元  │
+│  │八十九年十月間│王友公司股│同右   │二          │十二萬元  │
 │    │              │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F60B2A0A00000040.GIF" />  │八十九年七月間│海灣公司股│同右      │十          │三萬五千元│
+│  │八十九年七月間│海灣公司股│同右      │十          │三萬五千元│
 │    │              │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F60A2A0A00000040.GIF" />  │八十九年年底  │王友公司股│丑○○之親│五          │十二萬元  │
+│  │八十九年年底  │王友公司股│丑○○之親│五          │十二萬元  │
 │    │              │票        │友        │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6092A0A00000040.GIF" />  │八十九年十月間│同右      │同右      │八          │三萬五千元│
+│  │八十九年十月間│同右      │同右      │八          │三萬五千元│
 │    │              │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6082A0A00000040.GIF" />  │八十九年十二月│綺馥公司股│丑○○及其│二十五（其中│十二萬元  │
+│  │八十九年十二月│綺馥公司股│丑○○及其│二十五（其中│十二萬元  │
 │    │底至九十年三、│票        │親友      │丑○○一張）│          │
 │   │四月間        │          │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6072A0A00000040.GIF" />  │八十九年底    │同右      │乙○○之親│十二        │同右      │
+│  │八十九年底    │同右      │乙○○之親│十二        │同右      │
 │    │              │          │友        │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6062A0A00000040.GIF" />  │八十九年間    │王友公司股│同右      │九          │十二萬元  │
+│  │八十九年間    │王友公司股│同右      │九          │十二萬元  │
 │    │              │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6052A0A00000040.GIF" />  │八十九年間    │海灣公司股│乙○○及其│三十六（其中│三萬五千元│
+│  │八十九年間    │海灣公司股│乙○○及其│三十六（其中│三萬五千元│
 │    │              │票        │親友      │乙○○一張）│          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6042A0A00000040.GIF" />  │八十九年間    │元益公司股│同右      │六（其中杜李│四萬八千元│
+│  │八十九年間    │元益公司股│同右      │六（其中杜李│四萬八千元│
 │    │              │票        │          │麗一張）    │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6032A0A00000040.GIF" />  │八十九年底    │綺馥公司股│丙○○與其│六成八      │十二萬元  │
+│  │八十九年底    │綺馥公司股│丙○○與其│六成八      │十二萬元  │
 │    │              │票        │親友      │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6022A0A00000040.GIF" />  │八十九年間    │王友公司股│同右      │十          │十二萬元  │
+│  │八十九年間    │王友公司股│同右      │十          │十二萬元  │
 │    │              │票        │          │            │          │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6012A0A00000040.GIF" />  │八十九年間    │元益公司股│同右      │二十餘      │四萬三千元│
+│  │八十九年間    │元益公司股│同右      │二十餘      │四萬三千元│
 │    │              │票        │          │            │或四萬五千│
 │    │              │          │          │            │元        │
 ├──┼───────┼─────┼─────┼──────┼─────┤
-│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6002A0A00000040.GIF" />  │八十九年間    │海灣公司股│同右      │三十餘張    │三萬元、三│
+│  │八十九年間    │海灣公司股│同右      │三十餘張    │三萬元、三│
 │    │              │票        │          │            │萬二千元、│
 │    │              │          │          │            │三萬五千元│
 └──┴───────┴─────┴─────┴──────┴─────┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\OK\LAWTYD\CRIMINAL\9209\25\TYDM929P.007] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e9%87%91%e9%87%8d%e8%a8%b4&selectedCrmno=000003&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e9%87%91%e9%87%8d%e8%a8%b4&jno=3&jdate=920910&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e9%87%91%e9%87%8d%e8%a8%b4&jno=3&jdate=920910&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e9%87%91%e9%87%8d%e8%a8%b4%2c3%2c20030910%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e9%87%91%e9%87%8d%e8%a8%b4','3','920910','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳超明">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳超明">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]92,金重訴,3,20030910,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]92
+[*jcase*]金重訴
+[*jno*]3
+[*jdate*]920910
+[*jcheck*]1

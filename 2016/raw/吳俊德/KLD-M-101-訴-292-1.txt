@@ -1,131 +1,24 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-101訴292</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
-											筆 / 現在第4
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000292&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c292%2c20120629%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=292&jdate=1010629&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c292%2c20120629%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=292&jdate=1010629&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c292%2c20120629%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','292','1010629','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,292</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010629</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　101年度訴字第292號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c292%2c20120629%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=292&jdate=1010629&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000292&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c292%2c20120629%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=292&jdate=1010629&jcheck=1
+[*裁判字號*]101,訴,292
+[*裁判日期*]1010629
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣基隆地方法院刑事判決　　　　　　　101年度訴字第292號
 公　訴　人　臺灣基隆地方法院檢察署檢察官
 被　　　告　趙亞辰
 指定辯護人　張凱輝律師
 上列被告因違反毒品危害防制條例案件，經檢察官提起公訴（10
 1 年度偵字第394 號），本院判決如下：
     主  文
-趙亞辰共同販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，未據扣案之
+趙亞辰共同販賣第三級毒品，處有期徒刑壹年月，未據扣案之
 販賣第三級毒品所得財物新臺幣壹仟伍佰元，與張文諺連帶沒收
 ，如全部或一部不能沒收時，以其與張文諺之財產抵償之；扣案
-如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示之行動電話壹具（惟不含其內置門號為「0000
+如附表編號所示之行動電話壹具（惟不含其內置門號為「0000
 000000」之晶片卡壹枚），沒收。又共同販賣第三級毒品，處有
-期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，未據扣案之販賣第三級毒品所得財物新臺幣壹
-仟伍佰元，與李志揚、<font color='red'>吳俊德</font>連帶沒收，如全部或一部不能沒收
-時，以其與李志揚、<font color='red'>吳俊德</font>之財產抵償之；扣案如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所
+期徒刑壹年月，未據扣案之販賣第三級毒品所得財物新臺幣壹
+仟伍佰元，與李志揚、吳俊德連帶沒收，如全部或一部不能沒收
+時，以其與李志揚、吳俊德之財產抵償之；扣案如附表編號所
 示之行動電話壹具（惟不含其內置門號為「0000000000」之晶片
 卡壹枚），沒收。應執行有期徒刑壹年陸月。緩刑伍年，並應於
 判決確定後貳年內，向指定之政府機關、政府機構、行政法人、
@@ -133,10 +26,10 @@ function openwin(URL,arguments,width,height)
 務勞務。緩刑期間付保護管束。未據扣案之販賣第三級毒品所得
 財物新臺幣壹仟伍佰元，與張文諺連帶沒收，如全部或一部不能
 沒收時，以其與張文諺之財產抵償之；未據扣案之販賣第三級毒
-品所得財物新臺幣壹仟伍佰元，與李志揚、<font color='red'>吳俊德</font>連帶沒收，如
-全部或一部不能沒收時，以其與李志揚、<font color='red'>吳俊德</font>之財產抵償之；
-扣案如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示之行動電話壹具（惟不含其內置門號為「
-0000000000」之晶片卡壹枚）及附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示之行動電話壹具
+品所得財物新臺幣壹仟伍佰元，與李志揚、吳俊德連帶沒收，如
+全部或一部不能沒收時，以其與李志揚、吳俊德之財產抵償之；
+扣案如附表編號所示之行動電話壹具（惟不含其內置門號為「
+0000000000」之晶片卡壹枚）及附表編號所示之行動電話壹具
 （惟不含其內置門號為「0000000000」之晶片卡壹枚），均沒收
 。
     事  實
@@ -145,10 +38,10 @@ function openwin(URL,arguments,width,height)
     另案偵辦而未據一併起訴）、趙亞辰素有交情；乃彼2 人均
     明知愷他命（ketamine；俗稱「Ｋ他命」）核屬毒品危害防
     制條例第二條第二項第三款所明定列管之第三級（第三級第
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />項）毒品，不得販賣或持有純質淨重達20公克以上，猶基
+    項）毒品，不得販賣或持有純質淨重達20公克以上，猶基
     於共同意圖營利暨販賣第三級毒品愷他命資以牟利之犯意聯
     絡，推由張文諺於民國100 年10月7 日下午6 時26分以前之
-    同日某時，藉由自己持用而如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示之行動電話1
+    同日某時，藉由自己持用而如附表編號所示之行動電話1
     具暨其內置門號為「0000000000」之晶片卡（SIM 卡）1 枚
     ，接聽「紅茶」友人邀約洽購第三級毒品愷他命之來電（按
     ：「紅茶」暨其友人之真實姓名年籍均屬不詳，且本案亦無
@@ -162,38 +55,38 @@ function openwin(URL,arguments,width,height)
     此方式，共同販賣第三級毒品予「紅茶」友人資以牟利（張
     文諺則係從中賺取「200 元至300 元不等之毒品價差」）；
     至關此交易所涉毒品，嗣悉因「紅茶」友人取用而告費失。
-  (二)100 年10月18日，<font color='red'>吳俊德</font>（後開涉案部分，業經本院以101
+  (二)100 年10月18日，吳俊德（後開涉案部分，業經本院以101
     年度訴字第36號判決在案）、張文諺（本案尚無積極證據足
     認張文諺就後開情節亦有犯意聯絡或其行為分擔）、趙亞辰
     本係群聚於基隆市蔚藍海岸汽車旅館內飲酒、聊天；期間，
-    張文諺一度有事外出並誤將附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示行動電話1 具暨
+    張文諺一度有事外出並誤將附表編號所示行動電話1 具暨
     其內置門號為「0000000000」之晶片卡（SIM 卡）1 枚遺留
     在場。適逢李志揚（後開涉案部分，刻由檢察官另案偵辦而
-    未據一併起訴）藉其持用而如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示之行動電話1
+    未據一併起訴）藉其持用而如附表編號所示之行動電話1
     具暨其內置門號為「0000000000」之晶片卡（SIM 卡）1 枚
-    ，撥打附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示電話而擬致電張文諺（本案尚無積極
+    ，撥打附表編號所示電話而擬致電張文諺（本案尚無積極
     證據足認張文諺事前就此有何主觀認識）；趙亞辰見狀，遂
     擅自接聽而獲李志揚告稱「有人欲向彼等洽購第三級毒品愷
     他命」之事情梗概。詎趙亞辰明知愷他命（ketamine；俗稱
     「Ｋ他命」）核屬毒品危害防制條例第二條第二項第三款所
-    明定列管之第三級（第三級第<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />項）毒品，不得販賣或持有
-    純質淨重達20公克以上，猶將上情轉知在場人<font color='red'>吳俊德</font>，藉此
-    而與李志揚、<font color='red'>吳俊德</font>直接或間接達成共同販賣愷他命之共識
-    。又彼等共識既成，李志揚、<font color='red'>吳俊德</font>、趙亞辰遂基於共同意
+    明定列管之第三級（第三級第項）毒品，不得販賣或持有
+    純質淨重達20公克以上，猶將上情轉知在場人吳俊德，藉此
+    而與李志揚、吳俊德直接或間接達成共同販賣愷他命之共識
+    。又彼等共識既成，李志揚、吳俊德、趙亞辰遂基於共同意
     圖營利暨販賣第三級毒品愷他命資以牟利之犯意聯絡，推由
-    <font color='red'>吳俊德</font>當場提供買賣標的即第三級毒品愷他命1 包（毛重3.
+    吳俊德當場提供買賣標的即第三級毒品愷他命1 包（毛重3.
     5 公克），再由趙亞辰依循李志揚之電話指示，於同日下午
     6 時56分以前之同日某時，將上開第三級毒品愷他命1 包，
     攜往基隆市蔚藍海岸汽車旅館外，俾交付姓名年籍不詳之買
     家暨向買家收取買賣價金新臺幣（下同）1,500 元（本案尚
     無積極證據足認關此買家係未滿18歲之少年或兒童），隨後
-    再將前揭買賣價金攜返旅館內並悉數轉交<font color='red'>吳俊德</font>收受。李志
-    揚、<font color='red'>吳俊德</font>、趙亞辰3 人乃以此方式，共同販賣第三級毒品
-    予姓名年籍不詳之買家資以牟利（李志揚、<font color='red'>吳俊德</font>則從中賺
+    再將前揭買賣價金攜返旅館內並悉數轉交吳俊德收受。李志
+    揚、吳俊德、趙亞辰3 人乃以此方式，共同販賣第三級毒品
+    予姓名年籍不詳之買家資以牟利（李志揚、吳俊德則從中賺
     取約「200 元」之毒品價差」）；至關此交易所涉毒品，嗣
     亦悉因買家取用而告費失。
 二、查獲經過
-    緣基隆市警察局前獲合理情資而疑<font color='red'>吳俊德</font>、李志揚、張文諺
+    緣基隆市警察局前獲合理情資而疑吳俊德、李志揚、張文諺
     涉嫌共組集團對外販毒，遂依通訊保障及監察法之相關規定
     ，檢附事證陳送臺灣基隆地方法院檢察署檢察官聲請本院核
     發通訊監察書（100 年度聲監字第364 號、100 年度聲監續
@@ -202,7 +95,7 @@ function openwin(URL,arguments,width,height)
     內容傳喚涉案之趙亞辰，並因趙亞辰配合調查而悉上情。其
     後，員警復曾於100 年11月23日上午8 時20分、同日上午11
     時50分，先、後前往李志揚、張文諺住處搜索而依序起獲如
-    附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示之行動電話暨其內置晶片卡等物。
+    附表編號所示之行動電話暨其內置晶片卡等物。
     理  由
 一、證據能力
   (一)被告趙亞辰之歷次供述，概係出於其一己之真意，而未見有
@@ -245,18 +138,18 @@ function openwin(URL,arguments,width,height)
     法第一百五十九條之四等規定為個別性之斟酌，並應逕自援
     引刑事訴訟法第一百五十九條之五，資為傳聞證據排除例外
     之法律依據，方符憲法保障基本人權及人民訴訟權之本旨！
-    查：本院援為後開事證之張文諺、<font color='red'>吳俊德</font>、李志揚於「審判
-    外之言詞陳述」（即張文諺、<font color='red'>吳俊德</font>、李志揚經司法警察詢
-    問時之證述，或張文諺、<font color='red'>吳俊德</font>、李志揚於檢察官偵訊期間
+    查：本院援為後開事證之張文諺、吳俊德、李志揚於「審判
+    外之言詞陳述」（即張文諺、吳俊德、李志揚經司法警察詢
+    問時之證述，或張文諺、吳俊德、李志揚於檢察官偵訊期間
     「業經依法具結」之證述），業經被告或辯護人「同意有證
     據能力」（本院卷第41頁）；兼以本院自形式察其作成、取
     得當時之外部情況，亦俱無「任意性」或「信用性」違反而
     顯然不適當之情形，而均與刑事訴訟法第一百五十九條之五
     之規定相符。據此，按諸首開說明，本院自應援引刑事訴訟
     法第一百五十九條之五，資為傳聞證據排除例外之法律依據
-    ，即認：證人張文諺、<font color='red'>吳俊德</font>、李志揚於「審判外之言詞陳
-    述」（即張文諺、<font color='red'>吳俊德</font>、李志揚經司法警察詢問時之證述
-    ，或張文諺、<font color='red'>吳俊德</font>、李志揚於檢察官偵訊期間「業經依法
+    ，即認：證人張文諺、吳俊德、李志揚於「審判外之言詞陳
+    述」（即張文諺、吳俊德、李志揚經司法警察詢問時之證述
+    ，或張文諺、吳俊德、李志揚於檢察官偵訊期間「業經依法
     具結」之證述），之於本案而言，均有證據能力，而毋庸再
     依刑事訴訟法第一百五十九條之一至同法第一百五十九條之
     四等規定為個別性之斟酌。
@@ -295,13 +188,13 @@ function openwin(URL,arguments,width,height)
     偵字第5469號偵查卷第18頁背面、第49頁背面至第50頁背面
     ）自得採為認定被告有罪之基礎，而為本案審判之適格證據
     。
-  (四)附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示扣案證物，或係員警於100 年11月23日上
+  (四)附表編號所示扣案證物，或係員警於100 年11月23日上
     午11時50分，持本院100 年度聲搜字第687 號搜索票，至張
     文諺住處即「基隆市中山區○○○路103 巷152 號2 樓」依
-    法起獲（附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示）；或係員警於100 年11月23日上
+    法起獲（附表編號所示）；或係員警於100 年11月23日上
     午8 時20分，持本院100 年度聲搜字第687 號搜索票，至李
     志揚住處即基隆市○○區○○路161 巷30號依法起獲（附表
-    編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示）。此分經張文諺、李志揚於警詢中證述明確（
+    編號所示）。此分經張文諺、李志揚於警詢中證述明確（
     張文諺部分，見100 年度偵字第5469號偵查卷第52頁背面；
     李志揚部分，見同上偵查卷第20頁背面）。兼以員警持票搜
     索之過程，自形式而為觀察，亦核無瑕疵可指，因認關此搜
@@ -312,17 +205,17 @@ function openwin(URL,arguments,width,height)
   (一)被告趙亞辰販賣第三級毒品愷他命如本判決事實欄一(一)(二)之
     所載，業經被告於本院審理時坦承在卷（本院卷第35頁至第
     40頁、第74頁、第87頁、第92頁至第93頁），核與共犯張文
-    諺、<font color='red'>吳俊德</font>於本院審理時以證人身分詰稱之重要情節互為相
+    諺、吳俊德於本院審理時以證人身分詰稱之重要情節互為相
     符（張文諺部分，見本院卷第75頁、第76頁、第77頁、第79
-    頁至第80頁、第87頁至第88頁；<font color='red'>吳俊德</font>部分，見本院卷第84
-    頁至第86頁、第88頁）；並有附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示行動電話、
+    頁至第80頁、第87頁至第88頁；吳俊德部分，見本院卷第84
+    頁至第86頁、第88頁）；並有附表編號所示行動電話、
     晶片卡等物扣案足佐。且細繹張文諺、李志揚2 人於「事後
-    」藉由附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示行動電話、晶片卡互為聯繫通話之
+    」藉由附表編號所示行動電話、晶片卡互為聯繫通話之
     譯文內容（100 年度偵字第5469號偵查卷第18頁背面、第49
     頁背面至第50頁背面），亦足徵被告首開任意性之自白，乃
-    至證人張文諺、<font color='red'>吳俊德</font>於本院審理時結稱「被告與張文諺共
+    至證人張文諺、吳俊德於本院審理時結稱「被告與張文諺共
     同販賣愷他命如本判決事實欄一(一)所載」、「被告與李志揚
-    、<font color='red'>吳俊德</font>共同販賣愷他命如本判決事實欄一(二)所載」等各該
+    、吳俊德共同販賣愷他命如本判決事實欄一(二)所載」等各該
     情節，悉與事實相符而堪採信。
   (二)按販賣毒品之所謂販賣行為，係行為人基於營利之目的，而
     販入或賣出毒品而言。販賣毒品者，其主觀上須有營利之意
@@ -341,33 +234,33 @@ function openwin(URL,arguments,width,height)
     差」、「量差」、「純度（如摻入葡萄糖等物）」謀取利潤
     方式，或有差異，然其所圖利益之非法販賣行為目的，則屬
     相同，並無二致。即就本案情節而論，被告乃至張文諺、李
-    志揚、<font color='red'>吳俊德</font>等人，與洽購毒品之本案下游買家彼此間，首
+    志揚、吳俊德等人，與洽購毒品之本案下游買家彼此間，首
     即核非至親而無特殊情誼，此觀彼等一概無從提供下游買家
     之真實姓名年籍乙節即足析其梗概，是以常情研判，倘非有
-    利可圖，諒被告乃至張文諺、李志揚、<font color='red'>吳俊德</font>等人，應無甘
+    利可圖，諒被告乃至張文諺、李志揚、吳俊德等人，應無甘
     冒觸犯重罪之風險，同以販入毒品（愷他命）之純度、價格
     ，甚至低於原價或無償轉讓毒品予本案下游買家之客觀可能
     ！對照證人張文諺結稱：「（問：你於100 年10月7 日販賣
     愷他命3.5 公克給紅茶的朋友，從中獲利多少？）我是賺取
     價差，只能算出大概，3.5 公克愷他命我可從中獲利200 元
-    至300 元的價差。」等語（本院卷第80頁），及證人<font color='red'>吳俊德
-    </font>結稱：「（問：你販賣毒品的獲利如何計算？）我也是賺取
+    至300 元的價差。」等語（本院卷第80頁），及證人吳俊德
+    結稱：「（問：你販賣毒品的獲利如何計算？）我也是賺取
     價差，3.5 公克愷他命我獲利約200 元左右。」等語（本院
-    卷第86頁），益徵其實！是被告乃至張文諺、李志揚、<font color='red'>吳俊
-    德</font>等人，客觀上顯有利用本次轉手機會而從中圖取「價差」
+    卷第86頁），益徵其實！是被告乃至張文諺、李志揚、吳俊
+    德等人，客觀上顯有利用本次轉手機會而從中圖取「價差」
     之行為，尤屬不言可喻！準此，「被告與張文諺共同價賣愷
-    他命如本判決事實欄一(一)所載」及「被告與李志揚、<font color='red'>吳俊德
-    </font>共同價賣愷他命如本判決事實欄一(二)所載」，無非均係為從
+    他命如本判決事實欄一(一)所載」及「被告與李志揚、吳俊德
+    共同價賣愷他命如本判決事實欄一(二)所載」，無非均係為從
     中圖取少量價差，此應無可疑。換言之，被告乃至張文諺、
-    李志揚、<font color='red'>吳俊德</font>等人，主觀上顯然有藉此營利之意圖，即「
-    被告與張文諺共同價賣」乃至「被告與李志揚、<font color='red'>吳俊德</font>共同
+    李志揚、吳俊德等人，主觀上顯然有藉此營利之意圖，即「
+    被告與張文諺共同價賣」乃至「被告與李志揚、吳俊德共同
     價賣」之時，主觀上，必有營利之意圖及販賣之故意，事甚
     灼明。
   (三)綜上所述，本案事證已明，被告販賣第三級毒品愷他命如本
     判決事實欄一(一)(二)之所載，均堪認定。
 三、論罪科刑
   (一)查「愷他命」雖為毒品危害防制條例第二條第二項第三款所
-    明定列管之第三級毒品（ketamine；第三級第<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />項），然則
+    明定列管之第三級毒品（ketamine；第三級第項），然則
     未經行政院衛生署公告列屬「毒害藥品」，而非藥事法第二
     十二條第一項第一款所稱之「禁藥」範疇；又毒品危害防制
     條例所明定列管之第三級毒品，固併同屬管制藥品管理條例
@@ -387,7 +280,7 @@ function openwin(URL,arguments,width,height)
     第三級毒品愷他命之低度行為，因其持有數量顯然未逾純質
     淨重20公克之範圍，是其依法本即毋庸處罰）。
   (二)被告、張文諺彼此間，就販賣愷他命予「紅茶」友人如本判
-    決事實欄一(一)之所示；被告、李志揚、<font color='red'>吳俊德</font>彼此間，就販
+    決事實欄一(一)之所示；被告、李志揚、吳俊德彼此間，就販
     賣愷他命予不詳買家如本判決事實欄一(二)之所示，皆有犯意
     聯絡及行為分擔，均為共同正犯。
   (三)被告如本判決事實欄一(一)所示之販賣第三級毒品既遂犯行，
@@ -424,10 +317,10 @@ function openwin(URL,arguments,width,height)
     憫恕之處，適用刑法第五十九條之規定酌量減輕其刑，期使
     個案裁判之量刑，能斟酌至當，符合比例原則（最高法院97
     年度臺上字第2652號判決意旨可參）。即就本案情節而言，
-    被告夥同張文諺、李志揚、<font color='red'>吳俊德</font>等人販賣第三級毒品愷他
+    被告夥同張文諺、李志揚、吳俊德等人販賣第三級毒品愷他
     命予他人施用，固戕害他人之身心，惟姑念其並無販賣毒品
     前科，對重典之認識不夠深切，且其本案所涉販賣愷他命之
-    數量均屬甚微，被告乃至張文諺、李志揚、<font color='red'>吳俊德</font>等人從中
+    數量均屬甚微，被告乃至張文諺、李志揚、吳俊德等人從中
     所圖得之利益亦非至鉅（被告事後更係分文未得），而與販
     賣毒品之數量達數公斤以上之嚴重危害社會治安情形不同，
     尤以本案販賣愷他命之情節，尚屬吸毒友儕彼此間互供有無
@@ -504,34 +397,34 @@ function openwin(URL,arguments,width,height)
     原則，自應依毒品危害防制條例第十九條第一項規定，於所
     犯各該罪名項下，併予宣告連帶沒收（亦即：被告所犯如本
     判決事實欄一(一)之所載，應與張文諺連帶沒收；所犯如本判
-    決事實欄一(二)之所載，則應與李志揚、<font color='red'>吳俊德</font>連帶沒收），
+    決事實欄一(二)之所載，則應與李志揚、吳俊德連帶沒收），
     倘全部或一部不能沒收時，則應以相關共同正犯之財產抵償
     如主文之所示。
-  2.扣案如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示之行動電話暨其內置晶片卡，或為被
+  2.扣案如附表編號所示之行動電話暨其內置晶片卡，或為被
     告、張文諺恃以實施本判決事實欄一(一)所示犯罪之所用，或
-    為被告、李志揚、<font color='red'>吳俊德</font>恃以實施本判決事實欄一(二)所示犯
-    罪之所用；扣案如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示之行動電話暨其內置晶片
-    卡，則係被告、李志揚、<font color='red'>吳俊德</font>恃以實施本判決事實欄一(二)
-    所示犯罪之所用。此固經本院認定如前。惟附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所
+    為被告、李志揚、吳俊德恃以實施本判決事實欄一(二)所示犯
+    罪之所用；扣案如附表編號所示之行動電話暨其內置晶片
+    卡，則係被告、李志揚、吳俊德恃以實施本判決事實欄一(二)
+    所示犯罪之所用。此固經本院認定如前。惟附表編號所
     示行動電話機殼（不含其內置晶片卡），雖分屬張文諺（附
-    表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />）、李志揚（附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />）所有，然其內置晶片卡
-    各1 枚，則尚非被告、張文諺、李志揚、<font color='red'>吳俊德</font>以本人名義
+    表編號）、李志揚（附表編號）所有，然其內置晶片卡
+    各1 枚，則尚非被告、張文諺、李志揚、吳俊德以本人名義
     向電信公司申辦持用，此悉經張文諺、李志揚於警詢中證述
     明確（張文諺部分，見100 年度偵字第5469號偵查卷第52頁
     背面至第53頁；李志揚部分，見同卷第21頁），致尚乏積極
     證據足認「上開晶片卡之所有權」業因其門號開通上線而移
-    轉於被告、張文諺、李志揚、<font color='red'>吳俊德</font>等人所有，是自應認為
-    上開晶片卡尚非被告、張文諺、李志揚、<font color='red'>吳俊德</font>等人所有之
-    物！至附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示行動電話機殼（不含其內置晶片卡）
+    轉於被告、張文諺、李志揚、吳俊德等人所有，是自應認為
+    上開晶片卡尚非被告、張文諺、李志揚、吳俊德等人所有之
+    物！至附表編號所示行動電話機殼（不含其內置晶片卡）
     雖屬張文諺所有，然張文諺則未參與本判決事實欄一(二)所示
     犯罪，是關此扣案行動電話機殼（不含其內置晶片卡）尚非
-    本判決事實欄一(二)所示共同正犯（被告、李志揚、<font color='red'>吳俊德</font>）
-    之所有，尤不待言。茲扣案如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示之行動電話1
+    本判決事實欄一(二)所示共同正犯（被告、李志揚、吳俊德）
+    之所有，尤不待言。茲扣案如附表編號所示之行動電話1
     具及其內置晶片卡1 枚，既僅該行動電話（機殼）係張文諺
     所有，供其與被告共同販賣第三級毒品如本判決事實欄一(一)
-    之所載；扣案如附表編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示之行動電話1 具及其內置晶
+    之所載；扣案如附表編號所示之行動電話1 具及其內置晶
     片卡1 枚，亦僅該行動電話（機殼）係李志揚所有，供其與
-    <font color='red'>吳俊德</font>、被告共同販賣第三級毒品如本判決事實欄一(二)之所
+    吳俊德、被告共同販賣第三級毒品如本判決事實欄一(二)之所
     載，本於共同正犯之責任共同原則，爰依毒品危害防制條例
     第十九條第一項，就該行動電話（機殼）之部分，於被告所
     犯各該罪名項下，併予宣告沒收如主文之所示（且關此行動
@@ -573,7 +466,7 @@ function openwin(URL,arguments,width,height)
 ┌──┬───────┬──────┬──────────┬──────────────┬────────┐
 │編號│證  物  名  稱│ 數量或份量 │搜 索 扣 案 時 、 地│說                        明│扣案物品保管字號│
 ├──┼───────┼──────┼──────────┼──────────────┼────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /> │長江行動電話（│行動電話１具│100 年11月23日上午11│行動電話為張文諺所有，供其與│臺灣基隆地方法院│
+│  │長江行動電話（│行動電話１具│100 年11月23日上午11│行動電話為張文諺所有，供其與│臺灣基隆地方法院│
 │    │序號「00000000│晶 片 卡１枚│時50分；張文諺住處即│趙亞辰共犯本判決事實欄一(一)所│檢察署100 年度證│
 │    │0000000」 ）暨│            │「基隆市中山區中山三│示販賣第三級毒品犯罪之所用（│字第1784號編號７│
 │    │其內置門號為「│            │路103 巷12弄152 號2 │至其內置晶片卡雖亦經張文諺、│                │
@@ -581,99 +474,25 @@ function openwin(URL,arguments,width,height)
 │    │晶片卡（SIM 卡│            │                    │一(一)所示犯罪，然則尚非張文諺│                │
 │    │）            │            │                    │或趙亞辰之個人所有；又左列行│                │
 │    │              │            │                    │動電話暨其內置晶片卡固另經李│                │
-│    │              │            │                    │志揚、<font color='red'>吳俊德</font>、趙亞辰恃以用之│                │
+│    │              │            │                    │志揚、吳俊德、趙亞辰恃以用之│                │
 │    │              │            │                    │於本判決事實欄一(二)所示犯罪，│                │
-│    │              │            │                    │然則俱非李志揚、<font color='red'>吳俊德</font>、趙亞│                │
+│    │              │            │                    │然則俱非李志揚、吳俊德、趙亞│                │
 │    │              │            │                    │辰之個人所有）。            │                │
 ├──┼───────┼──────┼──────────┼──────────────┼────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" /> │SONY ERICSSON │行動電話１具│100 年11月23日上午8 │行動電話為李志揚所有，供其與│臺灣基隆地方法院│
-│    │（X8型）行動行│晶 片 卡１枚│時20分；李志揚住處即│<font color='red'>吳俊德</font>、趙亞辰共犯本判決事實│檢察署100 年度證│
+│  │SONY ERICSSON │行動電話１具│100 年11月23日上午8 │行動電話為李志揚所有，供其與│臺灣基隆地方法院│
+│    │（X8型）行動行│晶 片 卡１枚│時20分；李志揚住處即│吳俊德、趙亞辰共犯本判決事實│檢察署100 年度證│
 │    │動電話（序號「│            │「基隆市○○區○○路│欄一(二)所示販賣第三級毒品犯罪│字第1784號編號５│
 │    │00000000000000│            │161 巷30號」        │之所用（至其內置晶片卡雖亦經│                │
-│    │2 」）暨其內置│            │                    │李志揚、<font color='red'>吳俊德</font>、趙亞辰恃以用│                │
+│    │2 」）暨其內置│            │                    │李志揚、吳俊德、趙亞辰恃以用│                │
 │    │門號為「093074│            │                    │之於本判決事實欄一(一)所示犯罪│                │
 │    │7959」之晶片卡│            │                    │，然則尚非張文諺或趙亞辰之個│                │
 │    │（SIM 卡）    │            │                    │人所有）。                  │                │
-└──┴───────┴──────┴──────────┴──────────────┴────────┘</pre>
-<!-- 原因：[未滿18] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWKLD\CRIMINAL\10106\29\KLDM1016T.023] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
-											筆 / 現在第4
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000292&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c292%2c20120629%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=292&jdate=1010629&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c292%2c20120629%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=292&jdate=1010629&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c292%2c20120629%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','292','1010629','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───────┴──────┴──────────┴──────────────┴────────┘
+[*jrecno*]101,訴,292,20120629,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]訴
+[*jno*]292
+[*jdate*]1010629
+[*jcheck*]1

@@ -1,148 +1,41 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-104訴109</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000109&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c109%2c20150506%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=109&jdate=1040506&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c109%2c20150506%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=109&jdate=1040506&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c109%2c20150506%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','109','1040506','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,109</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040506</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　104年度訴字第109號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c109%2c20150506%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=109&jdate=1040506&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000109&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c109%2c20150506%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=109&jdate=1040506&jcheck=1
+[*裁判字號*]104,訴,109
+[*裁判日期*]1040506
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣基隆地方法院刑事判決　　　　　　　104年度訴字第109號
 公　訴　人　臺灣基隆地方法院檢察署檢察官
-被　　　告　<font color='red'>洪志成
-</font>上列被告因偽造文書等案件，經檢察官提起公訴（103 年度偵字
+被　　　告　洪志成
+上列被告因偽造文書等案件，經檢察官提起公訴（103 年度偵字
 第878 號、第2009號），本院判決如下：
     主    文
-<font color='red'>洪志成</font>犯詐欺取財罪，處有期徒刑捌月；又犯行使偽造公文書罪
+洪志成犯詐欺取財罪，處有期徒刑捌月；又犯行使偽造公文書罪
 ，處有期徒刑壹年肆月，偽造之「臺灣台北地方法院民事庭」印
 章及印文各壹枚，均沒收之。應執行有期徒刑壹年拾月，偽造之
 「臺灣台北地方法院民事庭」印章及印文各壹枚，均沒收之。
     事    實
-一、緣<font color='red'>洪志成</font>之母洪蔡彩蓮前向新光人壽股份有限公司投保，由
-    時任新光人壽公司業務員之王美麗收取保險費，<font color='red'>洪志成</font>因而
-    與王美麗結識。<font color='red'>洪志成</font>與王美麗熟識後，向王美麗邀集投資
+一、緣洪志成之母洪蔡彩蓮前向新光人壽股份有限公司投保，由
+    時任新光人壽公司業務員之王美麗收取保險費，洪志成因而
+    與王美麗結識。洪志成與王美麗熟識後，向王美麗邀集投資
     其朋友開設之徵信社，王美麗遂於民國86年間將新臺幣（下
-    同）200 萬元交予<font color='red'>洪志成</font>，另連同<font color='red'>洪志成</font>在86、87年間代王
-    美麗向友人索回之債權1 百70餘萬元，均交由<font color='red'>洪志成</font>投資其
+    同）200 萬元交予洪志成，另連同洪志成在86、87年間代王
+    美麗向友人索回之債權1 百70餘萬元，均交由洪志成投資其
     友人開設之徵信社。嗣王美麗欲索取投資事業之股權證明為
-    憑，<font color='red'>洪志成</font>均無法交付，遂對王美麗誑稱其約400 萬元之投
-    資款已均轉交由臺灣臺北地方法院法官保管，王美麗對<font color='red'>洪志
-    成</font>所言深信不疑。(一)<font color='red'>洪志成</font>於100 年間某日，在台北巿信義
+    憑，洪志成均無法交付，遂對王美麗誑稱其約400 萬元之投
+    資款已均轉交由臺灣臺北地方法院法官保管，王美麗對洪志
+    成所言深信不疑。(一)洪志成於100 年間某日，在台北巿信義
     區永吉路王美麗住所，經由王美麗介紹而認識其父王萬生，
-    <font color='red'>洪志成</font>竟基於意圖為自己不法所有之犯意，向王萬生謊稱：
+    洪志成竟基於意圖為自己不法所有之犯意，向王萬生謊稱：
     欲至馬尼拉領取祖先財產，急需借款3 萬元購買機票等語，
-    王萬生不疑有他而應允借款，然其身上無足夠現金，遂由<font color='red'>洪
-    志成</font>駕車附載王萬生，至台北巿民生西路王萬生友人經營之
-    商店，由王萬生向該友人借得現金3 萬元後交予<font color='red'>洪志成</font>。嗣
-    <font color='red'>洪志成</font>取得上開3 萬元後，並未購買機票前往菲律賓馬尼拉
-    ，事後亦未返還3 萬元。(二)王萬生因覺<font color='red'>洪志成</font>所謂王美麗之
+    王萬生不疑有他而應允借款，然其身上無足夠現金，遂由洪
+    志成駕車附載王萬生，至台北巿民生西路王萬生友人經營之
+    商店，由王萬生向該友人借得現金3 萬元後交予洪志成。嗣
+    洪志成取得上開3 萬元後，並未購買機票前往菲律賓馬尼拉
+    ，事後亦未返還3 萬元。(二)王萬生因覺洪志成所謂王美麗之
     投資款項均交由臺灣臺北地方法院法官保管等節有異，且認
-    民眾繳交費用，法院定然出具收據為證，遂要王美麗向<font color='red'>洪志
-    成</font>索取法院證明為憑。<font color='red'>洪志成</font>為取信王美麗、王萬生，竟基
+    民眾繳交費用，法院定然出具收據為證，遂要王美麗向洪志
+    成索取法院證明為憑。洪志成為取信王美麗、王萬生，竟基
     於行使偽造公文書之不法犯意，於100 年5 月23日之前某日
     ，先委由不知情之人偽刻「臺灣□□地方法院民事庭」（法
     院名稱空白）印章1 枚，復在不詳地點，偽造「茲收到王美
@@ -196,13 +89,13 @@ function openwin(URL,arguments,width,height)
     路住處交給王美麗」云云。
 二、經查：
   (一)詐欺取財部分：
-  1.證人王萬生於本院審理證稱：「我以前不認識<font color='red'>洪志成</font>，幾年
-    前王美麗有帶<font color='red'>洪志成</font>到我台北巿信義區永吉路住處，我才認
-    識他。那一天，<font color='red'>洪志成</font>說他明天要去馬尼拉領『公產』，但
-    是沒有機票錢，<font color='red'>洪志成</font>說要向我借3 萬元，下午就要去買飛
-    機票，但是我身上也沒有錢，我就跟<font color='red'>洪志成</font>一起去民生西路
-    我朋友的店裡面，<font color='red'>洪志成</font>在外面等，我進去店裡向我朋友借
-    3 萬元，我當場就將3 萬元交給<font color='red'>洪志成</font>，<font color='red'>洪志成</font>就說他要趕
+  1.證人王萬生於本院審理證稱：「我以前不認識洪志成，幾年
+    前王美麗有帶洪志成到我台北巿信義區永吉路住處，我才認
+    識他。那一天，洪志成說他明天要去馬尼拉領『公產』，但
+    是沒有機票錢，洪志成說要向我借3 萬元，下午就要去買飛
+    機票，但是我身上也沒有錢，我就跟洪志成一起去民生西路
+    我朋友的店裡面，洪志成在外面等，我進去店裡向我朋友借
+    3 萬元，我當場就將3 萬元交給洪志成，洪志成就說他要趕
     快去買機票，接著就離開了」等語，業將被告係以其自己欲
     至菲律賓馬尼拉處理財產為由而借款等情證述明確，並非被
     告所稱係代乾弟借款。衡諸社會常情，借款人決定借款與否
@@ -238,17 +131,17 @@ function openwin(URL,arguments,width,height)
   1.證人王美麗於本院審理證稱：「之前我有接到一位自稱為台
     北地方法院法官任繼光的電話，說我有4 百萬元在法院那邊
     ，那個法官說要3 萬5 千元的保管手續費，叫我把這筆3 萬
-    5 千元的費用拿給<font color='red'>洪志成</font>..我先向我父親王萬生拿了現金5
-    千元，另外3 萬元是<font color='red'>洪志成</font>帶我爸爸去台北巿永吉路我們家
-    附近的銀行提領，我父親有跟<font color='red'>洪志成</font>說要收據，幾天之後的
-    100 年5 月23日，<font color='red'>洪志成</font>就把這張台北地院的收據拿到我永
-    吉路的家裡面交給我；我根本不認識<font color='red'>洪志成</font>的舅舅，也不知
-    道他舅舅的名字，<font color='red'>洪志成</font>也從來沒有在我面前提過他舅舅」
-    等語，王萬生於本院審理證稱：「<font color='red'>洪志成</font>告訴我女兒說投資
-    的4 百萬元都在法院，需要手續費，<font color='red'>洪志成</font>每次都說手續費
+    5 千元的費用拿給洪志成..我先向我父親王萬生拿了現金5
+    千元，另外3 萬元是洪志成帶我爸爸去台北巿永吉路我們家
+    附近的銀行提領，我父親有跟洪志成說要收據，幾天之後的
+    100 年5 月23日，洪志成就把這張台北地院的收據拿到我永
+    吉路的家裡面交給我；我根本不認識洪志成的舅舅，也不知
+    道他舅舅的名字，洪志成也從來沒有在我面前提過他舅舅」
+    等語，王萬生於本院審理證稱：「洪志成告訴我女兒說投資
+    的4 百萬元都在法院，需要手續費，洪志成每次都說手續費
     繳了之後就可以領回4 百萬元，但是都沒有領回來，所以我
-    才會要求<font color='red'>洪志成</font>出具證明，因為繳錢給法院，法院會出具收
-    據，後來我女兒拿錢給<font color='red'>洪志成</font>，<font color='red'>洪志成</font>就拿這張收據過來給
+    才會要求洪志成出具證明，因為繳錢給法院，法院會出具收
+    據，後來我女兒拿錢給洪志成，洪志成就拿這張收據過來給
     我女兒」等語，均已將被告本人將系爭偽造公文書交付予王
     美麗之原因、過程證述綦詳，證詞相互吻合，應可採信。
   2.至被告辯稱係舅舅蔡太郎將偽造公文書交付予王美麗一節，
@@ -372,86 +265,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處5 年以下有期徒刑、拘役或科或併科1 千元以下罰
 金。
 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWKLD\CRIMINAL\10405\06\KLDM10456.003] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000109&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c109%2c20150506%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=109&jdate=1040506&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c109%2c20150506%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=109&jdate=1040506&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c109%2c20150506%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','109','1040506','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="洪志成">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="洪志成">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]104,訴,109,20150506,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]109
+[*jdate*]1040506
+[*jcheck*]1

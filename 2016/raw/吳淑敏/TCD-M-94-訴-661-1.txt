@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-94訴661</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第7
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=000661&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c661%2c20060117%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=661&jdate=950117&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c661%2c20060117%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=661&jdate=950117&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('94%2c%e8%a8%b4%2c661%2c20060117%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e8%a8%b4','661','950117','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">94,訴,661</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">950117</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反著作權法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　 94年度訴字第661號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c661%2c20060117%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=661&jdate=950117&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=000661&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c661%2c20060117%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=661&jdate=950117&jcheck=1
+[*裁判字號*]94,訴,661
+[*裁判日期*]950117
+[*裁判案由*]違反著作權法
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　　 94年度訴字第661號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　甲○○
 　　　　　　　　　　（另案於臺灣臺中監獄執行中）
@@ -323,12 +216,12 @@ function openwin(URL,arguments,width,height)
 ┌──┬────────────┬────────────┬──────┐
 │編號│ 物　品  名  稱         │   細　　　 目          │  數　量    │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /> │燒錄機                  │1台電腦主機配置5台燒錄器│  9台       │
+│  │燒錄機                  │1台電腦主機配置5台燒錄器│  9台       │
 │    │（編號J）               │的燒錄機有8台，1台電腦主│            │
 │    │                        │機配置3台燒錄器的燒錄機 │            │
 │    │                        │有1台，計燒錄機數量9台  │            │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" /> │包裝盒                  │黑色ＣＤ包裝盒，共57箱，│ 11401個    │
+│  │包裝盒                  │黑色ＣＤ包裝盒，共57箱，│ 11401個    │
 │    │（編號A1至A57）         │除編號A48為200個、A55   │            │
 │    │                        │為204個、A5為198個、A22 │            │
 │    │                        │為198個、A12為203個、   │            │
@@ -336,11 +229,11 @@ function openwin(URL,arguments,width,height)
 │    │                        │、A41為199個外，其餘每箱│            │
 │    │                        │200個，計11401個        │            │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" /> │空白片                  │空白片共6箱，每箱600片，│ 3877片     │
+│  │空白片                  │空白片共6箱，每箱600片，│ 3877片     │
 │    │（編號C1至C6及D1）      │計3600片，D1277片，共計 │            │
 │    │                        │3877片                  │            │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" /> │半成品                  │半成品，C7內有300片、D2 │ 7598片     │
+│  │半成品                  │半成品，C7內有300片、D2 │ 7598片     │
 │    │（編號C7及D2至D10）     │內有602片、D3內有600片、│            │
 │    │                        │D4內有602片、D5內有500片│            │
 │    │                        │、D6內有600片、D7內有600│            │
@@ -349,19 +242,19 @@ function openwin(URL,arguments,width,height)
 │    │                        │G、I中起出之不詳名稱之半│            │
 │    │                        │成品2002片，共計7598片  │            │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" /> │ＶＣＤ非告訴片（編號E1  │詳如附表五              │ 609片      │
+│  │ＶＣＤ非告訴片（編號E1  │詳如附表五              │ 609片      │
 │    │）                      │                        │            │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" /> │ＶＣＤ告訴片            │詳如附表三              │ 1487片     │
+│  │ＶＣＤ告訴片            │詳如附表三              │ 1487片     │
 │    │（編號F1至F5）          │                        │            │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" /> │ＣＤ告訴片              │                        │            │
+│  │ＣＤ告訴片              │                        │            │
 │    │（編號G1至G33）         │                        │            │
 ├──┼────────────┤詳如附表二              │ 13118片    │
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" /> │ＣＤ告訴片（全員）      │                        │            │
+│  │ＣＤ告訴片（全員）      │                        │            │
 │    │（編號H1至H2）          │                        │            │
 ├──┼────────────┼────────────┼──────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57C2A0A00000040.GIF" /> │ＣＤ非告訴片            │詳如附表四              │ 5648片     │
+│  │ＣＤ非告訴片            │詳如附表四              │ 5648片     │
 │    │（編號I1至I14）         │                        │            │
 ├──┼────────────┼────────────┼──────┤
 │    │標籤紙、出貨單、目錄表等│燒錄測試片6片，宅配全省 │            │
@@ -1746,152 +1639,152 @@ function openwin(URL,arguments,width,height)
 ┌──┬────────────┬─────────┬─────────┐
 │編號│盜 版 ＶＣＤ 名 稱      │  權 利 人        │   數量（片）     │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /> │國家寶藏                │  迪士尼          │    F1：99        │
+│  │國家寶藏                │  迪士尼          │    F1：99        │
 │    │                        │                  │    F4：5         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" /> │超人特攻隊              │  迪士尼          │    F1：102       │
+│  │超人特攻隊              │  迪士尼          │    F1：102       │
 │    │                        │                  │    F4：4         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" /> │浴火英雄                │  迪士尼          │    F4：11        │
+│  │浴火英雄                │  迪士尼          │    F4：11        │
 │    │                        │                  │                  │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" /> │愛在日落巴黎時          │  華納            │    F4：67        │
+│  │愛在日落巴黎時          │  華納            │    F4：67        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" /> │瞞天過海2               │  華納            │    F1：2         │
+│  │瞞天過海2               │  華納            │    F1：2         │
 │    │                        │                  │    F2：101       │
 │    │                        │                  │    F3：4         │
 │    │                        │                  │    F4：46        │
 │    │                        │                  │    F5：95        │
 │    │                        │                  │                  │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" /> │歌劇魅影                │  華納            │    F1：2         │
+│  │歌劇魅影                │  華納            │    F1：2         │
 │    │                        │                  │    F3：15        │
 │    │                        │                  │    F5：84        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" /> │鳳凰號                  │  福斯            │    F1：200       │
+│  │鳳凰號                  │  福斯            │    F1：200       │
 │    │                        │                  │    F3：82        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" /> │鯊魚黑幫                │  環球            │    F1：2         │
+│  │鯊魚黑幫                │  環球            │    F1：2         │
 │    │                        │                  │    F4：15        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57C2A0A00000040.GIF" /> │航站情緣                │  環球            │    F1：2         │
+│  │航站情緣                │  環球            │    F1：2         │
 │    │                        │                  │    F4：9         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57B2A0A00000040.GIF" /> │活人生吃                │  環球            │    F1：2         │
+│  │活人生吃                │  環球            │    F1：2         │
 │    │                        │                  │    F4：5         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57A2A0A00000040.GIF" /> │BJ單身日記2             │  環球            │    F1：2         │
+│  │BJ單身日記2             │  環球            │    F1：2         │
 │    │                        │                  │    F2：89        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5792A0A00000040.GIF" /> │功夫                    │  哥倫比亞        │    F1：75        │
+│  │功夫                    │  哥倫比亞        │    F1：75        │
 │    │                        │                  │    F3：1         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5782A0A00000040.GIF" /> │劈腿排行榜              │  哥倫比亞        │    F1：2         │
+│  │劈腿排行榜              │  哥倫比亞        │    F1：2         │
 │    │                        │                  │    F2：21        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5772A0A00000040.GIF" /> │偷情                    │  哥倫比亞        │    F1：3         │
+│  │偷情                    │  哥倫比亞        │    F1：3         │
 │    │                        │                  │    F2：4         │
 │    │                        │                  │    F3：54        │
 │    │                        │                  │    F5：1         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5762A0A00000040.GIF" /> │靈異拼圖                │  哥倫比亞        │    F1：2         │
+│  │靈異拼圖                │  哥倫比亞        │    F1：2         │
 │    │                        │                  │    F2：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5752A0A00000040.GIF" /> │刀鋒戰士3               │  新線            │    F1：2         │
+│  │刀鋒戰士3               │  新線            │    F1：2         │
 │    │                        │                  │    F2：132       │
 │    │                        │                  │    F3：24        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5742A0A00000040.GIF" /> │手札情緣                │  新線            │    F1：2         │
+│  │手札情緣                │  新線            │    F1：2         │
 │    │                        │                  │    F4：4         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5732A0A00000040.GIF" /> │第三者                  │  米高梅          │    F1：2         │
+│  │第三者                  │  米高梅          │    F1：2         │
 │    │                        │                  │    F2：2         │
 │    │                        │                  │    F4：13        │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5722A0A00000040.GIF" /> │戰略迷魂                │  派拉蒙          │    F1：2         │
+│  │戰略迷魂                │  派拉蒙          │    F1：2         │
 │    │                        │                  │    F4：5         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5712A0A00000040.GIF" /> │沙漠騎兵                │  迪士尼          │    F1：2         │
+│  │沙漠騎兵                │  迪士尼          │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5702A0A00000040.GIF" /> │獅子王3                 │  迪士尼          │    F1：2         │
+│  │獅子王3                 │  迪士尼          │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F56F2A0A00000040.GIF" /> │麻雀變公主              │  迪士尼          │    F1：2         │
+│  │麻雀變公主              │  迪士尼          │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F56E2A0A00000040.GIF" /> │來跳舞吧                │  迪士尼          │    F1：2         │
+│  │來跳舞吧                │  迪士尼          │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F56D2A0A00000040.GIF" /> │哈利波特3               │  華納            │    F1：2         │
+│  │哈利波特3               │  華納            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F56C2A0A00000040.GIF" /> │機動殺人                │  華納            │    F1：2         │
+│  │機動殺人                │  華納            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F56B2A0A00000040.GIF" /> │天啊！ㄚㄚㄚ            │  華納            │    F1：2         │
+│  │天啊！ㄚㄚㄚ            │  華納            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F56A2A0A00000040.GIF" /> │特洛依                  │  華納            │    F1：2         │
+│  │特洛依                  │  華納            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5692A0A00000040.GIF" /> │再見了！可魯            │  華納            │    F1：2         │
+│  │再見了！可魯            │  華納            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5682A0A00000040.GIF" /> │2046                    │  華納            │    F1：2         │
+│  │2046                    │  華納            │    F1：2         │
 │    │                        │                  │    F2：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5672A0A00000040.GIF" /> │亞歷山大帝              │  華納            │    F1：5         │
+│  │亞歷山大帝              │  華納            │    F1：5         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5662A0A00000040.GIF" /> │大法師                  │  華納            │    F1：2         │
+│  │大法師                  │  華納            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5652A0A00000040.GIF" /> │北極特快車              │  華納            │    F1：2         │
+│  │北極特快車              │  華納            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5642A0A00000040.GIF" /> │受難記                  │  福斯            │    F1：2         │
+│  │受難記                  │  福斯            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5632A0A00000040.GIF" /> │鐵男躲避球              │  福斯            │    F1：2         │
+│  │鐵男躲避球              │  福斯            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5622A0A00000040.GIF" /> │機械公敵                │  福斯            │    F1：2         │
+│  │機械公敵                │  福斯            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5612A0A00000040.GIF" /> │加菲貓                  │  福斯            │    F1：2         │
+│  │加菲貓                  │  福斯            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5602A0A00000040.GIF" /> │明天過後                │  福斯            │    F1：2         │
+│  │明天過後                │  福斯            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F55F2A0A00000040.GIF" /> │異形戰場                │  福斯            │    F1：2         │
+│  │異形戰場                │  福斯            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F55E2A0A00000040.GIF" /> │計程車女王              │  福斯            │    F1：2         │
+│  │計程車女王              │  福斯            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F55D2A0A00000040.GIF" /> │愛是你愛是我            │  環球            │    F1：2         │
+│  │愛是你愛是我            │  環球            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F55C2A0A00000040.GIF" /> │王牌冤家                │  環球            │    F1：2         │
+│  │王牌冤家                │  環球            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F55B2A0A00000040.GIF" /> │史瑞克2                 │  環球            │    F1：2         │
+│  │史瑞克2                 │  環球            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F55A2A0A00000040.GIF" /> │20.30.40                │  哥倫比亞        │    F1：2         │
+│  │20.30.40                │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5592A0A00000040.GIF" /> │秘密                    │  哥倫比亞        │    F1：2         │
+│  │秘密                    │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5582A0A00000040.GIF" /> │大智若魚                │  哥倫比亞        │    F1：2         │
+│  │大智若魚                │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5572A0A00000040.GIF" /> │我的失憶女友            │  哥倫比亞        │    F1：2         │
+│  │我的失憶女友            │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5562A0A00000040.GIF" /> │三個奶爸三個娃          │  哥倫比亞        │    F1：2         │
+│  │三個奶爸三個娃          │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5552A0A00000040.GIF" /> │大蟒蛇2                 │  哥倫比亞        │    F1：2         │
+│  │大蟒蛇2                 │  哥倫比亞        │    F1：2         │
 │    │                        │                  │    F2：4         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5542A0A00000040.GIF" /> │蜘蛛人2                 │  哥倫比亞        │    F1：2         │
+│  │蜘蛛人2                 │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5532A0A00000040.GIF" /> │不死咒怨                │  哥倫比亞        │    F1：2         │
+│  │不死咒怨                │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5522A0A00000040.GIF" /> │顫慄                    │  哥倫比亞        │    F1：2         │
+│  │顫慄                    │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5512A0A00000040.GIF" /> │小姐好白                │  哥倫比亞        │    F1：2         │
+│  │小姐好白                │  哥倫比亞        │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5502A0A00000040.GIF" /> │神鬼認證2               │  環球            │    F1：2         │
+│  │神鬼認證2               │  環球            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F54F2A0A00000040.GIF" /> │蝴蝶效應                │  新線            │    F1：2         │
+│  │蝴蝶效應                │  新線            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F54E2A0A00000040.GIF" /> │鬼膽神偷                │  新線            │    F1：2         │
+│  │鬼膽神偷                │  新線            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F54D2A0A00000040.GIF" /> │玩命手機                │  新線            │    F1：2         │
+│  │玩命手機                │  新線            │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F54C2A0A00000040.GIF" /> │火線救援                │  米高梅          │    F1：2         │
+│  │火線救援                │  米高梅          │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F54B2A0A00000040.GIF" /> │捍衛家園                │  米高梅          │    F1：2         │
+│  │捍衛家園                │  米高梅          │    F1：2         │
 ├──┼────────────┼─────────┼─────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F54A2A0A00000040.GIF" /> │密碼46                  │  米高梅          │    F1：2         │
+│  │密碼46                  │  米高梅          │    F1：2         │
 ├──┴────────────┴─────────┴─────────┤
 │共計    1487 片                                                       │
 └───────────────────────────────────┘
@@ -2288,7 +2181,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───────────────┼─────────┼──────┤
 │141 │愛的重唱曲                    │不詳              │I11：2      │
 ├──┼───────────────┼─────────┼──────┤
-│142 │<font color='red'>吳淑敏</font>專輯                    │不詳              │I11：1      │
+│142 │吳淑敏專輯                    │不詳              │I11：1      │
 ├──┼───────────────┼─────────┼──────┤
 │143 │飆風再起                      │不詳              │I11：1      │
 ├──┼───────────────┼─────────┼──────┤
@@ -2374,7 +2267,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───────────────┼─────────┼──────┤
 │183 │謝金燕-默契                   │不詳              │I11：1      │
 ├──┼───────────────┼─────────┼──────┤
-│184 │<font color='red'>吳淑敏</font>-風中一句話             │不詳              │I11：1      │
+│184 │吳淑敏-風中一句話             │不詳              │I11：1      │
 ├──┼───────────────┼─────────┼──────┤
 │185 │向蕙玲-我愛的人               │不詳              │I11：1      │
 ├──┼───────────────┼─────────┼──────┤
@@ -2824,86 +2717,11 @@ function openwin(URL,arguments,width,height)
 ├──┴───────────────┴─────────┴──────┤
 │共計   609  片                                                        │
 └───────────────────────────────────┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\ok\LAWTCD\CRIMINAL\9501\17\TCDM951H.109] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第7
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e8%a8%b4&selectedCrmno=000661&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e8%a8%b4%2c661%2c20060117%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=661&jdate=950117&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e8%a8%b4%2c661%2c20060117%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e8%a8%b4&jno=661&jdate=950117&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('94%2c%e8%a8%b4%2c661%2c20060117%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e8%a8%b4','661','950117','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑敏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑敏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]94,訴,661,20060117,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]94
+[*jcase*]訴
+[*jno*]661
+[*jdate*]950117
+[*jcheck*]1

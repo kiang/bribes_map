@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-98上訴343</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共54
-											筆 / 現在第28
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000343&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=27&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=29&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=54&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=343&jdate=980826&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=343&jdate=980826&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','98','%e4%b8%8a%e8%a8%b4','343','980826','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,上訴,343</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">980826</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">證券交易法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　 98年度上訴字第343號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=343&jdate=980826&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000343&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=343&jdate=980826&jcheck=1
+[*裁判字號*]98,上訴,343
+[*裁判日期*]980826
+[*裁判案由*]證券交易法
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　 98年度上訴字第343號
 上　訴　人
 即　被　告　己○○
 選任辯護人　吳孟勳律師
@@ -1507,7 +1400,7 @@ function openwin(URL,arguments,width,height)
   1.92年7月間，葉建和授權陳禮賢與許行政謀議上開「安定操
     作」之細節，其等間共同基於意圖操縱、控制、影響「優盛
     公司」股票於上櫃市場之交易量與成交價格之犯意聯絡，約
-    定由公司派提供不知情之郭<font color='red'>王淑芬</font>、王天賜、孫孚嚴、陳祥
+    定由公司派提供不知情之郭王淑芬、王天賜、孫孚嚴、陳祥
     欽、莊雪鳳、王莉娟、陳文華、張必璇、秦楊菜等人在復華
     證券、元富證券、台証證券、金鼎證券等證券商所開立之證
     券帳戶（含帳戶內屬葉建和利用上開人頭證券帳戶分散股權
@@ -1685,10 +1578,10 @@ function openwin(URL,arguments,width,height)
     （收盤價）為24.4元（93.7.13），最低價（收盤價）為21.
     5元（93.6.11），並無明顯波動。是由前開說明以及證交所
     提供之宏達科股價走勢圖可知：
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />93年1月8日至93年2月20日宏達科股價漲幅達45.91%，被告
+　93年1月8日至93年2月20日宏達科股價漲幅達45.91%，被告
   　並無任何一日經證交所或原判決認定有炒作犯行，足證該段
     期間股價劇烈波動，與被告無關。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />93年2月20日至93年5月6日，宏達科股價跌幅達-110.67%，
+　93年2月20日至93年5月6日，宏達科股價跌幅達-110.67%，
   　被告除93年4月22日之交易日外，該期間並無任何交易日經
     證交所及原判決認定有炒作犯行，細觀93年4月22日之買賣
     情形，李麗雪帳戶係於盤中10：37：13至10：43：44以25
@@ -1699,19 +1592,19 @@ function openwin(URL,arguments,width,height)
     當天收盤價回跌至24.9元，亦未見該帳戶使用者再有高價買
     進之情形，何來炒作意圖，由此益證該段期間宏達科股價巨
     幅下跌與被告無關。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />93年5月6日至93年6月4日宏達科股價漲幅達34.83%，被告鄒
+　93年5月6日至93年6月4日宏達科股價漲幅達34.83%，被告鄒
   　於93年5月6日至93年6月2日間亦無任何一日被認定有炒作犯
     行，顯見該波段漲勢與被告無關；至被告被認定有炒作情形
     即93年6月3日及同年月4日，被告係誤判情勢並買在該波段
     之最高點套牢，自無抬高宏達科股價藉以獲利情事。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />前述波動明顯之三段期間，證交所及原判決並未認定被告有
+　前述波動明顯之三段期間，證交所及原判決並未認定被告有
 　　明顯影響股價之買賣情形，反觀93年6月4日至93年7月30日
     期間被告計有6個交易日被認定有炒作犯行，惟被告買進宏
     達科股票數量較大之該段期間，宏達科股票反而無明顯波動
     ，如謂被告於股價平穩之期間有炒作之情形，於股價劇烈波
     動之期間反未涉炒作，顯與經驗法則有違，足證被告絕無炒
     作宏達科股價之意圖。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />按證券交易法第155條第4款所謂「連續」以高價買入之要件
+　按證券交易法第155條第4款所謂「連續」以高價買入之要件
   　，歷年最高法院迭著有判例明示其標準，如最高法院74年台
     上字第5861號判例謂：「證券交易法第171條所定違反同法
     第155條第4款規定對於在證券交易所上市之有價證券不得有
@@ -1743,7 +1636,7 @@ function openwin(URL,arguments,width,height)
     於該交易日買賣宏達科股票之數量及價格異常，惟細繹各該
     交易日之買賣情形，並不足以推論被告主觀上有炒作宏達科
     股票之意圖，茲說明如下：
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />93年4月22日部分：原判決以李麗雪帳戶於10：37：13至10
+　93年4月22日部分：原判決以李麗雪帳戶於10：37：13至10
   　：43：44以25.00元至25.70元（高於當時揭示成交價24.9
 　　0元至25.60元），連續分12筆合計委託買進650千股，後取
   　消53千股，並於10：37：31至10：44：16間計成交569千股
@@ -1757,7 +1650,7 @@ function openwin(URL,arguments,width,height)
     見書第13頁) ，惟當天收盤價回跌至24.9元，亦未見該帳戶
     使用者再有高價買進之情形，顯見其主觀上並無炒作意圖可
     言。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />93年6月3日部分：原判決以李麗雪帳戶於13：19：33至13：
+  93年6月3日部分：原判決以李麗雪帳戶於13：19：33至13：
     21：18以22.40元至22.70元（高於當時揭示成交價22.30元
     至22.60元），連續分4筆合計委託買進80千股，並於13：19
     ：45至13：21：28間計成交63千股，使成交價由22.30元上
@@ -1768,7 +1661,7 @@ function openwin(URL,arguments,width,height)
 　  有炒作宏達科股票之意圖。況該日宏達科收盤價為22.8元，
     可見宏達科股價仍持續上漲，並非李麗雪帳戶買賣宏達科股
     票之行為所致。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />93年6月4日部分：原判決以李麗雪、李佳蓉帳戶於13：03：
+　93年6月4日部分：原判決以李麗雪、李佳蓉帳戶於13：03：
 　  14至13：24：16以22.00元至24.00元（高於當時揭示成交價
     21.80元至23.50元），連續分30筆合計委託買進5,039千股
     ，嗣取消2,000股，並於13：03：32至收盤間計成交2,443千
@@ -1783,7 +1676,7 @@ function openwin(URL,arguments,width,height)
     年6月4日宏達科股價以24元收盤後，股價即一路下跌，足證
     被告並無炒作宏達科股票之主觀意圖，反而是投資判斷錯誤
     ，高檔套牢。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />93年6月17日部分：原判決以李佳蓉帳戶於13：08：05至13
+  93年6月17日部分：原判決以李佳蓉帳戶於13：08：05至13
     ：17：34以22.00元至22.90元（高於當時揭示成交價21.90
     元至22.80元），連續分23筆合計委託買進1,350千股，後取
     消170千股，並於13：08：34至13：17：57間計成交546千股
@@ -1796,7 +1689,7 @@ function openwin(URL,arguments,width,height)
     並非李佳蓉帳戶買賣宏達科股票之行為所致。況次日即93年
     6月18日宏達科股票收盤價為22.1元，反較前一日收盤價下
 　  跌0.9元，足證被告主觀上並無炒作宏達科股票之意圖。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />93年6月28日部分：原判決以李佳蓉帳戶於13：22：07至13
+　93年6月28日部分：原判決以李佳蓉帳戶於13：22：07至13
   　：26：10以22.20元至22.30元（漲停價，高於當時揭示成交
     價22.00元至22.30元），連續分5筆合計委託買進420千股，
     後取消100千股，並於13：22：42至收盤間計成交305千股，
@@ -1809,7 +1702,7 @@ function openwin(URL,arguments,width,height)
     從預知投資人買賣成交之數量占該日市場成交量之百分比，
     故以李佳蓉帳戶於該時段買賣之數量以觀，實難認定被告主
     觀上有炒作宏達科股票之意圖。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />93年6月30日部分：原判決以李佳蓉帳戶於10：55：05至11
+　93年6月30日部分：原判決以李佳蓉帳戶於10：55：05至11
 　  ：06：12以22.40元至22.20元（低於當時揭示成交價22.50
     元至22.30元），連續分47筆合計委託買進145千股，並於10
     ：55：40至11：06：45間計成交101千股，使成交價由22.50
@@ -1841,7 +1734,7 @@ function openwin(URL,arguments,width,height)
     ，且次日即93年7月1日宏達科股票之收盤價反較前一日下跌
     0.1元，均足以證明被告主觀上並無炒作宏達科股票之意圖
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />93年7月12日部分：原判決以李佳蓉帳戶於11：06：22至11
+  93年7月12日部分：原判決以李佳蓉帳戶於11：06：22至11
     ：14：28以24.40元至25.10元（高於當時揭示成交價24.30
     元至25.00元），連續分14筆合計委託買進1,810千股，嗣取
     消221千股，並於11：06：40至11：14：55間計成交1,532千
@@ -1853,7 +1746,7 @@ function openwin(URL,arguments,width,height)
 　  交所投資人委託－成交對應表93年7月12日部分)，況當日宏
     達科之收價回跌為24.4元，顯見宏達科股價並未因李佳蓉帳
     戶之買賣行為而受影響，亦足證明被告無炒作之主觀意圖。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B82A0A00000040.GIF" />93年7月21日部分：原判決以李佳蓉帳戶於12：51：43至12
+　93年7月21日部分：原判決以李佳蓉帳戶於12：51：43至12
 　  ：55：22以23.50元至23.80元（高於當時揭示成交價23.40
     元至23.70元），連續4筆合計委託買進500千股，嗣取消37
     千股，並於12：52：18至12：55：45間計成交354千股，使
@@ -1883,7 +1776,7 @@ function openwin(URL,arguments,width,height)
 　  年10月22日等14個交易日有炒作宏達科股票之意圖，其採為
     判決資料之證據，與認定之事實不相適合，而有證據上理由
     矛盾之違法：
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />93年2月16日被告與郇金庸通聯部分：
+　93年2月16日被告與郇金庸通聯部分：
 　(1)原判決並未認定被告於92年12月中旬至93年4月中旬間有任
 　  何炒作宏達科股票之犯行，乃原判決援引93年2月16日被告
     與郇金庸之通訊監察譯文作為被告有炒作意圖之證據，顯與
@@ -1895,7 +1788,7 @@ function openwin(URL,arguments,width,height)
     分析意見書第26頁第玖大點第一點），足見群組成員於該通
     聯後7個交易日內非但係賣超宏達科股票，且宏達科股價於
     期間內亦未有明顯起伏，足證被告主觀上並無炒作之意圖。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />93年2月26日被告與蘇名宇通聯（2通）部分：
+　93年2月26日被告與蘇名宇通聯（2通）部分：
 　(1)查原判決並未認定被告於92年12月中旬至93年4月中旬間有
 　  任何炒作宏達科股票犯行，是以原判決援引93年2月26日被
     告與與蘇名宇之通訊監察譯文，認定被告主觀上有炒作之意
@@ -1906,12 +1799,12 @@ function openwin(URL,arguments,width,height)
     並未發現群組成員有連續以低價委託賣出致影響該股票成交
     價下跌之情事」（見該分析意見書第26頁第玖大點第二點第
     (一)小點），足證被告主觀上並無炒作意圖。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />93年3月3日被告與蘇名宇之通聯部分：
+　93年3月3日被告與蘇名宇之通聯部分：
 　　查原判決並未認定被告於92年12月中旬至93年4月中旬間有
 　  任何炒作宏達科股票犯行，故原判決援引93年3月3日被告與
     蘇名宇之通訊監察譯文作為上訴人主觀上有炒作意圖之證據
     ，顯與其認定之事實不相適合。
-　<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />93年3月29日被告郇金庸之通聯部分：
+　93年3月29日被告郇金庸之通聯部分：
 　(1)原判決並未認定被告於92年12月中旬至93年4月中旬間有任
 　  何炒作宏達科股票之犯行，乃原判決引用93年3月29日被告
     與郇金庸之通訊監察譯文認定被告主觀上有炒作意圖，亦有
@@ -1936,7 +1829,7 @@ function openwin(URL,arguments,width,height)
     買進300千股，平均每交易日僅賣出94.8張，買進60張宏達
     科股票，數量根本不足以影響宏達科股價，更足證明被告並
     無炒作意圖。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />93年4月12日、93年4月17日被告與蘇名宇之通聯部分：
+  93年4月12日、93年4月17日被告與蘇名宇之通聯部分：
     原判決認定被告於93年4月間僅有4月22日一個交易日炒作宏
     達科股票，且並未認定被告於93年4月22日前有炒作宏達科
     股票之犯行，又依93年4月12日、93年4月17日被告與蘇名宇
@@ -1944,7 +1837,7 @@ function openwin(URL,arguments,width,height)
     達科股票之行為毫無關係，原判決援引93年4月12日、93年4
     月17日被告己○○與蘇名宇之通訊監察譯文作為被告主觀上
     有炒作意圖之證據，顯與其認定之事實不相適合。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />93年4月28日、93年4月30日被告與蘇名宇之通聯部分：
+  93年4月28日、93年4月30日被告與蘇名宇之通聯部分：
     查原判決係認定被告於93年4月22日、6月3日、6月4日，意
     圖「抬高」宏達科之股價而連續高價買入，但依93年4月28
     日、93年4月30日被告與蘇名宇之通訊監察譯文顯示，談話
@@ -1953,7 +1846,7 @@ function openwin(URL,arguments,width,height)
     極之買賣行為，原判決援引93年4月28日、93年4月30日被告
     與蘇名宇之通訊監察譯文，認定被告有炒作（抬高）宏達科
     股票之意圖，尚有未洽。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />93年5月28日被告與郇金庸之通聯部分：
+  93年5月28日被告與郇金庸之通聯部分：
 　　查93年5月28日11: 46:47被告與郇金庸通聯內容中，郇金庸
 　  雖請求被告該數日將尾盤弄強一點，惟被告實際上敷衍應付
     後，並未為積極之買賣宏達科股票行為，且於93年5月28 日
@@ -2379,86 +2272,11 @@ function openwin(URL,arguments,width,height)
 │            │                  │ 成交價23.10元，收盤價│      │      │      │      │      │      │      │
 │            │                  │ 24.20元。            │      │      │      │      │      │      │      │
 └──────┴─────────┴───────────┴───┴───┴───┴───┴───┴───┴───┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWTPH\CRIMINAL\9808\26\TPHM988Q.028] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共54
-											筆 / 現在第28
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000343&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=27&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=29&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=54&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=343&jdate=980826&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=343&jdate=980826&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e4%b8%8a%e8%a8%b4%2c343%2c20090826%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','98','%e4%b8%8a%e8%a8%b4','343','980826','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="28"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王淑芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王淑芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]98,上訴,343,20090826,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]上訴
+[*jno*]343
+[*jdate*]980826
+[*jcheck*]1

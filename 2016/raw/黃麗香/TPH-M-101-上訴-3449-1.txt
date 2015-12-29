@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101上訴3449</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共23
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003449&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3449&jdate=1040826&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3449&jdate=1040826&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','3449','1040826','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,上訴,3449</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040826</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 101年度上訴字第3449號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3449&jdate=1040826&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003449&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3449&jdate=1040826&jcheck=1
+[*裁判字號*]101,上訴,3449
+[*裁判日期*]1040826
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 101年度上訴字第3449號
 上　訴　人　臺灣板橋地方法院檢察署檢察官
 上　訴　人
 即　被　告　陳國和
@@ -315,7 +208,7 @@ function openwin(URL,arguments,width,height)
     字號等資料，伊才能夠去向地政事務所取得第一類謄本據以
     申請本案合併使用證明書，伊自己則沒有跟甲土地所有權人
     確認是否有同意云云。辯護人另為被告辯稱，甲土地之地主
-    林<font color='red'>黃麗香</font>、黃旭男、呂美樺等人，本來就想要做都更，是這
+    林黃麗香、黃旭男、呂美樺等人，本來就想要做都更，是這
     些地主確實有意願同意授權做這方面的處理，而其餘地主要
     不要合併使用是他們的權利，有人費心出資申請本案合併使
     用證明書對地主有利無害，被告沒有偽造之必要，臺北市政
@@ -351,7 +244,7 @@ function openwin(URL,arguments,width,height)
     72-82頁、第196-208頁、第226-232頁）附卷可佐，而堪以
     認定為真實。
 (三)被告雖以前詞置辯，惟證人呂美樺、宋小玲、林修正、蘇世
-    月、吳淑楨、鍾奕祥、林<font color='red'>黃麗香</font>、黃添伯均具結證稱，伊等
+    月、吳淑楨、鍾奕祥、林黃麗香、黃添伯均具結證稱，伊等
     未曾授權同意被告刻製如附表三編號二所示之印章，或委託
     被告代為申請本案合併使用證明書等情明確（見板檢偵字卷
     第198-199頁、原審卷一第204頁反面、第208頁、第210頁反
@@ -364,11 +257,11 @@ function openwin(URL,arguments,width,height)
     早已失效，被告復未曾提及與前揭證人等間有何怨恨仇隙事
     由，是其等自均無甘冒涉犯偽證罪責之風險，猶共同於事後
     為虛偽證述之必要，是其等證述均屬可信。又證人黃添伯證
-    稱，伊係林<font color='red'>黃麗香</font>之弟，黃旭男之兄，呂美樺是伊小姨子，
+    稱，伊係林黃麗香之弟，黃旭男之兄，呂美樺是伊小姨子，
     宋小玲是伊公司股東的妹妹，卷內民間申請都市更新計畫資
     料（即被告提呈之附件二，原審卷二第226頁）是伊公司提
     出的，該計畫只要申請人提出劃設就好，不需要經過地主的
-    同意，但包括林<font color='red'>黃麗香</font>、黃旭男、宋小玲這三筆應該有同意
+    同意，但包括林黃麗香、黃旭男、宋小玲這三筆應該有同意
     ，伊沒有跟任何人談合作，是要自行開發，被告有找過伊，
     但因為伊想自己做，所以不想跟被告合作，宋小玲的土地有
     委託宋小英處理，宋小玲都在家裡幫宋小英帶孫子，自己不
@@ -376,9 +269,9 @@ function openwin(URL,arguments,width,height)
     伊討論以後才決定，伊要申請都更也不需要合併使用證明等
     語（見原審卷二第254-256頁），核與證人即宋小玲之姊宋
     小英於本院證稱，伊之親友即黃旭男、呂美樺、宋小玲、林
-    <font color='red'>黃麗香</font>買了甲土地其中4筆地號，之前有準備要做都市更新
+    黃麗香買了甲土地其中4筆地號，之前有準備要做都市更新
     ，但沒有要賣，只有被告曾經帶人說要買土地，但伊之親友
-    並未同意等語（見本院卷二第101頁）相符。是林<font color='red'>黃麗香</font>、
+    並未同意等語（見本院卷二第101頁）相符。是林黃麗香、
     黃旭男、呂美樺、宋小玲等甲土地所有權人縱曾同意黃添伯
     處理申請都市更新計畫事宜，亦係因渠等與黃添伯間具有親
     戚或特別信賴關係，要不能以此推論渠等亦有同意授權被告
@@ -616,7 +509,7 @@ function openwin(URL,arguments,width,height)
     年8月間，在臺中市烏日區之臺灣高鐵臺中站內，將前揭各
     買賣契約書末頁影本一併交付予陳世坤等情，除據被告坦承
     不諱外，復經證人陳世坤、呂美樺、宋小玲、林修正、蘇世
-    月、吳淑楨、鍾奕祥、林<font color='red'>黃麗香</font>、黃添伯、喬正邦於原審所
+    月、吳淑楨、鍾奕祥、林黃麗香、黃添伯、喬正邦於原審所
     為之證述相符（見板檢偵字卷第198-199頁、原審卷一第204
     頁反面、第208頁、第210頁反面、第263頁、第272頁反面、
     卷二第253頁、第255頁反面、第256頁），並有甲、乙土地
@@ -1010,7 +903,7 @@ function openwin(URL,arguments,width,height)
 ├─┼────────────────┼────────┤
 │十│臺北市○○區○○段○○段000 地號│鍾奕祥          │
 ├─┼────────────────┼────────┤
-│十│臺北市○○區○○段○○段000 地號│林<font color='red'>黃麗香        </font>│
+│十│臺北市○○區○○段○○段000 地號│林黃麗香        │
 │一│                                │                │
 ├─┼────────────────┼────────┤
 │十│臺北市○○區○○段○○段000 地號│林修正、林佳蕙、│
@@ -1027,7 +920,7 @@ function openwin(URL,arguments,width,height)
 │  │「吳淑楨」、「黃旭男」、「黃陳鴛鴦」、│5 頁                        │
 │  │「呂美樺」、「宋小玲」、「謝錫源」、「│                            │
 │  │鄧陳月娥」、「黃美連」、「鍾奕祥」、「│                            │
-│  │林<font color='red'>黃麗香</font>」、「林修正」、「林佳蕙」、「│                            │
+│  │林黃麗香」、「林修正」、「林佳蕙」、「│                            │
 │  │林玲蕙」、「林世超」、「林芷蕙」、「林│                            │
 │  │楊麗霜」印文各貳枚（起訴書誤載為共計17│                            │
 │  │枚）                                  │                            │
@@ -1035,7 +928,7 @@ function openwin(URL,arguments,width,height)
 │二│偽造之「蘇世月」、「吳淑楨」、「黃旭男│所蓋印文即分別如附表三編號一│
 │  │」、「黃陳鴛鴦」、「呂美樺」、「宋小玲│所示者，雖未扣案，但無證據證│
 │  │」、「謝錫源」、「鄧陳月娥」、「黃美連│明業已滅失                  │
-│  │」、「鍾奕祥」、「林<font color='red'>黃麗香</font>」、「林修正│                            │
+│  │」、「鍾奕祥」、「林黃麗香」、「林修正│                            │
 │  │」、「林佳蕙」、「林玲蕙」、「林世超」│                            │
 │  │、「林芷蕙」、「林楊麗霜」印章各壹個  │                            │
 └─┴───────────────────┴──────────────┘
@@ -1079,7 +972,7 @@ function openwin(URL,arguments,width,height)
 │  │方欄內偽造之「鍾奕祥」簽名、印文各壹枚│度他字第2413號卷第51頁背面  │
 ├─┼───────────────────┼──────────────┤
 │十│97年3 月8 日買賣契約書末頁立契約書人甲│見臺灣板橋地方法院檢察署99年│
-│一│方欄內偽造之「林<font color='red'>黃麗香</font>」簽名、印文各壹│度他字第2413號卷第52頁正面  │
+│一│方欄內偽造之「林黃麗香」簽名、印文各壹│度他字第2413號卷第52頁正面  │
 │  │枚                                    │                            │
 ├─┼───────────────────┼──────────────┤
 │十│97年6 月15日買賣契約書末頁立契約書人甲│見臺灣板橋地方法院檢察署99年│
@@ -1091,89 +984,15 @@ function openwin(URL,arguments,width,height)
 │十│偽造之「蘇世月」、「吳淑楨」、「黃旭男│所蓋印文即分別如附表四編號一│
 │三│」、「黃陳鴛鴦」、「呂美樺」、「宋小玲│至十二所示者，而與如附表三編│
 │  │」、「謝錫源」、「鄧陳月娥」、「黃美連│號二所示印章不同，雖未扣案，│
-│  │」、「鍾奕祥」、「林<font color='red'>黃麗香</font>」、「林修正│但無證據證明業已滅失        │
+│  │」、「鍾奕祥」、「林黃麗香」、「林修正│但無證據證明業已滅失        │
 │  │」、「林佳蕙」、「林玲蕙」、「林世超」│                            │
 │  │、「林芷蕙」、「林楊麗霜」印章各壹個  │                            │
-└─┴───────────────────┴──────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10408\26\TPHM1048Q.01V] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共23
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003449&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3449&jdate=1040826&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3449&jdate=1040826&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c3449%2c20150826%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','3449','1040826','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃麗香">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃麗香">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴───────────────────┴──────────────┘
+[*jrecno*]101,上訴,3449,20150826,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]上訴
+[*jno*]3449
+[*jdate*]1040826
+[*jcheck*]1

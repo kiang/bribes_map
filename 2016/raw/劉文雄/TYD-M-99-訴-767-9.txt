@@ -1,133 +1,26 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-99訴767</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共22
-											筆 / 現在第9
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000767&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20130115%2c9&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1020115&jcheck=9">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20130115%2c9&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1020115&jcheck=9">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c767%2c20130115%2c9','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','767','1020115','9')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴,767</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020115</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反槍砲彈藥刀械管制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　 99年度訴字第767號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20130115%2c9&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1020115&jcheck=9
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000767&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20130115%2c9&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1020115&jcheck=9
+[*裁判字號*]99,訴,767
+[*裁判日期*]1020115
+[*裁判案由*]違反槍砲彈藥刀械管制條例等
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　 99年度訴字第767號
 公　訴　人　臺灣桃園地方法院檢察署檢察官 
 被　　　告　楊福順
 選任辯護人　洪榮彬律師
 　　　　　　陳麗玲律師
 被　　　告　黃立霖
-選任辯護人　陳志<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />律師　
+選任辯護人　陳志律師　
 　　　　　　黃佩琦律師
 被　　　告　朱文展
-選任辯護人　鐘炯<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F01D2A0A00000040.GIF" />律師 
+選任辯護人　鐘炯律師 
 被　　　告　蕭夏華
 選任辯護人　曾智群律師 
 被　　　告　張峻祥（原名張峻榮）
 指定辯護人　本院公設辯護人林銘宏
 被　　　告　陳健輝
-　　　　　　<font color='red'>劉文雄
-　　　　　　</font>蔡明德
+　　　　　　劉文雄
+　　　　　　蔡明德
 　　　　　　劉唐淑珍
 　　　　　　王酋錦
 　　　　　　姚銘峰
@@ -145,65 +38,65 @@ function openwin(URL,arguments,width,height)
 月；又共同犯廢棄物清理法第四十六條第四款之非法清除廢棄物
 罪，處有期徒刑壹年肆月；又共同犯廢棄物清理法第四十六條第
 四款之非法處理廢棄物罪，處有期徒刑壹年陸月，如附表編號３
-、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示
-之物，沒收。應執行有期徒刑肆年陸月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒
+、５、、、、、、、、、、、、所示
+之物，沒收。應執行有期徒刑肆年陸月，如附表編號３、５、
+、、、、、、、、、、、所示之物，沒
 收。
 辰○○共同傷害人之身體，處有期徒刑柒月；又共同犯廢棄物清
 理法第四十六條第四款之非法處理廢棄物罪，處有期徒刑壹年伍
-月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。應執行有期徒刑壹年拾月，如附
-表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+月，如附表編號３、５、、、、、、、、、
+、、、所示之物，沒收。應執行有期徒刑壹年拾月，如附
+表編號３、５、、、、、、、、、、、
+、所示之物，沒收。
 乙○○犯廢棄物清理法第四十六條第四款之非法清除廢棄物罪，
 處有期徒刑壹年壹月。
 黃○○共同犯廢棄物清理法第四十六條第四款之非法清除廢棄物
 罪，處有期徒刑壹年。
 壬○○共同傷害人之身體，處有期徒刑柒月；又共同未經許可，
-持有可發射子彈具有殺傷力之改造槍枝，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年貳月，
+持有可發射子彈具有殺傷力之改造槍枝，處有期徒刑年貳月，
 併科罰金新臺幣陸萬元，罰金如易服勞役，以新臺幣壹仟元折算
 壹日。扣案之仿美國Remington Model 870 滑膛槍改良之霰彈槍
 壹枝（槍枝管制編號：0000000000）、仿美國9mm M ─9 型式改
 造手槍貳枝（槍枝管制編號：0000000000、0000000000）、霰彈
 捌顆，均沒收；又共同犯廢棄物清理法第四十六條第四款之非法
-處理廢棄物罪，處有期徒刑壹年肆月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收
+處理廢棄物罪，處有期徒刑壹年肆月，如附表編號３、５、、
+、、、、、、、、、、所示之物，沒收
 。應執行有期徒刑肆年陸月，併科罰金新臺幣陸萬元，罰金如易
 服勞役，以新臺幣壹仟元折算壹日。扣案之仿美國Remington Mo
 del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
 ）、仿美國9mm M ─9 型式改造手槍貳枝（槍枝管制編號：0000
-000000、0000000000）、霰彈捌顆、如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+000000、0000000000）、霰彈捌顆、如附表編號３、５、、
+、、、、、、、、、、所示之物，沒收。
 丑○○共同傷害人之身體，處有期徒刑柒月；又共同犯廢棄物清
-理法第四十六條第四款之非法清除廢棄物罪，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />
+理法第四十六條第四款之非法清除廢棄物罪，處有期徒刑壹年
 月；又共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
-罪，處有期徒刑壹年伍月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。應執行有
-期徒刑貳年拾月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+罪，處有期徒刑壹年伍月，如附表編號３、５、、、、
+、、、、、、、、所示之物，沒收。應執行有
+期徒刑貳年拾月，如附表編號３、５、、、、、、
+、、、、、、所示之物，沒收。
 戌○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
-罪，處有期徒刑壹年，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+罪，處有期徒刑壹年，如附表編號３、５、、、、、
+、、、、、、、所示之物，沒收。
 宙○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
-罪，累犯，處有期徒刑壹年貳月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+罪，累犯，處有期徒刑壹年貳月，如附表編號３、５、、、
+、、、、、、、、、所示之物，沒收。
 天○○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄
-物罪，處有期徒刑壹年，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+物罪，處有期徒刑壹年，如附表編號３、５、、、、、
+、、、、、、、所示之物，沒收。
 甲○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
-罪，處有期徒刑壹年，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+罪，處有期徒刑壹年，如附表編號３、５、、、、、
+、、、、、、、所示之物，沒收。
 辛○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
 罪，處有期徒刑壹年貳月。
 子○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
-罪，處有期徒刑壹年貳月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+罪，處有期徒刑壹年貳月，如附表編號３、５、、、、
+、、、、、、、、所示之物，沒收。
 地○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
-罪，處有期徒刑壹年，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+罪，處有期徒刑壹年，如附表編號３、５、、、、、
+、、、、、、、所示之物，沒收。
 巳○○共同犯廢棄物清理法第四十六條第四款之非法處理廢棄物
-罪，處有期徒刑壹年壹月，如附表編號３、５、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />
-、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6292A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6272A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6242A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6222A0A00000040.GIF" />所示之物，沒收。
+罪，處有期徒刑壹年壹月，如附表編號３、５、、、、
+、、、、、、、、所示之物，沒收。
 申○○共同犯廢棄物清理法第四十六條第四款之非法清除廢棄物
 罪，處有期徒刑壹年。
 酉○○、丑○○、巳○○被訴加重竊盜罪部分，均無罪。
@@ -1115,25 +1008,25 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
   8.綜上，被告酉○○、丑○○、申○○、黃○○此部分事證明
     確，辯解均無可採，犯行堪以認定。
 五、事實(五)部分：
-  1.<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />訊據被告酉○○矢口否認有何違反廢棄物清理法之犯行，
+  1.訊據被告酉○○矢口否認有何違反廢棄物清理法之犯行，
     辯稱：伊在現場傾倒的只有建築工地之廢土、廢磚塊云云；
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />訊據被告辰○○固坦承在現場擔任把風工作，惟矢口否認
+    訊據被告辰○○固坦承在現場擔任把風工作，惟矢口否認
     有何違反廢棄物清理法之犯行，辯稱：伊不知道現場在做什
-    麼違法的事情，伊只知道現場在傾倒土方與磚塊云云；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />訊
+    麼違法的事情，伊只知道現場在傾倒土方與磚塊云云；訊
     據被告乙○○矢口否認有何違反廢棄物清理法之犯行，辯稱
     ：伊僅係從建築工地載運磚塊前往大江購物中心旁空地傾倒
-    云云；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />訊據被告宙○○固坦承於99年7 月2 日迄7 月27日
+    云云；訊據被告宙○○固坦承於99年7 月2 日迄7 月27日
     受雇於被告酉○○，在現場開挖土機從事掩埋整平之工作，
     惟矢口否認有何違反廢棄物清理法之犯行，辯稱：現場所傾
     倒的只有磚塊與土石，不是廢棄物，伊認為這是合法的，況
     且現場入口處掛有工程的鐵牌，可以佐證現場並無不法云云
-    ；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />訊據被告天○○○固坦承在現場擔任把風工作，惟矢口
+    ；訊據被告天○○○固坦承在現場擔任把風工作，惟矢口
     否認有何違反廢棄物清理法之犯行，辯稱：被告酉○○表示
     是合法的，伊只知道外面有人把磚塊載運進去，伊不知道裡
-    面從事的工作為何云云；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />訊據被告甲○○固坦承在現場擔
+    面從事的工作為何云云；訊據被告甲○○固坦承在現場擔
     任把風工作，惟矢口否認有何違反廢棄物清理法之犯行，辯
     稱：伊不知道裡面的人在從事傾倒廢棄物的不法行為云云；
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />訊據被告巳○○固坦承駕駛曳引車前往現場整地，惟矢口
+    訊據被告巳○○固坦承駕駛曳引車前往現場整地，惟矢口
     否認有何違反廢棄物清理法之犯行，辯稱：現場堆了很多土
     石、垃圾，環保局的表示要將垃圾埋到土地下面，再把土石
     蓋在垃圾上面云云。另訊據被告丑○○、壬○○、地○○、
@@ -1236,7 +1129,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     材料、燃料、填土或其他經中央目的事業主管機關認定之用
     途行為，並應符合其規定者。是事業廢棄物之貯存、清除與
     處理，既有不同定義，適用時即不容混淆（最高法院99年度
-    臺上字第7463號判決意旨參照）。查，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />被告子○○於警詢
+    臺上字第7463號判決意旨參照）。查，被告子○○於警詢
     及本院準備程序中供稱：伊於99年5 月中旬開始受雇於被告
     酉○○，薪資一天是2,000 元，在現場開挖土機整地，現場
     原本整片都是垃圾，被告酉○○指示伊開挖土機將堆成類似
@@ -1249,18 +1142,18 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     因為當時只有壹臺怪手，伊把原本的凹地用之前傾倒的垃圾
     填平，因為還有很多地方要填平，伊不斷開怪手挖掘土地上
     的垃圾至需要填平的地方云云（見本院卷七，第175 頁反面
-    。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />被告地○○於偵查中供稱：伊於99年3 月份開始在大江
+    。被告地○○於偵查中供稱：伊於99年3 月份開始在大江
     購物中心的馬路中間空地指揮交通，一天的薪資是1,500 元
     云云，於本院準備程序中供稱：伊自99年3 月間受雇於被告
     酉○○，在現場負責指揮交通，砂石車有載運磚塊進來，現
     場本來有垃圾堆置，他們就是在現場進行整地工作，把地推
     平，垃圾就掩埋在下面云云（見99年度偵字第19020 號卷二
-    十，第29頁；本院卷二，第29頁反面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />被告戌○○於本
+    十，第29頁；本院卷二，第29頁反面）。被告戌○○於本
     院準備程序中供稱：伊從99年2 、3 月間受雇於被告酉○○
     ，在現場擔任把風工作，每日薪水為2,000 元，伊知道裡面
     在從事傾倒某些東西的不法行為，因為是不合法，才需要把
     風，此外，如果警察前來現場的話，也要通報裡面的人云云
-    （見本院卷一，第151 頁反面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />被告宙○○於警詢中供
+    （見本院卷一，第151 頁反面）。被告宙○○於警詢中供
     稱：伊於99年7 月2 日受雇於被告酉○○，現場是綽號「拐
     六」之人負責調度，伊聽從綽號「拐六」之人的指示，將垃
     圾填在磚塊的下方，再將地整平云云，於偵查中供稱：伊在
@@ -1272,20 +1165,20 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     圾，都是一般家庭廢棄的垃圾，垃圾是早就存放在現場的，
     用磚塊把垃圾蓋起來的目的在於便於清理云云（見99年度偵
     字第19020 號卷九，第15頁反面、第29至30頁；本院卷一，
-    第277 頁反面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />被告酉○○於偵查中供稱：垃圾是原本
+    第277 頁反面）。被告酉○○於偵查中供稱：垃圾是原本
     就有的，伊是用磚塊下去蓋的。伊有把路面的廢棄物往水池
     裡推，再把裡面填平云云（見99年度偵字第19020 號卷四之
     一，第277 頁），於本院準備程序及審理中供稱：伊是受託
     清除土地上堆置的垃圾並且整平，原本的垃圾往地面鋪，上
     面在用磚塊壓實云云（見本院卷一，第119 頁；本院卷六，
-    第78頁反面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />被告丑○○於本院準備程序中供稱：伊自
+    第78頁反面）。被告丑○○於本院準備程序中供稱：伊自
     99年2 月間受雇於被告酉○○在現場指揮交通、把風，薪水
     是每日領2,000 元，現場有人開怪手把垃圾掩埋，也有砂石
     車載運磚塊進來傾倒，原本現場都是垃圾，後來垃圾都就地
     掩埋云云（見本院卷二，第51頁）；於本院審理中以證人身
     份結證稱：現場的垃圾沒有載運出去，就是用磚塊與土蓋掉
     ，伊有看到怪手在現場一直來回推來推去等語（見本院卷六
-    ，第113 頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />被告巳○○於偵查及本院準備程序中供稱
+    ，第113 頁）。被告巳○○於偵查及本院準備程序中供稱
     ：伊從99年5 月開始在現場工作，伊有駕駛曳引車到現場整
     地，現場有很多土石、垃圾、磚塊，怪手把垃圾、磚角放到
     伊駕駛的砂石車上，伊就把這些東西傾倒在該地其他區域，
@@ -1963,7 +1856,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     爰不為沒收之諭知。
 八、不另為無罪諭知部分：
   (一)公訴意旨另略以：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />被告酉○○、辛○○均明知從事廢棄物清除、處理事務應向
+  被告酉○○、辛○○均明知從事廢棄物清除、處理事務應向
     直轄市、縣（市）主管機關或中央主管機關委託之機關申請
     核發公民營廢棄物清除、處理許可文件後，始得受託清除、
     處理廢棄物業務，且明知並未領有廢棄物清除、處理許可文
@@ -1976,7 +1869,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     駛挖土機將傾倒之廢棄物掩埋至845-8 地號土地，因認被告
     酉○○、辛○○涉犯廢棄物清理法第46條第1 項第4 款之罪
     嫌。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告酉○○、丑○○、申○○、黃○○均明知從事廢棄物清
+  被告酉○○、丑○○、申○○、黃○○均明知從事廢棄物清
     除、處理事務應向直轄市、縣（市）主管機關或中央主管機
     關委託之機關申請核發公民營廢棄物處理許可文件後，始得
     受託處理廢棄物業務，且明知並未領有廢棄物處理許可文件
@@ -1991,7 +1884,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     土地傾倒廢棄物，嗣被告等人即在上址將傾倒之廢棄物以非
     法方式回填，因認被告四人涉犯廢棄物清理法第46條第1 項
     第4 款之罪嫌。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />被告酉○○、丑○○、辰○○、張竣祥、乙○○、宙○○、
+  被告酉○○、丑○○、辰○○、張竣祥、乙○○、宙○○、
     甲○○、地○○、子○○、戌○○、天○○○、巳○○等人
     均明知未領有廢棄物清除、處理之許可文件，不得從事廢棄
     物之清除與處理，竟共同基於違法清除、處理廢棄物之犯意
@@ -2037,7 +1930,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     方法，無從說服法院以形成被告有罪之心證，基於無罪推定
     之原則，自應為被告無罪判決之諭知（最高法院76年台上字
     第4986號、92年台上字第128 號判例意旨參照)。
-  (三)公訴意旨<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />部分：
+  (三)公訴意旨部分：
   1.桃園縣大園鄉○○○段00000 地號之所有權人為癸○○，嗣
     該土地於98年11月10日經桃園縣大園鄉公所清潔隊勘查結果
     ，於上揭土地確發現事業廢棄物、廢塑膠、廢木板、疑似有
@@ -2109,7 +2002,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     資料無從查悉，依有疑唯利被告原則，尚無從認被告等人自
     承傾倒廢土乙情，推論被告酉○○、辛○○有傾倒廢棄物之
     行為，此部分罪嫌尚屬未足。
-  (四)公訴意旨<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />部分：
+  (四)公訴意旨部分：
   1.按廢棄物清理法所謂之「清除」指事業廢棄物之收集、運輸
     行為；至於「處理」則包含最終處置，即指衛生掩埋、封閉
     掩埋、安定掩埋或海洋棄置事業廢棄物之行為（最高法院99
@@ -2128,7 +2021,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     填、掩埋廢棄物情形，自無從認定被告酉○○、丑○○、黃
     ○○、申○○有起訴書所指「處理」廢棄物之行為，此部分
     犯行自屬不能證明。
-  (五)公訴意旨<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />部分：
+  (五)公訴意旨部分：
   1.坐落於桃園縣中壢市萬能段第17、18、34、34-1、35、38、
     39、40、41、44、132、134、135、136、137、138、139、
     140、141、142、143、144、145、147、148、149、150 、
@@ -2402,7 +2295,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     之認定，渠等自無與被告乙○○就傾倒廢棄物犯行成立共同
     正犯之可能。
   (六)按公訴人就被告犯罪事實，應負舉證責任，並提出證明之方
-    法，因此公訴人既就上開<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />之犯罪事實，未能盡提出證
+    法，因此公訴人既就上開至之犯罪事實，未能盡提出證
     據及說服之實質舉證責任，依其指出證明之方法，亦無從說
     服本法院以形成被告此部分有罪之心證，基於無罪推定之原
     則，本自應為被告酉○○、丑○○、辛○○、黃○○、申○
@@ -2439,17 +2332,17 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
 三、公訴人認被告酉○○、丑○○、巳○○等人涉犯上開罪嫌，
     無非以被告酉○○、丑○○、巳○○之供述、證人午○○、
     呂秀娟、王鳳蘭之證述、泰暘砂石場料品入庫日統計報表、
-    三聯單數張等為憑。然<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />訊據被告酉○○固坦承將砂石載運
+    三聯單數張等為憑。然訊據被告酉○○固坦承將砂石載運
     至泰暘砂石場，再以每立方公尺280 元至300 元不等之代價
     販售得款，然堅詞否認有何竊盜之舉，辯稱：伊是經過地主
-    戊○○等人同意，才將置放在土地上之砂石外運等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />訊
+    戊○○等人同意，才將置放在土地上之砂石外運等語；訊
     據被告巳○○固坦承曾駕駛曳引車前往現場，惟堅詞否認有
     何竊取砂石之行為，辯稱：伊沒有載運現場的土石前往泰暘
     砂石場，伊在大江購物中心旁土地現場負責載運土石到需要
     的地點，獲得約2 萬餘元工資，因為員警問伊如何取得2 萬
     餘元工資，伊有表示載運一趟可以獲得1,000 元，所以員警
     才說伊載運趟數有20多趟，但伊的意思是從別的地方載運砂
-    石至泰暘砂石場等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />訊據被告丑○○固坦承有在現場工
+    石至泰暘砂石場等語；訊據被告丑○○固坦承有在現場工
     作，負責指揮砂石車交通，然堅詞否認有何竊盜犯行，辯稱
     ：被告酉○○只有叫車子載運磚塊進來，伊不知道土石有被
     盜賣等語。至被告酉○○之辯護人則辯稱：被告酉○○將於
@@ -2574,7 +2467,7 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
     有所懷疑，而得確信其為真實之程度；此外復查無其他積極
     證據，足資證明被告等人有加重竊盜之犯行，既不能證明被
     告等人犯罪，核諸前揭說明，自應為被告等人無罪之諭知。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />、依職權檢舉犯罪部分：
+、依職權檢舉犯罪部分：
 一、丁○○涉犯事實欄一(三)之罪。
 二、王瑞麟、己○○、戊○○、辛○○、鄧誠傑、簡嘉瑋涉共犯
     事實欄一(五)之罪（其中一共犯宇○○已經檢察官為不起訴處
@@ -2759,86 +2652,12 @@ del 870 滑膛槍改良之霰彈槍壹枝（槍枝管制編號：0000000000
 傷害人之身體或健康者，處 3 年以下有期徒刑、拘役或 1 千元
 以下罰金。
 犯前項之罪因而致人於死者，處無期徒刑或 7 年以上有期徒刑
-；致重傷者，處 3 年以上 10 年以下有期徒刑。</pre>
-<!-- 原因：[性侵害] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTYD\CRIMINAL\10201\15\TYDM1021F.01T] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[9]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共22
-											筆 / 現在第9
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000767&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20130115%2c9&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1020115&jcheck=9">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20130115%2c9&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1020115&jcheck=9">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c767%2c20130115%2c9','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','767','1020115','9')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="9"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+；致重傷者，處 3 年以上 10 年以下有期徒刑。
+[*jrecno*]99,訴,767,20130115,9
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]訴
+[*jno*]767
+[*jdate*]1020115
+[*jcheck*]9

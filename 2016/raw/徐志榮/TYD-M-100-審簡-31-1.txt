@@ -1,142 +1,35 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-100審簡31</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第7
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e5%af%a9%e7%b0%a1&selectedCrmno=000031&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e5%af%a9%e7%b0%a1&jno=31&jdate=1000225&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e5%af%a9%e7%b0%a1&jno=31&jdate=1000225&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e5%af%a9%e7%b0%a1','31','1000225','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,審簡,31</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000225</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毀損等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事簡易判決　　　　 100年度審簡字第31號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e5%af%a9%e7%b0%a1&jno=31&jdate=1000225&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e5%af%a9%e7%b0%a1&selectedCrmno=000031&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e5%af%a9%e7%b0%a1&jno=31&jdate=1000225&jcheck=1
+[*裁判字號*]100,審簡,31
+[*裁判日期*]1000225
+[*裁判案由*]毀損等
+[*裁判全文*]臺灣桃園地方法院刑事簡易判決　　　　 100年度審簡字第31號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　陳偉佳
 上列被告因毀損等案件，經檢察官提起公訴（99年度偵字第1101
 4 號），被告自白犯罪，本院認為宜以簡易判決處刑，爰不經通
 常審判程序，逕以簡易判決處刑如下：
     主      文
-陳偉佳以加害生命之事，恐嚇他人致生危害於安全，處拘役<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾
+陳偉佳以加害生命之事，恐嚇他人致生危害於安全，處拘役拾
 日，如易科罰金，以新臺幣壹仟元折算壹日；又以加害身體之事
-，恐嚇他人致生危害於安全，處拘役<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾日，如易科罰金，以新
+，恐嚇他人致生危害於安全，處拘役拾日，如易科罰金，以新
 臺幣壹仟元折算壹日；又以加害生命之事，恐嚇他人致生危害於
-安全，處拘役<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾日，如易科罰金，以新臺幣壹仟元折算壹日；
-又共同以加害身體之事，恐嚇他人致生危害於安全，處拘役<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾
+安全，處拘役拾日，如易科罰金，以新臺幣壹仟元折算壹日；
+又共同以加害身體之事，恐嚇他人致生危害於安全，處拘役拾
 日，如易科罰金，以新臺幣壹仟元折算壹日；又以加害自由、財
-產之事，恐嚇他人致生危害於安全，處拘役<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾日，如易科罰金
+產之事，恐嚇他人致生危害於安全，處拘役拾日，如易科罰金
 ，以新臺幣壹仟元折算壹日；應執行拘役柒拾日，如易科罰金，
 以新臺幣壹仟元折算壹日。
     事實及理由
 一、本件證據部分除補充被告陳偉佳於本院準備程序時之自白及
-    告訴人<font color='red'>徐志榮</font>於本院準備程序時之指訴外，餘犯罪事實、證
+    告訴人徐志榮於本院準備程序時之指訴外，餘犯罪事實、證
     據均引用如附件檢察官起訴書所載。
 二、核被告所為，均係犯刑法第305 條之恐嚇危害安全罪。被告
     及郭展誠，就上開如附件起訴書之犯罪事實一(四)部分，有犯
     意之聯絡、行為之分擔，應依刑法第28條之規定，論以共同
     正犯。被告於上開如附件起訴書之犯罪事實一(一)、(二)、(五)部
-    分，接續以一行為同時對<font color='red'>徐志榮</font>及其家人、童湘韻為恐嚇危
+    分，接續以一行為同時對徐志榮及其家人、童湘韻為恐嚇危
     害安全之犯行，為想像競合犯，均應依刑法第55條規定，均
     應從一重之恐嚇危害安全罪處斷。爰審酌被告之犯罪動機、
     目的、手段、犯罪情節、犯後態度及其已與告訴人達成和解
@@ -144,9 +37,9 @@ function openwin(URL,arguments,width,height)
     折算標準，並定其應執行之刑，及諭知定執行刑後易科罰金
     之折算標準，以資懲儆。
 三、公訴意旨另以被告於如附件起訴書之犯罪事實一(三)、(四)所載
-    之時地對於被害人<font color='red'>徐志榮</font>為毀損部分，係涉犯刑法第354 條
+    之時地對於被害人徐志榮為毀損部分，係涉犯刑法第354 條
     之毀損罪嫌，惟依同法第357 條規定，須告訴乃論，茲據告
-    訴人<font color='red'>徐志榮</font>於本院準備程序中當庭撤回告訴，有本院民國99
+    訴人徐志榮於本院準備程序中當庭撤回告訴，有本院民國99
     年12月21日準備程序筆錄、刑事撤回告訴狀各1 份在卷可稽
     ，此罪本應為不受理判決，惟公訴人認被告所犯毀損罪與起
     訴論告之恐嚇危害安全罪有想像競合之裁判上一罪關係，爰
@@ -177,71 +70,71 @@ function openwin(URL,arguments,width,height)
 上列被告因妨害自由等案件，已經偵查終結，認應提起公訴，茲
 將犯罪事實及證據並所犯法條分敘如下：
         犯罪事實
-一、陳偉佳因不滿<font color='red'>徐志榮</font>積欠其賭債未償，竟分別基於恐嚇、毀
-    損犯意，對<font color='red'>徐志榮</font>為下述恐嚇、毀損等行為：
+一、陳偉佳因不滿徐志榮積欠其賭債未償，竟分別基於恐嚇、毀
+    損犯意，對徐志榮為下述恐嚇、毀損等行為：
   (一)自民國99年1月5日某不詳時間起，至同年2月間某不詳時間
-    止，以每天撥打10至20通電話至<font color='red'>徐志榮</font>家用電話00-0000000
-    號、持用手機門號0000000000號之方式，對<font color='red'>徐志榮</font>表示：如
-    不將賭債還清，要<font color='red'>徐志榮</font>及家人死得很難看等語，致<font color='red'>徐志榮
-    </font>因而心生畏怖。
-  (二)於99年2月農曆過年前某不詳時間，由<font color='red'>徐志榮</font>住家地下室搭
-    乘電梯至<font color='red'>徐志榮</font>位於桃園縣蘆竹鄉○○村○○路123之5號2
-    樓住處，以猛按門鈴及敲打、腳踢大門方式，逼使<font color='red'>徐志榮</font>出
-    面清償賭債，致住居於上開處住之<font color='red'>徐志榮</font>及家人均心生恐懼
+    止，以每天撥打10至20通電話至徐志榮家用電話00-0000000
+    號、持用手機門號0000000000號之方式，對徐志榮表示：如
+    不將賭債還清，要徐志榮及家人死得很難看等語，致徐志榮
+    因而心生畏怖。
+  (二)於99年2月農曆過年前某不詳時間，由徐志榮住家地下室搭
+    乘電梯至徐志榮位於桃園縣蘆竹鄉○○村○○路123之5號2
+    樓住處，以猛按門鈴及敲打、腳踢大門方式，逼使徐志榮出
+    面清償賭債，致住居於上開處住之徐志榮及家人均心生恐懼
     。
   (三)於99年3月2日下午4時45分許，在桃園縣蘆竹鄉○○路○○
-    路段，駕駛車號不詳之自用小客車，強將<font color='red'>徐志榮</font>所駕駛之車
-    牌5485-VU號自用小客車攔停，隨即持高爾夫強桿下車對<font color='red'>徐
-    志榮</font>稱：拿出新臺幣(下同) 20萬元，不然要<font color='red'>徐志榮</font>死等語
-    ，致<font color='red'>徐志榮</font>心生恐懼，其後俟機駕車離開，陳偉佳見狀，竟
-    持高爾夫球桿敲打<font color='red'>徐志榮</font>所駕自用小客車之前引擎蓋，致引
-    擎蓋因而凹陷，足生損害於<font color='red'>徐志榮</font>。陳偉佳旋即駕車尾隨<font color='red'>徐
-    志榮</font>所駕之車，並在後方以鳴按喇叭方式追逐，致<font color='red'>徐志榮</font>心
+    路段，駕駛車號不詳之自用小客車，強將徐志榮所駕駛之車
+    牌5485-VU號自用小客車攔停，隨即持高爾夫強桿下車對徐
+    志榮稱：拿出新臺幣(下同) 20萬元，不然要徐志榮死等語
+    ，致徐志榮心生恐懼，其後俟機駕車離開，陳偉佳見狀，竟
+    持高爾夫球桿敲打徐志榮所駕自用小客車之前引擎蓋，致引
+    擎蓋因而凹陷，足生損害於徐志榮。陳偉佳旋即駕車尾隨徐
+    志榮所駕之車，並在後方以鳴按喇叭方式追逐，致徐志榮心
     生畏佈，直至駛抵桃園縣政府警察局蘆竹分局南崁派出所前
     ，陳偉佳始悻然離去。
-  (四)於99年3月13日晚間11時許，趁<font color='red'>徐志榮</font>駕駛車牌5485-VU號自
+  (四)於99年3月13日晚間11時許，趁徐志榮駕駛車牌5485-VU號自
     用小客車於桃園縣蘆竹鄉○○路○段78號前停等紅燈時，自
     郭展誠(涉犯共同恐嚇、毀損部分，另簽分偵辦)所駕駛，併
-    排停等於<font color='red'>徐志榮</font>所駕自用小客車旁之車牌不詳自用小客車內
-    ，持高爾夫球桿自車窗探出，敲打<font color='red'>徐志榮</font>所駕自用小客車之
-    後車廂，致該後車箱鈑金凹陷不堪使用，足生損害於<font color='red'>徐志榮
-    </font>，並令<font color='red'>徐志榮</font>因而心生恐懼。
-  (五)於99年初某不詳時間，至<font color='red'>徐志榮</font>妻童湘韻工作之桃園縣蘆竹
+    排停等於徐志榮所駕自用小客車旁之車牌不詳自用小客車內
+    ，持高爾夫球桿自車窗探出，敲打徐志榮所駕自用小客車之
+    後車廂，致該後車箱鈑金凹陷不堪使用，足生損害於徐志榮
+    ，並令徐志榮因而心生恐懼。
+  (五)於99年初某不詳時間，至徐志榮妻童湘韻工作之桃園縣蘆竹
     鄉○○○路上某檳榔攤2次，以限制童湘韻離開檳榔攤之方
-    式(涉犯妨害自由部分，未據提出告訴)，對童湘韻稱：倘<font color='red'>徐
-    志榮</font>不出面處理賭債，或童湘韻不協助找<font color='red'>徐志榮</font>到場處理賭
+    式(涉犯妨害自由部分，未據提出告訴)，對童湘韻稱：倘徐
+    志榮不出面處理賭債，或童湘韻不協助找徐志榮到場處理賭
     債，就不讓童湘韻返家，並要小混混砸毀檳榔攤等語，致童
     湘韻心生畏懼。
-二、案經<font color='red'>徐志榮</font>訴由桃園縣政府警察局蘆竹分局報告偵辦。
+二、案經徐志榮訴由桃園縣政府警察局蘆竹分局報告偵辦。
         證據並所犯法條
 一、證據清單
 ┌──┬────────┬──────────────┐
 │編號│   證據名稱     │          待證事項          │
 ├──┼────────┼──────────────┤
 │ 1  │被告陳偉佳於警詢│(1) 99年農曆過年前後，以撥打│
-│    │及偵查中之供述。│    電話方式向告訴人<font color='red'>徐志榮</font>催│
+│    │及偵查中之供述。│    電話方式向告訴人徐志榮催│
 │    │                │    討賭債。                │
 │    │                │(2) 99年2月農曆過年前，曾至 │
-│    │                │    <font color='red'>徐志榮</font>住所按門鈴催討賭債│
+│    │                │    徐志榮住所按門鈴催討賭債│
 │    │                │    。                      │
 │    │                │(3) 99年3月2日下午4時45分許 │
 │    │                │   ，在桃園縣蘆竹鄉○○路， │
 │    │                │   駕駛車號不詳之自用小客車 │
-│    │                │   攔截<font color='red'>徐志榮</font>所駕之車牌5485-│
+│    │                │   攔截徐志榮所駕之車牌5485-│
 │    │                │    VU號自用小客，隨即持高爾│
-│    │                │   夫球桿下車，砸毀<font color='red'>徐志榮</font>所 │
+│    │                │   夫球桿下車，砸毀徐志榮所 │
 │    │                │   駕自用小客車之前引擎蓋。 │
 │    │                │(4) 99年3月13日晚間11時許， │
 │    │                │   於桃園縣蘆竹鄉○○路○段 │
 │    │                │   78號前，持高爾夫球桿揮打 │
-│    │                │   <font color='red'>徐志榮</font>所駕之上開自用小客 │
+│    │                │   徐志榮所駕之上開自用小客 │
 │    │                │   車後車箱。               │
 │    │                │(5)於99年初某不詳時間，至被 │
 │    │                │   害人童湘韻工作之檳榔攤， │
 │    │                │   要被害人找告訴人出面處理 │
 │    │                │   賭債。                   │
 ├──┼────────┼──────────────┤
-│    │告訴人<font color='red'>徐志榮</font>於警│犯罪事實全部。              │
+│    │告訴人徐志榮於警│犯罪事實全部。              │
 │ 2  │詢及偵查中之指訴│                            │
 │    │。              │                            │
 │    │                │                            │
@@ -294,86 +187,12 @@ function openwin(URL,arguments,width,height)
 中華民國刑法第354條
 毀棄、損壞前二條以外之他人之物或致令不堪用，足以生損害於
 公眾或他人者，處 2 年以下有期徒刑、拘役或 5 百元以下罰金
-。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10002\25\TYDM1002P.036] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第7
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e5%af%a9%e7%b0%a1&selectedCrmno=000031&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e5%af%a9%e7%b0%a1&jno=31&jdate=1000225&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e5%af%a9%e7%b0%a1&jno=31&jdate=1000225&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e5%af%a9%e7%b0%a1%2c31%2c20110225%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e5%af%a9%e7%b0%a1','31','1000225','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="徐志榮">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="徐志榮">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+。
+[*jrecno*]100,審簡,31,20110225,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]審簡
+[*jno*]31
+[*jdate*]1000225
+[*jcheck*]1

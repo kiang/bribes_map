@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-91訴1260</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第4
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=001260&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c1260%2c20030710%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=1260&jdate=920710&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c1260%2c20030710%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=1260&jdate=920710&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c1260%2c20030710%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','1260','920710','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">91,訴,1260</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">920710</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反選舉罷免法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　　　　　　九十一年度訴字第一二六Ｏ號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c1260%2c20030710%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=1260&jdate=920710&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=001260&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c1260%2c20030710%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=1260&jdate=920710&jcheck=1
+[*裁判字號*]91,訴,1260
+[*裁判日期*]920710
+[*裁判案由*]違反選舉罷免法
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　　　　　　九十一年度訴字第一二六Ｏ號
 　　公　訴　人　臺灣桃園地方法院檢察署檢察官
 　　被　　　告　丙○○○
 　　　　　　　　甲○○○
@@ -212,7 +105,7 @@ function openwin(URL,arguments,width,height)
     給一千元工資，並非買票賄選，也沒有要求發傳單之人要投票給黃國瑞等語；被
     告甲○○○、辛○○均辯稱：伊等是找人發黃國瑞之文宣，給的錢是工資，不是
     買票的賄款，也沒有要求發傳單之人要選黃國瑞等語。經查：
-    （一）證人即負責桃園市埔子區執行長乙○○於<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />調查局調查時證述：「在本次
+    （一）證人即負責桃園市埔子區執行長乙○○於調查局調查時證述：「在本次
           桃園市市長選舉中，前桃園市婦女會理事長丙○○○曾拜託我協助桃園市
           長候選人黃國瑞發放文宣及找尋發放文宣人員，‧‧‧基於同事情誼，我
           除曾親自替黃國瑞發放文宣外，另找尋鄰居多人替黃國瑞找尋發放文宣的
@@ -233,13 +126,13 @@ function openwin(URL,arguments,width,height)
           因我等發放文宣當天均於八時三十分在蓮華寺報到，並由我親自點名，文
           宣發放期間我亦會騎機車巡視渠等文宣發放情形，俟文宣發放完畢後，我
           會向渠等取回宣傳背心等物，因此我確定有領取工錢之人員均有參加文宣
-          發放。」等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />復於偵查中證述：「（問：一月三日該次找多少人？）
+          發放。」等語；復於偵查中證述：「（問：一月三日該次找多少人？）
           找七十六人。」、「（問：發到何時？）早上八點半至十二點左右，有的
           還發到一點多。」、「（問：領多少錢？）每人五百元，七十六個人都是
           領五百元。」、「（問：每人發放文宣數？）每人三百至四百份以上。」
           、「（問：監督否？）我有騎機車去看看有無發。」、「（問：第二次（
           九十一年一月十五日）找多少人？）五十人，發一整天，工資一千元。工
-          資也沒全部當天發，有的隔天發。」等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />嗣於本院調查時亦證述：「
+          資也沒全部當天發，有的隔天發。」等語；嗣於本院調查時亦證述：「
           （問：你找了幾個人？）第一次要找八十個人，但是我找了七十六個人左
           右。」、「（問：你找到這些人如何跟他們說？）我說找他們發文宣。」
           、「（問：發文宣有無酬勞？）有。」、「（問：工資如何計算？）第一
@@ -257,7 +150,7 @@ function openwin(URL,arguments,width,height)
           百元。」、「（問：第一次發文宣的份數？）很多，有好幾萬份。」、「
           （問：第二次發文宣的份數？）也是一樣，是比第一次少一點點，但那次
           我們是發一天。」等語。
-    （二）又證人即負責桃園市會稽區執行長戊○○於<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />調查局調查時證述：「（問
+    （二）又證人即負責桃園市會稽區執行長戊○○於調查局調查時證述：「（問
           ：妳有無幫黃國瑞散發文宣？）有的。」、「（問：散發文宣幾次？日期
           為何？）二次，分別於九十一年元月初及元月中旬。」、「丙○○○曾透
           過卓林秀蘭通知我二次，找人發文宣，我接獲通知，並於當日上午八時三
@@ -269,9 +162,9 @@ function openwin(URL,arguments,width,height)
           了十餘人發文宣‧‧‧。」、三人發文宣品，‧‧‧‧‧‧該次本區共找
           了十餘人發文宣‧‧‧。」、「參加散發文宣人員每人每日新台幣一千元
           ‧‧‧‧。」、「‧‧‧但事後我均有電詢參加人員，渠等參加人員表示
-          均有實際從事散發文宣之工作。」等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />復於偵查中證述：「（問：負
+          均有實際從事散發文宣之工作。」等語；復於偵查中證述：「（問：負
           責何部分？）第五區，有十三里。」、「我找的不限里民，是經濟困難、
-          老實會做事的，我找印尼人。」等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />嗣於本院調查時證述：「（問：
+          老實會做事的，我找印尼人。」等語；嗣於本院調查時證述：「（問：
           幫誰發文宣？）黃國瑞。」、「（問：為何會去幫忙發文宣？）因為理事
           長（指丙○○○）要我幫忙找人發。」、「（問：他找你時如何說？）他
           是打電話告訴我要找人發文宣，我就說好。」、「（問：一共找人發幾次
@@ -280,7 +173,7 @@ function openwin(URL,arguments,width,height)
           還有無要求要做何事？）無，只有發文宣。」、「（問：如何確認有找來
           的人確實有去發文宣？）我有打電話問成功里的二個人，他們是我找的，
           也有請他們再找人。我會找老實的人來。」等語。
-    （三）再證人即負責桃園市中路區執行長壬○○<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />於調查局調查時證述：「是吳
+    （三）再證人即負責桃園市中路區執行長壬○○於調查局調查時證述：「是吳
           傅謹芳通知我找人為候選人黃國瑞發文宣品‧‧‧」、  「我負責開拓中
           路區（共有十七里）票源。」、「丙○○○有二次通知我找人發文宣品，
           並於當日上午八十三十分在桃園市水利會門口集合領取文宣品，第一次是
@@ -292,7 +185,7 @@ function openwin(URL,arguments,width,height)
           珠、陳妍延等及我本人找人，共找了五十一人發文宣。」  、「每人每日
           新台幣一千元‧‧‧‧‧我即於次日陸續將酬勞交付給前述謝素玉、呂寶
           桂、戴林素霞、林曾麗環、魏蔡碧珠、陳妍延等人轉發給當日有去發文宣
-          品的人。」等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />復於偵查中證述：「二次。真正是發文宣，分別是元
+          品的人。」等語；復於偵查中證述：「二次。真正是發文宣，分別是元
           月三日、元月十五日。」、「（問：元月三日該次有多少人去發文宣？）
           我這區八十五個‧‧‧‧第二次是五十一人‧‧」、「（問：發文宣酬勞
           ？）有一千元。」、「（問：一人發多少？）不一定，發完後再回來拿。
@@ -300,7 +193,7 @@ function openwin(URL,arguments,width,height)
           何找來？）婦女會每里有幹部，由幹部找里民，有空就來發。」、「（問
           ：一定須住桃市？）不一定，有空便可來發文宣。」、  「‧‧幹部會帶
           著發，並騎機車稍微去巡一下。」、「‧‧發的方式是見人就發或投信箱
-          。我想他們都有發，因人是幹部找來的。」等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />嗣於本院調查時亦證
+          。我想他們都有發，因人是幹部找來的。」等語；嗣於本院調查時亦證
           述：「（問：你共找幾次？）二次，第一次找了八十多人，第二次找了五
           十多人。」、「（問：丙○○○除了找你找人發文宣外，有無叫你告訴他
           人要做何事？）無。」、「（問：對找來的這些人，你是如何告訴他們的
@@ -342,7 +235,7 @@ function openwin(URL,arguments,width,height)
           九時起發至下午五、六時止），發半日領五百元工資，發一日則領一千元
           工資，均無要求其等要投票給黃國瑞等語（證詞詳見附表一編號一至三四
           Ｏ號），核與證人乙○○、戊○○、壬○○、庚○○之證詞吻合。
-    是<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />核諸證人乙○○、戊○○、壬○○、庚○○及如附表一編號一至三四Ｏ號游
+    是核諸證人乙○○、戊○○、壬○○、庚○○及如附表一編號一至三四Ｏ號游
     彭惠連等證人之證詞，堪認被告丙○○○、甲○○○、辛○○三人交付半日五百
     元、一日一千元，係屬工資，而非藉此行賄，且附表一所示編號一至三四Ｏ號游
     彭惠連等證人，均一致證述無人要渠等投票給桃園市長候選人黃國瑞，可見渠等
@@ -350,7 +243,7 @@ function openwin(URL,arguments,width,height)
     發放傳單之人投票予黃國瑞。況競選期間臨時找人發放傳單，工資半日以五百元
     計、一日以一千元計，對價關係衡屬相當，並無偏高不合常情之處。是被告丙○
     ○○等三人辯稱伊等是找人去發放黃國瑞之文宣，給的錢是工資，不是買票的賄
-    款，也沒有要求發傳單之人要選黃國瑞等語，應可採信。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />又於偵查中到場應訊
+    款，也沒有要求發傳單之人要選黃國瑞等語，應可採信。又於偵查中到場應訊
     者，均無行動不便之人，僅有公訴人將七十四歲之楊林迎、七十三歲之李廖勤、
     七十七歲之林永、七十三歲之朱根弟、八十一歲之夏方信華拍照附卷（見九十一
     年度選他字第一一六號偵查卷一第一四Ｏ頁、一七一頁背面、一八三頁、卷二第
@@ -371,7 +264,7 @@ function openwin(URL,arguments,width,height)
     發文宣之人所收取的錢，顯然無相當對價關係。又被告等人所稱之「工資」，大
     部分係由桃園市婦女會理、監事或委由他人於隔日後送至選民府上，如此禮遇僱
     工，世所罕見，凡此均與民間一般僱工派分傳單之作法迥異，被告等人欲藉走路
-    工之名討好選民之心，已昭然若揭。』為由臆測之，尚屬無據。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />再公訴人認『
+    工之名討好選民之心，已昭然若揭。』為由臆測之，尚屬無據。再公訴人認『
     名冊內之證人薛正吉、詹周幼、洪明月、楊金珠、陳美倫、廖靜枝等人均到庭證
     稱：其等未發文宣，亦未領款等語後，被告等復改稱：楊金珠、陳美倫、廖靜枝
     等人係誤載，並未發放傳單，而薛正吉、詹周幼二人確曾參加發放文宣工作，洪
@@ -383,7 +276,7 @@ function openwin(URL,arguments,width,height)
     冊有無誤載，證人薛正吉、詹周幼、洪明月、楊金珠、陳美倫、廖靜枝等人於偵
     查中均未證述其等未發文宣而有領錢之情事，是自不足以證明被告丙○○○假借
     發傳單之名義行賄選之實。
-    （六）況<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人即黃國瑞競選總部宣傳組人員己○○於本院調查時證述：「（問
+    （六）況證人即黃國瑞競選總部宣傳組人員己○○於本院調查時證述：「（問
           ：如何發放文宣？）桃園我們分成五區，再依人口數比率發放文宣。我們
           找的人都不一定，有時候我們會貼大字報找人發文宣，有時有的人會來競
           選總部說要報名發文宣，有的是朋友會介紹人來，我們也會找婦女會等團
@@ -396,7 +289,7 @@ function openwin(URL,arguments,width,height)
           我把文宣載到一個定點，如朝陽公園旁，我把文宣放在該處，會有人來處
           理文宣的發放。」、「（問：丙○○○負責發放文宣的地點？）我記得曾
           將文宣載到民眾服務社、朝陽公園旁、蓮華寺、中路區水利會‧‧‧」等
-          語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人即黃國瑞競選總部載文宣司機郭進長於本院調查時證述：「（
+          語；證人即黃國瑞競選總部載文宣司機郭進長於本院調查時證述：「（
           問：有無載文宣給丙○○○？）我載過到的地方有建國國小、水利會、蓮
           華寺、朝陽公園，時間久了，有的我已記不得。」、「（問：載文宣到特
           定地點後，何人在現場處理？）我載到後，看到很多人在那，我文宣載到
@@ -420,13 +313,13 @@ function openwin(URL,arguments,width,height)
           報酬、黃國瑞總部支付第二次（即一月十五日）發文宣之人員報酬，其方
           式與黃國瑞總部之作業模式相同，是在無積極證據之情形下，逕將支付酬
           勞與買票賄選劃上等號，顯有可議。
-    （七）再證人即黃國瑞之舅舅丁○○於<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />調查局調查時證述：「‧‧‧‧曾提供
+    （七）再證人即黃國瑞之舅舅丁○○於調查局調查時證述：「‧‧‧‧曾提供
           經費委託婦女會的幹部代為發放文宣品。」、「我曾於九十一年一月初支
           付新台幣三十萬五千元現金給丙○○○，要求渠發動所屬婦女會成員替
           黃國瑞發放文宣品，並答應在事前給予每日每人一千元之費用，‧‧‧‧
           另外在九十一年一月中旬亦曾發動婦女會及婦工會成員分送文宣品‧‧‧
           ‧」、「‧‧‧此筆錢是請丙○○○替黃國瑞找人來發文宣品及宣傳‧‧
-          ‧」、「前述費用的確是發放文宣品的工資‧‧。」等語，<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />復於偵查中
+          ‧」、「前述費用的確是發放文宣品的工資‧‧。」等語，復於偵查中
           證述：「（問：如何輔選？）推薦黃國瑞，及拜託婦女會丙○○○找婦女
           會的人去六十九個里發文宣，而工資是我贊助的。」、「（問：工資如何
           計算？）一天一千元，半天五百元。但人不好找，找不到人，沒有人會白
@@ -437,7 +330,7 @@ function openwin(URL,arguments,width,height)
           。我交芳三十萬五千元元，後來退四萬八千五百元」、「‧‧‧但第二次
           我還拜託她，第二次是發二份文宣。」、「‧‧我委請芳叫婦女會有空的
           人替瑞發文宣，但發到何情況，我不知道。」、「（問：錢源？）我自己
-          樂捐的。」、「發文宣一定要有工資。」等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />嗣於本院調查時亦證述
+          樂捐的。」、「發文宣一定要有工資。」等語；嗣於本院調查時亦證述
           ：「我沒有在競選總部工作，黃國瑞是我妹妹的兒子，我是看他有很多文
           宣沒有發，我就請被告丙○○○幫忙發文宣。」、「（問：為何找吳傅謹
           芳幫忙發文宣？）因她曾當婦女會理事長，她認識的人多。」、「費用一
@@ -451,17 +344,17 @@ function openwin(URL,arguments,width,height)
           賄選」之動機存在，益見被告丙○○○辯稱：是丁○○拜託伊找人發放黃
           國瑞之文宣，發半天給五百元工資，發一天給一千元工資，並非買票賄選
           ，也沒有要求發傳單之人要投票給黃國瑞等語，並非無稽，堪予採信。
-    （八）又查<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />一月三日、一月十五日發放傳單之人，其中二次均有發放傳單者共
+    （八）又查一月三日、一月十五日發放傳單之人，其中二次均有發放傳單者共
           有八十八位（詳見附表二），業據附表二之證人刑陳玉露等人於偵查中證
           述在卷（其等證詞詳見附表一），並有九十一年一月三日、一月十五日名
-          冊各一份在卷足憑；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />另附表一編號２３７甲００（七十四年七月十七日
+          冊各一份在卷足憑；另附表一編號２３７甲００（七十四年七月十七日
           生，見九十一年度選他字第一一六號卷一第九十七頁背面）、編號３１Ｏ
           乙００（七十四年九月二十二日生，見九十一年度選他字第一一六號卷二
           第二一三頁）、編號１２Ｏ丙００（七十二年十二月十九日生，見九十一
           年度選他字第一一六號卷三第二二九頁背面）均為未成年人，此有身分證
-          正、反面影本各三紙在卷足佐；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />又附表一編號２８１葉瑞杜為印尼人、
+          正、反面影本各三紙在卷足佐；又附表一編號２８１葉瑞杜為印尼人、
           編號１４９桃金菁為越南人，此有其等中華民國外僑居留證各一紙為證（
-          見九十一年度選他字第一一六號卷一第一四Ｏ頁、第二一Ｏ頁背面）；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />
+          見九十一年度選他字第一一六號卷一第一四Ｏ頁、第二一Ｏ頁背面）；
           且附表一編號１１３蔡寶玉（設籍雲林縣，見九十一年度選他字第一一六
           號卷一第九六頁）、編號１８８何劉阿里（設籍台北縣三峽鎮，見九十一
           年度選他字第一一六號卷一第一九一頁、一九二頁）、編號１９１陳黃美
@@ -746,7 +639,7 @@ function openwin(URL,arguments,width,height)
 │  │        │        │        │      │有要我支持黃國瑞。
 ├─┼────┼────┼────┼───┼───────────────
 │２│        │        │一月十五│      │從早上八時許發傳單至晚上六時結
-│５│陳<font color='red'>王惠美</font>│曾美琪  │日      │一千元│，共發二天，發完再回去拿傳單。
+│５│陳王惠美│曾美琪  │日      │一千元│，共發二天，發完再回去拿傳單。
 │  │        │        │        │      │有要我支持黃國瑞。
 ├─┼────┼────┼────┼───┼───────────────
 │３│        │        │一月三日│      │從早上八時許發傳單至晚上六時結
@@ -2222,86 +2115,11 @@ function openwin(URL,arguments,width,height)
 臺灣高等法院。
                                     書記官   孫立文
 中        華        民        國   九十二   年   七   月    十七    日
-</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[Z:\Judday\NOK\LAWTYD\CRIMINAL\9207\18\TYDM927I.015] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第4
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=001260&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c1260%2c20030710%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=1260&jdate=920710&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c1260%2c20030710%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=1260&jdate=920710&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c1260%2c20030710%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','1260','920710','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王惠美">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王惠美">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]91,訴,1260,20030710,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]91
+[*jcase*]訴
+[*jno*]1260
+[*jdate*]920710
+[*jcheck*]1

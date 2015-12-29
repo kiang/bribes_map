@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-臺南分院-刑-104上訴264</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 臺南分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000264&selectedCrtid=TNH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=264&jdate=1040819&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=264&jdate=1040819&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1','TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','264','1040819','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,上訴,264</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040819</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院臺南分院刑事判決　　　　104年度上訴字第264號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=264&jdate=1040819&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000264&selectedCrtid=TNH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=264&jdate=1040819&jcheck=1
+[*裁判字號*]104,上訴,264
+[*裁判日期*]1040819
+[*裁判案由*]毒品危害防制條例等
+[*裁判全文*]臺灣高等法院臺南分院刑事判決　　　　104年度上訴字第264號
 上　訴　人　臺灣嘉義地方法院檢察署檢察官
 上　訴　人
 即　被　告　吳丁旭
@@ -131,7 +24,7 @@ function openwin(URL,arguments,width,height)
     聯絡後，分別於如附表一、二所示之時間、地點，販賣第一
     級毒品海洛因予如附表一所示之購毒者陳榆臻二次、販賣第
     二級毒品甲基安非他命予如附表二所示之購毒者楊賜聰、蔡
-    順和、<font color='red'>陳長發</font>、蔡志成、陳榆臻共十九次（各次販賣之交易
+    順和、陳長發、蔡志成、陳榆臻共十九次（各次販賣之交易
     時間、地點、對象、金額、毒品種類等，均詳如附表一、二
     所示）。嗣經警循線查獲上情，吳丁旭並於偵查及審判中均
     自白如附表一、二所示各次販賣第一、二級毒品之事實。
@@ -188,7 +81,7 @@ function openwin(URL,arguments,width,height)
     頁、第188至194頁），核與證人即購毒者陳榆臻於警詢時（
     警卷一第7至9頁）、楊賜聰於警詢、偵查時（警卷二第22至
     25頁；偵卷第106至107頁）、蔡順和於警詢、偵查時（警卷
-    二第16頁；偵卷第136 頁）、<font color='red'>陳長發</font>於警詢、偵查時（警卷
+    二第16頁；偵卷第136 頁）、陳長發於警詢、偵查時（警卷
     二第11頁至第12頁反面；偵卷第159頁正反面、第173頁正反
     面、第218至219頁）、蔡志成於原審審理時（原審卷第74頁
     正反面）、證人即受讓毒品者劉國標於警詢、偵查時（警卷
@@ -398,22 +291,22 @@ function openwin(URL,arguments,width,height)
     無理由，應予駁回。
 四、不另為無罪諭知部分：
   (一)公訴意旨另以：被告於102年9月27日、同年 9月28日、同年
-    10月3日、同年10月8日，除販賣甲基安非他命予<font color='red'>陳長發</font>外（
+    10月3日、同年10月8日，除販賣甲基安非他命予陳長發外（
     即如附表二編號 3(1)、(2)、(4)、(5)所示有罪部分），亦同時
-    販賣海洛因予<font color='red'>陳長發</font>（即如附表五編號1 所示四次犯行）。
+    販賣海洛因予陳長發（即如附表五編號1 所示四次犯行）。
     因認被告就附表五編號1 所示四次行為，均涉犯毒品危害防
     制條例第4條第1項之販賣第一級毒品罪嫌等語。
   (二)公訴意旨認被告涉有如附表五編號1 所示各次販賣海洛因犯
-    行，係以證人即購毒者<font color='red'>陳長發</font>於警詢、偵查時之證述、通訊
+    行，係以證人即購毒者陳長發於警詢、偵查時之證述、通訊
     監察譯文等為其主要論據。惟訊據被告堅決否認有於附表五
-    編號1 所示時、地販賣海洛因予<font color='red'>陳長發</font>之事，辯稱：伊雖有
-    於如附表五編號1 所示之時、地與<font color='red'>陳長發</font>見面交易毒品，然
-    僅販賣甲基安非他命予<font color='red'>陳長發</font>，並未販賣海洛因等語。
+    編號1 所示時、地販賣海洛因予陳長發之事，辯稱：伊雖有
+    於如附表五編號1 所示之時、地與陳長發見面交易毒品，然
+    僅販賣甲基安非他命予陳長發，並未販賣海洛因等語。
   (三)經查：
   1.被告迭於警詢、偵查、原審及本院時，均坦承有販賣甲基安
-    非他命予<font color='red'>陳長發</font>，惟堅決否認有販賣海洛因予<font color='red'>陳長發</font>之情事
-    ，其就同一情節所為之供述一致，並無矛盾。反觀就證人<font color='red'>陳
-    長發</font>對於在如附表五編號1 所示之時、地與被告見面並交易
+    非他命予陳長發，惟堅決否認有販賣海洛因予陳長發之情事
+    ，其就同一情節所為之供述一致，並無矛盾。反觀就證人陳
+    長發對於在如附表五編號1 所示之時、地與被告見面並交易
     毒品細節之歷次證述內容觀之，其於103年1月23日警詢及偵
     訊時係稱：伊均是向被告購買海洛因，有於102年9月27日、
     102年9月28日、102年10月3日、102年10月8日向被告購買等
@@ -454,23 +347,23 @@ function openwin(URL,arguments,width,height)
     開始怕說出自己有販賣甲基安非他命，所以才講跟被告有購
     買海洛因？）應該是因伊一開始怕說出自己有販賣甲基安非
     他命，所以才講跟被告購買海洛因等語（原審卷第95頁反面
-    至第97頁反面）。經細繹證人<font color='red'>陳長發</font>上開供證內容，不僅前
+    至第97頁反面）。經細繹證人陳長發上開供證內容，不僅前
     後不一，且無法明確指出究係於何時、地向被告購買海洛因
     ，嗣於原審所證，更有因害怕自己所涉販賣甲基安非他命犯
     行遭追查，而將向被告購買之甲基安非他命轉而謊稱為海洛
-    因之動機。故證人<font color='red'>陳長發</font>上開所述各節，就被告所涉法定刑
+    因之動機。故證人陳長發上開所述各節，就被告所涉法定刑
     度為死刑、無期徒刑之販賣第一級毒品犯嫌而言，顯然證明
     力過低，無法遽採為不利被告之認定，至為灼然。
   2.另觀諸檢察官所提出之相關通訊監察譯文（偵卷第187 頁反
     面、第188頁反面、第189頁反面、第191 頁正面），雙方通
     話內容均甚為短促，除雙方互約見面、見面之地點外，別無
     其他內容，遑論有何關於毒品之種類、金額等交易內容，且
-    被告亦僅承認該等通訊監察譯文係其與<font color='red'>陳長發</font>約定交易甲基
+    被告亦僅承認該等通訊監察譯文係其與陳長發約定交易甲基
     安非他命事宜時所為之談話內容，故由上開通訊監察譯文，
-    亦無法得知被告有販賣海洛因予<font color='red'>陳長發</font>之情事，自難憑此而
+    亦無法得知被告有販賣海洛因予陳長發之情事，自難憑此而
     為不利被告之認定。
   (四)據上所述，本件有關被告涉嫌於如附表五編號1 所示四次時
-    、地販賣海洛因予<font color='red'>陳長發</font>之事實，除證人<font color='red'>陳長發</font>上開有瑕疵
+    、地販賣海洛因予陳長發之事實，除證人陳長發上開有瑕疵
     之指證外，實乏其他明確之積極證據予以補強，以擔保其證
     述之真實性，依罪疑惟輕及無罪推定原則，自難僅憑該單一
     有瑕疵之證詞，即遽認被告涉有公訴意旨所指如附表五編號
@@ -506,7 +399,7 @@ function openwin(URL,arguments,width,height)
     。本件此部分因認證據不足證明被告有罪，而應為被告無罪
     之判決（詳如下述），故關於以下所引傳聞證據是否例外具
     有證據能力乙節，本院不另說明，先此敘明。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />、次按犯罪事實應依證據認定之，無證據不得認定犯罪事實；
+、次按犯罪事實應依證據認定之，無證據不得認定犯罪事實；
     不能證明被告犯罪者，應諭知無罪之判決，刑事訴訟法第15
     4條第2項、第301條第1項分別定有明文。又事實之認定，應
     憑證據，如未能發現相當證據，或證據不足以證明，自不能
@@ -697,7 +590,7 @@ function openwin(URL,arguments,width,height)
 │號│      │                │（新臺幣）│從刑）                │
 ├─┼───┼────────┼─────┼───────────┤
 │1 │楊賜聰│(1)102 年9 月30日│5千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  14時1 分許／南│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  14時1 分許／南│收取，未扣│累犯，處有期徒刑年拾│
 │  │      │  投縣○○鎮○○│案）      │月。附表四所示之物沒收│
 │  │      │  街            │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
@@ -706,52 +599,52 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(2)102 年10月4 日│5千元（賒 │吳丁旭販賣第二級毒品，│
-│  │      │  21時33分許／南│欠）      │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  21時33分許／南│欠）      │累犯，處有期徒刑年拾│
 │  │      │  投縣○○鎮○○│          │月。附表四所示之物沒收│
 │  │      │  街、○○路之交│          │，如全部或一部不能沒收│
 │  │      │  岔路口        │          │時，追徵其價額。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(3)102 年10月12日│5千元（賒 │吳丁旭販賣第二級毒品，│
-│  │      │  22時21分許／南│欠）      │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  22時21分許／南│欠）      │累犯，處有期徒刑年拾│
 │  │      │  投縣○○鎮○○│          │月。附表四所示之物沒收│
 │  │      │  街○○○租屋處│          │，如全部或一部不能沒收│
 │  │      │  前            │          │時，追徵其價額。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(4)102 年10月18日│7千元（賒 │吳丁旭販賣第二級毒品，│
-│  │      │  21時37分許／南│欠）      │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  21時37分許／南│欠）      │累犯，處有期徒刑年拾│
 │  │      │  投縣○○鎮○○│          │月。附表四所示之物沒收│
 │  │      │  街○○○租屋處│          │，如全部或一部不能沒收│
 │  │      │  前            │          │時，追徵其價額。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(5)102 年11月10日│6千元（賒 │吳丁旭販賣第二級毒品，│
-│  │      │  23時36分許／南│欠）      │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  23時36分許／南│欠）      │累犯，處有期徒刑年拾│
 │  │      │  投縣○○鎮○○│          │月。附表四所示之物沒收│
 │  │      │  街            │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(6)102 年11月28日│6千元（賒 │吳丁旭販賣第二級毒品，│
-│  │      │  0 時15分許／南│欠）      │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  0 時15分許／南│欠）      │累犯，處有期徒刑年拾│
 │  │      │  投縣○○鎮○○│          │月。附表四所示之物沒收│
 │  │      │  路            │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(7)102 年12月4 日│6千元（賒 │吳丁旭販賣第二級毒品，│
-│  │      │  0 時20分許／南│欠）      │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  0 時20分許／南│欠）      │累犯，處有期徒刑年拾│
 │  │      │  投縣○○鎮○○│          │月。附表四所示之物沒收│
 │  │      │  街、○○路之交│          │，如全部或一部不能沒收│
 │  │      │  岔路口        │          │時，追徵其價額。      │
 ├─┼───┼────────┼─────┼───────────┤
 │2 │蔡順和│102 年10月1 日14│3千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │時33分/ 嘉義縣○│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │時33分/ 嘉義縣○│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │○交流道附近之○│案）      │月。附表四所示之物沒收│
 │  │      │○○            │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
-│  │      │                │          │得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如│
+│  │      │                │          │得新臺幣仟元沒收，如│
 │  │      │                │          │全部或一部不能沒收時，│
 │  │      │                │          │以其財產抵償之。      │
 ├─┼───┼────────┼─────┼───────────┤
-│3 │<font color='red'>陳長發</font>│(1)102 年9 月27日│2千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  14時54分許／嘉│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│3 │陳長發│(1)102 年9 月27日│2千元（已 │吳丁旭販賣第二級毒品，│
+│  │      │  14時54分許／嘉│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  義巿○○街之停│案）      │月。附表四所示之物沒收│
 │  │      │  車場          │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
@@ -760,7 +653,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(2)102 年9 月28日│1千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  18時22分許／嘉│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │  18時22分許／嘉│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  義巿○○街之停│案）      │月。附表四所示之物沒收│
 │  │      │  車場          │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
@@ -769,7 +662,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(3)102 年10月1 日│1千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  20時21分許／嘉│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │  20時21分許／嘉│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  義巿○○街之停│案）      │月。附表四所示之物沒收│
 │  │      │  車場          │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
@@ -778,7 +671,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(4)102 年10月3 日│1千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  21時40分許／嘉│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │  21時40分許／嘉│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  義縣○○交流道│案）      │月。附表四所示之物沒收│
 │  │      │  附近某處      │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
@@ -787,7 +680,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(5)102 年10月8 日│1千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  16時48分許（起│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │  16時48分許（起│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  訴書誤載為15時│案）      │月。附表四所示之物沒收│
 │  │      │  30分）／嘉義巿│          │，如全部或一部不能沒收│
 │  │      │  ○○街之停車場│          │時，追徵其價額；販毒所│
@@ -796,7 +689,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(6)102 年10月25日│2千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  19時3 分許／嘉│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │  19時3 分許／嘉│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  義巿○○街附近│案）      │月。附表四所示之物沒收│
 │  │      │  ○○街與○○路│          │，如全部或一部不能沒收│
 │  │      │  交岔路口之○○│          │時，追徵其價額；販毒所│
@@ -805,7 +698,7 @@ function openwin(URL,arguments,width,height)
 │  │      │  ○街之停車場）│          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(7)102 年10月28日│2千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  20時45分許／嘉│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │  20時45分許／嘉│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  義巿○○街之停│案）      │月。附表四所示之物沒收│
 │  │      │  車場          │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
@@ -814,7 +707,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(8)102 年11月18日│2千元（已 │吳丁旭販賣第二級毒品，│
-│  │      │  15時18分許／嘉│收取，未扣│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │  15時18分許／嘉│收取，未扣│累犯，處有期徒刑年捌│
 │  │      │  義縣○○鄉○○│案）      │月。附表四所示之物沒收│
 │  │      │  ○釣蝦場（起訴│          │，如全部或一部不能沒收│
 │  │      │  書誤載為同鄉○│          │時，追徵其價額；販毒所│
@@ -823,7 +716,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │以其財產抵償之。      │
 ├─┼───┼────────┼─────┼───────────┤
 │4 │蔡志成│102 年11月18日14│2千500元（│吳丁旭販賣第二級毒品，│
-│  │      │時49分許／嘉義縣│已收取，未│累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌│
+│  │      │時49分許／嘉義縣│已收取，未│累犯，處有期徒刑年捌│
 │  │      │○○鄉○○○釣蝦│扣案）    │月。附表四所示之物沒收│
 │  │      │場旁某處        │          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額；販毒所│
@@ -832,14 +725,14 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │時，以其財產抵償之。  │
 ├─┼───┼────────┼─────┼───────────┤
 │5 │陳榆臻│(1)102 年10月12日│5千500元（│吳丁旭販賣第二級毒品，│
-│  │      │  22時43分／南投│賒欠）    │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  22時43分／南投│賒欠）    │累犯，處有期徒刑年拾│
 │  │      │  縣○○鄉○○○│          │月。附表四所示之物沒收│
 │  │      │  租屋處（起訴書│          │，如全部或一部不能沒收│
 │  │      │  誤載為同鄉○○│          │時，追徵其價額。      │
 │  │      │  路某處）      │          │                      │
 │  │      ├────────┼─────┼───────────┤
 │  │      │(2)102 年10月18日│5千500元（│吳丁旭販賣第二級毒品，│
-│  │      │  15時15分許／嘉│賒欠）    │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾│
+│  │      │  15時15分許／嘉│賒欠）    │累犯，處有期徒刑年拾│
 │  │      │  義市○○○○○│          │月。附表四所示之物沒收│
 │  │      │  醫院旁統一超商│          │，如全部或一部不能沒收│
 │  │      │                │          │時，追徵其價額。      │
@@ -873,7 +766,7 @@ function openwin(URL,arguments,width,height)
 │編│購毒者│交易時間        │交易地點      │交易之金額（新臺幣）│
 │號│      │                │              │                    │
 ├─┼───┼────────┼───────┼──────────┤
-│1 │<font color='red'>陳長發</font>│102 年9 月27日15│嘉義市○○街之│購買2千元之海洛因（1│
+│1 │陳長發│102 年9 月27日15│嘉義市○○街之│購買2千元之海洛因（1│
 │  │      │時許            │停車場        │包）                │
 │  │      ├────────┼───────┼──────────┤
 │  │      │102 年9 月28日18│同上          │購買1千元之海洛因（1│
@@ -893,86 +786,12 @@ function openwin(URL,arguments,width,height)
 │  │      │102 年11月10日10│嘉義縣○○鄉○│同上                │
 │  │      │時43分許        │○加油站對面巷│                    │
 │  │      │                │內            │                    │
-└─┴───┴────────┴───────┴──────────┘</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTNH\CRIMINAL\10408\19\TNHM1048J.00E] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000264&selectedCrtid=TNH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=264&jdate=1040819&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=264&jdate=1040819&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c264%2c20150819%2c1','TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','264','1040819','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TNH 臺灣高等法院 臺南分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳長發">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳長發">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴───┴────────┴───────┴──────────┘
+[*jrecno*]104,上訴,264,20150819,1
+[*v_court*]TNH 臺灣高等法院 臺南分院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]上訴
+[*jno*]264
+[*jdate*]1040819
+[*jcheck*]1

@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>福建連江地方法院-刑-98易10</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ywHECHFlY/0CE9FgFOlXEeDSP3M=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>福建連江地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=000010&selectedCrtid=LCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c10%2c20110509%2c1&v_court=LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=10&jdate=1000509&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e6%98%93%2c10%2c20110509%2c1&v_court=LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=10&jdate=1000509&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e6%98%93%2c10%2c20110509%2c1','LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e6%98%93','10','1000509','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,易,10</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000509</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>福建連江地方法院刑事判決　　　　　　　　98年度易字第10號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c10%2c20110509%2c1&v_court=LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=10&jdate=1000509&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=000010&selectedCrtid=LCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e6%98%93%2c10%2c20110509%2c1&v_court=LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=10&jdate=1000509&jcheck=1
+[*裁判字號*]98,易,10
+[*裁判日期*]1000509
+[*裁判案由*]詐欺
+[*裁判全文*]福建連江地方法院刑事判決　　　　　　　　98年度易字第10號
 公　訴　人　福建連江地方法院檢察署檢察官
 被　　　告　葉世福
 選任辯護人　李建民律師
@@ -156,7 +51,7 @@ function openwin(URL,arguments,width,height)
     ）、林財利（已於95年2月21日死亡）、翁文運（另案職權
     不起訴處分）、陳賽金（另案職權不起訴處分）、劉增梅（
     另案職權不起訴處分）、余冬菊（另案緩起訴處分）、林電
-    芳（另案緩起訴處分）、<font color='red'>陳家宏</font>（另案緩起訴處分）、林金
+    芳（另案緩起訴處分）、陳家宏（另案緩起訴處分）、林金
     華（另案緩起訴處分）、林又子（另案緩起訴處分）、陳鑾
     嬌（另案職權不起訴處分）、曹福官（另案緩起訴處分）等
     人（前開保證人等保證之土地，詳如附表一至十二四鄰保證
@@ -187,7 +82,7 @@ function openwin(URL,arguments,width,height)
     署檢察官自動檢舉偵查起訴。
     理      由
 壹、程序方面:
-一、證人林電芳、李嫩妹、林又子、<font color='red'>陳家宏</font>、陳鑾嬌、余冬菊、
+一、證人林電芳、李嫩妹、林又子、陳家宏、陳鑾嬌、余冬菊、
     葉好金、劉增梅、劉細妹、曹木菊、曹福官、吳木林、翁文
     運於警詢所言均無證據能力：按被告以外之人於司法警察調
     查中所為之陳述，除符合刑事訴訟法第159條之2及之3之要
@@ -196,14 +91,14 @@ function openwin(URL,arguments,width,height)
     聲請傳喚再為到庭作證，而得將之與其警詢所述互為比較確
     認是否具備相反性要件，或判斷有無刑事訴訟法第159條之
     3規定各款情形，自無傳聞法則例外之適用。本案辯護人既
-    表示不同意使用證人林電芳、李嫩妹、林又子、<font color='red'>陳家宏</font>、陳
+    表示不同意使用證人林電芳、李嫩妹、林又子、陳家宏、陳
     鑾嬌、余冬菊、葉好金、劉增梅、劉細妹、曹木菊、曹福官
     、吳木林、翁文運之警詢證言，其等復未經聲請傳喚於審判
     中到庭作證，此部分應無證據能力。
-二、證人林電芳、李嫩妹、林又子、<font color='red'>陳家宏</font>、陳鑾嬌、余冬菊、
+二、證人林電芳、李嫩妹、林又子、陳家宏、陳鑾嬌、余冬菊、
     葉好金、劉增梅、劉細妹、曹木菊、曹福官、吳木林、翁文
     運、洪獻章於偵查中所言有證據能力：辯護人雖質疑證人林
-    電芳、李嫩妹、林又子、<font color='red'>陳家宏</font>、陳鑾嬌、余冬菊、葉好金
+    電芳、李嫩妹、林又子、陳家宏、陳鑾嬌、余冬菊、葉好金
     、劉增梅、劉細妹、曹木菊、曹福官、吳木林、翁文運、洪
     獻章於偵查所言之證據能力，然按被告以外之人於審判外之
     言詞或書面陳述，除法律有規定者外，不得作為證據，刑事
@@ -224,7 +119,7 @@ function openwin(URL,arguments,width,height)
     內容始得作為認定被告犯罪事實之判斷依據，而證人於偵查
     中之證述，如已符合刑事訴訟法第159條之1第2項之規定，
     且經依法具結，其陳述自不因未經被告對質詰問，而不具證
-    據能力。經查，證人林電芳、李嫩妹、林又子、<font color='red'>陳家宏</font>、陳
+    據能力。經查，證人林電芳、李嫩妹、林又子、陳家宏、陳
     鑾嬌、余冬菊、葉好金、劉增梅、劉細妹、曹木菊、曹福官
     、吳木林、翁文運、洪獻章於偵查中之證詞，既均係依法具
     結後所為之陳述，被告與辯護人復未能直接針對該部分之證
@@ -298,7 +193,7 @@ function openwin(URL,arguments,width,height)
     金、劉細妹已就附表十之土地作證，且亦有地籍圖謄本可證
     ，因此附表十之土地確實為被告葉世福所有。至於證人林金
     華、林又子、余冬菊、劉增梅、陳賽金、林財利、翁文運、
-    曹木菊、李嫩妹、<font color='red'>陳家宏</font>、曹福官所出具之土地四鄰證明書
+    曹木菊、李嫩妹、陳家宏、曹福官所出具之土地四鄰證明書
     ，確實為前開證人等所出具，並無虛偽不實之情事。再依據
     地政機關的證人在警詢與偵訊中所述，提出四鄰證明應有經
     過法定程序，林金華等四個證人所言，顯有不可信之事實，
@@ -312,7 +207,7 @@ function openwin(URL,arguments,width,height)
       告葉世福前曾占有，並均已符合時效取得所有權要件之附
       表一至十二所示土地，出具先後由證人李嫩妹、葉好金、
       曹木菊、劉細妹、吳木林、林財利、翁文運、陳賽金、劉
-      增梅、余冬菊、林電芳、<font color='red'>陳家宏</font>、林金華、林又子、陳鑾
+      增梅、余冬菊、林電芳、陳家宏、林金華、林又子、陳鑾
       嬌、曹福官等人之土地四鄰證明等權利證明文件，由被告
       葉世福向連江縣地政事務所遞交相關申請文件，提出關於
       附表所示土地所有權之登記申請，其中除附表十編號1、2
@@ -638,7 +533,7 @@ function openwin(URL,arguments,width,height)
         ），如此與土地四鄰證明書上所載「種植地瓜」一事，
         顯存扞格之處而難憑信。綜上足認，被告葉世福就附表
         七、八所示之土地，均無實際利用之情事。
-（十二）查附表九所示3筆土地，皆是由證人李嫩妹、<font color='red'>陳家宏</font>先
+（十二）查附表九所示3筆土地，皆是由證人李嫩妹、陳家宏先
         後出具土地四鄰保證書。證人李嫩妹於偵訊時證稱：..
         ....我不知道，我也不識字，他叫我蓋章我就蓋了，我
         以為只幫他保證那塊我先生的墳地等語（見偵卷97年度
@@ -646,7 +541,7 @@ function openwin(URL,arguments,width,height)
         履勘附表九所示土地，所指出被告葉世福及其家人使用
         之土地，亦與證人李嫩妹所保證之土地範圍不同，有連
         江縣地政事務所地籍參考圖，在卷可稽（見本院卷二第
-        59頁）。次查，證人<font color='red'>陳家宏</font>於偵訊中所證稱：「......
+        59頁）。次查，證人陳家宏於偵訊中所證稱：「......
         我沒有保證，但珠螺村567，574，533地號屬於何人的
         ，我不清楚......我簽名時，地號是空白的。地政事務
         所也沒有通知我去對保」（見偵卷97年度偵字第91號卷
@@ -1030,86 +925,12 @@ function openwin(URL,arguments,width,height)
 求檢察官上訴，其上訴期間之計算係以檢察官收受判決正本之日
 期為準。
 中    華    民    國   101    年    5     月    11    日
-                                   書記官  郭曠傑</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWLCD\CRIMINAL\10005\09\LCDM10059.001] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"><table width="410px" border="0" cellpadding="5" cellspacing="0"><tr><td bgcolor="#999999"><span style="FONT-SIZE: 80%"><b>附件</b></span></td><td bgcolor="#999999" width="30%"><span style="FONT-SIZE: 80%"><b>檔案大小</b></span></td></tr><tr><td bgcolor="#ffffff"><span style="FONT-SIZE: 80%"><a href="downloadFile2.aspx?id=98%2c%e6%98%93%2c10%2c1000509%2c1%2cLCDM10059001_001.doc&tablename=LCDM" target="_blank">1~12.doc</a></span></td><td bgcolor="#ffffff" width="30%"><span style="FONT-SIZE: 80%">1328.64KB</span></td></tr></table></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e6%98%93&selectedCrmno=000010&selectedCrtid=LCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e6%98%93%2c10%2c20110509%2c1&v_court=LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=10&jdate=1000509&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e6%98%93%2c10%2c20110509%2c1&v_court=LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e6%98%93&jno=10&jdate=1000509&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e6%98%93%2c10%2c20110509%2c1','LCD+%e7%a6%8f%e5%bb%ba%e9%80%a3%e6%b1%9f%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e6%98%93','10','1000509','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="LCD 福建連江地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳家宏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳家宏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+                                   書記官  郭曠傑
+[*jrecno*]98,易,10,20110509,1
+[*v_court*]LCD 福建連江地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]易
+[*jno*]10
+[*jdate*]1000509
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101上訴2810</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共61
-											筆 / 現在第14
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002810&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=61&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=2810&jdate=1020227&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=2810&jdate=1020227&jcheck=3">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','2810','1020227','3')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,上訴,2810</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020227</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 101年度上訴字第2810號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=2810&jdate=1020227&jcheck=3
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002810&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=2810&jdate=1020227&jcheck=3
+[*裁判字號*]101,上訴,2810
+[*裁判日期*]1020227
+[*裁判案由*]毒品危害防制條例等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 101年度上訴字第2810號
 上　訴　人　臺灣新北地方法院檢察署檢察官
 上　訴　人
 即　被　告　李裕仁
@@ -123,7 +16,7 @@ function openwin(URL,arguments,width,height)
 4396、7157、13875號)，提起上訴，本院判決如下：
     主  文
 原判決關於李裕仁部分撤銷。
-李裕仁共同製造第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年拾月。扣案如附表
+李裕仁共同製造第二級毒品，處有期徒刑年拾月。扣案如附表
 編號84所示之物(含容器壹個)，沒收銷燬之；扣案如附表編號1
 至83、85至97所示之物，及扣案門號0000000000號 NOKIA行動電
 話壹支(含SIM卡壹張)，均沒收之。
@@ -142,13 +35,13 @@ function openwin(URL,arguments,width,height)
 負責協助將鼻炎藥錠錫箔包裝剝離以利後續製造。謀議既定，林
 志忠、何吉正、李裕仁、李佳樺均知悉甲基安非他命係毒品危害
 防制條例所列管之第二級毒品，不得製造，共同基於製造甲基安
-非他命之犯意聯絡，林志忠透過李裕仁介紹，向不知情之<font color='red'>林建志
-</font>轉租新北市○○區○○路000 巷00號1樓作為製毒處所，於100年
+非他命之犯意聯絡，林志忠透過李裕仁介紹，向不知情之林建志
+轉租新北市○○區○○路000 巷00號1樓作為製毒處所，於100年
 10月間某日，由何吉正、李裕仁自藥局購得驅之益、柔他益、鼻
 福等鼻炎藥錠，先後分別交付予林志忠；李裕仁復開車搭載林志
 忠前往購買製毒所需甲苯、鹼片等物；李佳樺則購買研磨鼻炎藥
 錠之研磨機，並負責將鼻炎藥錠錫箔包裝剝離，林志忠則於上址
-自鼻炎藥錠提煉假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />以製造甲基安非他命，李裕仁不時至上
+自鼻炎藥錠提煉假麻黃以製造甲基安非他命，李裕仁不時至上
 址關心、督促林志忠製造毒品進度。林志忠利用研磨機先將鼻炎
 藥錠磨成粉末，重複利用漏斗、吸引瓶、真空幫浦、瓦斯爐、濾
 紙、烘乾機等器具，以石油醚萃取、過濾、蒸餾取得麻黃素，嗣
@@ -162,7 +55,7 @@ function openwin(URL,arguments,width,height)
 燈電源產生火花，因而發生氣爆，經消防局據報趕往現場撲救，
 發現現場遺留製造毒品之原料、器具，經警方鑑識小組到場採證
 ，扣得附表編號84所示之甲基安非他命、附表編號6、9、10、37
-、48、60、67所示含第四級毒品即毒品先驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />(Pseud
+、48、60、67所示含第四級毒品即毒品先驅原料假麻黃(Pseud
 oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 甲基安非他命所用如附表所示其餘之物。復於101 年2月4日經警
 拘提李裕仁到案，並扣得其所有供聯絡製造毒品所用之門號0000
@@ -185,7 +78,7 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
     ，依刑事訴訟法第158條之4反面規定，亦具證據能力，合先
     敘明。
 二、訊據被告對上開犯罪事實坦承不諱，核與證人即共同正犯林
-    志忠、李佳樺於檢察官偵查中結證及證人<font color='red'>林建志</font>於警詢證述
+    志忠、李佳樺於檢察官偵查中結證及證人林建志於警詢證述
     情節相符(詳偵字7157卷一第47-49頁、偵字3681卷一第34-3
     5、176- 178頁)，且有查獲現場照片、房屋租賃契約書附卷
     (詳偵字3681卷一第63-87、121-127頁)暨如附表所示之物扣
@@ -193,18 +86,18 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
     潮濕塊狀物，經送內政部警政署刑事警察局鑑驗結果，檢出
     微量第二級毒品甲基安非他命成分 (詳細鑑驗結果如附表編
     號84說明欄所示)；另附表編號6、9、10、37、48、60、67
-    所示之物，均驗出第四級毒品即毒品先驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />(Pse
+    所示之物，均驗出第四級毒品即毒品先驅原料假麻黃(Pse
     udoephedrine )(詳細鑑驗結果詳如附表說明欄所示)；附表
     編號76之紅褐色粉末則檢出磷(Phosphours)，有該局101年3
     月3日刑鑑字第0000000000號鑑定書在卷可參(詳偵字7157卷
     一第144-146頁)，堪認共犯林志忠供稱渠等係以「紅磷法」
-    ，自鼻炎藥錠提煉假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />以製造甲基安非他命非虛。又毒
+    ，自鼻炎藥錠提煉假麻黃以製造甲基安非他命非虛。又毒
     品危害防制條例規範之各級毒品，並未限定其為固體、液體
     或氣體型態，行政院依該條例公布之第二級毒品甲基安非他
     命品項，亦未明定限於結晶狀甲基安非他命始屬之；而上開
     條例所稱之「製造」行為，就製造甲基安非他命而言，係指
     經由人工合成方式使之產生甲基安非他命成分；如以化學鑑
-    驗觀之，其先驅原料(假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />、甲基麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />)之化學結構經
+    驗觀之，其先驅原料(假麻黃、甲基麻黃)之化學結構經
     由適當條件轉換為甲基安非他命成分時，表示已完成全部之
     化學反應，即屬已完成製造行為。至後續之甲基安非他命結
     晶純化過程，僅係去其雜質並使之固化為結晶體，以提高純
@@ -231,7 +124,7 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
     行為 (按本案尚無證據證明持有之甲基安非他命純質淨重已
     達20公克以上)，經製造之高度行為所吸收；又附表編號6、
      9、10、37、48、60、67之物，有檢出第四級毒品即毒品先
-    驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" /> (Pseudoephedrine)純質淨重20公克以上，
+    驅原料假麻黃 (Pseudoephedrine)純質淨重20公克以上，
     係被告製造甲基安非他命過程所產出，為製造甲基安非他命
     之階段行為，均不另論罪。又被告自100年10月起至101 年1
     月13日發生氣爆火災為止，在上址租屋處，從事製造甲基安
@@ -329,7 +222,7 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
     或容器仍會有極微量之毒品殘留而難以析離，故上開毒品之
     容器，應併依同規定沒收銷燬之。
   (二)扣案如附表編號6、9、10、37、48、60、67所示之物，均含
-    第四級毒品先驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />成分，且其純質淨重合計為20
+    第四級毒品先驅原料假麻黃成分，且其純質淨重合計為20
     公克以上，參照毒品危害防制條例第11條第 6項規定，係屬
     違禁物，且附表編號37、48、60、67之容器無法與之完全析
     離，併依刑法第38條第1項第1款沒收之。至附表編號6、9、
@@ -388,9 +281,9 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │），未檢出二級毒品甲│
 │    │      │      │                      │                  │基安非他命（Methamph│
 │    │      │      │                      │                  │etamine）、四級毒品 │
-│    │      │      │                      │                  │：毒品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
+│    │      │      │                      │                  │：毒品先驅原料麻黃│
 │    │      │      │                      │                  │（Ephedrine）、假麻 │
-│    │      │      │                      │                  │黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseudoephedrin│
+│    │      │      │                      │                  │黃（Pseudoephedrin│
 │    │      │      │                      │                  │e）成分             │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
 │5   │5     │37    │瓦斯罐1個             │同編號1           │                    │
@@ -401,7 +294,7 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │克），取0.38公克鑑定│
 │    │      │      │                      │                  │用罄，餘1841.72公克 │
 │    │      │      │                      │                  │，檢出微量四級毒品：│
-│    │      │      │                      │                  │毒品先驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
+│    │      │      │                      │                  │毒品先驅原料假麻黃│
 │    │      │      │                      │                  │（Pseudoephedrine） │
 │    │      │      │                      │                  │成分，純度未達1%，  │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -413,9 +306,9 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │克，未檢出二級毒品甲│
 │    │      │      │                      │                  │基安非他命（Methamph│
 │    │      │      │                      │                  │etamine）、四級毒品 │
-│    │      │      │                      │                  │：毒品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
+│    │      │      │                      │                  │：毒品先驅原料麻黃│
 │    │      │      │                      │                  │（Ephedrine）、假麻 │
-│    │      │      │                      │                  │黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseudoephedrin│
+│    │      │      │                      │                  │黃（Pseudoephedrin│
 │    │      │      │                      │                  │ e）成分            │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
 │9   │7     │42    │不明粉末1包           │同編號1           │灰褐色潮濕塊狀粉末，│
@@ -424,15 +317,15 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │），取0.21公克鑑定用│
 │    │      │      │                      │                  │罄，餘418.03公克，檢│
 │    │      │      │                      │                  │出微量四級毒品：毒品│
-│    │      │      │                      │                  │先驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ps│
+│    │      │      │                      │                  │先驅原料假麻黃（Ps│
 │    │      │      │                      │                  │eudoephedrine）成分 │
 │    │      │      │                      │                  │，純度未達1%，因量微│
 │    │      │      │                      │                  │，依內政部警政署刑事│
 │    │      │      │                      │                  │警察局鑑定方法之分析│
 │    │      │      │                      │                  │結果研判：不排除同時│
 │    │      │      │                      │                  │檢出四級毒品：毒品先│
-│    │      │      │                      │                  │驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ephedr│
-│    │      │      │                      │                  │ine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pse│
+│    │      │      │                      │                  │驅原料麻黃（Ephedr│
+│    │      │      │                      │                  │ine）、假麻黃（Pse│
 │    │      │      │                      │                  │udoephedrine），或者│
 │    │      │      │                      │                  │其一之成分          │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -442,7 +335,7 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │），取0.30公克鑑定用│
 │    │      │      │                      │                  │罄，餘774.35公克，檢│
 │    │      │      │                      │                  │出微量四級毒品：毒品│
-│    │      │      │                      │                  │先驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ps│
+│    │      │      │                      │                  │先驅原料假麻黃（Ps│
 │    │      │      │                      │                  │eudoephedrine）成分 │
 │    │      │      │                      │                  │，純度未達1%        │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -473,8 +366,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │未檢出二級毒品甲基安│
 │    │      │      │                      │                  │非他命（Methamphetam│
 │    │      │      │                      │                  │ine）、四級毒品：毒 │
-│    │      │      │                      │                  │品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ep│
-│    │      │      │                      │                  │hedrine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" /> │
+│    │      │      │                      │                  │品先驅原料麻黃（Ep│
+│    │      │      │                      │                  │hedrine）、假麻黃 │
 │    │      │      │                      │                  │（Pseudoephedrine） │
 │    │      │      │                      │                  │成分                │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -503,8 +396,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │未檢出二級毒品甲基安│
 │    │      │      │                      │                  │非他命（Methamphetam│
 │    │      │      │                      │                  │ ine）、四級毒品：毒│
-│    │      │      │                      │                  │品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ep│
-│    │      │      │                      │                  │ hedrine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
+│    │      │      │                      │                  │品先驅原料麻黃（Ep│
+│    │      │      │                      │                  │ hedrine）、假麻黃│
 │    │      │      │                      │                  │（Pseudoephedrine） │
 │    │      │      │                      │                  │成分                │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -519,8 +412,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │未檢出二級毒品甲基安│
 │    │      │      │                      │                  │非他命（Methamphetam│
 │    │      │      │                      │                  │in e）、四級毒品：毒│
-│    │      │      │                      │                  │品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ep│
-│    │      │      │                      │                  │he drine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
+│    │      │      │                      │                  │品先驅原料麻黃（Ep│
+│    │      │      │                      │                  │he drine）、假麻黃│
 │    │      │      │                      │                  │（Pseudoephedrine） │
 │    │      │      │                      │                  │成分                │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -534,8 +427,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │出二級毒品甲基安非他│
 │    │      │      │                      │                  │命（Methamphetamine │
 │    │      │      │                      │                  │）、四級毒品：毒品先│
-│    │      │      │                      │                  │驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ephedr│
-│    │      │      │                      │                  │ine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pse│
+│    │      │      │                      │                  │驅原料麻黃（Ephedr│
+│    │      │      │                      │                  │ine）、假麻黃（Pse│
 │    │      │      │                      │                  │udoephedrine）成分  │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
 │36  │34    │71、75│塑膠桶1個             │上址儲藏室        │透明無色液體，底有黑│
@@ -545,8 +438,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │未檢出二級毒品甲基安│
 │    │      │      │                      │                  │非他命（Methamphetam│
 │    │      │      │                      │                  │ine）、四級毒品：毒 │
-│    │      │      │                      │                  │品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ep│
-│    │      │      │                      │                  │hedrine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" /> │
+│    │      │      │                      │                  │品先驅原料麻黃（Ep│
+│    │      │      │                      │                  │hedrine）、假麻黃 │
 │    │      │      │                      │                  │（Pseudoephedrine） │
 │    │      │      │                      │                  │成分                │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -555,15 +448,15 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │公克鑑定用罄，餘11.9│
 │    │      │      │                      │                  │6公克，檢出微量四級 │
 │    │      │      │                      │                  │毒品：毒品先驅原料假│
-│    │      │      │                      │                  │麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseudoephedr│
+│    │      │      │                      │                  │麻黃（Pseudoephedr│
 │    │      │      │                      │                  │ine）成分，純度未達 │
 │    │      │      │                      │                  │1%，因量微，依內政部│
 │    │      │      │                      │                  │警政署刑事警察局鑑定│
 │    │      │      │                      │                  │方法之分析結果研判：│
 │    │      │      │                      │                  │不排除同時檢出四級毒│
 │    │      │      │                      │                  │品：毒品先驅原料麻黃│
-│    │      │      │                      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ephedrine）、假 │
-│    │      │      │                      │                  │麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseudoephedr│
+│    │      │      │                      │                  │（Ephedrine）、假 │
+│    │      │      │                      │                  │麻黃（Pseudoephedr│
 │    │      │      │                      │                  │ine），或者其一之成 │
 │    │      │      │                      │                  │分                  │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -600,7 +493,7 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │、88  │（含容器1個）         │                  │1.50公克，取0.53公克│
 │    │      │      │                      │                  │鑑定用罄，餘0.97公克│
 │    │      │      │                      │                  │，檢出四級毒品：毒品│
-│    │      │      │                      │                  │先驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ps│
+│    │      │      │                      │                  │先驅原料假麻黃（Ps│
 │    │      │      │                      │                  │eudoephedrine）成分 │
 │    │      │      │                      │                  │，純度約1%          │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -641,14 +534,14 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │99    │                      │                  │鑑定用罄，餘14.79公 │
 │    │      │      │                      │                  │克，檢出微量四級毒品│
 │    │      │      │                      │                  │：毒品先驅原料假麻黃│
-│    │      │      │                      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseudoephedrine │
+│    │      │      │                      │                  │（Pseudoephedrine │
 │    │      │      │                      │                  │），純度未達1%，因量│
 │    │      │      │                      │                  │微，依內政部警政署刑│
 │    │      │      │                      │                  │事警察局鑑定方法之分│
 │    │      │      │                      │                  │析結果研判：不排除同│
 │    │      │      │                      │                  │時檢出四級毒品：毒品│
-│    │      │      │                      │                  │先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ephe│
-│    │      │      │                      │                  │drine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（P│
+│    │      │      │                      │                  │先驅原料麻黃（Ephe│
+│    │      │      │                      │                  │drine）、假麻黃（P│
 │    │      │      │                      │                  │seudoephedrine），或│
 │    │      │      │                      │                  │者其一之成分        │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -667,8 +560,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │檢出二級毒品甲基安非│
 │    │      │      │                      │                  │他命（Methamphetamin│
 │    │      │      │                      │                  │e）、四級毒品：毒品 │
-│    │      │      │                      │                  │先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ephe│
-│    │      │      │                      │                  │drine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（P│
+│    │      │      │                      │                  │先驅原料麻黃（Ephe│
+│    │      │      │                      │                  │drine）、假麻黃（P│
 │    │      │      │                      │                  │seudoephedrine）成分│
 ├──┼───┼───┼───────────┼─────────┼──────────┤
 │64  │60    │104   │果菜機1臺             │同編號36          │                    │
@@ -685,7 +578,7 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │克），取0.13公克鑑定│
 │    │      │      │                      │                  │用罄，餘64.78公克， │
 │    │      │      │                      │                  │檢出四級毒品，毒品先│
-│    │      │      │                      │                  │驅原料假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseu│
+│    │      │      │                      │                  │驅原料假麻黃（Pseu│
 │    │      │      │                      │                  │doephedrine）成分， │
 │    │      │      │                      │                  │純度約92%，驗前純質 │
 │    │      │      │                      │                  │淨重約59.71公克     │
@@ -699,8 +592,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │未檢出二級毒品甲基安│
 │    │      │      │                      │                  │非他命（Methamphetam│
 │    │      │      │                      │                  │ine）、四級毒品：毒 │
-│    │      │      │                      │                  │品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ep│
-│    │      │      │                      │                  │hedrine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" /> │
+│    │      │      │                      │                  │品先驅原料麻黃（Ep│
+│    │      │      │                      │                  │hedrine）、假麻黃 │
 │    │      │      │                      │                  │（Pseudoephedrine） │
 │    │      │      │                      │                  │成分                │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -727,8 +620,8 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │未檢出二級毒品甲基安│
 │    │      │      │                      │                  │非他命（Methamphetam│
 │    │      │      │                      │                  │ine）、四級毒品：毒 │
-│    │      │      │                      │                  │品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Ep│
-│    │      │      │                      │                  │hedrine）、假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" /> │
+│    │      │      │                      │                  │品先驅原料麻黃（Ep│
+│    │      │      │                      │                  │hedrine）、假麻黃 │
 │    │      │      │                      │                  │（Pseudoephedrine） │
 │    │      │      │                      │                  │成分                │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
@@ -739,9 +632,9 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │分，未檢出二級毒品甲│
 │    │      │      │                      │                  │基安非他命（Methamph│
 │    │      │      │                      │                  │etamine）、四級毒品 │
-│    │      │      │                      │                  │：毒品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
+│    │      │      │                      │                  │：毒品先驅原料麻黃│
 │    │      │      │                      │                  │（Ephedrine）、假麻 │
-│    │      │      │                      │                  │黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseudoephedrin│
+│    │      │      │                      │                  │黃（Pseudoephedrin│
 │    │      │      │                      │                  │e）成分             │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
 │77  │69-4  │119   │水瓶1瓶               │同編號65          │                    │
@@ -791,9 +684,9 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 │    │      │      │                      │                  │分，未檢出二級毒品甲│
 │    │      │      │                      │                  │基安非他命（Methamph│
 │    │      │      │                      │                  │etamine）、四級毒品 │
-│    │      │      │                      │                  │：毒品先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
+│    │      │      │                      │                  │：毒品先驅原料麻黃│
 │    │      │      │                      │                  │（Ephedrine）、假麻 │
-│    │      │      │                      │                  │黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />（Pseudoephedrin│
+│    │      │      │                      │                  │黃（Pseudoephedrin│
 │    │      │      │                      │                  │e）成分             │
 ├──┼───┼───┼───────────┼─────────┼──────────┤
 │90  │82    │134、 │研磨機1臺             │同編號79          │                    │
@@ -821,86 +714,12 @@ oephedrine，純質淨重合計20公克以上) 、林志忠等所有供製造
 ├──┼───┼───┼───────────┼─────────┼──────────┤
 │97  │90    │151、 │工業酒精1桶           │上址門外          │                    │
 │    │      │152   │                      │                  │                    │
-└──┴───┴───┴───────────┴─────────┴──────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10202\27\TPHM1022R.04I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[3]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共61
-											筆 / 現在第14
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002810&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=61&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=2810&jdate=1020227&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=2810&jdate=1020227&jcheck=3">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c2810%2c20130227%2c3','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','2810','1020227','3')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="14"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林建志">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林建志">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───┴───┴───────────┴─────────┴──────────┘
+[*jrecno*]101,上訴,2810,20130227,3
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]上訴
+[*jno*]2810
+[*jdate*]1020227
+[*jcheck*]3

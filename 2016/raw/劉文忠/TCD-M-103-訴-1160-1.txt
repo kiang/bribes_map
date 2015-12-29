@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-103訴1160</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=001160&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c1160%2c20150731%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1160&jdate=1040731&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c1160%2c20150731%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1160&jdate=1040731&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c1160%2c20150731%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','1160','1040731','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,1160</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040731</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　 103年度訴字第1160號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c1160%2c20150731%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1160&jdate=1040731&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=001160&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c1160%2c20150731%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1160&jdate=1040731&jcheck=1
+[*裁判字號*]103,訴,1160
+[*裁判日期*]1040731
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　 103年度訴字第1160號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　吳彥輝
 選任辯護人　謝尚修律師
@@ -122,7 +15,7 @@ function openwin(URL,arguments,width,height)
 物均沒收銷燬之；扣案如附表二編號1至9、11至34、36至38、40
 至78、82所示之物均沒收。
     犯罪事實
-一、吳彥輝於民國99年間與<font color='red'>劉文忠</font>、梅聯芳等人基於共同製造甲
+一、吳彥輝於民國99年間與劉文忠、梅聯芳等人基於共同製造甲
     基安非命之犯意聯絡，共同製造甲基安非命而為警查獲，嗣
     經臺灣屏東地方法院以100年度重訴字第6號刑事判決，判處
     有期徒刑4年確定（於本案不構成累犯）。其明知甲基安非
@@ -137,7 +30,7 @@ function openwin(URL,arguments,width,height)
     場所。吳彥輝先將感冒藥錠包裝袋拆開後，用酒精將感冒藥
     錠溶解，再將溶解之酒精撈起加熱蒸發成麻黃素粉末，後加
     水溶解該麻黃素粉末，再加入化學原料溶解，置入鍋內加熱
-    成為液態麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />，再放置室溫下成為白色或淡黃色的透明結
+    成為液態麻黃，再放置室溫下成為白色或淡黃色的透明結
     晶體，再加入其他化學原料，放在玻璃燒杯等器具內蒸煮加
     熱，製成液態甲基安非他命，其後加入化學原料予以過濾，
     放入玻璃燒杯內置於冰箱泠藏，以此方式製造如附表一所示
@@ -319,11 +212,11 @@ function openwin(URL,arguments,width,height)
     刑罰之一般預防功能，當非毒品危害防制條例之立法本旨（
     最高法院100年台上字第4938號判決意旨、101年台上字第
     6325號判決意旨參照）。被告依前開犯罪事實欄所載之方式
-    提煉出屬製造甲基安非他命之先驅原料第四級毒品麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或
-    假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />，再將麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />加其他化學原料後，製出
+    提煉出屬製造甲基安非他命之先驅原料第四級毒品麻黃或
+    假麻黃，再將麻黃或假麻黃加其他化學原料後，製出
     如附表一所示含甲基安非他命成分之液體、結晶或粉末等情
     ，已經前所認定，足見被告所製出物質之分子結構已由毒品
-    先驅原料麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />之原有結構，經化學變化為甲基
+    先驅原料麻黃或假麻黃之原有結構，經化學變化為甲基
     安非他命之結構，雖未經純化結晶步驟成為易於施用之結晶
     體狀態，惟揆諸前開說明，被告製造甲基安非他命之行為已
     屬既遂。
@@ -332,8 +225,8 @@ function openwin(URL,arguments,width,height)
 參、論罪科刑部分
 一、核被告所為，係犯毒品危害防制條例第4條第2項之製造第二
     級毒品罪。被告上開製造甲基安非他命所為製造第四級毒品
-    麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />之行為（即附表一編號6、7、9及附表二
-    編號1所示之麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />），係屬製造第二級毒品甲
+    麻黃或假麻黃之行為（即附表一編號6、7、9及附表二
+    編號1所示之麻黃或假麻黃），係屬製造第二級毒品甲
     基安非他命之前階段行為，為後階段之製造第二級毒品甲基
     安非他命行為所吸收；而被告持有第二級毒品甲基安非他命
     之低度行為，為製造第二級毒品甲基安非他命之高度行為所
@@ -491,7 +384,7 @@ function openwin(URL,arguments,width,height)
     前開甲基安非他命之一部，均應依毒品危害防制條例第18條
     第1項前段之規定，於製造第二級毒品犯行項下宣告沒收銷
     燬之。另附表一編號6、7、9所示之物，除含有第二級毒品
-    外，尚含有毒品先驅原料即第四級毒品麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />成
+    外，尚含有毒品先驅原料即第四級毒品麻黃或假麻黃成
     分，惟該等第四級毒品成分亦難與第二級毒品成分單獨析離
     ，故仍在前開沒收銷燬之列，不另為沒收之宣告；至供鑑驗
     用罄之毒品既已滅失，自無庸予以宣告沒收銷燬，均附此說
@@ -523,9 +416,9 @@ function openwin(URL,arguments,width,height)
     收之（最高法院100年度台上字第882號判決要旨足參）。查
     扣案如附表二編號1、2、8所示之物，為被告所有並供其製
     造甲基安非他命所需之原料，已經被告供承在卷（見本院卷
-    第192頁反面），經檢驗分別含有第四級毒品麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或假麻
-    黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />成分，均屬違禁物，而盛裝上開之物之包裝袋及容器，
-    與所盛裝之麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />或假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />均難以析離，亦屬第四級毒品
+    第192頁反面），經檢驗分別含有第四級毒品麻黃或假麻
+    黃成分，均屬違禁物，而盛裝上開之物之包裝袋及容器，
+    與所盛裝之麻黃或假麻黃均難以析離，亦屬第四級毒品
     之一部分，揆諸前開說明，皆應依刑法第38條第1項第1款規
     定，於被告製造第二級毒品犯行項下宣告沒收。至供鑑驗用
     罄之部分既已滅失，自無庸予以宣告沒收，併予敘明。
@@ -632,7 +525,7 @@ function openwin(URL,arguments,width,height)
 │          │            │方增建空間  │.21公克)，取0.77公克鑑定用罄，餘│
 │          │            │            │50.69公克。檢出二級毒品「甲基安 │
 │          │            │            │非他命」(Methamphetamine)及微量 │
-│          │            │            │四級毒品：毒品先驅原料「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」│
+│          │            │            │四級毒品：毒品先驅原料「麻黃」│
 │          │            │            │(Ephedrine)等成分。另檢出非毒品 │
 │          │            │            │成分：Carbinoxamine。測得甲基安 │
 │          │            │            │非他命純度約8%。                │
@@ -643,8 +536,8 @@ function openwin(URL,arguments,width,height)
 │          │            │方增建空間  │1公克)，取1.85公克鑑定用罄，餘10│
 │          │            │            │.95公克。檢出微量二級毒品「甲基 │
 │          │            │            │安非他命」(Methamphetamine)及微 │
-│          │            │            │量四級毒品：毒品先驅原料「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />│
-│          │            │            │」(Ephedrine)及「假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseu│
+│          │            │            │量四級毒品：毒品先驅原料「麻黃│
+│          │            │            │」(Ephedrine)及「假麻黃」(Pseu│
 │          │            │            │doephedrine)等成分。            │
 ├─────┼──────┼──────┼────────────────┤
 │8(現場編號│不明液體、晶│臺中市太平區│經檢視為透明液體。驗前毛重52.48 │
@@ -658,8 +551,8 @@ function openwin(URL,arguments,width,height)
 │          │            │號1樓廚房後 │出二級毒品「甲基安非他命」(Metha│
 │          │            │方增建空間  │mphetamine)、「N,N-二甲基安非他 │
 │          │            │            │命」(N,N-Dimethylamphetamine)、 │
-│          │            │            │四級毒品：毒品先驅原料「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」│
-│          │            │            │(Ephedrine)及「假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudo│
+│          │            │            │四級毒品：毒品先驅原料「麻黃」│
+│          │            │            │(Ephedrine)及「假麻黃」(Pseudo│
 │          │            │            │ephedrine)等成分。另檢出非毒品成│
 │          │            │            │分：Carbinoxamine、Caffeine、Chl│
 │          │            │            │orpheniramine及Triprolidine等。 │
@@ -673,17 +566,17 @@ function openwin(URL,arguments,width,height)
 │          │            │號1樓廚房後 │前毛重53.03公克(包裝玻璃瓶重34.2│
 │          │            │方增建空間  │1公克)，取3.84公克鑑定用罄，餘14│
 │          │            │            │.98公克。檢出四級毒品：毒品先驅 │
-│          │            │            │原料「假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephedrine│
+│          │            │            │原料「假麻黃」(Pseudoephedrine│
 │          │            │            │)成分。另檢出非毒品成分：Carbino│
-│          │            │            │xamine。測得假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />純度約1%。  │
+│          │            │            │xamine。測得假麻黃純度約1%。  │
 ├─────┼──────┼──────┼────────────────┤
 │2(現場編號│感冒藥錠2顆 │臺中市太平區│經檢視均為白色圓形藥錠，外觀形態│
 │62-1)     │            │東村路139巷2│均相似，隨機抽取1顆磨混鑑定。總 │
 │          │            │號1樓廚房後 │淨重0.31公克，取0.15公克鑑定用罄│
 │          │            │方增建空間  │，餘0.16公克。檢出四級毒品：毒品│
-│          │            │            │先驅原料「假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephed│
+│          │            │            │先驅原料「假麻黃」(Pseudoephed│
 │          │            │            │rine)成分。另檢出非毒品成分：Car│
-│          │            │            │binoxamin。測得假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />純度約35%│
+│          │            │            │binoxamin。測得假麻黃純度約35%│
 │          │            │            │。                              │
 ├─────┼──────┼──────┼────────────────┤
 │3(現場編號│不明粉末1件 │臺中市太平區│經檢視為米白色塊狀物質。驗前毛重│
@@ -691,8 +584,8 @@ function openwin(URL,arguments,width,height)
 │          │            │號1樓廚房後 │，取0.06公克鑑定用罄，餘0.71公克│
 │          │            │方增建空間  │。未檢出二級毒品「甲基安非他命」│
 │          │            │            │(Methamphetamine)、四級毒品：毒 │
-│          │            │            │品先驅原料「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Ephedrine) │
-│          │            │            │及「假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephedrine) │
+│          │            │            │品先驅原料「麻黃」(Ephedrine) │
+│          │            │            │及「假麻黃」(Pseudoephedrine) │
 │          │            │            │成分。                          │
 ├─────┼──────┼──────┼────────────────┤
 │4(現場編號│不明晶體1件 │臺中市太平區│經檢視為淡棕色物質。驗前毛重    │
@@ -703,8 +596,8 @@ function openwin(URL,arguments,width,height)
 │          │            │            │、S(硫)、Cl(氯)、Ca(鈣)等元素成 │
 │          │            │            │分。未檢出二級毒品「甲基安非他命│
 │          │            │            │」(Methamphetamine)、四級毒品： │
-│          │            │            │毒品先驅原料「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Ephedrine│
-│          │            │            │) 及「假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephedrine│
+│          │            │            │毒品先驅原料「麻黃」(Ephedrine│
+│          │            │            │) 及「假麻黃」(Pseudoephedrine│
 │          │            │            │)等成分。                       │
 ├─────┼──────┼──────┼────────────────┤
 │5(現場編號│不明液體1件 │臺中市太平區│經檢視為透明液體。驗前毛重52.10 │
@@ -713,8 +606,8 @@ function openwin(URL,arguments,width,height)
 │          │            │方增建空間  │檢出非毒品成分：Toluene。未檢出 │
 │          │            │            │二級毒品「甲基安非他命」(Methamp│
 │          │            │            │hetamine)、四級毒品：毒品先驅原 │
-│          │            │            │料「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Ephedrine)及「假麻 │
-│          │            │            │黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephedrine)等成分。 │
+│          │            │            │料「麻黃」(Ephedrine)及「假麻 │
+│          │            │            │黃」(Pseudoephedrine)等成分。 │
 ├─────┼──────┼──────┼────────────────┤
 │6(現場編號│不明粉末1件 │臺中市太平區│經檢視為米白色粉末。驗前毛重35.9│
 │83)       │            │東村路139巷2│4公克(包裝玻璃瓶重34.21公克)，取│
@@ -722,8 +615,8 @@ function openwin(URL,arguments,width,height)
 │          │            │方增建空間  │出非毒品成分：Glucose。未檢出二 │
 │          │            │            │級毒品「甲基安非他命」(Methamphe│
 │          │            │            │tamine)、四級毒品：毒品先驅原料 │
-│          │            │            │「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Ephedrine)及「假麻黃 │
-│          │            │            │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephedrine)等成分。   │
+│          │            │            │「麻黃」(Ephedrine)及「假麻黃 │
+│          │            │            │」(Pseudoephedrine)等成分。   │
 ├─────┼──────┼──────┼────────────────┤
 │7(現場編號│不明液體1件 │臺中市太平區│經檢視為淡黃色液體。驗前毛重61.5│
 │93)       │            │東村路139巷2│2公克(包裝玻璃瓶重34.21公克)，取│
@@ -731,16 +624,16 @@ function openwin(URL,arguments,width,height)
 │          │            │方增建空間  │檢出非毒品成分：Xylene。未檢出二│
 │          │            │            │級毒品「甲基安非他命」(Methamphe│
 │          │            │            │tamine)、四級毒品：毒品先驅原料 │
-│          │            │            │「麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Ephedrine)及「假麻黃 │
-│          │            │            │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephedrine)等成分。   │
+│          │            │            │「麻黃」(Ephedrine)及「假麻黃 │
+│          │            │            │」(Pseudoephedrine)等成分。   │
 ├─────┼──────┼──────┼────────────────┤
 │8(現場編號│感冒藥錠1件 │臺中市太平區│經檢視均為白色圓形藥錠，外觀形態│
 │64)       │            │東村路139巷2│均相似，隨機抽取1顆磨混鑑定。總 │
 │          │            │號1樓廚房後 │淨重0.31公克，取0.15公克鑑定用罄│
 │          │            │方增建空間  │，餘0.16公克。檢出四級毒品：毒品│
-│          │            │            │先驅原料「假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />」(Pseudoephed│
+│          │            │            │先驅原料「假麻黃」(Pseudoephed│
 │          │            │            │rine)成分。另檢出非毒品成分：Car│
-│          │            │            │binoxamin。測得假麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F0482A0A00000040.GIF" />純度約35%│
+│          │            │            │binoxamin。測得假麻黃純度約35%│
 │          │            │            │。                              │
 ├─────┼──────┼──────┼────────────────┤
 │9(現場編號│鐵盤2個     │臺中市太平區│                                │
@@ -1119,86 +1012,12 @@ function openwin(URL,arguments,width,height)
 │          │8026IMEI:355│上起出      │                                │
 │          │000000000000│            │                                │
 │          │)           │            │                                │
-└─────┴──────┴──────┴────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10407\31\TCDM1047V.02M] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=001160&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e5%bf%a0&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c1160%2c20150731%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1160&jdate=1040731&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c1160%2c20150731%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1160&jdate=1040731&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c1160%2c20150731%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','1160','1040731','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文忠">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文忠">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─────┴──────┴──────┴────────────────┘
+[*jrecno*]103,訴,1160,20150731,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]1160
+[*jdate*]1040731
+[*jcheck*]1

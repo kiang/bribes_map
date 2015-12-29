@@ -1,150 +1,43 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-94簡1117</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e7%b0%a1&selectedCrmno=001117&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e7%b0%a1%2c1117%2c20050525%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e7%b0%a1&jno=1117&jdate=940525&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e7%b0%a1%2c1117%2c20050525%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e7%b0%a1&jno=1117&jdate=940525&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('94%2c%e7%b0%a1%2c1117%2c20050525%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e7%b0%a1','1117','940525','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">94,簡,1117</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">940525</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反臺灣地區與大陸地區人民關係條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事簡易判決　　　　　94年度簡字第1117號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=94%2c%e7%b0%a1%2c1117%2c20050525%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e7%b0%a1&jno=1117&jdate=940525&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e7%b0%a1&selectedCrmno=001117&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=94%2c%e7%b0%a1%2c1117%2c20050525%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e7%b0%a1&jno=1117&jdate=940525&jcheck=1
+[*裁判字號*]94,簡,1117
+[*裁判日期*]940525
+[*裁判案由*]違反臺灣地區與大陸地區人民關係條例
+[*裁判全文*]臺灣臺南地方法院刑事簡易判決　　　　　94年度簡字第1117號
 聲　請　人　臺灣臺南地方法院檢察署檢察官
-被　　　告　丁○○　男　50歲<span  style="color:#e8e8e8">.</span>
-　　　　 　 甲○○　男　47<span  style="color:#e8e8e8">.</span>
-　　 　　　 丙○○　男　34<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　臺南市○區<span  style="color:#e8e8e8">.</span>
+被　　　告　丁○○　男　50歲.
+　　　　 　 甲○○　男　47.
+　　 　　　 丙○○　男　34.
+　　　　　　　　　　臺南市○區.
 　　　　　　乙○○
 上列被告等因違反臺灣地區與大陸地區人民關係條例等案件，經
 檢察官聲請以簡易判決處刑（92年度偵字第8107號），本院判決
 如下：
     主    文
 丁○○共同違反不得使大陸地區人民非法進入臺灣地區之規定，
-處有期徒刑貳月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元折算壹日。
+處有期徒刑貳月，如易科罰金，以銀元佰元折算壹日。
 甲○○共同違反不得使大陸地區人民非法進入臺灣地區之規定，
-累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元折算壹日。
+累犯，處有期徒刑月，如易科罰金，以銀元佰元折算壹日。
 丙○○共同違反不得使大陸地區人民非法進入臺灣地區之規定，
-累犯，處有期徒刑肆月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元折算壹日。
+累犯，處有期徒刑肆月，如易科罰金，以銀元佰元折算壹日。
 乙○○共同違反不得使大陸地區人民非法進入臺灣地區之規定，
-處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元折算壹日。
+處有期徒刑月，如易科罰金，以銀元佰元折算壹日。
     事    實
 一、甲○○（於民國89年間，因竊盜案件，經本院判處有期徒刑
     一年六月確定，並於91年1月23日執行完畢）、丙○○（於
     88年間，因竊盜案件，經本院判處有期徒刑二年四月確定，
     並於91年6月11日執行完畢）、丁○○、乙○○等四人明知
-　　<font color='red'>洪志成</font>（另經檢察官通緝中）與成年人大陸人士林軍專門在
+　　洪志成（另經檢察官通緝中）與成年人大陸人士林軍專門在
     辦理假結婚而使大陸人士以結婚之方式進入臺灣地區工作，
     其等為取得擔任假結婚人頭之佣金（丁○○、甲○○、丙○
     ○等三人各可獲得新臺幣（下同）5萬元，乙○○可獲得8萬
-    元），竟與<font color='red'>洪志成</font>及大陸人士林軍共同基於使大陸地區人民
+    元），竟與洪志成及大陸人士林軍共同基於使大陸地區人民
     非法進入臺灣地區及使公務員將不實事項登載於其所掌管之
     公文書之犯意，以辦理假結婚之方式使大陸地區人民陳法英
     、陳棋妹、胡華蓮、吳定忠得以探親為由來臺，其方式為：
-    丁○○、甲○○、丙○○、乙○○於91年8月13日由<font color='red'>洪志成
-    </font>帶領，自高雄小港機場一同搭機前往大陸，再經由大陸地區
+    丁○○、甲○○、丙○○、乙○○於91年8月13日由洪志成
+    帶領，自高雄小港機場一同搭機前往大陸，再經由大陸地區
     人士林軍介紹大陸地區人士陳法英、陳棋妹、胡華蓮、吳定
     忠與丁○○等四人認識後，乃分配由丁○○與大陸人士陳法
     英假結婚、甲○○與大陸人士陳棋妹假結婚、丙○○與大陸
@@ -154,7 +47,7 @@ function openwin(URL,arguments,width,height)
     3日至福建省福州市公證處辦理假結婚，林榕丹與大陸人士胡
     華蓮於91年8月23日至福建省尤溪縣公證處辦理假結婚，乙○
     ○與大陸人士吳定忠於91年9月5日至福建省福州市辦理假結
-    婚。隨後丁○○、甲○○、丙○○、乙○○與<font color='red'>洪志成</font>等五人
+    婚。隨後丁○○、甲○○、丙○○、乙○○與洪志成等五人
     乃分別返臺，而返臺後乃基於前揭使大陸地區人民非法來臺
     及行使偽造文書之犯意，由丁○○於91年10月15日至臺南市
     西區戶政事務所、甲○○於91年10月7日至臺南縣永康市戶
@@ -162,8 +55,8 @@ function openwin(URL,arguments,width,height)
     、乙○○於91年9月19日至臺南市北區戶政事務所，檢附結
     婚公證書等相關資料，申請結婚登記，致使該管公務員不知
     有偽而登載其等與大陸人士結婚等不實事項於戶籍登記資料
-    上並領取戶籍謄本。丁○○、甲○○、丙○○、乙○○與<font color='red'>洪
-    志成</font>於辦理前開事宜後，乃填具內容不實之大陸地區人民進
+    上並領取戶籍謄本。丁○○、甲○○、丙○○、乙○○與洪
+    志成於辦理前開事宜後，乃填具內容不實之大陸地區人民進
     入臺灣地區旅行證並檢附結婚公證書及上開戶籍謄本等相關
     資料並行使之，而向內政部警政署入出境管理局以配偶來臺
     探親為由，申請陳法英、陳棋妹、胡華蓮、吳定忠入境，致
@@ -189,21 +82,21 @@ function openwin(URL,arguments,width,height)
     康市戶政事務所戶籍謄本各一紙在卷可佐。事證明確，被告
     二人犯行堪以認定。
 二、被告丙○○、乙○○部分：
-　  查被告丙○○、乙○○固坦承於上開時間，有與<font color='red'>洪志成</font>及共
+　  查被告丙○○、乙○○固坦承於上開時間，有與洪志成及共
     同被告丁○○、甲○○等共五人一同由高雄小港機場出境至
     大陸地區，並與大陸人士胡華蓮、吳定忠辦理結婚，復向戶
     政事務所辦理結婚登記並申請大陸人士胡華蓮、吳定忠來臺
     等情，然均矢口否認上開犯行，均辯稱是真結婚云云。經查
-    ，證人即被告丁○○於偵查中證稱：其是與<font color='red'>洪志成</font>一同到大
+    ，證人即被告丁○○於偵查中證稱：其是與洪志成一同到大
     陸去辦理假結婚，待辦理完畢後其可獲得5萬元之代價，當
-    天與<font color='red'>洪志成</font>一同至大陸之被告甲○○、丙○○、乙○○也都
-    是去大陸假結婚，且其在大陸茶館時也有聽到<font color='red'>洪志成</font>向被告
+    天與洪志成一同至大陸之被告甲○○、丙○○、乙○○也都
+    是去大陸假結婚，且其在大陸茶館時也有聽到洪志成向被告
     甲○○、丙○○、乙○○等人說是要假結婚等語 (見偵查卷
-    第三五、七四頁)；而證人甲○○於警詢時亦證稱：<font color='red'>洪志成
-    </font>介紹我及丁○○、丙○○、乙○○等四人前往大陸地區辦理
+    第三五、七四頁)；而證人甲○○於警詢時亦證稱：洪志成
+    介紹我及丁○○、丙○○、乙○○等四人前往大陸地區辦理
     假結婚等語 (見警卷92年4月7日警訊筆錄)。而被告丁○○
     、甲○○二人所為之證詞並互核相符，且被告丙○○、乙○
-    ○二人與<font color='red'>洪志成</font>及證人丁○○、甲○○共五人，於91年8月1
+    ○二人與洪志成及證人丁○○、甲○○共五人，於91年8月1
     3日由高雄小港機場共同搭乘同一班飛機（編號NX661）前往
     大陸地區之事實，有內政部警政署入出境管理局旅客入出境
     明細表一份在卷可佐，另有內政部警政署入出境管理局出入
@@ -242,7 +135,7 @@ function openwin(URL,arguments,width,height)
     地區旅行證上記載事由為「探親」等不實事項，並據以核發
     陳明之臺灣地區旅行證等數個動作，應為接續犯，屬單純一
     罪。被告四人使公務員登載不實之行為被行使之行為所吸收
-    ，不另論處。又被告等四人與<font color='red'>洪志成</font>及大陸地區人民林軍，
+    ，不另論處。又被告等四人與洪志成及大陸地區人民林軍，
     就使大陸地區人民非法進入臺灣地區及行使使公務員登載不
     實文書罪部份之犯行，均有犯意聯絡及行為分擔，均應論以
     共同正犯。其四人假結婚之目的乃在使大陸地區人民非法進
@@ -287,86 +180,11 @@ function openwin(URL,arguments,width,height)
 中華民國刑法第216條
 行使第210條至第215條之文書者，依偽造、變造文書或登載不實
 事項或使登載不實事項之規定處斷。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\ok\LAWTND\CRIMINAL\9405\25\TNDM945P.018] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e7%b0%a1&selectedCrmno=001117&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e7%b0%a1%2c1117%2c20050525%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e7%b0%a1&jno=1117&jdate=940525&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e7%b0%a1%2c1117%2c20050525%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e7%b0%a1&jno=1117&jdate=940525&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('94%2c%e7%b0%a1%2c1117%2c20050525%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e7%b0%a1','1117','940525','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="洪志成">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="洪志成">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]94,簡,1117,20050525,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]94
+[*jcase*]簡
+[*jno*]1117
+[*jdate*]940525
+[*jcheck*]1

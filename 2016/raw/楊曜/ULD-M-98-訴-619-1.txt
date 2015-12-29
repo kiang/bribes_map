@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣雲林地方法院-刑-98訴619</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣雲林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000619&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c619%2c20091109%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=619&jdate=981109&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c619%2c20091109%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=619&jdate=981109&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c619%2c20091109%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','619','981109','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,619</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">981109</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣雲林地方法院刑事判決　　　　　　　 98年度訴字第619號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c619%2c20091109%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=619&jdate=981109&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000619&selectedCrtid=ULD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c619%2c20091109%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=619&jdate=981109&jcheck=1
+[*裁判字號*]98,訴,619
+[*裁判日期*]981109
+[*裁判案由*]貪污等
+[*裁判全文*]臺灣雲林地方法院刑事判決　　　　　　　 98年度訴字第619號
 公　訴　人　臺灣雲林地方法院檢察署檢察官
 被　　　告　辛○○
 　　　　　　丙○○
@@ -125,15 +18,15 @@ function openwin(URL,arguments,width,height)
 進行簡式審判程序，判決如下：
     主  文
 辛○○、丙○○、丁○○結夥三人以上竊盜，各處有期徒刑陸月
-，如易科罰金以新臺幣壹仟元折算壹日。均緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，並應於本
-判決確定之日起<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />個月內，各向公庫支付新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />萬元。
+，如易科罰金以新臺幣壹仟元折算壹日。均緩刑年，並應於本
+判決確定之日起個月內，各向公庫支付新臺幣萬元。
 己○○結夥三人以上竊盜，處有期徒刑陸月，如易科罰金以新臺
 幣壹仟元折算壹日。
 壬○○結夥三人以上竊盜，處有期徒刑陸月，如易科罰金以新臺
-幣壹仟元折算壹日。緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，並應於本判決確定之日起<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />個月
-內，向公庫支付新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />萬元。
+幣壹仟元折算壹日。緩刑年，並應於本判決確定之日起個月
+內，向公庫支付新臺幣萬元。
 卯○○成年人與少年結夥三人以上竊盜，處有期徒刑柒月。緩刑
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，並應於本判決確定之日起<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />個月內，向公庫支付新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />
+年，並應於本判決確定之日起個月內，向公庫支付新臺幣
 萬元。
     事實及理由
 一、犯罪事實：
@@ -246,81 +139,81 @@ function openwin(URL,arguments,width,height)
     丙○○、丁○○之自白外，並有如下證據可資證明：
 １、人證部分：
 (1)、證人高俊結（堆置處所之地主）之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人高俊結於97年3 月26日之警詢筆錄（投竹警偵字第0970
+  證人高俊結於97年3 月26日之警詢筆錄（投竹警偵字第0970
     0004160 號卷第11至13頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人高俊結於97年7 月1 日之偵訊具結筆錄（97偵2931號卷
+  證人高俊結於97年7 月1 日之偵訊具結筆錄（97偵2931號卷
     (一)第95至96頁）。
 (2)、同案被告庚○○（雲林縣政府建設局水利課河川駐衛隊員）
     於97年3 月26日之警詢筆錄（投竹警偵字第09700004160 號
     卷第9 至10頁）。
 (3)、同案被告寅○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告寅○○於98年6 月4 日之調查局中機組警詢筆錄（98偵
+  被告寅○○於98年6 月4 日之調查局中機組警詢筆錄（98偵
     1524號卷(五)第11至20頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告寅○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
+  被告寅○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
     21至35頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告寅○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告寅○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     60至68、75、79至81頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告寅○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
+  被告寅○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
     50至52頁）。
 (4)、同案被告子○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告子○○於98年3 月30日之嘉義市調查站警詢筆錄（98偵
+  被告子○○於98年3 月30日之嘉義市調查站警詢筆錄（98偵
     1524號卷(一)第24至32頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告子○○於98年4 月20日之偵訊具結筆錄（98偵1524號卷
+  被告子○○於98年4 月20日之偵訊具結筆錄（98偵1524號卷
     (三)第38至48頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告子○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
+  被告子○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
     28至30頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告子○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告子○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     73至78、81至84、89至90頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />被告子○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
+  被告子○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
     163 至165 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />被告子○○於98年6 月23日第2 次偵訊筆錄（98偵1524號卷
+  被告子○○於98年6 月23日第2 次偵訊筆錄（98偵1524號卷
     (六)第160 至161 頁）。
 (5)、同案被告乙○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告乙○○於98年5 月13日之調查局中機組警詢筆錄（98偵
+  被告乙○○於98年5 月13日之調查局中機組警詢筆錄（98偵
     1524號卷(四)第12至15頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告乙○○於98年4 月21日之第2 次偵訊筆錄（98偵1524號
+  被告乙○○於98年4 月21日之第2 次偵訊筆錄（98偵1524號
     卷(三)第54至62頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告乙○○於98年5 月13日之偵訊具結筆錄（98偵1524號卷
+  被告乙○○於98年5 月13日之偵訊具結筆錄（98偵1524號卷
     (四)第16至18頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告乙○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
+  被告乙○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
     25至31頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />被告乙○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告乙○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     68至73、84至87頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />被告乙○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
+  被告乙○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
     173 至175 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />被告乙○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
+  被告乙○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
     52至54頁）。
 (6)、同案被告甲○○（經濟部水利署第五河川局河川駐衛警）於
     98年5 月21日之偵訊具結筆錄（98偵1524號卷(四)第49至50頁
     ）。
 (7)、同案被告丑○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告丑○○於97年3 月29日之警詢筆錄（97偵1671號卷第35
+  被告丑○○於97年3 月29日之警詢筆錄（97偵1671號卷第35
     至37頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告丑○○於97年7 月22日之警詢筆錄（97偵2931號卷(一)第
+  被告丑○○於97年7 月22日之警詢筆錄（97偵2931號卷(一)第
     98至104 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告丑○○於98年6 月4 日之調查局中機組警詢筆錄（98
+  被告丑○○於98年6 月4 日之調查局中機組警詢筆錄（98
     偵1524號卷(五)第4 至10頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告丑○○於97年7 月23日之偵訊具結筆錄（97偵2931號卷
+  被告丑○○於97年7 月23日之偵訊具結筆錄（97偵2931號卷
     (一)第125 至140 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />被告丑○○於98年2 月6 日之偵訊筆錄（南投地檢署98偵緝
+  被告丑○○於98年2 月6 日之偵訊筆錄（南投地檢署98偵緝
     34號卷第19至21頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />被告丑○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
+  被告丑○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
     39至44頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />被告丑○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告丑○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     54至56、61、64、69、78至79、83、92頁）。
 (8)、同案被告癸○○（南投縣警察局竹山分局桶頭派出所警員）
     之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告癸○○於98年6 月16日之調查局中機組警詢筆錄（98
+  被告癸○○於98年6 月16日之調查局中機組警詢筆錄（98
     偵1524號卷(五)第297 至304 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告癸○○於98年6 月16日之第1 次偵訊筆錄（98偵1524
+  被告癸○○於98年6 月16日之第1 次偵訊筆錄（98偵1524
     號卷(五)第315 至324 頁）。
 ２、書證部分：
 (1)、個人戶籍及相片影像資料查詢結果5 紙（97偵2931號卷(一)第
     117 、119 、123 至124 、153 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />丑○○指認辛○○（第117 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />丑○○指認子○○（第119 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />丑○○指認寅○○（第123 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />丑○○指認乙○○（第124 頁）。
+  丑○○指認辛○○（第117 頁）。
+  丑○○指認子○○（第119 頁）。
+  丑○○指認寅○○（第123 頁）。
+  丑○○指認乙○○（第124 頁）。
 (2)、竹山分局桶頭派出所偵辦丁○○、丙○○竊盜砂石案件現場
     照片2 張（第一次盜採）（97偵2931號警卷第23頁）。
 (3)、雲林縣政府97年5 月13日府水管字第0972902713號函（97偵
@@ -330,7 +223,7 @@ function openwin(URL,arguments,width,height)
     政府97年5 月13日函（南投地檢署97他782 號卷第1 至5 頁
     ）。
 (5)、領據2 紙（車號MS-660、IT-111號大貨車）（97偵1671號卷
-    第31至32頁。立據人：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />MS-660號大貨車：丁○○。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />IT-1
+    第31至32頁。立據人：MS-660號大貨車：丁○○。IT-1
     11號大貨車：丙○○）。
 (6)、雲林縣政府97年3 月26日現場勘查紀錄1 份（投竹警偵字第
     09700004160 號卷第16頁）。
@@ -358,7 +251,7 @@ function openwin(URL,arguments,width,height)
     座標圖（98偵1524號卷(六)第47至48頁）。
 (17)斗南分局98年6 月12日古坑鄉海豐崙溪上游現場勘查照片32
     張（98偵1524號卷(六)第104 至113 頁）。
-(18)<font color='red'>楊曜</font>欽提供之地圖1 份（98偵1524號卷(六)第130 頁）。
+(18)楊曜欽提供之地圖1 份（98偵1524號卷(六)第130 頁）。
 (19)98年6 月12日勘驗現場筆錄1 份（檢察官會同經濟部水利署
     第五河川局、雲林縣斗六地政事務所、雲林縣政府水利處等
     相關單位，及被告丑○○、子○○勘驗確認第一次、第二次
@@ -381,100 +274,100 @@ function openwin(URL,arguments,width,height)
     之筆錄：於97年6 月4 日之警詢筆錄（97偵2931號警卷第
     100 至102 頁）。
 (2)、同案被告寅○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告寅○○於98年6 月4 日之調查局中機組警詢筆錄（98
+  被告寅○○於98年6 月4 日之調查局中機組警詢筆錄（98
     偵1524號卷(五)第11至20頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告寅○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
+  被告寅○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
     21至35頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告寅○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告寅○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     60至68、75、79至81頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告寅○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
+  被告寅○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
     50至52頁）。
 (3)、證人即少年洪○祥於98年5 月25日之偵訊具結筆錄（98偵15
     24號卷(四)第173 至174 、198 至200 頁）。
 (4)、同案被告子○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告子○○於98年3 月30日之偵訊筆錄（98偵1524號卷(一)第
+  被告子○○於98年3 月30日之偵訊筆錄（98偵1524號卷(一)第
     34至44頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告子○○於98年4 月20日之偵訊具結筆錄（98偵1524號卷
+  被告子○○於98年4 月20日之偵訊具結筆錄（98偵1524號卷
     (三)第38至48頁）（結文第49頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告子○○於98年5 月13日之偵訊具結筆錄（98偵1524號卷
+  被告子○○於98年5 月13日之偵訊具結筆錄（98偵1524號卷
     (四)第8 至10頁）（結文第11頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告子○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
+  被告子○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
     28至30頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />被告子○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告子○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     73至78、81至84、89至90頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />被告子○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
+  被告子○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
     163 至165 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />被告子○○於98年6 月23日第2 次偵訊筆錄（98偵1524號卷
+  被告子○○於98年6 月23日第2 次偵訊筆錄（98偵1524號卷
     (六)第160 至161 頁）。
 (5)、同案被告乙○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告乙○○於98年5 月13日之調查局中機組警詢筆錄（98偵
+  被告乙○○於98年5 月13日之調查局中機組警詢筆錄（98偵
     1524號卷(四)第12至15頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告乙○○於98年4 月21日之第2 次偵訊筆錄（98偵1524號
+  被告乙○○於98年4 月21日之第2 次偵訊筆錄（98偵1524號
     卷(三)第54至62頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告乙○○於98年5 月13日之偵訊具結筆錄（98偵1524號卷
+  被告乙○○於98年5 月13日之偵訊具結筆錄（98偵1524號卷
     (四)第16至18頁）（結文第19頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告乙○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
+  被告乙○○於98年5 月20日之偵訊筆錄（98偵1524號卷(四)第
     25至31頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />被告乙○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告乙○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     68至73、84至87頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />被告乙○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
+  被告乙○○於98年6 月11日之偵訊筆錄（98偵1524號卷(五)第
     173 至175 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />被告乙○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
+  被告乙○○於98年6 月18日之偵訊筆錄（98偵1524號卷(六)第
     52至54頁）。
 (6)、同案被告甲○○（經濟部水利署第五河川局河川駐衛警）於
     98年5 月21日之偵訊具結筆錄（98偵1524號卷(四)第49至50頁
     ）。
 (7)、同案被告丑○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告丑○○於97年6 月4 日之警詢筆錄（97偵2931號警卷第
+  被告丑○○於97年6 月4 日之警詢筆錄（97偵2931號警卷第
     15至22頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告丑○○於97年7 月22日之警詢筆錄（97偵2931號卷(一)第
+  被告丑○○於97年7 月22日之警詢筆錄（97偵2931號卷(一)第
     98至104 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告丑○○於97年7 月25日之警詢筆錄（97偵2931號卷(一)第
+  被告丑○○於97年7 月25日之警詢筆錄（97偵2931號卷(一)第
     143 至145 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告丑○○於98年6 月4 日之調查局中機組警詢筆錄（98
+  被告丑○○於98年6 月4 日之調查局中機組警詢筆錄（98
     偵1524號卷(五)第4 至10頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />被告丑○○於97年7 月23日之偵訊具結筆錄（97偵2931號卷
+  被告丑○○於97年7 月23日之偵訊具結筆錄（97偵2931號卷
     (一)第125 至140 頁）（結文第142 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />被告丑○○於98年6 月3 日之偵訊具結筆錄（98偵1524號卷
+  被告丑○○於98年6 月3 日之偵訊具結筆錄（98偵1524號卷
     (四)第300 、304 至305 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />被告丑○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
+  被告丑○○於98年6 月4 日之偵訊筆錄（98偵1524號卷(五)第
     39至44頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />被告丑○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
+  被告丑○○於98年6 月5 日之偵訊筆錄（98偵1524號卷(五)第
     54至56、64、78至79、83、92頁）。
 (8)、同案被告辰○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告辰○○於97年6 月4 日之警詢筆錄（97偵2931號警卷第
+  被告辰○○於97年6 月4 日之警詢筆錄（97偵2931號警卷第
     70至74頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告辰○○於98年5 月25日之警詢筆錄（98偵1524號卷(四)第
+  被告辰○○於98年5 月25日之警詢筆錄（98偵1524號卷(四)第
     155 至159 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告辰○○於97年6 月4 日之偵訊具結筆錄（97偵2931號卷
+  被告辰○○於97年6 月4 日之偵訊具結筆錄（97偵2931號卷
     (一)第20至24頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告辰○○於98年5 月25日之偵訊具結筆錄（98偵1524號卷
+  被告辰○○於98年5 月25日之偵訊具結筆錄（98偵1524號卷
     (四)第185 至189 、195 頁）。
 (9)、同案被告戊○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告戊○○97年6 月4 日之第2 次警詢筆錄（97偵2931號警
+  被告戊○○97年6 月4 日之第2 次警詢筆錄（97偵2931號警
     卷第44至48頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告戊○○於97年6 月4 日之偵訊筆錄（97偵2931號卷(一)第
+  被告戊○○於97年6 月4 日之偵訊筆錄（97偵2931號卷(一)第
     18至20頁）。
 (10)、同案被告巳○○之筆錄：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告巳○○於97年6 月4 日之警詢筆錄（投竹警偵字第0970
+  被告巳○○於97年6 月4 日之警詢筆錄（投竹警偵字第0970
     007268號卷第22至23頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告巳○○於98年5 月25日之警詢筆錄（98偵1524號卷(四)第
+  被告巳○○於98年5 月25日之警詢筆錄（98偵1524號卷(四)第
     224 至227 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告蘇建誠於98年5 月25日之偵訊筆錄（98偵1524號卷(四)第
+  被告蘇建誠於98年5 月25日之偵訊筆錄（98偵1524號卷(四)第
     228 至234 頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告巳○○於98年5 月26日之偵訊具結筆錄（98偵1524號卷
+  被告巳○○於98年5 月26日之偵訊具結筆錄（98偵1524號卷
     (四)第235 至239 頁）。
 ２、書證部分：
 (1)、個人戶籍及相片影像資料查詢結果8 紙（97偵2931號卷(一)第
     119 、123 至124 、146 、148 、151 至152 、154 頁）：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />丑○○指認子○○（第119 頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />丑○○指認寅○○（第123 頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />丑○○指認乙○○（第124 頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />丑○○指認壬○○（第146 頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />丑○○指認卯○○（第148 頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />丑○○指認辰○○（第151 頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />丑○○指認戊○○（第152 頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />丑○○指認己○○（第154 頁）。
+    丑○○指認子○○（第119 頁）。
+    丑○○指認寅○○（第123 頁）。
+    丑○○指認乙○○（第124 頁）。
+    丑○○指認壬○○（第146 頁）。
+    丑○○指認卯○○（第148 頁）。
+    丑○○指認辰○○（第151 頁）。
+    丑○○指認戊○○（第152 頁）。
+    丑○○指認己○○（第154 頁）。
 (2)、戊○○指認丑○○之指認照片（97偵2931號警卷第52頁）。
 (3)、雲林縣古坑鄉東和村海豐崙溪上游河床示意圖（97偵2931號
     卷(一)第4 頁）。
@@ -493,9 +386,9 @@ function openwin(URL,arguments,width,height)
 (8)、責付保管書5 紙（車號928-JE、712-HK、479-GH、758-GT號
     等4 部砂石車及日立牌EX300 型挖土機1 部，見97偵2931號
     警卷第66、90頁、投竹警偵字第0970007268號卷第12、25、
-    29頁。具結保管人：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />928-JE號砂石車：戊○○；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />712-HK
-    號砂石車：辰○○；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />479-GH號砂石車：壬○○；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />758-GT
-    號砂石車：巳○○；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />日立牌EX300 型挖土機：己○○）。
+    29頁。具結保管人：928-JE號砂石車：戊○○；712-HK
+    號砂石車：辰○○；479-GH號砂石車：壬○○；758-GT
+    號砂石車：巳○○；日立牌EX300 型挖土機：己○○）。
 (9)、雲林縣政府97年6 月4 日現場勘查紀錄1 份（97偵2931號警
     卷第103 頁）。
 (10)、南投縣竹山鎮○○段176-190 地號查詢及航照圖（南投地檢
@@ -513,7 +406,7 @@ function openwin(URL,arguments,width,height)
     880 號函及所附之座標圖（98偵1524號卷(六)第47至48頁）。
 (16)斗南分局98年6 月12日古坑鄉海豐崙溪上游現場勘查照片32
     張（98偵1524號卷(六)第104 至121 頁）。
-(17)<font color='red'>楊曜</font>欽提供之地圖1 份（98偵1524號卷(六)第130 頁）。
+(17)楊曜欽提供之地圖1 份（98偵1524號卷(六)第130 頁）。
 (18)98年6 月12日勘驗現場筆錄1 份（檢察官會同經濟部水利署
     第五河川局、雲林縣斗六地政事務所、雲林縣政府水利處等
     相關單位，及被告丑○○、子○○勘驗確認第一次、第二次
@@ -620,86 +513,11 @@ function openwin(URL,arguments,width,height)
 犯竊盜罪而有左列情形之一者，處6 月以上、5 年以下有期徒刑
 ：
 四、結夥三人以上而犯之者。
-</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[D:\Judday\NOK\LAWULD\CRIMINAL\9811\09\ULDM98B9.00B] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000619&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%a5%8a%e6%9b%9c&sdate=&edate=&page=&searchkw=%e6%a5%8a%e6%9b%9c&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c619%2c20091109%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=619&jdate=981109&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c619%2c20091109%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=619&jdate=981109&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c619%2c20091109%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','619','981109','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="ULD 臺灣雲林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="楊曜">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="楊曜">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]98,訴,619,20091109,1
+[*v_court*]ULD 臺灣雲林地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]619
+[*jdate*]981109
+[*jcheck*]1

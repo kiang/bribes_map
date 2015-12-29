@@ -1,129 +1,22 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-92簡2569</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e7%b0%a1&selectedCrmno=002569&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b2%88%e6%99%ba%e6%85%a7&sdate=&edate=&page=&searchkw=%e6%b2%88%e6%99%ba%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b2%88%e6%99%ba%e6%85%a7&sdate=&edate=&page=&searchkw=%e6%b2%88%e6%99%ba%e6%85%a7&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e7%b0%a1%2c2569%2c20030930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e7%b0%a1&jno=2569&jdate=920930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e7%b0%a1%2c2569%2c20030930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e7%b0%a1&jno=2569&jdate=920930&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e7%b0%a1%2c2569%2c20030930%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e7%b0%a1','2569','920930','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,簡,2569</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">920930</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害名譽</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事簡易判決　　　　　　　　　　九十二年度簡字第二五六九號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=92%2c%e7%b0%a1%2c2569%2c20030930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e7%b0%a1&jno=2569&jdate=920930&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e7%b0%a1&selectedCrmno=002569&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=92%2c%e7%b0%a1%2c2569%2c20030930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e7%b0%a1&jno=2569&jdate=920930&jcheck=1
+[*裁判字號*]92,簡,2569
+[*裁判日期*]920930
+[*裁判案由*]妨害名譽
+[*裁判全文*]臺灣臺北地方法院刑事簡易判決　　　　　　　　　　九十二年度簡字第二五六九號
 　　聲　請　人　臺灣臺北地方法院檢察署檢察官
-　　被　　　告　傅<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E43D2A0A00000040.GIF" />萁
+　　被　　　告　傅萁
 右列被告因妨害名譽案件，經檢察官聲請以簡易判決處刑（九十二年度偵字第一０九
 六八號），本院判決如左：
     主      文
-傅<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E43D2A0A00000040.GIF" />萁公然侮辱人，處拘役<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾日，如易科罰金以<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元折算壹日。
+傅萁公然侮辱人，處拘役拾日，如易科罰金以佰元折算壹日。
     事實及理由
 一、本件犯罪事實及證據均引用如附件檢察官聲請簡易判決處刑書犯罪事實欄一、證
     據並所犯法條欄一之記載，惟就被告公然侮辱告訴人葉國興之客觀情狀應作如下
     之補充：
     犯罪事實欄一第二行起，應補充記載為：．．抨擊中央社關於拉法葉艦翻譯錯誤
-    之事，行政院新聞局並指派出版處處長鍾修賢到場列席。詎傅<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E43D2A0A00000040.GIF" />萁竟基於公然侮
+    之事，行政院新聞局並指派出版處處長鍾修賢到場列席。詎傅萁竟基於公然侮
     辱人之犯意，在立法委員林郁芳、周錫瑋、邱毅等人及媒體記者等特定之多數人
     在場得以共見共聞之公然狀態下，發言稱：「陳水扁要壟斷媒體，然後放狗咬人
     ，葉國興就是狗，蘇正平就是狗（未據蘇正平提出告訴），放狗咬人，含血噴人
@@ -149,12 +42,12 @@ function openwin(URL,arguments,width,height)
 　　被　　　告　甲○○　男四十一歲（民國○○○年○月○日生）
 　　　　　　　　　　　　住花蓮縣吉安鄉○○路○段七八八號
 　　　　　　　　　　　　居台北市○○路○段三之一號四０一室
-　　　　　　　　　　　　身分證統一編號：Ａ一二二<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F7AF2A0A00000040.GIF" />四一二六六號
+　　　　　　　　　　　　身分證統一編號：Ａ一二二四一二六六號
 右被告因妨害名譽案件，業經偵查終結，認應聲請以簡易判決處刑，茲敘述犯罪事實
 及證據並所犯法條如左：
 　　　　犯罪事實
 一、甲○○於民國九十二年三月三日上午十時，在立法院親民黨團記者室內，與親民
-　　黨籍之立法委員劉文雄、<font color='red'>沈智慧</font>、邱毅等人，共同召開記者會，抨擊中央社關於
+　　黨籍之立法委員劉文雄、沈智慧、邱毅等人，共同召開記者會，抨擊中央社關於
 　　拉法葉艦案翻譯錯誤之事；詎甲○○竟基於公然侮辱人之犯意，發言稱「陳水扁
 　　要壟斷媒體，然後放狗咬人，葉國興就是狗，蘇正平就是狗，放狗咬人，含血噴
 　　人，今天派些小狗來，也沒有澄清，你來這裡幹什麼？」等語，而侮辱行政院新
@@ -179,86 +72,11 @@ function openwin(URL,arguments,width,height)
 臺灣臺北地方法院
 中　　　華　　　民　　　國　　九十二　　年　　　六　　　月　　 十一 　　日
 　　　　　　　　　　　　　　　　　　　　檢　察　官　蔡　佳　玲
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\jud12\OK\LAWTPD\CRIMINAL\9209\30\TPDM929U.620] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e7%b0%a1&selectedCrmno=002569&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b2%88%e6%99%ba%e6%85%a7&sdate=&edate=&page=&searchkw=%e6%b2%88%e6%99%ba%e6%85%a7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b2%88%e6%99%ba%e6%85%a7&sdate=&edate=&page=&searchkw=%e6%b2%88%e6%99%ba%e6%85%a7&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e7%b0%a1%2c2569%2c20030930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e7%b0%a1&jno=2569&jdate=920930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e7%b0%a1%2c2569%2c20030930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e7%b0%a1&jno=2569&jdate=920930&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e7%b0%a1%2c2569%2c20030930%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e7%b0%a1','2569','920930','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="沈智慧">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="沈智慧">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]92,簡,2569,20030930,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]92
+[*jcase*]簡
+[*jno*]2569
+[*jdate*]920930
+[*jcheck*]1

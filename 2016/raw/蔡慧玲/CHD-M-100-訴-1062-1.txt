@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-100訴1062</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共16
-											筆 / 現在第14
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001062&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1062%2c20111221%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1062&jdate=1001221&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1062%2c20111221%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1062&jdate=1001221&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1062%2c20111221%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1062','1001221','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,1062</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1001221</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誣告</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　 100年度訴字第1062號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1062%2c20111221%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1062&jdate=1001221&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001062&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1062%2c20111221%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1062&jdate=1001221&jcheck=1
+[*裁判字號*]100,訴,1062
+[*裁判日期*]1001221
+[*裁判案由*]誣告
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　 100年度訴字第1062號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　賴明昌
 上列被告因誣告案件，經檢察官提起公訴（100 年度偵字第3906
@@ -139,7 +32,7 @@ function openwin(URL,arguments,width,height)
       私文書之犯意聯絡，於99年6 月9 日，在彰化縣彰化市○
       ○○路525 號之總工會2 樓會議室，召開托育工會第1屆
       第2 次理事會議（賴明昌亦有列席與會，但中途離席；另
-      有托育工會理事<font color='red'>蔡慧玲</font>、王泳家出席），推由甲男冒名梁
+      有托育工會理事蔡慧玲、王泳家出席），推由甲男冒名梁
       宏俊出席會議、發言及參與表決解聘賴明昌，且在「彰化
       縣幼兒托育職業工會第一屆第二次理事會議議程」紀錄之
       出席人員欄偽簽「梁宏俊」署名1 枚，共同偽造梁宏俊出
@@ -186,7 +79,7 @@ function openwin(URL,arguments,width,height)
 （二）於99年6 月9 日，在彰化縣彰化市○○○路525 號之總工
       會2 樓會議室召開托育工會第1 屆第2 次理事會議，確實
       係梁宏俊本人出席之情，業據證人劉美緒於本院100 年12
-      月7 日審理時證述屬實，且證人黃<font color='red'>蔡慧玲</font>於本院100 年12
+      月7 日審理時證述屬實，且證人黃蔡慧玲於本院100 年12
       月7 日審理時亦證稱：「（你只有看過梁宏俊三次，就是
       99 年6月9 日、99年6 月23日及99年11月10日偵訊？）對
       。」、「（就你的印象，這三次是同一人嗎？）是，我覺
@@ -215,18 +108,18 @@ function openwin(URL,arguments,width,height)
       於一年多前見過一次面，故對其面容應不熟識之情，堪以
       認定。
     2.99年6 月9 日托育工會第一屆第二次理事會開會之初，被
-      告及劉美緒、梁宏俊、黃<font color='red'>蔡慧玲</font>、王泳家均準時簽到出席
+      告及劉美緒、梁宏俊、黃蔡慧玲、王泳家均準時簽到出席
       ，劉美緒之位置坐於主席台，台下第一排由右至左則依序
-      坐梁宏俊、黃<font color='red'>蔡慧玲</font>、王泳家、賴明昌等人，當日開會之
+      坐梁宏俊、黃蔡慧玲、王泳家、賴明昌等人，當日開會之
       主席為劉美緒，會議流程之始由出席人員簽到後，便由當
       日之主席劉美緒宣布開會並致詞，皆下來主席進行工作報
       告，報告內容主要係被告涉嫌侵占托育工會會款及勞健保
       費用部分，需要進行查帳，報告完畢後席間游雅雯、柯俊
-      戎、劉美緒、被告、黃<font color='red'>蔡慧玲</font>、王泳家及梁宏俊等人陸續
+      戎、劉美緒、被告、黃蔡慧玲、王泳家及梁宏俊等人陸續
       發言，至討論被告賴明昌解聘乙案時，被告賴明昌始因需
       要迴避而中途被要求離開會場，且於上開解聘乙案表決通
       過後，亦有使被告入場告知其表決結果乙節，業據證人劉
-      美緒、黃<font color='red'>蔡慧玲</font>、王泳家於本院審理時證述屬實，且有彰
+      美緒、黃蔡慧玲、王泳家於本院審理時證述屬實，且有彰
       化縣幼兒托育職業工會第一屆第二次理事會議紀錄（含簽
       到紀錄）（見本院卷第56至58頁）、證人劉美緒於本院審
       理時所繪製之現場圖（惟證人劉美緒證述稱現場圖中被告
@@ -239,19 +132,19 @@ function openwin(URL,arguments,width,height)
       時間等情觀之，被告於該次會議中應有親見梁宏俊。
     3.至99年11月10日下午3 時19分在台灣彰化地方法院檢察署
       99年度偵字第8266號案件開庭時，因係檢察官傳訊證人李
-      美津、周林素真、黃<font color='red'>蔡慧玲</font>、梁宏俊及王泳家等證人進行
+      美津、周林素真、黃蔡慧玲、梁宏俊及王泳家等證人進行
       訊問，故被告始終均未到庭親見是否為梁宏俊本人開庭之
       情，亦有上開偵訊筆錄附卷可稽（見99年度他字第2544號
       卷第10至13頁）。
-    4.又證人黃<font color='red'>蔡慧玲</font>、王泳家均為被告所推薦進入托育工會擔
+    4.又證人黃蔡慧玲、王泳家均為被告所推薦進入托育工會擔
       任理事之人，且二人於99年6 月9 日前均不認識梁宏俊之
-      情，業據被告所自承，且為證人黃<font color='red'>蔡慧玲</font>、王泳家於本院
+      情，業據被告所自承，且為證人黃蔡慧玲、王泳家於本院
       審理時證述綦詳。則被告於99年6 月9 日托育工會第一屆
       第二次理事會議後，如懷疑所出席之人並非梁宏俊本人，
-      係向上開不認識梁宏俊之黃<font color='red'>蔡慧玲</font>、王泳家求證，而非向
+      係向上開不認識梁宏俊之黃蔡慧玲、王泳家求證，而非向
       其餘認識梁宏俊之理事求證，即有可疑。況檢察官於100
-      年1 月20日同時傳喚證人黃<font color='red'>蔡慧玲</font>、證人梁宏俊及被告當
-      面對質，當時證人黃<font color='red'>蔡慧玲</font>於偵訊中結證稱：「本案之前
+      年1 月20日同時傳喚證人黃蔡慧玲、證人梁宏俊及被告當
+      面對質，當時證人黃蔡慧玲於偵訊中結證稱：「本案之前
       我對梁宏俊這個人沒有什麼印象，直到99年6 月9 日工會
       開會時，見到梁宏俊這個人才知道他是梁宏俊，後來因為
       開完會，賴明昌告訴我說，99年6 月9 日開會的梁宏俊，
@@ -269,7 +162,7 @@ function openwin(URL,arguments,width,height)
       月10日與今天看到的梁宏俊是否同一人？）99年6 月9 日
       、99年11月10日與現在看到的是同一人。我是因為賴明昌
       跟我說不同人，我才會去注意。」等語（見100 年度偵字
-      第414 號卷第14、15頁）；證人黃<font color='red'>蔡慧玲</font>復於本院審理時
+      第414 號卷第14、15頁）；證人黃蔡慧玲復於本院審理時
       證稱：「我看到6 月9 日的梁宏俊，後來有再出席到地檢
       署開庭，我有看到梁宏俊，我說這個跟6 月9 日開會的好
       像是同一人...99 年6 月23日我有出席，梁宏俊也有出席
@@ -282,8 +175,8 @@ function openwin(URL,arguments,width,height)
       有無跟你說梁宏俊的身份有問題？）當天會議結束之後他
       有跟我提這個，我說因為我不認識，所以我也沒有辦法給
       你任何的回答。」等語，是被告於99年6 月9 日開完會後
-      曾向當天亦有出席會議及99年11月10日開庭之黃<font color='red'>蔡慧玲</font>、
-      王泳家求證，黃<font color='red'>蔡慧玲</font>係表示99年6 月9 日、99年11月10
+      曾向當天亦有出席會議及99年11月10日開庭之黃蔡慧玲、
+      王泳家求證，黃蔡慧玲係表示99年6 月9 日、99年11月10
       日與成立大會照片上之梁宏俊相似度極高，是否為雙胞胎
       ，而王泳家則表示根本不認識梁宏俊，故沒有辦法回答，
       均非肯定被告之懷疑，惟被告仍恣意堅持己見，甚且至臺
@@ -342,7 +235,7 @@ function openwin(URL,arguments,width,height)
     本院審酌其誣告之動機，係因被告本身涉嫌侵占托育工會會
     款遭被害人等解職，並未反求諸己，反省自身所犯之錯誤，
     竟心生不滿，且其於至臺灣彰化地方法院檢察署申告前曾向
-    證人黃<font color='red'>蔡慧玲</font>、王泳家等人求證，證人等斯時均表示：不認
+    證人黃蔡慧玲、王泳家等人求證，證人等斯時均表示：不認
     識梁宏俊，或開會、偵訊時的梁宏俊很像照片中之梁宏俊，
     應為雙胞胎等語，足見其明知而率爾誣告被害人等犯偽造文
     書、偽證等罪，嚴重缺乏尊重他人之觀念，更將司法制度視
@@ -363,86 +256,12 @@ function openwin(URL,arguments,width,height)
 告訴人或被害人對於判決如有不服具備理由請求檢察官上訴者，
 其上訴期間之計算係以檢察官收受判決正本之日期為準。
 中    華    民    國   100    年    12    月    21    日
-                                書記官  李噯靜</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10012\21\CHDM100CL.00J] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共16
-											筆 / 現在第14
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001062&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1062%2c20111221%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1062&jdate=1001221&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1062%2c20111221%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1062&jdate=1001221&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1062%2c20111221%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1062','1001221','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="14"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡慧玲">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡慧玲">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+                                書記官  李噯靜
+[*jrecno*]100,訴,1062,20111221,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]1062
+[*jdate*]1001221
+[*jcheck*]1

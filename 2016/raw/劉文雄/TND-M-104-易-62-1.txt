@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-104易62</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e6%98%93&selectedCrmno=000062&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e6%98%93%2c62%2c20150506%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=62&jdate=1040506&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e6%98%93%2c62%2c20150506%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=62&jdate=1040506&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e6%98%93%2c62%2c20150506%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e6%98%93','62','1040506','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,易,62</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040506</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害公務</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　 104年度易字第62號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e6%98%93%2c62%2c20150506%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=62&jdate=1040506&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e6%98%93&selectedCrmno=000062&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e6%98%93%2c62%2c20150506%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=62&jdate=1040506&jcheck=1
+[*裁判字號*]104,易,62
+[*裁判日期*]1040506
+[*裁判案由*]妨害公務
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　 104年度易字第62號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　劉海朝
 　　　　　　劉李秀霞
@@ -124,10 +17,10 @@ function openwin(URL,arguments,width,height)
 ，以新臺幣壹仟元折算壹日。緩刑貳年。
 劉李秀霞無罪。
     事  實
-一、劉海朝為劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />（已於民國101 年11月11日死亡）之子。劉
-    石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />於86年5 月1 日，將其所有如附表編號1 至3 所示之土
-    地，出租予其子<font color='red'>劉文雄</font>（另案通緝中）所經營之慶光鋁業股
-    份有限公司（以下簡稱慶光公司）。劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />並於86年5 月5
+一、劉海朝為劉石（已於民國101 年11月11日死亡）之子。劉
+    石於86年5 月1 日，將其所有如附表編號1 至3 所示之土
+    地，出租予其子劉文雄（另案通緝中）所經營之慶光鋁業股
+    份有限公司（以下簡稱慶光公司）。劉石並於86年5 月5
     日出具土地使用同意書予慶光公司，由慶光公司在上開土地
     起造廠房2 棟，並辦理保存登記即如附表編號4 、5 所示之
     建物。其後，因慶光公司積欠債務，經債權人交通銀行股份
@@ -136,11 +29,11 @@ function openwin(URL,arguments,width,height)
     制前之臺南縣永康地政事務所對如附表編號4 、5 所示之建
     物為假扣押登記；且於同年4 月1 日對如附表編號4 、5 所
     示之建物執行查封，並交由劉海朝負責保管。慶光公司嗣於
-    96年6 月15日與劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />成立調解，同意如附表編號4 、5 所
-    示之建物歸劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />所有，以抵償積欠劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />之租金（惟尚未
-    為所有權移轉登記）。詎劉海朝、劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />明知上開建物已為
+    96年6 月15日與劉石成立調解，同意如附表編號4 、5 所
+    示之建物歸劉石所有，以抵償積欠劉石之租金（惟尚未
+    為所有權移轉登記）。詎劉海朝、劉石明知上開建物已為
     查封登記，竟基於犯意聯絡，於96年12月3 日，由劉海朝代
-    理劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />，將上開建物及如附表編號1 至3 所示之土地，分
+    理劉石，將上開建物及如附表編號1 至3 所示之土地，分
     別以每月新臺幣（下同）17萬元（如附表編號1 、2 所示之
     土地，及編號4 所示之建物）、7 萬元（如附表編號3 所示
     之土地，及編號5 所示之建物）之代價，出租予帝谷企業股
@@ -164,7 +57,7 @@ function openwin(URL,arguments,width,height)
     程並無瑕疵，與本案待證事實間復具有相當之關聯性，以之
     為本案證據並無不當，應有證據能力，而得採為本件認定事
     實之基礎，合先敘明。
-二、訊據被告劉海朝固坦承有於96年12月3 日代理劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />，將上
+二、訊據被告劉海朝固坦承有於96年12月3 日代理劉石，將上
     開建物及如附表編號1 至3 所示之土地，分別出租予帝谷公
     司及帝舜公司之事實，然堅決否認有何違背查封效力之犯行
     ，辯稱：上開建物要出租前，他有問地方法院的服務人員，
@@ -178,7 +71,7 @@ function openwin(URL,arguments,width,height)
       經本院囑託改制前之臺南縣永康地政事務所對如附表編號
       4 、5 所示之建物為假扣押登記；且於同年4 月1 日對如
       附表編號4 、5 所示之建物執行查封，且交由劉海朝負責
-      保管。其後劉海朝代理劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />，於96年12月3 日將上開建
+      保管。其後劉海朝代理劉石，於96年12月3 日將上開建
       物及如附表編號1 至3 所示之土地，以每月24萬元之代價
       ，分別出租予帝谷公司及帝舜公司等情為被告劉海朝所不
       爭執，且有卷附臺南市○○地○○○○○○○○○○○○
@@ -213,7 +106,7 @@ function openwin(URL,arguments,width,height)
       之行為而言，包括法律行為如將查封物出租或出借，及事
       實行為如將查封物毀損或變動其型體等（民事法律問題研
       究彙編第7 輯716 頁）。
-          本件被告劉海朝代理劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />與帝谷公司及帝舜公司訂
+          本件被告劉海朝代理劉石與帝谷公司及帝舜公司訂
       立租賃契約將上開已查封之建物出租予帝谷公司及帝舜公
       司，究其行為內容，除有負擔（債權）行為外，並將上開
       建物交付予帝谷公司及帝舜公司，使上開公司因而未經執
@@ -226,7 +119,7 @@ function openwin(URL,arguments,width,height)
     劉海朝違背查封效力之犯行，事證明確，堪予認定，應依法
     論科。
 三、核被告劉海朝所為，係犯刑法第139 條之違背查封效力罪。
-    被告劉海朝與劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />有犯意聯絡、行為分擔，均為共同正犯
+    被告劉海朝與劉石有犯意聯絡、行為分擔，均為共同正犯
     。爰審酌被告並無前科犯行，品行尚佳、因不諳法律規定而
     出租上開建物，一時失慮致違反法律規定、其行為平和並未
     阻撓其後強制執行程序之進行，甚且先告知承租人上開建物
@@ -260,9 +153,9 @@ function openwin(URL,arguments,width,height)
     諭知，附此敘明。
 乙、無罪部分
 一、公訴意旨另以：被告劉李秀霞為被告劉海朝之配偶，其與被
-    告劉海朝、<font color='red'>劉文雄</font>及劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />明知上開建物已為查封登記，竟
+    告劉海朝、劉文雄及劉石明知上開建物已為查封登記，竟
     共同基於違背查封效力之犯意聯絡，於96年12月3 日，推由
-    劉海朝代理劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />及劉李秀霞，將上開建物及座落之鹽南段
+    劉海朝代理劉石及劉李秀霞，將上開建物及座落之鹽南段
     373 、377 及374 地號土地，以每月24萬元之代價，出租予
     帝谷公司及帝舜公司，而為違背查封效力之行為，嚴重影響
     事後上開建物強制執行實應買之意願。因認被告劉海朝及劉
@@ -284,8 +177,8 @@ function openwin(URL,arguments,width,height)
       示土地委由被告劉海朝出租予帝舜公司。在上開不動產租
       賃契約書、委任書中，均明確記載被告劉李秀霞僅出租其
       所有之如附表編號3 所示土地，至於座落該土地上之如附
-      表編號5 所示建物則另標二出租人為劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />，且係由劉石
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />委任劉海朝出租。亦即，本件被告劉李秀霞除出租其所
+      表編號5 所示建物則另標二出租人為劉石，且係由劉石
+      委任劉海朝出租。亦即，本件被告劉李秀霞除出租其所
       有未經查封之如附表編號3 所示土地外，並未參與出租如
       附表編號4 、5 所示二筆建物。
 （二）證人即帝谷公司及帝舜公司負責人吳龍川於本院亦證稱「
@@ -328,17 +221,17 @@ function openwin(URL,arguments,width,height)
 ┌──┬──────────┬────┬───────┐
 │編號│地號／建號          │所有權人│  備      註  │
 ├──┼──────────┼────┼───────┤
-│1   │臺南市永康區鹽南段  │劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />  │              │
+│1   │臺南市永康區鹽南段  │劉石  │              │
 │    │373號土地           │        │              │
 ├──┼──────────┼────┼───────┤
-│2   │臺南市永康區鹽南段  │劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />  │              │
+│2   │臺南市永康區鹽南段  │劉石  │              │
 │    │377號土地           │        │              │
 ├──┼──────────┼────┼───────┤
 │3   │臺南市永康區鹽南段  │劉李秀霞│              │
 │    │374號土地           │        │              │
 ├──┼──────────┼────┼───────┤
 │4   │臺南市永康區鹽南段  │使用權人│1.座落於編號1 │
-│    │75號建物            │：劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />│  、2所示之土 │
+│    │75號建物            │：劉石│  、2所示之土 │
 │    │                    │        │  地上。      │
 │    │                    │        │2.門牌號碼：臺│
 │    │                    │        │  南市永康區中│
@@ -348,7 +241,7 @@ function openwin(URL,arguments,width,height)
 │    │                    │        │  161號）。   │
 ├──┼──────────┼────┼───────┤
 │5   │臺南市永康區鹽南段  │使用權人│1.座落於編號3 │
-│    │76號建物            │：劉石<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4A32A0A00000040.GIF" />│  所示之土地上│
+│    │76號建物            │：劉石│  所示之土地上│
 │    │                    │        │  。          │
 │    │                    │        │2.門牌號碼：臺│
 │    │                    │        │  南市永康區中│
@@ -356,86 +249,12 @@ function openwin(URL,arguments,width,height)
 │    │                    │        │  133號（即原 │
 │    │                    │        │  永康市鹽和街│
 │    │                    │        │  162號）。   │
-└──┴──────────┴────┴───────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTND\CRIMINAL\10405\06\TNDM10456.005] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e6%98%93&selectedCrmno=000062&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e6%98%93%2c62%2c20150506%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=62&jdate=1040506&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e6%98%93%2c62%2c20150506%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=62&jdate=1040506&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e6%98%93%2c62%2c20150506%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e6%98%93','62','1040506','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴──────────┴────┴───────┘
+[*jrecno*]104,易,62,20150506,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]易
+[*jno*]62
+[*jdate*]1040506
+[*jcheck*]1

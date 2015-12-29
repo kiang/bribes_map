@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-102易1072</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ywHECHFlY/0CE9FgFOlXEeDSP3M=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第4
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=001072&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%bb%ba%e6%96%8c&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%bb%ba%e6%96%8c&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%bb%ba%e6%96%8c&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%bb%ba%e6%96%8c&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c1072%2c20131203%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1072&jdate=1021203&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c1072%2c20131203%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1072&jdate=1021203&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c1072%2c20131203%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','1072','1021203','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,易,1072</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021203</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　 102年度易字第1072號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c1072%2c20131203%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1072&jdate=1021203&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=001072&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e6%98%93%2c1072%2c20131203%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1072&jdate=1021203&jcheck=1
+[*裁判字號*]102,易,1072
+[*裁判日期*]1021203
+[*裁判案由*]恐嚇
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　 102年度易字第1072號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　謝清彥
 上列被告因恐嚇案件，經檢察官提起公訴（102年度偵緝字第331
@@ -120,12 +15,12 @@ function openwin(URL,arguments,width,height)
 一、公訴意旨略以：被告謝清彥基於恐嚇危害安全之犯意，以化
     名「志中」，分別於民國100 年10月間某日、同年11月9 日
     ，寄送信紙及信封上印有「松聯」字樣之信件至法務部矯正
-    署桃園監獄（下稱桃園監獄）予當時服刑中之<font color='red'>陳建斌</font>，要求
-    <font color='red'>陳建斌</font>就其與黃以任間之殺人未遂案件和解事宜與之聯絡協
+    署桃園監獄（下稱桃園監獄）予當時服刑中之陳建斌，要求
+    陳建斌就其與黃以任間之殺人未遂案件和解事宜與之聯絡協
     商，信件內並載有「若您於收信後仍執意未有任何動作，爾
     後我會找時間當面向您道歉」、「如果不介意的話，可否讓
-    我迎接您即將出獄的日子」等字樣，以此方式恐嚇<font color='red'>陳建斌</font>，
-    使<font color='red'>陳建斌</font>心生畏懼，致生危害於安全。因認被告涉犯刑法第
+    我迎接您即將出獄的日子」等字樣，以此方式恐嚇陳建斌，
+    使陳建斌心生畏懼，致生危害於安全。因認被告涉犯刑法第
     305 條之恐嚇危害安全罪嫌。
 二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實；不
     能證明被告犯罪者，應諭知無罪之判決，刑事訴訟法第154
@@ -141,19 +36,19 @@ function openwin(URL,arguments,width,height)
     信，根據「罪證有疑，利於被告」之證據法則，即不得遽為
     不利被告之認定，最高法院30年上字第816 號、53年台上字
     第656 號、76年台上字第4986號判例可資參照。
-三、公訴人認被告涉犯上開罪嫌，無非以告訴人<font color='red'>陳建斌</font>之指述、
+三、公訴人認被告涉犯上開罪嫌，無非以告訴人陳建斌之指述、
     證人黃以任之證述、被告之供述及信件影本等件為其主要論
     據。訊據被告固坦承有分別於上開時間，將上開內容之信件
-    2 封寄予<font color='red'>陳建斌</font>等情，惟堅決否認有何恐嚇之犯行，辯稱：
-    其寄上開2 封信僅係希望<font color='red'>陳建斌</font>能出面與黃以任和解，並非
+    2 封寄予陳建斌等情，惟堅決否認有何恐嚇之犯行，辯稱：
+    其寄上開2 封信僅係希望陳建斌能出面與黃以任和解，並非
     恐嚇等語。
 四、經查：
  (一) 被告確有於上開時、地，以其化名「志中」，分別將印有
       「松聯」字樣且內容載有「若您於收信後仍執意未有任何
       動作，爾後我會找時間當面向您道歉」、「如果不介意的
       話，可否讓我迎接您即將出獄的日子」等語之信件寄送予
-      <font color='red'>陳建斌</font>等情，業據被告於本院審理中所自承（見本院易卷
-      第75頁反面），並經證人<font color='red'>陳建斌</font>於檢察官偵查及本院審理
+      陳建斌等情，業據被告於本院審理中所自承（見本院易卷
+      第75頁反面），並經證人陳建斌於檢察官偵查及本院審理
       中證述明確（見本院易卷第46至48頁），復有上開信件內
       容影本在卷可稽（見他卷第4 、21頁），此部分事實堪以
       認定。
@@ -177,39 +72,39 @@ function openwin(URL,arguments,width,height)
       ：「若您於收信後仍執意未有任何動作，爾後我會找時間
       當面向您道歉」、「如果不介意的話，可否讓我迎接您即
       將出獄的日子」等語，觀諸上開信件內容之文字全文及前
-      後脈絡，被告顯係要求<font color='red'>陳建斌</font>與其聯絡，以協調<font color='red'>陳建斌</font>與
+      後脈絡，被告顯係要求陳建斌與其聯絡，以協調陳建斌與
       黃以任就100 年度緝字第34號殺人未遂案件之和解賠償事
       宜，至被告以化名「志中」寄出上開印有「松聯」字樣之
       信件，並檢附紅發公益服務社謝志中名片1 張，客觀上僅
-      表明其之身分、地址及電話，供<font color='red'>陳建斌</font>聯絡與其和解之事
-      ，然均並未明確、具體提及將對<font color='red'>陳建斌</font>不利，或將以何種
+      表明其之身分、地址及電話，供陳建斌聯絡與其和解之事
+      ，然均並未明確、具體提及將對陳建斌不利，或將以何種
       方式侵害其何種法益，尚難認係惡害之通知；且黃以任因
-      前遭<font color='red'>陳建斌</font>傷害，曾拜託被告出面處理其與<font color='red'>陳建斌</font>協商和
-      解事宜，嗣黃以任與<font color='red'>陳建斌</font>以10萬元達成和解等情，業據
+      前遭陳建斌傷害，曾拜託被告出面處理其與陳建斌協商和
+      解事宜，嗣黃以任與陳建斌以10萬元達成和解等情，業據
       證人黃以任於檢察官偵查中證述明確（見他字第42頁、見
       本院易字卷第73頁反面），則被告上開言語內容所指「松
       聯」、「若您於收信後仍執意未有任何動作，爾後我會找
       時間當面向您道歉」、「如果不介意的話，可否讓我迎接
-      您即將出獄的日子」，究係指<font color='red'>陳建斌</font>倘遲未與黃以任達成
-      和解，被告將於告訴人<font color='red'>陳建斌</font>出獄後，當面與<font color='red'>陳建斌</font>協商
-      和解賠償事宜，或指被告以其幫派背景招集幫派成員對<font color='red'>陳
-      建斌</font>不利或以其他加害生命、身體、財產、自由及名譽等
-      事威脅直至<font color='red'>陳建斌</font>和解賠償，僅從被告上開言語內容，顯
+      您即將出獄的日子」，究係指陳建斌倘遲未與黃以任達成
+      和解，被告將於告訴人陳建斌出獄後，當面與陳建斌協商
+      和解賠償事宜，或指被告以其幫派背景招集幫派成員對陳
+      建斌不利或以其他加害生命、身體、財產、自由及名譽等
+      事威脅直至陳建斌和解賠償，僅從被告上開言語內容，顯
       難明瞭，衡情以一般人心理之客觀標準觀之，尚難認足以
       使人心生畏怖。
- (三) 至證人<font color='red'>陳建斌</font>固於本院審理中證稱：被告信件所載字句，
+ (三) 至證人陳建斌固於本院審理中證稱：被告信件所載字句，
       其感覺係被告要當面找其麻煩，害怕被告查到其家人，且
       其經同房告知「志中」在中壢有幫派，並認為「松聯」是
       幫派之名稱，其聽到幫派名稱就怕一堆人會將其怎樣等語
-      （見本院易卷第47頁反面、48頁），然<font color='red'>陳建斌</font>並非因信件
+      （見本院易卷第47頁反面、48頁），然陳建斌並非因信件
       內容客觀上有對其之惡害通知，而係因聽聞他人稱「志中
       」有幫派背景，主觀上聯想到幫派將不利於其，始心生畏
       懼，且綜觀上開信件，被告所用字句語氣尚堪和平，且意
-      在要求<font color='red'>陳建斌</font>與被告聯絡以協商與黃以任和解之事，又上
+      在要求陳建斌與被告聯絡以協商與黃以任和解之事，又上
       開言語、字樣內容亦未明確、具體指明將加害其法益之意
       思，自難逕認被告有將加害生命、身體、自由、名譽、財
-      產之事，以使人生畏怖心為目的，而將惡害之旨通知於<font color='red'>陳
-      建斌</font>，縱告訴人<font color='red'>陳建斌</font>內心有所畏懼，仍與刑法恐嚇罪之
+      產之事，以使人生畏怖心為目的，而將惡害之旨通知於陳
+      建斌，縱告訴人陳建斌內心有所畏懼，仍與刑法恐嚇罪之
       構成要件有間，即不得以該罪相繩。
 五、綜上所述，被告所為，尚與刑法恐嚇罪之構成要件不符，此
     外，復查無其他積極證據足資證明被告有何恐嚇犯行，揆諸
@@ -225,86 +120,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書(均須按他造當事人之人數附繕本)「切勿逕
 送上級法院」。
                                 書記官  林怡芳
-中    華    民    國   102    年    12    月    3     日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10212\03\TYDM102C3.008] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第4
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=001072&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%bb%ba%e6%96%8c&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%bb%ba%e6%96%8c&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%bb%ba%e6%96%8c&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%bb%ba%e6%96%8c&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c1072%2c20131203%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1072&jdate=1021203&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c1072%2c20131203%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1072&jdate=1021203&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c1072%2c20131203%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','1072','1021203','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳建斌">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳建斌">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   102    年    12    月    3     日
+[*jrecno*]102,易,1072,20131203,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]易
+[*jno*]1072
+[*jdate*]1021203
+[*jcheck*]1

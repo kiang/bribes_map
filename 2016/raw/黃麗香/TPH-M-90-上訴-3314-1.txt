@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-90上訴3314</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共23
-											筆 / 現在第22
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003314&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=21&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=3314&jdate=911029&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=3314&jdate=911029&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','90','%e4%b8%8a%e8%a8%b4','3314','911029','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,上訴,3314</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">911029</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害自由</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　　　　　　　九十年度上訴字第三三一四號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=3314&jdate=911029&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003314&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=3314&jdate=911029&jcheck=1
+[*裁判字號*]90,上訴,3314
+[*裁判日期*]911029
+[*裁判案由*]妨害自由
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　　　　　　　九十年度上訴字第三三一四號
 　　上　訴　人　臺灣臺北地方法院檢察署檢察官
 　　被　　　告　己○○
 　　選任辯護人　王聰明
@@ -168,7 +61,7 @@ function openwin(URL,arguments,width,height)
     八億元，欲在大元證券進出股票，並與甲○○約當晚九時，在凱悅飯店，與甲○
     ○見面，屆時，甲○○感覺有異，乃辭去。至同年月十二日，劉霂娃以加拿大華
     僑已回國，以電話再力邀甲○○於同日晚上九時許至台北市○○路福華飯店見面
-    ，辛○○、黃正如及黃文誠則於該時間前先至福華飯店埋伏，並囑由黃文誠<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E5AF2A0A00000040.GIF" />帶
+    ，辛○○、黃正如及黃文誠則於該時間前先至福華飯店埋伏，並囑由黃文誠帶
     類似槍枝之器物以供綁人之用，並商議假冒調查員辦案，先將甲○○騙上車，再
     以類似槍枝之物控制其自由，同日（即十二日）二十一時許，甲○○果駕駛自小
     客車至福華飯店後方停車場，甲○○甫下車，就為黃正如以手銬銬住，藉詞台中
@@ -181,7 +74,7 @@ function openwin(URL,arguments,width,height)
     欠的，但已解決云云，辛○○則告以：五千三百萬元，加利息為六千九百萬元，
     還了，就沒事云云，甲○○恐被撕票，乃應允交付四千萬元，經辛○○請示乙○
     ○，得乙○○同意並告知甲○○應將錢匯入張素珍上開帳號後，甲○○即於十三
-    日上午八時許，依辛○○所告知之張素珍帳號，電請大元證券會計<font color='red'>黃麗香</font>將四千
+    日上午八時許，依辛○○所告知之張素珍帳號，電請大元證券會計黃麗香將四千
     萬元分兩筆各二千萬元電匯入張素珍所提供上揭帳號，乙○○於得知贖款匯入後
     ，即夥同不知情之賴金隆及張忠強（已由檢察官為不起訴處分確定），由張忠強
     駕車，乙○○出面找得張素珍，再由張素珍與張忠強、賴金隆於十三日上午十一
@@ -278,7 +171,7 @@ function openwin(URL,arguments,width,height)
       原審審理中，被告有透過友人丁○○拿了二百萬元交付甲○○，用以貼補委任
       律師之費用，要求甲○○不再追究，餘款俟日後不起訴後再還，嗣接獲檢察官
       起訴之後，即反悔向甲○○索還二百萬元，此項情節，並據馬德玲、戊○○、
-      <font color='red'>黃麗香</font>等人於原審證述在卷（見原審卷第八十九年九月八日訊問筆錄，及八十
+      黃麗香等人於原審證述在卷（見原審卷第八十九年九月八日訊問筆錄，及八十
       九年十月十八日訊問筆錄），此足佐證被告有畏罪心虛，而圖撫平甲○○，以
       免被訴追，至為明顯。再者，辛○○於原審審理乙○○一案而於八十三年三月
       十五日被提訊出庭時，亦證稱其本人見過被告己○○其人，與庚○○非屬同一
@@ -301,10 +194,10 @@ function openwin(URL,arguments,width,height)
       ○亦供述庚○○曾告訴其五千三百萬元為甲○○之子所欠，債務處理則由甲○
       ○全權代為處理，事實非其債權，而是他一位「黃姓」朋友所有，庚○○指示
       綁架告訴人甲○○之後，可請被害人簽具大元證券公司取款條，再由被告己○
-      ○持至大元找「<font color='red'>黃麗香</font>」小姐提領即可等情（見八十二年偵第一七六三七號卷
+      ○持至大元找「黃麗香」小姐提領即可等情（見八十二年偵第一七六三七號卷
       第一一八頁、八十二年重訴第六十一號卷（四）第四頁、第八頁，及同卷（三
       ）第三十八頁），可見庚○○對告訴人甲○○與被告己○○間之債務糾紛瞭若
-      指掌，而「<font color='red'>黃麗香</font>」係任職被告己○○公司職員的公司會計，曾填具取款單匯
+      指掌，而「黃麗香」係任職被告己○○公司職員的公司會計，曾填具取款單匯
       款與被告收取，若非被告己○○設計唆使，並告知其帳戶號碼，庚○○何故有
       此具體指示，又如何運作整個綁架取款等事宜。再者，從辛○○手上握有紙條
       ，其上載明告訴人在銀行之存款號碼、股票交易的姓名帳號，以及八十年十一
@@ -357,86 +250,11 @@ function openwin(URL,arguments,width,height)
 因而致人於死者，處無期徒刑或七年以上有期徒刑，致重傷者，處三年以上十年以下
 有期徒刑。
 第一項之未遂犯罰之。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWTPH\CRIMINAL\9111\04\TPHM91B4.082] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共23
-											筆 / 現在第22
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003314&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=21&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=3314&jdate=911029&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=3314&jdate=911029&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e8%a8%b4%2c3314%2c20021029%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','90','%e4%b8%8a%e8%a8%b4','3314','911029','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="22"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃麗香">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃麗香">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]90,上訴,3314,20021029,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]90
+[*jcase*]上訴
+[*jno*]3314
+[*jdate*]911029
+[*jcheck*]1

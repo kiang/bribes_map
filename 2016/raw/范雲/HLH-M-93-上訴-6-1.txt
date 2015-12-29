@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-花蓮分院-刑-93上訴6</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+Gq6Ecq71Z4PSDl50P/GdLwLKb9o=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 花蓮分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000006&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=93&jcase=%e4%b8%8a%e8%a8%b4&jno=6&jdate=930422&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=93&jcase=%e4%b8%8a%e8%a8%b4&jno=6&jdate=930422&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','93','%e4%b8%8a%e8%a8%b4','6','930422','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">93,上訴,6</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">930422</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇取財</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院花蓮分院刑事判決　　　　　　　　　　　　九十三年度上訴字第六號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=93&jcase=%e4%b8%8a%e8%a8%b4&jno=6&jdate=930422&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000006&selectedCrtid=HLH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=93&jcase=%e4%b8%8a%e8%a8%b4&jno=6&jdate=930422&jcheck=1
+[*裁判字號*]93,上訴,6
+[*裁判日期*]930422
+[*裁判案由*]恐嚇取財
+[*裁判全文*]臺灣高等法院花蓮分院刑事判決　　　　　　　　　　　　九十三年度上訴字第六號
 　　上　訴　人　?
 　　即　被　告　己○○
 　　　　　　　　戊○○
@@ -139,17 +34,17 @@ function openwin(URL,arguments,width,height)
     後，再一次將檳榔載運下山販賣（庚○○、丙○○因此所涉竊盜罪，均因與前案
     有連續犯之裁判上一罪關係，經台灣花蓮地方法院檢察署檢察官以九十一年度偵
     字第一四四九號、九十一年度偵字第一五二一號案件為不起訴處分）。庚○○、
-    丙○○於竊割期間，為巡視檳榔園之陳美雲及其夫<font color='red'>范雲</font>權發覺檳榔樹有新割痕，
-    檳榔則仍在樹下未被取走，且地上之泥土車痕是往山上方向，<font color='red'>范雲</font>權乃判斷竊賊
+    丙○○於竊割期間，為巡視檳榔園之陳美雲及其夫范雲權發覺檳榔樹有新割痕，
+    檳榔則仍在樹下未被取走，且地上之泥土車痕是往山上方向，范雲權乃判斷竊賊
     尚未下山，遂以行動電話通知陳美雲之弟弟戊○○（戊○○與陳美雲、己○○均
     為姊弟關係，己○○另於前開地段三八００地號經營檳榔園，戊○○受僱於己○
-    ○為其看顧該檳榔園），自山下開車往山上走，堵住竊賊出入處，<font color='red'>范雲</font>權則擬俟
+    ○為其看顧該檳榔園），自山下開車往山上走，堵住竊賊出入處，范雲權則擬俟
     竊賊下山經過其車子時，隨後包抄。庚○○、丙○○竊得陳美雲、壬○○所有之
     檳榔共約二萬顆後，於當日晚間七時許開車下山途中，為戊○○在產業道路九公
     里處攔獲，戊○○因該地區檳榔園一再遭竊，對於竊賊行徑甚感氣憤，即持木棒
     砸毀庚○○、丙○○所駕上開車輛之擋風玻璃、車門及車燈（毀損部分未據車主
     提出告訴），並持瓦斯噴霧器噴向庚○○、丙○○之眼睛，戊○○與隨後抵達現
-    場之<font color='red'>范雲</font>權復徒手毆打庚○○之左眼及臉頰（庚○○被傷害部分未據告訴），戊
+    場之范雲權復徒手毆打庚○○之左眼及臉頰（庚○○被傷害部分未據告訴），戊
     ○○另徒手毆打丙○○，嗣後戊○○為避免丙○○逃跑，以利嗣後談判賠償事宜
     ，遂命丙○○坐到前開自用小貨車車斗，且持長型飼料袋套往丙○○之頭部直至
     其上半身，致使丙○○之行動自由遭到剝奪。此際因先後據報抵達現場之陳美雲
@@ -172,8 +67,8 @@ function openwin(URL,arguments,width,height)
     一萬元以為支付；末再由戊○○、己○○將庚○○、丙○○帶往楊白石家中令其
     二人簽寫自白書後，始載該二人返家。
 二、戊○○、己○○於翌日（即九十年五月二日）上午九時，約同庚○○至檳榔園內
-    將前一日竊割下來，然未及搬運之檳榔攜出後，三人即前往<font color='red'>范雲</font>權家中吃中飯，
-    席間共有庚○○、己○○、戊○○、<font color='red'>范雲</font>權、陳美雲、丁○○（即戊○○之姪子
+    將前一日竊割下來，然未及搬運之檳榔攜出後，三人即前往范雲權家中吃中飯，
+    席間共有庚○○、己○○、戊○○、范雲權、陳美雲、丁○○（即戊○○之姪子
     ）、朱莉君（即丁○○的太太）等人。此際因己○○等人急著尋找買家將該批被
     竊割之檳榔銷出，然買家提出之收購價金均不能為己○○接受，己○○乃詢問庚
     ○○該批贓貨之收購者辛○○（收購者為辛○○乙事，係丙○○於九十年五月一
@@ -199,7 +94,7 @@ function openwin(URL,arguments,width,height)
     打（台語）我們陳家不是那麼好欺負」，辛○○乃當場下跪求饒，己○○遂開出
     與損失金額顯不相當之一百萬元為和解金額，並告以辛○○「不給錢就要繼續打
     」，於辛○○表明沒有那麼多錢可資賠償，請求降低賠償金額之際，其中不詳一
-    人高喊「拿棒球棒來，不屈服的話就再打」，惟經嗣後據報趕抵現場之<font color='red'>范雲</font>拿下
+    人高喊「拿棒球棒來，不屈服的話就再打」，惟經嗣後據報趕抵現場之范雲拿下
     球棒。辛○○因被毆胸部挫傷且被恐嚇，怕不成立和解會有被打死之虞，遂同意
     以五十萬元達成和解，而應戊○○之要求，共同前往不知情之劉福英住處，由劉
     福英為辛○○開具面額分別為四十萬元及十萬元之支票共二紙，交由戊○○提領
@@ -210,7 +105,7 @@ function openwin(URL,arguments,width,height)
 一、就前揭事實欄一部份：訊之上訴人即被告（以下簡稱被告）戊○○、己○○固不
     否認有於九十年五月一日抓到竊賊庚○○、丙○○，嗣後於工寮內談判和解事宜
     ，且於當日晚間十一時許偕同庚○○、丙○○四處借錢並簽寫自白書之事實；核
-    與被害人庚○○、丙○○分別於偵查、原審之指述，及證人<font color='red'>范雲</font>權、壬○○、楊
+    與被害人庚○○、丙○○分別於偵查、原審之指述，及證人范雲權、壬○○、楊
     白石、吳美珠於偵查及原審之證述情節相符，並有照片十二禎（原判決誤載為十
     四禎）在卷可稽（見警卷第二百零五頁至第二百一十頁）。惟被告戊○○、己○
     ○則矢口否認有何犯行，被告戊○○辯稱：伊是逮捕現行犯，庚○○、丙○○與
@@ -228,7 +123,7 @@ function openwin(URL,arguments,width,height)
     應不構成妨害自由罪等云。就前揭事實欄二部分：同案被告庚○○對於上情均坦
     承不諱，被告戊○○、己○○、乙○○、丁○○固不否認有計誘被害人辛○○出
     面洽談賠償事宜，且辛○○因此賠償五十萬元之事實，核與被害人辛○○於偵查
-    、原審及本院之指述，證人劉福英、<font color='red'>范雲</font>權、陳美雲、壬○○、張耀聰、朱莉君
+    、原審及本院之指述，證人劉福英、范雲權、陳美雲、壬○○、張耀聰、朱莉君
     於偵查及原審所證相符，並有自白書（見警卷第三十五頁）、存摺明細表（見警
     卷第二百零三頁至第二百零四頁）各乙紙、錄音帶及錄音帶譯文（見偵一五二一
     號卷第六十二頁至第六十四頁）、照片十二禎（見警卷第二百一十一頁至第二百
@@ -263,7 +158,7 @@ function openwin(URL,arguments,width,height)
       擊棒出來嚇他，嚇他的方式就是拿電擊棒出來按一按，發出「啪、啪」的聲音
       ，且問丙○○「庚○○有父親出來處理，那你的部分如何處理？」等語（見原
       審卷第一百六十二頁至第一百六十五頁、第一百八十九頁）。
-  ３、證人<font color='red'>范雲</font>權於警詢中證稱：庚○○及丙○○被戊○○攔獲後，是伊與戊○○將
+  ３、證人范雲權於警詢中證稱：庚○○及丙○○被戊○○攔獲後，是伊與戊○○將
       他們兩人分開問話的，未將他們分開前，戊○○以瓦斯噴劑噴向他們眼睛，使
       他們的眼睛不好受；丙○○後來被戊○○叫到後面車斗坐，戊○○還用飼料袋
       套住丙○○的頭部及身體，伊本來要為丙○○解開飼料袋，但被戊○○罵，戊
@@ -273,19 +168,19 @@ function openwin(URL,arguments,width,height)
       部分均在前胸與後背，丙○○因此縮成一團，伊有阻止戊○○且說「這樣會打
       死人，丙○○會招認的」，丙○○這時也承認了，戊○○才停止動手等語（見
       警卷第一百五十頁至第一百五十二頁）。
-  ４、酌之證人<font color='red'>范雲</font>權、庚○○所述均與被害人丙○○所述相符，足見被害人丙○○
-      之指述與事實相符，足堪採信。雖證人<font color='red'>范雲</font>權於原審審理時改稱：丙○○頭上
+  ４、酌之證人范雲權、庚○○所述均與被害人丙○○所述相符，足見被害人丙○○
+      之指述與事實相符，足堪採信。雖證人范雲權於原審審理時改稱：丙○○頭上
       的飼料袋是戊○○套的，伊因為覺得這樣會悶死人，所以後來有拿下來，至於
       有沒有再套回去，伊並不清楚；而九十年五月一日當天，庚○○有沒有被噴瓦
       斯槍、有沒有人打丙○○。伊都不清楚云云（見原審卷第三百二十二頁至三百
       二十四頁）；其上所述與警詢中所證情節並不相符。惟按被告以外之人於檢察
       事務官、司法警察官或司法警察調查中所為之陳述，與審判中不符時，其先前
       之陳述具有較可信之特別情況，且為證明犯罪事實存否所必要者，得為證據，
-      刑事訴訟法第一百五十九條之二定有明文。依卷內資料，證人<font color='red'>范雲</font>權對於前後
+      刑事訴訟法第一百五十九條之二定有明文。依卷內資料，證人范雲權對於前後
       不一致之陳述，既無提出合理之說明，復承認警詢筆錄上之簽名為真正，且自
       承於製作警詢筆錄時，並無受到強暴脅迫、利誘、詐欺、疲勞訊問等不正訊問
       之情形（見原審卷第三百二十四頁）；再觀其於警詢中所證與庚○○、被害人
-      丙○○前開所證相符，堪認證人<font color='red'>范雲</font>權之警訊證詞較其於原審所述可信，則其
+      丙○○前開所證相符，堪認證人范雲權之警訊證詞較其於原審所述可信，則其
       於警詢之陳述應具有證據能力，併此敘明。
   ５、被告戊○○雖辯稱：伊砸庚○○、丙○○車子之原因，是因為他們要開車衝撞
       ，伊才順手撿了一個石頭丟向擋風玻璃；丙○○頭上會套飼料袋，是他自己說
@@ -297,7 +192,7 @@ function openwin(URL,arguments,width,height)
       不規則之破裂形狀，顯見該擋風玻璃之受力處不只一個點，也不只一處，再該
       車之車窗玻璃及車燈亦同遭破壞，顯見車子遭受毀損之原因應如被害人庚○○
       及丙○○所述為真。被告戊○○所辯與事實不符，不足採信。
-    再被害人丙○○頭上被套飼料袋之原因，除業經被害人丙○○、證人<font color='red'>范雲</font>權陳
+    再被害人丙○○頭上被套飼料袋之原因，除業經被害人丙○○、證人范雲權陳
       述如前外，被告戊○○所辯亦甚悖離常情。蓋若丙○○當時果真因為寒冷，亟
       須藉飼料袋禦寒，大可將飼料袋裹於其身，焉有將之套於頭上之理？是被告戊
       ○○此部份辯解，顯係推諉卸責之詞，洵無足採。
@@ -344,13 +239,13 @@ function openwin(URL,arguments,width,height)
       而且剛好有甘蔗樹擋著，所以後來的事伊就沒看到，伊在車外的時間大只有五
       分鐘；印象中伊有看到有人帶球棒，但不記得是誰帶的等語（見原審卷第一百
       七十四頁第一百七十八頁、第一百八十六頁、第一百九十頁、第五十七頁）。
-  ３、又證人<font color='red'>范雲</font>權於偵查中證稱：九十年五月二日當天，伊與太太陳美雲接獲己○
+  ３、又證人范雲權於偵查中證稱：九十年五月二日當天，伊與太太陳美雲接獲己○
       ○的通知抵達現場，辛○○被打的情形沒有看到，但有看到他衣服不整很狼狽
       的樣子，當時伊從丁○○的手上把棒球棒收起來，因為伊聽到有人喊「拿球棒
       來，不屈服的話就再打」，但伊沒有辦法分辨是誰喊的等語（見偵卷第九十頁
       ）。
-  ４、證人<font color='red'>范雲</font>權、庚○○與被害人辛○○指訴情節大致相符，足認被害人辛○○之
-      指述應為真實，堪予採信。至於證人<font color='red'>范雲</font>權雖於原審時改稱：（檢察官問：對
+  ４、證人范雲權、庚○○與被害人辛○○指訴情節大致相符，足認被害人辛○○之
+      指述應為真實，堪予採信。至於證人范雲權雖於原審時改稱：（檢察官問：對
       於你在偵訊中說有看到被告丁○○拿球棒要打證人辛○○有何意見？）要打不
       打，我不清楚。（檢察官問：當時情形？）他好像就是在車邊玩棒球棒，我就
       把他的球棒拿起來，放在車裡。（檢察官問：於偵訊中所言是否都實在？）實
@@ -360,8 +255,8 @@ function openwin(URL,arguments,width,height)
       一堆人在那裡，我是看到被告丁○○在那裡玩球棒，所以才將他拿起來放到他
       的車上等語（見原審卷第三百一十六頁、第三百一十八頁）；顯與其在偵訊中
       所證不符。惟倘被告丁○○當時並未接到前開指令而做勢欲揮打被害人辛○○
-      ，證人<font color='red'>范雲</font>權焉有必要干涉已為成年人之丁○○把玩球棒之行徑？是以證人<font color='red'>范
-      雲</font>權於原審所稱與經驗法則不符，顯係事後迴護被告之詞，無足採信，其偵訊
+      ，證人范雲權焉有必要干涉已為成年人之丁○○把玩球棒之行徑？是以證人范
+      雲權於原審所稱與經驗法則不符，顯係事後迴護被告之詞，無足採信，其偵訊
       中所證始為可採，附此敘明。
   ５、被告乙○○雖辯稱：據被害人辛○○所述，被告乙○○是先打他才去照相（見
       原審卷第二百八十八頁）；然核諸被告戊○○提出之當時照片以觀，乙○○有
@@ -387,7 +282,7 @@ function openwin(URL,arguments,width,height)
       萬元左右等語（見警卷第四十八頁），仍未達五十萬元之價值。且被告戊○○
       、己○○既已與庚○○、丙○○共以十五萬元達成和解，已足以彌補其損失，
       嗣後再將該批遭竊割之檳榔分別售予謝德成、壬○○二人，業經被告戊○○及
-      證人<font color='red'>范雲</font>權、壬○○供明在卷，復另有所得（見警卷第五十頁、第七十二頁、
+      證人范雲權、壬○○供明在卷，復另有所得（見警卷第五十頁、第七十二頁、
       偵一二五一號卷第五十七頁背面、第五十八頁正面），仍竟以恐嚇之手段迫令
       被害人辛○○賠償五十萬元之金額，其價額顯逾檳榔本身之價值甚多，被告戊
       ○○、己○○有藉此牟取不法利益之意圖甚明。辯護人之辯護意旨稱本案查獲
@@ -414,11 +309,11 @@ function openwin(URL,arguments,width,height)
       下（見原審卷第五十八頁）；被告己○○就提議要設計證人辛○○出來，以免
       偷檳榔的人抓都抓不完，於是被告戊○○就決定錄下我和辛○○交涉的過程，
       被告丁○○人則在客廳泡茶，總共有被告戊○○、被告己○○、被告丁○○夫
-      婦、證人<font color='red'>范雲</font>權夫婦在現場（見原審卷第一百七十一頁）；（問：被告丁○○
+      婦、證人范雲權夫婦在現場（見原審卷第一百七十一頁）；（問：被告丁○○
       有無參與這個計劃？）他都坐在那裡沒有發言，我不知道他有沒有參與等語（
       見原審卷第一百八十三頁）。另遍查卷內資料，關於告訴人辛○○給付之五十
       萬元，並無關於如何分配，或分配給被告丁○○、乙○○之證據資料；而據證
-      人陳美雲、<font color='red'>范雲</font>權稱該筆金額因開票人存款不足，只領出四十萬交給戊○○，
+      人陳美雲、范雲權稱該筆金額因開票人存款不足，只領出四十萬交給戊○○，
       另十萬元又由劉福英再開一張支票交給戊○○，其等均未分到賠償金等語（見
       警卷第一百四十三頁、第一百五十四頁、偵一五二一號卷第五十七頁正面），
       及被告己○○陳稱：賠償金新台幣五十萬元是我領走的等語（見警卷第八十四
@@ -517,86 +412,11 @@ function openwin(URL,arguments,width,height)
 刑法第三百四十六條第一項：
 意圖為自己或第三人不法之所有，以恐嚇使人將本人或第三人之物交付者，處六月以
 上五年以下有期徒刑，得併科一千元以下罰金。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWHLH\CRIMINAL\9304\22\HLHM934M.001] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000006&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=93&jcase=%e4%b8%8a%e8%a8%b4&jno=6&jdate=930422&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=93&jcase=%e4%b8%8a%e8%a8%b4&jno=6&jdate=930422&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('93%2c%e4%b8%8a%e8%a8%b4%2c6%2c20040422%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','93','%e4%b8%8a%e8%a8%b4','6','930422','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLH 臺灣高等法院 花蓮分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="范雲">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="范雲">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]93,上訴,6,20040422,1
+[*v_court*]HLH 臺灣高等法院 花蓮分院
+[*v_sys*]M
+[*jyear*]93
+[*jcase*]上訴
+[*jno*]6
+[*jdate*]930422
+[*jcheck*]1

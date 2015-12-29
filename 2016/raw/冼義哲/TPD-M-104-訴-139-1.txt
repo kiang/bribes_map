@@ -1,132 +1,25 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-104訴139</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000139&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c139%2c20151215%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=139&jdate=1041215&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c139%2c20151215%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=139&jdate=1041215&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c139%2c20151215%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','139','1041215','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,139</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041215</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害公務等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　104年度訴字第139號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c139%2c20151215%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=139&jdate=1041215&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000139&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c139%2c20151215%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=139&jdate=1041215&jcheck=1
+[*裁判字號*]104,訴,139
+[*裁判日期*]1041215
+[*裁判案由*]妨害公務等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　104年度訴字第139號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　陳家宏
 選任辯護人　陳又新律師
-被　　　告　<font color='red'>冼義哲
-</font>選任辯護人　詹順貴律師
+被　　　告　冼義哲
+選任辯護人　詹順貴律師
 　　　　　　洪嘉呈律師
 上列被告因妨害公務案件，經檢察官提起公訴（103年度偵字第
 21808號、103年度偵字第22522號）
 ，本院判決如下：
     主  文
-陳家宏、<font color='red'>冼義哲</font>被訴妨害公務部分無罪。
-<font color='red'>冼義哲</font>被訴毀損主席牌部分公訴不受理。
+陳家宏、冼義哲被訴妨害公務部分無罪。
+冼義哲被訴毀損主席牌部分公訴不受理。
     理  由
 壹、被訴妨害公務部分
-一、公訴意旨：被告陳家宏、<font color='red'>冼義哲</font>於民國103年10月15日下午2
+一、公訴意旨：被告陳家宏、冼義哲於民國103年10月15日下午2
     時30分許，前往臺北市信義區市○路0號8樓之臺北市政府旁
     聽都市計畫委員會召開之「臺北市內湖區都市計畫通盤檢討
     (主要計畫暨細部計畫)案第一次專案小組審查會議(簡報會
@@ -134,8 +27,8 @@ function openwin(URL,arguments,width,height)
     之人，竟共同基於妨害公務之犯意，意圖妨害該會議之進行
     而侵入該會議室，高喊會議違法、黑箱作業云云，陳家宏並
     持會議室內之滅火器，朝參加會議之委員羅孝賢及主席陳武
-    正二人噴灑，致使會議中斷無法進行，因認被告陳家宏、<font color='red'>冼
-    義哲</font>涉犯刑法第135條第1項之妨害公務罪嫌。
+    正二人噴灑，致使會議中斷無法進行，因認被告陳家宏、冼
+    義哲涉犯刑法第135條第1項之妨害公務罪嫌。
 二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實；又
     不能證明被告犯罪者，應諭知無罪之判決，刑事訴訟法第
     154條第2項、第301條第1項分別定有明文。次按刑事訴訟法
@@ -172,14 +65,14 @@ function openwin(URL,arguments,width,height)
     資為彈劾證據使用。故無罪之判決書，就傳聞證據是否例外
     具有證據能力，本無須於理由內論敘說明（最高法院100年
     度台上字第2980號判決意旨參照），合先敘明。
-四、公訴人認被告陳家宏、<font color='red'>冼義哲</font>涉犯刑法第135條第1項之妨害
-    公務罪嫌，無非係以被告陳家宏、<font color='red'>冼義哲</font>之供述、證人即臺
+四、公訴人認被告陳家宏、冼義哲涉犯刑法第135條第1項之妨害
+    公務罪嫌，無非係以被告陳家宏、冼義哲之供述、證人即臺
     北市都市計畫委員會執行秘書劉秀玲之證述、臺北市信義區
     市○路0號8樓臺北市政府西南區會議室監視畫面、翻拍照片
     、臺北市市政大樓公共事務管理中心駐警隊長劉得焜、小隊
     長王榮老、隊員彭燕為103年10月15日職務報告、臺北巿都
-    市計畫委員會開會通知單及簽到表為據。被告陳家宏、<font color='red'>冼義
-    哲</font>堅決否認有妨害公務之行為，均辯稱：系爭會議並非合法
+    市計畫委員會開會通知單及簽到表為據。被告陳家宏、冼義
+    哲堅決否認有妨害公務之行為，均辯稱：系爭會議並非合法
     會議，並無法律依據，又無邀請陳情人或團體列席旁聽，係
     屬黑箱作業，程序亦非合法，且系爭會議並未開始，因此並
     未符合依法執職務時之構成要件等語。經查：
@@ -246,21 +139,21 @@ function openwin(URL,arguments,width,height)
       會之實，是以，證人劉秀玲上開證述尚難為不利被告二人
       之認定。
 （三）綜上所述，本件並無正式會議進行之公務存在，故本件事
-      件發生之際，既無任何人在執行公務，被告陳家宏、<font color='red'>冼義
-      哲</font>進行抗爭行為當不構成刑法第135條第1項之妨害公務罪
+      件發生之際，既無任何人在執行公務，被告陳家宏、冼義
+      哲進行抗爭行為當不構成刑法第135條第1項之妨害公務罪
       。
 五、此外，復查無其他積極證據足資證明被告二人有何妨害公務
     之犯行，是不能證明被告二人犯罪，自應為其無罪之諭知。
-貳、<font color='red'>冼義哲</font>被訴毀損主席牌部分
+貳、冼義哲被訴毀損主席牌部分
 一、按告訴或請求乃論之罪，未經告訴或請求，或其告訴請求經
     撤回或已逾告訴期間者，該案件應諭知不受理判決，刑事訴
     訟法第303條第3款定有明文。
-二、移送意旨另以：被告<font color='red'>冼義哲</font>基於毀損公物之犯意，於同日下
+二、移送意旨另以：被告冼義哲基於毀損公物之犯意，於同日下
     午2時56分，將會議桌上之主席牌丟擲地上砸毀，致該主席
-    桌牌破損而不堪使用，因指被告<font color='red'>冼義哲</font>另<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E44F2A0A00000040.GIF" />刑法第138條之
+    桌牌破損而不堪使用，因指被告冼義哲另刑法第138條之
     妨害公務員職務上所掌管之文書物品罪嫌（起訴論罪理由雖
-    認被告<font color='red'>冼義哲</font>此部分與前開妨害公務無罪部分之犯行係屬想
-    像競合犯，惟被告<font color='red'>冼義哲</font>前開妨害公務部分既為無罪之諭知
+    認被告冼義哲此部分與前開妨害公務無罪部分之犯行係屬想
+    像競合犯，惟被告冼義哲前開妨害公務部分既為無罪之諭知
     則兩者並無裁判上一罪關係）。
 三、按刑法第138條規定之妨害職務上掌管之文書物品罪，所稱
     之公務員職務上掌管之文書物品，係指公務員因執行職務所
@@ -277,7 +170,7 @@ function openwin(URL,arguments,width,height)
     第138條毀損公務員職務上掌管之物品罪之構成要件尚屬有
     間，自無從以該條之罪相繩（臺灣高等法院99年度上訴字第
     1056號刑事判決意旨可資參照）。
-四、訊據被告<font color='red'>冼義哲</font>雖對於毀壞上開主席牌之事實供承不諱，惟
+四、訊據被告冼義哲雖對於毀壞上開主席牌之事實供承不諱，惟
     辯稱該主席牌並非公物，應成立一般毀損罪等語。經查，該
     主席銜牌係台北市都市計畫委員會第二組總務保管，有台北
     市政府104年5月28日以府授都會一字第00000000000號函覆
@@ -286,7 +179,7 @@ function openwin(URL,arguments,width,height)
     標示座位位置，是該主席銜牌僅係供一般會議之事務，並非
     特定人士職務上所掌管之物品，亦與會議中職務行為並無直
     接關係，應屬公共用物，依上開說明應非刑法第138條所規
-    定之公務員職務上掌管之文書物品，被告<font color='red'>冼義哲</font>毀壞該等物
+    定之公務員職務上掌管之文書物品，被告冼義哲毀壞該等物
     品之行為，僅與刑法第354條之毀損一般罪物品相當，公訴
     人以被告刑法第138條之罪嫌起訴，起訴法條即有未當，應
     予變更。再查依同法第357條之規定，該毀損一般物品罪係
@@ -306,8 +199,8 @@ function openwin(URL,arguments,width,height)
     第21808號偵查卷中臺北市都市計畫委員會函覆臺灣臺北地
     方法院檢察署係稱「本會將一併告發損壞公物罪」（見該偵
     查卷第45頁），而所謂「【將】一併告發」，是否表示已對
-    被告<font color='red'>冼義哲</font>提出告發之意思，已有疑義，更遑論有對被告<font color='red'>冼
-    義哲</font>提出告訴，故檢察官於該函批示電詢委員會是否要提「
+    被告冼義哲提出告發之意思，已有疑義，更遑論有對被告冼
+    義哲提出告訴，故檢察官於該函批示電詢委員會是否要提「
     毀損」之「告訴」（見該偵查卷第45頁），仍未見臺北市政
     府都市計畫委員會有正式行文函覆，僅有一紙傳真將上開原
     函文中「告發」塗改為「告訴」（見該偵查卷第46頁），而
@@ -317,9 +210,9 @@ function openwin(URL,arguments,width,height)
     式告訴之意思表示，然遍尋偵、審卷除有不具告訴權之劉秀
     玲（雖於警詢時以告訴人自居，惟劉秀玲取得告訴代理權係
     在本院審理時即104年5月29日始提出刑事委任狀，見本院卷
-    一第129頁）於103年10月15日警詢中曾有言及要對被告<font color='red'>冼義
-    哲</font>提出毀損告訴（見103年度偵字第21808號偵查卷第16頁反
-    面），並未見有告訴權之人提出告訴。是被告<font color='red'>冼義哲</font>毀損主
+    一第129頁）於103年10月15日警詢中曾有言及要對被告冼義
+    哲提出毀損告訴（見103年度偵字第21808號偵查卷第16頁反
+    面），並未見有告訴權之人提出告訴。是被告冼義哲毀損主
     席銜牌部分，既屬未經告訴。依據前揭說明，本件未經告訴
     即應諭知不受理判決。
 據上論斷，應依刑事訴訟法第301條第1項、第303條第1項第3款
@@ -335,86 +228,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書（均須按他造當事人之人數附繕）「切勿逕
 送上級法院」。
                                         書記官  彭自青
-中    華    民    國   104    年    12    月    16    日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10412\15\TPDM104CF.00O] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000139&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c139%2c20151215%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=139&jdate=1041215&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c139%2c20151215%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=139&jdate=1041215&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c139%2c20151215%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','139','1041215','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="冼義哲">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="冼義哲">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   104    年    12    月    16    日
+[*jrecno*]104,訴,139,20151215,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]139
+[*jdate*]1041215
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-98訴206</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共14
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000206&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c206%2c20100518%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=206&jdate=990518&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c206%2c20100518%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=206&jdate=990518&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c206%2c20100518%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','206','990518','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,206</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">990518</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽證等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　 98年度訴字第206號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c206%2c20100518%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=206&jdate=990518&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000206&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c206%2c20100518%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=206&jdate=990518&jcheck=1
+[*裁判字號*]98,訴,206
+[*裁判日期*]990518
+[*裁判案由*]偽證等
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　 98年度訴字第206號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　丁○○
 　　　　　　丙○○
@@ -265,9 +158,9 @@ function openwin(URL,arguments,width,height)
       支票號碼BL0000000 號、發票日期86年12月10日、付款銀
       行為中國國際商業銀行中壢分行、發票人為宥泰公司、金
       額1,000 萬元之支票1 張；中國農民銀行匯款申請書代收
-      入傳票（匯款人為丙○○、收款人為方<font color='red'>黃玉燕</font>，金額為92
+      入傳票（匯款人為丙○○、收款人為方黃玉燕，金額為92
       1 萬元，日期為86年3 月10日）；支票號碼為AZC0000000
-      號，發票日期為86年3 月10日，發票人為方<font color='red'>黃玉燕</font>，金額
+      號，發票日期為86年3 月10日，發票人為方黃玉燕，金額
       為800 萬元，付款銀行為台灣土地銀行中壢分行之支票1
       張；中國國際商業銀行中壢分行94年12月23日（94）中銀
       壢字第278 號函1 份；丁○○、甲○○、己○○於87年6
@@ -330,7 +223,7 @@ function openwin(URL,arguments,width,height)
     賺10萬元利息錢。但因為乙○○放在我這裡的錢，我把它拿
     去做生意用掉了，我身上又沒有這些錢，所以不夠的部分我
     用我的土地、房子給農民銀行辦抵押，向農民銀行貸下來的
-    錢再借給他們，其中921 萬元匯至甲○○的母親方<font color='red'>黃玉燕</font>的
+    錢再借給他們，其中921 萬元匯至甲○○的母親方黃玉燕的
     帳戶。但是我在一開始股東向我借錢時，我就有說這筆錢是
     乙○○的錢，股東都知道那是乙○○的錢。之前黃珍珠有1
     筆竹東鎮○○段第53號地號土地設定1,000 萬抵押權給乙○
@@ -486,7 +379,7 @@ function openwin(URL,arguments,width,height)
       支付尚欠之系爭土地款800 萬元，堪以認定。惟查，系爭
       土地之賣方黃珍珠曾於86年1 月10日，收訖證人甲○○之
       合夥事業用以支付系爭土地價款，而由證人甲○○之母方
-      <font color='red'>黃玉燕</font>為發票人所開立，票期為2 個月，票面金額800 萬
+      黃玉燕為發票人所開立，票期為2 個月，票面金額800 萬
       元、付款銀行為台灣土地銀行中壢分行、票號AZC0000000
       號，票載發票日為86年3 月10日之支票1 張，而上開支票
       嗣經黃珍珠提示兌現，而由黃珍珠取得該部份土地價款80
@@ -524,12 +417,12 @@ function openwin(URL,arguments,width,height)
       國國際商業銀行中壢分行的支票1 張，就是為了借錢才提
       供給乙○○的。上開支票是我用宥泰公司的名義開的，但
       是我們3 人都知道，因為借款要用支票做擔保。86年3 月
-      10日，這筆款項由丙○○匯921 萬元到我母親方<font color='red'>黃玉燕</font>的
+      10日，這筆款項由丙○○匯921 萬元到我母親方黃玉燕的
       帳戶內，剩下60幾萬由丙○○匯到竹東農會，剩下的錢付
       材料費，因為材料是跟丁○○的建材行買的，所以丁○○
       直接扣掉，第1 次的利息10萬元也是直接扣掉。錢會匯到
-      我母親方<font color='red'>黃玉燕</font>的帳戶，是因為我那時候信用不好。我母
-      親方<font color='red'>黃玉燕</font>開了1 張2 個月的期票，也就是到期日為86年
+      我母親方黃玉燕的帳戶，是因為我那時候信用不好。我母
+      親方黃玉燕開了1 張2 個月的期票，也就是到期日為86年
       3 月10日的支票給黃珍珠，就是我與黃珍珠於85年10月2
       日簽立之系爭土地買賣『批明事項』所附之交款備忘錄所
       載『繳交日期：86.01.10；金額：捌佰萬元整；備考：詳
@@ -562,15 +455,15 @@ function openwin(URL,arguments,width,height)
       土地抵押權設定契約書各1 份附卷可佐。又乙○○同意自
       其寄放於丙○○處之現金出借1,000 萬元與丁○○、甲○
       ○、己○○之合夥事業，並約定每月利息為10萬元後，因
-      甲○○債信不佳，而以其母方<font color='red'>黃玉燕</font>之帳戶收受上開借款
-      ，丙○○即於86年3 月10日匯款921 萬元至方<font color='red'>黃玉燕</font>帳戶
+      甲○○債信不佳，而以其母方黃玉燕之帳戶收受上開借款
+      ，丙○○即於86年3 月10日匯款921 萬元至方黃玉燕帳戶
       ，另79萬元則用以支付合夥向丁○○之建材購買材料之費
       用及乙○○之第1 期利息一節，亦有中國農民銀行匯款申
-      請書代收入傳票（匯款人為丙○○、收款人為方<font color='red'>黃玉燕</font>，
+      請書代收入傳票（匯款人為丙○○、收款人為方黃玉燕，
       金額為921 萬元，日期為86年3 月10日）1 紙附卷可憑，
-      並經證人甲○○證述明確。至方<font color='red'>黃玉燕</font>曾開具票期為2個
+      並經證人甲○○證述明確。至方黃玉燕曾開具票期為2個
       月，票號為AZC0000000號、發票日期為86年3 月10日、發
-      票人為方<font color='red'>黃玉燕</font>、金額為800 萬元、付款銀行為台灣土地
+      票人為方黃玉燕、金額為800 萬元、付款銀行為台灣土地
       銀行中壢分行之支票1 張與黃珍珠以支付系爭土地價款，
       而該支票嗣並經黃珍珠提示兌現，此有上開支票1 張及中
       國國際商業銀行中壢分行94年12月23日（94）中銀壢字第
@@ -653,7 +546,7 @@ function openwin(URL,arguments,width,height)
       ，這是因為丁○○要向乙○○借錢，所以妳就動用這個額
       度交給丁○○，當作乙○○借給丁○○跟其他合夥人購買
       土地款項之用？）對，那是我用匯的，丁○○跟甲○○去
-      我家的時候，因為銀行都是我在跑，說要匯給方<font color='red'>黃玉燕</font>的
+      我家的時候，因為銀行都是我在跑，說要匯給方黃玉燕的
       樣子，900 多萬元。（審判長問：依照中國農民銀行的函
       文來看，你們在86年3 月10日之前，都沒有動用這個額度
       ？）我先辦好，但是沒有用，因為我有去跟乙○○周轉。
@@ -696,8 +589,8 @@ function openwin(URL,arguments,width,height)
       權設定登記之目的，既係為供「祥發建材有限公司」營運
       資金周轉之用，惟依前開函文所載，被告丙○○前開抵押
       權設定所擔保之最高限額2,000 萬元之貸款額度，直至86
-      年3 月10日即丙○○匯款921 萬元至甲○○之母方<font color='red'>黃玉燕
-      </font>之帳戶該日之前均未曾動支，是堪認「祥發建材有限公司
+      年3 月10日即丙○○匯款921 萬元至甲○○之母方黃玉燕
+      之帳戶該日之前均未曾動支，是堪認「祥發建材有限公司
       」實仍另有其他資金來源可供營運周轉，故上開抵押權設
       定登記所擔保之借款額度僅係備而不用，準此，益徵被告
       丙○○、乙○○分別供稱被告乙○○確有約1,200 萬元之
@@ -713,10 +606,10 @@ function openwin(URL,arguments,width,height)
       金支付與乙○○，再由乙○○借款與本案合夥事業之步驟
       ，而將該筆性質原即係償付與乙○○而屬乙○○所有之貸
       款1,000 萬元，直接以丙○○之名義匯款至合夥事業所指
-      定之甲○○之母方<font color='red'>黃玉燕</font>之帳戶內，藉以達成以乙○○之
+      定之甲○○之母方黃玉燕之帳戶內，藉以達成以乙○○之
       款項借款與合夥事業之目的，此貸款緣由、金錢流向均核
       與常理無違，且由丙○○直接以其名義將其向中國農民銀
-      行新明分行貸得而需償付與乙○○之款項匯至方<font color='red'>黃玉燕</font>帳
+      行新明分行貸得而需償付與乙○○之款項匯至方黃玉燕帳
       戶一節，亦僅意在縮短給付流程，該筆1,000 萬元借款之
       債權人仍為被告乙○○，而非匯款名義人丙○○，自不待
       言。是以，證人即告訴人己○○徒以被告乙○○、丙○○
@@ -1043,7 +936,7 @@ function openwin(URL,arguments,width,height)
       、金額為800 萬元之支票1 張與黃珍珠之日期為87年4 月
       24日，此有己○○提出之該支票影本1 張及黃珍珠簽名蓋
       印之簽收條附卷可稽，然查，黃珍珠業於86年1 月10日即
-      已收訖由證人甲○○之母方<font color='red'>黃玉燕</font>為發票人所開立，票期
+      已收訖由證人甲○○之母方黃玉燕為發票人所開立，票期
       為2 個月，票面金額800 萬元、付款銀行為台灣土地銀行
       中壢分行、票號AZC0000000號，票載發票日為86年3 月10
       日，用以支付系爭土地尾款800 萬元所用之支票1 張，且
@@ -1207,86 +1100,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書( 均須按他造當事人之人數附繕本) 「切勿
 逕送上級法院」。
                                     書記官  莊凱男
-中    華    民    國    99    年    5     月    27    日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWTYD\CRIMINAL\9905\18\TYDM995I.02Y] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共14
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000206&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c206%2c20100518%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=206&jdate=990518&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c206%2c20100518%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=206&jdate=990518&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c206%2c20100518%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','206','990518','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃玉燕">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃玉燕">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國    99    年    5     月    27    日
+[*jrecno*]98,訴,206,20100518,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]206
+[*jdate*]990518
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-102訴2355</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共19
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=002355&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c2355%2c20140529%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=2355&jdate=1030529&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c2355%2c20140529%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=2355&jdate=1030529&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c2355%2c20140529%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','2355','1030529','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,2355</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030529</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　 102年度訴字第2355號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c2355%2c20140529%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=2355&jdate=1030529&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=002355&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c2355%2c20140529%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=2355&jdate=1030529&jcheck=1
+[*裁判字號*]102,訴,2355
+[*裁判日期*]1030529
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　 102年度訴字第2355號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　陳邦宇
 上列被告因偽造文書等案件，經檢察官提起公訴(102年度偵字第
@@ -170,7 +63,7 @@ function openwin(URL,arguments,width,height)
       影本，及其先前在臺中市西屯路上委由不知情之刻印業者
       偽刻之「施欣佐」方形印章1枚 (未扣案)，與不知情之吳
       韋德一同前往臺中市○○區○○路000號臺灣大哥大公司
-      逢甲福星門市，向不知情之該門市服務人員<font color='red'>張麗芬</font>申辦行
+      逢甲福星門市，向不知情之該門市服務人員張麗芬申辦行
       動電話門號0000000000號過戶事宜，而在附表編號3.所示
       臺灣大哥大過戶申請書、用戶授權代辦委託書上，接續蓋
       用上開偽刻之「施欣佐」印章之印文 (偽造印文之位置及
@@ -180,8 +73,8 @@ function openwin(URL,arguments,width,height)
       如附表編號3.所示表彰「施欣佐」委託吳韋德向臺灣大哥
       大公司申請辦理承租上開門號過戶移轉事宜之私文書後，
       連同「施欣佐」之國民身分證影本、普通重型機車駕駛執
-      照影本，持交予不知情之該門市服務人員<font color='red'>張麗芬</font>而行使之
-      ，致<font color='red'>張麗芬</font>陷於錯誤，同意將吳韋德名下之行動電話門號
+      照影本，持交予不知情之該門市服務人員張麗芬而行使之
+      ，致張麗芬陷於錯誤，同意將吳韋德名下之行動電話門號
       0000000000號過戶移轉至「施欣佐」名下，足以生損害於
       「施欣佐」本人、臺灣大哥大公司對客戶身分查核、管理
       之正確性。
@@ -288,7 +181,7 @@ function openwin(URL,arguments,width,height)
       冒名申辦等情，未經檢察官起訴，且與本案經起訴部分無
       裁判上一罪之關係)後，連同其所持有張秀麗、鄧國基2人
       之國民身分證影本及全民健康保險卡影本，持交予不知情
-      之該門市服務人員<font color='red'>張麗芬</font>、張碩桓而行使之，致<font color='red'>張麗芬</font>、
+      之該門市服務人員張麗芬、張碩桓而行使之，致張麗芬、
       張碩桓陷於錯誤，同意將張秀麗名下之行動電話門號
       0000000000號、0000000000號、0000000000號過戶移轉至
       鄧國基名下、將鄧國基名下之行動電話門號0000000000號
@@ -300,7 +193,7 @@ function openwin(URL,arguments,width,height)
       在臺中市西屯路上委由不知情之刻印業者偽刻之「鄧國基
       」、「楊正德」方形印章各1枚(均未扣案)，前往臺灣大
       哥大公司逢甲福星門市，冒用「羅偉豪」之名義，向該門
-      市不知情之服務人員<font color='red'>張麗芬</font>佯稱其已得「鄧國基」、「楊
+      市不知情之服務人員張麗芬佯稱其已得「鄧國基」、「楊
       正德」之授權，代理「鄧國基」、「楊正德」申辦行動電
       話門號0000000000號、0000000000號、0000000000號、00
       00000000號之過戶事宜，並接續在附表編號9.所示之臺灣
@@ -312,7 +205,7 @@ function openwin(URL,arguments,width,height)
       德」之私文書後，連同「羅偉豪」國民身分證影本、普通
       大客車駕駛執照影本、「鄧國基」、「楊正德」之國民身
       分證影本、全民健康保險卡影本，持交予不知情之該門市
-      服務人員<font color='red'>張麗芬</font>而行使之，致<font color='red'>張麗芬</font>陷於錯誤，誤認「鄧
+      服務人員張麗芬而行使之，致張麗芬陷於錯誤，誤認「鄧
       國基」、「楊正德」均已授權「羅偉豪」為代理人，由「
       羅偉豪」代理「鄧國基」、「楊正德」申辦上開4支行動
       電話門號過戶事宜，而同意將「鄧國基」名下之上開4支
@@ -567,218 +460,144 @@ function openwin(URL,arguments,width,height)
 │編號│犯罪事實  │偽造之文書、署押位置及數量                │宣告刑(含主刑及從刑)                │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 1. │犯罪事實(一)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之1. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />統一超商月租型門號申請書「申辦人正楷簽名│肆月，如易科罰金，以新臺幣壹仟元折算│
+│    │之1. (即起│統一超商月租型門號申請書「申辦人正楷簽名│肆月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  」欄上偽造「楊正德」署名1枚(偵查卷第22頁│壹日。左揭文書上偽造之「楊正德」署名│
 │    │實一之(一)1.│  )                                       │壹枚沒收。                          │
 │    │)         │                                          │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 2. │犯罪事實(一)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之2. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大行動電話／第三代行動通信業務申│肆月，如易科罰金，以新臺幣壹仟元折算│
+│    │之2. (即起│臺灣大哥大行動電話／第三代行動通信業務申│肆月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  請書「申請人簽章」欄上偽造「楊正德」署名│壹日。左揭文書上偽造之「「楊正德」署│
 │    │實一之(一)2.│  1枚(警卷第41頁)                         │名共肆枚均沒收。                    │
-│    │)         │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />號碼可攜/新申裝同意書「立同意書人」欄上 │                                    │
+│    │)         │號碼可攜/新申裝同意書「立同意書人」欄上 │                                    │
 │    │          │  偽造「楊正德」署名1枚(警卷第42頁)       │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />號碼可攜服務申請書「申請人簽章」欄上偽造│                                    │
+│    │          │號碼可攜服務申請書「申請人簽章」欄上偽造│                                    │
 │    │          │  「楊正德」署名1枚(警卷第44頁)           │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />權益說明書「用戶/代理人簽名」欄上偽造「 │                                    │
+│    │          │權益說明書「用戶/代理人簽名」欄上偽造「 │                                    │
 │    │          │  楊正德」署名1枚(警卷第45頁)             │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 3. │犯罪事實(二)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之1. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣壹仟元折算│
+│    │之1. (即起│臺灣大哥大過戶申請書「新承租用戶簽章」欄│月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  上偽造「施欣佐」印文2枚(偵查卷第72頁)   │壹日。偽造之「施欣佐」印章壹枚、左揭│
-│    │實一之(二)1.│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄、│文書上偽造之「施欣佐」印文共肆枚均沒│
+│    │實一之(二)1.│用戶授權代辦委託書「立委託書人簽章」欄、│文書上偽造之「施欣佐」印文共肆枚均沒│
 │    │)         │  「受委託人簽章」欄上偽造「施欣佐」印文共│收。                                │
 │    │          │  2枚(偵查卷第75頁)                       │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 4. │犯罪事實(二)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之2. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣壹仟元折算│
+│    │之2. (即起│臺灣大哥大過戶申請書「新承租用戶簽章」欄│月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  上偽造「楊書誠」署名1枚、「原承租用戶簽 │壹日。左揭文書上偽造之「楊書誠」、「│
 │    │實一之(二)2.│  章」欄上偽造「施欣佐」署名1枚(偵查卷第38│施欣佐」署名各1枚均沒收。           │
 │    │)         │  頁)                                     │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 5. │犯罪事實(二)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之3. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大一退一租／過戶申請書「原承租用│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣壹仟元折算│
+│    │之3. (即起│臺灣大哥大一退一租／過戶申請書「原承租用│月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  戶簽章」欄上偽造「楊書誠」印文1枚、「新 │壹日。偽造之「楊書誠」、「楊正德」印│
 │    │實一之(二)3.│  承租用戶簽章」欄上偽造「楊正德」印文1枚(│章各壹枚、左揭文書上偽造之「楊書誠」│
 │    │)         │  警卷第46頁)                             │印文共參枚、「楊正德」印文共參枚均沒│
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />用戶授權代辦委託書「立委託書人」欄、「立│收。                                │
+│    │          │用戶授權代辦委託書「立委託書人」欄、「立│收。                                │
 │    │          │  委託書人簽章」欄上偽造「楊正德」印文共2 │                                    │
 │    │          │  枚(警卷第49頁)                          │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />用戶授權代辦委託書「立委託書人」欄、「立│                                    │
+│    │          │用戶授權代辦委託書「立委託書人」欄、「立│                                    │
 │    │          │  委託書人簽章」欄上偽造「楊書誠」印文共2 │                                    │
 │    │          │  枚(警卷第50頁)                          │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 6. │犯罪事實(三)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之1. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大行動電話／第三代行動通信業務申│肆月，如易科罰金，以新臺幣壹仟元折算│
+│    │之1. (即起│臺灣大哥大行動電話／第三代行動通信業務申│肆月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  請書「申請人簽章」欄上偽造「羅韋豪」之署│壹日。偽造之「羅韋豪」印章壹枚、左揭│
 │    │實一之(三)1.│  名、印文各1枚(偵查卷第41頁)             │文書上偽造之「羅韋豪」署名共肆枚、印│
-│    │)         │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />同意書「立同意書人簽章」欄(共2欄)上偽造 │文共肆枚均沒收。                    │
+│    │)         │同意書「立同意書人簽章」欄(共2欄)上偽造 │文共肆枚均沒收。                    │
 │    │          │  「羅韋豪」之署名、印文各1枚(偵查卷第42頁│                                    │
 │    │          │  )                                       │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />權益說明書「用戶/代理人簽名」欄上偽造「 │                                    │
+│    │          │權益說明書「用戶/代理人簽名」欄上偽造「 │                                    │
 │    │          │  羅韋豪」之署名、印文各1枚(偵查卷第45頁) │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 7. │犯罪事實(三)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之2. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大一退一租／過戶申請書「新承租用│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以新臺幣壹仟元折算│
+│    │之2. (即起│臺灣大哥大一退一租／過戶申請書「新承租用│月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  戶簽章」欄上偽造「楊正德」印文1枚(警卷第│壹日。偽造之「楊正德」印章壹枚、左揭│
 │    │實一之(三)2.│  51頁)                                   │文書上偽造之「楊正德」印文共參枚均沒│
-│    │)         │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />用戶授權代辦委託書「立委託書人」欄、「立│收。                                │
+│    │)         │用戶授權代辦委託書「立委託書人」欄、「立│收。                                │
 │    │          │  委託書人簽章」欄上偽造「楊正德」印文共2 │                                    │
 │    │          │  枚(警卷第56頁)                          │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 8. │犯罪事實(四)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之1. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│伍月，如易科罰金，以新臺幣壹仟元折算│
+│    │之1. (即起│臺灣大哥大過戶申請書「新承租用戶簽章」欄│伍月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  上偽造「鄧國基」署名1枚、盜蓋「鄧國基」 │壹日。左揭文書上偽造之「鄧國基」署名│
 │    │實二之(一)) │  印文(圓形)1枚(偵查卷第26頁)             │共參枚均沒收。                      │
 │    │          ├─────────────────────┤                                    │
 │    │          │(門號0000000000號)                        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
+│    │          │臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
 │    │          │  上偽造「鄧國基」署名1枚(偵查卷第30頁)   │                                    │
 │    │          ├─────────────────────┤                                    │
 │    │          │(門號0000000000號)                        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
+│    │          │臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
 │    │          │  上偽造「鄧國基」署名1枚、盜蓋「鄧國基」 │                                    │
 │    │          │  印文(圓形)1枚(偵查卷第35頁)             │                                    │
 ├──┼─────┼─────────────────────┼──────────────────┤
 │ 9. │犯罪事實(四)│(門號0000000000號)                        │陳邦宇犯行使偽造私文書罪，處有期徒刑│
-│    │之2. (即起│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│伍月，如易科罰金，以新臺幣壹仟元折算│
+│    │之2. (即起│臺灣大哥大過戶申請書「新承租用戶簽章」欄│伍月，如易科罰金，以新臺幣壹仟元折算│
 │    │訴書犯罪事│  上偽造「楊正德」印文1枚、「原承租用戶簽 │壹日。偽造之「鄧國基」、「楊正德」印│
 │    │實二之(二)) │  章」欄上偽造「鄧國基」印文1枚、「代理人 │章各壹枚、左揭文書上偽造之「鄧國基」│
 │    │          │  欄」(共2處)上偽造「羅偉豪」(起訴書誤載為│印文共拾枚、「楊正德」印文共拾枚、「│
 │    │          │  「鄧國基」)署名共2枚(警卷第58頁)        │羅偉豪」署名共拾陸枚均沒收。        │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「鄧國基」印文1枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第63頁)                  │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「楊正德」印文1枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第64頁)                  │                                    │
 │    │          ├─────────────────────┤                                    │
 │    │          │(門號0000000000號)                        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
+│    │          │臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
 │    │          │  上偽造「楊正德」印文1枚、「原承租用戶簽 │                                    │
 │    │          │  章」欄上偽造「鄧國基」印文1枚、「代理人 │                                    │
 │    │          │  欄」(共2處)上偽造「羅偉豪」(起訴書誤載為│                                    │
 │    │          │  「鄧國基」)署名共2枚(警卷第70頁)        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「鄧國基」印文1枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第75頁)                  │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「楊正德」印文1枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第74頁)                  │                                    │
 │    │          ├─────────────────────┤                                    │
 │    │          │(門號0000000000號)                        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
+│    │          │臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
 │    │          │  上偽造「楊正德」印文2枚、「原承租用戶簽 │                                    │
 │    │          │  章」欄上偽造「鄧國基」印文1枚、「代理人 │                                    │
 │    │          │  欄」(共2處)上偽造「羅偉豪」(起訴書誤載為│                                    │
 │    │          │  「鄧國基」)署名共2枚(警卷第76頁)        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「鄧國基」印文3枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第82頁)                  │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「楊正德」印文2枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第81頁)                  │                                    │
 │    │          ├─────────────────────┤                                    │
 │    │          │(門號0000000000號)                        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
+│    │          │臺灣大哥大過戶申請書「新承租用戶簽章」欄│                                    │
 │    │          │  上偽造「楊正德」印文1枚、「原承租用戶簽 │                                    │
 │    │          │  章」欄上偽造「鄧國基」印文1枚、「代理人 │                                    │
 │    │          │  欄」(共2處)上偽造「羅偉豪」(起訴書誤載為│                                    │
 │    │          │  「鄧國基」)署名共2枚(警卷第65頁)        │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「鄧國基」印文1枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第68頁)                  │                                    │
-│    │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
+│    │          │用戶授權代辦委託書「立委託書人簽章」欄上│                                    │
 │    │          │  偽造「楊正德」印文1枚、「受委託人簽章」 │                                    │
 │    │          │  欄上偽造「羅偉豪」(起訴書誤載為「鄧國基 │                                    │
 │    │          │  」)署名1枚(警卷第69頁)                  │                                    │
-└──┴─────┴─────────────────────┴──────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10305\29\TCDM1035T.06Q] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共19
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=002355&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c2355%2c20140529%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=2355&jdate=1030529&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c2355%2c20140529%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=2355&jdate=1030529&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c2355%2c20140529%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','2355','1030529','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="張麗芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="張麗芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴─────┴─────────────────────┴──────────────────┘
+[*jrecno*]102,訴,2355,20140529,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]2355
+[*jdate*]1030529
+[*jcheck*]1

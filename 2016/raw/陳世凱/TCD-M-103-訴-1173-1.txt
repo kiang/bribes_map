@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-103訴1173</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+7mPAkRx+I0tuFGViTxUgxSv2SbE=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共18
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=001173&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=18&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c1173%2c20141105%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1173&jdate=1031105&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c1173%2c20141105%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1173&jdate=1031105&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c1173%2c20141105%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','1173','1031105','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,1173</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1031105</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　 103年度訴字第1173號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c1173%2c20141105%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1173&jdate=1031105&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=001173&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c1173%2c20141105%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1173&jdate=1031105&jcheck=1
+[*裁判字號*]103,訴,1173
+[*裁判日期*]1031105
+[*裁判案由*]毒品危害防制條例等
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　 103年度訴字第1173號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　王耀光
 選任辯護人　吳皓偉律師
@@ -193,22 +88,22 @@ function openwin(URL,arguments,width,height)
     犯意聯絡，共同意圖營利，以王耀光所持用之門號00000000
     00號行動電話及紀汶宏所持之0000000000號行動電話作為販
     賣海洛因之聯絡工具，先由王耀光於103年1月3日下午3時4
-    分許，以其所持用之門號0000000000號行動電話與<font color='red'>陳世凱</font>所
+    分許，以其所持用之門號0000000000號行動電話與陳世凱所
     持用之門號0000000000號行動電話聯絡購毒事宜，然因王耀
-    光無瑕分身，乃請<font color='red'>陳世凱</font>與紀汶宏聯絡，惟紀汶宏未接聽電
-    話，<font color='red'>陳世凱</font>即於同日下午3時11分許，撥打王耀光上開行動
+    光無瑕分身，乃請陳世凱與紀汶宏聯絡，惟紀汶宏未接聽電
+    話，陳世凱即於同日下午3時11分許，撥打王耀光上開行動
     電話告知上開情事，王耀光隨即於當日下午3時14分許，以
     前開門號行動電話撥打紀汶宏所持用之門號0000000000號行
-    動電話，請紀汶宏與<font color='red'>陳世凱</font>洽談購毒事宜，紀汶宏與<font color='red'>陳世凱
-    </font>聯繫後，<font color='red'>陳世凱</font>又因購毒資金不足1,000元，再於當日下午3
+    動電話，請紀汶宏與陳世凱洽談購毒事宜，紀汶宏與陳世凱
+    聯繫後，陳世凱又因購毒資金不足1,000元，再於當日下午3
     時33分許，撥打王耀光上開行動電話與王耀光商議賒欠事宜
     ，經王耀光同意賒欠購毒價金後，王耀光即於當日下午3時
     34分、6時29分許，以所持用之門號0000000000號行動電話
     與紀汶宏所持之0000000000號行動電話聯絡，指示紀汶宏出
-    面與<font color='red'>陳世凱</font>交易毒品，紀汶宏隨即在王耀光位在臺中市○○
+    面與陳世凱交易毒品，紀汶宏隨即在王耀光位在臺中市○○
     區○○○路0段○巷000號住處樓下，販賣並交付海洛因1包
-    予<font color='red'>陳世凱</font>，<font color='red'>陳世凱</font>僅先給付價金2,000元予紀汶宏，並賒欠1
-    ,000元購毒價金。嗣<font color='red'>陳世凱</font>於數日後，在賭場以王耀光所積
+    予陳世凱，陳世凱僅先給付價金2,000元予紀汶宏，並賒欠1
+    ,000元購毒價金。嗣陳世凱於數日後，在賭場以王耀光所積
     欠之賭債抵充其於該次毒品交易所賒欠王耀光之價金1,000
     元完畢。
 (二)、王耀光、紀汶宏均明知甲基安非他命為毒品危害防制條例第
@@ -241,7 +136,7 @@ function openwin(URL,arguments,width,height)
     列之第一級毒品，非經許可不得持有、轉讓，竟基於轉讓第
     一級毒品之犯意，於102年12月底起至103年1月3日前之某日
     下午2時許，在其位在臺中市○○區○○○路0段○巷000號
-    住處內，無償轉讓少量之海洛因予<font color='red'>陳世凱</font>施用（無事證證明
+    住處內，無償轉讓少量之海洛因予陳世凱施用（無事證證明
     純質淨重達5公克以上）。
 五、王耀光前於88年間，因施用毒品案件，經法院裁定執行觀察
     、勒戒後，認無繼續施用毒品之傾向，於88年11月23日執行
@@ -349,7 +244,7 @@ function openwin(URL,arguments,width,height)
     之情況」之理由外，不宜以該證人未能於審判中接受他造之
     反對詰問，即遽指該證人於偵查中之陳述不具證據能力。查
     本案證人即被告王耀光、王建、紀汶宏及證人尤玉峰、陳
-    佩琪、<font color='red'>陳世凱</font>於偵查中所為之證述，雖屬傳聞證據，然彼等
+    佩琪、陳世凱於偵查中所為之證述，雖屬傳聞證據，然彼等
     於偵查中所為證言，業經具結，而被告3人及選任辯護人均
     未釋明上開證人之陳述有何「顯不可信之情況」，且於客觀
     之外部情狀上，難認有何顯不可信之情狀，依上揭規定，應
@@ -372,7 +267,7 @@ function openwin(URL,arguments,width,height)
     前4條之情形，除證人即被告王耀光於警詢之證述，經被告
     紀汶宏及其選任辯護人爭執證據能力，證人即被告紀汶宏於
     警詢之證述，經被告王耀光之選任辯護人爭執證據能力，暨
-    證人<font color='red'>陳世凱</font>於警詢中之證述，亦經被告王耀光及其選任辯護
+    證人陳世凱於警詢中之證述，亦經被告王耀光及其選任辯護
     人爭執證據能力外，檢察官、被告3人及選任辯護人於本院
     準備程序中均表示對其餘之傳聞證據之證據能力均無意見，
     於本院審理時並未就卷內其他證據資料之證據能力有所爭執
@@ -508,10 +403,10 @@ function openwin(URL,arguments,width,height)
 １、上開犯罪事實，業據被告紀汶宏於警詢、偵訊、本院訊問、
     審理時坦承不諱（見警卷第70頁背面、偵查卷(一)第149頁正
     面、本院聲羈字第204號卷《下稱聲羈卷》第5頁、本院卷第
-    113頁背面、第138頁背面）；核與證人即購毒者<font color='red'>陳世凱</font>於偵
+    113頁背面、第138頁背面）；核與證人即購毒者陳世凱於偵
     查具結及本院審理時具結證述交易毒品之過程相符（見偵查
     卷(一)第149頁正面、本院卷第122頁至第124頁）；並有被告
-    王耀光所持用之門號0000000000號行動電話與<font color='red'>陳世凱</font>所持用
+    王耀光所持用之門號0000000000號行動電話與陳世凱所持用
     之門號0000000000號行動電話、被告王耀光所持用之門號00
     00000000號行動電話與被告紀汶宏所持用之門號0000000000
     號行動電話於犯罪事實欄二、(一)所示時間對話內容之通訊監
@@ -520,43 +415,43 @@ function openwin(URL,arguments,width,height)
     張）1支可資佐證，足徵被告紀汶宏前開自白確與事實相符
     ，可以採信。
 ２、被告王耀光則矢口否認有與被告紀汶宏共同販賣海洛因予證
-    人<font color='red'>陳世凱</font>之犯行，辯稱：證人<font color='red'>陳世凱</font>於該次交易前，雖有撥
-    打電話給伊，但伊請證人<font color='red'>陳世凱</font>自行與被告紀汶宏聯絡，後
-    來渠2人如何交易，伊並不知情，但伊有幫證人<font color='red'>陳世凱</font>代墊
-    1,000元之購毒價金給被告紀汶宏，嗣2、3天後，證人<font color='red'>陳世
-    凱</font>以與伊賭博所贏得之債權抵充前開1,000元之債務完畢，
-    伊並未與被告紀汶宏共同販賣海洛因予證人<font color='red'>陳世凱</font>云云。惟
+    人陳世凱之犯行，辯稱：證人陳世凱於該次交易前，雖有撥
+    打電話給伊，但伊請證人陳世凱自行與被告紀汶宏聯絡，後
+    來渠2人如何交易，伊並不知情，但伊有幫證人陳世凱代墊
+    1,000元之購毒價金給被告紀汶宏，嗣2、3天後，證人陳世
+    凱以與伊賭博所贏得之債權抵充前開1,000元之債務完畢，
+    伊並未與被告紀汶宏共同販賣海洛因予證人陳世凱云云。惟
     查：
 、被告王耀光曾於103年1月3日下午3時4分，以其所持用之門
-    號0000000000號行動電話與證人<font color='red'>陳世凱</font>所持用之門號000000
+    號0000000000號行動電話與證人陳世凱所持用之門號000000
     0000號行動電話聯絡，惟因被告王耀光無瑕分身，乃請證人
-    <font color='red'>陳世凱</font>與被告紀汶宏聯絡，但被告紀汶宏未接聽電話，證人
-    <font color='red'>陳世凱</font>即於同日下午3時11分許，再撥打被告王耀光上開門
+    陳世凱與被告紀汶宏聯絡，但被告紀汶宏未接聽電話，證人
+    陳世凱即於同日下午3時11分許，再撥打被告王耀光上開門
     號行動電話告知上開情事，被告王耀光乃於當日下午3時14
     分許，以上開門號行動電話撥打被告紀汶宏所持用之000000
-    0000號行動電話，請被告紀汶宏與證人<font color='red'>陳世凱</font>聯絡。被告紀
-    汶宏與證人<font color='red'>陳世凱</font>取得聯繫後，證人<font color='red'>陳世凱</font>又因購毒之資金
+    0000號行動電話，請被告紀汶宏與證人陳世凱聯絡。被告紀
+    汶宏與證人陳世凱取得聯繫後，證人陳世凱又因購毒之資金
     尚欠1,000元，而於當日下午3時33分許，撥打被告王耀光上
     開行動電話與其商議，被告王耀光則於當日下午3時34分許
     、6時29分許，以其所持用之門號0000000000號行動電話與
     被告紀汶宏所持之0000000000號行動電話聯絡，嗣後由被告
-    紀汶宏販賣並交付海洛因1包予證人<font color='red'>陳世凱</font>等情，為被告王
-    耀光所坦認（見本院卷第138頁背面），核與證人<font color='red'>陳世凱</font>於
+    紀汶宏販賣並交付海洛因1包予證人陳世凱等情，為被告王
+    耀光所坦認（見本院卷第138頁背面），核與證人陳世凱於
     本院審理時證述相符（見本院卷第119頁、第120頁、第123
     頁、第124頁）；並有被告王耀光所持用之門號0000000000
-    號行動電話與證人<font color='red'>陳世凱</font>所持用之門號0000000000號行動電
+    號行動電話與證人陳世凱所持用之門號0000000000號行動電
     話、被告王耀光所持用之門號0000000000號行動電話與被告
     紀汶宏所持用之門號0000000000號行動電話於犯罪事實欄二
     、(一)所示時間對話內容之通訊監察譯文乙份（見警卷第15頁
     ）在卷可佐，上開事實，堪予認定。
-、證人<font color='red'>陳世凱</font>於偵訊時具結證述：伊於103年1月3日下午3時4
+、證人陳世凱於偵訊時具結證述：伊於103年1月3日下午3時4
     分46秒到3時33分18秒，以所持用之門號0000000000號行動
     電話與被告王耀光所持用之門號0000000000號行動電話聯絡
     ，但因被告王耀光不在，所以請被告紀汶宏拿海洛因給伊，
     該次是向被告王耀光買3,000元之海洛因，當天伊先拿2,000
     元給被告紀汶宏轉交予被告王耀光，尚賒欠1,000元，所以
     之後要向被告王耀光購買毒品，被告王耀光都不願意賣伊等
-    語（見偵查卷(一)第149頁正面）；證人<font color='red'>陳世凱</font>又在本院審理
+    語（見偵查卷(一)第149頁正面）；證人陳世凱又在本院審理
     時具結證稱：103年1月3日時，伊有打電話給被告王耀光，
     因伊有施用海洛因，不知道去哪裡買，又被告王耀光曾請伊
     施用海洛因，故伊打電話詢問被告王耀光購買海洛因之事宜
@@ -574,76 +469,76 @@ function openwin(URL,arguments,width,height)
     實在等語（見本院卷第119頁、第120頁、第122頁至第124頁
     ）。
 、證人即被告紀汶宏於偵訊時具結證述：伊有幫被告王耀光將
-    毒品拿給綽號「凱哥」之證人<font color='red'>陳世凱</font>，伊曾經交付第一級毒
-    品，然後幫被告王耀光向證人<font color='red'>陳世凱</font>收錢後，再將錢拿給被
+    毒品拿給綽號「凱哥」之證人陳世凱，伊曾經交付第一級毒
+    品，然後幫被告王耀光向證人陳世凱收錢後，再將錢拿給被
     告王耀光，好處是伊可以免費施用海洛因、甲基安非他命（
     偵查卷(一)第76頁、第77頁）。伊於103年1月3日下午3時34分
-    許，幫被告王耀光拿海洛因給證人<font color='red'>陳世凱</font>，並向證人<font color='red'>陳世凱
-    </font>收取2,000元之價金轉交給被告王耀光，因為當時證人<font color='red'>陳世
-    凱</font>只有拿2,000元給伊，不足1,000元，所以伊請證人<font color='red'>陳世凱
-    </font>自己跟被告王耀光聯絡，伊幫被告王耀光交易毒品的好處是
+    許，幫被告王耀光拿海洛因給證人陳世凱，並向證人陳世凱
+    收取2,000元之價金轉交給被告王耀光，因為當時證人陳世
+    凱只有拿2,000元給伊，不足1,000元，所以伊請證人陳世凱
+    自己跟被告王耀光聯絡，伊幫被告王耀光交易毒品的好處是
     可以免費施用被告王耀光所提供之毒品等語（見偵查卷(一)第
     149頁）。
-、證人<font color='red'>陳世凱</font>就前開購買海洛因之過程，於偵查及本院審理時
+、證人陳世凱就前開購買海洛因之過程，於偵查及本院審理時
     所為具結證述前後均一致，核與被告紀汶宏於偵查時具結證
-    述之內容相符，且與前揭被告王耀光與被告紀汶宏、證人<font color='red'>陳
-    世凱</font>等人間之通訊監察內容相符，則證人<font color='red'>陳世凱</font>、紀汶宏前
+    述之內容相符，且與前揭被告王耀光與被告紀汶宏、證人陳
+    世凱等人間之通訊監察內容相符，則證人陳世凱、紀汶宏前
     開證詞應與客觀事實相符，均可採信。
-、被告王耀光固以前詞置辯，惟其所辯與證人即購毒者<font color='red'>陳世凱
-    </font>、證人即被告紀汶宏前開證詞均不符。又販賣海洛因為違法
+、被告王耀光固以前詞置辯，惟其所辯與證人即購毒者陳世凱
+    、證人即被告紀汶宏前開證詞均不符。又販賣海洛因為違法
     之行為，販賣毒品之人一旦遭查獲，將被科以重刑，衡情以
     言，若非經由熟識者陪同購買，販毒者應不會將毒品販賣予
-    不認識之人，徵諸證人<font color='red'>陳世凱</font>並不認識被告紀汶宏乙節，業
-    經證人<font color='red'>陳世凱</font>於本院審理時證述明確，準此以言，證人<font color='red'>陳世
-    凱</font>自不可能直接向其所不認識之被告紀汶宏購得毒品；佐以
-    ，前揭被告王耀光與被告紀汶宏、證人<font color='red'>陳世凱</font>通話譯文內容
-    ，證人<font color='red'>陳世凱</font>購毒之初，乃先撥打電話給被告王耀光，再依
+    不認識之人，徵諸證人陳世凱並不認識被告紀汶宏乙節，業
+    經證人陳世凱於本院審理時證述明確，準此以言，證人陳世
+    凱自不可能直接向其所不認識之被告紀汶宏購得毒品；佐以
+    ，前揭被告王耀光與被告紀汶宏、證人陳世凱通話譯文內容
+    ，證人陳世凱購毒之初，乃先撥打電話給被告王耀光，再依
     被告王耀光之指示撥打電話給被告紀汶宏，然被告紀汶宏並
-    未接聽其所撥打之電話，故證人<font color='red'>陳世凱</font>仍要經由被告王耀光
+    未接聽其所撥打之電話，故證人陳世凱仍要經由被告王耀光
     撥打電話給被告紀汶宏，並由被告王耀光促使被告紀汶宏與
-    證人<font color='red'>陳世凱</font>聯絡後，證人<font color='red'>陳世凱</font>始得與被告紀汶宏取得聯繫
-    ，亦可推知上情。再者，證人<font color='red'>陳世凱</font>購買本案海洛因時，尚
-    不足1,000元，倘係由被告紀汶宏自行販售海洛因予證人<font color='red'>陳
-    世凱</font>，應可自行作主是否要讓證人<font color='red'>陳世凱</font>賒欠，或僅販賣2,
-    000元之海洛因予證人<font color='red'>陳世凱</font>等情事，實無須大費周張再撥
+    證人陳世凱聯絡後，證人陳世凱始得與被告紀汶宏取得聯繫
+    ，亦可推知上情。再者，證人陳世凱購買本案海洛因時，尚
+    不足1,000元，倘係由被告紀汶宏自行販售海洛因予證人陳
+    世凱，應可自行作主是否要讓證人陳世凱賒欠，或僅販賣2,
+    000元之海洛因予證人陳世凱等情事，實無須大費周張再撥
     打電話向被告王耀光請示，並於徵得被告王耀光同意後，被
-    告紀汶宏才願交付海洛因予證人<font color='red'>陳世凱</font>，益徵被告王耀光在
+    告紀汶宏才願交付海洛因予證人陳世凱，益徵被告王耀光在
     本次交易中所扮演之角色，絕非單純介紹被告紀汶宏與證人
-    <font color='red'>陳世凱</font>認識而已；又參以證人<font color='red'>陳世凱</font>於毒品交易數日後，在
+    陳世凱認識而已；又參以證人陳世凱於毒品交易數日後，在
     賭場以被告王耀光所積欠之賭債抵充其於該次毒品交易所賒
     欠被告王耀光之價金1,000元，更足認上開海洛因並非被告
-    紀汶宏自行販售予證人<font color='red'>陳世凱</font>。此外，證人<font color='red'>陳世凱</font>直承被告
+    紀汶宏自行販售予證人陳世凱。此外，證人陳世凱直承被告
     王耀光曾免費請其施用毒品，2人又多次在一起賭博，足見2
-    人交情不錯，且無任何嫌隙，則證人<font color='red'>陳世凱</font>應無陷害誣攀被
+    人交情不錯，且無任何嫌隙，則證人陳世凱應無陷害誣攀被
     告王耀光之動機，而被告王耀光所辯，除與前開證人之證述
-    不符外，更與常理有違，實不足採信。顯見證人<font color='red'>陳世凱</font>確係
+    不符外，更與常理有違，實不足採信。顯見證人陳世凱確係
     欲向被告王耀光購買海洛因，然因被告王耀光無瑕分身，方
-    請被告紀汶宏出面交易毒品至明。至證人<font color='red'>陳世凱</font>於本院審理
+    請被告紀汶宏出面交易毒品至明。至證人陳世凱於本院審理
     時雖改稱，其係要向被告王耀光詢問購毒事宜，並非要向被
-    告王耀光購買海洛因云云，然證人<font color='red'>陳世凱</font>前開證言，與其偵
+    告王耀光購買海洛因云云，然證人陳世凱前開證言，與其偵
     訊時所具結之證述相違，應係事後迴護被告王耀光之詞，不
     足憑採。
 、選任辯護人固為被告王耀光辯護以：被告紀汶宏曾於本院準
     備程序時陳稱，該次交易之海洛因係由其先向陳延信購得3,
-    000元之海洛因，適被告王耀光打電話向其表示證人<font color='red'>陳世凱
-    </font>要購買海洛因，請其與證人<font color='red'>陳世凱</font>聯絡，其才先將上開3,00
-    0元之海洛因轉給證人<font color='red'>陳世凱</font>，足可證明該次毒品係由被告
-    紀汶宏與證人<font color='red'>陳世凱</font>自行交易，與被告王耀光無關云云。然
+    000元之海洛因，適被告王耀光打電話向其表示證人陳世凱
+    要購買海洛因，請其與證人陳世凱聯絡，其才先將上開3,00
+    0元之海洛因轉給證人陳世凱，足可證明該次毒品係由被告
+    紀汶宏與證人陳世凱自行交易，與被告王耀光無關云云。然
     查，被告紀汶宏於本院準備程序時尚否認本次販賣第一級毒
     品之犯行，惟被告紀汶宏於本院審理時，已就與被告王耀光
-    共同販賣海洛因給證人<font color='red'>陳世凱</font>之情事表明認罪，並於本院審
-    理時供承：當天係被告王耀光向伊表示證人<font color='red'>陳世凱</font>在樓下，
-    叫伊去找證人<font color='red'>陳世凱</font>，伊就下樓去找證人<font color='red'>陳世凱</font>，第一趟時
-    尚未交付毒品給證人<font color='red'>陳世凱</font>，證人<font color='red'>陳世凱</font>向伊表示要拿毒品
-    ，伊則回稱沒有毒品，證人<font color='red'>陳世凱</font>便請伊與被告王耀光聯絡
-    ，隨後被告王耀光叫伊至其住處裡拿毒品給證人<font color='red'>陳世凱</font>，否
+    共同販賣海洛因給證人陳世凱之情事表明認罪，並於本院審
+    理時供承：當天係被告王耀光向伊表示證人陳世凱在樓下，
+    叫伊去找證人陳世凱，伊就下樓去找證人陳世凱，第一趟時
+    尚未交付毒品給證人陳世凱，證人陳世凱向伊表示要拿毒品
+    ，伊則回稱沒有毒品，證人陳世凱便請伊與被告王耀光聯絡
+    ，隨後被告王耀光叫伊至其住處裡拿毒品給證人陳世凱，否
     則伊怎敢私自拿取等語明確（見本院卷第127頁）。則被告
     紀汶宏前揭於否認犯行時之說詞，是否為真，已非無疑。況
     且，被告王耀光曾於偵訊時陳明，其所有之海洛因之來源係
     向陳延信所購買，都是透過被告紀汶宏才買到的等語（見偵
     查卷(一)第170頁背面），縱認被告紀汶宏首揭陳詞為真，亦
     應係其先為被告王耀光向陳延信購入海洛因後，再聽從被告
-    王耀光之指示，將上開毒品販售於證人<font color='red'>陳世凱</font>，是被告紀汶
+    王耀光之指示，將上開毒品販售於證人陳世凱，是被告紀汶
     宏前開供述，實無從證明本次犯行僅由其個人所為，而仍無
     從據以為被告王耀光有利之認定。
 (三)、關於被告王耀光與被告紀汶宏共同販賣甲基安非他命部分之
@@ -731,7 +626,7 @@ function openwin(URL,arguments,width,height)
     上開犯罪事實，業據被告王耀光於偵訊、本院訊問、準備程
     序及審理時均坦承不諱（見偵查卷(一)第170頁、偵聲卷第15
     頁背面、偵聲更卷第17頁、第18頁、本院卷第62頁背面、第
-    113頁背面、第139頁），核與證人<font color='red'>陳世凱</font>於偵查中及本院審
+    113頁背面、第139頁），核與證人陳世凱於偵查中及本院審
     理時具結證述相符（見偵查卷(一)第149頁、本院卷第122頁背
     面），足徵被告王耀光前開自白確與事實相符，堪以採信。
 (五)、關於被告王耀光施用第一、二級毒品部分（即犯罪事實欄五
@@ -804,7 +699,7 @@ function openwin(URL,arguments,width,height)
     命之人從價差或量差中牟利之方式雖異，其意圖營利之販賣
     行為則同一。上開證人尤玉峰、陳佩琪向被告王耀光、紀汶
     宏購買甲基安非他命、證人尤玉峰向被告王耀光、王建購
-    買甲基安非他命及證人<font color='red'>陳世凱</font>向被告王耀光、紀汶宏購買海
+    買甲基安非他命及證人陳世凱向被告王耀光、紀汶宏購買海
     洛因時，均係存有金錢交易之有償行為，復參酌本案被告等
     人販賣毒品之交易金額，如無相當利潤可圖，絕無甘冒遭受
     重刑之風險，而平白費時、費力將海洛因或甲基安非他命交
@@ -1146,8 +1041,8 @@ function openwin(URL,arguments,width,height)
     性，並助長施用毒品成癮之惡習，戕害他人身心健康，對社
     會治安更造成相當程度之危害；另被告王耀光、紀汶宏無視
     於我國政府禁絕毒害之堅定立場，率將海洛因、甲基安非他
-    命無償提供予證人<font color='red'>陳世凱</font>、尤玉峰施用，表面上雖為基於朋
-    友情誼而慨然交付，實則致證人<font color='red'>陳世凱</font>、尤玉峰耽溺毒害而
+    命無償提供予證人陳世凱、尤玉峰施用，表面上雖為基於朋
+    友情誼而慨然交付，實則致證人陳世凱、尤玉峰耽溺毒害而
     難以自拔；此外，被告王耀光、紀汶宏曾因多次施用毒品犯
     行接受觀察、勒戒或強制戒治及入監服刑，猶未能從中記取
     教訓，深切體認毒品危害己身健康之鉅，反而再次趁隙施用
@@ -1278,7 +1173,7 @@ function openwin(URL,arguments,width,height)
     實欄二、(一)、(二)所示之販賣第一、二級毒品犯行實際所得之
     財物固未扣案（其中犯罪事事實欄二、(一)所示之販賣第一級
     毒品之實際所得為2,000元，而於交易當日未實際收取之價
-    金1,000元，被告王耀光固於日後以其積欠證人<font color='red'>陳世凱</font>之債
+    金1,000元，被告王耀光固於日後以其積欠證人陳世凱之債
     務抵充完畢，然被告王耀光所因此取得之財產利益1,000元
     ，依首揭說明，仍不得宣告沒收），各應依毒品危害防制條
     例第19條第1項規定，於其等共犯各次販賣第一、二級毒品
@@ -1481,86 +1376,12 @@ function openwin(URL,arguments,width,height)
 │ 14 │犯罪事實欄│紀汶宏施用第二級毒品，累犯，處有期徒│
 │    │七        │刑陸月，如易科罰金，以新臺幣壹仟元折│
 │    │          │算壹日。                            │
-└──┴─────┴──────────────────┘</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTCD\CRIMINAL\10311\05\TCDM103B5.01Z] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共18
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=001173&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=18&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e4%b8%96%e5%87%b1&sdate=&edate=&page=&searchkw=%e9%99%b3%e4%b8%96%e5%87%b1&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c1173%2c20141105%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1173&jdate=1031105&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c1173%2c20141105%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=1173&jdate=1031105&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c1173%2c20141105%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','1173','1031105','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳世凱">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳世凱">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴─────┴──────────────────┘
+[*jrecno*]103,訴,1173,20141105,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]1173
+[*jdate*]1031105
+[*jcheck*]1

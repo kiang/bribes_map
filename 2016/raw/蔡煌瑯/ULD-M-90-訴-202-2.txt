@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣雲林地方法院-刑-90訴202</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣雲林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000202&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c202%2c20020430%2c2&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=202&jdate=910430&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c202%2c20020430%2c2&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=202&jdate=910430&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c202%2c20020430%2c2','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','202','910430','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,訴,202</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">910430</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">瀆職</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣雲林地方法院刑事判決　　　　　　　　　　　　　　九十年度訴字第二<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7AF2A0A00000040.GIF" />二號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c202%2c20020430%2c2&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=202&jdate=910430&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000202&selectedCrtid=ULD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c202%2c20020430%2c2&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=202&jdate=910430&jcheck=2
+[*裁判字號*]90,訴,202
+[*裁判日期*]910430
+[*裁判案由*]瀆職
+[*裁判全文*]臺灣雲林地方法院刑事判決　　　　　　　　　　　　　　九十年度訴字第二二號
 　　公　訴　人　臺灣雲林地方法院檢察署檢察官
 　　被　　　告　甲○○
 　　選任辯護人　鍾竹簧
@@ -259,7 +152,7 @@ function openwin(URL,arguments,width,height)
           介，或縱有壟斷造墓業務之情形，仍不能據此推論被告藉此向造墓業者勒
           索財物。或只是被告與業者之間，所達成之默契而已。
       (2)、接著審酌證人丁○○前後之證詞：
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、八十八年三月二十二日調查站筆錄（八十七年他字第一二三號卷第四二
+        、八十八年三月二十二日調查站筆錄（八十七年他字第一二三號卷第四二
             頁）：
             甲○○曾向我要六萬元，我迫於無奈只好給他。大約於八十五年五、六
             月間，大屯公墓即將開始進行土葬時，甲○○透過我友人向我表示：要
@@ -269,19 +162,19 @@ function openwin(URL,arguments,width,height)
             迫於無奈，乃於八十五年五月、六月間某日白天上班時間，把六萬元現
             金送到大屯公墓，親手交給甲○○，事後甲○○並未少收墓碑費回扣，
             每門墓碑費仍向我收取三千五百元，我才知道上當受騙。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、八十九年五月一日檢察官訊問筆錄（八十九年度偵字第一六０號卷第三
+        、八十九年五月一日檢察官訊問筆錄（八十九年度偵字第一六０號卷第三
             十二頁反面）：
             檢察官問丁○○：你有無和甲○○說如大屯公墓叫你（做），你要付他
             六萬元？
             丁○○答：那是他向我借的。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、九十年二月二十一日檢察官訊問筆錄（同上偵卷第七九頁）：
+        、九十年二月二十一日檢察官訊問筆錄（同上偵卷第七九頁）：
             問：甲○○有無在八十五年五、六月間，向你勒索六萬元？
             答：他是說向我借的。
             問：有無說何時還你？
             答：沒有。
             問：為何他要借錢，就借給他？
             答：他家裡經濟不好。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、本院九十年六月十九日審理筆錄（審卷第三九頁至四０頁）：
+        、本院九十年六月十九日審理筆錄（審卷第三九頁至四０頁）：
             問：甲○○有向你拿六萬元？
             答：不記得了，時間太久了。
 問：為何向你拿六萬元？
@@ -297,7 +190,7 @@ function openwin(URL,arguments,width,height)
                 給他六萬元。
             問：這六萬元的用意？
             答：是要送給他的。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />、本院九十年十月二十六日審理筆錄（審卷第二二四頁）：
+        、本院九十年十月二十六日審理筆錄（審卷第二二四頁）：
             問：是什麼時候向你借錢的？
             答：是先認識一段時間之後，被告叫陳明水來向我借錢。
             問：有無說什麼時候要還錢？
@@ -322,7 +215,7 @@ function openwin(URL,arguments,width,height)
       (2)、檢察官認為被告向己○○連續勒索四千元花用，主要是以己○○於調查站
           及檢察官訊問時之指訴為依據。惟己○○對此部分前後之指訴及證詞如下
           ：
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />、八十七年十一月十六日調查站筆錄（同上他字卷第十七至二一頁）：
+        、八十七年十一月十六日調查站筆錄（同上他字卷第十七至二一頁）：
             例如陳金期及吳王諒之工程費開乙張發票人甲○○，帳號０一八二０－
             ０號、票號０一一四六七號，虎尾農會信用部支票金額四萬五千元交給
             我。其實甲○○於八十六年十月五日，向死者吳王諒家屬收取二萬三千
@@ -330,14 +223,14 @@ function openwin(URL,arguments,width,height)
             千元，但上述支票金額只有四萬五千元，二千元的差額由甲○○私吞，
             他開支票時向我表示要錢的話就拿四萬五千元的支票，否則他就不給現
             金。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />、八十九年一月十二日己○○接受檢察官訊問時之筆錄（同上偵卷第六五
+        、八十九年一月十二日己○○接受檢察官訊問時之筆錄（同上偵卷第六五
             頁）：
             問：你錢如何來，八十六年十月到十一月間，和甲○○的金錢往來情形
                 ？
             答：我做風水的錢，因做陳金期、王什麼諒忘了，這二門四萬七千元，
                 他只開四萬五千元的票給我，因他說王什麼諒之人是他的親戚也是
                 朋友，所以少算二千元，我也有同意。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />、九十年二月二十一日己○○接受檢察官問訊時之筆錄（同上偵卷第八十
+        、九十年二月二十一日己○○接受檢察官問訊時之筆錄（同上偵卷第八十
         頁反面、八一頁）：
             問：死者蘇連生的土水費，被告少給你二千元，你是否同意？
             答：當初沒有，事後有，他說他的好朋友，少拿二千元。
@@ -345,7 +238,7 @@ function openwin(URL,arguments,width,height)
             答：因為我需透過他才能做這些工作。
             問：陳金期、王諒共四萬七千元，被告只給你四萬五千元？
             答：是的，他說錢他花掉了，開票給我，少二千元我就算了。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、己○○在本院之證詞：
+        、己○○在本院之證詞：
             問：收到的錢有短少：
             答：他收到的錢，有時候他告訴我說，喪家是他的朋友，叫我少收一點
                 。（審卷六七頁）
@@ -454,7 +347,7 @@ function openwin(URL,arguments,width,height)
         太多的顧忌，他就無法真正地為民服務．．。」（營志宏委員）；「．．．
         我們不希望法律對公務員的規範太過於死板，所以，我們修正這兩個條文的
         用意，就是要讓公務人員在未來為民服務、為民謀福利時，能有寬廣的空間
-        ．．．。」（<font color='red'>蔡煌瑯</font>委員）；「．．．這條條文的通過是值得肯定的，它是
+        ．．．。」（蔡煌瑯委員）；「．．．這條條文的通過是值得肯定的，它是
         針對公務人員儘量發揮服務的職掌給予肯定．．．。（周錫瑋委員）（以上
         見立法院公報第九十卷第五十一期第一一八頁至一二０頁）。可知該條款之
         修正目的，在於使圖利罪之犯罪構成要件更明確，使公務員不會因服務人民
@@ -597,86 +490,11 @@ function openwin(URL,arguments,width,height)
 如不服本判決，應於判決送達後十日內向本院提出上訴狀( 應附繕本 )。
                                             書記官  劉  興  錫
 中      華      民      國      九十一      年      四      月    三十  日
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWULD\CRIMINAL\9105\01\ULDM9151.001] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000202&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c202%2c20020430%2c2&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=202&jdate=910430&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c202%2c20020430%2c2&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=202&jdate=910430&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c202%2c20020430%2c2','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','202','910430','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="ULD 臺灣雲林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡煌瑯">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡煌瑯">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]90,訴,202,20020430,2
+[*v_court*]ULD 臺灣雲林地方法院
+[*v_sys*]M
+[*jyear*]90
+[*jcase*]訴
+[*jno*]202
+[*jdate*]910430
+[*jcheck*]2

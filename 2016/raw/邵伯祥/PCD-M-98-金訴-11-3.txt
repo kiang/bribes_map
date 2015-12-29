@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-98金訴11</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000011&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%82%b5%e4%bc%af%e7%a5%a5&sdate=&edate=&page=&searchkw=%e9%82%b5%e4%bc%af%e7%a5%a5&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%82%b5%e4%bc%af%e7%a5%a5&sdate=&edate=&page=&searchkw=%e9%82%b5%e4%bc%af%e7%a5%a5&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1000131&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1000131&jcheck=3">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e9%87%91%e8%a8%b4','11','1000131','3')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,金訴,11</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000131</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">銀行法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　98年度金訴字第11號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1000131&jcheck=3
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000011&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1000131&jcheck=3
+[*裁判字號*]98,金訴,11
+[*裁判日期*]1000131
+[*裁判案由*]銀行法等
+[*裁判全文*]臺灣板橋地方法院刑事判決　　　　　　　98年度金訴字第11號
 公　訴　人　臺灣板橋地方法院檢察署檢察官
 被　　　告　熊忠浩
 選任辯護人　賴俊睿律師
@@ -317,8 +210,8 @@ function openwin(URL,arguments,width,height)
     珠、吳永發、陳明光、張秀華、陳令倫、楊皇萱、楊欣齡、
     施奇偉、賴靜儀、黃麗珠、黃晴玫、陳美容、陳翠萍、洪賴
     玉印、李宜桂、黃昭淵、楊錦梅、高明玉、池菊珠、蔡淑玲
-    、鍾瑞鸞、蔡淑敏、莊婷婷、何佳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E54E2A0A00000040.GIF" />、蔣秀莉、范家珊、陳
-    秋燕、陳素于、崔懷文、廖月梅、呂<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />櫻、陳美慧、鄧羽喬
+    、鍾瑞鸞、蔡淑敏、莊婷婷、何佳、蔣秀莉、范家珊、陳
+    秋燕、陳素于、崔懷文、廖月梅、呂櫻、陳美慧、鄧羽喬
     、姜莉敏、周美宏、林素晴、陳貴祁、趙正毅、周沛珍、周
     謝美智、周逸樺、公方碩、顏仲祥、王世憲、黃雅秀、林文
     宗、吳秀菊、蔡連說、吳慧娟、傅瑞梅、張麗華、王建允、
@@ -395,12 +288,12 @@ function openwin(URL,arguments,width,height)
     、吳英星、蘇英珠、吳永發、陳明光、張秀華、陳令倫、楊
     皇萱、楊欣齡、施奇偉、賴靜儀、黃麗珠、黃晴玫、陳美容
     、陳翠萍、洪賴玉印、李宜桂、黃昭淵、楊錦梅、高明玉、
-    池菊珠、蔡淑玲、鍾瑞鸞、蔡淑敏、莊婷婷、何佳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E54E2A0A00000040.GIF" />、蔣秀
-    莉、范家珊、陳秋燕、陳素于、崔懷文、廖月梅、呂<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />櫻、
+    池菊珠、蔡淑玲、鍾瑞鸞、蔡淑敏、莊婷婷、何佳、蔣秀
+    莉、范家珊、陳秋燕、陳素于、崔懷文、廖月梅、呂櫻、
     陳美慧、鄧羽喬、姜莉敏、周美宏、林素晴、陳貴祁、趙正
     毅、周沛珍、周謝美智、周逸樺、公方碩、顏仲祥、謝勤英
     、吳志平、張雪子、張玉英、張傑山、何素鷹、謝凰慈、黃
-    慧倫、王世憲、汪素貞、楊接光、<font color='red'>邵伯祥</font>、李玉雪、蔡梁鴻
+    慧倫、王世憲、汪素貞、楊接光、邵伯祥、李玉雪、蔡梁鴻
     等人分別於警詢及偵查中之陳述及證述；被告即證人王美珍
     、劉張莉、陳瑞娟、白秀棻、同案被告即證人葉宥宏、張家
     明分別於警詢及偵查中之供述及證述；如附表二所示之被害
@@ -1051,12 +944,12 @@ function openwin(URL,arguments,width,height)
     蘇英珠、吳永發、陳明光、張秀華、陳令倫、楊皇萱、楊欣
     齡、施奇偉、賴靜儀、黃麗珠、黃晴玫、陳美容、陳翠萍、
     洪賴玉印、李宜桂、黃昭淵、楊錦梅、高明玉、池菊珠、蔡
-    淑玲、鍾瑞鸞、蔡淑敏、莊婷婷、何佳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E54E2A0A00000040.GIF" />、蔣秀莉、范家珊
-    、陳秋燕、陳素于、崔懷文、廖月梅、呂<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />櫻、陳美慧、鄧
+    淑玲、鍾瑞鸞、蔡淑敏、莊婷婷、何佳、蔣秀莉、范家珊
+    、陳秋燕、陳素于、崔懷文、廖月梅、呂櫻、陳美慧、鄧
     羽喬、姜莉敏、周美宏、林素晴、陳貴祁、趙正毅、周沛珍
     、周謝美智、周逸樺、公方碩、顏仲祥、謝勤英、吳志平、
     張雪子、張玉英、張傑山、何素鷹、謝凰慈、黃慧倫、王世
-    憲、汪素貞、楊接光、<font color='red'>邵伯祥</font>、李玉雪、蔡梁鴻等人分別於
+    憲、汪素貞、楊接光、邵伯祥、李玉雪、蔡梁鴻等人分別於
     警詢及偵審中之陳述及證述大致相符，並有行政院金融監督
     管理委員會證券期貨局九十七年一月七日證期七字第097000
     0463號函、尚宏公司營利事業登記基本資料查詢、網頁列印
@@ -1950,7 +1843,7 @@ function openwin(URL,arguments,width,height)
       二十九條第一項之視為收受存款罪嫌、證券投資信託及顧
       問法第一百零七條第二款、第十六條第一項之未經許可在
       中華民國境內銷售境外基金罪嫌部分：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />按銀行法第一百二十五條第一項之罪，以違反第二十九
+      按銀行法第一百二十五條第一項之罪，以違反第二十九
         條第一項，非銀行而經營收受存款、受託經理信託資金
         、公眾財產，或辦理國內外匯兌業務為要件。所謂收受
         存款或視為收受存款，係指同法第五條之一所規定，向
@@ -1975,7 +1868,7 @@ function openwin(URL,arguments,width,height)
         資參照；相同見解亦可參照最高法院九十一年度台上字
         第三八二號、九十七年度台上字第四九三四號、九十八
         年度台上字第五九四三號判決意旨）。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />查尚宏公司、誠安公司確以開設公司為幌，並以假借與
+      查尚宏公司、誠安公司確以開設公司為幌，並以假借與
         香港英皇金業投資（亞洲）有限公司與尚宏公司、誠安
         公司簽約推出該18% 固定配息專案之基金之欺罔方法在
         台召募投資客戶遂行其向投資客戶詐取財物為目的，然
@@ -2017,7 +1910,7 @@ function openwin(URL,arguments,width,height)
         謂之「收受存款」，揆諸前開判決意旨說明，應逕依刑
         法第三百三十九條第一項之詐欺取財罪論處，別無成立
         銀行法第一百二十五條第一項之罪之餘地。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />另按證券投資信託及顧問法第十六條第一項固規定任何
+      另按證券投資信託及顧問法第十六條第一項固規定任何
         人非經主管機關核准或向主管機關申報生效後，不得在
         中華民國境內從事或代理募集、銷售、投資顧問境外基
         金。然其中所稱之「境外基金」，依同法第五條第六款
@@ -2077,7 +1970,7 @@ function openwin(URL,arguments,width,height)
         之範圍，至多亦僅能回歸刑法規定，視行為人是否因此
         另構成詐欺等相關罪名（臺灣高等法院九十九年度金上
         訴字第二二號判決意旨可資參照）。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />查被告熊忠浩、柯佳秀、張瑛慧以所謂的18% 固定配息
+      查被告熊忠浩、柯佳秀、張瑛慧以所謂的18% 固定配息
         專案之基金，誘使投資人投資匯款，既純屬詐騙，而無
         實際有此一專案存在，理由已均如前述，據此以觀，本
         案自始即無實際設立18﹪固定配息專案基金之行為，更
@@ -2089,7 +1982,7 @@ function openwin(URL,arguments,width,height)
         規定處罰，即有未合。
     (2)被告梁以平、吳依馨就上揭犯罪事實三部分涉犯刑法第三
       百三十九條第一項之詐欺取財罪嫌部分：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />被告梁以平於本院審理中雖自承：我以前的工作是中興
+      被告梁以平於本院審理中雖自承：我以前的工作是中興
         人壽人壽保險的處經理，我是陸軍官校畢業，少校十年
         退伍，我在軍中關係滿好的，在誠安公司之前都在中興
         人壽服務等語（參見本院卷二第二二頁正面）；以及被
@@ -2113,7 +2006,7 @@ function openwin(URL,arguments,width,height)
         騙局具有犯意聯絡及行為分擔，或以其二人所具備之金
         融知識而得以辨識該18﹪固定配息專案係屬騙局而不違
         反其二人本意而仍為之，尚非無疑？
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />又被告梁以平在尚宏公司、誠安公司擔任職稱為總監之
+      又被告梁以平在尚宏公司、誠安公司擔任職稱為總監之
         職務，被告吳依馨在尚宏公司、誠安公司擔任職稱為副
         總經理及業務經理之職務，其二人負責18% 固定配息專
         案之教育訓練、行銷企劃、業務管理及向客戶解說並簽
@@ -2289,7 +2182,7 @@ function openwin(URL,arguments,width,height)
 ├──┼─────────┼───────┼───────┼──────┤
 │22  │    周美宏        │    195,000   │    195,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
-│23  │    何佳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E54E2A0A00000040.GIF" />        │    160,000   │    160,000   │            │
+│23  │    何佳        │    160,000   │    160,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
 │24  │    蔣秀莉        │    160,000   │    160,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
@@ -2341,7 +2234,7 @@ function openwin(URL,arguments,width,height)
 ├──┼─────────┼───────┼───────┼──────┤
 │48  │    池菊珠        │     80,000   │     80,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
-│49  │    呂<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4FD2A0A00000040.GIF" />櫻        │     80,000   │     80,000   │            │
+│49  │    呂櫻        │     80,000   │     80,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
 │50  │    陳美慧        │     80,000   │     80,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
@@ -2375,7 +2268,7 @@ function openwin(URL,arguments,width,height)
 ├──┼─────────┼───────┼───────┼──────┤
 │65  │    莊婷婷        │     40,000   │     40,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
-│66  │    <font color='red'>邵伯祥        </font>│     40,000   │     40,000   │            │
+│66  │    邵伯祥        │     40,000   │     40,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
 │67  │    林達雄        │     39,000   │     39,000   │            │
 ├──┼─────────┼───────┼───────┼──────┤
@@ -2604,86 +2497,12 @@ function openwin(URL,arguments,width,height)
 理市價者，不得為之。
 公平交易法第三十五條：
 違反第二十三條規定者，處行為人三年以下有期徒刑、拘役或科
-或併科新臺幣一億元以下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10001\31\PCDM1001V.08I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[3]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000011&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%82%b5%e4%bc%af%e7%a5%a5&sdate=&edate=&page=&searchkw=%e9%82%b5%e4%bc%af%e7%a5%a5&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%82%b5%e4%bc%af%e7%a5%a5&sdate=&edate=&page=&searchkw=%e9%82%b5%e4%bc%af%e7%a5%a5&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1000131&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e9%87%91%e8%a8%b4&jno=11&jdate=1000131&jcheck=3">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e9%87%91%e8%a8%b4%2c11%2c20110131%2c3','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e9%87%91%e8%a8%b4','11','1000131','3')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="邵伯祥">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="邵伯祥">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+或併科新臺幣一億元以下罰金。
+[*jrecno*]98,金訴,11,20110131,3
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]金訴
+[*jno*]11
+[*jdate*]1000131
+[*jcheck*]3

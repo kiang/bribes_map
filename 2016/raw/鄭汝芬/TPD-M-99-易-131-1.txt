@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-99易131</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%98%93&selectedCrmno=000131&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e6%98%93%2c131%2c20110711%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=131&jdate=1000711&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e6%98%93%2c131%2c20110711%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=131&jdate=1000711&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e6%98%93%2c131%2c20110711%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e6%98%93','131','1000711','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,易,131</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000711</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害名譽</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　 99年度易字第131號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e6%98%93%2c131%2c20110711%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=131&jdate=1000711&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%98%93&selectedCrmno=000131&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e6%98%93%2c131%2c20110711%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=131&jdate=1000711&jcheck=1
+[*裁判字號*]99,易,131
+[*裁判日期*]1000711
+[*裁判案由*]妨害名譽
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　 99年度易字第131號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　黃雅鈴
 選任辯護人　卓忠三律師
@@ -133,19 +26,19 @@ function openwin(URL,arguments,width,height)
     報、八大、東森、非凡電視台、中國、中華、臺灣、民間全
     民電視公司、飛碟廣播公司等平面、電視、廣播媒體及他黨
     黨團，散布指摘「政壇大醜聞，特權！特權！！立委之子撞
-    死人，找人冒名頂替，傳出立委媽媽施壓警方掩護。立委<font color='red'>鄭
-    汝芬</font>之子彰化縣議員謝典霖，今（5 月16日）凌晨在高速公
+    死人，找人冒名頂替，傳出立委媽媽施壓警方掩護。立委鄭
+    汝芬之子彰化縣議員謝典霖，今（5 月16日）凌晨在高速公
     路國道一號198 公里（接近臺中）處，開車追撞一輛汽車，
     導致開車民眾張銀河當場死亡。謝典霖馬上聯絡其母、立委
-    <font color='red'>鄭汝芬</font>，向警方施壓。在這位立委媽媽施壓下，警方有意配
+    鄭汝芬，向警方施壓。在這位立委媽媽施壓下，警方有意配
     合掩護處理，謝典霖要求由同車之林明亮冒名頂罪。警方本
     來不願意違法處理，但在強大壓力下，可能屈服... 家屬也
     深恐警方涉嫌包庇，無辜民眾申冤困難，因此，懇求正義感
-    人士出面揭發惡行... 」等<font color='red'>鄭汝芬</font>為子車禍向警施壓之不實
-    文字內容，足以毀損國民黨籍彰化縣立委<font color='red'>鄭汝芬</font>之名譽；嗣
-    因<font color='red'>鄭汝芬</font>於當日晚間委人報警提告，經警調閱相關監視器畫
+    人士出面揭發惡行... 」等鄭汝芬為子車禍向警施壓之不實
+    文字內容，足以毀損國民黨籍彰化縣立委鄭汝芬之名譽；嗣
+    因鄭汝芬於當日晚間委人報警提告，經警調閱相關監視器畫
     面後，方循線查獲上情。
-二、案經<font color='red'>鄭汝芬</font>訴由內政部警政署刑事警察局移請臺灣臺北地方
+二、案經鄭汝芬訴由內政部警政署刑事警察局移請臺灣臺北地方
     法院檢察署檢察官偵查起訴。
     理  由
 一、證據能力：
@@ -161,19 +54,19 @@ function openwin(URL,arguments,width,height)
 二、認定事實：
   (一)上開前往立法院記者室放置及傳真文稿予媒體、黨團之事實
     ，業據被告始終坦認係其所為，但其否認犯行，辯稱：是彰
-    化某40多歲男性鄉親前來告知此事，說立委<font color='red'>鄭汝芬</font>家族在地
+    化某40多歲男性鄉親前來告知此事，說立委鄭汝芬家族在地
     經營第四台，當地沒有人要幫他們發新聞，要我幫他發，該
     鄉親現場有打電話給國道警察，我也有上網查證，文件上所
     留聯絡電話確實是國道第三勤務段的電話，我想說記者會自
-    行撥打電話查證後再刊出，且<font color='red'>鄭汝芬</font>家族確實是彰化三大有
+    行撥打電話查證後再刊出，且鄭汝芬家族確實是彰化三大有
     線電視公司業者，車禍事故後又不見相關報導，故認為消息
     確遭封鎖，才想要幫忙該鄉親云云。辯護人則辯稱被告匆忙
     傳真文件予特定媒體，是要讓記者查證，立法院記者室亦有
     門禁管制，並無散布於眾之意圖，被告所述足以證明其確信
     文件內容為真，並無誹謗故意，且媒體均有平衡報導，未對
-    告訴人<font color='red'>鄭汝芬</font>造成名譽之損害等語。
+    告訴人鄭汝芬造成名譽之損害等語。
   (二)查被告於前揭時間，先前往立法院第一、二記者室放置署名
-    「一群看不下去的警察拜託」且載有告訴人即立委<font color='red'>鄭汝芬</font>為
+    「一群看不下去的警察拜託」且載有告訴人即立委鄭汝芬為
     子車禍向承辦員警施壓等文字之不具名文稿若干張，又隨即
     步行前往前揭超商傳真該文稿予上述媒體、他黨黨團共18通
     之事實，業據被告始終坦認無誤，並有該不具名文稿乙張在
@@ -196,8 +89,8 @@ function openwin(URL,arguments,width,height)
     證據，是應認本案乃被告個人、單獨所為（檢察官亦同此認
     定而對彰化縣長卓伯源及其弟卓伯仲分別處分不起訴確定，
     均可一併供參）。
-  (三)關於上開文稿所指摘告訴人<font color='red'>鄭汝芬</font>為子車禍向警施壓之事，
-    乃指被害人張銀河涉嫌遭<font color='red'>鄭汝芬</font>之子謝典霖過失駕車撞死之
+  (三)關於上開文稿所指摘告訴人鄭汝芬為子車禍向警施壓之事，
+    乃指被害人張銀河涉嫌遭鄭汝芬之子謝典霖過失駕車撞死之
     車禍事故，然謝典霖過失致死之罪嫌，業經臺灣彰化地方法
     院檢察署檢察官認罪嫌不足，而於97年8 月19日以97年度偵
     字第7595號為不起訴處分，後於同年9 月26日確定，此有該
@@ -208,15 +101,15 @@ function openwin(URL,arguments,width,height)
     人張銀河之友人，車禍前與張銀河同車，並非謝典霖之同車
     友人，此據本院查閱同署97年度相字第360 號影卷內筆錄確
     認屬實，是上開文稿中所指「謝典霖要求由同車之林明亮冒
-    名頂罪」云云，顯非事實；又證人即告訴人<font color='red'>鄭汝芬</font>於本院審
+    名頂罪」云云，顯非事實；又證人即告訴人鄭汝芬於本院審
     理中堅詞否認曾向警方施壓，且證稱謝典霖凌晨發生車禍，
     他當天早上打電話給我，我去公路總隊那裡看他一下，我並
     沒有向警方施壓，後來知道被告傳真，是因為媒體有打電話
     問我等語明確（見本院卷第114 頁審判筆錄），對照上開車
     禍事故之相驗、偵查過程與結果，兼參酌上開文稿連林明亮
     是否謝典霖之同車友人均誤植且妄稱謝典霖要求其出面頂罪
-    云云，當認<font color='red'>鄭汝芬</font>之本院結證為可信，上開文稿所言<font color='red'>鄭汝芬
-    </font>為子車禍出面向警施壓、警方有意配合掩護處理、可能屈服
+    云云，當認鄭汝芬之本院結證為可信，上開文稿所言鄭汝芬
+    為子車禍出面向警施壓、警方有意配合掩護處理、可能屈服
     、特權施壓等語，亦非事實，告訴人稱該文稿為黑函，並不
     為過。
   (四)本案被告係以將上開文件若干張先後放置在立法院第一、二
@@ -301,8 +194,8 @@ function openwin(URL,arguments,width,height)
     觀上具有誹謗之故意，核非能證明所散布者為真實，亦非善
     意發表言論，自無援引刑法第310 條第3 項或第311 條各款
     主張免責之餘地。
-  (六)綜上所述，被告基於誹謗之故意，將上開記載告訴人<font color='red'>鄭汝芬
-    </font>為子車禍向承辦員警施壓等不實內容之文件放在立法院記者
+  (六)綜上所述，被告基於誹謗之故意，將上開記載告訴人鄭汝芬
+    為子車禍向承辦員警施壓等不實內容之文件放在立法院記者
     室及傳真至諸媒體與告訴人對立政黨黨團，散布此一足以毀
     損告訴人名譽之文字於不特定多數人，業已事證明確，被告
     及辯護人各該所辯，並非可採，被告犯行堪以認定，自應依
@@ -313,8 +206,8 @@ function openwin(URL,arguments,width,height)
     先後至鄰近超商傳真相同文件共18通予媒體、立院黨團等不
     同單位，侵害同一法益，應認係基於同一犯意接續而為，論
     以接續犯之實質上一罪已足。爰審酌被告未自行查證瞭解、
-    無足夠憑據即對外散布無法證明為真實且明顯損及告訴人<font color='red'>鄭
-    汝芬</font>於社會上之名譽評價地位之誹謗文字，衡諸告訴人之現
+    無足夠憑據即對外散布無法證明為真實且明顯損及告訴人鄭
+    汝芬於社會上之名譽評價地位之誹謗文字，衡諸告訴人之現
     任立委身分，被告犯罪情節並非輕微，又其犯後雖未能坦認
     犯行，但仍多次表達悔意請求告訴人原諒，態度尚可，惟終
     究未能和解並取得告訴人之諒解，暨被告無前科之良好素行
@@ -344,86 +237,12 @@ function openwin(URL,arguments,width,height)
 散布文字、圖畫犯前項之罪者，處2 年以下有期徒刑、拘役或1
 千元以下罰金。
 對於所誹謗之事，能證明其為真實者，不罰。但涉於私德而與公
-共利益無關者，不在此限。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10007\11\TPDM1007B.011] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e6%98%93&selectedCrmno=000131&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%84%ad%e6%b1%9d%e8%8a%ac&sdate=&edate=&page=&searchkw=%e9%84%ad%e6%b1%9d%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e6%98%93%2c131%2c20110711%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=131&jdate=1000711&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e6%98%93%2c131%2c20110711%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e6%98%93&jno=131&jdate=1000711&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e6%98%93%2c131%2c20110711%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e6%98%93','131','1000711','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="鄭汝芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="鄭汝芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+共利益無關者，不在此限。
+[*jrecno*]99,易,131,20110711,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]易
+[*jno*]131
+[*jdate*]1000711
+[*jcheck*]1

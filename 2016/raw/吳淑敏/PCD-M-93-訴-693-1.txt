@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-93訴693</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第9
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e8%a8%b4&selectedCrmno=000693&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e8%a8%b4%2c693%2c20061020%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=693&jdate=951020&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=93%2c%e8%a8%b4%2c693%2c20061020%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=693&jdate=951020&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('93%2c%e8%a8%b4%2c693%2c20061020%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e8%a8%b4','693','951020','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">93,訴,693</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">951020</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">稅捐稽徵法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　 93年度訴字第693號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=93%2c%e8%a8%b4%2c693%2c20061020%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=693&jdate=951020&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e8%a8%b4&selectedCrmno=000693&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=93%2c%e8%a8%b4%2c693%2c20061020%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=693&jdate=951020&jcheck=1
+[*裁判字號*]93,訴,693
+[*裁判日期*]951020
+[*裁判案由*]稅捐稽徵法等
+[*裁判全文*]臺灣板橋地方法院刑事判決　　　　　　　 93年度訴字第693號
 公　訴　人　臺灣板橋地方法院檢察署檢察官
 被　　　告　己○○
 　　　　　　癸○○
@@ -132,54 +25,54 @@ function openwin(URL,arguments,width,height)
     產汽車公司〕簽約，承攬洗車工作，由國產汽車公司按每月
     洗車營業額百分之參拾柒、百分之肆拾參、百分之肆拾肆不
     等計付承攬報酬與己○○；己○○為完成承攬之洗車工作，
-    見黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />為輕度智障人士，認有機可乘，竟與癸○○共同基
-    於意圖為自己不法利益之犯意聯絡，向黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />誑稱願以每月
+    見黃星為輕度智障人士，認有機可乘，竟與癸○○共同基
+    於意圖為自己不法利益之犯意聯絡，向黃星誑稱願以每月
     新臺幣〔下同〕參萬元僱用其至國產汽車公司擔任洗車工，
-    薪資將按月存入黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />於富邦銀行帳戶，備供其日後購屋、
-    娶妻，黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />不疑有他，應允受僱擔任洗車工，至上揭保養
+    薪資將按月存入黃星於富邦銀行帳戶，備供其日後購屋、
+    娶妻，黃星不疑有他，應允受僱擔任洗車工，至上揭保養
     廠為己○○工作，迄至８９年９月止，接續供給勞務予己○
     ○，惟己○○、癸○○既未依約將薪資存入行庫，亦未以現
-    金清償給付黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />，以此方法，共同詐得黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />供給之勞動
+    金清償給付黃星，以此方法，共同詐得黃星供給之勞動
     利益，市值約陸拾玖萬元。
 乙、８７年１１月間，癸○○以開立薪資存款帳戶為由偕同庚○
     ○至富邦銀行開戶，取得其印章、國民身分證、殘障手冊等
-    資料，黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />並未授權癸○○於開戶目的外使用前揭印章、
+    資料，黃星並未授權癸○○於開戶目的外使用前揭印章、
     證件。癸○○在己○○與國產汽車公司履約期間，按月代理
     己○○前往國產汽車公司受領該公司給付與己○○之承攬報
     酬；詎竟基於偽造私文書之概括犯意，先後於附表壹所示時
-    間，盜用黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />上揭印章，虛載黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />受領國產汽車公司給
-    付附表壹所示『薪資』，連續偽造黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />受領薪資收據，足
-    以生損害於黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />。
+    間，盜用黃星上揭印章，虛載黃星受領國產汽車公司給
+    付附表壹所示『薪資』，連續偽造黃星受領薪資收據，足
+    以生損害於黃星。
 丙、臺灣聯合汽車有限公司〔下稱臺聯汽車公司〕於８９年９月
     間，承攬統一營造股份有限公司〔下稱統一營造公司〕汽車
     清潔工作，承攬報酬肆拾捌萬元；詎己○○竟基於幫助詐術
-    逃漏稅捐故意，提供黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />之國民身分證等資料與統一營造
-    公司負責人<font color='red'>吳淑敏</font>，囑<font color='red'>吳淑敏</font>將給付與臺聯汽車公司之承攬
-    報酬，以黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />於８９年度受領統一營造公司『薪資』肆拾
+    逃漏稅捐故意，提供黃星之國民身分證等資料與統一營造
+    公司負責人吳淑敏，囑吳淑敏將給付與臺聯汽車公司之承攬
+    報酬，以黃星於８９年度受領統一營造公司『薪資』肆拾
     捌萬元，向財政部臺灣省北區國稅局臺北縣分局提出申報，
     幫助臺聯汽車公司以詐術逃漏８９年度營利事業得稅拾貳萬
     元。
-丁、案經被害人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />訴由臺灣板橋地方法院檢察署檢察官偵查
+丁、案經被害人黃星訴由臺灣板橋地方法院檢察署檢察官偵查
     起訴。
     理  由
 甲、本件控、辯雙方主要爭點及所主張之證據方法：
 　　壹、公訴人認被告等涉上揭犯嫌，係以：〔一〕詰問證人甲
-　　　　○○、壬○○、丙○○、<font color='red'>吳淑敏</font>、黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />。〔二〕被害
-  　　　人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />、代理人子○○指述。〔三〕證人丙○○、壬
-　　　　○○、甲○○證詞。〔四〕證人<font color='red'>吳淑敏</font>證詞。〔五〕殘
+　　　　○○、壬○○、丙○○、吳淑敏、黃星。〔二〕被害
+  　　　人黃星、代理人子○○指述。〔三〕證人丙○○、壬
+　　　　○○、甲○○證詞。〔四〕證人吳淑敏證詞。〔五〕殘
   　　　障手冊影本。〔六〕國產汽車公司轉帳貸方傳票影本、
 　　　　轉帳借方傳票影本、中崙洗車外包薪資明細表影本。〔
-　　　　七〕蓋印有黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />印章之國產汽車公司薪資收據。〔八
+　　　　七〕蓋印有黃星印章之國產汽車公司薪資收據。〔八
 　　　　〕財政部臺灣省北區國稅局８６至８９年薪資所得人黃
-　　　　星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />綜合所得稅各類所得資料清單。〔九〕富邦銀行客
-        戶存提紀錄單戶名：黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />。〔十〕聲請函查國產汽車
+　　　　星綜合所得稅各類所得資料清單。〔九〕富邦銀行客
+        戶存提紀錄單戶名：黃星。〔十〕聲請函查國產汽車
         公司給付報酬之總金額。〔十一〕聲請函調被告己○○
         個人綜合所得稅結算申報資料〔參見本院卷Ａ宗第９６
         頁〕等為證據方法，因認被告等涉上揭犯嫌。
     貳、被告等爭執否認犯罪，其主要爭點有：〔一〕臺聯汽車
 　　　　公司於８８年１２月１日設立，負責人為戊○○，被告
 　　　　己○○係受僱為該公司之開發部主管，非實際負責人。
-　　　　〔二〕被告等未共同向告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />詐稱：願以每月３
+　　　　〔二〕被告等未共同向告訴人黃星詐稱：願以每月３
 　　　　萬元代價僱請告訴人擔任洗車工。〔三〕告訴人訴稱自
 　　　　８５年５月起，至８９年９月止，工作４年４月，薪資
 　　　　應有１５６萬云云，未舉證以實其說。〔四〕被告等未
@@ -189,15 +82,15 @@ function openwin(URL,arguments,width,height)
         會計，無從詐得告訴人之勞動價值。〔六〕被告癸○○
         為臺聯汽車公司會計，為向國產汽車公司領取工資以便
         轉發與告訴人及其他員工，乃依指示以「己○○」、「
-        黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />」、「楊忠富」、「辛○○」、「癸○○」、「
+        黃星」、「楊忠富」、「辛○○」、「癸○○」、「
         吳進財」等名義領款，供國產汽車公司申報繳稅，並無
         盜用告訴人印章之故意，復未生損害於告訴人。〔七〕
         被告己○○未於８９年９月間，以４８萬元承包統一營
         造公司受污染汽車之清潔工作。復未將告訴人之國民身
-        分證交付與該公司負責人<font color='red'>吳淑敏</font>、未囑<font color='red'>吳淑敏</font>將該筆費
+        分證交付與該公司負責人吳淑敏、未囑吳淑敏將該筆費
         用申報為告訴人之薪所得。被告等就其否認犯罪所持上
         揭辯解，聲明〔壹〕詰問證人辛○○、丁○○。〔貳〕
-        調閱本院９５年度訴字第１１５５號<font color='red'>吳淑敏</font>被訴違反商
+        調閱本院９５年度訴字第１１５５號吳淑敏被訴違反商
         業會計法等案卷〔參見本院卷Ａ宗第１２９頁〕。
 乙、關於上列證據方法之證據能力：
 　　刑事訴訟法第１５９條第１項雖規定，被告以外之人於審判
@@ -220,7 +113,7 @@ function openwin(URL,arguments,width,height)
     明。
 丙、有罪部分：
 　壹、本院之判斷：
-　　　一、事實欄甲部份，業據告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />、告訴代理人子○
+　　　一、事實欄甲部份，業據告訴人黃星、告訴代理人子○
 　　　　　○以證人身分於本院審判期日到庭具結指證歷歷，核
           與〔壹〕證人甲○○到庭結證情節〔參見本院卷Ａ宗
           第１６７頁第１７１頁、第１７７頁至第１７８頁〕
@@ -229,16 +122,16 @@ function openwin(URL,arguments,width,height)
           人林志平到庭結證情節〔參見本院卷Ａ宗１７９至第
           １８５頁〕。〔肆〕證人子○○結證情節〔參見本院
           卷Ａ宗第１８６頁至第１９０頁〕。〔伍〕證人黃星
-          <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />、黃吳月娥結證情節〔參見本院卷Ｂ宗附９５年８
-          月３１日審判筆錄〕，互核相符，復有〔一〕黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />
+          、黃吳月娥結證情節〔參見本院卷Ｂ宗附９５年８
+          月３１日審判筆錄〕，互核相符，復有〔一〕黃星
           殘障手冊影本〔附９０年度發查字第１７８７號卷第
           ８頁〕。〔二〕財政部臺灣省北區國稅局８６至８９
-          年薪資所得人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />綜合所得稅各類所得資料清單〔
+          年薪資所得人黃星綜合所得稅各類所得資料清單〔
           附９０年度發查字第１７８７號卷第１１頁、第１２
           頁、第３０頁、第３１頁〕。〔三〕國產汽車公司轉
           帳貸方傳票影本〔附９０年度發查字第１７８７號卷
           第１４頁〕。〔四〕富邦商業銀行客戶存提紀錄單戶
-          名：黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />〔附９０年度發查字第１７８７號卷第１
+          名：黃星〔附９０年度發查字第１７８７號卷第１
           ６頁至第１８頁〕。〔五〕國產汽車公司９４年１０
           月２０日陳報書暨所附所得稅申報資料〔附本院卷Ａ
           宗第５９頁至第６６頁〕等足佐。且查：
@@ -249,12 +142,12 @@ function openwin(URL,arguments,width,height)
 　　　　　　」〔參見本院卷Ａ宗第５９頁〕；參酌〔一〕證人
 　　　　　　甲○○到庭結證意旨略以：國產汽車公司與被告己
 　　　　　　○○有合作關係，人力調度係被告己○○處理，告
-　　　　　　訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />確曾於事欄甲所示時、地工作，所得則
+　　　　　　訴人黃星確曾於事欄甲所示時、地工作，所得則
   　　　　　交給己○○，議約過程中，未曾聽聞己○○說要回
     　　　　去向誰請示〔參見本院卷Ａ宗１６７頁、第１６８
       　　　頁、第１７９頁〕。〔二〕證人壬○○結證略以：
         　　己○○係請領中崙加油站外包業務『薪資』，癸○
-          　○也一樣，黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />未曾向伊〔壬○○〕領取報酬，
+          　○也一樣，黃星未曾向伊〔壬○○〕領取報酬，
             係己○○、癸○○來領；伊〔壬○○〕係將整個營
             業額交給己○○、癸○○；伊〔壬○○〕曾代領報
             酬，領得後即交給被告癸○○，未曾交給戊○○〔
@@ -305,7 +198,7 @@ function openwin(URL,arguments,width,height)
             證被告己○○洽談外包契約、指派、調度人員履行
             契約，暨被告己○○、癸○○受領國產汽車公司給
             付承攬報酬等情，互核相符，益見，僱用告訴人黃
-            星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />之人係被告己○○，告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />於事實欄甲
+            星之人係被告己○○，告訴人黃星於事實欄甲
             所示時、地從事洗車工作，確係為被告己○○工作
             。被告辯稱：『被告己○○係臺灣聯合汽車公司開
             發部主管、被告癸○○為該公司會計，無從詐得告
@@ -320,28 +213,28 @@ function openwin(URL,arguments,width,height)
             ４２頁、第１４６頁、第１５０頁、第１５４頁、
             第１５８頁、第１６２頁、第１６６頁、第１７０
             頁〕，亦認定如事實欄甲。
-        　(戊)被告以『月薪』參萬元『僱用』黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />至事實欄甲
-            所示時、地擔任洗車工，業據告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />指證歷
-            歷，參酌附表壹所示被告癸○○以告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />名
+        　(戊)被告以『月薪』參萬元『僱用』黃星至事實欄甲
+            所示時、地擔任洗車工，業據告訴人黃星指證歷
+            歷，參酌附表壹所示被告癸○○以告訴人黃星名
             義供國產汽車公司申報『薪資』所得每月參萬元者
             居多斟之，告訴人此部分指證情節，應與事實相符
-            。被告爭執主張『被告等未共同向告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />詐
+            。被告爭執主張『被告等未共同向告訴人黃星詐
 　　　　　　稱：願以每月３萬元代價僱請告訴人擔任洗車工』
 　　　　　　云云，不足採信。
-        　(己)被告等共同以一詐欺得利犯意，詐得告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />
+        　(己)被告等共同以一詐欺得利犯意，詐得告訴人黃星
         　　按日供給之勞動利益，雖告訴人供給之勞動利益時
 　          間近貳年，仍僅為單純壹罪〔起訴書認係連續犯〕
 　　　　　　。
-    　二、事實欄乙部分，業據告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />、告訴代理人子○
+    　二、事實欄乙部分，業據告訴人黃星、告訴代理人子○
 　　　　　○以證人身分於本院審判期日到庭具結指證歷歷，與
-          被告癸○○自白：「黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />薪資領款收據上的章是我
+          被告癸○○自白：「黃星薪資領款收據上的章是我
           拿給壬○○，壬○○蓋的」、「承認檢察官起訴之事
           實」〔參見本院卷Ａ宗第３８頁、第９５頁〕，互核
           相符，復有〔一〕國產汽車股份有限公司轉帳貸方傳
           票影本〔附９０年度發查字第１７８７號卷第１４頁
           〕。〔二〕中崙洗車外包薪資明細表影本〔附９０年
           度發查字第１７８７號卷第８９頁至第１７０頁〕。
-          〔三〕蓋印有黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />印章之國產汽車公司薪資收據影
+          〔三〕蓋印有黃星印章之國產汽車公司薪資收據影
           本〔附９０年度發查字第１７８７號卷第１３頁至第
           １５頁〕等足佐。且查：
 　　　　　(甲)國產汽車股份有限公司轉帳貸方傳票影本〔附９０
@@ -350,7 +243,7 @@ function openwin(URL,arguments,width,height)
 　　　　　　即係被告癸○○，參酌證人甲○○、壬○○、丙○
 　　　　　　○結證前情，堪認被告癸○○確係代理被告己○○
 　　　　　  受領國產汽車公司給付之承攬報酬。
-  　　　　(乙)黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />受領薪資收據不失為私文書，被告盜用庚○
+  　　　　(乙)黃星受領薪資收據不失為私文書，被告盜用庚○
     　　　　○印章，偽造系爭受領薪資收據，即該當於偽造私
 　　　      文書罪〔起訴書認該當於盜用印章罪〕。
 　　　　　(丙)國產汽車公司中崙保養廠洗車彙包業務，係『外包
@@ -358,10 +251,10 @@ function openwin(URL,arguments,width,height)
             臺聯汽車公司無從對被告癸○○為何種指示，被告
             癸○○嗣後另辯稱『伊為臺聯汽車公司會計，為向
             產公司領取工資以便轉發與告訴人及其他員工，乃
-            依『指示』以『黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />』等名義領款，供國產汽車
-            公司申報繳稅』云云，顯非實情；又告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />
+            依『指示』以『黃星』等名義領款，供國產汽車
+            公司申報繳稅』云云，顯非實情；又告訴人黃星
             並未獲告知、復未授權被告使用其印章向國產汽車
-            公司申報所得，業據黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />到庭結證明確〔參見本
+            公司申報所得，業據黃星到庭結證明確〔參見本
             院卷Ｂ宗附９５年８月３１日審判筆錄第１９頁〕
             ，復有前引事證足佐，被告癸○○另辯稱『並無盜
             用告訴人印章之故意，復未生損害於告訴人』，為
@@ -370,20 +263,20 @@ function openwin(URL,arguments,width,height)
           指統一營造公司〕部分，是對方公司自己來找，再以
           臺聯〔指臺聯汽車公司〕名義承包，．．．幫助公司
           逃漏稅部分，我願承認，．．．」〔參見本院卷Ａ宗
-          第３８頁〕，與〔一〕證人<font color='red'>吳淑敏</font>到庭結證情節〔參
+          第３８頁〕，與〔一〕證人吳淑敏到庭結證情節〔參
           見本院卷Ｂ宗附９５年９月２９日審判筆錄〕。〔二
-          〕證人吳星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />結證情節〔參見本院卷Ｂ宗附９５年８
+          〕證人吳星結證情節〔參見本院卷Ｂ宗附９５年８
           月３１日審判筆錄第１９頁、第２０頁〕，互核相符
           ，復有財政部臺灣省北區國稅局８９年薪資所得人黃
-          星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />綜合所得稅各類所得資料清單〔附９０年度發查
+          星綜合所得稅各類所得資料清單〔附９０年度發查
           字第１７８７號卷第３０頁〕足佐。且查：事實欄丙
           所示統一營造公司汽車清潔工作，係由臺聯汽車公司
           承攬〔起訴書載為『己○○於８９年９月間承包統一
           營造股份有限公司受污染汽車清潔工作』〕，爰補正
           如事實欄丙。被告爭執主張『未於８９年９月間，以
           ４８萬元承包統一營造公司受污染汽車之清潔工作。
-          復未將告訴人之國民身分證交付與該公司負責人<font color='red'>吳淑
-          敏</font>、未囑淑敏將該筆費用申報為告訴人之薪所得』云
+          復未將告訴人之國民身分證交付與該公司負責人吳淑
+          敏、未囑淑敏將該筆費用申報為告訴人之薪所得』云
           云，為犯後飾卸之詞，不足採信。
 　　　四、關於被告其餘爭執主張之事實，本院不予採納，其理
   　　　　由說明如下：
@@ -414,7 +307,7 @@ function openwin(URL,arguments,width,height)
 　　　　　(丙)辯方聲明之證人丁○○結證稱：伊〔丁○○〕曾受
   　　　　　僱於戊○○，在臺北縣板橋市○○路洗車，洗車工
 　　　　　　作人員中，有位『胖胖之人，智能稍為不足』，該
-　　　　　　人即係黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />，薪水由戊○○以薪水袋支付，被告
+　　　　　　人即係黃星，薪水由戊○○以薪水袋支付，被告
 　　　　　　己○○係經理、癸○○為會計，均有領薪水云云〔
   　　　　　參見本院卷Ａ宗第１９１頁、第１９５頁〕。惟〔
     　　　　一〕證人丁○○另證稱：「〔問：從事洗車工作幾
@@ -422,9 +315,9 @@ function openwin(URL,arguments,width,height)
 　　　　　　一年才沒有做，８５年開始就沒做」〔參見本院卷
 　　　　　　Ａ宗第１９２頁〕。證人丁○○自８５年起即未曾
   　　　　　從事洗車工作，對於事實甲所示時、地，告訴人黃
-    　　　　星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />究係何人僱用、有無受領薪資給付等情，無從
+    　　　　星究係何人僱用、有無受領薪資給付等情，無從
 　　　　　　以其感官體驗。〔二〕被告己○○直陳「證人丁○
-  　　　　　○所言胖胖智障的人不是黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />，姓林。」〔參見
+  　　　　　○所言胖胖智障的人不是黃星，姓林。」〔參見
     　　　　本院卷Ａ宗第１９５頁〕，斯亦足見，證人丁○○
     　　　　結證情節，不能證明被告否認犯罪所持辯解為真正
       　　　。
@@ -433,8 +326,8 @@ function openwin(URL,arguments,width,height)
           　８８年初』，薪水以薪水袋每月領一次，離職前洗
             車場未欠伊〔辛○○〕薪水，『發哥』是頭家，己
             ○○於跑業務，正式職稱不知〔參見本院卷Ａ宗第
-            １９６頁、第１９７頁、第１９８頁〕黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />母親
-            曾代黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />領薪，曾見黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />向『發哥』領薪資〔
+            １９６頁、第１９７頁、第１９８頁〕黃星母親
+            曾代黃星領薪，曾見黃星向『發哥』領薪資〔
             參見同上卷第１９９頁、第２０１頁〕。惟〔一〕
             事實欄甲所示國產汽車公司洗車彙包業務，係『外
             包予己○○』，從事洗車業務之工作人員均由被告
@@ -447,12 +340,12 @@ function openwin(URL,arguments,width,height)
             事業登記證」影本〔附９１年度偵字第２１９４２
             號卷第１６頁、第１７頁〕足參，均在辛○○於８
             ８年年初離職『後』，證人辛○○卻證稱『發哥』
-            是頭家，己○○屬於跑業務，黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />母親曾代庚○
-            ○領薪，曾見黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />向『發哥』領薪資云云，顯係
+            是頭家，己○○屬於跑業務，黃星母親曾代庚○
+            ○領薪，曾見黃星向『發哥』領薪資云云，顯係
             臨訟串證，自不能遽為有利於被告之認定。
-　　　　  (戊)<font color='red'>吳淑敏</font>〔原名乙○○〕因違反商業會計法等案，經
+　　　　  (戊)吳淑敏〔原名乙○○〕因違反商業會計法等案，經
 　　　　　　本院以９５年度訴字第１１５５號刑事判決諭知罪
-　　　　　  、刑，認定之事實略以：<font color='red'>吳淑敏</font>係宜興營造有限公
+　　　　　  、刑，認定之事實略以：吳淑敏係宜興營造有限公
 　　　　　　司〔下稱宜興公司〕之經理，亦為實際負責人，明
 　　　　　　知己○○於８９年並未在宜興公司工作及領取任何
 　　　　　　薪資，竟於９０年４月２日前申報營利事業所得稅
@@ -462,7 +355,7 @@ function openwin(URL,arguments,width,height)
 　　　　　　公司領取拾壹萬伍仟零拾貳元，而將該不實薪資支
 　　　　　　出金額虛列為公司營業成本，並進而製作宜興公司
 　　　　　　８９年度營利事業所得稅結算申報書持以行使，此
-  　　　　　有本院上開案卷〔影卷〕足稽；該案認定<font color='red'>吳淑敏</font>犯
+  　　　　　有本院上開案卷〔影卷〕足稽；該案認定吳淑敏犯
     　　　　罪之事實，與本判決事實欄丙所示事實無絲毫關聯
             ，復與被告否認犯罪所持上揭辯解，無證據上之關
             聯性，執之不足為有利於被告之論據。
@@ -537,32 +430,32 @@ function openwin(URL,arguments,width,height)
       Ａ宗第１１２頁〕均未成年，待被告癸○○撫育，本院因
       認暫不執行其刑為當，予以宣告緩刑，用啟自新。
 丁、不能證明犯罪，不另為無罪諭知部分：
-　　公訴意旨另以：己○○、癸○○為夫妻，見黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />為輕度智
-  　障人士，認有機可乘，竟共同基於意圖利益犯意，向黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />
+　　公訴意旨另以：己○○、癸○○為夫妻，見黃星為輕度智
+  　障人士，認有機可乘，竟共同基於意圖利益犯意，向黃星
     佯稱願以每月參萬元僱用其至該公司板橋洗車廠擔任洗車工
-    。黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />不疑有他而於８５年５月起至８７年６月止任職該
+    。黃星不疑有他而於８５年５月起至８７年６月止任職該
     公司洗車工。８７年７月間，己○○以台灣聯合汽車公司名
     義與國產汽車公司之中崙汽車保養廠簽約，承包洗車工作，
-    遂派黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />自８７年７月至８７年１０月至上開保養廠工作
-    ；己○○、癸○○向黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />誑稱稱已按月將其薪資存入富邦
-    銀行帳戶，備供黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />日後購屋、娶妻，黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />誤信渠等謊
+    遂派黃星自８７年７月至８７年１０月至上開保養廠工作
+    ；己○○、癸○○向黃星誑稱稱已按月將其薪資存入富邦
+    銀行帳戶，備供黃星日後購屋、娶妻，黃星誤信渠等謊
     言，奮力工作，己○○、癸○○既未依約將薪資存入行庫，
-    亦未以現金清償給付黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />，以此方法，共同詐得黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />自
+    亦未以現金清償給付黃星，以此方法，共同詐得黃星自
     「８５年５月起，至８７年１０月止」供給之勞動利益，因
     認被告等尚涉此部分詐欺得利犯嫌。被告堅決否認被訴詐欺
     得利犯嫌。查：
-　　壹、告訴人星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />偵訊時訴稱：「富邦銀行板橋分行在文化路
+　　壹、告訴人星偵訊時訴稱：「富邦銀行板橋分行在文化路
   　　　上，開戶我有去，而開完戶後，存摺及印章都交給癸○
     　　○」〔參見９１年度偵字第２１９４２號卷第１６頁背
-      　面〕，參酌富邦商業銀行客戶存提紀錄單戶名：黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />
+      　面〕，參酌富邦商業銀行客戶存提紀錄單戶名：黃星
 　　　　〔附９０年度發查字第１７８７號卷第１６頁至第１８
-　　　　頁〕顯示告訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />於「８７年１１月１９日」於富
+　　　　頁〕顯示告訴人黃星於「８７年１１月１９日」於富
 　　　　邦商業銀行開立帳戶〔參見同上卷第１６頁〕，堪認告
   　　　訴人係於「８７年１１月間」親自前去開戶；以告訴意
         旨略謂：己○○、癸○○共同意圖不法所有，連續向黃
-        星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />偽稱已按月將其薪資存入帳戶斟之，告訴人應自開
+        星偽稱已按月將其薪資存入帳戶斟之，告訴人應自開
         立上揭帳戶後受僱工作，較洽事理。
-    貳、證人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />於本院結證稱：〔洗車工作〕我是『８６年
+    貳、證人黃星於本院結證稱：〔洗車工作〕我是『８６年
         』進去，在板橋中山路工作是８６、８７年，８７年５
         、６月才派至中崙〔參見本院卷Ｂ宗附９５年８月３１
         日審判筆錄第１２頁、第１５頁〕，與告訴意旨謂其自
@@ -574,12 +467,12 @@ function openwin(URL,arguments,width,height)
 　　　　、６年，在同一處。我是８６年當兵，前一年才沒有做
 　　　　，８５年開始就沒做」〔參見本院卷Ａ宗第１９２頁〕
 　　　　。證人丁○○自８５年起即未曾從事洗車工作，對於告
-　　　　訴人黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />自「８５年５月起，至８７年１０月止」有
+　　　　訴人黃星自「８５年５月起，至８７年１０月止」有
 　　　  無向被告供給勞務，自屬無從證明。
-　　肆、被告己○○偵訊時陳述略以：黃星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />工作約貳年多〔參
+　　肆、被告己○○偵訊時陳述略以：黃星工作約貳年多〔參
   　　　見９１年度偵字第２１９４２號卷第１０頁正面〕，與
 　　　　事實欄甲所示告訴人供給勞務之時間較近似；告訴人黃
-  　　　星<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />就所訴「８５年５月起，至８７年１０月止」供給
+  　　　星就所訴「８５年５月起，至８７年１０月止」供給
 　　　　之勞務與被告己○○壹節，未提出其他積極確切之事證
   　　　供調查審酌，不能遽為不利於被告之認定。
   　伍、此外，復無其他積極確切之事證足認告訴人確曾於「８
@@ -706,86 +599,11 @@ function openwin(URL,arguments,width,height)
 　　　　　電話：(00)0000-0000
 　　　　　傳真：(00)0000-0000
 　　　　　Email:taipei@laf.org.tw
-</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[D:\judday\NOK\LAWPCD\CRIMINAL\9510\20\PCDM95AK.112] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第9
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e8%a8%b4&selectedCrmno=000693&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e6%b7%91%e6%95%8f&sdate=&edate=&page=&searchkw=%e5%90%b3%e6%b7%91%e6%95%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e8%a8%b4%2c693%2c20061020%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=693&jdate=951020&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=93%2c%e8%a8%b4%2c693%2c20061020%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=693&jdate=951020&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('93%2c%e8%a8%b4%2c693%2c20061020%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e8%a8%b4','693','951020','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="9"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳淑敏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳淑敏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]93,訴,693,20061020,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]93
+[*jcase*]訴
+[*jno*]693
+[*jdate*]951020
+[*jcheck*]1

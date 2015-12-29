@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-97訴448</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共39
-											筆 / 現在第35
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000448&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=36&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=39&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c448%2c20080226%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=448&jdate=970226&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c448%2c20080226%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=448&jdate=970226&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c448%2c20080226%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','448','970226','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">97,訴,448</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">970226</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　 97年度訴字第448號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c448%2c20080226%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=448&jdate=970226&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000448&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c448%2c20080226%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=448&jdate=970226&jcheck=1
+[*裁判字號*]97,訴,448
+[*裁判日期*]970226
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　　 97年度訴字第448號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　甲○○
 　　　　　　　　　　　號
@@ -269,7 +162,7 @@ function openwin(URL,arguments,width,height)
       亥○○、己○○、辛○○、未○○○、詹政中、申○○、
       童宗成、乙○○、何瑞錦（以上為地主即被害人）之證述
       。
-    6.證人<font color='red'>吳俊德</font>（臺中縣政府公務員建管課技士）之證述。
+    6.證人吳俊德（臺中縣政府公務員建管課技士）之證述。
     7.證人李浤文之證述。
   (三)書證部分：
     1.巴黎開發有限公司之臺中縣政府雜項建造執照及所附雜
@@ -304,58 +197,58 @@ function openwin(URL,arguments,width,height)
       。
     20.巴黎開發有限公司「系爭土地一」臺中縣營建廢棄土處理
       簽證卡。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5D42A0A00000040.GIF" />巴黎開發有限公司95年7月5日函臺中縣政府報請停工函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5D32A0A00000040.GIF" />臺中縣營建工程剩餘土石方處理及資源堆置處理場設置管
+    巴黎開發有限公司95年7月5日函臺中縣政府報請停工函。
+    臺中縣營建工程剩餘土石方處理及資源堆置處理場設置管
       理自治條例草案暨臺中縣土石方資源堆置場場外直接轉運
       流向管制作業規定（草案）會議紀錄。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5D22A0A00000040.GIF" />臺中縣營建工程剩餘土石方資源堆置場准予啟用同意書。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5D12A0A00000040.GIF" />營建工程土石方資源收受處理（暫存回收轉運）同意書。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5D02A0A00000040.GIF" />土方數量計算式。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5CF2A0A00000040.GIF" />土方處理計畫書。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5CE2A0A00000040.GIF" />義勤營造有限公司切結書。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5CD2A0A00000040.GIF" />臺中縣政府94年12月30日致豐資嶺企業有限公司函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5CC2A0A00000040.GIF" />豐資嶺企業股份有限公司工程申報內容查詢。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5CB2A0A00000040.GIF" />張晨昇建築師事務所承諾書。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5CA2A0A00000040.GIF" />現場蒐證照片16張。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C92A0A00000040.GIF" />臺中縣政府95年1月18日致巴黎開發有限公司函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C82A0A00000040.GIF" />臺中縣政府95年5月9日函及所附95年5月2日臺中縣清水地
+    臺中縣營建工程剩餘土石方資源堆置場准予啟用同意書。
+    營建工程土石方資源收受處理（暫存回收轉運）同意書。
+    土方數量計算式。
+    土方處理計畫書。
+    義勤營造有限公司切結書。
+    臺中縣政府94年12月30日致豐資嶺企業有限公司函。
+    豐資嶺企業股份有限公司工程申報內容查詢。
+    張晨昇建築師事務所承諾書。
+    現場蒐證照片16張。
+    臺中縣政府95年1月18日致巴黎開發有限公司函。
+    臺中縣政府95年5月9日函及所附95年5月2日臺中縣清水地
       政事務所函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C72A0A00000040.GIF" />臺中縣政府95年5月26日函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C62A0A00000040.GIF" />臺中縣政府95年5月30日函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C52A0A00000040.GIF" />巴黎住宅社區開發案水土保持計畫書及所附開發案、臺中
+    臺中縣政府95年5月26日函。
+    臺中縣政府95年5月30日函。
+    巴黎住宅社區開發案水土保持計畫書及所附開發案、臺中
       縣政府函、中華水土保持學會93年7月26日函、7月12日函
       。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C42A0A00000040.GIF" />逢甲大學93年11月17日函及審查結論。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C32A0A00000040.GIF" />臺中縣龍井鄉95年7月10日及臺中縣政府95年7月13日、95
+    逢甲大學93年11月17日函及審查結論。
+    臺中縣龍井鄉95年7月10日及臺中縣政府95年7月13日、95
       年6月14日函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C22A0A00000040.GIF" />巴黎開發有限公司95年11月14日函。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C12A0A00000040.GIF" />95年12月9日查扣之黃色估價單11張。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5C02A0A00000040.GIF" />證人張鳴東所有之藍色估價單2張、地磅單2張。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5BF2A0A00000040.GIF" />證人楊進所持有之地磅單1張。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5BE2A0A00000040.GIF" />證人黃振聲所持有之過磅單3張。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5BD2A0A00000040.GIF" />95年12月9日現場查證照片及路口翻拍照片共35張。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5BC2A0A00000040.GIF" />臺灣銀行豐原分行代理公庫送款回單（1）: 被告於95年1
+    巴黎開發有限公司95年11月14日函。
+    95年12月9日查扣之黃色估價單11張。
+    證人張鳴東所有之藍色估價單2張、地磅單2張。
+    證人楊進所持有之地磅單1張。
+    證人黃振聲所持有之過磅單3張。
+    95年12月9日現場查證照片及路口翻拍照片共35張。
+    臺灣銀行豐原分行代理公庫送款回單（1）: 被告於95年1
       月23日繳交巴黎住宅社區案水土保持保證金。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5BB2A0A00000040.GIF" />檢察官於96年2月9日之勘驗筆錄及臺中縣清水地政事務所
+    檢察官於96年2月9日之勘驗筆錄及臺中縣清水地政事務所
       96連3 月14日清地測字第0960005303號函及所附相關土地
       登記公務用謄本、鑑定圖。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5BA2A0A00000040.GIF" />被告甲○○與秋金砂石股份有限公司於96年9 月10日訂立
+    被告甲○○與秋金砂石股份有限公司於96年9 月10日訂立
       合約書。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5B92A0A00000040.GIF" />行政院農業委員會林務局農林航空測量所空照圖、系爭土
+    行政院農業委員會林務局農林航空測量所空照圖、系爭土
       地一於85年、96年等高線圖及被告盜採砂石粗估量。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5B82A0A00000040.GIF" />檢察官於96年12月20日14時許，會同臺中縣警察局烏日分
+    檢察官於96年12月20日14時許，會同臺中縣警察局烏日分
       局勘驗臺中縣龍井鄉○○路○ 段山腳段174-8地號至174-1
       2 地號、175、176-4、178-2、179地號土地及臺中縣沙鹿
       鎮○○路南勢坑段埔子小段415、415-3地號之土地照片及
       簡圖。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5B72A0A00000040.GIF" />臺中縣政府90年5 月16日受文者甲○○函及臺中縣山坡地
+    臺中縣政府90年5 月16日受文者甲○○函及臺中縣山坡地
       違規使用查報與取締案件勘查紀錄表。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5B62A0A00000040.GIF" />法務部調查局航業海員調查處臺中站95年5月8日（誤為96
+    法務部調查局航業海員調查處臺中站95年5月8日（誤為96
       年5月8日）之蒐證照片。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5B52A0A00000040.GIF" />臺中縣政府雜項建造執照專冊影印節本（僅含申請書及土
+    臺中縣政府雜項建造執照專冊影印節本（僅含申請書及土
       地使用權同意書）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5B42A0A00000040.GIF" />環成企業有限公司、秋金砂石股份有限公司之公司資料。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5B32A0A00000040.GIF" />法務部調查局航業海員調查處臺中站之蒐證錄影光碟。
+    環成企業有限公司、秋金砂石股份有限公司之公司資料。
+    法務部調查局航業海員調查處臺中站之蒐證錄影光碟。
 二、新舊法比較之說明：
     被告行為後（犯罪事實欄一、二部分），刑法業已修正公布
     ，並自95年7月1日施行。修正後刑法第2條第1項規定：「行
@@ -516,9 +409,9 @@ function openwin(URL,arguments,width,height)
 │    │:24／48；庚○○:3 │              │          │      │戊○○  │
 │    │／16。            │              │          │      │庚○○  │
 ├──┼─────────┼───────┼─────┼───┼────┤
-│10  │176-4。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />子○○:1 │未得地主同意  │ˇ        │ˇ    │酉○○  │
-│    │／24<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />戊○○:1／3 │&#215;            │          │      │辰○○○│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />亥○○:3／24<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />鄭│              │          │      │戊○○  │
+│10  │176-4。子○○:1 │未得地主同意  │ˇ        │ˇ    │酉○○  │
+│    │／24戊○○:1／3 │&#215;            │          │      │辰○○○│
+│    │亥○○:3／24鄭│              │          │      │戊○○  │
 │    │永銳、酉○○、黃蔡│              │          │      │癸○○  │
 │    │宜真、戌○○均為1 │              │          │      │戌○○  │
 │    │／24等人（天○○、│              │          │      │酉○○  │
@@ -533,12 +426,12 @@ function openwin(URL,arguments,width,height)
 │    │午○；管理者:葉真 │&#215;            │          │      │        │
 │    │）                │              │          │      │        │
 ├──┼─────────┼───────┼─────┼───┼────┤
-│13  │179。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />陳榮宗:3／ │未得地主同意  │ˇ        │ˇ    │戊○○  │
-│    │105 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />戊○○:11／ │&#215;            │          │      │庚○○  │
-│    │30<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />亥○○:3／24<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />│              │          │      │癸○○  │
+│13  │179。陳榮宗:3／ │未得地主同意  │ˇ        │ˇ    │戊○○  │
+│    │105 戊○○:11／ │&#215;            │          │      │庚○○  │
+│    │30亥○○:3／24│              │          │      │癸○○  │
 │    │天○○、酉○○、黃│              │          │      │戌○○  │
 │    │蔡宜真、戌○○:均 │              │          │      │子○○  │
-│    │為3／105<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />何雪鳳、│              │          │      │天○○  │
+│    │為3／105何雪鳳、│              │          │      │天○○  │
 │    │林孟兒（原所有權人│              │          │      │        │
 │    │:壬○○）:105／20 │              │          │      │        │
 └──┴─────────┴───────┴─────┴───┴────┘
@@ -626,10 +519,10 @@ function openwin(URL,arguments,width,height)
 │    │（地號：龍井鄉○○段壹柒肆之壹貳號）│                          │
 ├──┼──────────────────┼─────────────┤
 │ ９ │94年12月28日土地使用權同意書A12-4   │偽造之「辛○○」印文壹枚  │
-│    │（地號：龍井鄉○○段壹柒肆之壹<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />號）│                          │
+│    │（地號：龍井鄉○○段壹柒肆之壹號）│                          │
 ├──┼──────────────────┼─────────────┤
 │１０│94年12月28日土地使用權同意書A12-4   │偽造之「詹政中」印文壹枚  │
-│    │（地號：龍井鄉○○段壹柒肆之壹<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />號）│                          │
+│    │（地號：龍井鄉○○段壹柒肆之壹號）│                          │
 ├──┼──────────────────┼─────────────┤
 │１１│94年12月28日土地使用權同意書A12-4   │偽造之「丙○○」印文壹枚  │
 │    │（地號：龍井鄉○○段壹柒伍號）      │                          │
@@ -716,86 +609,11 @@ function openwin(URL,arguments,width,height)
 （行使偽造變造或登載不實之文書罪）
 行使第210條至第215條之文書者，依偽造、變造文書或登載不實
 事項或使登載不實事項之規定處斷。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWTCD\CRIMINAL\9702\26\TCDM972Q.01F] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共39
-											筆 / 現在第35
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000448&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=36&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=39&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c448%2c20080226%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=448&jdate=970226&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c448%2c20080226%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=448&jdate=970226&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c448%2c20080226%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','448','970226','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="35"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]97,訴,448,20080226,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]97
+[*jcase*]訴
+[*jno*]448
+[*jdate*]970226
+[*jcheck*]1

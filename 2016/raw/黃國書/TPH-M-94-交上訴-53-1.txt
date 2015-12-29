@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-94交上訴53</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+7mPAkRx+I0tuFGViTxUgxSv2SbE=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共30
-											筆 / 現在第23
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e4%ba%a4%e4%b8%8a%e8%a8%b4&selectedCrmno=000053&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=24&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=30&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%ba%a4%e4%b8%8a%e8%a8%b4&jno=53&jdate=940719&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%ba%a4%e4%b8%8a%e8%a8%b4&jno=53&jdate=940719&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','94','%e4%ba%a4%e4%b8%8a%e8%a8%b4','53','940719','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">94,交上訴,53</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">940719</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">公共危險等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　94年度交上訴字第53號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%ba%a4%e4%b8%8a%e8%a8%b4&jno=53&jdate=940719&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e4%ba%a4%e4%b8%8a%e8%a8%b4&selectedCrmno=000053&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%ba%a4%e4%b8%8a%e8%a8%b4&jno=53&jdate=940719&jcheck=1
+[*裁判字號*]94,交上訴,53
+[*裁判日期*]940719
+[*裁判案由*]公共危險等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　94年度交上訴字第53號
 　上　訴　人
 　即　被　告　乙○○
 　選任辯護人　林月雪律師
@@ -145,7 +40,7 @@ function openwin(URL,arguments,width,height)
     ○及丙○○，反為規避其法律責任，另行起意，逕自駕駛上
     開車輛由保安街西向東直駛，逃離肇事現場，惟經戊○○機
     警記下其車號與顏色，並分別向先後抵達現場處理之臺北市
-    政府警察局大同分局寧夏派出所及交通分隊員警<font color='red'>黃國書</font>、陳
+    政府警察局大同分局寧夏派出所及交通分隊員警黃國書、陳
     德威報告乙○○上開車輛之車號及顏色（黑色），始經警循
     線查獲。
 二、案經戊○○訴由臺北市政府警察局大同分局報請臺灣士林地
@@ -171,7 +66,7 @@ function openwin(URL,arguments,width,height)
     向北內側第二車道行駛由被害人丁○○所騎乘附載丙○○之
     車號BEI-327號重型機車前車頭，且其明知已駕車肇事致人
     受傷，竟逕自駕駛上開車輛逃離肇事現場，但仍經戊○○記
-    下其車號及車色並分別告知員警<font color='red'>黃國書</font>及陳德威等情，業據
+    下其車號及車色並分別告知員警黃國書及陳德威等情，業據
     證人即告訴人戊○○分別於偵查及原審審理時結證稱：「（
     問：妳當時看到的車號是幾號？）3B-3859」「（問：車子
     的顏色呢？）黑色」「（問：廠牌呢？）賓士」「（問：妳
@@ -179,8 +74,8 @@ function openwin(URL,arguments,width,height)
     黑色的車子本來是往前開，突然後退，之後轉彎，後保險桿
     整面撞到我的右側車身」「（問：車號是妳提供給警察的嗎
     ？）對，那天另外一位好心人士有追過去把車號抄回去給警
-    察，我是和那個人同時將車號提供給寧夏派出所的警員<font color='red'>黃國
-    書</font>」（偵查卷第92至93頁）；「（問：本件交通事故發生經
+    察，我是和那個人同時將車號提供給寧夏派出所的警員黃國
+    書」（偵查卷第92至93頁）；「（問：本件交通事故發生經
     過情形如何？）當時我在等紅綠燈，我有看到一部車從路邊
     開出來，後來該部車突然倒退，它原本停在路邊，我走在最
     內側車道，我的左側是公車專屬車道，當時他在最外側車道
@@ -191,7 +86,7 @@ function openwin(URL,arguments,width,height)
     看到他的車有踩煞車燈，他就往前開了，我就拿筆在車上白
     板寫上他的車號，我往左看，就看到機車騎士抱起他的女乘
     客」「（問：撞到你車的肇事車輛廠牌和顏色？）黑色賓士
-    車」「（問：是由何人將肇事車輛車號告訴警員<font color='red'>黃國書</font>？）
+    車」「（問：是由何人將肇事車輛車號告訴警員黃國書？）
     我不知道，當機車騎士抱起女乘客時，我走下車，叫了救護
     車，沒有多久警員就來了，警察就問一下現場狀況，我和一
     個機車騎士就同時說出車號，他可能有去追肇事車輛，再回
@@ -203,7 +98,7 @@ function openwin(URL,arguments,width,height)
     說有機車騎士有看到肇事車牌？）是他自己去追的。警察來
     的時候，他自己跟警察說的。我有問他肇事車號，他為何知
     道，他說他去追的時候看到的。後來交通大隊來的時候，他
-    就不在現場。他沒有說他追多遠。他是跟<font color='red'>黃國書</font>警員說的」
+    就不在現場。他沒有說他追多遠。他是跟黃國書警員說的」
     「（問：看到肇事車輛車牌的機車騎士的外表可否描述一下
     ？）騎125CC的男性約五、六十歲，胖胖的」「（問：你車
     前葉子板的高度有多高？撞到你的肇事車是用何部分撞到你
@@ -227,8 +122,8 @@ function openwin(URL,arguments,width,height)
     坐在駕駛座，往右側車窗看出去，當時車窗是關著的」等語
     綦詳（原審93年9月6日審判筆錄）。於本院審理中亦結證稱
     被告所駕汽車車號係伊所記下，警員到場時，另有一人亦同
-    時說出相同之車號等語，核與證人即現場處理之警員<font color='red'>黃國書
-    </font>於原審審理時證稱：「當天我有處理這件車禍，詳細時間我
+    時說出相同之車號等語，核與證人即現場處理之警員黃國書
+    於原審審理時證稱：「當天我有處理這件車禍，詳細時間我
     記不得，當時我是備差，就過去處理，現場只有一部營業小
     客車，即戊○○所駕駛的，當時她有給我一個車號，我有記
     載在工作記錄簿上，並通知交通隊」「（問：當天你是否第
@@ -265,7 +160,7 @@ function openwin(URL,arguments,width,height)
     機車卡到安全島上，我先量現場圖，然後再到醫院處理」「
     （問：道路交通事故調查表二上所載車號3B-3859號車號，
     是如何得知的？（提示偵查卷40頁）是計程車駕駛說的」「
-    （問：你到場的時候，<font color='red'>黃國書</font>是否還在場？）還在場」「（
+    （問：你到場的時候，黃國書是否還在場？）還在場」「（
     問：他有無向你告知本件交通事故事宜？）他有跟我講肇事
     逃逸車輛的車號」「（問：你到場之後，有無路人在現場？
     ）沒有」「（問：道路交通事故補充資料表，上面A車註明
@@ -284,8 +179,8 @@ function openwin(URL,arguments,width,height)
     支保險桿撞到保險桿是否會損害？）如果兩部車的角度對的
     話，還是有可能保險桿還是完好的」「（問：你在現場有無
     路人跟你說賓士車的車號？）我到達現場時，沒有其他路人
-    ，只有告訴人跟我講。<font color='red'>黃國書</font>並沒有告訴我有其他路人看到
-    賓士車的車號，<font color='red'>黃國書</font>有跟我講賓士車的車號，但是我還是
+    ，只有告訴人跟我講。黃國書並沒有告訴我有其他路人看到
+    賓士車的車號，黃國書有跟我講賓士車的車號，但是我還是
     去問計程車司機」等情相符（原審93年11月15日審判筆錄）
     。此外復有道路交通事故現場圖、道路交通事故調查報告表
     （除警方自行判斷之部分外）(一)(二)、現場照片8幀及告訴人
@@ -294,7 +189,7 @@ function openwin(URL,arguments,width,height)
     斷證明書（偵查卷第95頁）及財團法人馬偕紀念醫院診斷證
     明書（偵查卷第30至31頁）各1件在卷可憑。
   (二)綜上，被告雖否認有何過失傷害及肇事逃逸之犯行，但依告
-    訴人之指訴及證人<font color='red'>黃國書</font>、陳德威上揭證詞，足認告訴人於
+    訴人之指訴及證人黃國書、陳德威上揭證詞，足認告訴人於
     突遭車禍之際，即立刻將肇事車輛之車號3B-3859及其車色
     （黑色）告知前來處理之警員（依警方交通事故談話紀錄表
     所載之時間為92年3月18日晚上10時38分許，此部分不涉及
@@ -341,7 +236,7 @@ function openwin(URL,arguments,width,height)
     敘明。
 五、被告辯護人於原審準備程序時主張如起訴書證據清單編號
     二、三、五、六、八所示之證據能力應予排除（原審93年6
-    月8日準備程序筆錄），其中告訴人及證人<font color='red'>黃國書</font>，原審已
+    月8日準備程序筆錄），其中告訴人及證人黃國書，原審已
     依法傳喚到庭並依證人交互詰問程序令其陳述；另被害人丁
     ○○於警方交通事故談話紀錄表內之陳述、交通事故分析研
     判表、談話紀錄表及補充資料表內，關於人之供述及警方自
@@ -399,86 +294,11 @@ function openwin(URL,arguments,width,height)
 第284條第1項
 因過失傷害人者，處6月以下有期徒刑、拘役或500元以下罰金，
 致重傷者，處1年以下有期徒刑、拘役或500元以下罰金。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\ok\LAWTPH\CRIMINAL\9407\19\TPHM947J.034] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共30
-											筆 / 現在第23
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e4%ba%a4%e4%b8%8a%e8%a8%b4&selectedCrmno=000053&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=24&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=30&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e5%9c%8b%e6%9b%b8&sdate=&edate=&page=&searchkw=%e9%bb%83%e5%9c%8b%e6%9b%b8&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%ba%a4%e4%b8%8a%e8%a8%b4&jno=53&jdate=940719&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%ba%a4%e4%b8%8a%e8%a8%b4&jno=53&jdate=940719&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('94%2c%e4%ba%a4%e4%b8%8a%e8%a8%b4%2c53%2c20050719%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','94','%e4%ba%a4%e4%b8%8a%e8%a8%b4','53','940719','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="23"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃國書">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃國書">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]94,交上訴,53,20050719,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]94
+[*jcase*]交上訴
+[*jno*]53
+[*jdate*]940719
+[*jcheck*]1

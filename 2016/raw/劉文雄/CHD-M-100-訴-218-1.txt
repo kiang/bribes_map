@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-100訴218</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000218&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c218%2c20120719%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=218&jdate=1010719&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c218%2c20120719%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=218&jdate=1010719&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c218%2c20120719%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','218','1010719','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,218</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010719</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">常業重利等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　100年度訴字第218號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c218%2c20120719%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=218&jdate=1010719&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000218&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c218%2c20120719%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=218&jdate=1010719&jcheck=1
+[*裁判字號*]100,訴,218
+[*裁判日期*]1010719
+[*裁判案由*]常業重利等
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　100年度訴字第218號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　陳文亮
 選任辯護人　盧昱成律師
@@ -142,7 +35,7 @@ function openwin(URL,arguments,width,height)
 如易科罰金，以銀元參佰元即新臺幣玖佰元折算壹日；扣案如附
 表三所示之物均沒收。
 賴偉銘犯如附表二、附表六編號2、3、4、6所示之罪，各處如附
-表二、附表六編號2、3、4、6所示之刑。應執行有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年，
+表二、附表六編號2、3、4、6所示之刑。應執行有期徒刑年，
 如易科罰金，以新臺幣壹仟元折算壹日；扣案如附表三、四所示
 之物均沒收。
 江文凱犯如附表二、附表六編號1所示之罪，各處如附表二、附
@@ -332,7 +225,7 @@ function openwin(URL,arguments,width,height)
     芬、許烈耀、魏鎮安、黃萬生、許清松、柯銘宗、郭義豐、
     趙怡婷、蔡昆閔、劉明旗、柯汎穎、曾瑞達、邱家樺、李健
     生、楊暉隍、蔡惠鈴、賴慧青、林明億、紀水源、吳俊毅、
-    張明輝、梁建發、陳濱、紀澄清、蕭旭然、<font color='red'>劉文雄</font>、張靈修
+    張明輝、梁建發、陳濱、紀澄清、蕭旭然、劉文雄、張靈修
     、陳仕璋、邱建修、劉正文、游燕商、江基緯、陳鳳枝、陳
     建杉、柯清煜、蔡宗翰、鄭祺洽、江文平、黃瑞明、王世宗
     、陳開、莊志宗、莊禮、莊素燕、姜明峰、葉明郡、吳泓緯
@@ -606,14 +499,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │            │費2,000元。 │            │          │
 │  │      │            │        │        │            │            │            │          │
 ├─┼───┼──────┼────┼────┼──────┼──────┼──────┼─────┤
-│3 │陳其峰│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />94年4月11 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />彰化縣│急需用錢│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />1萬元     │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />以每萬元每│分別簽發2萬 │  陳文亮  │
+│3 │陳其峰│94年4月11 │彰化縣│急需用錢│1萬元     │以每萬元每│分別簽發2萬 │  陳文亮  │
 │  │      │  日        │  彰化市│        │  （年利率  │  10天收取1,│元、1萬元之 │          │
-│  │      │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />94年4月13 │  八卦山│        │  360%）    │  000元利息 │本票各1張， │          │
+│  │      │94年4月13 │  八卦山│        │  360%）    │  000元利息 │本票各1張， │          │
 │  │      │  日        │  婦女會│        │            │  ，借款時並│並提供國民身│          │
-│  │      │            │  旁    │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />5,000元   │  預扣第1期 │分證供擔保。│          │
-│  │      │            │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />彰化縣│        │  （年利率  │  利息及手續│            │          │
+│  │      │            │  旁    │        │5,000元   │  預扣第1期 │分證供擔保。│          │
+│  │      │            │彰化縣│        │  （年利率  │  利息及手續│            │          │
 │  │      │            │  北斗鎮│        │  720%）    │  費1000元。│            │          │
-│  │      │            │  北斗家│        │            │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />以每萬元每│            │          │
+│  │      │            │  北斗家│        │            │以每萬元每│            │          │
 │  │      │            │  商旁  │        │            │  10天收取2,│            │          │
 │  │      │            │        │        │            │  000元利息 │            │          │
 │  │      │            │        │        │            │  ，借款時並│            │          │
@@ -862,13 +755,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │路旁    │        │            │時並預扣第1 │            │          │
 │  │      │            │        │        │            │期利息。    │            │          │
 ├─┼───┼──────┼────┼────┼──────┼──────┼──────┼─────┤
-│42│<font color='red'>劉文雄</font>│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />93年間某日│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />彰化縣│急需現金│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />1萬元     │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />以每萬元每│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />簽發2萬元 │  陳文亮  │
-│  │      │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />94年間某日│  社頭鄉│        │  年利率    │  10天收取3,│  之本票1張 │          │
+│42│劉文雄│93年間某日│彰化縣│急需現金│1萬元     │以每萬元每│簽發2萬元 │  陳文亮  │
+│  │      │94年間某日│  社頭鄉│        │  年利率    │  10天收取3,│  之本票1張 │          │
 │  │      │            │  員集路│        │  1080%     │  000元，借 │  ，並提供國│          │
 │  │      │            │  橋頭國│        │            │  款時並預扣│  民身分證供│          │
-│  │      │            │  小附近│        │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />1萬元     │  第1期利息 │  擔保。    │          │
-│  │      │            │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />彰化縣│        │  年利率720%│  。        │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />簽發2萬元 │          │
-│  │      │            │  員林鎮│        │            │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />以每萬元每│  之本票1張 │          │
+│  │      │            │  小附近│        │1萬元     │  第1期利息 │  擔保。    │          │
+│  │      │            │彰化縣│        │  年利率720%│  。        │簽發2萬元 │          │
+│  │      │            │  員林鎮│        │            │以每萬元每│  之本票1張 │          │
 │  │      │            │  大潤發│        │            │  10天收取2,│  ，並提供國│          │
 │  │      │            │  附近加│        │            │  000元利息 │  民身分證供│          │
 │  │      │            │  油站前│        │            │  ，借款時並│  擔保。    │          │
@@ -1084,7 +977,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1099,13 +992,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │賴偉銘、陳昱仁、莊英│
 │  │      │            │        │        │          │            │            │          │偉共同犯重利罪，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1119,14 +1012,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │費1,000元。 │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │張益真、洪峻溢、莊英│
 │  │      │            │        │        │          │            │            │          │偉共同犯重利罪，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1138,7 +1031,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │收。                │
 ├─┼───┼──────┼────┼────┼─────┼──────┼──────┼─────┼──────────┤
 │4 │胡皓明│96年底或97年│臺中市大│急需現金│   3萬元  │以每萬元每10│簽發6萬元之 │陳文亮    │陳文亮共同犯重利罪，│
-│  │      │初間        │甲區幼獅│        │          │天收取1,500 │本票1張，並 │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │初間        │甲區幼獅│        │          │天收取1,500 │本票1張，並 │          │處有期徒刑月，如易│
 │  │      │            │工業區  │        │年利率540%│元利息，借款│提供健保卡供│          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │時並預扣第1 │擔保。      │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │期利息。    │            │          │表三所示之物沒收。  │
@@ -1152,7 +1045,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1173,7 +1066,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │之物沒收。          │
 │  │      │            │        │        │          │            │            │          │劉瑞龍、江文凱共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1201,14 +1094,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │陳昱仁共同犯重利罪  │
-│  │      │            │        │        │          │            │            │          │，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減│
+│  │      │            │        │        │          │            │            │          │，處有期徒刑月，減│
 │  │      │            │        │        │          │            │            │          │為有期徒刑壹月又壹拾│
 │  │      │            │        │        │          │            │            │          │伍日，如易科罰金，以│
 │  │      │            │        │        │          │            │            │          │新臺幣壹仟元折算壹日│
 │  │      │            │        │        │          │            │            │          │。扣案如附表三所示之│
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │劉瑞龍共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │累犯，處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
@@ -1225,12 +1118,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳昱仁共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1245,14 +1138,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │示之物沒收。        │
 │  │      │            │        │        │          │            │            │          │賴偉銘、陳昱仁共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有期徒刑壹│
+│  │      │            │        │        │          │            │            │          │月，減為有期徒刑壹│
 │  │      │            │        │        │          │            │            │          │月又壹拾伍日，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
@@ -1261,7 +1154,7 @@ function openwin(URL,arguments,width,height)
 ├─┼───┼──────┼────┼────┼─────┼──────┼──────┼─────┼──────────┤
 │9 │紀曾煥│98年5或6月間│臺中市龍│急需用錢│   1萬元  │以每萬元每10│簽發2萬元之 │  張益真  │陳文亮、張益真共同犯│
 │  │      │某日        │井區某游│        │          │天收取1,000 │本票1張供擔 │  江文凱  │重利罪，各處有期徒刑│
-│  │      │            │泳池前  │        │年利率360%│元利息，借款│保。        │  劉瑞敏  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，均│
+│  │      │            │泳池前  │        │年利率360%│元利息，借款│保。        │  劉瑞敏  │月，如易科罰金，均│
 │  │      │            │        │        │          │時並預扣第1 │            │  陳文亮  │以新臺幣壹仟元折算壹│
 │  │      │            │        │        │          │期利息。    │            │          │日。扣案如附表三所示│
 │  │      │            │        │        │          │            │            │          │之物沒收。          │
@@ -1273,7 +1166,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1286,7 +1179,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 ├─┼───┼──────┼────┼────┼─────┼──────┼──────┼─────┼──────────┤
 │10│林美玉│95年11月間某│地點不詳│急需用錢│   3萬元  │以每萬元每10│林美玉簽發6 │  陳文亮  │陳文亮共同犯重利罪，│
-│  │林仁添│日          │        │        │          │天收取2,000 │萬元之本票1 │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │林仁添│日          │        │        │          │天收取2,000 │萬元之本票1 │          │處有期徒刑月，減為│
 │  │      │            │        │        │年利率720%│元利息，借款│張，並提供國│          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │時並預扣第1 │民身分證供擔│          │日，如易科罰金，以新│
 │  │      │            │        │        │          │期利息。    │保。        │          │臺幣壹仟元折算壹日。│
@@ -1294,7 +1187,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月有壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1319,7 +1212,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │張益真共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1331,7 +1224,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1346,14 +1239,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、劉瑞敏共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有期徒刑壹│
+│  │      │            │        │        │          │            │            │          │月，減為有期徒刑壹│
 │  │      │            │        │        │          │            │            │          │月又壹拾伍日，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1369,7 +1262,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1382,7 +1275,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │陳昱仁、林宗興共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，均│
+│  │      │            │        │        │          │            │            │          │月，如易科罰金，均│
 │  │      │            │        │        │          │            │            │          │以新臺幣壹仟元折算壹│
 │  │      │            │        │        │          │            │            │          │日。扣案如附表三所示│
 │  │      │            │        │        │          │            │            │          │之物沒收。          │
@@ -1396,7 +1289,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │洪峻溢、陳昱仁共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，均│
+│  │      │            │        │        │          │            │            │          │月，如易科罰金，均│
 │  │      │            │        │        │          │            │            │          │以新臺幣壹仟元折算壹│
 │  │      │            │        │        │          │            │            │          │日。扣案如附表三所示│
 │  │      │            │        │        │          │            │            │          │之物沒收。          │
@@ -1408,7 +1301,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1422,14 +1315,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳昱仁共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
 │  │      │            │        │        │          │            │            │          │壹日。扣案如附表三所│
 │  │      │            │        │        │          │            │            │          │示之物沒收。        │
@@ -1443,13 +1336,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │陳昱仁共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
@@ -1469,13 +1362,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │張益真共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1490,14 +1383,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │張益真、林宗興共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，均│
+│  │      │            │        │        │          │            │            │          │月，如易科罰金，均│
 │  │      │            │        │        │          │            │            │          │以新臺幣壹仟元折算壹│
 │  │      │            │        │        │          │            │            │          │日。扣案如附表三所示│
 │  │      │            │        │        │          │            │            │          │之物沒收。          │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
@@ -1512,7 +1405,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
@@ -1533,7 +1426,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有期徒刑壹│
+│  │      │            │        │        │          │            │            │          │月，減為有期徒刑壹│
 │  │      │            │        │        │          │            │            │          │月又壹拾伍日，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
@@ -1546,7 +1439,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │江文凱共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │累犯，處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
@@ -1563,14 +1456,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │賴偉銘、陳昱仁共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有期徒刑壹│
+│  │      │            │        │        │          │            │            │          │月，減為有期徒刑壹│
 │  │      │            │        │        │          │            │            │          │月又壹拾伍日，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1587,7 +1480,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。扣案如附表三所示之│
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │林宗興共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1595,7 +1488,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1618,7 +1511,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1634,13 +1527,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
 │  │      │            │        │        │          │            │            │          │壹日。扣案如附表三所│
 │  │      │            │        │        │          │            │            │          │示之物沒收。        │
 │  │      │            │        │        │          │            │            │          │洪峻溢、陳昱仁共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，均│
+│  │      │            │        │        │          │            │            │          │月，如易科罰金，均│
 │  │      │            │        │        │          │            │            │          │以新臺幣壹仟元折算壹│
 │  │      │            │        │        │          │            │            │          │日。扣案如附表三所示│
 │  │      │            │        │        │          │            │            │          │之物沒收。          │
@@ -1655,7 +1548,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │之物沒收。          │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，以新臺幣壹仟元│
 │  │      │            │        │        │          │            │            │          │折算壹日。扣案如附表│
 │  │      │            │        │        │          │            │            │          │三所示之物沒收。    │
@@ -1676,7 +1569,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
@@ -1699,13 +1592,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │江文凱共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1720,7 +1613,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1732,7 +1625,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │洪峻溢共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1747,7 +1640,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞龍、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1769,12 +1662,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍、劉瑞敏共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳昱仁共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1788,7 +1681,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │仟元折算壹日。扣案如│
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │江文凱共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │累犯，處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
@@ -1803,7 +1696,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │劉瑞敏、林宗興共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，各處有期徒刑│
-│  │      │            │        │        │          │            │            │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有期徒刑壹│
+│  │      │            │        │        │          │            │            │          │月，減為有期徒刑壹│
 │  │      │            │        │        │          │            │            │          │月又壹拾伍日，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
@@ -1818,7 +1711,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │仟元折算壹日。扣案如│
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1826,7 +1719,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
@@ -1841,7 +1734,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │張益真共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1853,7 +1746,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
@@ -1867,14 +1760,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │費1,000元。 │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │張益真共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
@@ -1889,7 +1782,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1917,7 +1810,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，如易科│
 │  │      │            │        │        │          │            │            │          │罰金，均以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -1932,7 +1825,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。扣案如附表三所示之│
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1940,7 +1833,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -1956,13 +1849,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
@@ -1979,14 +1872,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │賴偉銘共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2003,7 +1896,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
@@ -2025,7 +1918,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
@@ -2047,13 +1940,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2068,13 +1961,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2089,13 +1982,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2110,12 +2003,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，以新臺幣壹仟元折算│
 │  │      │            │        │        │          │            │            │          │壹日。扣案如附表三所│
 │  │      │            │        │        │          │            │            │          │示之物沒收。        │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2131,14 +2024,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
 │  │      │            │        │        │          │            │            │          │案如附表三所示之物沒│
 │  │      │            │        │        │          │            │            │          │收。                │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2155,14 +2048,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，以新臺│
 │  │      │            │        │        │          │            │            │          │幣壹仟元折算壹日。扣│
@@ -2179,13 +2072,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2200,12 +2093,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2220,13 +2113,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2241,12 +2134,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2261,14 +2154,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2285,12 +2178,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2306,14 +2199,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2331,14 +2224,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2356,14 +2249,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │物沒收。            │
 │  │      │            │        │        │          │            │            │          │江文凱、劉瑞龍共同犯│
 │  │      │            │        │        │          │            │            │          │重利罪，均累犯，各處│
-│  │      │            │        │        │          │            │            │          │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為有│
+│  │      │            │        │        │          │            │            │          │有期徒刑月，減為有│
 │  │      │            │        │        │          │            │            │          │期徒刑壹月又壹拾伍日│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2380,13 +2273,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2401,12 +2294,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2421,13 +2314,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │張益真、賴偉銘、江文│
 │  │      │            │        │        │          │            │            │          │凱、劉瑞敏、劉瑞龍共│
 │  │      │            │        │        │          │            │            │          │同犯重利罪，均累犯，│
-│  │      │            │        │        │          │            │            │          │各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如│
+│  │      │            │        │        │          │            │            │          │各處有期徒刑月，如│
 │  │      │            │        │        │          │            │            │          │易科罰金，均以新臺幣│
 │  │      │            │        │        │          │            │            │          │壹仟元折算壹日。扣案│
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2442,13 +2335,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │張益真、賴偉銘、江文│
 │  │      │            │        │        │          │            │            │          │凱、劉瑞敏、劉瑞龍共│
 │  │      │            │        │        │          │            │            │          │同犯重利罪，均累犯，│
-│  │      │            │        │        │          │            │            │          │各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如│
+│  │      │            │        │        │          │            │            │          │各處有期徒刑月，如│
 │  │      │            │        │        │          │            │            │          │易科罰金，均以新臺幣│
 │  │      │            │        │        │          │            │            │          │壹仟元折算壹日。扣案│
 │  │      │            │        │        │          │            │            │          │如附表三所示之物沒收│
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2463,12 +2356,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2483,13 +2376,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2504,12 +2397,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2524,13 +2417,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2545,12 +2438,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2565,13 +2458,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、劉瑞敏、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2586,14 +2479,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2610,14 +2503,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2634,14 +2527,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2658,13 +2551,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2679,14 +2572,14 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │附表三所示之物沒收。│
 │  │      │            │        │        │          │            │            │          │張益真、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，減為有期徒刑壹月又│
 │  │      │            │        │        │          │            │            │          │壹拾伍日，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，減為│
 │  │      │            │        │        │          │            │            │          │有期徒刑壹月又壹拾伍│
 │  │      │            │        │        │          │            │            │          │日，如易科罰金，以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
@@ -2703,13 +2596,13 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │。                  │
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │龍共同犯重利罪，均累│
-│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月│
+│  │      │            │        │        │          │            │            │          │犯，各處有期徒刑月│
 │  │      │            │        │        │          │            │            │          │，如易科罰金，均以新│
 │  │      │            │        │        │          │            │            │          │臺幣壹仟元折算壹日。│
 │  │      │            │        │        │          │            │            │          │扣案如附表三所示之物│
 │  │      │            │        │        │          │            │            │          │沒收。              │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2724,12 +2617,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │        │          │            │            │          │賴偉銘、江文凱、劉瑞│
 │  │      │            │        │        │          │            │            │          │敏、劉瑞龍共同犯重利│
 │  │      │            │        │        │          │            │            │          │罪，均累犯，各處有期│
-│  │      │            │        │        │          │            │            │          │徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金│
+│  │      │            │        │        │          │            │            │          │徒刑月，如易科罰金│
 │  │      │            │        │        │          │            │            │          │，均以新臺幣壹仟元折│
 │  │      │            │        │        │          │            │            │          │算壹日。扣案如附表三│
 │  │      │            │        │        │          │            │            │          │所示之物沒收。      │
 │  │      │            │        │        │          │            │            │          │陳文亮共同犯重利罪，│
-│  │      │            │        │        │          │            │            │          │處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易│
+│  │      │            │        │        │          │            │            │          │處有期徒刑月，如易│
 │  │      │            │        │        │          │            │            │          │科罰金，以新臺幣壹仟│
 │  │      │            │        │        │          │            │            │          │元折算壹日。扣案如附│
 │  │      │            │        │        │          │            │            │          │表三所示之物沒收。  │
@@ -2769,7 +2662,7 @@ function openwin(URL,arguments,width,height)
 │    │                          │            │刑貳月，如易科罰金，以銀元參佰元即新臺幣玖佰元算壹│
 │    │                          │            │日。扣案附表三所示之物均沒收。                    │
 │    │                          │            │林宗興共同犯常業重利罪，處有期徒刑陸月，減為有期徒│
-│    │                          │            │刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以銀元參佰元即新臺幣玖佰元算壹│
+│    │                          │            │刑月，如易科罰金，以銀元參佰元即新臺幣玖佰元算壹│
 │    │                          │            │日。扣案附表三所示之物均沒收。                    │
 │    │                          │            │陳昱仁共同犯常業重利罪，處有期徒刑肆月，減為有期徒│
 │    │                          │            │刑貳月，如易科罰金，以銀元參佰元即新臺幣玖佰元算壹│
@@ -2825,86 +2718,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處 6 月以上 5 年以下有期徒刑，得併科 1 千元以
 下罰金。
 以前項方法得財產上不法之利益，或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10107\19\CHDM1017J.00W] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000218&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c218%2c20120719%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=218&jdate=1010719&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c218%2c20120719%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=218&jdate=1010719&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c218%2c20120719%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','218','1010719','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]100,訴,218,20120719,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]218
+[*jdate*]1010719
+[*jcheck*]1

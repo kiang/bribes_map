@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-臺中分院-刑-103上易1184</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 臺中分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=001184&selectedCrtid=TCH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=1184&jdate=1040625&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=1184&jdate=1040625&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1','TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','1184','1040625','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,上易,1184</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040625</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">傷害等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院臺中分院刑事判決　　　 103年度上易字第1184號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=1184&jdate=1040625&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=001184&selectedCrtid=TCH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=1184&jdate=1040625&jcheck=1
+[*裁判字號*]103,上易,1184
+[*裁判日期*]1040625
+[*裁判案由*]傷害等
+[*裁判全文*]臺灣高等法院臺中分院刑事判決　　　 103年度上易字第1184號
 上　訴　人　臺灣苗栗地方法院檢察署檢察官
 上　訴　人
 即　被　告　陳為廷
@@ -119,8 +12,8 @@ function openwin(URL,arguments,width,height)
 　　　　　　劉繼尉律師
 　　　　　　李宣毅律師（104年6月4日解除委任）
 　　　　　　邱顯智律師（104年6月4日委任）
-被　　　告　<font color='red'>林一方
-</font>選任辯護人　李宣毅律師
+被　　　告　林一方
+選任辯護人　李宣毅律師
 　　　　　　邱顯智律師
 被　　　告　傅偉哲
 選任辯護人　謝英吉律師
@@ -622,24 +515,24 @@ function openwin(URL,arguments,width,height)
     鞋子對其仍具有高度價值，本院認上開扣案物無諭知沒收之
     必要，附此敘明。
 丙、無罪部分
-壹、就起訴事實(一)─被告<font color='red'>林一方</font>、陳為廷、傅偉哲、林飛帆、王
+壹、就起訴事實(一)─被告林一方、陳為廷、傅偉哲、林飛帆、王
     曰舒、吳宏銘、陳光軒7人部分：
 一、公訴意旨略以：
-    被告<font color='red'>林一方</font>、陳為廷、傅偉哲、林飛帆、王曰舒、吳宏銘、
+    被告林一方、陳為廷、傅偉哲、林飛帆、王曰舒、吳宏銘、
     陳光軒等7人，均屬自稱「捍衛苗栗青年聯盟」社團之成員
     ，其等因不滿苗栗縣政府等機關對於苗栗縣竹南鎮○○段○
     ○○○段0000號等多筆土地實施區段徵收並拆除有關民房等
-    措施（即「大埔拆遷事件」），由<font color='red'>林一方</font>等7人於102年8月
+    措施（即「大埔拆遷事件」），由林一方等7人於102年8月
     初某日起，在苗栗縣竹南鎮○○路00號「竹南咖啡店」等地
     ，共同或先後討論以較為激烈如丟擲生雞蛋、灑冥紙等抗議
-    方式宣洩其等不滿之情緒，經策劃後，由負責人<font color='red'>林一方</font>以「
+    方式宣洩其等不滿之情緒，經策劃後，由負責人林一方以「
     守護苗栗、捍衛土地正義」之名義（代理人為傅偉哲），向
     主管機關苗栗縣警察局苗栗分局提出申請，並再經申復獲苗
     栗縣警察局核准於102年8月16日下午2時起至晚上8時止，在
     苗栗市縣府路即苗栗縣政府第一辦公大樓周邊道路舉行遊行
     活動，惟於同年月16日當天活動前，先依原計畫由王曰舒駕
     駛車牌號碼0000-00號自用小客車載運三箱盛裝生雞蛋之紙
-    箱共約1000顆生雞蛋，及<font color='red'>林一方</font>準備不詳數量之冥紙，以及
+    箱共約1000顆生雞蛋，及林一方準備不詳數量之冥紙，以及
     由不詳人士攜帶油漆包至上址現場，且於同日下午6時許起
     ，逕將原准許之遊行活動，改為在上址廣場前以卡車併連搭
     成舞台之舉行音樂會方式非法集會，並由陳為廷上台主持音
@@ -674,11 +567,11 @@ function openwin(URL,arguments,width,height)
     上、臉部均受生雞蛋擊中，全身散發惡臭及污穢不堪等為其
     論據。訊據被告被告陳光軒、吳宏銘、林飛帆等人均不爭執
     現場群眾或自己本身，有朝縣政府第一辦公大樓丟擲生雞蛋
-    等之舉動；另被告<font color='red'>林一方</font>、陳為廷、傅偉哲、王曰舒等人亦
+    等之舉動；另被告林一方、陳為廷、傅偉哲、王曰舒等人亦
     均坦承有事先參與策畫及案發時在場，以及員警張世雄有遭
     雞蛋丟中並受有如起訴書所載之傷害、警員高銘顯、蕭宏儀
     等人亦有遭雞蛋丟中而全身污穢不堪等情，惟均堅決否認有
-    何犯行，被告<font color='red'>林一方</font>、傅偉哲、林飛帆、王曰舒、吳宏銘、
+    何犯行，被告林一方、傅偉哲、林飛帆、王曰舒、吳宏銘、
     陳光軒、陳為廷等人辯稱略以：渠等及在場群眾丟擲生雞蛋
     之目標係縣府大樓，以此表達對大埔拆遷事件相關施政之不
     滿，故渠等及群眾係以拋物線之方式拋向縣府大樓，目標並
@@ -743,7 +636,7 @@ function openwin(URL,arguments,width,height)
       各自分擔犯罪行為之一部，相互利用他人之行為，以達其
       犯罪之目的者，即應對於全部所發生之結果，共同負責。
       」最高法院著有28年上字第3110號刑事判例可資參照。惟
-      依據起訴意旨，被告<font color='red'>林一方</font>、陳為廷、傅偉哲、林飛帆、
+      依據起訴意旨，被告林一方、陳為廷、傅偉哲、林飛帆、
       王曰舒、吳宏銘、陳光軒等7人，係因不滿苗栗縣政府對
       大埔拆遷事件之施政，而共同或先後討論以較為激烈如丟
       擲生雞蛋、灑冥紙等抗議方式宣洩其等不滿之情緒，並無
@@ -1077,7 +970,7 @@ function openwin(URL,arguments,width,height)
       以侮辱公署罪責。
 四、綜上，被告7人就此部分公訴意旨所指，均應為無罪之判斷
     。原審關於起訴書犯罪事實(一)部分，以依據檢察官所舉之事
-    證，無由使法院就被告<font color='red'>林一方</font>、陳為廷、傅偉哲、林飛帆、
+    證，無由使法院就被告林一方、陳為廷、傅偉哲、林飛帆、
     王曰舒、吳宏銘、陳光軒等人係犯刑法第277條第1項之傷害
     罪及第140條第1項、第2項之侮辱公務員、侮辱公署等罪嫌
     ，形成有罪之心證，此外復查無其他積極證據，足資認定被
@@ -1103,7 +996,7 @@ function openwin(URL,arguments,width,height)
     之訊息，倡導群眾重返苗栗縣政府前聚集活動，而於102年9
     月14日下午2時5分許起，在苗栗縣苗栗市縣府路附近即苗栗
     縣政府第一辦公大樓前廣場，未向主管機關申請許可，擅自
-    號召包括<font color='red'>林一方</font>、徐世榮、蔡培慧、傅偉哲等人及群眾約8O
+    號召包括林一方、徐世榮、蔡培慧、傅偉哲等人及群眾約8O
     餘人在上址前廣場集結，抗議縣長劉政鴻有關大埔拆遷事件
     等情事，集結期間，陳為廷以麥克風發表演說，並帶領民眾
     呼口號、拉抗議布條以宣洩情緒。嗣經現場指揮官即苗栗縣
@@ -1144,8 +1037,8 @@ function openwin(URL,arguments,width,height)
     警方在第二次舉牌還沒有舉到第三次的時候就要求我們強制
     解散，明顯違反警方相關的分際等語。
 三、經查：
-  (一)關於上開客觀之事實，為被告陳為廷所不否認，復有證人<font color='red'>林
-    一方</font>、傅偉哲於偵查中之證述、「捍衛苗栗青年聯盟」發起
+  (一)關於上開客觀之事實，為被告陳為廷所不否認，復有證人林
+    一方、傅偉哲於偵查中之證述、「捍衛苗栗青年聯盟」發起
     之電腦網頁資料1份、苗栗縣政府辦公大樓前聚集群眾、警
     方舉牌四次後被告陳為廷仍指揮群眾聚集不解散之照片1份
     在卷可稽，並經原審勘驗蒐證光碟屬實，製有勘驗筆錄在卷
@@ -1334,86 +1227,12 @@ function openwin(URL,arguments,width,height)
 （公然侮辱罪）
 公然侮辱人者，處拘役或 3 百元以下罰金。
 以強暴犯前項之罪者，處 1 年以下有期徒刑、拘役或 5 百元以
-下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCH\CRIMINAL\10406\25\TCHM1046P.008] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=001184&selectedCrtid=TCH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=1184&jdate=1040625&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1&v_court=TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=1184&jdate=1040625&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c1184%2c20150625%2c1','TCH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e4%b8%ad%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','1184','1040625','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCH 臺灣高等法院 臺中分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林一方">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林一方">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+下罰金。
+[*jrecno*]103,上易,1184,20150625,1
+[*v_court*]TCH 臺灣高等法院 臺中分院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]上易
+[*jno*]1184
+[*jdate*]1040625
+[*jcheck*]1

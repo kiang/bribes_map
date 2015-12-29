@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-103抗620</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共38
-											筆 / 現在第9
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%8a%97&selectedCrmno=000620&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=38&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%8a%97%2c620%2c20140714%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%8a%97&jno=620&jdate=1030714&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%8a%97%2c620%2c20140714%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%8a%97&jno=620&jdate=1030714&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e6%8a%97%2c620%2c20140714%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','103','%e6%8a%97','620','1030714','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,抗,620</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030714</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">通訊保障及監察法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事裁定　　　　　　　　　103年度抗字第620號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e6%8a%97%2c620%2c20140714%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%8a%97&jno=620&jdate=1030714&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%8a%97&selectedCrmno=000620&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e6%8a%97%2c620%2c20140714%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%8a%97&jno=620&jdate=1030714&jcheck=1
+[*裁判字號*]103,抗,620
+[*裁判日期*]1030714
+[*裁判案由*]通訊保障及監察法等
+[*裁判全文*]臺灣高等法院刑事裁定　　　　　　　　　103年度抗字第620號
 抗　告　人
 即　自訴人　柯建銘
 自訴代理人　曾勁元律師
@@ -133,7 +26,7 @@ function openwin(URL,arguments,width,height)
       項之犯意，於不詳時間，進入臺北市中正區總統中興官邸
       ，向被告馬英九洩漏含最高法院檢察署特別偵查組（下稱
       特偵組）偵查中之100年度特他字第61 號案件資料即「專
-      案報告一」，與自訴人柯建銘疑由立法院長<font color='red'>王金平</font>關說之
+      案報告一」，與自訴人柯建銘疑由立法院長王金平關說之
       通訊監察譯文暨證人林秀濤之部分證詞等內容。而後，因
       被告馬英九認為看到「專案報告一」，加上黃世銘口頭說
       明，對哪些人通電話，哪些有監聽譯文，哪些人沒有監聽
@@ -148,7 +41,7 @@ function openwin(URL,arguments,width,height)
       及刑法第132條第1項之洩漏國防以外之秘密等罪嫌。
 （二）被告馬英九於同年9月11 日前某時，基於誹謗自訴人柯建
       銘名譽之犯意，在國民黨考紀會開會前夕，利用該黨黨主
-      席身份，在該黨黨部召開記者會，指摘立法院長<font color='red'>王金平</font>為
+      席身份，在該黨黨部召開記者會，指摘立法院長王金平為
       自訴人柯建銘涉及關說司法個案，足以毀損自訴人柯建銘
       名譽，因認被告馬英九此部分所為，涉犯刑法第310條第2
       項加重誹謗罪嫌。
@@ -167,7 +60,7 @@ function openwin(URL,arguments,width,height)
       有該判決書附卷可參，並經原審調取上開卷宗核閱無訛。
     2.證人即特偵組檢察官鄭深元因偵查100年度特他字第61 號
       案件，在執行對自訴人柯建銘之通訊監察時，發現立法院
-      長<font color='red'>王金平</font>與自訴人柯建銘於102年6月28日及29日之通話內
+      長王金平與自訴人柯建銘於102年6月28日及29日之通話內
       容，提及已與時任臺灣高等法院檢察署檢察長、法務部長
       聯繫，及臺灣高等法院檢察署檢察官林秀濤姓名而疑似涉
       及司法關說個案後，約於同年7月5日向證人即特偵組組長
@@ -190,10 +83,10 @@ function openwin(URL,arguments,width,height)
       楊榮宗、黃世銘及馬英九在被告黃世銘涉犯通保法案件之
       偵查中或原審法院審理時陳述明確，並有「專案報告一」
       、「專案報告二」附卷可佐。是黃世銘係因證人鄭深元偵
-      查所得資料，認為立法院長<font color='red'>王金平</font>、自訴人柯建銘及法務
+      查所得資料，認為立法院長王金平、自訴人柯建銘及法務
       部長等人涉嫌司法關說，遂主動與被告馬英九聯絡，並提
       供包含100年度特他字第61號案件內容之「專案報告一」
-      及自訴人柯建銘與立法院長<font color='red'>王金平</font>等人之通訊監察譯文，
+      及自訴人柯建銘與立法院長王金平等人之通訊監察譯文，
       顯非出於被告馬英九之授意或指示，故自訴人柯建銘指訴
       被告黃世銘係受馬英九教唆而萌生洩漏監察通訊所得應秘
       密資料罪嫌犯意云云，已難認為有據。
@@ -202,7 +95,7 @@ function openwin(URL,arguments,width,height)
       名前後，各添具「職」及「敬呈」等內容，依一般公文書
       寫格式，應屬對上級長官之撰寫方式，故上述專案報告應
       係被告黃世銘預備用以呈報被告即總統馬英九乙情，應堪
-      認定。再衡之常情，自訴人柯建銘與立法院長<font color='red'>王金平</font>之上
+      認定。再衡之常情，自訴人柯建銘與立法院長王金平之上
       開通訊監察譯文內容，係因證人鄭深元偵查100 年度特他
       字第61號案件時，因對自訴人柯建銘實施通訊監察而偶然
       獲得之資料，被告馬英九並非偵查機關成員，若非經由參
@@ -249,21 +142,21 @@ function openwin(URL,arguments,width,height)
       眾能夠接受嗎？當王院長決定不請辭時，身為國民黨主席
       ，其只有明確的表達態度等語（見原審卷第39頁至第41頁
       ），可知被告馬英九上開言論所談論之對象，均為立法院
-      長<font color='red'>王金平</font>而非自訴人柯建銘，是自訴人柯建銘所指被告馬
+      長王金平而非自訴人柯建銘，是自訴人柯建銘所指被告馬
       英九有妨害其名譽之故意云云，實屬無據。
     2.再者，佐以最高法院檢察署102年9月6 日新聞稿之附件即
-      自訴人柯建銘與其委任之蔡姓律師及立法院長<font color='red'>王金平</font>間通
+      自訴人柯建銘與其委任之蔡姓律師及立法院長王金平間通
       訊監察譯文，自訴人柯建銘係先就其臺灣高等法院檢察署
       檢察官有無對其所涉及之刑案案件提起上訴之情事，詢問
       蔡律師，並請蔡律師提供檢察官姓名；其後，自訴人柯建
-      銘再與立法院長<font color='red'>王金平</font>通話，立法院長<font color='red'>王金平</font>分別提及：
+      銘再與立法院長王金平通話，立法院長王金平分別提及：
       「阿煌」有打電話，說那個女孩是林秀濤，是勇伯的人；
       暨已向勇伯說完，勇伯說好啦，會盡力；勇伯說OK了等語
-      ，顯見被告馬英九在上述記者會表示立法院長<font color='red'>王金平</font>與自
-      訴人柯建銘間涉嫌司法關說乙節，並非憑空杜撰，而<font color='red'>王金
-      平</font>及自訴人柯建銘分屬立法院長及民進黨立法院黨團總鞭
+      ，顯見被告馬英九在上述記者會表示立法院長王金平與自
+      訴人柯建銘間涉嫌司法關說乙節，並非憑空杜撰，而王金
+      平及自訴人柯建銘分屬立法院長及民進黨立法院黨團總鞭
       ，在我國政壇均立於舉足輕重之地位，是其二人有無介入
-      司法關說，係屬可受公評之事宜，尤以立法院長<font color='red'>王金平</font>隸
+      司法關說，係屬可受公評之事宜，尤以立法院長王金平隸
       屬國民黨籍，被告馬英九則為該黨黨主席，則被告馬英九
       對上開事件加以評論，要難認為有何不法，故自訴人柯建
       銘指訴被告馬英九上開言論已涉嫌加重誹謗罪嫌，要難謂
@@ -304,86 +197,12 @@ function openwin(URL,arguments,width,height)
 以上正本證明與原本無異。
 不得再抗告。
                                     書記官  謝文傑
-中    華    民    國   103    年    7     月    14    日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10307\14\TPHM1037E.001] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共38
-											筆 / 現在第9
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%8a%97&selectedCrmno=000620&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=38&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%8a%97%2c620%2c20140714%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%8a%97&jno=620&jdate=1030714&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%8a%97%2c620%2c20140714%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%8a%97&jno=620&jdate=1030714&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e6%8a%97%2c620%2c20140714%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','103','%e6%8a%97','620','1030714','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="9"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王金平">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王金平">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   103    年    7     月    14    日
+[*jrecno*]103,抗,620,20140714,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]抗
+[*jno*]620
+[*jdate*]1030714
+[*jcheck*]1

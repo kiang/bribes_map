@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-100金訴17</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000017&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e8%a8%b4&jno=17&jdate=1010831&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e8%a8%b4&jno=17&jdate=1010831&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e9%87%91%e8%a8%b4','17','1010831','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,金訴,17</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010831</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反保險法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　 100年度金訴字第17號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e8%a8%b4&jno=17&jdate=1010831&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000017&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e8%a8%b4&jno=17&jdate=1010831&jcheck=1
+[*裁判字號*]100,金訴,17
+[*裁判日期*]1010831
+[*裁判案由*]違反保險法
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　 100年度金訴字第17號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　黃 榮 校
 　　　　　　羅 文 成
@@ -149,7 +42,7 @@ function openwin(URL,arguments,width,height)
 　　　　　　江 秀 滿
 　　　　　　林 英 美
 　　　　　　許 寶 鳳
-　　　　　　郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳
+　　　　　　郭錦鳳
 　　　　　　張 榮 祥
 　　　　　　朱 玳 緯
 　　　　　　陳 素 燕
@@ -202,7 +95,7 @@ function openwin(URL,arguments,width,height)
 穎、洪演煥、林桂梅、邱麗綢、林賴連英、孫榮順、賴尤莉、吳
 素娥、陳淑惠、何素珍、陳素珠、高謝自專、蕭茂存、詹清港、
 簡元暐、簡黃足、郝玉蘭、郝緒仲、江秀滿、林英美、許寶鳳、
-郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳、張榮祥、朱玳緯、陳素燕、吳立宏、陳秀滿、江玟蓁
+郭錦鳳、張榮祥、朱玳緯、陳素燕、吳立宏、陳秀滿、江玟蓁
 、張水成、林永源、吳政明、林潺培、劉瓊華、陳素娥、呂福壽
 、簡治、董聰達、劉淑珍、蕭俊堆、謝欣樺、謝黃鴛、邱月華、
 林瓊花、趙碧月、蘇宗欽、劉芳妗、呂月環、林朝煌、曾阿蕊、
@@ -237,7 +130,7 @@ function openwin(URL,arguments,width,height)
     名義接續對外經營「福利互助會」，並陸續吸收被告簡元暐
     、簡黃足、郝玉蘭、郝緒仲、江秀滿、林英美、許寶鳳、黃
     金滿、陳秀霞、張秀鑾、黃秀雲、陳清溪、詹瑞忠、劉淑珍
-    、蕭俊堆、謝欣樺、謝黃鴛、吳潛淵、邱月華、郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳、
+    、蕭俊堆、謝欣樺、謝黃鴛、吳潛淵、邱月華、郭錦鳳、
     張榮祥、朱玳緯、林秀玉、林桂鳳、林瓊花、張葉玉燕、陳
     素燕、曾玉滿、吳秀琴、林東穎、吳立宏、洪演煥、趙碧月
     、林桂梅、陳秀滿、蘇宗欽、江玟蓁、張水成、劉芳妗、林
@@ -278,7 +171,7 @@ function openwin(URL,arguments,width,height)
     ，並提高佣金比率至8%。其等招攬會員入會後，每月向會員
     收取之慰助金，招攬人依可獲取之佣金比率自行扣得後，餘
     款須繳納至會館，由不知情之員工呂秋鳳、陳苑如、楊明怡
-    、林秀環、<font color='red'>曾瓊瑤</font>、任雅文、陳妮瑩、陳虹縈等人製作收據
+    、林秀環、曾瓊瑤、任雅文、陳妮瑩、陳虹縈等人製作收據
     、登錄電腦及處理帳務，款項則全數存入「黃榮校」、「台
     灣祥和慈善會黃榮校」聯名戶或「祥和資產管理有限公司」
     等分別在台中商業銀行、中華郵政股份有限公司、彰化縣田
@@ -290,7 +183,7 @@ function openwin(URL,arguments,width,height)
     詹清港、簡元暐、簡黃足、郝玉蘭、郝緒仲、江秀滿、林英
     美、許寶鳳、黃金滿、陳秀霞、張秀鑾、黃秀雲、陳清溪、
     詹瑞忠、劉淑珍、蕭俊堆、謝欣樺、謝黃鴛、吳潛淵、邱月
-    華、郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳、張榮祥、朱玳緯、林秀玉、林桂鳳、林瓊花
+    華、郭錦鳳、張榮祥、朱玳緯、林秀玉、林桂鳳、林瓊花
     、張葉玉燕、陳素燕、曾玉滿、吳秀琴、林東穎、吳立宏、
     洪演煥、趙碧月、林桂梅、陳秀滿、蘇宗欽、江玟蓁、張水
     成、劉芳妗、林永源、呂月環、邱麗綢、吳政明、林朝煌、
@@ -331,7 +224,7 @@ function openwin(URL,arguments,width,height)
     燕、曾玉滿、吳秀琴、林東穎、洪演煥、林桂梅、邱麗綢、
     林賴連英、孫榮順、賴尤莉、吳素娥、陳淑惠、何素珍、陳
     素珠、高謝自專、蕭茂存、詹清港、簡元暐、簡黃足、郝玉
-    蘭、郝緒仲、江秀滿、林英美、許寶鳳、郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳、張榮祥
+    蘭、郝緒仲、江秀滿、林英美、許寶鳳、郭錦鳳、張榮祥
     、朱玳緯、陳素燕、吳立宏、陳秀滿、江玟蓁、張水成、林
     永源、吳政明、林潺培、劉瓊華、陳素娥、呂福壽、簡治、
     董聰達、劉淑珍、蕭俊堆、謝欣樺、謝黃鴛、邱月華、林瓊
@@ -339,9 +232,9 @@ function openwin(URL,arguments,width,height)
     詹秀敏、黃廖銀妙、謝仁華、洪怡珍、黃獻堂、陳雪珠、謝
     美智、陳清溪、詹瑞忠及吳潛淵均涉犯保險法第167 條第1
     項之非保險業經營類似保險業務罪嫌，無非以證人余秀卿、
-    蘇清鴻、沈信藝、林賴秀珠、雷麗花、黃瑞<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、張憶君、許
+    蘇清鴻、沈信藝、林賴秀珠、雷麗花、黃瑞、張憶君、許
     碧花、盧張正端、蔡文成、孫樹籃、廖盈玉於警詢時之證述
-    、證人呂秋鳳、楊凡萱、任雅<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100EEC12A0A00000040.GIF" />、林秀環、<font color='red'>曾瓊瑤</font>、楊明怡
+    、證人呂秋鳳、楊凡萱、任雅、林秀環、曾瓊瑤、楊明怡
     、陳妮瑩、陳苑如、陳虹縈、黃吳麗珠、詹美秀於警詢及偵
     查中之證述、內政部97年8 月4 日台內社字第0970127117號
     函、臺灣祥和福利會B 組99年1 至5 月份互助費收入彙總表
@@ -363,7 +256,7 @@ function openwin(URL,arguments,width,height)
     、洪演煥、林桂梅、邱麗綢、林賴連英、孫榮順、賴尤莉、
     吳素娥、陳淑惠、何素珍、陳素珠、高謝自專、蕭茂存、詹
     清港、簡元暐、簡黃足、郝玉蘭、郝緒仲、江秀滿、林英美
-    、許寶鳳、郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳、張榮祥、朱玳緯、陳素燕、吳立宏、
+    、許寶鳳、郭錦鳳、張榮祥、朱玳緯、陳素燕、吳立宏、
     陳秀滿、江玟蓁、張水成、林永源、吳政明、林潺培、劉瓊
     華、陳素娥、呂福壽、簡治、董聰達、劉淑珍、蕭俊堆、謝
     欣樺、謝黃鴛、邱月華、林瓊花、趙碧月、蘇宗欽、劉芳妗
@@ -375,7 +268,7 @@ function openwin(URL,arguments,width,height)
     滿、吳秀琴、林東穎、洪演煥、林桂梅、邱麗綢、林賴連英
     、孫榮順、賴尤莉、吳素娥、陳淑惠、何素珍、陳素珠、高
     謝自專、蕭茂存、詹清港、簡元暐、簡黃足、郝玉蘭、郝緒
-    仲、江秀滿、林英美、許寶鳳、郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳、張榮祥、朱玳緯
+    仲、江秀滿、林英美、許寶鳳、郭錦鳳、張榮祥、朱玳緯
     、陳素燕、吳立宏、陳秀滿、江玟蓁、張水成、林永源、吳
     政明、林潺培、劉瓊華、陳素娥、呂福壽、簡治、董聰達、
     劉淑珍、蕭俊堆、謝欣樺、謝黃鴛、邱月華、林瓊花、趙碧
@@ -410,7 +303,7 @@ function openwin(URL,arguments,width,height)
     陳秀霞、張秀鑾、黃秀雲、林秀玉、林桂鳳、張葉玉燕、曾
     玉滿、吳秀琴、林東穎、洪演煥、林桂梅、邱麗綢、林賴連
     英、孫榮順、賴尤莉、吳素娥、簡元暐、簡黃足、郝玉蘭、
-    郝緒仲、江秀滿、林英美、許寶鳳、郭<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />錦鳳、張榮祥、朱
+    郝緒仲、江秀滿、林英美、許寶鳳、郭錦鳳、張榮祥、朱
     玳緯、陳素燕、吳立宏、陳秀滿、江玟蓁、張水成、林永源
     、吳政明、林潺培、劉瓊華、劉淑珍、蕭俊堆、謝欣樺、謝
     黃鴛、邱月華、林瓊花、趙碧月、蘇宗欽、劉芳妗、呂月環
@@ -436,29 +329,29 @@ function openwin(URL,arguments,width,height)
     版本收費沿革》如下：
   1.「祥和慈善會A 組」（98年11月20日版本，見偵卷(五)第53頁
     ）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />年滿50-85 歲，均可申請加入會員，辦理入會需繳交新式身
+  年滿50-85 歲，均可申請加入會員，辦理入會需繳交新式身
     分證影本。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />參加福利會會員，必須繳交入會費1,500元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />當本會會員有往生，其他會員應捐助慰助金，每期發文收取
+  參加福利會會員，必須繳交入會費1,500元。
+  當本會會員有往生，其他會員應捐助慰助金，每期發文收取
     捐助慰助金2,200 元，每月20日前繳清慰助金。最高繳交慰
     助金額280,000 元，期滿後不需再繳任何費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />會員隔月10號前未繳清慰助金，本會則自動給予（除會）退
+  會員隔月10號前未繳清慰助金，本會則自動給予（除會）退
     會，不另行通知，亦不退回其所繳納之任何款項。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />凡遇天然災害、戰爭或不可抗拒之原因時，本會暫停一切會
+  凡遇天然災害、戰爭或不可抗拒之原因時，本會暫停一切會
     務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
+  會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
     以總人數乘於200 元之金額92% 給付。（互助安全基金之基
     本保障條件）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />如有重複申請入會時，只能請領1 份慰助金，由入會者優先
+  如有重複申請入會時，只能請領1 份慰助金，由入會者優先
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />申請慰助金時，須備資料：(1)會員證規章(2)受款人身分證影
+  申請慰助金時，須備資料：(1)會員證規章(2)受款人身分證影
     本(3)死亡證明書正本及訃聞。（備註：死亡證明書上請受款
     人簽章）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />總金額先扣除6%呆滯損耗金。※往生順延人數不必結清。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />請領慰助金標準如下：（會員往生時請於3 日內電話告知本
+  總金額先扣除6%呆滯損耗金。※往生順延人數不必結清。
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。
+  請領慰助金標準如下：（會員往生時請於3 日內電話告知本
     會）
   A.加入會員期滿4個月，給付香奠金3,000元。
   B.加入會員期滿8個月，給付66,000元，扣除6%行政費用。
@@ -475,29 +368,29 @@ function openwin(URL,arguments,width,height)
     高）。
   2.「祥和慈善會B 組」（98年11月20日版本，見偵卷(五)第56頁
     背面）：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />凡年滿50-85 歲，均可申請加入會員，辦理入會需繳交新式
+  凡年滿50-85 歲，均可申請加入會員，辦理入會需繳交新式
     身分證影本。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />參加福利會會員，必須繳交入會費1,500元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />當本會會員有往生，其他會員應捐助慰助金，每期發文收取
+  參加福利會會員，必須繳交入會費1,500元。
+  當本會會員有往生，其他會員應捐助慰助金，每期發文收取
     捐助慰助金2,200 元，每月20日前繳清慰助金。最高繳交慰
     助金額280,000 元，期滿後不需再繳任何費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />會員隔月10號前未繳清慰助金，本會則自動給予（除會）退
+  會員隔月10號前未繳清慰助金，本會則自動給予（除會）退
     會，不另行通知，亦不退回其所繳納之任何款項。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />凡遇天然災害、戰爭或不可抗拒之原因時，本會暫停一切會
+  凡遇天然災害、戰爭或不可抗拒之原因時，本會暫停一切會
     務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
+  會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
     以總人數乘於200 元之金額92% 給付。（互助安全基金之基
     本保障條件）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />如有重複申請入會時，只能請領1 份慰助金，由入會者優先
+  如有重複申請入會時，只能請領1 份慰助金，由入會者優先
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />申請慰助金時，須備資料：(1)會員證規章(2)受款人身分證影
+  申請慰助金時，須備資料：(1)會員證規章(2)受款人身分證影
     本(3)死亡證明書正本及訃聞。（備註：死亡證明書上請受款
     人簽章）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />總金額先扣除6%呆滯損耗金。※往生順延人數不必結清。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />請領慰助金標準如下：（會員往生時請於3 日內電話告知本
+  總金額先扣除6%呆滯損耗金。※往生順延人數不必結清。
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。
+  請領慰助金標準如下：（會員往生時請於3 日內電話告知本
     會）
   A.加入會員期滿4個月，給付香奠金3,000元。
   B.加入會員期滿8個月，給付66,000元，扣除6%行政費用。
@@ -514,307 +407,307 @@ function openwin(URL,arguments,width,height)
     高）。
   3.「新世紀A 組」（98年11月20日版本，見偵卷(五)第46頁）：
   (1)依據本會會員福利訂定管理辦法規章：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />年齡50-85 歲，填妥入會申請書，繳交入會費1,400 元，年
+  年齡50-85 歲，填妥入會申請書，繳交入會費1,400 元，年
     費200 元，共計1,600 元整，即可成為本會會員。（辦理入
     會需繳交新式身分證影本）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />當本會有會員往生，其他會員應捐助慰助金，每期發文收取
+  當本會有會員往生，其他會員應捐助慰助金，每期發文收取
     捐助慰助金2,000 元，並於當月20日前繳清，最高繳交慰助
     金額280,000元，期滿後不需再繳任何費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />會員未按期繳交慰助金，超過2 期者未繳者視為自動退會，
+  會員未按期繳交慰助金，超過2 期者未繳者視為自動退會，
     已繳交之任何款項不予退還，並不得異議，本會不另行通知
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />如有重複申請入會時，僅領取1 份慰助金，以先入會者為優
+  如有重複申請入會時，僅領取1 份慰助金，以先入會者為優
     先，後者無效。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />申請慰助金時，須備資料：1.會員證規章。2.受款人身分證
+  申請慰助金時，須備資料：1.會員證規章。2.受款人身分證
     影本。3.死亡證明書正本及訃聞（備註：死亡證明書上請受
     款人簽章）。申請總金額先扣除6%呆滯損耗金。※往生順延
     人數不必結清。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
+  會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
     以總人數乘於200 元之金額92% 給付。（互助安全基金之基
     本保障條件）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。
   (2)本會慰助金給付標準如下：（會員往生時請於3 日內電話告
     知本會）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />加入會員期滿4個月，給付香奠金3,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />加入會員期滿8個月，給付64,000元，扣除5%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />加入會員期滿12個月，給付84,000元，扣除5%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />加入會員期滿18個月，給付116,000元，扣除6%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />加入會員期滿24個月，給付146,000元，扣除6%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />加入會員期滿30個月，給付176,000元，扣除7%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />加入會員期滿36個月，給付206,000元，扣除8%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />加入會員期滿42個月，給付236,000元，扣除9%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />加入會員期滿4年，給付266,000元，扣除9%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />加入會員期滿5年，給付300,000元，扣除9%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />加入會員期滿6年，給付330,000元，扣除9%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />加入會員期滿7 年，給付360,000 元，扣除9%行政費用（最
+  加入會員期滿4個月，給付香奠金3,000元。
+  加入會員期滿8個月，給付64,000元，扣除5%行政費用。
+  加入會員期滿12個月，給付84,000元，扣除5%行政費用。
+  加入會員期滿18個月，給付116,000元，扣除6%行政費用。
+  加入會員期滿24個月，給付146,000元，扣除6%行政費用。
+  加入會員期滿30個月，給付176,000元，扣除7%行政費用。
+  加入會員期滿36個月，給付206,000元，扣除8%行政費用。
+  加入會員期滿42個月，給付236,000元，扣除9%行政費用。
+  加入會員期滿4年，給付266,000元，扣除9%行政費用。
+  加入會員期滿5年，給付300,000元，扣除9%行政費用。
+  加入會員期滿6年，給付330,000元，扣除9%行政費用。
+  加入會員期滿7 年，給付360,000 元，扣除9%行政費用（最
     高）。
   4.「新田尾200 元A 組」（98年11月20日版本，見偵卷(五)第49
     頁背面）：
   (1)依據本會會員福利訂定管理辦法規章：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />凡年齡在55-85 歲者填妥入會申請書，需繳交入會費1,400
+  凡年齡在55-85 歲者填妥入會申請書，需繳交入會費1,400
     元，年費200 元，共計1,600 元整。完成入會手續，即可成
     為本會會員。（辦理入會需繳交新式身分證影本）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />入會完成後即開始慰助，每月繳交慰助金額10人<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F4E92A0A00000040.GIF" />200 元＝
+  入會完成後即開始慰助，每月繳交慰助金額10人200 元＝
     2,000 元。最高繳交慰助金額280,000 元，期滿後不需再繳
     任何費用。※往生順延人數不必結清。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />慰助金於每月20日前繳清，若會員未按期繳交慰助金，超過
+  慰助金於每月20日前繳清，若會員未按期繳交慰助金，超過
     2 期未繳者視為自動退會，已繳交之任何款項不予退還，並
     不得異議，本會不另行通知。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />如有重複申請入會時，僅領取1 份慰助金，以先入會者為優
+  如有重複申請入會時，僅領取1 份慰助金，以先入會者為優
     先，後者無效。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />申請慰助金時，須備資料：(1)會員證規章(2)受款人身分證影
+  申請慰助金時，須備資料：(1)會員證規章(2)受款人身分證影
     本(3)死亡證明書正本及訃聞。（備註：死亡證明書上請受款
     人簽章）申請總金額先扣除6%呆滯損耗金。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
+  會員請領慰助金時，若慰助金大於總人數乘於200 元時，則
     以總人數乘於200 元之金額92% 給付。（互助安全基金之基
     本保障條件）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。
   (2)本會慰助金給付標準如下：（會員往生時請於3 日內電話告
     知本會）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />加入會員期滿4個月，給付香奠金3,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />加入會員期滿8個月，給付66,000元，扣除5%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />加入會員期滿12個月，給付84,000元，扣除5%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />加入會員期滿18個月，給付116,000元，扣除6%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />加入會員期滿24個月，給付146,000元，扣除6%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />加入會員期滿30個月，給付176,000元，扣除7%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />加入會員期滿36個月，給付206,000元，扣除7%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />加入會員期滿42個月，給付236,000元，扣除8%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />加入會員期滿48個月，給付266,000元，扣除8%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />加入會員期滿60個月，給付300,000元，扣除9%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />加入會員期滿72個月，給付330,000元，扣除9%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />加入會員期滿84個月，給付360,000 元，扣除9%行政費用（
+  加入會員期滿4個月，給付香奠金3,000元。
+  加入會員期滿8個月，給付66,000元，扣除5%行政費用。
+  加入會員期滿12個月，給付84,000元，扣除5%行政費用。
+  加入會員期滿18個月，給付116,000元，扣除6%行政費用。
+  加入會員期滿24個月，給付146,000元，扣除6%行政費用。
+  加入會員期滿30個月，給付176,000元，扣除7%行政費用。
+  加入會員期滿36個月，給付206,000元，扣除7%行政費用。
+  加入會員期滿42個月，給付236,000元，扣除8%行政費用。
+  加入會員期滿48個月，給付266,000元，扣除8%行政費用。
+  加入會員期滿60個月，給付300,000元，扣除9%行政費用。
+  加入會員期滿72個月，給付330,000元，扣除9%行政費用。
+  加入會員期滿84個月，給付360,000 元，扣除9%行政費用（
     最高）。
   5.「台灣祥和慈善會第III組」（98年1 月10日《規章2 》版本
     ，見偵卷(五)第57頁背面）：
   (1)依據本會會員福利訂定管理辦法規章：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />參加年齡50歲至90歲，填妥入會申請書，繳交入會費1,500
+  參加年齡50歲至90歲，填妥入會申請書，繳交入會費1,500
     元。完成入會手續，並核發會員證後，即可成為本會會員。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />會員往生時，慈善會每期（月）會員按往生1 人繳納互助金
+  會員往生時，慈善會每期（月）會員按往生1 人繳納互助金
     100 元，每月按往生人數收取互助金於每月20日前繳清。每
     期收取20人次。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />會員享有本慈善會之福利與義務，並應依期繳納互助金，會
+  會員享有本慈善會之福利與義務，並應依期繳納互助金，會
     員連續2 期（月）未繳納互助金者，視同放棄，本會則自動
     給予（除會）退會，不另行通知，所繳之款項概不退回，並
     不得異議。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />會員往生申請互助金須檢附：會員證、合約書、死亡證明書
+  會員往生申請互助金須檢附：會員證、合約書、死亡證明書
     正本、受款人身分證影本。申請總金額先扣除5%呆滯損耗金
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />如有重複申請入會時，只能請領1 份互助金，由先入會者優
+  如有重複申請入會時，只能請領1 份互助金，由先入會者優
     先，後者無效。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務，
+  凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務，
     經政府頒佈重大天然災害且依全體會員代表之決議行之。
   (2)本會慰助金給付標準如下：（會員往生時請於3 日內電話告
     知本會）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />加入會員期滿3個月未滿6個月，給付香奠金3,500元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />加入會員期滿6 個月未滿8 個月，給付25% 扣除5%行政費用
+  加入會員期滿3個月未滿6個月，給付香奠金3,500元。
+  加入會員期滿6 個月未滿8 個月，給付25% 扣除5%行政費用
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />加入會員期滿8 個月未滿12個月，給付30% 扣除5%行政費用
+  加入會員期滿8 個月未滿12個月，給付30% 扣除5%行政費用
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />加入會員期滿12個月未滿16個月，給付40% 扣除6%行政費用
+  加入會員期滿12個月未滿16個月，給付40% 扣除6%行政費用
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />加入會員期滿16個月未滿20個月，給付50% 扣除6%行政費用
+  加入會員期滿16個月未滿20個月，給付50% 扣除6%行政費用
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />加入會員期滿20個月未滿24個月，給付60% 扣除7%行政費用
+  加入會員期滿20個月未滿24個月，給付60% 扣除7%行政費用
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />加入會員期滿24個月未滿30個月，給付65% 扣除7%行政費用
+  加入會員期滿24個月未滿30個月，給付65% 扣除7%行政費用
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />加入會員期滿30個月未滿36個月，給付70% 扣除8%行政費用
+  加入會員期滿30個月未滿36個月，給付70% 扣除8%行政費用
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />加入會員期滿3年，給付80%扣除9%行政費用。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />加入會員期滿4年，給付82%扣除9%行政費用＋6,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />加入會員期滿5年，給付84%扣除9%行政費用＋9,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />加入會員期滿6年，給付86%扣除9%行政費用＋12,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />加入會員期滿7年，給付88%扣除9%行政費用＋15,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />加入會員期滿8年，給付90%扣除9%行政費用＋18,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5762A0A00000040.GIF" />加入會員期滿9年，給付90%扣除9%行政費用＋21,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />加入會員期滿10年，給付90%扣除9%行政費用＋24,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5742A0A00000040.GIF" />加入會員期滿11年加發27,000元（最高）。
+  加入會員期滿3年，給付80%扣除9%行政費用。
+  加入會員期滿4年，給付82%扣除9%行政費用＋6,000元。
+  加入會員期滿5年，給付84%扣除9%行政費用＋9,000元。
+  加入會員期滿6年，給付86%扣除9%行政費用＋12,000元。
+  加入會員期滿7年，給付88%扣除9%行政費用＋15,000元。
+  加入會員期滿8年，給付90%扣除9%行政費用＋18,000元。
+  加入會員期滿9年，給付90%扣除9%行政費用＋21,000元。
+  加入會員期滿10年，給付90%扣除9%行政費用＋24,000元。
+  加入會員期滿11年加發27,000元（最高）。
   6.「台灣祥和慈善會50元a 」（99年7 月1 日版本，見偵卷(五)
     第64頁背面）
   (1)依據本會會員福利訂定管理辦法規章：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />參加年齡50歲至90歲，填妥入會申請書，繳交入會費1,000
+  參加年齡50歲至90歲，填妥入會申請書，繳交入會費1,000
     元。完成入會手續，並核發會員證後，即可成為本會會員。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />會員往生時，福利會每期會員按往生1 人繳納互助金50元，
+  會員往生時，福利會每期會員按往生1 人繳納互助金50元，
     每月按往生人數收取慰助金於每月20日前繳清，每期收取40
     人次。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />會員享有本福利會之福利與義務，並應依期繳納慰助金，會
+  會員享有本福利會之福利與義務，並應依期繳納慰助金，會
     員連續2 期未繳納慰助金者，視同放棄，本會則自動給予（
     除會）退會，不另行通知，所繳之款項概不退回，並不得異
     議。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />會員往生申請慰助金須檢附：會員證、合約書、死亡證明書
+  會員往生申請慰助金須檢附：會員證、合約書、死亡證明書
     、受款人身分證影本。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
+  會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
     父母(5)兄弟姊妹或繳費者。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
+  給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
     總金額先扣除10%行政費用及5%呆帳準備金。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />如有重複申請入會時，只能請領1 份慰助金，由先入會者優
+  如有重複申請入會時，只能請領1 份慰助金，由先入會者優
     先，後者無效。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。
   (2)本會慰助金給付標準如下：（會員往生時請於3 日內電話告
     知本會）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />加入會員期滿4個月未滿10個月，給付35%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />加入會員期滿10個月未滿16個月，給付40%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />加入會員期滿16個月未滿22個月，給付45%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />加入會員期滿22個月未滿28個月，給付50%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />加入會員期滿28個月未滿34個月，給付55%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />加入會員期滿34個月未滿40個月，給付60%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />加入會員期滿40個月未滿46個月，給付65%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />加入會員期滿46個月未滿52個月，給付70%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />加入會員期滿52個月未滿60個月，給付75%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />加入會員期滿5年，給付80%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />加入會員期滿6年，給付82%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />加入會員期滿7年，給付84%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />加入會員期滿8年，給付86%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />加入會員期滿9 年以上，給付88%。
+  加入會員期滿4個月未滿10個月，給付35%。
+  加入會員期滿10個月未滿16個月，給付40%。
+  加入會員期滿16個月未滿22個月，給付45%。
+  加入會員期滿22個月未滿28個月，給付50%。
+  加入會員期滿28個月未滿34個月，給付55%。
+  加入會員期滿34個月未滿40個月，給付60%。
+  加入會員期滿40個月未滿46個月，給付65%。
+  加入會員期滿46個月未滿52個月，給付70%。
+  加入會員期滿52個月未滿60個月，給付75%。
+  加入會員期滿5年，給付80%。
+  加入會員期滿6年，給付82%。
+  加入會員期滿7年，給付84%。
+  加入會員期滿8年，給付86%。
+  加入會員期滿9 年以上，給付88%。
   7.「台灣祥和慈善會50元」（99年7 月1 日版本，見偵卷(五)第
     64頁）：
   (1)依據本會會員福利訂定管理辦法規章：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />參加年齡50歲至90歲，填妥入會申請書，繳交入會費1,000
+  參加年齡50歲至90歲，填妥入會申請書，繳交入會費1,000
     元，贊助金1,000 元，合計2,000 元。完成入會手續，並核
     發會員證後，即可成為本會會員。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />會員往生時，福利會每期會員按往生1 人繳納互助金50元，
+  會員往生時，福利會每期會員按往生1 人繳納互助金50元，
     每月按往生人數收取慰助金於每月20日前繳清，每期收取40
     人次。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />會員享有本福利會之福利與義務，並應依期繳納慰助金，會
+  會員享有本福利會之福利與義務，並應依期繳納慰助金，會
     員連續2 期未繳納慰助金者，視同放棄，本會則自動給予（
     除會）退會，不另行通知，所繳之款項概不退回，並不得異
     議。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />會員往生申請慰助金須檢附：會員證、合約書、死亡證明書
+  會員往生申請慰助金須檢附：會員證、合約書、死亡證明書
     、受款人身分證影本。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
+  會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
     父母(5)兄弟姊妹或繳費者。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
+  給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
     總金額先扣除10%行政費用及5%呆帳準備金。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />如有重複申請入會時，只能請領1 份慰助金，由先入會者優
+  如有重複申請入會時，只能請領1 份慰助金，由先入會者優
     先，後者無效。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。
   (2)本會慰助金給付標準如下：（會員往生時請於3 日內電話告
     知本會）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />加入會員期滿1個月未滿2個月，給付香奠金3,500元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />加入會員期滿2個月未滿3個月，給付香奠金7,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />加入會員期滿3個月未滿4個月，給付香奠金11,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />加入會員期滿4個月未滿10個月，給付35%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />加入會員期滿10個月未滿16個月，給付40%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />加入會員期滿16個月未滿22個月，給付45%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />加入會員期滿22個月未滿28個月，給付50%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />加入會員期滿28個月未滿34個月，給付55%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />加入會員期滿34個月未滿40個月，給付60%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />加入會員期滿40個月未滿46個月，給付65%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />加入會員期滿46個月未滿52個月，給付70%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />加入會員期滿52個月未滿60個月，給付75%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />加入會員期滿5年，給付80%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />加入會員期滿6年，給付82%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5762A0A00000040.GIF" />加入會員期滿7年，給付84%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />加入會員期滿8年，給付86%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5742A0A00000040.GIF" />加入會員期滿9 年以上，給付88%。
+  加入會員期滿1個月未滿2個月，給付香奠金3,500元。
+  加入會員期滿2個月未滿3個月，給付香奠金7,000元。
+  加入會員期滿3個月未滿4個月，給付香奠金11,000元。
+  加入會員期滿4個月未滿10個月，給付35%。
+  加入會員期滿10個月未滿16個月，給付40%。
+  加入會員期滿16個月未滿22個月，給付45%。
+  加入會員期滿22個月未滿28個月，給付50%。
+  加入會員期滿28個月未滿34個月，給付55%。
+  加入會員期滿34個月未滿40個月，給付60%。
+  加入會員期滿40個月未滿46個月，給付65%。
+  加入會員期滿46個月未滿52個月，給付70%。
+  加入會員期滿52個月未滿60個月，給付75%。
+  加入會員期滿5年，給付80%。
+  加入會員期滿6年，給付82%。
+  加入會員期滿7年，給付84%。
+  加入會員期滿8年，給付86%。
+  加入會員期滿9 年以上，給付88%。
   8.「80元台灣祥和慈善會第III組」（99年7 月1 日版本，見偵
     卷(五)第60頁背面）：
   (1)依據本會會員福利訂定管理辦法規章：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />參加年齡50歲至85歲，填妥入會申請書，繳交入會費1,500
+  參加年齡50歲至85歲，填妥入會申請書，繳交入會費1,500
     元贊助金1,000 元合計2,500 元。完成入會手續，並核發會
     員證後，即可成為本會會員。（辦理入會需繳交新式身分證
     影本）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />會員往生時，慈善會會員按往生1 人繳納慰助金80元，每期
+  會員往生時，慈善會會員按往生1 人繳納慰助金80元，每期
     收取往生人數25名，每期發文收取捐助慰助金2,000 元於每
     月20日前繳清。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />會員享有本慈善會之福利與義務，並應依期繳納慰助金，會
+  會員享有本慈善會之福利與義務，並應依期繳納慰助金，會
     員連續2 期未繳納慰助金者，視同放棄，本會則自動給予（
     除會）退會，不另行通知，所繳之款項概不退回，並不得異
     議。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />會員往生申請慰助金須檢附：(1)會員證規章(2)受款人身分證
+  會員往生申請慰助金須檢附：(1)會員證規章(2)受款人身分證
     影本(3)死亡證明書正本及訃聞。（備註：死亡證明書上請受
     款人簽章）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
+  會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
     父母(5)兄弟姊妹或繳費者。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
+  給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
     總金額先扣除10%行政費用及5%呆帳準備金。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />如有重複申請入會時，只能請領1 份慰助金，由先入會者優
+  如有重複申請入會時，只能請領1 份慰助金，由先入會者優
     先，後者無效。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。（
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。（
     會員入會滿1 年以上往生，申請慰助金需扣2,000 元為組長
     服務車馬費）
   (2)本會慰助金給付標準如下：（會員往生時請於3 日內電話告
     知本會）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />加入會員期滿1個月未滿2個月，給付香奠金3,500元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />加入會員期滿2個月未滿3個月，給付香奠金7,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />加入會員期滿3個月未滿4個月，給付香奠金11,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />加入會員期滿4個月未滿5個月，給付香奠金15,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />加入會員期滿5個月未滿8個月，給付30%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />加入會員期滿8個月，給付35%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />加入會員期滿12個月，給付40%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />加入會員期滿18個月，給付45%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />加入會員期滿24個月，給付55%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />加入會員期滿30個月，給付60%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />加入會員期滿36個月，給付65%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />加入會員期滿42個月，給付70%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />加入會員期滿4年，給付75%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />加入會員期滿5年，給付80%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5762A0A00000040.GIF" />加入會員期滿6年，給付82%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />加入會員期滿7年，給付84%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5742A0A00000040.GIF" />加入會員期滿8年，給付86%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" />加入會員期滿9年，給付88%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5722A0A00000040.GIF" />加入會員期滿10年每年加發5,000 元（最高加發50,000元整
+  加入會員期滿1個月未滿2個月，給付香奠金3,500元。
+  加入會員期滿2個月未滿3個月，給付香奠金7,000元。
+  加入會員期滿3個月未滿4個月，給付香奠金11,000元。
+  加入會員期滿4個月未滿5個月，給付香奠金15,000元。
+  加入會員期滿5個月未滿8個月，給付30%。
+  加入會員期滿8個月，給付35%。
+  加入會員期滿12個月，給付40%。
+  加入會員期滿18個月，給付45%。
+  加入會員期滿24個月，給付55%。
+  加入會員期滿30個月，給付60%。
+  加入會員期滿36個月，給付65%。
+  加入會員期滿42個月，給付70%。
+  加入會員期滿4年，給付75%。
+  加入會員期滿5年，給付80%。
+  加入會員期滿6年，給付82%。
+  加入會員期滿7年，給付84%。
+  加入會員期滿8年，給付86%。
+  加入會員期滿9年，給付88%。
+  加入會員期滿10年每年加發5,000 元（最高加發50,000元整
     ）。
   9.「80元台灣祥和慈善會第III-a組」（99年7 月1 日版本，見
     偵卷(五)第61頁）：
   (1)依據本會會員福利訂定管理辦法規章：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />參加年齡50歲至85歲，填妥入會申請書，繳交入會費1,500
+  參加年齡50歲至85歲，填妥入會申請書，繳交入會費1,500
     元。完成入會手續，並核發會員證後，即可成為本會會員。
     （辦理入會需繳交新式身分證影本）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />會員往生時，慈善會會員按往生1 人繳納慰助金80元，每期
+  會員往生時，慈善會會員按往生1 人繳納慰助金80元，每期
     收取往生人數25名，每期發文收取捐助慰助金2,000 元於每
     月20日前繳清。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />會員享有本慈善會之福利與義務，並應依期繳納慰助金，會
+  會員享有本慈善會之福利與義務，並應依期繳納慰助金，會
     員連續2 期未繳納慰助金者，視同放棄，本會則自動給予（
     除會）退會，不另行通知，所繳之款項概不退回，並不得異
     議。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />會員往生申請慰助金須檢附：(1)會員證規章(2)受款人身分證
+  會員往生申請慰助金須檢附：(1)會員證規章(2)受款人身分證
     影本(3)死亡證明書正本及訃聞。（備註：死亡證明書上請受
     款人簽章）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
+  會員仙逝慰助金其受款人順序如下(1)受益人(2)配偶(3)子女(4)
     父母(5)兄弟姊妹或繳費者。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
+  給付辦法：依總人數扣除仙逝人數及退費人數，給付之申請
     總金額先扣除10%行政費用及5%呆帳準備金。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />如有重複申請入會時，只能請領1 份慰助金，由先入會者優
+  如有重複申請入會時，只能請領1 份慰助金，由先入會者優
     先，後者無效。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
+  凡遇天災或戰爭及不可抵抗之原因時，本會暫停一切會務。
+  申請慰助金資料備齊後，經查無誤，每週五為慰助金核發日
     ，逾期延下次核發。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />會員與受款人詳讀本規章了解內容後自願加入參與慰助。（
+  會員與受款人詳讀本規章了解內容後自願加入參與慰助。（
     會員入會滿1 年以上往生，申請慰助金需扣2,000 元為組長
     服務車馬費）
   (2)本會慰助金給付標準如下：（會員往生時請於3 日內電話告
     知本會）
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />加入會員期滿5個月未滿8個月，給付30%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />加入會員期滿8個月，給付35%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />加入會員期滿12個月，給付40%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />加入會員期滿18個月，給付45%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />加入會員期滿24個月，給付55%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />加入會員期滿30個月，給付60%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />加入會員期滿36個月，給付65%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />加入會員期滿42個月，給付70%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />加入會員期滿4年，給付75%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />加入會員期滿5年，給付80%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />加入會員期滿6年，給付82%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />加入會員期滿7年，給付84%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />加入會員期滿8年，給付86%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />加入會員期滿9年，給付88%。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5762A0A00000040.GIF" />加入會員期滿10年每年加發5,000 元（最高加發50,000元整
+  加入會員期滿5個月未滿8個月，給付30%。
+  加入會員期滿8個月，給付35%。
+  加入會員期滿12個月，給付40%。
+  加入會員期滿18個月，給付45%。
+  加入會員期滿24個月，給付55%。
+  加入會員期滿30個月，給付60%。
+  加入會員期滿36個月，給付65%。
+  加入會員期滿42個月，給付70%。
+  加入會員期滿4年，給付75%。
+  加入會員期滿5年，給付80%。
+  加入會員期滿6年，給付82%。
+  加入會員期滿7年，給付84%。
+  加入會員期滿8年，給付86%。
+  加入會員期滿9年，給付88%。
+  加入會員期滿10年每年加發5,000 元（最高加發50,000元整
     ）。
   (三)按保險法第1 條規定：「本法所稱保險，謂當事人約定，一
     方交付保險費於他方，他方對於因不可預料，或不可抗力之
@@ -1014,86 +907,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
 逕送上級法院」。
                                       書記官  林勝彥
-中    華    民    國    101   年     8    月    31    日</pre>
-<!-- 原因：[未滿16] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTCD\CRIMINAL\10108\31\TCDM1018V.00F] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000017&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e7%93%8a%e7%91%a4&sdate=&edate=&page=&searchkw=%e6%9b%be%e7%93%8a%e7%91%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e8%a8%b4&jno=17&jdate=1010831&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e9%87%91%e8%a8%b4&jno=17&jdate=1010831&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e9%87%91%e8%a8%b4%2c17%2c20120831%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e9%87%91%e8%a8%b4','17','1010831','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="曾瓊瑤">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="曾瓊瑤">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國    101   年     8    月    31    日
+[*jrecno*]100,金訴,17,20120831,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]金訴
+[*jno*]17
+[*jdate*]1010831
+[*jcheck*]1

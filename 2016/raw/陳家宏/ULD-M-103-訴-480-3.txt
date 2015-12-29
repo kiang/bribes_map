@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣雲林地方法院-刑-103訴480</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+vb2bDoI8zNr2BdJbqm2p+hnLfi8=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣雲林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000480&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c480%2c20150121%2c3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=480&jdate=1040121&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c480%2c20150121%2c3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=480&jdate=1040121&jcheck=3">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c480%2c20150121%2c3','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','480','1040121','3')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,480</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040121</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣雲林地方法院刑事判決　　　　　　　103年度訴字第480號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c480%2c20150121%2c3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=480&jdate=1040121&jcheck=3
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000480&selectedCrtid=ULD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c480%2c20150121%2c3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=480&jdate=1040121&jcheck=3
+[*裁判字號*]103,訴,480
+[*裁判日期*]1040121
+[*裁判案由*]違反毒品危害防制條例
+[*裁判全文*]臺灣雲林地方法院刑事判決　　　　　　　103年度訴字第480號
 公　訴　人　臺灣雲林地方法院檢察署檢察官
 被　　　告　鄭向宏
 選任辯護人　陳振榮律師
@@ -179,21 +74,21 @@ function openwin(URL,arguments,width,height)
     仍基於轉讓第二級毒品及禁藥甲基安非他命之各別犯意，而
     為下列行為：
   (一)鄭向宏於同年4 月3 日21時10分、18分許，以上開行動電話
-    與<font color='red'>陳家宏</font>聯絡相約見面並供應<font color='red'>陳家宏</font>毒品（通話內容如附表
+    與陳家宏聯絡相約見面並供應陳家宏毒品（通話內容如附表
     二編號6.1 至6.2 ），隨後於1 小時內在鄭向宏上開住處見
-    面，鄭向宏無償轉讓些許甲基安非他命予<font color='red'>陳家宏</font>。
+    面，鄭向宏無償轉讓些許甲基安非他命予陳家宏。
   (二)鄭向宏於同年4 月25日20時53分、21時4 分許，以上開行動
-    電話與<font color='red'>陳家宏</font>聯絡相約見面並供應<font color='red'>陳家宏</font>毒品（通話內容如
+    電話與陳家宏聯絡相約見面並供應陳家宏毒品（通話內容如
     附表二編號7.1 至7.2 ），隨後於1 小時內在鄭向宏上開住
-    處見面，鄭向宏無償轉讓些許甲基安非他命予<font color='red'>陳家宏</font>。
+    處見面，鄭向宏無償轉讓些許甲基安非他命予陳家宏。
   (三)鄭向宏於同年5 月2 日13時36分、47分許，以上開行動電話
-    與<font color='red'>陳家宏</font>聯絡相約見面並供應<font color='red'>陳家宏</font>毒品（通話內容如附表
+    與陳家宏聯絡相約見面並供應陳家宏毒品（通話內容如附表
     二編號8.1 至8.2 ），隨後於1 小時內在鄭向宏上開住處見
-    面，鄭向宏無償轉讓些許甲基安非他命予<font color='red'>陳家宏</font>。
+    面，鄭向宏無償轉讓些許甲基安非他命予陳家宏。
   (四)鄭向宏於同年5 月9 日8 時55分、9 時7 分許，以上開行動
-    電話與<font color='red'>陳家宏</font>聯絡相約見面並供應<font color='red'>陳家宏</font>毒品（通話內容如
+    電話與陳家宏聯絡相約見面並供應陳家宏毒品（通話內容如
     附表二編號9.1 至9.2 ），隨後於1 小時內在鄭向宏上開住
-    處見面，鄭向宏無償轉讓些許甲基安非他命予<font color='red'>陳家宏</font>。
+    處見面，鄭向宏無償轉讓些許甲基安非他命予陳家宏。
   (五)鄭向宏於同年2 月6 日下午某時，在其上開住處內無償轉讓
     些許甲基安非他命予羅義榮。
 四、嗣經警實施通訊監察，並於同年8 月14日，在雲林縣莿桐鄉
@@ -206,8 +101,8 @@ function openwin(URL,arguments,width,height)
 壹、程序方面（證據能力）
   一按刑事訴訟法第159 條之1 第2 項規定：「被告以外之人於
     偵查中向檢察官所為之陳述，除顯有不可信之情況者外，得
-    為證據」。查證人林志忠、林春福、曹有家、湯清木、<font color='red'>陳家
-    宏</font>、羅義榮於偵查中向檢察官所為之證述，係以證人身分具
+    為證據」。查證人林志忠、林春福、曹有家、湯清木、陳家
+    宏、羅義榮於偵查中向檢察官所為之證述，係以證人身分具
     結作證（103 年偵字第5427號卷【下稱偵卷】第58頁、第79
     頁、第94頁、第110 頁、第118 頁、警聲搜卷第34頁背面）
     ，而檢察官代表國家偵查犯罪、實施公訴，依法其有訊問被
@@ -219,8 +114,8 @@ function openwin(URL,arguments,width,height)
   二另按被告以外之人於審判外之陳述，雖不符刑事訴訟法第15
     9 條之1 至之4 等4 條規定，而經當事人於審判程序同意作
     為證據，法院審酌該陳述作成時之情況，認為適當者，亦得
-    作為證據，同法第159 條之5 第1 項定有明文。證人<font color='red'>陳家宏
-    </font>、羅義榮之警詢筆錄皆係警察依其職權所做成，被告及辯護
+    作為證據，同法第159 條之5 第1 項定有明文。證人陳家宏
+    、羅義榮之警詢筆錄皆係警察依其職權所做成，被告及辯護
     人在本院均同意上開證據有證據能力，本院亦認作為證據屬
     適當，當認同有證據能力。
   三卷附如附表所示之通訊監察錄音譯文，被告及辯護人均認同
@@ -510,7 +405,7 @@ function openwin(URL,arguments,width,height)
       件行為，又無積極證據可證明被告主觀上係基於販賣之意
       思，應認被告所為3 次行為，主觀上當屬基於幫助施用甲
       基安非他命之意思而為。
-  五被告就犯罪事實三(一)至(五)均坦承不諱，與證人<font color='red'>陳家宏</font>於偵查
+  五被告就犯罪事實三(一)至(五)均坦承不諱，與證人陳家宏於偵查
     中證稱：被告與其為附表二編號6.2 、7.2 、8.2 及9.2 通
     話後，2 人皆有見面，由被告無償轉讓一點點安非他命供其
     施用等語（偵卷第116 頁至第117 頁）、證人羅義榮於偵查
@@ -575,7 +470,7 @@ function openwin(URL,arguments,width,height)
     毒品份量與市售並無明顯差異，獲利幅度應屬有限。被告幫
     助湯清木施用第二級毒品3 次，雖經手較高金額之價金，然
     而其係應湯清木之強烈要求轉達，尚非主動兜售。而被告轉
-    讓甲基安非他命與<font color='red'>陳家宏</font>，多係因<font color='red'>陳家宏</font>主動要求，其轉讓
+    讓甲基安非他命與陳家宏，多係因陳家宏主動要求，其轉讓
     與羅義榮則係本有施用毒品習慣之人，造成之損害幅度有限
     。被告國中畢業，智識程度一般，家有祖產房屋，自己背負
     銀行卡債，與兄姐並未同住，未婚無子，家庭經濟狀況尚可
@@ -626,8 +521,8 @@ function openwin(URL,arguments,width,height)
       或一部不能沒收，追徵其價額。上開行動電話及SIM 卡另
       供被告犯罪事實二(一)至(三)幫助犯施用第二級毒品罪所用，
       惟經前開各罪宣告沒收，無庸於此部分罪名下重複宣告；
-      至於犯罪事實三(一)至(四)，被告僅以該行動電話與證人<font color='red'>陳家
-      宏</font>聯繫見面，並未使用該行動電話為轉讓禁藥之行為，亦
+      至於犯罪事實三(一)至(四)，被告僅以該行動電話與證人陳家
+      宏聯繫見面，並未使用該行動電話為轉讓禁藥之行為，亦
       不在此部分罪名宣告沒收。
     (三)未扣案之販賣甲基安非他命所得1,000 元共2 次、500 元
       共2 次、1,000 元共8 次，皆為販賣第二級毒品所得，各
@@ -896,7 +791,7 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │Ａ：在家。                │號通訊監察│27號卷第│
     │    │        │        │    ↑    │Ｂ：我等一下過去找你哦。  │書（103 年│112 頁  │
     │    │        │        │0000000000│Ａ：好啦。                │度警聲搜字│        │
-    │    │        │        │  <font color='red'>陳家宏  </font>│                          │號第498 號│        │
+    │    │        │        │  陳家宏  │                          │號第498 號│        │
     │    │        │        │  （Ｂ）  │                          │卷第9 頁至│        │
     │    │        │        │          │                          │第10頁）  │        │
     ├──┼────┼────┼─────┼─────────────┼─────┼────┤
@@ -905,7 +800,7 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │                          │號通訊監察│27號卷第│
     │    │        │        │    ↑    │                          │書（103 年│112 頁  │
     │    │        │        │0000000000│                          │度警聲搜字│        │
-    │    │        │        │  <font color='red'>陳家宏  </font>│                          │號第498 號│        │
+    │    │        │        │  陳家宏  │                          │號第498 號│        │
     │    │        │        │  （Ｂ）  │                          │卷第9 頁至│        │
     │    │        │        │          │                          │第10頁）  │        │
     ├──┼────┼────┼─────┼─────────────┼─────┼────┤
@@ -914,7 +809,7 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │                          │0 號通訊監│27號卷第│
     │    │        │        │    ↑    │                          │察書（103 │112 頁背│
     │    │        │        │0000000000│                          │年度警聲搜│面      │
-    │    │        │        │  <font color='red'>陳家宏  </font>│                          │字號第498 │        │
+    │    │        │        │  陳家宏  │                          │字號第498 │        │
     │    │        │        │  （Ｂ）  │                          │號卷第11頁│        │
     │    │        │        │          │                          │至第12頁）│        │
     ├──┼────┼────┼─────┼─────────────┼─────┼────┤
@@ -923,7 +818,7 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │Ａ：開了啦。              │0 號通訊監│27號卷第│
     │    │        │        │    ↑    │Ｂ：好。                  │察書（103 │112 頁背│
     │    │        │        │0000000000│                          │年度警聲搜│面      │
-    │    │        │        │  <font color='red'>陳家宏  </font>│                          │字號第498 │        │
+    │    │        │        │  陳家宏  │                          │字號第498 │        │
     │    │        │        │  （Ｂ）  │                          │號卷第11頁│        │
     │    │        │        │          │                          │至第12頁）│        │
     ├──┼────┼────┼─────┼─────────────┼─────┼────┤
@@ -932,7 +827,7 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │Ａ：有阿。                │0 號通訊監│27號卷第│
     │    │        │        │    ↑    │Ｂ：我過去找你欸。        │察書（103 │113 頁  │
     │    │        │        │0000000000│Ａ：喔。                  │年度警聲搜│        │
-    │    │        │        │  <font color='red'>陳家宏  </font>│                          │字號第498 │        │
+    │    │        │        │  陳家宏  │                          │字號第498 │        │
     │    │        │        │  （Ｂ）  │                          │號卷第11頁│        │
     │    │        │        │          │                          │至第12頁）│        │
     ├──┼────┼────┼─────┼─────────────┼─────┼────┤
@@ -941,7 +836,7 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │                          │0 號通訊監│27號卷第│
     │    │        │        │    ↑    │                          │察書（103 │113 頁  │
     │    │        │        │0000000000│                          │年度警聲搜│        │
-    │    │        │        │  <font color='red'>陳家宏  </font>│                          │字號第498 │        │
+    │    │        │        │  陳家宏  │                          │字號第498 │        │
     │    │        │        │  （Ｂ）  │                          │號卷第11頁│        │
     │    │        │        │          │                          │至第12頁）│        │
     ├──┼────┼────┼─────┼─────────────┼─────┼────┤
@@ -950,7 +845,7 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │Ａ：來作伴，我請你啊。    │0 號通訊監│27號卷第│
     │    │        │        │    ↓    │Ｂ：嗯。                  │察書（103 │113 頁背│
     │    │        │        │0000000000│Ａ：要嗎？                │年度警聲搜│面      │
-    │    │        │        │  <font color='red'>陳家宏  </font>│Ｂ：阿。                  │字號第498 │        │
+    │    │        │        │  陳家宏  │Ｂ：阿。                  │字號第498 │        │
     │    │        │        │  （Ｂ）  │Ａ：來作伴，我請你。      │號卷第11頁│        │
     │    │        │        │          │Ｂ：再看看。              │至第12頁）│        │
     │    │        │        │          │Ａ：好啦。                │          │        │
@@ -960,89 +855,15 @@ function openwin(URL,arguments,width,height)
     │    │        │        │  （Ａ）  │Ａ：好。                  │0 號通訊監│27號卷第│
     │    │        │        │    ↑    │                          │察書（103 │113 頁背│
     │    │        │        │0000000000│                          │年度警聲搜│面      │
-    │    │        │        │  <font color='red'>陳家宏  </font>│                          │字號第498 │        │
+    │    │        │        │  陳家宏  │                          │字號第498 │        │
     │    │        │        │  （Ｂ）  │                          │號卷第11頁│        │
     │    │        │        │          │                          │至第12頁）│        │
-    └──┴────┴────┴─────┴─────────────┴─────┴────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWULD\CRIMINAL\10401\21\ULDM1041L.00H] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[3]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000480&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c480%2c20150121%2c3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=480&jdate=1040121&jcheck=3">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c480%2c20150121%2c3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=480&jdate=1040121&jcheck=3">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c480%2c20150121%2c3','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','480','1040121','3')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="ULD 臺灣雲林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳家宏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳家宏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+    └──┴────┴────┴─────┴─────────────┴─────┴────┘
+[*jrecno*]103,訴,480,20150121,3
+[*v_court*]ULD 臺灣雲林地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]480
+[*jdate*]1040121
+[*jcheck*]3

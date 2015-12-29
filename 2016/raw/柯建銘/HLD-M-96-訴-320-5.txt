@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣花蓮地方法院-刑-96訴320</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣花蓮地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000320&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c320%2c20080331%2c5&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=320&jdate=970331&jcheck=5">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c320%2c20080331%2c5&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=320&jdate=970331&jcheck=5">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c320%2c20080331%2c5','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','320','970331','5')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">96,訴,320</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">970331</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反貪污治罪條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣花蓮地方法院刑事判決　　　　　　　 96年度訴字第320號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c320%2c20080331%2c5&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=320&jdate=970331&jcheck=5
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000320&selectedCrtid=HLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c320%2c20080331%2c5&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=320&jdate=970331&jcheck=5
+[*裁判字號*]96,訴,320
+[*裁判日期*]970331
+[*裁判案由*]違反貪污治罪條例等
+[*裁判全文*]臺灣花蓮地方法院刑事判決　　　　　　　 96年度訴字第320號
 公　訴　人　臺灣花蓮地方法院檢察署檢察官
 被　　　告　乙○○
 選任辯護人　魏辰州律師
@@ -526,11 +419,11 @@ function openwin(URL,arguments,width,height)
       內政部警政署刑事警察局為測謊檢查，受囑託機關就檢查
       結果，以該機關名義函覆原囑託之送鑑單位，該測謊檢查
       結果之書面報告，即係受囑託機關之鑑定報告，該機關之
-      鑑定報告，形式上若符合測謊基本程式要件，包括：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />經
+      鑑定報告，形式上若符合測謊基本程式要件，包括：經
       受測人同意配合，並已告知得拒絕受測，以減輕受測者不
-      必要之壓力。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />測謊員須經良好之專業訓練與相當之經驗
-      。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />測謊儀器品質良好且運作正常。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />受測人身心及意識
-      狀態正常。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />測謊環境良好，無不當之外力干擾等要件，
+      必要之壓力。測謊員須經良好之專業訓練與相當之經驗
+      。測謊儀器品質良好且運作正常。受測人身心及意識
+      狀態正常。測謊環境良好，無不當之外力干擾等要件，
       應即賦予證據能力，非謂機關之鑑定報告當然有證據能力
       ，具有上述形式之證據能力者，始予以實質之價值判斷，
       必符合待證事實需求者，始有證明力。又測謊檢查之受測
@@ -580,9 +473,9 @@ function openwin(URL,arguments,width,height)
     ○通訊監察譯文（見偵八卷第77頁），以其譯文內容並未涉
     及被告丑○○犯罪之資料，且與雙聯或永育公司無關聯二個
     理由，認為無證據能力。惟查，上開監聽譯文內容大致為被
-    告丑○○於電話中商請被告乙○○聯絡立法委員<font color='red'>柯建銘</font>，設
+    告丑○○於電話中商請被告乙○○聯絡立法委員柯建銘，設
     法使被告丑○○調至花蓮，並提出政治捐獻，而被告乙○○
-    為此聯絡立法委員<font color='red'>柯建銘</font>時，並提及：「我在幫他看能不能
+    為此聯絡立法委員柯建銘時，並提及：「我在幫他看能不能
     調來花蓮，幫我做「麗湖」那邊有在做開發」、「但是他如
     果能來花蓮，這就很好，我有鯉魚潭那邊有要開一個「麗湖
     」，他也很用心，過去這些業者對他都很感謝的」等語（見
@@ -1870,44 +1763,44 @@ function openwin(URL,arguments,width,height)
         符合特殊情形無非卸責之詞。
       (3)有關前開第8次專案小組會議審查意見所附9點原則之內
         容如下（見偵七卷第141頁）：
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />應劃設申請變更都市計畫土地總面積至少50 %作為公
+        應劃設申請變更都市計畫土地總面積至少50 %作為公
           共設施或其必要性服務設施，其中公園用地不得少於
           35 %，及沿計畫區○○○○道路之6 公尺綠帶應予留
           設。上開公共設施用地及必要性服務設施之興闢計畫
           應經縣府審核通過，並由開發者自行開闢完成並負責
           管理維護後，再行核發旅館區使用執照。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />提出申請者，應至少自願捐贈申請變更都市計畫土地
+        提出申請者，應至少自願捐贈申請變更都市計畫土地
           總面積30 %之土地與花蓮縣政府，並由申請人與花蓮
           縣政府就申請人自願捐獻及義務負擔相關開發事項簽
           訂協議書，經法院公證或認證具結保證依核定計畫書
           規定暨所提整體開發計畫限期實施，納入計畫書載明
           ，始得發布實施。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />變更後的旅館區建蔽率不得大於40 %，容積率不得大
+        變更後的旅館區建蔽率不得大於40 %，容積率不得大
           於120%，及法定空地內除得設置必要之安全維護管理
           設施外，其餘應提供作為公共開放空間使用，不得設
           置圍籬。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />申請人如於變更都市計畫案發布實後三年內未提出公
+        申請人如於變更都市計畫案發布實後三年內未提出公
           共設施用地或旅館區之建築執照，花蓮縣政府應即辦
           理都市計畫變更程序恢復為原計畫，申請人不得異議
           。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />停車場用地區位範圍、面積，應就全計畫區之遊客動
+        停車場用地區位範圍、面積，應就全計畫區之遊客動
           線、需求等妥予劃設。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />本變更案所提送小組審議資料及內容，因與原公開展
+        本變更案所提送小組審議資料及內容，因與原公開展
           覽草案大為不同，是否須補辦公開展覽程序，建請縣
           府本權責自行核處。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />本開發區應訂定都市設計審議準則，且旅館區申請開
+        本開發區應訂定都市設計審議準則，且旅館區申請開
           發建築前，應經花蓮縣都市設計審議委員會審查通過
           ，始得申請建照。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B82A0A00000040.GIF" />原由行政院經濟建設委員會核列於「促進東部地區產
+        原由行政院經濟建設委員會核列於「促進東部地區產
           業發展計畫」案內列管之原計畫旅社區開發案之開發
           範圍變更擴大事宜，應於本案完成都市計畫法定程序
           後，由開發者依行政程序報核。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B92A0A00000040.GIF" />申請變更都市計畫除應檢具變更都市計畫書圖外，並
+        申請變更都市計畫除應檢具變更都市計畫書圖外，並
           應檢具公私有土地變更使用同意書、整體開發計畫及
           事業財務計畫等相關書件，作為各級都市計畫委員會
           審議之參考。
       (4)上開9點原則，對業者並非難以達成，理由如下：
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />證人卯○○於本院審理時證稱：「（檢察官問：在你
+        證人卯○○於本院審理時證稱：「（檢察官問：在你
           所規劃的規劃書中有多少比例是作為公共設施或是其
           他必要性服務設施？）這個案子總面積共16公頃，分
           為東西兩邊，道路西邊有12 公頃其中45%建議做旅館
@@ -1944,24 +1837,24 @@ function openwin(URL,arguments,width,height)
           覽程序的法定程序？）不是。根據部都委會的決議暫
           予保留另案辦理，而且要提縣都委會審議依法報核這
           才是最困難的。」等語。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />證人辛○○證稱：「他（即被告戊○○）說要把案子
+        證人辛○○證稱：「他（即被告戊○○）說要把案子
           以開天窗的方式通過，就我認知就是開天窗之後有附
           帶9項條件，我認為9項條件做好，就可以通過，且只
           是建蔽率、容積率、不要做圍牆等問題，請花蓮縣政
           府審議委員會通過，我認為這9 項條件並不困難等語
           （見本院卷七第38頁）。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />依上所述，專案小組第8次會議中所附之9點原則，參
-          照證人卯○○所述，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />之部分，不待專案小組嚴格要
-          求，在祥韻公司製作之計畫書中已經提出；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />之部分
-          ，減量即可；而<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />之部分，係要求於「變更都市計畫
+        依上所述，專案小組第8次會議中所附之9點原則，參
+          照證人卯○○所述，之部分，不待專案小組嚴格要
+          求，在祥韻公司製作之計畫書中已經提出；之部分
+          ，減量即可；而之部分，係要求於「變更都市計畫
           案發布實後3 年內」未提出時，始恢復原計畫，因此
           業者僅須於變更案發布後3 年內提出公共設施用地及
-          旅館區建築執照即可，時間上亦甚充足；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />所述停車
+          旅館區建築執照即可，時間上亦甚充足；所述停車
           場妥予劃設之部分，稍有智識之業者即知應妥善規劃
-          ，自不待言；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B92A0A00000040.GIF" />所述補辦公開展覽程序、申請建
+          ，自不待言；至所述補辦公開展覽程序、申請建
           照須經縣都委會審查、依行政程序報核、提供土地使
           用同意書等之部分，或為法令規定，或為政府機關職
-          責所在責無旁貸；至於<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />回饋30 %部分，如前所述，
+          責所在責無旁貸；至於回饋30 %部分，如前所述，
           於內政部都委會第512 次大會中，已明確指出最低的
           回饋限制即為30 %，何況是公共設施變更為商業區，
           且不是沒寫就不回饋等情，甚且於被告卯○○所稱其
@@ -1973,9 +1866,9 @@ function openwin(URL,arguments,width,height)
           擴大投資開發計畫書附件雙聯公司函文），則回饋30
           % 部分，本即為本件變更案中業者本即必須做到的事
           項，並無疑義。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />是以本件專案小組第8次會議所載上述之9點原則，實
+        是以本件專案小組第8次會議所載上述之9點原則，實
           難謂有何嚴苛或甚難達成之可言。況且上述9 點原則
-          中之第<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />部分，縱始業者日後開發而釋出作為公
+          中之第、部分，縱始業者日後開發而釋出作為公
           共設施之用，其仍屬同意變更後之旅館用地而非原計
           畫之公園用地，如同前述證人地○○所述：「公園用
           地變更為私人用地後就很難變回來」，以及第512 次
@@ -2470,7 +2363,7 @@ function openwin(URL,arguments,width,height)
             處成立，台南新管理處成立的那個組，... ，就是
             說20 號左右人事命令一定要發佈，...，也就是說
             整個人事調動現在可能已經定案了，因為那時候我
-            去找<font color='red'>柯建銘</font>的時候我有跟他講，要成立一個新管理
+            去找柯建銘的時候我有跟他講，要成立一個新管理
             處，然後看看能不能利用這波人事調動到花蓮...
             。
     乙○○：來不及了喔。
@@ -2486,7 +2379,7 @@ function openwin(URL,arguments,width,height)
             讓我能到花蓮，請他再幫個忙，好不好 。
     乙○○：好。
    （被告乙○○打給某男：）
-    乙○○：那個<font color='red'>柯建銘</font>，我有在幫以前的澎湖縣長歐縣長，我
+    乙○○：那個柯建銘，我有在幫以前的澎湖縣長歐縣長，我
             在幫他看能不能調來花蓮，幫我做「麗湖」那邊有
             在做開發，他做事很認真，他又很想過來，... ，
             最近剛好有個機會，南部那邊有要成立一個管理所
@@ -2494,13 +2387,13 @@ function openwin(URL,arguments,width,height)
             去，他調過來這樣就好了，這很有機會，這1、2天
             沒有就來不及了，...。
     某  男：好，看怎樣再跟你說。
-    （被告乙○○打給立委<font color='red'>柯建銘</font>：）
+    （被告乙○○打給立委柯建銘：）
     乙○○：... ，我剛想到上次歐處長那個，拜託你的那個，
             你幫忙一下。... 。不過現在就是南部台南有一個
             管理處要成立嘛，但是他如果能來花蓮，這就很好
             ，我有鯉魚潭那邊有要開一個「麗湖」，他也很用
             心，過去這些業者對他都很感謝的。
-    <font color='red'>柯建銘</font>：我知道，我會處理。」
+    柯建銘：我知道，我會處理。」
     則被告乙○○雖言及：「我在幫他看能不能調來花蓮，幫我
     做「麗湖」那邊有在做開發」、「但是他如果能來花蓮，這
     就很好，我有鯉魚潭那邊有要開一個「麗湖」，他也很用心
@@ -3047,86 +2940,11 @@ function openwin(URL,arguments,width,height)
 或其他不正利益者，處 1 年以上 7 年以下有期徒刑，得併科新
 臺幣 3 百萬元以下罰金。
 不具第2條人員之身分而犯前二項之罪者，亦同。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWHLD\CRIMINAL\9703\31\HLDM973V.019] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[5]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000320&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c320%2c20080331%2c5&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=320&jdate=970331&jcheck=5">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c320%2c20080331%2c5&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=320&jdate=970331&jcheck=5">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c320%2c20080331%2c5','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','320','970331','5')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLD 臺灣花蓮地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="柯建銘">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="柯建銘">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]96,訴,320,20080331,5
+[*v_court*]HLD 臺灣花蓮地方法院
+[*v_sys*]M
+[*jyear*]96
+[*jcase*]訴
+[*jno*]320
+[*jdate*]970331
+[*jcheck*]5

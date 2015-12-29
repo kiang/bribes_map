@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-99訴1440</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共14
-											筆 / 現在第9
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=001440&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c1440%2c20120316%2c5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=1440&jdate=1010316&jcheck=5">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c1440%2c20120316%2c5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=1440&jdate=1010316&jcheck=5">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c1440%2c20120316%2c5','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','1440','1010316','5')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴,1440</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010316</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　99年度訴字第1440號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c1440%2c20120316%2c5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=1440&jdate=1010316&jcheck=5
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=001440&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c1440%2c20120316%2c5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=1440&jdate=1010316&jcheck=5
+[*裁判字號*]99,訴,1440
+[*裁判日期*]1010316
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　99年度訴字第1440號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　江勝豪
 被　　　告　曾鈞楷
@@ -149,7 +42,7 @@ function openwin(URL,arguments,width,height)
 1、3、4、5、6、7、8、9、10、11、12、13、14、15、16、17、
 18、19、20、21、22、23、26、27、28、29、30、31、32、33、
 34、35、36所示之刑（含主刑及從刑）。主刑部分應執行有期徒
-刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年陸月，沒收部分併執行之。
+刑年陸月，沒收部分併執行之。
     事  實
 一、江勝豪（綽號阿東、阿同、阿堂，其於民國96年12月4日因
     公共危險案件，經臺灣臺中地方法院判處有期徒刑3月，緩
@@ -175,7 +68,7 @@ function openwin(URL,arguments,width,height)
     館等處拍攝大頭照後，將照片光碟提供予江勝豪，由江勝豪
     進行偽造國民身分證、機關服務證、駕駛執照及變造全民健
     康保險卡（關於全民健康保險卡部分係變造並非偽造，說明
-    如後），該集團之偽、變造方法係：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />國民身分證部分（簡
+    如後），該集團之偽、變造方法係：國民身分證部分（簡
     稱身分證）：係由江勝豪在臺中市○○路○段23號2樓之3租
     處，使用電腦、印表機、護貝機等工具，用繪圖軟體，將被
     冒名者之身分資料及連冒用者之大頭照掃描輸入印有偽造「
@@ -183,17 +76,17 @@ function openwin(URL,arguments,width,height)
     印後，及再自國民身分證正本剪下之「臺灣、蝴蝶」圖形防
     偽雷射標籤，以噴膠黏合，再將印有臺灣圖形再將印有臺灣
     圖形之鋼印蓋在護貝膠膜上，以護貝機製成偽造之國民身分
-    證；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />全民健康保險卡部分（簡稱健保卡）：取得真正之健
+    證；全民健康保險卡部分（簡稱健保卡）：取得真正之健
     康保險卡，將其上年籍資料及相片以砂紙磨除，再將被冒名
     者之身分資料、冒用者之大頭照片，輸入健保卡之範例圖檔
     ，再轉印於透光貼紙上，兩者黏合而變造之（起訴書未敘明
     該集團製造上開證件之過程，不分國民身分證與全民健康保
-    險卡，均逕指偽造，係有誤會）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />機關服務證部分（簡稱
+    險卡，均逕指偽造，係有誤會）。機關服務證部分（簡稱
     服務證）：由江勝豪參考網路及其他不詳人士提供之樣本，
     使用電腦、印表機、護貝機等工具，用繪圖軟體，將被冒名
     者之身分資料及連冒用者（指嚴O傑）之大頭照掃描輸入，
     後再護貝之（公訴人指係換照片方式，應屬誤會，且該2紙
-    張偽造之證件，未蓋表示機關之印文）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />駕駛執照部分（
+    張偽造之證件，未蓋表示機關之印文）。駕駛執照部分（
     簡稱駕照）：由江勝豪將冒用者貼黏於已偽填資料（即姓名
     等年籍資料）完畢之偽造執照上，再於其上偽造「內政部公
     路局」及梅花圖騰之圓型公印文及「交通部駕駛執照製發之
@@ -218,7 +111,7 @@ function openwin(URL,arguments,width,height)
     少年，業經移送少年法庭審理）、何O佑搭載冒用名義之少
     年，於附表四、五所示時間，至彰化縣、臺中縣市、高雄縣
     市等地如附表四、五所示各金融機構或電信公司申請開設帳
-    戶及申請門號。渠等冒名申請之方式係：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />冒名開設金融機
+    戶及申請門號。渠等冒名申請之方式係：冒名開設金融機
     關帳戶：由廖O庭等人持前開偽造第三人名義之國民身分證
     、變造之全民健康保險卡及偽刻之印章，冒用該第三人名義
     ，在各金融機構之印鑑卡、存款開戶申請書上，偽造該第三
@@ -228,7 +121,7 @@ function openwin(URL,arguments,width,height)
     文書，復持前開填妥之申請書、印鑑卡及所偽造第三人名義
     之國民身分證、變造全民健康保險卡雙證件，持向各金融機
     構承辦人員申請開立帳戶而行使之，使金融機構承辦人員陷
-    於錯誤，交付開戶存摺、提款卡、密碼；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />冒名申請電信手
+    於錯誤，交付開戶存摺、提款卡、密碼；冒名申請電信手
     機門號：由廖O庭等人持前開偽造第三人名義之國民身分證
     、全民健康保險卡及偽刻之印章，冒用該第三人名義，在各
     家電信公司之門號申請書等文書上，偽造該第三人之署名、
@@ -366,7 +259,7 @@ function openwin(URL,arguments,width,height)
     之犯行即如附表三編號12、13、15、27、28、33、34、35所
     示之行為，其傳真之偽造公文書如附表三之二所示）、網站
     購物、援交確定身分等方法行騙（各次詐騙手法詳如附表三
-    各次犯行所述），致如附表三所列之<font color='red'>王淑芬</font>等被害人陷於錯
+    各次犯行所述），致如附表三所列之王淑芬等被害人陷於錯
     誤，而依指示匯款進入如附表三所列之帳戶，俟有被害人款
     項匯入時，「彭仔」、「智賢」等即以電話或簡訊通知柯宗
     德或蔡金璋，柯宗德乃親自或指示蔡金璋與何O佑等人聯絡
@@ -476,7 +369,7 @@ function openwin(URL,arguments,width,height)
     之通訊監察譯文可證（此譯文附於98年度少連偵字第38號卷
     一第47頁）。
   (三)就事實五、六所示之犯行（即附表所示三之犯行），亦經證
-    人即附表三所示之被害人<font color='red'>王淑芬</font>、李馥伶、謝政倫、蔡秀燕
+    人即附表三所示之被害人王淑芬、李馥伶、謝政倫、蔡秀燕
     、邱榮政、鄭元琨、梁茱鳳、黃靖琪、周德至、林進鴻、賴
     佳妙、陳文園、周淑婉、林貞妏、林育貞、葉佳宜、翁雅馨
     、徐瑋秋、朱玉芳、王佩琪、林怡君、蕭如瑩、洪采儀、許
@@ -515,7 +408,7 @@ function openwin(URL,arguments,width,height)
     德、蔡金璋、張展誌之犯行，足以認定。
 二、論罪科刑
   (一)、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />按身分證、健保卡、公家機關服務證、駕駛執照係由主管
+    按身分證、健保卡、公家機關服務證、駕駛執照係由主管
       機關核發作身分、能力證明及使用醫療制度之用，均係刑
       法第212條規定之特種文書。而所謂公印或公印文，係指
       公署或公務員職務上所使用之印信，專指表示公署或公務
@@ -546,7 +439,7 @@ function openwin(URL,arguments,width,height)
       規定之處罰為重，則於偽造身分證同時偽造公印或公印文
       者，即難僅論以戶籍法第75條第1項之罪，而置刑法第218
       條第1項處刑較重之罪於不問。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />按刑法上偽造文書罪，係著重於保護公共信用之法益，即
+    按刑法上偽造文書罪，係著重於保護公共信用之法益，即
       使該偽造文書所載名義製作人實無其人，而社會上一般人
       仍有誤信其為真正文書之危險，仍難阻卻犯罪之成立，最
       高法院54年台上字第1404號判例意旨可資參照；又刑法上
@@ -566,7 +459,7 @@ function openwin(URL,arguments,width,height)
       格之印信而言，其形式如何，則非所問，最高法院84年度
       台上字第5509號判決意旨足參，是偽造該等偽造公文書上
       之印文自仍應論以偽造公印文無疑。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />又按刑法廢除牽連犯之規定後，對於前以牽連犯予以處理
+    又按刑法廢除牽連犯之規定後，對於前以牽連犯予以處理
       之案例，依立法理由之說明，在適用上，得視其具體情形
       ，分別論以想像競合犯或數罪併罰，予以處斷。是原經評
       價為牽連犯之案件，如其二行為間具有行為局部之同一性
@@ -582,7 +475,7 @@ function openwin(URL,arguments,width,height)
       質上一罪關係，而僅包括的論以一罪（參照最高法院96年
       度台上字第4780號判決意旨）
   (二)、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />就事實一、二內容中，所述為附表四、五之犯行：
+    就事實一、二內容中，所述為附表四、五之犯行：
       核被告江勝豪紹募少年廖O庭為集團，其等為冒用他人身
       分取得金融帳戶及電信手機門號而予使用或出售他人，竟
       偽（變）造如附表四、五之國民身分證、全民健康保險卡
@@ -625,13 +518,13 @@ function openwin(URL,arguments,width,height)
       前段規定，其二者規定相同，故依刑法第2條第1項前段規
       定，自應適用兒童及少年福利法與權益保障法第112條第1
       項前段規定，予以加重）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />就事實一、二內容中，所述為附表六之犯行：
+    就事實一、二內容中，所述為附表六之犯行：
       核被告江勝豪就此部分犯行【即其中編號2之犯行在下述附
       表八；編號5之犯行在下述附表九中為論罪科刑，故此部
       分扣除該二者】（即各依每個被冒用人而論罪），均係犯
       戶籍法第75條第1項之偽造國民身分證罪、刑法第218條之
       偽造公印文及第212條之偽造特種文書罪。其中附表六編
-      號3即被害人係林文輝部分；編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />即被害人陳文良部分
+      號3即被害人係林文輝部分；編號4即被害人陳文良部分
       ，因尚有變造全民健康保險卡之犯行，故並犯刑法第212
       條之變造特種文書罪【此部分公訴人漏列，惟基於下述裁
       判上一罪關係，本院自得併予審理】，惟該變造全民健康
@@ -648,7 +541,7 @@ function openwin(URL,arguments,width,height)
       相同，故依刑法第2條第1項前段規定，自應適用兒童及少
       年福利法與權益保障法第112條第1項前段規定，予以加重
       ）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />就事實一、二內容中所述為附表七之犯行（因此部分係被
+    就事實一、二內容中所述為附表七之犯行（因此部分係被
       告江勝豪個人收取代價，而受不詳姓名之成年人委託，為
       偽（變）造證件，故該不詳姓名之成年人取得偽（變）造
       證件後如何使用開戶等，與被告江勝豪無共犯之關係）：
@@ -672,7 +565,7 @@ function openwin(URL,arguments,width,height)
       璋之犯行，該冒用人係少年廖O庭，故此部分之事實應被
       告江勝豪與少年共同為之（即記載如附表四編號五所示）
       ，併此說明。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告江勝豪所為上揭如附表四、五、六、七所示之歷次犯
+    被告江勝豪所為上揭如附表四、五、六、七所示之歷次犯
       行，犯意有別，時間有異，應分論併罰。
   (三)、就事實四所述之犯行（即附表八所示）：
       核被告江勝豪、曾鈞楷就此部分犯行，係犯刑法第216條
@@ -700,7 +593,7 @@ function openwin(URL,arguments,width,height)
       障法第112條第1項前段規定，予以加重，起訴書就加重部
       分未提及，係有誤會）。
   (四)、就事實五、六所述之犯行（即附表三所示）：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />核被告柯宗德、蔡金璋、張展誌就如附表三編號12、13、
+    核被告柯宗德、蔡金璋、張展誌就如附表三編號12、13、
       15、27、28、33、34、35所示之犯行，就各該犯行，均犯
       刑法第218條行使偽造公文書、同法第158條第1項之僭行
       公務員職權罪（公訴人漏論此二罪，惟基於後述裁判上一
@@ -713,7 +606,7 @@ function openwin(URL,arguments,width,height)
       基同一目的所為，可評價為一行為觸犯數個相異之罪名，
       為想像競合犯，應依刑法第55條前段規定，從一重論以行
       使偽造公文書罪。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />核被告江勝豪就如附表三編號2、24、25、37、38（該次
+    核被告江勝豪就如附表三編號2、24、25、37、38（該次
       有二個匯款帳，此僅指匯入帳戶係謝承翰部分）所示之行
       ；被告蘇延宗就如附表三編號2、24、25所示之犯行；被
       告張展誌就如附表三除編號2、24、25、37、38（此僅指
@@ -724,7 +617,7 @@ function openwin(URL,arguments,width,height)
       行，均犯刑法第339條第1項之詐欺取財罪。且被告江勝豪
       、蘇延宗係基於正犯之意思參與，故如附表三除編號24、
       25所示之匯款帳戶雖同一，但仍各別之。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告江勝豪、蘇延宗、張展誌、柯宗德、蔡金璋就其上開
+    被告江勝豪、蘇延宗、張展誌、柯宗德、蔡金璋就其上開
       各所參與之犯行部分，與王O在、何O佑及「彭仔」、「智
       賢」等詐欺集團成員間，有犯意聯絡及行為分擔，俱為共
       同正犯。且因該等犯中除如附表三編號1、21、22、23、
@@ -735,7 +628,7 @@ function openwin(URL,arguments,width,height)
       、38所示「謝承翰」金融帳戶冒名申辦，惟被告江勝豪並
       將該帳自已使用，而販賣他人牟利，故應係另行起意，附
       此說明。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告江勝豪、蘇延宗、張展誌、柯宗德、蔡金璋就上開所
+    被告江勝豪、蘇延宗、張展誌、柯宗德、蔡金璋就上開所
       犯數罪，各均犯意各別，皆係數罪併論。
   (五)、就事實七所述之犯行（即附表九所示）：
       核被告江勝豪、柯宗德、蔡金璋偽造如事實欄所示之汽車
@@ -786,16 +679,16 @@ function openwin(URL,arguments,width,height)
       以示懲儆。
 三、沒收：
   (一)、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />就事實一、二內容中，所述為附表四、五之犯行：
+    就事實一、二內容中，所述為附表四、五之犯行：
       扣案如附表十一編號1所示之物品，係偽（變）證件之工
       具，編號2、7所示之行動電話亦係被告江勝豪與偽造集團
       之用以聯絡偽造之工具，前二者為被告江勝豪所有，後者
       為集團中共犯少年張0頎所有。故依刑法第38條第1項第2
-      款，於相關犯行下，宣告沒收；如附表十二編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />變造
-      孔憲文健保卡半成品、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />變造何俊泰健保卡半成品、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />變
-      造陳俊尉健保卡半成品<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />變造陳智意健保卡半成品、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />變
-      造方智勝健保卡半成品、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />變造陳彥璋健保卡半成品、3
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />偽造陳智意身分證，因其所有權均屬江勝豪所有，故均
+      款，於相關犯行下，宣告沒收；如附表十二編號1變造
+      孔憲文健保卡半成品、變造何俊泰健保卡半成品、變
+      造陳俊尉健保卡半成品變造陳智意健保卡半成品、變
+      造方智勝健保卡半成品、變造陳彥璋健保卡半成品、3
+      偽造陳智意身分證，因其所有權均屬江勝豪所有，故均
       應依刑法第38條第1項第3款規定，於相關犯行下（詳備註
       所示），宣告沒收；另未扣案如附表十四編號1至9所示之
       物，其中關於偽造之身分證、變造健保卡，因其所有權均
@@ -803,30 +696,30 @@ function openwin(URL,arguments,width,height)
       ，於相關犯行下（詳備註所示），宣告沒收；另其中偽刻
       之印章、偽造印文及偽造署押、則應依刑法第219條規定
       ，於相關犯行下（詳備註所示），宣告沒收。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />就事實一、二內容中，所述為附表六之犯行：
+    就事實一、二內容中，所述為附表六之犯行：
       扣案如附表十一編號1所示之物品，係偽（變）證件之工
       具，編號2所示之行動電話亦係被告江勝豪與偽造集團之
       用以聯絡偽造之工具，並為係被告江勝豪所有，故依刑法
       第38條第1項第2款，於相關犯行下，宣告沒收；如附表十
-      二編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />變造林文輝健保卡半成品、2<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />變造林文輝健保
-      卡、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />變造陳文良健保卡；編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />偽造林文輝身民證、
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />偽造何東昇身分證、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />偽造陳文良身分證、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />偽造趙立
+      二編號1變造林文輝健保卡半成品、2變造林文輝健保
+      卡、變造陳文良健保卡；編號3偽造林文輝身民證、
+      偽造何東昇身分證、偽造陳文良身分證、偽造趙立
       雄身分證、編號6偽造林啟雄身分證及如附表十四編號10
       至13所示即未扣案之偽造陳柏廷身分證、偽造陳耀中身分
       證，因其所有權均屬被告江勝豪所有，故均應依刑法第38
       條第1項第3款規定，於相關犯行下，宣告沒收，另該等證
       件上偽造「內政部印」公印文，則不須再依應依刑法第
       219條規定，宣告沒收附此說明。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />就事實一、二部分中所述為附表七之犯行：
+    就事實一、二部分中所述為附表七之犯行：
       扣案如附表十一編號1所示之物品，係偽（變）證件之工
       具，並為係被告江勝豪所有，故依刑法第38條第1項第2款
-      ，於相關犯行下，宣告沒收；扣案如附表十二編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />變
-      造吳明汝健保卡半成品、1<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />變造林宮麒健保卡半成品、1
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />變造趙柏毅健保卡半成品、1<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />變造欒照明健保卡半成
-      品、1<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />變造黃彗卿健保卡半成品、2<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />變造張秦維健保卡
-      、3<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />偽造張秦維身分證、2<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />變造羅松楷健保卡、2<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />變
-      造王妍庭健保卡、2<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />變造林宜平健保卡、2<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />變造高翠瑩
-      健保卡、3<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />偽造陳彥承身分證、3<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />偽造黃柏政身分證及
+      ，於相關犯行下，宣告沒收；扣案如附表十二編號1變
+      造吳明汝健保卡半成品、1變造林宮麒健保卡半成品、1
+      變造趙柏毅健保卡半成品、1變造欒照明健保卡半成
+      品、1變造黃彗卿健保卡半成品、2變造張秦維健保卡
+      、3偽造張秦維身分證、2變造羅松楷健保卡、2變
+      造王妍庭健保卡、2變造林宜平健保卡、2變造高翠瑩
+      健保卡、3偽造陳彥承身分證、3偽造黃柏政身分證及
       編號4偽造吳玟成重型機車駕照等，因均於被告江勝豪所
       使用之小客車或係居處所查扣，故依動產占有為表彰所有
       權之理論，當認查獲時，該等物品係被告江勝豪所有，因
@@ -920,86 +813,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處 5 年以下有期徒刑、拘役或科或併科 1 千元以下
 罰金。
 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[兒童及少年福利法] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWCHD\CRIMINAL\10103\16\CHDM1013G.01X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[5]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"><table width="410px" border="0" cellpadding="5" cellspacing="0"><tr><td bgcolor="#999999"><span style="FONT-SIZE: 80%"><b>附件</b></span></td><td bgcolor="#999999" width="30%"><span style="FONT-SIZE: 80%"><b>檔案大小</b></span></td></tr><tr><td bgcolor="#ffffff"><span style="FONT-SIZE: 80%"><a href="downloadFile2.aspx?id=99%2c%e8%a8%b4%2c1440%2c1010316%2c5%2cCHDM1013G01X_001.pdf&tablename=CHDM" target="_blank">99訴1440.pdf</a></span></td><td bgcolor="#ffffff" width="30%"><span style="FONT-SIZE: 80%">3164.19KB</span></td></tr></table></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共14
-											筆 / 現在第9
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=001440&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c1440%2c20120316%2c5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=1440&jdate=1010316&jcheck=5">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c1440%2c20120316%2c5&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=1440&jdate=1010316&jcheck=5">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c1440%2c20120316%2c5','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','1440','1010316','5')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="9"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王淑芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王淑芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]99,訴,1440,20120316,5
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]訴
+[*jno*]1440
+[*jdate*]1010316
+[*jcheck*]5

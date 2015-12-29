@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣嘉義地方法院-刑-98訴430</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣嘉義地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000430&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c430%2c20100708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=430&jdate=990708&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c430%2c20100708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=430&jdate=990708&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c430%2c20100708%2c1','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','430','990708','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,430</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">990708</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣嘉義地方法院刑事判決　　　　　　　 98年度訴字第430號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c430%2c20100708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=430&jdate=990708&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000430&selectedCrtid=CYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c430%2c20100708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=430&jdate=990708&jcheck=1
+[*裁判字號*]98,訴,430
+[*裁判日期*]990708
+[*裁判案由*]貪污等
+[*裁判全文*]臺灣嘉義地方法院刑事判決　　　　　　　 98年度訴字第430號
 公　訴　人　臺灣嘉義地方法院檢察署檢察官
 被　　　告　辛○○
 選任辯護人　蔡碧仲律師
@@ -128,7 +21,7 @@ function openwin(URL,arguments,width,height)
     主  文
 辛○○犯如附表二所示十九罪，各處如附表二所示之刑。應執行
 有期徒刑拾年，褫奪公權陸年，犯罪所得財物其中新臺幣貳佰壹
-拾貳萬陸仟<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰壹拾肆元，應與追繳並發還被害人國立中正大學
+拾貳萬陸仟佰壹拾肆元，應與追繳並發還被害人國立中正大學
 ，如全部或一部無法追繳時，以其財產抵償之；其中共同犯罪所
 得財物新臺幣玖萬壹仟貳佰元，應與未○○連帶追繳並發還被害
 人國立中正大學，如全部或一部無法追繳時，以其與未○○之財
@@ -136,7 +29,7 @@ function openwin(URL,arguments,width,height)
 ○○連帶追繳並發還被害人國立中正大學，如全部或一部無法追
 繳時，以其與壬○○之財產連帶抵償之。
 壬○○共同連續犯商業負責人填製不實會計憑證罪，處有期徒刑
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為有期徒刑壹月又拾伍日；又共同犯公務員利用職務上
+月，減為有期徒刑壹月又拾伍日；又共同犯公務員利用職務上
 機會詐取財物罪，處有期徒刑壹年拾壹月，褫奪公權貳年，犯罪
 所得財物新臺幣肆拾萬元，應與辛○○連帶追繳並發還被害人國
 立中正大學，如全部或一部無法追繳時，以其與辛○○之財產連
@@ -241,7 +134,7 @@ function openwin(URL,arguments,width,height)
     日起至九十年三月十九日止，另意圖為自己不法所有，利用
     職務上機會詐取財物、行使公務員登載不實公文書之概括犯
     意，連續為下列行為：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />辛○○於八十九年六月二十七日，指示不知情之系上職員蔡
+  辛○○於八十九年六月二十七日，指示不知情之系上職員蔡
     淑芬將附表一編號一發票所載不實耗材申購事實及金額，填
     入辛○○欲請領會計科目為「教學研究及訓輔費用」、金額
     九萬六千元而製作之公文書即支出請示單，並由辛○○在職
@@ -267,7 +160,7 @@ function openwin(URL,arguments,width,height)
     友翔公司，友翔公司即以之作為辛○○購買ISCO針筒式高壓
     泵之貨款，使辛○○詐得款項，足生損害於中正大學對於審
     核教學及研究經費請領項目之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />辛○○於八十九年九月五日，指示不知情系上職員蔡淑芬將
+  辛○○於八十九年九月五日，指示不知情系上職員蔡淑芬將
     附表一編號二發票所載不實耗材申購事實及金額，填入辛○
     ○欲請領會計科目為「教學研究及訓輔費用」、金額九萬八
     千元而製作之公文書即支出請示單，並由辛○○在職務上所
@@ -291,7 +184,7 @@ function openwin(URL,arguments,width,height)
     千元支付給友翔公司，友翔公司即以之作為辛○○購買ISCO
     針筒式高壓泵之貨款，使辛○○詐得款項，足生損害於中正
     大學對於審核教學及研究經費請領項目之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />辛○○於九十年一月二十九日，指示不知情之實驗室助理李
+  辛○○於九十年一月二十九日，指示不知情之實驗室助理李
     一忠將附表一編號三發票所載不實儀器申購事實及金額，填
     入辛○○欲請領其執行國科會補助中正大學「壓力對泥漿鼓
     泡床內熱傳之研究」計畫經費、金額為九萬六千八百元而製
@@ -316,7 +209,7 @@ function openwin(URL,arguments,width,height)
     ○購買ISCO針筒式高壓泵之貨款，使辛○○詐得款項，足生
     損害於中正大學對於審核國科會補助研究計畫經費請領項目
     之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />辛○○於九十年三月十九日，依中正大學零用金即一萬元以
+  辛○○於九十年三月十九日，依中正大學零用金即一萬元以
     下之採購核銷程序，指示不知情之李一忠將附表一編號四不
     實內容之統一發票，黏貼在辛○○於職務上應製作之公文書
     即支出憑證黏存單，由辛○○在「驗收或證明人」「單位主
@@ -362,7 +255,7 @@ function openwin(URL,arguments,width,height)
     日起至九十年十二月二十五日止，承前意圖為自己不法所有
     ，利用職務上機會詐取財物、行使公務員登載不實公文書之
     概括犯意，連續為下列行為：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />辛○○於九十年五月十日，指示不知情之李一忠將附表一編
+  辛○○於九十年五月十日，指示不知情之李一忠將附表一編
     號五發票所載不實儀器申購事實及金額，填入辛○○欲請領
     其執行國科會補助中正大學「壓力對泥漿鼓泡床內熱傳之研
     究」計畫經費、金額為九萬零二百元而製作之公文書即財務
@@ -388,7 +281,7 @@ function openwin(URL,arguments,width,height)
     津公司即以之作為辛○○購買氣相層析儀之貨款，使辛○○
     詐得款項，足生損害於中正大學對於審核國科會補助研究計
     畫經費請領項目之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />辛○○於九十年五月七日，指示不知情系上職員蔡淑芬將附
+  辛○○於九十年五月七日，指示不知情系上職員蔡淑芬將附
     表一編號六發票所載不實儀器申購事實及金額，填入辛○○
     欲請領會計科目為「年度預算—教學實驗儀器設備費（研究
     配合款七千元、系經費四萬八千零二十九元、校配合款二萬
@@ -416,7 +309,7 @@ function openwin(URL,arguments,width,height)
     司即以之作為辛○○購買氣相層析儀之貨款，使辛○○詐得
     款項，足生損害於中正大學對於審核教學及研究經費請領項
     目之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />辛○○於九十年十一月二十日，指示不知情之實驗室助理林
+  辛○○於九十年十一月二十日，指示不知情之實驗室助理林
     義芳將附表一編號七、編號八發票所載不實耗材申購事實及
     金額，填入辛○○欲請領其執行由中正大學與財團法人中衛
     發展中心建教合作「不銹鋼廢水製程改善案」研究計畫經費
@@ -443,7 +336,7 @@ function openwin(URL,arguments,width,height)
     給三津公司，三津公司即以之作為辛○○購買液相層析儀之
     貨款，使辛○○詐得款項，足生損害於中正大學對於審核建
     教合作研究計畫經費請領項目之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />辛○○於九十年十一月二十六日，指示不知情之林義芳將附
+  辛○○於九十年十一月二十六日，指示不知情之林義芳將附
     表一編號九發票所載不實耗材申購事實及金額，填入辛○○
     欲請領其執行由中正大學與財團法人中衛發展中心建教合作
     「不銹鋼廢水製程改善案」研究計畫經費、金額為九萬二千
@@ -461,16 +354,16 @@ function openwin(URL,arguments,width,height)
     ○於職務上應製作之公文書即支出憑證黏存單，由辛○○在
     「驗收或證明」「單位主管或計畫主持人」」欄均簽名，表
     示經驗收無誤，辦理核銷程序而行使之，經層轉中正大學核
-    示，由前揭均不知情人員（校長或授權代簽人欄則為<font color='red'>吳志揚
-    </font>核章）於渠等掌管之審核欄一一核章，使具有最終決定權之
-    <font color='red'>吳志揚</font>陷於錯誤，誤信辛○○有代表中正大學，向三光公司
+    示，由前揭均不知情人員（校長或授權代簽人欄則為吳志揚
+    核章）於渠等掌管之審核欄一一核章，使具有最終決定權之
+    吳志揚陷於錯誤，誤信辛○○有代表中正大學，向三光公司
     購買附表一編號九所載品名物品而核准撥款，即由中正大學
     總務處出納組人員，將該九萬二千二百元支付給三光公司，
     三光公司再將款項給予三津公司，三津公司即以之作為辛○
     ○購買液相層析儀之貨款，使辛○○詐得款項，足生損害於
     中正大學對於審核建教合作研究計畫經費請領項目之正確性
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />辛○○於九十年十二月十九日，指示不知情之林義芳將附表
+  辛○○於九十年十二月十九日，指示不知情之林義芳將附表
     一編號十發票所載不實耗材申購事實及金額，填入辛○○欲
     請領其執行由中正大學與財團法人中衛發展中心建教合作「
     不銹鋼廢水製程改善案」研究計畫經費、金額為九萬四千元
@@ -530,7 +423,7 @@ function openwin(URL,arguments,width,height)
     起至同年六月二十九日止，即基於意圖為自己不法所有，利
     用職務上機會詐取財物、行使公務員登載不實公文書之概括
     犯意，連續為下列行為：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />辛○○於取得安冠公司所開立與附表一編號十一、編號十二
+  辛○○於取得安冠公司所開立與附表一編號十一、編號十二
     統一發票內容相同之估價單後，於九十五年四月二十七日指
     示不知情之實驗室助理甲○○，接續將附表一編號十一發票
     所載不實耗材申購事實及金額，填入辛○○欲請領其執行由
@@ -566,7 +459,7 @@ function openwin(URL,arguments,width,height)
     元支付給安冠公司，安冠公司即以之作為辛○○購買原子力
     顯微儀之貨款，使辛○○詐得款項，足生損害於中正大學對
     於審核建教合作研究計畫經費請領項目之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />辛○○於取得冠球公司所開立與附表一編號十七、編號十八
+  辛○○於取得冠球公司所開立與附表一編號十七、編號十八
     統一發票內容相同之估價單後，於九十五年五月十七日指示
     不知情之甲○○，接續將附表一編號十七發票所載不實耗材
     申購事實及金額，填入辛○○欲請領其執行由中正大學與工
@@ -1764,7 +1657,7 @@ function openwin(URL,arguments,width,height)
     ，且所採購之研究設備，需依行政院頒佈之財物分類標準列
     入執行機構財產目錄。再者，國科會與中正大學就上述應適
     用政府補助科學技術研究發展採購監督管理辦法之補助研究
-    計畫，訂定之合約情形為：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />國科會（為甲方）與中正大學
+    計畫，訂定之合約情形為：國科會（為甲方）與中正大學
     （為乙方）於九十四年簽訂之專題研究計畫補助合約書，該
     合約補助內容包含「於氣舉式反應器中利用二種固定化酵素
     生產高濃度果寡糖」研究計畫（包含附表一編號十三、十五
@@ -1777,7 +1670,7 @@ function openwin(URL,arguments,width,height)
     術發展基金作業手冊及其他相關法令規定辦理。」；第十二
     點「乙方執行研究計畫如有固定資產之添置，應由乙方財產
     管理人員驗收蓋章，列入財產目錄，甲方得隨時抽查之」。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />於九十五年簽訂之專題研究計畫補助合約書，該合約補助
+    於九十五年簽訂之專題研究計畫補助合約書，該合約補助
     內容包含「開發超臨界CO2 流體的成膜技術應用在白光OLED
     照明面板與有機太陽能電池」研究計畫（包含附表一編號三
     十一、三十四、三十五），於第四點約定「乙方執行研究計
@@ -1790,7 +1683,7 @@ function openwin(URL,arguments,width,height)
     作業要點、國家科學技術發展基金作業手冊及其他相關法令
     規定辦理。」；第十二點「乙方執行研究計畫如有固定資產
     之添置，應由乙方財產管理人員驗收蓋章，列入財產目錄，
-    甲方得隨時抽查之」。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />於九十五年國科會與中正大學就「
+    甲方得隨時抽查之」。於九十五年國科會與中正大學就「
     超臨界流體乾燥製備奈米微孔SiO2薄膜之系統開發與研究」
     （包含附表一編號二十六、三十、三十二、三十三），簽訂
     之提升產業技術及人才培育研究計畫補助合約書，於第七點
@@ -3451,7 +3344,7 @@ function openwin(URL,arguments,width,height)
     察官起訴內容亦未以被告辛○○「假冒淹水」事由來詐取公
     款，是上開待證事實應無再行傳喚證人調查之必要，附此敘
     明。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、論罪科刑部分：
+、論罪科刑部分：
 一、新舊法比較部分：
   (一)查被告辛○○為犯罪事實三(一)(二)、犯罪事實四(一)行為後，以
     及被告壬○○為犯罪事實三(一)之行為後，刑法業於民國九十
@@ -3822,11 +3715,11 @@ function openwin(URL,arguments,width,height)
     十年十一月二十日製作不實支出請示單辦理採購，於同年十
     一月二十八日開立不實統一發票、於同年十一月二十八日至
     同年十一月三十日間某時製作不實支出憑證黏存單辦理核銷
-    付款；附表一編號十一、編號十二款項（犯罪事實四(一)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />）
+    付款；附表一編號十一、編號十二款項（犯罪事實四(一)）
     ，均於九十五年四月二十七日製作製作不實支出請示單辦理
     採購，於同年五月二十九日開立不實統一發票、於同年六月
     十四日製作不實支出憑證黏存單辦理核銷付款；附表一編號
-    十七、編號十八款項（犯罪事實四(一)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />），均於九十五年五
+    十七、編號十八款項（犯罪事實四(一)），均於九十五年五
     月十七日製作製作不實支出請示單辦理採購、於同年六月二
     十九日製作不實支出憑證黏存單辦理核銷付款；附表一編號
     十四、編號十五款項（犯罪事實四(三)），均於九十五年五月
@@ -4397,7 +4290,7 @@ function openwin(URL,arguments,width,height)
 │    │    │        │        │        │                          │」。                      │      │          │          │持人      │
 ├──┼──┼────┼────┼────┼─────────────┼─────────────┼───┼─────┼─────┼─────┤
 │ 11 │四(一)│安冠奈米│95.5.29.│MU530816│四象限光感測元件          │建教合作費用：委託機構「財│93,000│95.4.27   │95.6.14.  │驗收或證明│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />  │科技股份│        │09      │                          │團法人工業技術研究院」、計│      │          │          │人、計畫主│
+│    │  │科技股份│        │09      │                          │團法人工業技術研究院」、計│      │          │          │人、計畫主│
 │    │    │有限公司│        │        │                          │畫名稱「奈米金光纖感HF之開│      │          │          │持人      │
 │    │    │        │        │        │                          │發」。                    │      │          │          │          │
 │    │    │        │        │        │                          │                          │      │          │          │          │
@@ -4405,7 +4298,7 @@ function openwin(URL,arguments,width,height)
 │    │    │        │        │        │                          │                          │      │          │          │          │
 ├──┼──┼────┼────┼────┼─────────────┼─────────────┼───┼─────┼─────┼─────┤
 │ 12 │四(一)│同上    │95.5.29.│MU530816│三軸壓電陶瓷管            │建教合作費用：委託機構「財│94,500│同上      │同上      │驗收或證明│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />  │        │        │12      │                          │團法人工業技術研究院」、計│      │          │          │人、計畫主│
+│    │  │        │        │12      │                          │團法人工業技術研究院」、計│      │          │          │人、計畫主│
 │    │    │        │        │        │                          │畫名稱「超臨界流體清洗下光│      │          │          │持人      │
 │    │    │        │        │        │                          │阻劑之研究」。            │      │          │          │          │
 │    │    │        │        │        │                          │                          │      │          │          │          │
@@ -4441,13 +4334,13 @@ function openwin(URL,arguments,width,height)
 │    │    │        │        │        │                          │」。                      │      │          │          │          │
 ├──┼──┼────┼────┼────┼─────────────┼─────────────┼───┼─────┼─────┼─────┤
 │ 17 │四(一)│冠球股份│95.5.21.│MU433081│夾治具加工費              │建教合作費用：委託機構「財│95,000│95.5.17   │95.6.29.  │驗收或證明│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />  │有限公司│        │55      │                          │團法人工業技術研究院」、計│      │          │          │人、計畫主│
+│    │  │有限公司│        │55      │                          │團法人工業技術研究院」、計│      │          │          │人、計畫主│
 │    │    │        │        │        │                          │畫名稱「超臨界流體清洗下光│      │          │          │持人      │
 │    │    │        │        │        │                          │阻劑之研究」。            │      │          │          │          │
 │    │    │        │        │        │                          │                          │      │          │          │          │
 ├──┼──┼────┼────┼────┼─────────────┼─────────────┼───┼─────┼─────┼─────┤
 │ 18 │四(一)│同上    │95.5.30.│MU433081│半導體元件、激振壓電陶瓷模│建教合作費用：委託機構「財│95,125│同上      │同上      │驗收或證明│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />  │        │        │57      │組、高精密度針型樣本      │團法人工業技術研究院」、計│      │          │          │人、計畫主│
+│    │  │        │        │57      │組、高精密度針型樣本      │團法人工業技術研究院」、計│      │          │          │人、計畫主│
 │    │    │        │        │        │                          │畫名稱「奈米金光纖感HF之開│      │          │          │持人      │
 │    │    │        │        │        │                          │發」。                    │      │          │          │          │
 ├──┼──┼────┼────┼────┼─────────────┼─────────────┼───┼─────┼─────┼─────┤
@@ -4607,63 +4500,63 @@ function openwin(URL,arguments,width,height)
 │    │                                                      │奪公權陸年，犯罪所得財物新臺幣捌拾肆萬捌仟陸佰貳拾玖元，應與追繳並│
 │    │                                                      │發還被害人國立中正大學，如全部或一部無法追繳時，以其財產抵償之。  │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│二  │犯罪事實四(一)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />（即附表一編號十一至編號十二、編號十七│辛○○連續犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年拾月，褫│
-│    │至編號十八）                                          │奪公權伍年，犯罪所得財物新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾柒萬柒仟陸佰貳拾伍元，應與追繳並│
+│二  │犯罪事實四(一)（即附表一編號十一至編號十二、編號十七│辛○○連續犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年拾月，褫│
+│    │至編號十八）                                          │奪公權伍年，犯罪所得財物新臺幣拾柒萬柒仟陸佰貳拾伍元，應與追繳並│
 │    │                                                      │發還被害人國立中正大學，如全部或一部無法追繳時，以其財產抵償之。  │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │三  │犯罪事實四(二)（即附表一編號十三）                      │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫奪公│
-│    │                                                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣玖萬捌仟柒佰元，應與追繳並發還被害人國立│
+│    │                                                      │權年，犯罪所得財物新臺幣玖萬捌仟柒佰元，應與追繳並發還被害人國立│
 │    │                                                      │中正大學，如全部或一部無法追繳時，以其財產抵償之。                │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │四  │犯罪事實四(三)（即附表一編號十四、十五）                │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年捌月，褫奪公│
-│    │                                                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣壹拾柒萬貳仟柒佰<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾貳元，應與追繳並發還│
+│    │                                                      │權年，犯罪所得財物新臺幣壹拾柒萬貳仟柒佰拾貳元，應與追繳並發還│
 │    │                                                      │被害人國立中正大學，如全部或一部無法追繳時，以其財產抵償之。      │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │五  │犯罪事實四(四)（即附表一編號十六）                      │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫奪公│
-│    │                                                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣捌萬玖仟伍佰元，應與追繳並發還被害人國立│
+│    │                                                      │權年，犯罪所得財物新臺幣捌萬玖仟伍佰元，應與追繳並發還被害人國立│
 │    │                                                      │中正大學，如全部或一部無法追繳時，以其財產抵償之。                │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │六  │犯罪事實四(五)（即附表一編號十九）                      │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫奪公│
-│    │                                                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣陸萬壹仟肆佰肆拾<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />元，應與追繳並發還被害│
+│    │                                                      │權年，犯罪所得財物新臺幣陸萬壹仟肆佰肆拾元，應與追繳並發還被害│
 │    │                                                      │人國立中正大學，如全部或一部無法追繳時，以其財產抵償之。          │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │七  │犯罪事實五（即附表一編號二十）                        │辛○○共同犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫│
-│    │                                                      │奪公權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣玖萬壹仟貳佰元，應與未○○連帶追繳並│
+│    │                                                      │奪公權年，犯罪所得財物新臺幣玖萬壹仟貳佰元，應與未○○連帶追繳並│
 │    │                                                      │發還被害人國立中正大學，如全部或一部無法追繳時，以其與未○○之財產│
 │    │                                                      │連帶抵償之。                                                      │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│八  │犯罪事實六（即附表一編號二十一）                      │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，褫奪公│
+│八  │犯罪事實六（即附表一編號二十一）                      │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑年捌月，褫奪公│
 │    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣壹萬│
 │    │                                                      │捌仟伍佰伍拾元，應與追繳並發還被害人國立中正大學，如全部或一部無法│
 │    │                                                      │追繳時，以其財產抵償之。                                          │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│九  │犯罪事實七(一)（即附表一編號二十三、編號二十八）        │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，褫奪公│
+│九  │犯罪事實七(一)（即附表一編號二十三、編號二十八）        │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑年捌月，褫奪公│
 │    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣壹萬│
 │    │                                                      │玖仟元，應與追繳並發還被害人國立中正大學，如全部或一部無法追繳時，│
 │    │                                                      │以其財產抵償之。                                                  │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│十  │犯罪事實七(二)（即附表一編號二十四、編號二十七）        │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，褫奪公│
+│十  │犯罪事實七(二)（即附表一編號二十四、編號二十七）        │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑年捌月，褫奪公│
 │    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣壹萬│
 │    │                                                      │玖仟貳佰伍拾元，應與追繳並發還被害人國立中正大學，如全部或一部無法│
 │    │                                                      │追繳時，以其財產抵償之。                                          │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│十一│犯罪事實七(三)（即附表一編號二十五）                    │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，褫奪公│
+│十一│犯罪事實七(三)（即附表一編號二十五）                    │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑年捌月，褫奪公│
 │    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣壹萬│
 │    │                                                      │伍仟柒佰伍拾元，應與追繳並發還被害人國立中正大學，如全部或一部無法│
 │    │                                                      │追繳時，以其財產抵償之。                                          │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│十二│犯罪事實七(四)（即附表一編號二十九）                    │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，褫奪公│
-│    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />萬│
+│十二│犯罪事實七(四)（即附表一編號二十九）                    │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑年捌月，褫奪公│
+│    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣萬│
 │    │                                                      │元，應與追繳並發還被害人國立中正大學，如全部或一部無法追繳時，以其│
 │    │                                                      │財產抵償之。                                                      │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │十三│犯罪事實七(五)、八(二)（即附表一編號二十六、編號三十、編號│辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫奪公│
-│    │三十二）                                              │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣玖萬壹仟元，應與追繳並發還被害人國立中正│
+│    │三十二）                                              │權年，犯罪所得財物新臺幣玖萬壹仟元，應與追繳並發還被害人國立中正│
 │    │                                                      │大學，如全部或一部無法追繳時，以其財產抵償之。                    │
 │    │                                                      │                                                                  │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │十四│犯罪事實八(一)（即附表一編號三十一、編號三十三）        │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫奪公│
-│    │                                                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣柒萬零陸佰元，應與追繳並發還被害人國立中│
+│    │                                                      │權年，犯罪所得財物新臺幣柒萬零陸佰元，應與追繳並發還被害人國立中│
 │    │                                                      │正大學，如全部或一部無法追繳時，以其財產抵償之。                  │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │十五│犯罪事實九（即附表一編號三十四）                      │辛○○共同犯公務員利用職務上機會詐取財物罪，處有期徒刑捌年，褫奪公│
@@ -4672,102 +4565,27 @@ function openwin(URL,arguments,width,height)
 │    │                                                      │。                                                                │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │十六│犯罪事實十(一)（即附表一編號三十五）                    │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫奪公│
-│    │                                                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣柒萬元，應與追繳並發還被害人國立中正大學│
+│    │                                                      │權年，犯罪所得財物新臺幣柒萬元，應與追繳並發還被害人國立中正大學│
 │    │                                                      │，如全部或一部無法追繳時，以其財產抵償之。                        │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│十七│犯罪事實十(二)（即附表一編號三十六）                    │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，褫奪公│
-│    │                                                      │權貳年，犯罪所得財物新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />萬元，應與追繳並發還被害人國立中正大學│
+│十七│犯罪事實十(二)（即附表一編號三十六）                    │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑年捌月，褫奪公│
+│    │                                                      │權貳年，犯罪所得財物新臺幣萬元，應與追繳並發還被害人國立中正大學│
 │    │                                                      │，如全部或一部無法追繳時，以其財產抵償之。                        │
 ├──┼───────────────────────────┼─────────────────────────────────┤
-│十八│犯罪事實十一(一)（即附表一編號三十七）                  │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，褫奪公│
-│    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />萬│
+│十八│犯罪事實十一(一)（即附表一編號三十七）                  │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑年捌月，褫奪公│
+│    │                                                      │權貳年，減為有期徒刑壹年拾月，褫奪公權壹年，犯罪所得財物新臺幣萬│
 │    │                                                      │元，應與追繳並發還被害人國立中正大學，如全部或一部無法追繳時，以其│
 │    │                                                      │財產抵償之。                                                      │
 ├──┼───────────────────────────┼─────────────────────────────────┤
 │十九│犯罪事實十一(二)（即附表一編號三十八）                  │辛○○犯公務員利用職務上機會詐取財物罪，處有期徒刑柒年陸月，褫奪公│
-│    │                                                      │權<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，犯罪所得財物新臺幣捌萬<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟伍佰<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾伍元，應與追繳並發還被害│
+│    │                                                      │權年，犯罪所得財物新臺幣捌萬仟伍佰拾伍元，應與追繳並發還被害│
 │    │                                                      │人國立中正大學，如全部或一部無法追繳時，以其財產抵償之。          │
 └──┴───────────────────────────┴─────────────────────────────────┘
-</pre>
-<!-- 原因：[少年或性侵害案件] -->
-<!-- 檔名：[D:\Judday\NOK\LAWCYD\CRIMINAL\9907\08\CYDM9978.00R] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000430&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c430%2c20100708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=430&jdate=990708&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c430%2c20100708%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=430&jdate=990708&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c430%2c20100708%2c1','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','430','990708','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CYD 臺灣嘉義地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳志揚">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳志揚">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]98,訴,430,20100708,1
+[*v_court*]CYD 臺灣嘉義地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]430
+[*jdate*]990708
+[*jcheck*]1

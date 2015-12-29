@@ -1,124 +1,19 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-104審交訴170</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ywHECHFlY/0CE9FgFOlXEeDSP3M=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e5%af%a9%e4%ba%a4%e8%a8%b4&selectedCrmno=000170&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%b0%e5%87%b1&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%b0%e5%87%b1&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%b0%e5%87%b1&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%b0%e5%87%b1&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=170&jdate=1041030&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=170&jdate=1041030&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e5%af%a9%e4%ba%a4%e8%a8%b4','170','1041030','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,審交訴,170</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041030</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">過失致死</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　104年度審交訴字第170號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=170&jdate=1041030&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e5%af%a9%e4%ba%a4%e8%a8%b4&selectedCrmno=000170&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=170&jdate=1041030&jcheck=1
+[*裁判字號*]104,審交訴,170
+[*裁判日期*]1041030
+[*裁判案由*]過失致死
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　104年度審交訴字第170號
 公　訴　人　臺灣新北地方法院檢察署檢察官
-被　　　告　<font color='red'>林新凱
-</font>上列被告因過失致死案件，經檢察官提起公訴（104年度偵字第
+被　　　告　林新凱
+上列被告因過失致死案件，經檢察官提起公訴（104年度偵字第
 10661號），本院判決如下：
     主  文
-<font color='red'>林新凱</font>從事業務之人，因業務上之過失致人於死，處有期徒刑陸
+林新凱從事業務之人，因業務上之過失致人於死，處有期徒刑陸
 月，如易科罰金，以新臺幣壹仟元折算壹日。緩刑貳年。
     事 實
-一、<font color='red'>林新凱</font>以飼養豬隻為業，並係以駕駛貨車裝、卸養豬廚餘為
+一、林新凱以飼養豬隻為業，並係以駕駛貨車裝、卸養豬廚餘為
     附隨業務之人。其於民國104年4月1日上午10時5分52秒，駕
     駛車牌號碼00-0000號自用小貨車，由新北市永和區環河東
     路2段(新店往板橋方向)迴轉(板橋往新店方向)至新北市○
@@ -128,13 +23,13 @@ function openwin(URL,arguments,width,height)
     現、無障礙物、視距良好，並無不能注意之情事，竟疏於注
     意及此，隨即換檔開始倒車，適林家弘騎乘車牌號碼000-00
     0 號普通重型機車，沿環河東路2 段( 板橋往新店方向) 行
-    駛至此，為閃避<font color='red'>林新凱</font>所駕駛之上開車輛，緊急煞車致使車
+    駛至此，為閃避林新凱所駕駛之上開車輛，緊急煞車致使車
     身失控倒地滑行，於同日上午10時10時5 分55秒，自後方撞
-    擊<font color='red'>林新凱</font>之上開車輛而人車倒地，林家弘因而受有創傷性腦
+    擊林新凱之上開車輛而人車倒地，林家弘因而受有創傷性腦
     出血併動脈瘤破裂、左手橈骨及左手尺骨骨折、頭部外傷、
     蜘蛛網膜下腔出血、胸壁挫傷、背挫傷、左側前臂挫傷併骨
     折、左側恥骨閉鎖性骨折、其他表淺損傷、磨損或擦傷等傷
-    害。嗣<font color='red'>林新凱</font>於肇事後未被有偵查犯罪職權之機關或公務員
+    害。嗣林新凱於肇事後未被有偵查犯罪職權之機關或公務員
     發覺前，即向據報到場處理之警員坦承肇事，而自願接受裁
     判。惟林家弘雖經送醫急救，仍於同年月4 日凌晨3 時55分
     ，因頭部外傷、顱腦損傷出血、頸椎脫臼錯位、延腦脊髓損
@@ -148,13 +43,13 @@ function openwin(URL,arguments,width,height)
     罪之陳述時，審判長得告知被告簡式審判程序之旨，並聽取
     當事人、代理人、辯護人及輔佐人之意見後，裁定進行簡式
     審判程序，刑事訴訟法第273 條之1 第1 項定有明文。經核
-    ，本件被告<font color='red'>林新凱</font>所犯係死刑、無期徒刑、最輕本刑為3年
+    ，本件被告林新凱所犯係死刑、無期徒刑、最輕本刑為3年
     以上有期徒刑以外之罪，其於準備程序中就被訴事實為有罪
     之陳述，經法官告知簡式審判程序之旨，並聽取公訴人、被
     告之意見後，本院爰依首揭規定，合議裁定由受命法官獨任
     進行簡式審判程序，合先敘明。
 二、認定犯罪事實所憑之證據及理由：
-(一)、上揭犯罪事實，業據被告<font color='red'>林新凱</font>於警詢、偵查、本院準備
+(一)、上揭犯罪事實，業據被告林新凱於警詢、偵查、本院準備
     程序及審理中均自白不諱，核與證人謝飴芳、陳永隆於警詢
     及偵查中之證述情節相符，並有新光吳火獅紀念醫院新乙診
     字第00000000P號乙種診斷證明書、病歷資料、新北市政府
@@ -225,86 +120,12 @@ function openwin(URL,arguments,width,height)
 因過失致人於死者，處2 年以下有期徒刑、拘役或2 千元以下罰
 金。
 從事業務之人，因業務上之過失犯前項之罪者，處5 年以下有期
-徒刑或拘役，得併科3 千元以下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10410\30\PCDM104AU.07M] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e5%af%a9%e4%ba%a4%e8%a8%b4&selectedCrmno=000170&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%b0%e5%87%b1&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%b0%e5%87%b1&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%b0%e5%87%b1&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%b0%e5%87%b1&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=170&jdate=1041030&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=170&jdate=1041030&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c170%2c20151030%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e5%af%a9%e4%ba%a4%e8%a8%b4','170','1041030','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林新凱">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林新凱">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+徒刑或拘役，得併科3 千元以下罰金。
+[*jrecno*]104,審交訴,170,20151030,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]審交訴
+[*jno*]170
+[*jdate*]1041030
+[*jcheck*]1

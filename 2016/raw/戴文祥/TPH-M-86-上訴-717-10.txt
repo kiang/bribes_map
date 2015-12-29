@@ -1,147 +1,40 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-86上訴717</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=086&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000717&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%88%b4%e6%96%87%e7%a5%a5&sdate=&edate=&page=&searchkw=%e6%88%b4%e6%96%87%e7%a5%a5&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%88%b4%e6%96%87%e7%a5%a5&sdate=&edate=&page=&searchkw=%e6%88%b4%e6%96%87%e7%a5%a5&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=86&jcase=%e4%b8%8a%e8%a8%b4&jno=717&jdate=911129&jcheck=10">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=86&jcase=%e4%b8%8a%e8%a8%b4&jno=717&jdate=911129&jcheck=10">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','86','%e4%b8%8a%e8%a8%b4','717','911129','10')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">86,上訴,717</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">911129</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　　　　　　　八十六年度上訴字第七一七號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=86&jcase=%e4%b8%8a%e8%a8%b4&jno=717&jdate=911129&jcheck=10
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=086&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000717&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=86&jcase=%e4%b8%8a%e8%a8%b4&jno=717&jdate=911129&jcheck=10
+[*裁判字號*]86,上訴,717
+[*裁判日期*]911129
+[*裁判案由*]貪污治罪條例等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　　　　　　　八十六年度上訴字第七一七號
 　　上　訴　人　臺灣新竹地方法院檢察署檢察官
 　　上 訴 人即
-　　被　　　告　亥○○　男三十<span  style="color:#e8e8e8">.</span>
+　　被　　　告　亥○○　男三十.
 　　上　訴　人
-　　即　被　告　天○○○女三十<span  style="color:#e8e8e8">.</span>
+　　即　被　告　天○○○女三十.
 　　右二人共同
 　　選任辯護人　於泰峰　律師
 　　上　訴　人
-　　即　被　告　辰○○　女五十<span  style="color:#e8e8e8">.</span>
+　　即　被　告　辰○○　女五十.
 　　選任辯護人　羅秉成　律師
 　　　　　　　　魏順華　律師
 　　　　　　　　詹惠芬　律師
-　　被　　　告　Ｇ○○　男四十<span  style="color:#e8e8e8">.</span>
+　　被　　　告　Ｇ○○　男四十.
 　　選任辯護人　陳景新　律師
-　　被　　　告　Ｆ○○　男四十<span  style="color:#e8e8e8">.</span>
+　　被　　　告　Ｆ○○　男四十.
 　　上　訴　人
-　　即　被　告　Ｚ○○　男六十<span  style="color:#e8e8e8">.</span>
+　　即　被　告　Ｚ○○　男六十.
 　　選任辯護人　鄧雲奎　律師
 　　上　訴　人
-　　即　被　告　Ｏ○○　男四十<span  style="color:#e8e8e8">.</span>
+　　即　被　告　Ｏ○○　男四十.
 　　上　訴　人
-　　即　被　告　酉○○　男六十<span  style="color:#e8e8e8">.</span>
+　　即　被　告　酉○○　男六十.
 　　選任辯護人　李文欽　律師
 　　上　訴　人
-　　即　被　告　辛○○　男　四<span  style="color:#e8e8e8">.</span>
+　　即　被　告　辛○○　男　四.
 　　上　訴　人
-　　即　被　告　玄○○　男　四<span  style="color:#e8e8e8">.</span>
+　　即　被　告　玄○○　男　四.
 　　選任辯護人　蘇清文　律師
 　　上　訴　人
-　　即　被　告　卯○○　男三十<span  style="color:#e8e8e8">.</span>
+　　即　被　告　卯○○　男三十.
 右上訴人因貪污治罪條例等案件，不服臺灣新竹地方法院八十四年度訴字第一○九一
 號，中華民國八十五年七月一日第一審判決（起訴案號：臺灣新竹地方法院檢察署八
 十三年度偵字第七六九四號、第八二○五號、第八一七二號、第八六九○號、第一○
@@ -821,7 +714,7 @@ function openwin(URL,arguments,width,height)
         行堪以認定。
       ㄏ被告亥○○出售工資表予之尚陽電器工程公司之負責人古兆青，供尚陽電器
         公司申報薪資逃漏稅捐，古兆青再將偽造工資表資料提供給坤星公司及坤明
-        公司再次申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6422A0A00000040.GIF" />)
+        公司再次申報薪資逃漏稅捐： (一─)
         依同案被告古兆青於法務部調查局新竹調查站供稱：伊利用亥○○賣給伊的
         人頭資料洪永昆等三人申報尚陽電器工程公司八十二年薪資所得，並利用亥
         ○○賣給伊的人頭資料丘偉光等十二人交給坤星營造公司申報八十一年薪資
@@ -866,7 +759,7 @@ function openwin(URL,arguments,width,height)
         稅捐，致附表十二所載之人可能須繳納所得稅，並影響稅捐機關課稅之正確
         性，足以生損害於公眾及他人，罪證明確，被告亥○○犯行堪以認定。
       ㄐ被告亥○○出售工資表予之邦城營造公司負責人鍾蕙如，供邦城營造公司申
-        報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6412A0A00000040.GIF" />)
+        報薪資逃漏稅捐： (一─)
         邦城公司負責人鍾蕙如於八十二年底、八十三年底向被告亥○○購買人頭身
         分證影本虛報八十二年度薪資三百零八萬元（八十三年度薪資二千萬元嗣後
         並未申報），並依被告亥○○指示偽填工資表資料、偽刻印章並蓋用於工資
@@ -906,7 +799,7 @@ function openwin(URL,arguments,width,height)
         之正確性，足以生損害於公眾及他人，罪證明確，被告亥○○犯行堪以認定
         。
       ㄑ被告亥○○出售工資表予元勝工程行之職員曾森付，提供予元勝工程行所承
-        包工程之榮福股份有限公司申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />)
+        包工程之榮福股份有限公司申報薪資逃漏稅捐： (一─)
         被告亥○○於法務部調查局新竹調查站供稱：曾森付大約是在八十一年底與
         我交易過一次，大約買了六十幾張左右（見法務部調查局新竹調查站第一卷
         第一二六頁反面），核與同案被告曾森付於法務部調查局新竹調查站供稱：
@@ -926,7 +819,7 @@ function openwin(URL,arguments,width,height)
         納所得稅，並影響稅捐機關課稅之正確性，足以生損害於公眾及他人，罪證
         明確，被告亥○○犯行堪以認定。
       ㄒ被告亥○○出售工資表予拓錚鐵材有限公司之負責人黃安國，供拓錚公司申
-        報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63F2A0A00000040.GIF" />)
+        報薪資逃漏稅捐： (一─)
         被告亥○○於法務部調查局新竹調查站供稱：黃安國大約在八十一年度與我
         交易過一次（見法務部調查局新竹調查站第三卷第一二六頁反面），核與同
         案被告黃安國於法務部調查局新竹調查站供稱：我在八十二年十一月間向亥
@@ -946,7 +839,7 @@ function openwin(URL,arguments,width,height)
         眾及他人，罪證明確，被告亥○○犯行堪以認定。
       ㄓ被告亥○○出售工資表予東建建築股份有限公司、大藍工程股份有限公司、
         建偉營造股份有限公司、永炬股份有限公司之承包商Ｒ○○，供東建公司、
-        大藍公司、建偉公司、永炬公司申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63E2A0A00000040.GIF" />)
+        大藍公司、建偉公司、永炬公司申報薪資逃漏稅捐： (一─)
         依同案被告Ｒ○○於法務部調查局新竹調查站所供：伊所有虛報人頭身分證
         、工資表，全部都是亥○○所提供，伊於八十一至八十三年間向亥○○大約
         買了四千萬元的人頭工資表，購買金額是依人頭工資表的總額百分之四．五
@@ -987,7 +880,7 @@ function openwin(URL,arguments,width,height)
         附表十六所載之人可能須繳納所得稅，並影響稅捐機關課稅之正確性，足以
         生損害於公眾及他人，罪證明確，被告亥○○犯行堪以認定。
       ㄔ被告亥○○出售工資表予南港土木包工業之負責人蔡福炎，供南港土木包工
-        業申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63D2A0A00000040.GIF" />)
+        業申報薪資逃漏稅捐： (一─)
         被告亥○○於法務部調查局新竹市調查站中供稱：南港機械有限公司此家是
         老板蔡先生跟我聯絡好後，我拿資料給會計，時間約在八十一年度及八十二
         年度間（見法務部調查局新竹市站調查筆錄第一卷第一二四頁），於偵查中
@@ -1014,7 +907,7 @@ function openwin(URL,arguments,width,height)
         捐，致附表十七所載之人可能須繳納所得稅，並影響稅捐機關課稅之正確性
         ，足以生損害於公眾及他人，罪證明確，被告亥○○犯行堪以認定。
       ㄕ被告亥○○購買偽造工資表予文太工程行負責人子○○，供文太工程行申報
-        薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63C2A0A00000040.GIF" />)
+        薪資逃漏稅捐： (一─)
         被告亥○○於法務部調查局新竹調查站所供：伊與子○○交易二次等語（見
         法務部調查局新竹調查站一卷第一百二十三頁至一百二十七頁），核與被告
         子○○於法務部調查局新竹調查站及偵審中供稱：亥○○是朋友丙○○介紹
@@ -1039,7 +932,7 @@ function openwin(URL,arguments,width,height)
         八所載之人可能須繳納所得稅，並影響稅捐機關課稅之正確性，足以生損害
         於公眾及他人，罪證明確，被告亥○○犯行堪以認定。
       ㄖ被告亥○○出售工資表予祥燕實業有限公司負責人吳燕乾，供祥燕實業公司
-        申報薪資逃漏稅捐：(一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63B2A0A00000040.GIF" />)
+        申報薪資逃漏稅捐：(一─)
         被告亥○○於法務部調查局新竹調查站所供：此家是右好實業康何屋介紹的
         ，八十一年底，我與負責人吳燕乾直接交易約有四十張左右（見法務部調查
         局新竹調查站第一卷第一百二十六頁反面），核與同案被告吳燕乾於法務部
@@ -1062,7 +955,7 @@ function openwin(URL,arguments,width,height)
         關課稅之正確性，足以生損害於公眾及他人，罪證明確，被告亥○○犯行堪
         以認定。
       ㄗ被告亥○○出售工資表予詮豐行之負責人謝惠傑，供詮豐行申報薪資逃漏稅
-        捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63A2A0A00000040.GIF" />)
+        捐： (一─)
         同案被告謝惠傑於法務部調查局新竹調查站供稱：大約在民國八十二年底，
         我確實有向亥○○購買身份證影本申報薪資所得，我記得買了十七個人頭身
         份證資料，印章是亥○○叫我自己刻的，用完就丟掉，我是以申報薪資總價
@@ -1086,7 +979,7 @@ function openwin(URL,arguments,width,height)
         稅捐，致附表二十所載之人可能須繳納所得稅，並影響稅捐機關課稅之正確
         性，足以生損害於公眾及他人，罪證明確，被告亥○○犯行堪以認定。
       ㄘ被告亥○○出售偽造工資表予久大土木包工業、久大採砂石行之負責人Ｑ○
-        ○，供久大土木包工業、久大採砂石行申報薪資逃漏稅捐：(一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6392A0A00000040.GIF" />)
+        ○，供久大土木包工業、久大採砂石行申報薪資逃漏稅捐：(一─)
         被告亥○○於法務部調查局新竹調查站供承：九大鋼筋企業公司，我直接與
         老闆Ｑ○○直接交易二次，時間在八十一年間、八十二年，每次四、五十張
         左右（見法務部調查局新竹調查站一卷第一百二十六頁反面），核與被告Ｑ
@@ -1130,7 +1023,7 @@ function openwin(URL,arguments,width,height)
         及他人，罪證明確，被告亥○○犯行堪以認定。
       ㄙ被告亥○○出售偽造工資表予世偉營造有限公司、聖偉營造有限公司負責人
         丑○○（業已死亡），供世偉營造有限公司、聖偉營造有限公司申報薪資逃
-        漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6382A0A00000040.GIF" />)
+        漏稅捐： (一─)
         被告亥○○於法務部調查局新竹調查站供稱：此家公司是老板丑○○跟我購
         買的，時間約在八十一年初及八十二年初，每次約在五十張以上（見法務部
         調查局新竹調查站第一卷第一二三頁反面），於偵查中供稱：我與他們公司
@@ -1156,7 +1049,7 @@ function openwin(URL,arguments,width,height)
         八十年度虛報如附表二十二所示陳坤堆等人請領薪資一百七十八萬零五百元
         ，八十一年度虛報如附表二十二所示謝進義等一○七人請領薪資一千三百三
         十八萬二千元（原審誤為一千零十四萬元），八十二年度虛報如附表二十二
-        所示<font color='red'>戴文祥</font>等三十八人請領薪資所得計五百一十六萬四千四百零五元（原審
+        所示戴文祥等三十八人請領薪資所得計五百一十六萬四千四百零五元（原審
         誤為四百九十萬元），計逃漏八十年度營利事業所得稅四十四萬五千一百二
         十五元，逃漏八十一年度營利事業所得稅三百三十四萬五千五百元（原審誤
         為二百五十三萬五千元），逃漏八十二年度營利事業所得稅一百二十四萬二
@@ -1169,8 +1062,8 @@ function openwin(URL,arguments,width,height)
         洵堪認定。
       ㄚ被告亥○○購買偽造工資表出售偽造工資表予祥光工程公司之承包商Ｍ○○
         、金侖公司之股東Ｍ○○，供祥光公司及金侖公司申報薪資逃漏稅捐： (一
-          ─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6372A0A00000040.GIF" />)
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />祥光公司部分：
+          ─)
+        祥光公司部分：
           被告Ｍ○○以祥光公司名義對外承包工程，除確有經手祥光公司之工資表
           之收取、審核及薪資發放業務，並將經手之工資表提供予祥光公司申報稅
           捐等情，業據被告Ｍ○○於原審及本院調查中供明在卷（見原審卷六第十
@@ -1196,7 +1089,7 @@ function openwin(URL,arguments,width,height)
           單、薪資、亥○○切結書可稽，是該偽造之工資表，應係被告Ｍ○○透過
           全美昌公司申○○向亥○○購買後，提供予祥光公司申報稅捐，罪證明確
           ，被告亥○○販售工資表，幫助逃漏稅捐之犯行，堪以認定。
-        <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />金侖公司部分：
+        金侖公司部分：
           依被告亥○○於偵查中供稱：「（問：有無賣金侖公司身分證？）沒有，
           但是我有交給丙○○或Ｔ○○去轉（見新竹地檢署八十四年偵字第七九一
           三號卷第六十五頁），參諸被告Ｘ○○於調查局中供稱：這是金侖建設楊
@@ -1220,7 +1113,7 @@ function openwin(URL,arguments,width,height)
           三第八四一０六二七三號函在卷可參，被告亥○○此部分之犯行，亦堪認
           定。
       ㄛ被告亥○○出售偽造工資表予榮竹營造公司之下包Ｗ○○，提供予榮竹營造
-        公司申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6362A0A00000040.GIF" />)
+        公司申報薪資逃漏稅捐： (一─)
         被告Ｎ○○於七十八年十一月二十九日起始任榮竹營造公司負責人職務，故
         榮竹公司逃漏七十九年度及八十年度營利事業所得稅申報期間（七十八、八
         十一年、八十二年未有漏稅，詳如后述）負責人為被告Ｎ○○，此有榮竹榮
@@ -1263,7 +1156,7 @@ function openwin(URL,arguments,width,height)
         ○販售造工資表予Ｗ○○供Ｖ○○提供予知情之被告Ｎ○○用於申報榮竹公
         司七十九、八十年度薪資逃漏稅捐之犯行，堪以認定。
       ㄜ被告亥○○出售偽造工資表予興隆土木包工業之承包商Ｔ○○，供興隆土木
-        包工業申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6352A0A00000040.GIF" />)
+        包工業申報薪資逃漏稅捐： (一─)
         被告Ｔ○○法務部調查局及本院調查中供稱：大約在八十二年底，伊經丙○
         ○介紹，向被告亥○○購買過一次的工資表，並交給興隆土木包工業，買多
         少忘記了，工資表是照金額的二分或三分算錢，：交付亥○○十萬元價款、
@@ -1293,7 +1186,7 @@ function openwin(URL,arguments,width,height)
         六萬九千五百元工資表可佐，則其所稱購買三百七十六萬九千五百元工資表
         乙節，顯係誤稱所致，併予敘明。
       ㄝ被告亥○○出售偽造工資表龍順興業公司、龍乘工業公司予負責人戊○○，
-        供龍順興業公司、龍乘工業公司申報薪資逃漏稅捐：(一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6342A0A00000040.GIF" />)
+        供龍順興業公司、龍乘工業公司申報薪資逃漏稅捐：(一─)
         訊據被告戊○○於偵審中對前揭犯行，均坦承不諱，並於本院審理中供稱：
         伊在七十九、八十、八十一年度的年底時向被告亥○○購買偽造完成的工資
         表，但其他的年度都沒有，伊是做工程的基礎安全工程，因作工程工資表有
@@ -1313,7 +1206,7 @@ function openwin(URL,arguments,width,height)
         附表二十六所載之人可能須繳納所得稅，並影響稅捐機關課稅之正確性，足
         以生損害於公眾及他人，罪證明確，被告亥○○此部分犯行堪以認定。
       ㄞ被告亥○○出售偽造工資表予右好實業有限公司之負責人康何屋，右好實業
-        有限公司幫助逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6332A0A00000040.GIF" />)
+        有限公司幫助逃漏稅捐： (一─)
         同案被告康何屋所使用以供右好實業申報稅之前揭工資表，係向被告亥○○
         所購買之事實，業據被告亥○○於法務部調查局新竹調查站供稱：右好實業
         公司伊直接與負責人康何屋交易，時間約在八十一年間（見法務部調查局新
@@ -1332,7 +1225,7 @@ function openwin(URL,arguments,width,height)
         有右好實業公司八十一年度工資表影本、八十一年臨時工資清冊、扣繳憑單
         扣案可憑。
       ㄟ被告亥○○出售偽造工資表予永興工程行之負責人黃永興，供永興工程行申
-        報薪資逃漏稅捐：(一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6322A0A00000040.GIF" />)
+        報薪資逃漏稅捐：(一─)
         依被告亥○○於法務部調查局中所供：伊在八十二年間與黃永興直接交易，
         大約有十張左右（見法務部調查局新竹調查站第一卷第一二七頁），核與同
         案被告黃永興於法務部調查局新竹調查站供稱：我向亥○○購買了十張人頭
@@ -1348,7 +1241,7 @@ function openwin(URL,arguments,width,height)
         本各十紙、支付亥○○七萬元之新竹區中小企業銀行支票存根乙紙扣案可憑
         （見外放證物編號第一一一號）。
       ㄠ被告亥○○出售偽造工資表予金福企業社之負責人Ｄ○○，供金福企業社申
-        報薪資逃漏稅捐：(一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6312A0A00000040.GIF" />)
+        報薪資逃漏稅捐：(一─)
         證人Ｄ○○於法務部調查局及原審中均供稱：大約八十二年十二月間我們企
         業社要申報薪資，乃主動與辰○○聯繫購買七百萬元員工薪資表，由辰○○
         整理好相關資料後，再打電話給我，約我在新竹市親自交給我，價格以百分
@@ -1371,7 +1264,7 @@ function openwin(URL,arguments,width,height)
         定。
       ㄡ被告亥○○出售偽造工資表予同昌建築有限公司、榮金工程有限公司、奇欣
         營造有限公司之承包商魏錦鏞，供同昌公司、榮金公司、奇欣公司申報薪資
-        逃漏稅捐：(一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6302A0A00000040.GIF" />)
+        逃漏稅捐：(一─)
         被告亥○○於法務部調查局新竹調查站中供稱：伊與魏錦鏞在八十二年間有
         交易過一次（見法務部調查局新竹調查站第一卷第一二五頁反面），於偵查
         中供稱：是魏錦鏞向伊買的，是八十一、八十二年間之事（見新竹地檢署八
@@ -1415,7 +1308,7 @@ function openwin(URL,arguments,width,height)
         資料、奇欣、同昌出事人頭扣繳憑單、信函資料一疊八十二、八十三年工資
         表可憑。
       ㄢ被告亥○○出售偽造工資表予財星藝品社之負責人蔡進財，供財星藝品社申
-        報薪資逃漏稅捐：(一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62F2A0A00000040.GIF" />)
+        報薪資逃漏稅捐：(一─)
         被告亥○○於法務部調查局新竹調查站中供稱：財星公司是我與負責人蔡進
         財交易，時間約在八十一年間，共拿了二十張左右（見法務部調查局新竹市
         調查站筆錄第一卷第一二五頁），於偵查中供稱：財星公司蔡進財有向我買
@@ -1435,7 +1328,7 @@ function openwin(URL,arguments,width,height)
         （見外放證物編號第一六八、一六九號），被告亥○○此部分之犯行，堪予
         認定。
       ㄣ被告亥○○出售偽造工資表予坡地實業有限公司之負責人Ｊ○○，供坡地公
-        司申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62E2A0A00000040.GIF" />)
+        司申報薪資逃漏稅捐： (一─)
         被告亥○○於法務部調查局新竹調查站中供稱：Ｊ○○在八十二年度有向我
         直接購買三十幾張人頭（見法務部調查局新竹調查站筆錄第一卷第一二六五
         頁反面），於偵查中供稱：坡地實業有限公司Ｊ○○八十二年度有向我買人
@@ -1455,7 +1348,7 @@ function openwin(URL,arguments,width,height)
         二七三號函、九十一年六月三日財北國稅審三字第○九一○○三二八四七號
         函各一紙在卷為憑。
       ㄤ被告亥○○出售偽造工資表予金佳旻公司Ｃ○○○，供金佳旻公司申報薪資
-        逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62D2A0A00000040.GIF" />)
+        逃漏稅捐： (一─)
         依證人Ｃ○○○於法務部調查局及原審中均證稱：八十三年底，辰○○到我
         金佳旻公司問我需要買工資表否，我為減輕稅負就以工資表百分之五代價買
         了六百萬元（實際數額為六百四十八萬九千五百元）人頭工資表，並把現金
@@ -1491,7 +1384,7 @@ function openwin(URL,arguments,width,height)
         度營利事業所得稅結算稅款繳款書附卷可稽，堪認金佳旻公司八十三年度未
         有逃漏稅捐之情形。
       ㄥ被告亥○○出售偽造工資表予高剛屋鋼品工業、三晏企業公司之負責人高福
-        山，供高剛屋鋼品工業、三晏企業公司申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62C2A0A00000040.GIF" />)
+        山，供高剛屋鋼品工業、三晏企業公司申報薪資逃漏稅捐： (一─)
         依被告亥○○於法務部調查局新竹調查站供稱：此家公司是老板高福山跟我
         聯絡後，叫我資料直接交給該公司內的高小姐收，我大約交了二次，每次約
         二十張以上，時間為八十一年度及八十二年度（見法務部調查局新竹調查站
@@ -1530,7 +1423,7 @@ function openwin(URL,arguments,width,height)
         每月一枚，共一九二枚，三晏公司部分阮雅惠等六人每月一枚，共七十二枚
         ）（見外放證物編號第一五五號至一五七號、一五九號）扣案可憑。
       ㄦ被告亥○○出售偽造工資表予天利營造公司之負責人葉德川，供天利營造公
-        司申報薪資逃漏稅捐： (一─<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F62B2A0A00000040.GIF" />)
+        司申報薪資逃漏稅捐： (一─)
         被告亥○○於法務部調查局中供稱：此家公司我與公司負責人葉德川及公司
         一依陳姓職員洽談後，再將人頭資料交給陳姓職員，時間大約在八十二年間
         （見法務部調查局薪竹市調查站筆錄第一卷第一二七頁），於偵查中供稱：
@@ -1655,7 +1548,7 @@ function openwin(URL,arguments,width,height)
       告辰○○對亥○○所提供販售之身分證資料及工資表係偽造不實，實難諉為不
       知，被告辰○○辯稱不知工資表為偽造，尚無足採。
     (3)辰○○出售亥○○所偽造完成之工資表之對象：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />金佳旻鐵材股份有公司負責人Ｃ○○○
+      金佳旻鐵材股份有公司負責人Ｃ○○○
         被告辰○○於本院審理中供稱：因為被告亥○○要跟我借錢，我說沒有，他
         說很急要借錢，叫我去問，看有沒有人要工資表，我只是幫他跑腿而已。我
         拿給Ｃ○○○的工資表，是我拿到金佳旻公司給他的。他們有將三十萬元款
@@ -1687,7 +1580,7 @@ function openwin(URL,arguments,width,height)
         及八十三年度營利事業所得稅結算稅款繳款書附卷可稽，堪認金佳旻公司八
         十三年度未有逃漏稅捐之情形。是被告辰○○行使偽造私文書工資表之犯行
         ，堪予認定。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />金福企業社負責人Ｄ○○
+      金福企業社負責人Ｄ○○
         證人Ｄ○○於法務部調查局及原審中均供稱：大約八十二年十二月間我們企
         業社要申報薪資，乃主動與辰○○聯繫購買七百萬元員工薪資表，由辰○○
         整理好相關資料後，再打電話給我，約我在新竹市親自交給我，價格以百分
@@ -1707,7 +1600,7 @@ function openwin(URL,arguments,width,height)
         七三號函附卷可稽，並有辰○○書立之切結書及身分證影本五十五紙扣案可
         稽（見外放證物編號第一六六、一六七號），是被告辰○○販售被告亥○○
         提供之偽造工資表給金福企業社申報薪資逃漏稅捐之犯行，洵堪認定。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />新盛企業社公司負責人Ｓ○○部分係Ｄ○○洽購轉交：
+      新盛企業社公司負責人Ｓ○○部分係Ｄ○○洽購轉交：
         依被告Ｓ○○於法務部調查局新竹調查站供稱：伊因為向辰○○買人頭身分
         證才認識，彼此見過二次，大約在八十二年十二月間透過金福企業社負責人
         之妻Ｄ○○介紹伊向辰○○買人頭身分證才認識，伊八十二年度向辰○○購
@@ -1985,7 +1878,7 @@ function openwin(URL,arguments,width,height)
       印文蓋用於工資表上，再由被告Ｚ○○販售予有需要之公司申報薪資逃漏稅捐
       ，被告Ｚ○○行使偽造私文書工資表，幫助逃漏稅捐之犯行，已臻明確。
     (2)被告Ｚ○○販售工資表之對象、金額及逃漏稅捐數額之認定：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />被告Ｚ○○提供ａ○○偽造之工資表販售Ｂ○○、ｃ○○予供新億營造有限
+      被告Ｚ○○提供ａ○○偽造之工資表販售Ｂ○○、ｃ○○予供新億營造有限
         公司申報七十九、八十、八十一、八十二年度薪資、供立國土木包工業申報
         八十年、八十一年度、八十二年度薪資逃漏稅捐：
       Ａ被告Ｚ○○於偵查中供稱：是ａ○○利用我賣給新億公司老闆娘Ｂ○○，我
@@ -2072,7 +1965,7 @@ function openwin(URL,arguments,width,height)
         三號函附卷足稽，被告Ｚ○○行使該偽造之工資表私文書，致附表三十七、
         三十八所載之人可能須繳納所得稅，並影響稅捐機關課稅之正確性，足以生
         損害於公眾及他人，罪證明確，被告Ｚ○○前揭犯行堪以認定。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />被告Ｚ○○提供ａ○○偽造之工資表販售予未○、宙○○、Ｍ○○、林魁、
+      被告Ｚ○○提供ａ○○偽造之工資表販售予未○、宙○○、Ｍ○○、林魁、
         林春輝、Ｎ○○、謝正道等人供全美昌公司申報七十八年至八十二年各年度
         之薪資逃漏稅捐：
       Ａ被告Ｚ○○於法務部調查局新竹調查站供稱：伊確實有將ａ○○交給伊的人
@@ -2182,7 +2075,7 @@ function openwin(URL,arguments,width,height)
         稅局新竹市分局九十一年六月七日北區國稅竹市審字第○九一○○○二九二
         四號函在卷可據。被告Ｚ○○行使該偽造之工資表私文書，幫助全美昌公司
         逃漏七十八年度至八十二年度如前揭數額稅捐之犯行，堪予認定。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />被告Ｚ○○復承上開犯意，於八十一年及八十二年間，承包明進企業社及全
+      被告Ｚ○○復承上開犯意，於八十一年及八十二年間，承包明進企業社及全
         城營造公司工程，持ａ○○所偽造黃玉嬌請領八十一年度薪資六萬六千元之
         工資表，孫宗慧請領八十二年度薪資十二萬五千元之工資表，分別交由明進
         企業社及全城營造有限公司製作八十一年度、八十二年度扣繳憑單，持以申
@@ -2744,7 +2637,7 @@ function openwin(URL,arguments,width,height)
       十一年年間偽造之工資表亦係被告Ｍ○○向被告亥○○購買所提供，原審認被
       告Ｍ○○、Ｔ○○七十九年至八十一年間曾向被告亥○○購買偽造之工資表，
       供祥光公司申報稅捐，亦有違誤。
-（八）又原判決附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6402A0A00000040.GIF" />部分，將元勝工程行曾森付購買偽造工資表，提供給榮
+（八）又原判決附表一編號部分，將元勝工程行曾森付購買偽造工資表，提供給榮
       福公司申報薪資逃漏稅捐之事實，誤列入壬○○部分之項下，認定事實，顯有
       違誤。
 （九）被告Ｆ○○偽造潘萬課等人工資表交給不知情之楊春成轉交予亦不知情之同順
@@ -3122,8 +3015,8 @@ function openwin(URL,arguments,width,height)
       關買賣人頭工資表涉案人之供述為據；有關起訴書附表三編號２７所示，玄○
       ○被訴偽造印章並以該印章蓋用偽造請領工資一百五十六萬元之工資表出售給
       吉佳砂石股份有限公司負責人地○○申報八十一年度稅捐部分，則以地○○供
-      認，及吉佳公司虛報薪資清冊、身分證影印本資料、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5FD2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5FC2A0A00000040.GIF" />總分類帳各一帳及
-      銀行往來資料、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5FC2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5FB2A0A00000040.GIF" />年度扣繳憑單及薪資印領清冊共四本、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5FB2A0A00000040.GIF" />年度伙食加班
+      認，及吉佳公司虛報薪資清冊、身分證影印本資料、、總分類帳各一帳及
+      銀行往來資料、、年度扣繳憑單及薪資印領清冊共四本、年度伙食加班
       清冊一本為其論據。
 四、上訴人即被告天○○○及玄○○之供述及辯解：
     被告天○○○、玄○○均堅詞否認上開犯行，被告天○○○辯稱關於被告亥○○
@@ -3376,7 +3269,7 @@ function openwin(URL,arguments,width,height)
       逃漏八十一年度營利事業所得稅四十一萬零五十元三十九萬元（起訴書載為三
       十九萬元）部分予以審認，合先敘明。
     (2)吉佳砂石股份有限公司負責人地○○購買工資表之對象及來源：
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />吉佳砂石股份有限公司負責人地○○購買工資表之對象非被告玄○○：
+      吉佳砂石股份有限公司負責人地○○購買工資表之對象非被告玄○○：
         同案被告地○○雖於法務部調查局新竹調查站供稱：「（問：你是否有向他
         人購買人頭身份證工資表虛報薪資？）我大約在八十一年間，有向玄○○購
         買一百五十六萬人頭工資表，共計十三張（十四張？）人頭身份證、十三枚
@@ -3430,7 +3323,7 @@ function openwin(URL,arguments,width,height)
         十六日審判筆錄），惟證人丁○○、己○○所為，均涉嫌行使偽造文書及幫
         助逃漏稅捐而有被追訴之虞，自無真實陳述之期待可能，證人丁○○、己○
         ○所證尚不足以影響上開事實之認定。
-      <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />吉佳砂石公司負責人地○○所購工資表來源應係己○○：被告玄○○：我有
+      吉佳砂石公司負責人地○○所購工資表來源應係己○○：被告玄○○：我有
         在工資表上面簽名，是「阿龍」交給我的，當時我去作「阿龍」（阿隆，即
         己○○）在新竹市的水溝工程，我有做十多天的修建排水溝的砌牆工程，有
         去做完工，一天薪水二千五百元，我有工作十天，領薪水二萬五千元。己○
@@ -3582,86 +3475,11 @@ function openwin(URL,arguments,width,height)
 稅捐稽徵法第四十三條
 教唆或幫助犯第四十一條或第四十二條之罪者，處二年以下有期徒刑、拘役、或科一
 千元以下罰金。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\judday\OK\LAWTPH\CRIMINAL\9112\16\TPHM91CG.016] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[10]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=086&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000717&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%88%b4%e6%96%87%e7%a5%a5&sdate=&edate=&page=&searchkw=%e6%88%b4%e6%96%87%e7%a5%a5&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%88%b4%e6%96%87%e7%a5%a5&sdate=&edate=&page=&searchkw=%e6%88%b4%e6%96%87%e7%a5%a5&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=86&jcase=%e4%b8%8a%e8%a8%b4&jno=717&jdate=911129&jcheck=10">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=86&jcase=%e4%b8%8a%e8%a8%b4&jno=717&jdate=911129&jcheck=10">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('86%2c%e4%b8%8a%e8%a8%b4%2c717%2c20021129%2c10','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','86','%e4%b8%8a%e8%a8%b4','717','911129','10')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="戴文祥">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="戴文祥">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]86,上訴,717,20021129,10
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]86
+[*jcase*]上訴
+[*jno*]717
+[*jdate*]911129
+[*jcheck*]10

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-101訴28</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000028&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c28%2c20131206%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=28&jdate=1021206&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c28%2c20131206%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=28&jdate=1021206&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c28%2c20131206%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','28','1021206','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,28</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021206</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反藥事法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　 101年度訴字第28號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c28%2c20131206%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=28&jdate=1021206&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000028&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c28%2c20131206%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=28&jdate=1021206&jcheck=1
+[*裁判字號*]101,訴,28
+[*裁判日期*]1021206
+[*裁判案由*]違反藥事法等
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　 101年度訴字第28號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　侯葦帆（原名：侯懿真）
 選任辯護人　林永發律師
@@ -131,14 +24,14 @@ function openwin(URL,arguments,width,height)
 陳貞惠明知為禁藥而販賣，處有期徒刑壹年。
 侯葦帆犯如附表一所示之罪，各處如附表一所示之刑；又共同未
 取得合法醫師資格，擅自執行醫療業務，處有期徒刑壹年陸月。
-應執行有期徒刑肆年陸月，扣案之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑壹盒（含針
+應執行有期徒刑肆年陸月，扣案之「生命泉」針劑壹盒（含針
 劑參拾支、仿單壹份）及強之体膠囊說明書壹份，均沒收。
 蘇素珍共同未取得合法醫師資格，擅自執行醫療業務，處有期徒
 刑陸月，如易科罰金，以新臺幣壹仟元折算壹日。
 陳宥安、陳聖雄均無罪。
     事  實
-一、陳貞惠明知「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉－活細胞療法」人體胎盤素萃取物注
-    射針劑（下稱「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑）及「EMEK PLACENTA MULT
+一、陳貞惠明知「生命泉－活細胞療法」人體胎盤素萃取物注
+    射針劑（下稱「生命泉」針劑）及「EMEK PLACENTA MULT
     IPEP TIDES FACTOR、PLACENTA FREEZING AND DRYING POWD
     ER」針劑（下稱「EMEK依美依康」針劑）共約二十盒，係自
     真實姓名、年籍均不詳之香港友人「李思敏」處取得，而係
@@ -146,9 +39,9 @@ function openwin(URL,arguments,width,height)
     ，為圖販售禁藥之利益，竟於民國九十八年五月前某日，以
     合計約新臺幣（下同）九十萬元之價格，在侯葦帆位於臺南
     市○○○街○○○巷○○○號住處，販售予侯葦帆。侯葦帆
-    取得上開藥品，復自不詳之人處取得「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体－健康胎盤提
-    取物」膠囊（下稱「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊）後，明知前開「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />
-    泉」針劑、「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊及「EMEK依美依康」針劑之仿單
+    取得上開藥品，復自不詳之人處取得「強体－健康胎盤提
+    取物」膠囊（下稱「強体」膠囊）後，明知前開「生命
+    泉」針劑、「強体」膠囊及「EMEK依美依康」針劑之仿單
     、說明書或外包裝上已載明藥物成分係人體胎盤素，而非含
     有幹細胞之藥物，竟基於意圖為自己不法所有，及販賣禁藥
     牟利之犯意，於附表一所示時間，在其上開住處，向附表一
@@ -158,19 +51,19 @@ function openwin(URL,arguments,width,height)
     有治療糖尿病、癌症、不孕症及肺病之療效」、「幹細胞針
     劑可治療帕金森症、去斑美白、治療鼻子過敏」云云，使附
     表一所示之人不疑有他，誤以為侯葦帆所販售之前揭「生命
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊均係含有
+    泉」、「EMEK依美依康」針劑及「強体」膠囊均係含有
     幹細胞之藥物，具有神奇療效，而陷於錯誤，交付如附表一
-    所示金額予侯葦帆購買實際上不具任何醫療效果之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />
-    泉」、「EMEK依美依康」針劑及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊。
+    所示金額予侯葦帆購買實際上不具任何醫療效果之「生命
+    泉」、「EMEK依美依康」針劑及「強体」膠囊。
 二、侯葦帆明知其未取得合法之醫師執照，竟於附表二所示時間
     ，在其前開住處內，以每次一千元之代價，委由與其有違反
     醫師法犯意聯絡之蘇素珍及其他不詳姓名年籍之成年人，為
-    如附表二所示之施打對象多次注射「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依
+    如附表二所示之施打對象多次注射「生命泉」、「EMEK依
     美依康」胎盤素及不詳針劑。嗣李深木、林神棋、歐陽妙貞
     察覺其等所施打之針劑並無療效，且來源係中國大陸，侯葦
     帆與天一製藥公司亦無任何關係，始知受騙，而報警處理，
     經臺灣臺南地方法院檢察署檢察事務官持本院核發之搜索票
-    至侯葦帆上開住處搜索，扣得「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑一盒（含針
+    至侯葦帆上開住處搜索，扣得「生命泉」針劑一盒（含針
     劑三十支、仿單一份）、強之体膠囊說明書一份，始查悉上
     情。
 三、案經李深木、林神棋、歐陽妙貞訴由臺南市政府警察局第二
@@ -205,14 +98,14 @@ function openwin(URL,arguments,width,height)
     因非檢警違背法定程序取得之證據，依法自應有證據能力。
 貳、實體部分：
 一、被告陳貞惠部分：
-(一)訊據被告陳貞惠固不否認前揭「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依
+(一)訊據被告陳貞惠固不否認前揭「生命泉」、「EMEK依美依
     康」針劑，係自香港友人「李思敏」處取得，並有將上開針
     劑交付予同案被告侯葦帆，同案被告侯葦帆前後共給付其約
     九十萬元價金之事實，惟否認有何違反藥事法之犯行，辯稱
     ：伊沒有販售，同案被告侯葦帆說他們要做醫學美容，要拿
     去試用云云（見本院卷三第四十七頁反面）；被告陳貞惠之
     選任辯護人則為其辯護稱：檢察官起訴事實既謂被告陳貞惠
-    交付予同案被告侯葦帆之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」
+    交付予同案被告侯葦帆之「生命泉」、「EMEK依美依康」
     二種物品均係「不具療效之成分不明物品」，明顯與藥事法
     所規範「禁藥」之定義有違；行政院衛生署食品藥物管理局
     函覆系爭物品是否屬於藥品列管，依據案內產品所附資料無
@@ -233,7 +126,7 @@ function openwin(URL,arguments,width,height)
     侯葦帆處取回尚未兌現之票據，被告陳貞惠係被動收受同案
     被告侯葦帆所交付之金錢，渠等間之型態顯與一般交易之常
     態有違，足認被告陳貞惠並無營利之故意云云。
-(二)惟查，前揭「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑，係被告
+(二)惟查，前揭「生命泉」、「EMEK依美依康」針劑，係被告
     陳貞惠自香港友人「李思敏」處取得，嗣後被告陳貞惠將上
     揭針劑交付予同案被告侯葦帆，同案被告侯葦帆前後共計交
     付被告陳貞惠九十萬元之事實，迭據被告陳貞惠於偵查及本
@@ -242,16 +135,16 @@ function openwin(URL,arguments,width,height)
     陳貞惠所交付，且臺灣臺南地方法院檢察署事務官於一○○
     年一月十一日持本院核發之搜索票前往同案被告侯葦帆位在
     臺南市中西區○○○街○○○巷○○○號住處搜索時，當場
-    扣得「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑一盒乙節，亦有本院一○○年聲搜字
+    扣得「生命泉」針劑一盒乙節，亦有本院一○○年聲搜字
     第一一號搜索票二紙、臺灣臺南地方法院檢察署扣押筆錄、
     扣押物品目錄表、扣押物品清單各一份及扣案物品照片四張
     在卷可資佐證（見偵卷二第七十三至七十九頁、第九十八頁
-    ），並有「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑一盒及告訴人歐陽妙貞提出之「
+    ），並有「生命泉」針劑一盒及告訴人歐陽妙貞提出之「
     EMEK依美依康」針劑空瓶二瓶扣案足憑，此部分之事證堪以
     認定。
-(三)而上述於同案被告侯葦帆住處扣得之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑，經
+(三)而上述於同案被告侯葦帆住處扣得之「生命泉」針劑，經
     送往行政院衛生署食品藥物管理局檢驗，結果認：「本案『
-    人體胎盤萃取物（檢體外盒名稱：生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉－活細胞療法）
+    人體胎盤萃取物（檢體外盒名稱：生命泉－活細胞療法）
     』檢體，依其外包裝標示，該品項為人體胎盤水解物之注射
     劑，應以藥品列管」等語，有該局一○○年三月二十三日Ｆ
     ＤＡ研字第○○○○○○○○○○號函一份附卷可查（見偵
@@ -273,7 +166,7 @@ function openwin(URL,arguments,width,height)
     品所附資料無法據以判定」等語（見本院卷二第六十二頁、
     一二○頁）。然查，系爭「EMEK依美依康」針劑空瓶上，已
     明白標示「PLACENTA（即胎盤）」之字樣，被告陳貞惠復於
-    本院審理中供述：本案告訴人施打的「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK
+    本院審理中供述：本案告訴人施打的「生命泉」、「EMEK
     依美依康」針劑是伊提供給同案被告侯葦帆，伊有明確跟同
     案被告侯葦帆說這個是胎盤素針劑，因為它上面有寫胎盤素
     等語明確（見本院卷二第三十二頁反面、第三十三頁反面）
@@ -299,7 +192,7 @@ function openwin(URL,arguments,width,height)
     法所稱之藥品無訛，行政院衛生署食品藥物管理局表示依據
     案內產品所附資料無法據以判定是否屬藥品等語，為本院所
     不採。又被告陳貞惠供稱上開針劑係自一名自稱「李思敏」
-    之香港友人處取得，可認前述「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依
+    之香港友人處取得，可認前述「生命泉」、「EMEK依美依
     康」針劑，確屬藥事法第二十二條第一項第二款規定未經核
     准不得擅自輸入之禁藥。
 (五)被告陳貞惠雖辯稱其並無販賣之行為，另選任辯護人則以被
@@ -319,31 +212,31 @@ function openwin(URL,arguments,width,height)
     葦帆收取對價，主觀上顯有自系爭針劑取償，以彌補自身財
     產損害之營利意圖甚明，是被告陳貞惠此部分所辯，亦難認
     為可採。
-(六)公訴意旨雖認為本案系爭之「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊亦為被告陳貞惠
+(六)公訴意旨雖認為本案系爭之「強体」膠囊亦為被告陳貞惠
     販售予同案被告侯葦帆。經查，同案被告侯葦帆雖於本院審
-    理時表示「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊係被告陳貞惠所交付（見本院卷一
+    理時表示「強体」膠囊係被告陳貞惠所交付（見本院卷一
     第三十六頁反面、本院卷三第四十六頁）；然其於偵查中，
-    僅表示「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑是被告陳貞惠
-    賣給伊的，而始終辯稱沒有看過「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊云云（見偵
+    僅表示「生命泉」、「EMEK依美依康」針劑是被告陳貞惠
+    賣給伊的，而始終辯稱沒有看過「強体」膠囊云云（見偵
     卷二第一四五頁、偵卷三第五十二頁、第一四五頁、第一四
     七頁、第二○五頁、第二○七頁），則同案被告侯葦帆嗣後
-    於本院審理中改稱「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊之來源亦係被告陳貞惠乙
+    於本院審理中改稱「強体」膠囊之來源亦係被告陳貞惠乙
     節是否可採，即非無疑。證人歐陽妙貞固曾於九十九年十二
     月二十三日偵查中證稱：伊沒有買庭呈之膠囊，但被告陳貞
     惠有給伊膠囊等語（見偵卷二第五十五頁），然其於嗣後偵
     查時，則證述：其提出之墨黑色膠囊是同案被告侯葦帆拿出
     來的，但是伊沒有買；復於本院審理中具結證述：偵卷二第
-    七十頁照片中的膠囊（即「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊）好像是同案被告
+    七十頁照片中的膠囊（即「強体」膠囊）好像是同案被告
     侯葦帆拿給伊的，不是伊買的等語（見偵卷三第一四二頁、
     本院卷二第八十七頁），執此，證人歐陽妙貞就有關系爭「
-    強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊究竟係自何處取得，所證述之內容亦有前後不
+    強体」膠囊究竟係自何處取得，所證述之內容亦有前後不
     一致之情形，而被告陳貞惠迭自警、偵訊，以迄本院審理時
-    ，均堅決否認扣案之「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊亦係其交付予同案被告
+    ，均堅決否認扣案之「強体」膠囊亦係其交付予同案被告
     侯葦帆等情，自應為有利於被告陳貞惠之認定，附此敘明。
 (七)綜上所述，本案事證明確，被告陳貞惠前揭違反藥事法之犯
     行洵堪認定，應予依法論科。
 二、被告侯葦帆部分違反藥事法及詐欺取財部分：
-(一)訊據被告侯葦帆固供承自同案被告陳貞惠處取得「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉
+(一)訊據被告侯葦帆固供承自同案被告陳貞惠處取得「生命泉
     」、「EMEK依美依康」針劑，及附表一所示之人確有在其前
     揭住處施打上開針劑之事實，惟矢口否認有何詐欺及販賣禁
     藥之犯行，辯稱：系爭針劑、膠囊均是自同案被告陳貞惠處
@@ -399,7 +292,7 @@ function openwin(URL,arguments,width,height)
     受騙；被告侯葦帆鼓勵伊打幹細胞時，從來沒有提過貨源是
     天一藥廠以外的地方；被告蘇素珍替伊施打針劑的時間是九
     十八年十一月底到九十九年二月初左右，打完一次之後要隔
-    二週；「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊是九十八年十二月初買的，金額是七
+    二週；「強体」膠囊是九十八年十二月初買的，金額是七
     十二萬元，針劑部分一人份是一百二十萬元等語（見本院卷
     一第一三二頁反面至一三三頁、第一三四頁、第一三六頁、
     第一三八頁、第一四○頁反面、第一四二頁）。
@@ -423,7 +316,7 @@ function openwin(URL,arguments,width,height)
     在；被告侯葦帆跟伊說施打針劑人會比較年輕、身體會比較
     好，因為伊和小孩都有心臟先天性的疾病；伊施打時間是九
     十八年底開始，一星期或二星期打一次，就是有一個週期性
-    打一次，伊第一次是打「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」，第二次才換成「EMEK
+    打一次，伊第一次是打「生命泉」，第二次才換成「EMEK
     依美依康」等語（見本院卷一第一四七至一四八頁、第一五
     ○頁反面至一五二頁、第一五六至一五七頁）。
   3.證人歐陽妙貞於警詢中證述：九十八年三月間經友人介紹認
@@ -501,7 +394,7 @@ function openwin(URL,arguments,width,height)
     利潤很高，可以做投資，那時伊只單純想讓父親來施打，沒
     有跟她合作等語（見偵卷三第五十九頁、第六十二頁、第一
     五七至一五九頁）；於本院審理中證述：伊有向被告侯葦帆
-    購買「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」胎盤素針劑，伊是帶父親去施打，打過二
+    購買「生命泉」胎盤素針劑，伊是帶父親去施打，打過二
     次，都是在被告侯葦帆家中施打，被告侯葦帆沒有向伊推銷
     這些針劑，因為被告侯葦帆說是幹細胞，伊父親是帕金森症
     ，所以伊想說讓伊父親施打看看是否有療效，被告侯葦帆說
@@ -543,17 +436,17 @@ function openwin(URL,arguments,width,height)
     見偵卷三第一○三至一○五頁、第一○九頁）；於本院審理
     中證述：伊一次向被告侯葦帆購買五劑針劑，替伊及兒子施
     打的人是被告蘇素珍，施打地點在被告侯葦帆住處，伊兒子
-    施打的針劑是「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑，被告侯葦帆說她認識市議
+    施打的針劑是「生命泉」針劑，被告侯葦帆說她認識市議
     員，在安平有一個ＢＯＴ案，與跟大陸旅遊結合，要用一個
     很大的醫美診所，希望伊能幫她，被告侯葦帆所謂的醫學美
     容不是指針劑，因為伊的專業是在美容的部分，被告侯葦帆
     口頭說要請伊當儲備幹部，伊不確定自己施打的針劑是否與
     伊兒子相同，因為已經抽出來了，伊不知道是什麼等語（見
     本院卷二第二十三頁反面至二十五頁）。
- 8. 上揭證人證述被告侯葦帆向其等表示「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK
-    依美依康」針劑、「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊係含有幹細胞之針劑、膠
-    囊，並因此向被告侯葦帆購買「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依
-    康」針劑、「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊，供自己或朋友、家人施打、使
+ 8. 上揭證人證述被告侯葦帆向其等表示「生命泉」、「EMEK
+    依美依康」針劑、「強体」膠囊係含有幹細胞之針劑、膠
+    囊，並因此向被告侯葦帆購買「生命泉」、「EMEK依美依
+    康」針劑、「強体」膠囊，供自己或朋友、家人施打、使
     用，並未與被告侯葦帆因合作經營醫學美容而由被告侯葦帆
     代為購買系爭針劑、膠囊來試用之基本犯罪事實，前後相同
     且互核一致，復參酌被告侯葦帆於本院審理中供承與上揭證
@@ -569,7 +462,7 @@ function openwin(URL,arguments,width,height)
     帆購買系爭針劑、膠囊之內容應屬事實，而可採信。
 (三)被告侯葦帆雖一再辯稱係與證人李深木、黃詠宸、林神祺、
     歐陽妙貞等人一起合作經營醫學美容，才會各自出資購買「
-    生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊各自
+    生命泉」、「EMEK依美依康」針劑及「強体」膠囊各自
     使用，伊僅是代購及代墊款項，並無販賣上開針劑、膠囊予
     如附表一所示之人云云。然被告侯葦帆就有關系爭針劑、膠
     囊之來源，於第一次警詢中表示「幹細胞注射針劑本來就是
@@ -695,23 +588,23 @@ function openwin(URL,arguments,width,height)
     葦帆僅以同案被告陳聖雄、陳貞惠曾於事後向告訴人李深木
     、林神祺宣稱擁有系爭針劑之獨家代理權並吹噓幹細胞療效
     ，即否認自己亦涉有前揭犯行，委無足取。
-(六)被告侯葦帆並不否認確有交付「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依
-    康」針劑及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊予如附表一所示之人，並據證人
+(六)被告侯葦帆並不否認確有交付「生命泉」、「EMEK依美依
+    康」針劑及「強体」膠囊予如附表一所示之人，並據證人
     李深木提出「EMEK依美依康」針劑之空瓶照片一張附卷（見
     偵卷二第五十七頁）；另經證人歐陽妙貞提出「EMEK依美依
-    康」空瓶二瓶及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊二十顆扣案可證，有扣押物
+    康」空瓶二瓶及「強体」膠囊二十顆扣案可證，有扣押物
     品清單一紙及照片六張在卷可稽（見偵卷二第六十八至七十
     一頁）；另臺灣臺南地方法院檢察署檢察事務官持本院所核
     發之搜索票於一○○年一月十一日，前往被告侯葦帆位在臺
     南市中西區○○○街○○○巷○○○號住處搜索，確實扣得
-    「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑一盒（含針劑三十支、仿單一份）、強之
+    「生命泉」針劑一盒（含針劑三十支、仿單一份）、強之
     体膠囊說明書一份，有本院一○○年聲搜字十一號搜索票二
     紙、臺灣臺南地方法院檢察署扣押筆錄、扣押物品目錄表、
-    強之体膠囊說明書、「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」仿單各一份、照片四張附
+    強之体膠囊說明書、「生命泉」仿單各一份、照片四張附
     卷足憑（見偵卷二第七十三至八十頁、第九十至九十一頁）
-    。而前揭「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑之仿單上記載本劑原料之主要成
+    。而前揭「生命泉」針劑之仿單上記載本劑原料之主要成
     分為「人體胎盤」，用法為「將二ＭＬ本劑以皮下或肌肉注
-    射方式使用」，被告侯葦帆亦不爭執前揭「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」產品
+    射方式使用」，被告侯葦帆亦不爭執前揭「生命泉」產品
     之成分為胎盤素，且有無衛生署核准字號伊不清楚等情（見
     偵卷二第一四五頁）；而強之体膠囊說明書上則記載該膠囊
     係由「健康胎盤和多味優質中藥科學組方」、「人胎素強體
@@ -733,20 +626,20 @@ function openwin(URL,arguments,width,height)
     等，衛生署食品藥物管理局目前未核准過任何含胎盤素成分
     的藥品許可證」，亦經行政院衛生署食品藥物管理局於一○
     一年十二月五日以ＦＤＡ藥字第○○○○○○○○○○號函
-    釋在案（見本院卷二第五十七頁）。前揭「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑
-    、「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊及「EMEK依美依康」針劑，依其仿單、說
+    釋在案（見本院卷二第五十七頁）。前揭「生命泉」針劑
+    、「強体」膠囊及「EMEK依美依康」針劑，依其仿單、說
     明書、外包裝，業已載明係「人體胎盤」、「人胎素」、「
-    PLACENTA（即胎盤）」，其中「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊添加其他中藥
-    成分，且宣稱療效，而「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」則
+    PLACENTA（即胎盤）」，其中「強体」膠囊添加其他中藥
+    成分，且宣稱療效，而「生命泉」、「EMEK依美依康」則
     均非直接磨粉製成，而係以注射方式使用，揆諸行政院衛生
     署、行政院衛生署食品藥物管理局前開函釋內容，要屬藥事
-    法所稱之藥品。且本件扣案之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑經送行政院
+    法所稱之藥品。且本件扣案之「生命泉」針劑經送行政院
     衛生署食品藥物管理局檢驗，結果同認：「本案『人體胎盤
-    萃取物（檢體外盒名稱：生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉－活細胞療法）』檢體，
+    萃取物（檢體外盒名稱：生命泉－活細胞療法）』檢體，
     依其外包裝標示，該品項為人體胎盤水解物之注射劑，應以
     藥品列管」等語，有該局一○○年三月二十三日ＦＤＡ研字
     第○○○○○○○○○○號函一份附卷可查（見偵卷二第一
-    三二頁）；另扣案之「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊經行政院衛生署中醫藥
+    三二頁）；另扣案之「強体」膠囊經行政院衛生署中醫藥
     委員會檢驗，結果亦認：「旨揭檢體依上開食品藥物管理局
     函文內容，未檢出該函說明段二所示之西藥成分，復其標籤
     標示認定，含「健康胎盤提取物、枸杞子、人參、首烏、山
@@ -762,8 +655,8 @@ function openwin(URL,arguments,width,height)
     可查（見本院卷二第一二○頁）。再被告侯葦帆表示系爭針
     劑，係自同案被告陳貞惠處取得，而證人即同案被告陳貞惠
     則明確供稱上開針劑係自香港友人「李思敏」處取得；且依
-    本案卷內所存其他事證，又無從證明本件「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「
-    EMEK依美依康」針劑及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊，係在臺灣地區擅自
+    本案卷內所存其他事證，又無從證明本件「生命泉」、「
+    EMEK依美依康」針劑及「強体」膠囊，係在臺灣地區擅自
     生產製造，準此，前述針劑、膠囊核屬藥事法第二十二條第
     一項第二款規定未經核准不得擅自輸入之禁藥，應屬無疑。
 (七)就有關本案系爭「EMEK依美依康」針劑之殘餘物，是否屬藥
@@ -775,7 +668,7 @@ function openwin(URL,arguments,width,height)
     品所附資料無法據以判定」等語（見本院卷二第六十二頁、
     一二○頁）。然查，系爭「EMEK依美依康」針劑空瓶上，已
     明白標示「PLACENTA（即胎盤）」之字樣，證人即同案被告
-    陳貞惠復於本院審理中證述：本案告訴人施打的「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉
+    陳貞惠復於本院審理中證述：本案告訴人施打的「生命泉
     」、「EMEK依美依康」針劑是伊提供給被告侯葦帆，伊有明
     確跟被告侯葦帆說這個是胎盤素針劑，因為它上面有寫胎盤
     素等語明確（見本院卷二第三十二頁反面、第三十三頁反面
@@ -813,11 +706,11 @@ function openwin(URL,arguments,width,height)
     九○○四五五號函一份在卷可參（見本院卷二第五十七頁）
     ，由上可知，幹細胞、胎盤素確係不同之物。又本件經臺灣
     臺南地方法院檢察署檢察事務官於被告侯葦帆住處搜索扣得
-    之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」一盒之仿單上已明載「人體胎盤萃取物」；
+    之「生命泉」一盒之仿單上已明載「人體胎盤萃取物」；
     所扣得之強之體膠囊說明書上有「新鮮健康胎盤」、「人胎
     素」；證人歐陽妙貞提出之「EMEK依美依康」空瓶上亦有「
     PLACENTA（即胎盤）」等文字。證人即同案被告陳貞惠並於
-    本院審理中具結證述：告訴人施打的「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK
+    本院審理中具結證述：告訴人施打的「生命泉」、「EMEK
     依美依康」針劑是伊提供給被告侯葦帆，伊有明確跟被告侯
     葦帆說這個是胎盤素針劑，因為它上面有寫胎盤素等語明確
     （見本院卷二第三十二頁反面、第三十三頁反面），則被告
@@ -836,7 +729,7 @@ function openwin(URL,arguments,width,height)
     之犯行，洵堪認定，自應依法論科。
 三、被告侯葦帆、蘇素珍違反醫師法部分：
 (一)訊據被告蘇素珍對於其有於附表二所示時、地，替附表二所
-    示之人，多次注射「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑乙
+    示之人，多次注射「生命泉」、「EMEK依美依康」針劑乙
     情，於偵查及本院審理中均坦承不諱，核與證人李深木、黃
     詠宸、林神祺、歐陽妙貞、劉昭顯、蔡淑珠、鄭淋雅於偵查
     及本院審理中證述之情節相符，足徵被告蘇素珍前揭自白核
@@ -865,7 +758,7 @@ function openwin(URL,arguments,width,height)
     之行為云云。
 (三)經查，被告侯葦帆並未取得醫師資格，卻於前揭時、地，委
     託同案被告蘇素珍或其他不詳姓名年籍之人替如附表二所示
-    之人施打「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」及不詳針劑等情
+    之人施打「生命泉」、「EMEK依美依康」及不詳針劑等情
     ，除據證人李深木、黃詠宸、林神祺、歐陽妙貞、劉昭顯、
     蔡淑珠、鄭淋雅證述在卷，已詳如事實欄二(二)所載外，並經
     同案被告蘇素珍於偵查中供述：被告侯葦帆以每次一千元之
@@ -910,7 +803,7 @@ function openwin(URL,arguments,width,height)
     在卷（見本院卷二第六十三至六十四頁）；再按醫療業務係
     指以醫療行為為職業而言，不問是主要業務或附屬業務，凡
     以職業上予以機會，為非特定多數人所為之醫療行為均屬之
-    ，本件被告侯葦帆委託同案被告蘇素珍替向其購入「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />
+    ，本件被告侯葦帆委託同案被告蘇素珍替向其購入「生命
     泉」、「EMEK依美依康」等針劑之客戶進行肌肉注射之侵入
     性行為，且並非偶一為之，依上開說明，自屬醫療行為之一
     種，被告侯葦帆之相關辯駁，殊無足採。
@@ -932,7 +825,7 @@ function openwin(URL,arguments,width,height)
     業務，以確保醫療品質，藉以維護病患就診者獲取健康之權
     利，是被告侯葦帆、蘇素珍既未取得合法醫師資格，竟由被
     告侯葦帆以每次一千元之代價委託被告蘇素珍多次替附表二
-    所示之施打對象注射「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」及不
+    所示之施打對象注射「生命泉」、「EMEK依美依康」及不
     詳針劑，顯屬對人體具有「侵入性」之醫療行為甚明，所為
     自係犯醫師法第二十八條前段之未取得合法醫師資格，擅自
     執行醫療業務罪；惟醫師法第二十八條所謂之「醫療業務」
@@ -989,7 +882,7 @@ function openwin(URL,arguments,width,height)
     燬；然若查獲之禁藥未經行政機關沒入並銷燬，自應依刑法
     第三十八條之規定宣告沒收之（最高法院九十二年臺上字第
     二七一八號、九十三年臺上字第七三八號判決意旨參照）。
-    查扣案之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑一盒（含針劑三十支、仿單一份
+    查扣案之「生命泉」針劑一盒（含針劑三十支、仿單一份
     ），係被告侯葦帆所有，且屬於禁藥，業經本院認定如前，
     惟上開藥品尚未經衛生主管機關依藥事法第七十九條第一項
     之規定沒入銷燬而仍查扣於本案中，自應併依刑法第三十八
@@ -1009,7 +902,7 @@ function openwin(URL,arguments,width,height)
     本案所用，核與本案之犯罪事實均無直接之關連，揆諸前揭
     說明，自不得宣告沒收。
 三、本院既認被告侯葦帆、陳貞惠二人並無起訴書所載之共犯關
-    係，則扣案之前揭「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑即無本於責任共同之原
+    係，則扣案之前揭「生命泉」針劑即無本於責任共同之原
     則而均應為沒收之諭知，且被告陳貞惠既已將上開禁藥出售
     予被告侯葦帆，由被告侯葦帆販售使用，自應僅於被告侯葦
     帆罪責項下沒收，爰不就該扣案藥品於被告陳貞惠罪刑項下
@@ -1023,14 +916,14 @@ function openwin(URL,arguments,width,height)
 乙、無罪部分：
 一、公訴意旨另以：被告陳宥安與同案被告侯葦帆係夫妻關係，
     被告陳聖雄、陳宥安與同案被告侯葦帆、陳貞惠明知渠等自
-    不詳處所取得之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑、「
-    強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊，其標示之處方已載明藥物成份係人體胎盤素
+    不詳處所取得之「生命泉」、「EMEK依美依康」針劑、「
+    強体」膠囊，其標示之處方已載明藥物成份係人體胎盤素
     ，係屬未經行政院衛生署核准輸入之禁藥，依法不得擅自輸
     入及販賣，竟基於意圖為自己不法所有及販賣禁藥之犯意聯
     絡，以被告陳宥安與同案被告侯葦帆位於臺南市○○○街○
     ○○巷○○○號住處為據點，由被告陳聖雄、同案被告侯葦
-    帆先以不詳方法取得「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑
-    及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊等物，再由被告陳宥安、同案被告侯葦帆
+    帆先以不詳方法取得「生命泉」、「EMEK依美依康」針劑
+    及「強体」膠囊等物，再由被告陳宥安、同案被告侯葦帆
     於如附表一所示之時間，向附表一所示之李深木、林神祺、
     歐陽妙貞、黃詠宸、劉昭顯、蔡淑珠、鄭淋雅等七人佯稱：
     「侯懿真之父親是天一製藥公司董事，陳聖雄係天一製藥公
@@ -1039,11 +932,11 @@ function openwin(URL,arguments,width,height)
     」、「幹細胞針劑可治療帕金森症、去班美白、治療鼻子過
     敏」云云，使附表一所示之李深木等人不疑有他，誤以為被
     告陳聖雄、陳宥安、同案被告侯葦帆、陳貞惠等人所販售之
-    「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠囊等
+    「生命泉」、「EMEK依美依康」針劑及「強体」膠囊等
     藥物係含有幹細胞之藥物，具有神奇療效，為求所患疾病能
     治癒而陷於錯誤，交付如附表一所示金額予同案被告侯葦帆
-    購買實際上不具任何醫療效果之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美
-    依康」針劑及「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」胎盤素膠囊。因認被告陳聖雄、陳
+    購買實際上不具任何醫療效果之「生命泉」、「EMEK依美
+    依康」針劑及「強体」胎盤素膠囊。因認被告陳聖雄、陳
     宥安亦涉有藥事法第八十三條第一項之販賣禁藥罪嫌及刑法
     第三百三十九條第一項之詐欺取財罪嫌云云。
 二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實；不
@@ -1068,7 +961,7 @@ function openwin(URL,arguments,width,height)
     淑珠、鄭淋雅於偵查中所為之證述，以及卷附告訴人李深木
     、林神祺於九十九年四月二十日在臺南市公園路「奉茶簡餐
     茶藝館」內與被告陳聖雄、同案被告侯葦帆、陳貞惠之錄音
-    光碟及譯文、扣案之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑、外包裝盒、仿單、
+    光碟及譯文、扣案之「生命泉」針劑、外包裝盒、仿單、
     強之体膠囊說明書及行政院衛生署食品藥物管理局一○○年
     三月二十三日ＦＤＡ研字第○○○○○○○○○○號檢驗報
     告、行政院衛生署中醫藥委員會一○○年四月二十六日衛中
@@ -1079,7 +972,7 @@ function openwin(URL,arguments,width,height)
     、陳貞惠等人之談話內容；被告陳宥安亦不爭執告訴人李深
     木、林神祺、歐陽妙貞、被害人黃詠宸、劉昭顯、蔡淑珠、
     鄭淋雅有在其與同案被告侯葦帆之住處，由同案被告蘇素珍
-    施打「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑等情，然均堅決
+    施打「生命泉」、「EMEK依美依康」針劑等情，然均堅決
     否認有何被訴共同販賣禁藥及詐欺取財之犯行，被告陳聖雄
     辯稱：伊和陳貞惠一起開公司，侯葦帆是顧客，有一次侯葦
     帆問伊知不知道胎盤素，伊跟她說伊知道，侯葦帆說如果知
@@ -1095,7 +988,7 @@ function openwin(URL,arguments,width,height)
     案發時間確有與同案被告侯葦帆共同推銷、販售系爭針劑、
     膠囊予渠等。同案被告陳貞惠於偵查及本院審理中亦一致供
     陳及具結證述：前開藥品不是被告陳聖雄提供；伊將「生命
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」、「EMEK依美依康」針劑交付予同案被告侯葦帆，與
+    泉」、「EMEK依美依康」針劑交付予同案被告侯葦帆，與
     被告陳聖雄及伊二人合夥經營之公司業務內容毫無關係，伊
     亦未將向同案被告侯葦帆收取之九十萬元價金，分給被告陳
     聖雄等語明確（見偵卷三第二○九頁、本院卷三第二十二頁
@@ -1110,7 +1003,7 @@ function openwin(URL,arguments,width,height)
     之勘驗報告，被告陳聖雄確實有宣稱幹細胞針劑之療效，以
     及佯稱：擁有幹細胞針劑之獨家代理權，別處無法買到，針
     劑一支二CC，要五萬至六萬元，伊賣這個是賣頂端，不是賣
-    一般人，像郭台銘、宋楚瑜、余天、劉福助、<font color='red'>王金平</font>就是拿
+    一般人，像郭台銘、宋楚瑜、余天、劉福助、王金平就是拿
     伊的，伊是賣給全臺灣的醫院云云（見偵卷二第一八五至二
     一○頁），然被告陳聖雄辯稱，其僅係事後受同案被告侯葦
     帆之託，吹捧幹細胞之療效，否認有參與被訴之犯行。而觀
@@ -1138,8 +1031,8 @@ function openwin(URL,arguments,width,height)
     反面至一四一頁）。佐以同案被告侯葦帆於警、偵訊，及本
     院審理時均未曾表示系爭針劑、膠囊係由被告陳聖雄所提供
     ，且於一○○年十月三十一日、一○○年十二月五日偵訊中
-    更明確表示：在伊住處之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑不是被告陳聖雄
-    提供的；只有同案被告陳貞惠給伊這些東西（即「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉
+    更明確表示：在伊住處之「生命泉」針劑不是被告陳聖雄
+    提供的；只有同案被告陳貞惠給伊這些東西（即「生命泉
     」、「EMEK依美依康」針劑）等語（見偵卷三第一四六頁、
     偵卷三第二○七頁），堪認被告陳聖雄所辯，尚非虛妄。則
     依現有事證尚不能證明被告陳聖雄確有與同案被告陳貞惠共
@@ -1273,12 +1166,12 @@ function openwin(URL,arguments,width,height)
 │2 │98年12月│李深木  │侯葦帆意圖為自己不│侯葦帆明知為禁藥而│
 │︵│初某日  │        │法之所有，於左列時│販賣，處有期徒刑壹│
 │起│        │        │間，向李深木佯稱：│年。扣案之強之体膠│
-│訴│        │        │如服用「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />体」膠│囊說明書壹份沒收。│
+│訴│        │        │如服用「強体」膠│囊說明書壹份沒收。│
 │書│        │        │囊可強化幹細胞針劑│                  │
 │附│        │        │效果云云，李深木誤│                  │
 │表│        │        │信為真，因而陷於錯│                  │
 │編│        │        │誤，以72萬元之代價│                  │
-│號│        │        │向侯葦帆購買「強<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />│                  │
+│號│        │        │向侯葦帆購買「強│                  │
 │1 │        │        │体」膠囊。        │                  │
 │︶│        │        │                  │                  │
 ├─┼────┼────┼─────────┼─────────┤
@@ -1302,7 +1195,7 @@ function openwin(URL,arguments,width,height)
 │附│        │        │妙貞誤信為真，因而│                  │
 │表│        │        │陷於錯誤，向侯葦帆│                  │
 │編│        │        │購買24萬元之「生命│                  │
-│號│        │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑，供己施│                  │
+│號│        │        │泉」針劑，供己施│                  │
 │3 │        │        │打。              │                  │
 │︶│        │        │                  │                  │
 ├─┼────┼────┼─────────┼─────────┤
@@ -1327,7 +1220,7 @@ function openwin(URL,arguments,width,height)
 │表│        │        │云云，林神祺誤信為│                  │
 │編│        │        │真，因而陷於錯誤，│                  │
 │號│        │        │向侯葦帆購買83萬元│                  │
-│4 │        │        │之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑│                  │
+│4 │        │        │之「生命泉」針劑│                  │
 │︶│        │        │，供己施打。      │                  │
 ├─┼────┼────┼─────────┼─────────┤
 │7 │98年8、9│林神祺  │侯葦帆意圖為自己不│侯葦帆明知為禁藥而│
@@ -1350,7 +1243,7 @@ function openwin(URL,arguments,width,height)
 │附│        │        │云，劉昭顯誤信為真│                  │
 │表│        │        │，因而陷於錯誤，以│                  │
 │編│        │        │17萬元之代價向侯葦│                  │
-│號│        │        │帆購買「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」│                  │
+│號│        │        │帆購買「生命泉」│                  │
 │5 │        │        │、「EMEK依美依康」│                  │
 │︶│        │        │針劑各1劑，供其罹 │                  │
 │  │        │        │患帕金森症之父親施│                  │
@@ -1370,14 +1263,14 @@ function openwin(URL,arguments,width,height)
 ├─┼────┼────┼─────────┼─────────┤
 │10│99年10月│鄭淋雅  │侯葦帆意圖為自己不│侯葦帆明知為禁藥而│
 │︵│間某日  │        │法之所有，於左列時│販賣，處有期徒刑捌│
-│起│        │        │間，向鄭淋雅佯稱：│月。扣案之「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />│
+│起│        │        │間，向鄭淋雅佯稱：│月。扣案之「生命│
 │訴│        │        │注射幹細胞針劑可根│泉」針劑壹盒（含針│
 │書│        │        │治兒童鼻子過敏、預│劑拾支、仿單壹件）│
 │附│        │        │防感冒云云，鄭淋雅│沒收。            │
 │表│        │        │誤信為真，因而陷於│                  │
 │編│        │        │錯誤，以2萬5千元之│                  │
 │號│        │        │代價向侯葦帆購買「│                  │
-│7 │        │        │生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」針劑5劑 │                  │
+│7 │        │        │生命泉」針劑5劑 │                  │
 │︶│        │        │，供患有鼻子過敏之│                  │
 │  │        │        │兒子施打。        │                  │
 └─┴────┴────┴─────────┴─────────┘
@@ -1390,23 +1283,23 @@ function openwin(URL,arguments,width,height)
 │    │        │依康」胎盤素針劑12劑。              │
 ├──┼────┼──────────────────┤
 │2   │黃詠宸  │98年底開始，每2週在侯葦帆住處，由蘇 │
-│    │        │素珍為其施打針劑「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」胎盤素針│
+│    │        │素珍為其施打針劑「生命泉」胎盤素針│
 │    │        │劑1劑、「EMEK美依康」胎盤素針劑10劑 │
 │    │        │。                                  │
 ├──┼────┼──────────────────┤
 │3   │歐陽妙貞│98年6月11日起至98年底止，每週在侯葦 │
-│    │        │帆住處，由蘇素珍為其施打「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉胎│
+│    │        │帆住處，由蘇素珍為其施打「生命泉胎│
 │    │        │盤素針劑30劑、「EMEK依美依康」胎盤素│
 │    │        │針劑10劑。                          │
 ├──┼────┼──────────────────┤
 │4   │林神祺、│98年6月11日起至同年8月間止，每週在侯│
 │    │林神祺之│葦帆住處，由蘇素珍為林神祺施打「生命│
-│    │父      │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」胎盤素針劑約40劑；及在某不詳診│
+│    │父      │泉」胎盤素針劑約40劑；及在某不詳診│
 │    │        │所，由年籍不詳之成年人為林神祺之父親│
 │    │        │施打「EMEK依美依康」針劑6劑。       │
 ├──┼────┼──────────────────┤
 │5   │劉昭顯之│98年秋季在侯葦帆住處，由蘇素珍為其施│
-│    │父劉正德│打針劑「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」胎盤素針劑1劑、「E│
+│    │父劉正德│打針劑「生命泉」胎盤素針劑1劑、「E│
 │    │        │MEK依美依康」胎盤素針劑1劑。        │
 ├──┼────┼──────────────────┤
 │6   │蔡淑珠  │99年2月間起至99年8月間止，每2週在侯 │
@@ -1415,88 +1308,14 @@ function openwin(URL,arguments,width,height)
 │    │        │針劑10劑。                          │
 ├──┼────┼──────────────────┤
 │7   │鄭淋雅、│99年10月間起，每週在侯懿真住處，由蘇│
-│    │傅正穎  │素珍為傅正穎施打「生命<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7242A0A00000040.GIF" />泉」胎盤素針│
+│    │傅正穎  │素珍為傅正穎施打「生命泉」胎盤素針│
 │    │        │劑3劑，為鄭淋雅施打不詳針劑1劑。    │
-└──┴────┴──────────────────┘</pre>
-<!-- 原因：[性行為] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTND\CRIMINAL\10212\06\TNDM102C6.013] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000028&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c28%2c20131206%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=28&jdate=1021206&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c28%2c20131206%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=28&jdate=1021206&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c28%2c20131206%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','28','1021206','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王金平">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王金平">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴────┴──────────────────┘
+[*jrecno*]101,訴,28,20131206,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]訴
+[*jno*]28
+[*jdate*]1021206
+[*jcheck*]1

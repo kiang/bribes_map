@@ -1,127 +1,20 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-99訴767</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共22
-											筆 / 現在第14
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000767&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20110630%2c5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1000630&jcheck=5">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20110630%2c5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1000630&jcheck=5">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c767%2c20110630%2c5','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','767','1000630','5')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴,767</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000630</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反槍砲彈藥刀械管制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　 99年度訴字第767號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20110630%2c5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1000630&jcheck=5
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000767&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20110630%2c5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1000630&jcheck=5
+[*裁判字號*]99,訴,767
+[*裁判日期*]1000630
+[*裁判案由*]違反槍砲彈藥刀械管制條例等
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　 99年度訴字第767號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　黃立霖
 選任辯護人　林哲倫律師
-　　　　　　陳志<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />律師
+　　　　　　陳志律師
 　　　　　　黃佩琦律師
 被　　　告　黃柏琨
 選任辯護人　林哲倫律師
 　　　　　　張百欣律師
-被　　　告　<font color='red'>劉文雄
-　　　　　　</font>邱家隆
+被　　　告　劉文雄
+　　　　　　邱家隆
 上二人共同
 指定辯護人　本院公設辯護人 彭詩雯
 上列被告等因違反槍砲彈藥刀械管制條例等案件，經檢察官提起
@@ -137,16 +30,16 @@ function openwin(URL,arguments,width,height)
 。應執行有期徒刑貳年陸月，併科罰金新臺幣肆萬元，罰金如易
 服勞役，以新臺幣壹仟元折算壹日。扣案之改造手槍壹枝（含彈
 匣壹個，槍枝管制編號0000000000號）沒收。
-<font color='red'>劉文雄</font>未經許可，寄藏可發射子彈具有殺傷力之改造手槍，處有
-期徒刑壹年捌月，併科罰金新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />萬元，罰金如易服勞役，以
+劉文雄未經許可，寄藏可發射子彈具有殺傷力之改造手槍，處有
+期徒刑壹年捌月，併科罰金新臺幣萬元，罰金如易服勞役，以
 新臺幣壹仟元折算壹日。扣案之改造手槍壹枝（含彈匣壹個，槍
 枝管制編號0000000000號）沒收。
 黃柏琨共同未經許可，持有可發射子彈具有殺傷力之改造手槍，
-有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年肆月，併科罰金新臺幣伍萬元，罰金如易服勞役，
+有期徒刑年肆月，併科罰金新臺幣伍萬元，罰金如易服勞役，
 均以新臺幣壹仟元折算壹日。扣案之改造手槍壹枝（含彈匣壹個
 ，槍枝管制編號0000000000號）沒收。
 邱家隆共同未經許可，持有可發射子彈具有殺傷力之改造手槍，
-累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年貳月，併科罰金新臺幣伍萬元，罰金如易
+累犯，處有期徒刑年貳月，併科罰金新臺幣伍萬元，罰金如易
 服勞役，均以新臺幣壹仟元折算壹日。扣案之改造手槍壹枝（含
 彈匣壹個，槍枝管制編號0000000000號）沒收。
     事  實
@@ -167,18 +60,18 @@ function openwin(URL,arguments,width,height)
     具有殺傷力之子彈2 顆，而自斯時起，未經許可，同時持有
     上開具殺傷力之槍、彈。嗣於99年4 月21日前之同年4 月間
     某日，黃立霖攜上開槍、彈至桃園縣大園鄉五權村下埔75號
-    <font color='red'>劉文雄</font>住處前之空地測試射擊1 發（即前揭不具殺傷力之子
+    劉文雄住處前之空地測試射擊1 發（即前揭不具殺傷力之子
     彈其中1 顆），旋將該槍及前揭具有殺傷力之口徑9mm 之制
     式子彈1 顆、所餘不具有殺傷力之子彈1 顆併置袋內（該袋
-    未扣案，無證據證明現仍存在且為黃立霖所有），交由<font color='red'>劉文
-    雄</font>保管藏放，惟僅告知袋內有槍而未提及子彈。<font color='red'>劉文雄</font>明知
+    未扣案，無證據證明現仍存在且為黃立霖所有），交由劉文
+    雄保管藏放，惟僅告知袋內有槍而未提及子彈。劉文雄明知
     可發射子彈具有殺傷力之槍枝為槍砲彈藥刀械管制條例所管
     制之槍械，非經中央主管機關許可，不得寄藏、持有，竟未
     經許可，基於寄藏槍枝之犯意，於自斯時起，受黃立霖之託
     ，為其保管前揭內置具有殺傷力之改造手槍1 枝之手提袋（
-    雖內併置具有殺傷力之子彈，惟子彈部分無證據證明<font color='red'>劉文雄
-    </font>係知情而有寄藏之犯意），旋將之藏放於住處內，而未經許
-    可，寄藏該槍而持有之。黃立霖再於3 、4 日後向<font color='red'>劉文雄</font>取
+    雖內併置具有殺傷力之子彈，惟子彈部分無證據證明劉文雄
+    係知情而有寄藏之犯意），旋將之藏放於住處內，而未經許
+    可，寄藏該槍而持有之。黃立霖再於3 、4 日後向劉文雄取
     回，另藏放於其桃園縣桃園市○○○街85號1 樓住處。嗣於
     99 年4月21日晚間9 時許，黃立霖之父親黃柏琨前往許妙妃
     所經營位於桃園縣大園鄉○○村○○路○ 段655 號廣一飲食
@@ -234,13 +127,13 @@ function openwin(URL,arguments,width,height)
     情，並引領警方於同日中午2 時30分許，在上開停車場內貨
     櫃屋後方處起獲前揭槍枝。警方乃再至許妙妃住處採證，在
     該別墅之金屬製大門前方約10幾公尺處之草坪上採得已擊發
-    之口徑9mm （9 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F4E92A0A00000040.GIF" />19mm）制式彈殼1 顆，並在該金屬大門上
+    之口徑9mm （9 19mm）制式彈殼1 顆，並在該金屬大門上
     發現前揭彈孔，另在車庫地上採得遭撞擊變形之彈頭銅包衣
     1 個。嗣警因另案於99年6 月29日對案外人張峻祥所使用00
     00000000行動電話實施監聽結果，發現綽號「十七」之男子
     在99年6 月間販售予楊福順、陳健輝之長槍，曾放在大園雄
-    哥處等情，遂於偵查該案時，持該譯文向<font color='red'>劉文雄</font>查問，<font color='red'>劉文
-    雄</font>乃在有偵查犯罪權限之機關發覺其本件寄藏槍枝犯罪前，
+    哥處等情，遂於偵查該案時，持該譯文向劉文雄查問，劉文
+    雄乃在有偵查犯罪權限之機關發覺其本件寄藏槍枝犯罪前，
     主動向警自首上情而查獲。
 四、案經桃園縣政府警察局大園分局報請臺灣桃園地方法院檢察
     署檢察官偵查起訴。
@@ -248,7 +141,7 @@ function openwin(URL,arguments,width,height)
 壹、證據能力
     本件認定事實所引用之卷內所有卷證資料（包含人證與文書
     證據、物證等證據）之證據能力，檢察官及被告黃立霖、黃
-    柏琨、<font color='red'>劉文雄</font>、邱家隆及其等辯護人於本院準備程序、審理
+    柏琨、劉文雄、邱家隆及其等辯護人於本院準備程序、審理
     時均不爭執（見本院卷一第127 、152 、156 頁、190 頁反
     面、卷三第41頁），且無證據證明係公務員違背法定程序所
     取得；又卷內之各項文書證據，亦無刑事訴訟法第159 條之
@@ -256,8 +149,8 @@ function openwin(URL,arguments,width,height)
     院均認有證據能力。
 貳、實體部分
 一、上開犯罪事實，業據被告黃立霖於警詢、偵訊、本院訊問、
-    準備程序、審理時、被告黃柏琨於本院審理時、被告<font color='red'>劉文雄
-    </font>於警詢、偵訊、本院準備程序、審理時分別坦認不諱（見偵
+    準備程序、審理時、被告黃柏琨於本院審理時、被告劉文雄
+    於警詢、偵訊、本院準備程序、審理時分別坦認不諱（見偵
     6 卷第5 至7 、123 至125 、98、130 至132 、140 頁、偵
     7 卷第220 反面至221 頁、偵11卷第43、44頁、偵14卷第36
     至37頁，本院卷一第51頁、第126 頁反面、第151 頁反面、
@@ -271,7 +164,7 @@ function openwin(URL,arguments,width,height)
     枝（槍枝管制編號：0000000000），認係改造手槍，由仿BE
     RE TTA廠92FS型半自動手槍製造之槍枝，換裝土造金屬槍管
     而成，擊發功能正常，可供擊發適用子彈使用，認具殺傷力
-    ；送鑑彈殼1 顆，認係已擊發之口徑9mm （9 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F4E92A0A00000040.GIF" />19mm）制式
+    ；送鑑彈殼1 顆，認係已擊發之口徑9mm （9 19mm）制式
     彈殼1 顆；送鑑彈頭1 顆，認係遭撞擊變形之彈頭銅包衣，
     亦有該局99年5 月20日刑鑑字第0990055332號、99年5 月6
     日刑鑑字第0990055325號鑑驗書在卷可按（見偵6 卷第119
@@ -291,13 +184,13 @@ function openwin(URL,arguments,width,height)
     霖自承係站立草坪上朝別墅之金屬製大門射擊之情節，復經
     警對該金屬材質大門採證，發現有金屬表皮破裂、金屬門板
     內凹之彈孔痕之損壞，而該彈孔與草坪上採得之已擊發之口
-    徑9mm （9 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F4E92A0A00000040.GIF" />19mm）制式彈殼1 顆距離約有10幾公尺，有槍
+    徑9mm （9 19mm）制式彈殼1 顆距離約有10幾公尺，有槍
     擊現場照片、現場勘察測繪圖（見本院卷四第56、57頁）存
     卷，及證人即採證員警劉邦建之證述可稽（見本院卷四第76
     至77頁），則黃立霖前揭擊發之1 顆制式子彈，既足以造成
     10幾公尺外之金屬材質大門破損，堪認該顆子彈均足以穿透
     人體皮膚，是該顆子彈具有殺傷力，至屬灼然。至其餘2 顆
-    子彈（即分別在<font color='red'>劉文雄</font>住處前空地、許妙妃住處車庫內所射
+    子彈（即分別在劉文雄住處前空地、許妙妃住處車庫內所射
     擊各1 顆），因無證據證明確有擊發造成物損人傷之情，依
     罪證有疑、利歸被告之原則，本院認定應不具殺傷力，允宜
     敘明。
@@ -322,15 +215,15 @@ function openwin(URL,arguments,width,height)
     期間時，均在場或出言恫嚇或出手拉扯，更徵被告黃柏琨確
     有與黃立霖等人共同持槍恐嚇被害人許妙妃之犯行無疑，其
     上揭所辯，要無可信。
-  (四)又被告<font color='red'>劉文雄</font>寄藏槍枝之犯罪事實，亦據證人黃立霖結證：
-    我去<font color='red'>劉文雄</font>家試槍，但太晚了我不敢拿回去，怕被臨檢，所
-    以就放在<font color='red'>劉文雄</font>家，我有跟<font color='red'>劉文雄</font>講是槍，<font color='red'>劉文雄</font>也有聽到
-    槍聲等語明確（見偵11卷第43頁）；被告<font color='red'>劉文雄</font>雖於審理時
+  (四)又被告劉文雄寄藏槍枝之犯罪事實，亦據證人黃立霖結證：
+    我去劉文雄家試槍，但太晚了我不敢拿回去，怕被臨檢，所
+    以就放在劉文雄家，我有跟劉文雄講是槍，劉文雄也有聽到
+    槍聲等語明確（見偵11卷第43頁）；被告劉文雄雖於審理時
     一度否認犯罪，辯稱：我不知道我代為保管的是何物，但我
     有拒絕過好幾次云云（見本院卷三第123 頁反面），其辯護
-    人另辯稱：被告<font color='red'>劉文雄</font>僅係基於未必故意而寄藏槍枝云云（
-    見本院卷三第第124 頁反面、第137 頁反面），惟被告<font color='red'>劉文
-    雄</font>上揭寄藏手槍犯行，已據渠於警詢、偵訊、本院準備程序
+    人另辯稱：被告劉文雄僅係基於未必故意而寄藏槍枝云云（
+    見本院卷三第第124 頁反面、第137 頁反面），惟被告劉文
+    雄上揭寄藏手槍犯行，已據渠於警詢、偵訊、本院準備程序
     中迭認明確，並詳細供承：「黃立霖當時自己來我家放1 個
     袋子，跟我說是「鐵仔」（台語），東西要寄放個幾天，…
     黃立霖有在我家前面空地試射1 槍，試射完後黃立霖就將槍
@@ -339,10 +232,10 @@ function openwin(URL,arguments,width,height)
     有聽到他試射的聲音」（見偵10卷第171 頁反面）、「黃立
     霖有把槍放在手提袋裡，放在我這裡沒幾天。…當時我有聽
     到他試槍的槍聲」（見偵11卷第42、43頁），與證人黃立霖
-    上揭所指，確有告知「槍枝」之情相符；衡以被告<font color='red'>劉文雄</font>上
+    上揭所指，確有告知「槍枝」之情相符；衡以被告劉文雄上
     揭寄藏槍枝犯行之查獲，係因其主動向警自首供出所致，益
-    徵被告<font color='red'>劉文雄</font>確實明知其代為保管之物確為槍枝無疑，被告
-    <font color='red'>劉文雄</font>及辯護人上揭所辯，自不足採。
+    徵被告劉文雄確實明知其代為保管之物確為槍枝無疑，被告
+    劉文雄及辯護人上揭所辯，自不足採。
   (五)按刑法第305 條所謂致生危害於安全，係指受惡害之通知者
     ，因其恐嚇，致生安全上之危險與實害而言；又所謂恐嚇，
     凡一切之言語、舉動足以使他人生畏懼心者，均包含在內（
@@ -357,7 +250,7 @@ function openwin(URL,arguments,width,height)
     六卷第116 頁），於本院審理時不敢到庭作證等情（見本院
     卷三第24頁），堪認被告黃立霖、黃柏琨等人上揭恐嚇犯行
     ，至為明確。
-  (六)綜上所述，足認被告黃立霖、黃柏琨、<font color='red'>劉文雄</font>前揭具任意性
+  (六)綜上所述，足認被告黃立霖、黃柏琨、劉文雄前揭具任意性
     之自白核與事實相符，而屬可信，渠等上揭犯行事證明確，
     均堪認定，應依法論科。
 二、訊據被告邱家隆固坦認於上揭時地，因黃立霖告知其父遭人
@@ -445,9 +338,9 @@ function openwin(URL,arguments,width,height)
     係「寄藏」之單然結果，法律上自宜僅就「寄藏」行為為包
     括之評價，不應另就「持有」予以論罪（最高法院74年台上
     字第3400號判例、100 年度台上字第2189號判決意旨參照）
-    ，即被告<font color='red'>劉文雄</font>寄藏前開改造槍枝所為之「持有」行為，係
+    ，即被告劉文雄寄藏前開改造槍枝所為之「持有」行為，係
     「寄藏」之當然結果，不另就「持有」予以論罪。是核被告
-    <font color='red'>劉文雄</font>所為，係犯槍砲彈藥刀械管制條例第8 條第4 項之未
+    劉文雄所為，係犯槍砲彈藥刀械管制條例第8 條第4 項之未
     經許可寄藏可發射子彈具有殺傷力之改造手槍罪。
   (四)被告黃立霖、黃柏琨、邱家隆、「A 男」就上揭99年4 月21
     日持槍恐嚇許妙妃之犯行，有犯意聯絡及行為分擔，均為共
@@ -548,21 +441,21 @@ function openwin(URL,arguments,width,height)
     大園分局的警察有到油行來找我了，警察有打電話給我，黃
     立霖就說槍是他開的，他願意出來自首繳械等語（見本院卷
     四第84頁），是被告黃立霖確有自首上開持有槍枝、恐嚇犯
-    罪無誤。又被告<font color='red'>劉文雄</font>係因警方偵查另案過程中，於99年6
+    罪無誤。又被告劉文雄係因警方偵查另案過程中，於99年6
     月29日對案外人張峻祥所使用0000000000行動電話實施監聽
     結果，發現綽號「十七」之男子在99年6 月間販售予楊福順
     、陳健輝之長槍，曾放在大園雄哥處等情，遂於99年7 月27
-    日持該譯文向被告<font color='red'>劉文雄</font>查問，而被告<font color='red'>劉文雄</font>即在有偵查犯
+    日持該譯文向被告劉文雄查問，而被告劉文雄即在有偵查犯
     罪權限之機關發覺其本件寄藏槍枝犯罪前，主動向警自首之
     情節，亦有其99年7 月27日警詢筆錄可查（見偵7 卷第215
-    頁反面），且由黃立霖之偵訊筆錄初次提及<font color='red'>劉文雄</font>代藏槍枝
-    事，係在被告<font color='red'>劉文雄</font>上揭警詢後之99年8 月23日，而檢察官
+    頁反面），且由黃立霖之偵訊筆錄初次提及劉文雄代藏槍枝
+    事，係在被告劉文雄上揭警詢後之99年8 月23日，而檢察官
     更係據此始查問黃立霖，亦有該次偵訊筆錄記載：「（檢察
-    官問：據<font color='red'>劉文雄</font>說，你有交一把槍在他那邊？）有，放幾天
-    而已」可稽（見偵11卷第43頁），可徵被告<font color='red'>劉文雄</font>確符自首
-    無疑。是被告黃立霖、<font color='red'>劉文雄</font>所為，均合於自首規定，爰依
+    官問：據劉文雄說，你有交一把槍在他那邊？）有，放幾天
+    而已」可稽（見偵11卷第43頁），可徵被告劉文雄確符自首
+    無疑。是被告黃立霖、劉文雄所為，均合於自首規定，爰依
     法就被告黃立霖持有槍彈部分依槍砲彈藥刀械管制條例第18
-    條第1 項前段、被告黃立霖所犯恐嚇罪部分及被告<font color='red'>劉文雄</font>所
+    條第1 項前段、被告黃立霖所犯恐嚇罪部分及被告劉文雄所
     犯寄藏槍枝罪部分均依刑法第62條前段減輕其刑。
   2.又按槍彈藥刀械管制條例第18條第4 項規定：犯本條例之罪
     ，於偵查或審判中自白，並供出全部槍砲、彈藥、刀械之來
@@ -597,7 +490,7 @@ function openwin(URL,arguments,width,height)
     護人陳稱依刑法第59條規定酌減其刑云云，容有誤會。
   (九)爰審酌邇來國內槍枝氾濫，擁槍自重者愈趨增多，每每成為
     治安死角，造成守法大眾人心惶惶，被告黃立霖竟非法持有
-    具殺傷力之槍、彈，被告<font color='red'>劉文雄</font>並代為寄藏，實已不該，又
+    具殺傷力之槍、彈，被告劉文雄並代為寄藏，實已不該，又
     被告黃立霖、黃柏琨、邱家隆僅因黃柏琨遭毆，竟共同持槍
     射擊恐嚇，嚴重破壞社會秩序及影響治安，雖與被害人許妙
     妃達成和解，有和解書1 紙可查（見偵六卷第141 頁），惟
@@ -606,11 +499,11 @@ function openwin(URL,arguments,width,height)
     怕等語可稽（見偵六卷第116 頁），並有本院辦理刑事案件
     公務電話紀錄、許妙妃提出之診斷證明書各1 紙可按（見本
     院卷三第24、37頁），被告等犯罪所生之危害難謂不鉅，以
-    及被告黃立霖、黃柏琨、<font color='red'>劉文雄</font>均坦認犯行之犯後態度，被
+    及被告黃立霖、黃柏琨、劉文雄均坦認犯行之犯後態度，被
     告邱家隆仍未見悔意，及渠等犯罪之動機、目的、手段、品
     行、智識程度、寄藏或持有之時間長短、具有殺傷力之槍、
     彈之數量不多等一切情狀，分別量處被告黃立霖、黃柏琨、
-    <font color='red'>劉文雄</font>、邱家隆如主文所示之刑，並均就所處罰金刑部分諭
+    劉文雄、邱家隆如主文所示之刑，並均就所處罰金刑部分諭
     知如易服勞役之折算標準，再就被告黃立霖所犯2 罪定應執
     行之刑及諭知罰金刑部分易服勞役之折算標準，以示懲儆。
   (十)扣案之改造手槍1 支（含彈匣1 個，槍枝管制編號00000000
@@ -672,86 +565,12 @@ function openwin(URL,arguments,width,height)
 │99年度偵字第19020號卷四之一：偵10卷             │
 │99年度偵字第19020號卷四之二：偵11卷             │
 │99年度偵字第19020號卷七：偵14卷                 │
-└────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10006\30\TYDM1006U.02I] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[5]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共22
-											筆 / 現在第14
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000767&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=22&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20110630%2c5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1000630&jcheck=5">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c767%2c20110630%2c5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=767&jdate=1000630&jcheck=5">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c767%2c20110630%2c5','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','767','1000630','5')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="14"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└────────────────────────┘
+[*jrecno*]99,訴,767,20110630,5
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]訴
+[*jno*]767
+[*jdate*]1000630
+[*jcheck*]5

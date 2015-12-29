@@ -1,145 +1,38 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣雲林地方法院-刑-103易564</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣雲林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000564&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c564%2c20141015%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=564&jdate=1031015&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%98%93%2c564%2c20141015%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=564&jdate=1031015&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e6%98%93%2c564%2c20141015%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e6%98%93','564','1031015','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,易,564</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1031015</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">竊盜</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣雲林地方法院刑事判決　　　　　　　103年度易字第564號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c564%2c20141015%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=564&jdate=1031015&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000564&selectedCrtid=ULD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e6%98%93%2c564%2c20141015%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=564&jdate=1031015&jcheck=1
+[*裁判字號*]103,易,564
+[*裁判日期*]1031015
+[*裁判案由*]竊盜
+[*裁判全文*]臺灣雲林地方法院刑事判決　　　　　　　103年度易字第564號
 公　訴　人　臺灣雲林地方法院檢察署檢察官
 被　　　告　陳清萬
-　　　　　　<font color='red'>黃信吉
-</font>上列被告因竊盜案件，經檢察官提起公訴（103 年度偵字第4660
+　　　　　　黃信吉
+上列被告因竊盜案件，經檢察官提起公訴（103 年度偵字第4660
 號），被告於準備程序進行中就被訴事實為有罪之陳述，本院裁
 定進行簡式審判程序，判決如下：
     主  文                                              
 陳清萬共同犯攜帶兇器竊盜罪，共貳罪，各處有期徒刑陸月，如
 易科罰金，均以新臺幣壹仟元折算壹日。應執行有期徒刑拾月，
 如易科罰金，以新臺幣壹仟元折算壹日。
-<font color='red'>黃信吉</font>共同犯攜帶兇器竊盜罪，共貳罪，各處有期徒刑陸月，如
+黃信吉共同犯攜帶兇器竊盜罪，共貳罪，各處有期徒刑陸月，如
 易科罰金，均以新臺幣壹仟元折算壹日。應執行有期徒刑拾月，
 如易科罰金，以新臺幣壹仟元折算壹日。緩刑貳年，緩刑期間付
 保護管束，並應於本判決確定之翌日起陸個月內，向檢察官指定
 之政府機關、政府機構、行政法人、社區或其他符合公益目的之
 機構或團體，提供陸拾小時之義務勞務。
     事  實
-一、陳清萬與<font color='red'>黃信吉</font>共同基於意圖為自己不法所有之竊盜犯意聯
+一、陳清萬與黃信吉共同基於意圖為自己不法所有之竊盜犯意聯
     絡，於民國103 年6 月12日凌晨3 時許，由陳清萬騎乘車牌
-    號碼000-000 號輕型機車搭載<font color='red'>黃信吉</font>，至雲林縣麥寮鄉○○
-    路00巷000 號附近，由<font color='red'>黃信吉</font>在旁把風，陳清萬則持其所有
+    號碼000-000 號輕型機車搭載黃信吉，至雲林縣麥寮鄉○○
+    路00巷000 號附近，由黃信吉在旁把風，陳清萬則持其所有
     客觀上足供兇器使用之梅花扳手及老虎鉗，以老虎鉗剪除連
     結線，再以梅花扳手拆下固定螺絲之方式，竊取停放該處許
     翔穎所有車牌號碼0000-00 號自用小貨車上之電池2 個得手
-    。陳清萬與<font color='red'>黃信吉</font>另共同基於意圖為自己不法所有之竊盜犯
+    。陳清萬與黃信吉另共同基於意圖為自己不法所有之竊盜犯
     意聯絡，於同日凌晨4 時10分許，由陳清萬騎乘上開機車搭
-    載<font color='red'>黃信吉</font>，至麥豐村中山路437 巷2 之1 號對面，由<font color='red'>黃信吉
-    </font>在旁把風，陳清萬以同一方式竊取停放該處為許至誠所有車
+    載黃信吉，至麥豐村中山路437 巷2 之1 號對面，由黃信吉
+    在旁把風，陳清萬以同一方式竊取停放該處為許至誠所有車
     牌號碼0000-00 號及1773-JZ 號自用小貨車之電池共2 個得
     手。陳清萬於同日早晨，將竊得之電池售予不知名之資源回
     收業者變現。嗣經許至誠發現失竊後報案，為警調閱失竊地
@@ -148,7 +41,7 @@ function openwin(URL,arguments,width,height)
     院檢察署檢察官偵查起訴。
     理  由
 一、程序方面
-    被告陳清萬、<font color='red'>黃信吉</font>所犯之罪，係死刑、無期徒刑、最輕本
+    被告陳清萬、黃信吉所犯之罪，係死刑、無期徒刑、最輕本
     刑為3 年以上有期徒刑以外之罪，其於準備程序就前揭被訴
     事實為有罪之陳述，經法官告知簡式審判程序之旨，並聽取
     其與檢察官之意見後，本院裁定進行簡式審判程序，是本案
@@ -172,7 +65,7 @@ function openwin(URL,arguments,width,height)
     、身體、安全構成威脅，具有危險性之器械，屬客觀上可供
     兇器使用之物。故核被告2 人上開所為，均係犯刑法第321
     條第1 項第3 款攜帶兇器竊盜罪，各2 罪。被告陳清萬使用
-    上開工具竊取電池，被告<font color='red'>黃信吉</font>則在旁把風，2 人具有犯意
+    上開工具竊取電池，被告黃信吉則在旁把風，2 人具有犯意
     聯絡及行為分擔，應依刑法第28條，論為共同正犯。被告2
     人先竊取許翔穎所有車牌號碼0000-00 號自用小貨車上之電
     池2 個，復前往他處，另行起意竊取許至誠所有車牌號碼
@@ -183,18 +76,18 @@ function openwin(URL,arguments,width,height)
     。
   ꆼ爰審酌被告2 人皆坦承犯行，且詳細交代犯罪情節。被告陳
     清萬自承有正當工作，收入亦足夠個人生活開銷，犯本案只
-    是因為「手賤」，沒有特別目的；被告<font color='red'>黃信吉</font>則是因為受到
+    是因為「手賤」，沒有特別目的；被告黃信吉則是因為受到
     友人陳清萬相邀，即不問是非貿然加入。被告陳清萬竊取他
     人車上之電池共4 個，隨手將電池變現後，僅獲得新臺幣35
     0 元，卻造成告訴人與被害人之財產損失及不便，得手後又
-    隨手將自己攜帶之工具拋棄，行事魯莽不思後果。被告<font color='red'>黃信
-    吉</font>半夜因朋友相邀，即思慮未週，貿然前往參與本案兩次竊
+    隨手將自己攜帶之工具拋棄，行事魯莽不思後果。被告黃信
+    吉半夜因朋友相邀，即思慮未週，貿然前往參與本案兩次竊
     取電池之行為，為被告陳清萬把風，然而最後分文未得。被
     告陳清萬高職肄業，從事搭鷹架工作，獨居自立營生，被告
-    <font color='red'>黃信吉</font>甫高職畢業，在家與父母兄同住，平日有家人關心，
+    黃信吉甫高職畢業，在家與父母兄同住，平日有家人關心，
     及其他一切情狀，分別量處如主文所示之刑，並分別諭知其
-    易科罰金之折算標準及定其應執行之刑。另考量被告<font color='red'>黃信吉
-    </font>年僅18歲，進入社會不久，判斷力較薄弱，在本案擔任把風
+    易科罰金之折算標準及定其應執行之刑。另考量被告黃信吉
+    年僅18歲，進入社會不久，判斷力較薄弱，在本案擔任把風
     角色，其犯行之可替代性高，且並未因本案獲利，犯後又經
     家人責備，對自己行為表示後悔，且其前無犯罪紀錄，有其
     臺灣高等法院被告前案紀錄表在卷可稽，此次一時誤觸法網
@@ -234,86 +127,12 @@ function openwin(URL,arguments,width,height)
 五、乘火災、水災或其他災害之際而犯之者。
 六、在車站、埠頭、航空站或其他供水、陸、空公眾運輸之舟、
     車、航空機內而犯之者。
-前項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWULD\CRIMINAL\10310\15\ULDM103AF.00H] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000564&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e4%bf%a1%e5%90%89&sdate=&edate=&page=&searchkw=%e9%bb%83%e4%bf%a1%e5%90%89&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c564%2c20141015%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=564&jdate=1031015&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%98%93%2c564%2c20141015%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=564&jdate=1031015&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e6%98%93%2c564%2c20141015%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e6%98%93','564','1031015','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="ULD 臺灣雲林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃信吉">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃信吉">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前項之未遂犯罰之。
+[*jrecno*]103,易,564,20141015,1
+[*v_court*]ULD 臺灣雲林地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]易
+[*jno*]564
+[*jdate*]1031015
+[*jcheck*]1

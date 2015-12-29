@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-104上訴1725</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001725&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e6%96%87%e8%81%96&sdate=&edate=&page=&searchkw=%e6%9b%be%e6%96%87%e8%81%96&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e6%96%87%e8%81%96&sdate=&edate=&page=&searchkw=%e6%9b%be%e6%96%87%e8%81%96&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1725&jdate=1041020&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1725&jdate=1041020&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1725','1041020','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,上訴,1725</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041020</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害電腦使用等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 104年度上訴字第1725號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1725&jdate=1041020&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001725&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1725&jdate=1041020&jcheck=1
+[*裁判字號*]104,上訴,1725
+[*裁判日期*]1041020
+[*裁判案由*]妨害電腦使用等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 104年度上訴字第1725號
 上　訴　人
 即　被　告　李家幸
 選任辯護人　邱一峰律師
@@ -127,23 +20,23 @@ function openwin(URL,arguments,width,height)
 一、李家幸於民國（下同）102年11月4日中午12時30分許，在台
     北市○○區○○○路0號立法院請願接待室參加由立法委員
     召開之「檢討軍事冤案申訴委員會執行績效」公聽會，擔任
-    中國都會電子報記者之<font color='red'>曾文聖</font>受楊月清之邀前往採訪、錄影
+    中國都會電子報記者之曾文聖受楊月清之邀前往採訪、錄影
     ，於公聽會完畢後，部分與會人士在該接待室靠近門口處發
-    生爭吵，<font color='red'>曾文聖</font>以其所有之數位式相機攝錄現場爭吵情形，
+    生爭吵，曾文聖以其所有之數位式相機攝錄現場爭吵情形，
     李家幸本已離開會場在接待室門外，突然再度進入會場並逕
-    自走到<font color='red'>曾文聖</font>面前致有部分畫面攝入李家幸，李家幸旋即要
-    求<font color='red'>曾文聖</font>刪除其有關其個人之畫面，<font color='red'>曾文聖</font>答以其拍攝之畫
+    自走到曾文聖面前致有部分畫面攝入李家幸，李家幸旋即要
+    求曾文聖刪除其有關其個人之畫面，曾文聖答以其拍攝之畫
     面均係現場全場狀況並未針對其個人進行拍攝，並主動稱伊
     要刪除攝錄到李家幸畫面之部分，惟李家幸並不接受其說法
     ，竟基於妨害他人行使權利及無故刪除他人電腦相關設備之
-    電磁紀錄之犯意，以強暴方式取走<font color='red'>曾文聖</font>手中之數位相機讓
-    其無法繼續使用該相機進行攝影，且佯以其要檢查<font color='red'>曾文聖</font>是
-    否已經將其個人畫面刪除，持續拿著<font color='red'>曾文聖</font>之相機，無故將
-    <font color='red'>曾文聖</font>相機內攝錄之當日公聽會進行（約進行2個鐘頭）及
+    電磁紀錄之犯意，以強暴方式取走曾文聖手中之數位相機讓
+    其無法繼續使用該相機進行攝影，且佯以其要檢查曾文聖是
+    否已經將其個人畫面刪除，持續拿著曾文聖之相機，無故將
+    曾文聖相機內攝錄之當日公聽會進行（約進行2個鐘頭）及
     結束後爭吵之影像電磁紀錄（含錄影及相片）刪除後，始將
-    相機返還予<font color='red'>曾文聖</font>，以此強暴方式妨害<font color='red'>曾文聖</font>行使其攝錄公
-    聽會現場之權利，並致生損害於<font color='red'>曾文聖</font>。
-二、案經<font color='red'>曾文聖</font>訴由臺北市政府警察局中正一分局報請臺灣臺北
+    相機返還予曾文聖，以此強暴方式妨害曾文聖行使其攝錄公
+    聽會現場之權利，並致生損害於曾文聖。
+二、案經曾文聖訴由臺北市政府警察局中正一分局報請臺灣臺北
     地方法院檢察署檢察官偵查起訴。
     理  由
 壹、證據能力之說明：
@@ -165,16 +58,16 @@ function openwin(URL,arguments,width,height)
     鑑定人之權，證人、鑑定人並須依法「具結」，且檢察官向
     被告以外之人所取得之陳述，原則上均能遵守法律規定，不
     致違法取供，其可信性極高，為兼顧理論與實務，因而規定
-    除顯有不可信之情況者外，得為證據。本件所引證人<font color='red'>曾文聖
-    </font>於接受檢察官訊問時所為之證述，並無證據顯示證人於偵訊
+    除顯有不可信之情況者外，得為證據。本件所引證人曾文聖
+    於接受檢察官訊問時所為之證述，並無證據顯示證人於偵訊
     時所為之證述係出於非任意性或有何顯不可信之情況，本院
     審酌上開證據資料製作時之情況，查無有何顯不可信及違法
     不當之瑕疵，且被告及辯護人亦不爭執其證據能力，認為以
-    之作為證據應屬適當，揆諸前開規定，所引證人<font color='red'>曾文聖</font>於偵
+    之作為證據應屬適當，揆諸前開規定，所引證人曾文聖於偵
     訊中之供述均有證據能力。
 貳、認定事實之依據及論罪科刑部分：
 一、訊據上訴人即被告李家幸（下稱被告）坦承有短暫時間取走
-    告訴人<font color='red'>曾文聖</font>（下稱告訴人）手中之相機之行為（於原審審
+    告訴人曾文聖（下稱告訴人）手中之相機之行為（於原審審
     理時坦承係其強行取走該相機，見原審卷第35頁反面，於本
     院審理時則改稱伊並未強行取走告訴人之相機，是告訴人自
     己交付給伊的，見本院卷第31頁反面），然矢口否認有妨害
@@ -242,8 +135,8 @@ function openwin(URL,arguments,width,height)
     因告訴人不刪除，伊才會將相機拿來自己刪等語（見偵卷第
     26頁背面、27頁）。被告就其如何遭案外人陳萬祥拉出會場
     ，以及再度進入會場後與告訴人發生爭執、並進而拿走告訴
-    人之相機、刪除記憶卡紀錄等經過，與證人<font color='red'>曾文聖</font>及楊月清
-    前揭證詞互相吻合，足認證人<font color='red'>曾文聖</font>、楊月清之證詞及被告
+    人之相機、刪除記憶卡紀錄等經過，與證人曾文聖及楊月清
+    前揭證詞互相吻合，足認證人曾文聖、楊月清之證詞及被告
     就此部分之自白，均與事實相符，可以採信。告訴人確係參
     與前揭公聽會之楊月清所找來拍攝公聽會現場之攝影記者，
     公聽會結束後因與會人員在現場爭吵，告訴人對著現場拍攝
@@ -254,8 +147,8 @@ function openwin(URL,arguments,width,height)
     訴人之數位相機記憶卡之紀錄部分，核為卸責之詞，不足採
     信。告訴人表示遭刪除之紀錄除被告所自白的3張照片之外
     ，另有其先前所拍攝之活動紀錄、當天公聽會的錄影檔案，
-    公訴人亦於起訴書依被告於警詢中之自白起訴被告僅刪除<font color='red'>曾
-    文聖</font>所拍攝之照片3幀，然依前揭告訴人指遭刪除之記憶卡
+    公訴人亦於起訴書依被告於警詢中之自白起訴被告僅刪除曾
+    文聖所拍攝之照片3幀，然依前揭告訴人指遭刪除之記憶卡
     紀錄之內容包含案發當日公聽會之紀錄及其後爭吵之畫面，
     而證人楊月清復證稱：告訴人是伊找來攝錄公聽會過程之攝
     影記者，被告拿走告訴人相機之時間蠻久的，告訴人拿回相
@@ -294,8 +187,8 @@ function openwin(URL,arguments,width,height)
     對伊說伊係記者，對於告訴人係在場進行採訪之人應早已知
     悉，也全然沒有阻止之作為，然其突然於案發時間從場外再
     度進入會場，先對著尤瑞敏（蔡媽媽）作出比食指放在嘴巴
-    中間示意「噓」之動作，隨即朝告訴人走去，業經證人<font color='red'>曾文
-    聖</font>於原審審理時證述明確（見原審卷第77頁反面至78頁正面
+    中間示意「噓」之動作，隨即朝告訴人走去，業經證人曾文
+    聖於原審審理時證述明確（見原審卷第77頁反面至78頁正面
     ），核與證人楊月清於原審證述情節（見同上卷第75頁正面
     ）相符，堪信被告早就知道當日告訴人拍攝之重點係案外人
     尤瑞敏（蔡媽媽）與他人爭吵之過程，乃先示意尤瑞敏先安
@@ -380,86 +273,12 @@ function openwin(URL,arguments,width,height)
 （破壞電磁紀錄罪）
 無故取得、刪除或變更他人電腦或其相關設備之電磁紀錄，致生
 損害於公眾或他人者，處 5 年以下有期徒刑、拘役或科或併科
-20 萬元以下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10410\20\TPHM104AK.028] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001725&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e6%96%87%e8%81%96&sdate=&edate=&page=&searchkw=%e6%9b%be%e6%96%87%e8%81%96&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9b%be%e6%96%87%e8%81%96&sdate=&edate=&page=&searchkw=%e6%9b%be%e6%96%87%e8%81%96&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1725&jdate=1041020&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1725&jdate=1041020&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1725%2c20151020%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1725','1041020','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="曾文聖">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="曾文聖">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+20 萬元以下罰金。
+[*jrecno*]104,上訴,1725,20151020,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]上訴
+[*jno*]1725
+[*jdate*]1041020
+[*jcheck*]1

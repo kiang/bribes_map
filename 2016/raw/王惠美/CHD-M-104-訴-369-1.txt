@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-104訴369</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000369&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c369%2c20151012%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=369&jdate=1041012&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c369%2c20151012%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=369&jdate=1041012&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c369%2c20151012%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','369','1041012','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,369</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041012</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">贓物等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　104年度訴字第369號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c369%2c20151012%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=369&jdate=1041012&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000369&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c369%2c20151012%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=369&jdate=1041012&jcheck=1
+[*裁判字號*]104,訴,369
+[*裁判日期*]1041012
+[*裁判案由*]贓物等
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　104年度訴字第369號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　柯修煌
 　　　　　　楊一良
@@ -205,7 +98,7 @@ function openwin(URL,arguments,width,height)
     罪跡證，但並未發現伊亦竊得BXT-252號重機車，被告柯修
     煌即主動向承辦警員王韻詞坦承該案竊盜之事實，而自首接
     受裁判，此有彰化縣警察局彰化分局分局104年5月30日偵查
-    報告及自首情形紀錄表在卷可佐（見偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第19頁及第21頁
+    報告及自首情形紀錄表在卷可佐（見偵卷第19頁及第21頁
     ），符合自首之要件，爰依刑法第62條前段之規定，減輕其
     刑。
 (二)復按，刑法上之贓物罪，原在防止因竊盜、詐欺，侵占各罪
@@ -308,199 +201,199 @@ function openwin(URL,arguments,width,height)
 │    │          │告訴) │                  │                  │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│1   │104年3月29│許青山│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│1   │104年3月29│許青山│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日23時43分│(無)  │法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │許        │      │間，侵入被害人位於│  偵卷(二)第27頁反面│            │            │，如易科罰金，以新臺│
 │    │          │      │彰化縣伸港鄉新港村│  、偵卷(一)第63頁）│            │            │幣壹仟元折算壹日。  │
 │    │          │      │新港路309巷29號之 │  。              │            │            │                    │
-│    │          │      │住宅後，徒手竊取被│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │住宅後，徒手竊取被│被害人於警詢之指│            │            │                    │
 │    │          │      │害人所有神明金牌1 │  訴（偵卷(二)第21頁│            │            │                    │
 │    │          │      │面（約1兩重）得手 │  反面）。        │            │            │                    │
-│    │          │      │，並將竊得之金牌持│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │，並將竊得之金牌持│監視器錄影畫面翻│            │            │                    │
 │    │          │      │向歐宗鑫所經營之「│  拍照片6張（偵卷 │            │            │                    │
 │    │          │      │億天燿珠寶銀樓」變│  (二)第18頁至第20頁│            │            │                    │
 │    │          │      │賣換得新臺幣（下同│  ）。            │            │            │                    │
-│    │          │      │）2萬8000元（歸還1│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />證人歐宗鑫於警詢│            │            │                    │
+│    │          │      │）2萬8000元（歸還1│證人歐宗鑫於警詢│            │            │                    │
 │    │          │      │萬5000元）。      │  之證述（偵卷(二)  │            │            │                    │
 │    │          │      │                  │  第23頁反面）。  │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />金飾買入登記簿影│            │            │                    │
+│    │          │      │                  │金飾買入登記簿影│            │            │                    │
 │    │          │      │                  │  本（偵卷(二)第25  │            │            │                    │
 │    │          │      │                  │  頁反面）。      │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │                  │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(二)第31頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />和解書影本（偵卷│            │            │                    │
+│    │          │      │                  │和解書影本（偵卷│            │            │                    │
 │    │          │      │                  │  (二)第34頁）。    │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│2   │104年4月22│柯志良│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│5萬元       │刑法第320條 │柯修煌犯竊盜未遂罪，│
+│2   │104年4月22│柯志良│柯修煌意圖為自己不│被告柯修煌於警詢│5萬元       │刑法第320條 │柯修煌犯竊盜未遂罪，│
 │    │日22時36分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第3項       │處有期徒刑貳月，如易│
 │    │許        │      │間，以自備之鑰匙竊│  偵卷(六)第28頁反面│            │            │科罰金，以新臺幣壹仟│
 │    │          │      │取被害人駕駛伊母親│  、偵卷(一)第63頁反│            │            │元折算壹日。未扣案之│
 │    │          │      │黃素暖所有停放於彰│  面）。          │            │            │鑰匙壹支沒收。      │
-│    │          │      │化縣伸港鄉定興村定│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │化縣伸港鄉定興村定│被害人於警詢之指│            │            │                    │
 │    │          │      │興路33巷口之車號  │  訴（偵卷(六)第25頁│            │            │                    │
 │    │          │      │OM-9417號自小客車 │  反面）。        │            │            │                    │
-│    │          │      │，嗣因無法發動油門│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │，嗣因無法發動油門│監視器錄影畫面翻│            │            │                    │
 │    │          │      │而未遂。          │  拍照片11張（偵卷│            │            │                    │
 │    │          │      │                  │  (六)第17頁至第18頁│            │            │                    │
 │    │          │      │                  │   ）。           │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />車輛詳細資料報表│            │            │                    │
+│    │          │      │                  │車輛詳細資料報表│            │            │                    │
 │    │          │      │                  │  （偵卷(六)第27頁）│            │            │                    │
 │    │          │      │                  │  。              │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│3   │104年4月22│<font color='red'>王惠美</font>│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│4萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
+│3   │104年4月22│王惠美│柯修煌意圖為自己不│被告柯修煌於警詢│4萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日22時37分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，以自備之鑰匙竊│  偵卷(六)第28頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │取被害人所有停放於│  、偵卷(一)第63頁反│            │            │算壹日。未扣案之鑰匙│
 │    │          │      │彰化縣伸港鄉定興村│  面）。          │            │            │壹支沒收。          │
-│    │          │      │定興路33巷5弄7號前│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │定興路33巷5弄7號前│被害人於警詢之指│            │            │                    │
 │    │          │      │美所有之車號0000-0│  訴（偵卷(六)第20頁│            │            │                    │
 │    │          │      │9號自小客車得手， │  反面）。        │            │            │                    │
-│    │          │      │供代步之用。      │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │供代步之用。      │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片6張（偵卷 │            │            │                    │
 │    │          │      │                  │  (六)第18頁至第19頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │                  │彰化縣警察局車輛│            │            │                    │
 │    │          │      │                  │  協尋電腦輸入單（│            │            │                    │
 │    │          │      │                  │  偵卷(六)第22頁至第│            │            │                    │
 │    │          │      │                  │  23頁）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />內政部警政署刑事│            │            │                    │
+│    │          │      │                  │內政部警政署刑事│            │            │                    │
 │    │          │      │                  │  警察局104年7月1 │            │            │                    │
 │    │          │      │                  │  日刑生字第104004│            │            │                    │
 │    │          │      │                  │  0140號鑑定書（偵│            │            │                    │
 │    │          │      │                  │  卷(六)第34頁至第35│            │            │                    │
 │    │          │      │                  │  頁）。          │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│4   │104年4月23│黃政育│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
+│4   │104年4月23│黃政育│柯修煌意圖為自己不│被告柯修煌於警詢│1萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日20時44分│（有）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │許        │      │間，以自備之鑰匙竊│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第36反面、│            │            │金，以新臺幣壹仟元折│
+│    │許        │      │間，以自備之鑰匙竊│  偵卷第36反面、│            │            │金，以新臺幣壹仟元折│
 │    │          │      │取被害人所有停放於│  偵卷(一)第68頁反面│            │            │算壹日。未扣案之鑰匙│
 │    │          │      │彰化縣彰化市民權市│  ）。            │            │            │壹支沒收。          │
-│    │          │      │場內走廊之車號000-│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
-│    │          │      │230號重型機車，供 │  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第47頁│            │            │                    │
+│    │          │      │場內走廊之車號000-│被害人於警詢之指│            │            │                    │
+│    │          │      │230號重型機車，供 │  訴（偵卷第47頁│            │            │                    │
 │    │          │      │代步之用（已尋獲）│  反面）。        │            │            │                    │
-│    │          │      │。                │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第48頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │。                │贓物認領保管單（│            │            │                    │
+│    │          │      │                  │  偵卷第48頁）。│            │            │                    │
+│    │          │      │                  │彰化縣警察局車輛│            │            │                    │
 │    │          │      │                  │  協尋電腦輸入單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第50頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │  偵卷第50頁）。│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片7張（偵卷 │            │            │                    │
-│    │          │      │                  │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第22頁至第25頁│            │            │                    │
+│    │          │      │                  │  第22頁至第25頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│5   │104年4月27│蕭睦祐│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
+│5   │104年4月27│蕭睦祐│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日6時許   │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │      │間，見被害人所有停│  偵卷(三)第22頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │放於彰化縣彰化市陽│  卷(一)第63頁）    │            │            │算壹日。            │
 │    │          │      │明街32之7號5樓之2 │  。              │            │            │                    │
-│    │          │      │前之車號000-000號 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │前之車號000-000號 │被害人於警詢之指│            │            │                    │
 │    │          │      │重型機車有機車鑰匙│  訴（偵卷(三)第17頁│            │            │                    │
 │    │          │      │未拔，即以徒手方式│  反面）。        │            │            │                    │
-│    │          │      │竊取該機車得手，嗣│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │竊取該機車得手，嗣│彰化縣警察局車輛│            │            │                    │
 │    │          │      │騎乘後再棄置在彰化│  協尋電腦輸入單（│            │            │                    │
 │    │          │      │縣線西鄉線西村線西│  偵卷(三)第18頁至第│            │            │                    │
 │    │          │      │路4號旁空地（已尋 │  19頁）。        │            │            │                    │
-│    │          │      │獲）。            │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │獲）。            │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(三)第20頁）。│            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│6   │104年4月28│梁玉端│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│2萬500元    │刑法第320條 │柯修煌犯竊盜罪，處有│
+│6   │104年4月28│梁玉端│柯修煌意圖為自己不│被告柯修煌於警詢│2萬500元    │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日19時3分 │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │許        │      │間，以自備之鑰匙竊│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第35反面、│            │            │金，以新臺幣壹仟元折│
+│    │許        │      │間，以自備之鑰匙竊│  偵卷第35反面、│            │            │金，以新臺幣壹仟元折│
 │    │          │      │取被害人所有停放於│  偵卷(一)第68頁反面│            │            │算壹日。未扣案之鑰匙│
 │    │          │      │彰化縣彰化市曉陽路│  ）。            │            │            │壹支沒收。          │
-│    │          │      │43號「合作金庫」前│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
-│    │          │      │之車號000-000號重 │  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第53頁│            │            │                    │
+│    │          │      │43號「合作金庫」前│被害人於警詢之指│            │            │                    │
+│    │          │      │之車號000-000號重 │  訴（偵卷第53頁│            │            │                    │
 │    │          │      │型機車及安全帽1頂 │  反面）。        │            │            │                    │
-│    │          │      │得手，供代步之用（│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
-│    │          │      │已尋獲）。        │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第54頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │得手，供代步之用（│贓物認領保管單（│            │            │                    │
+│    │          │      │已尋獲）。        │  偵卷第54頁）。│            │            │                    │
+│    │          │      │                  │彰化縣警察局車輛│            │            │                    │
 │    │          │      │                  │  協尋電腦輸入單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第57頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │  偵卷第57頁）。│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片6張（偵卷 │            │            │                    │
-│    │          │      │                  │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第26頁至第28頁│            │            │                    │
+│    │          │      │                  │  第26頁至第28頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│7   │104年4月29│楊文斌│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
+│7   │104年4月29│楊文斌│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日15時43分│（有）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │許        │      │間，以自備之鑰匙竊│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第35頁、偵│            │            │金，以新臺幣壹仟元折│
+│    │許        │      │間，以自備之鑰匙竊│  偵卷第35頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │取被害人所有停放於│  卷(一)第69頁）。  │            │            │算壹日。未扣案之鑰匙│
-│    │          │      │彰化縣彰化市陳稜路│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │壹支沒收。          │
-│    │          │      │109號前之車號000-0│  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第61頁│            │            │                    │
+│    │          │      │彰化縣彰化市陳稜路│被害人於警詢之指│            │            │壹支沒收。          │
+│    │          │      │109號前之車號000-0│  訴（偵卷第61頁│            │            │                    │
 │    │          │      │32號重型機車得手，│  反面）。        │            │            │                    │
-│    │          │      │供代步之用（已尋獲│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
-│    │          │      │）。              │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第62頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │供代步之用（已尋獲│贓物認領保管單（│            │            │                    │
+│    │          │      │）。              │  偵卷第62頁）。│            │            │                    │
+│    │          │      │                  │彰化縣警察局車輛│            │            │                    │
 │    │          │      │                  │  協尋電腦輸入單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第63頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │  偵卷第63頁）。│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片14張（偵卷│            │            │                    │
-│    │          │      │                  │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第30頁至第32頁│            │            │                    │
+│    │          │      │                  │  第30頁至第32頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│8   │104年4月30│張茂松│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
+│8   │104年4月30│張茂松│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日12時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │          │      │間，以自備之鑰匙竊│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第36頁、偵│            │            │金，以新臺幣壹仟元折│
+│    │          │      │間，以自備之鑰匙竊│  偵卷第36頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │取被害人所有停放於│  卷(一)第69頁）。  │            │            │算壹日。未扣案之鑰匙│
-│    │          │      │彰化縣彰化市辭修路│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │壹支沒收。          │
-│    │          │      │後站停車場內之車號│  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第64頁│            │            │                    │
+│    │          │      │彰化縣彰化市辭修路│被害人於警詢之指│            │            │壹支沒收。          │
+│    │          │      │後站停車場內之車號│  訴（偵卷第64頁│            │            │                    │
 │    │          │      │BXT-252號重型機車 │  反面）。        │            │            │                    │
-│    │          │      │，供代步之用（已尋│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
-│    │          │      │獲）。            │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第65頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │，供代步之用（已尋│贓物認領保管單（│            │            │                    │
+│    │          │      │獲）。            │  偵卷第65頁）。│            │            │                    │
+│    │          │      │                  │彰化縣警察局車輛│            │            │                    │
 │    │          │      │                  │  協尋電腦輸入單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第66頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />現場照片2張（偵 │            │            │                    │
-│    │          │      │                  │  卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第33頁）。  │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />自首情形紀錄表（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />第21頁）。│            │            │                    │
+│    │          │      │                  │  偵卷第66頁）。│            │            │                    │
+│    │          │      │                  │現場照片2張（偵 │            │            │                    │
+│    │          │      │                  │  卷第33頁）。  │            │            │                    │
+│    │          │      │                  │自首情形紀錄表（│            │            │                    │
+│    │          │      │                  │  偵卷第21頁）。│            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│9   │104年4月30│呂怡娜│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│2000元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│9   │104年4月30│呂怡娜│柯修煌意圖為自己不│被告柯修煌於警詢│2000元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日14時2分 │（有）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │許        │      │間，侵入被害人位於│  偵卷(四)第20頁、偵│            │            │如易科罰金，以新臺幣│
 │    │          │      │彰化縣和美鎮糖友三│  卷(一)第63頁）。  │            │            │壹仟元折算壹日。    │
-│    │          │      │街100號住宅內，徒 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │街100號住宅內，徒 │被害人於警詢之指│            │            │                    │
 │    │          │      │手竊取被害人所有神│  訴（偵卷(四)第17頁│            │            │                    │
 │    │          │      │明金牌2面及紅包1個│  反面）。        │            │            │                    │
-│    │          │      │得手，並將竊得之金│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │得手，並將竊得之金│監視器錄影畫面翻│            │            │                    │
 │    │          │      │牌持向綽號「阿龍」│  拍照片15張（偵卷│            │            │                    │
 │    │          │      │變賣。            │  (四)第15頁至第16  │            │            │                    │
 │    │          │      │                  │  頁）。          │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│10  │104年5月1 │溫稼穀│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│3990元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│10  │104年5月1 │溫稼穀│柯修煌意圖為自己不│被告柯修煌於警詢│3990元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日7時50分 │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │許        │      │間，侵入被害人位於│  偵卷(十)第19頁反面│            │            │如易科罰金，以新臺幣│
 │    │          │      │彰化縣彰化市中正路│  、偵卷(一)第65頁）│            │            │壹仟元折算壹日。    │
 │    │          │      │2段170巷9號住宅內 │  。              │            │            │                    │
-│    │          │      │，徒手竊取被害人所│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │，徒手竊取被害人所│被害人於警詢之指│            │            │                    │
 │    │          │      │有ASUS手機1支得手 │  訴（偵卷(十)第18頁│            │            │                    │
 │    │          │      │。                │  反面）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />扣押筆錄及扣押物│            │            │                    │
+│    │          │      │                  │扣押筆錄及扣押物│            │            │                    │
 │    │          │      │                  │  品目錄表（偵卷(十)│            │            │                    │
 │    │          │      │                  │  第21頁、第23頁）│            │            │                    │
 │    │          │      │                  │  。              │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />扣押物品翻拍照片│            │            │                    │
+│    │          │      │                  │扣押物品翻拍照片│            │            │                    │
 │    │          │      │                  │  （偵卷(十)第24頁）│            │            │                    │
 │    │          │      │                  │  。              │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │                  │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(十)第25頁）。│            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│11  │104年5月2 │黃淑娥│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│2萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
+│11  │104年5月2 │黃淑娥│柯修煌意圖為自己不│被告柯修煌於警詢│2萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日8時許   │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │      │間，見被害人子柯圳│  偵卷(十一)第31頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │益所有停放於彰化縣│  卷(一)第65頁）。  │            │            │算壹日。            │
-│    │          │      │伸港鄉定興村定興路│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │伸港鄉定興村定興路│被害人於警詢之指│            │            │                    │
 │    │          │      │28之5號前之車號000│  訴（偵卷(十一)第23頁│            │            │                    │
 │    │          │      │-GTA號重型機車有機│  反面）。        │            │            │                    │
-│    │          │      │車鑰匙未拔，即以徒│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │車鑰匙未拔，即以徒│彰化縣警察局車輛│            │            │                    │
 │    │          │      │手方式竊取該機車得│  協尋電腦輸入單（│            │            │                    │
 │    │          │      │手，嗣騎乘後再棄置│  偵卷(十一)第27頁）。│            │            │                    │
 │    │          │      │在彰化縣伸港鄉中興│                  │            │            │                    │
@@ -508,445 +401,445 @@ function openwin(URL,arguments,width,height)
 │    │          │      │尋獲）。          │                  │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│12  │104年5月2 │黃世文│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1200元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│12  │104年5月2 │黃世文│柯修煌意圖為自己不│被告柯修煌於警詢│1200元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日18時2分 │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │許        │      │間，以抬高鋁門方式│  偵卷(十一)第30頁反面│            │            │如易科罰金，以新臺幣│
 │    │          │      │侵入被害人位於彰化│  、偵卷(一)第65頁反│            │            │壹仟元折算壹日。    │
 │    │          │      │縣伸港鄉海尾村中興│  面）。          │            │            │                    │
-│    │          │      │路3段227號之住宅後│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │路3段227號之住宅後│被害人於警詢之指│            │            │                    │
 │    │          │      │，徒手竊取被害人所│  訴（偵卷(十一)第28頁│            │            │                    │
 │    │          │      │有之神明紅包（內各│  反面）。        │            │            │                    │
-│    │          │      │有120元）10個得手 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │有120元）10個得手 │監視器錄影畫面翻│            │            │                    │
 │    │          │      │。                │  拍照片16張及現場│            │            │                    │
 │    │          │      │                  │  照片2張（偵卷(十一) │            │            │                    │
 │    │          │      │                  │  第17頁、第19頁至│            │            │                    │
 │    │          │      │                  │  第22頁）。      │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│13  │104年5月3 │陳英輝│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1萬2000元   │刑法第320條 │柯修煌犯竊盜罪，處有│
+│13  │104年5月3 │陳英輝│柯修煌意圖為自己不│被告柯修煌於警詢│1萬2000元   │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日15時14分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，在位於彰化縣和│  偵卷(一)第28頁、第│            │            │金，以新臺幣壹仟元折│
 │    │          │      │美鎮○○路0號之「 │  62頁反面）。    │            │            │算壹日。            │
-│    │          │      │營埔福德宮」內，以│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │營埔福德宮」內，以│被害人於警詢之指│            │            │                    │
 │    │          │      │徒手竊取竊取神明金│  訴（偵卷(一)第18頁│            │            │                    │
 │    │          │      │牌1面（共約2.5錢重│  反面）。        │            │            │                    │
-│    │          │      │）得手。          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │）得手。          │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片3張（偵卷 │            │            │                    │
 │    │          │      │                  │  (一)第22頁至第24頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│14  │104年5月4 │陳英輝│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1萬8000元   │刑法第320條 │柯修煌犯竊盜罪，處有│
+│14  │104年5月4 │陳英輝│柯修煌意圖為自己不│被告柯修煌於警詢│1萬8000元   │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日9時14分 │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，在位於彰化縣和│  偵卷(一)第28頁、第│            │            │金，以新臺幣壹仟元折│
 │    │          │      │美鎮○○路0號之「 │  62頁反面）。    │            │            │算壹日。            │
-│    │          │      │營埔福德宮」內，以│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │營埔福德宮」內，以│被害人於警詢之指│            │            │                    │
 │    │          │      │徒手竊取竊取神明金│  訴（偵卷(一)第18頁│            │            │                    │
 │    │          │      │牌4面（共約4錢重）│  反面）。        │            │            │                    │
-│    │          │      │得手。            │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │得手。            │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片3張（偵卷 │            │            │                    │
 │    │          │      │                  │  (一)第22頁、第25頁│            │            │                    │
 │    │          │      │                  │  、第26頁）。    │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│15  │104年5月9 │柯釗楹│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1200元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│15  │104年5月9 │柯釗楹│柯修煌意圖為自己不│被告柯修煌於警詢│1200元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日23時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │          │      │間，以抬高鋁門方式│  偵卷(十五)第19頁反面│            │            │如易科罰金，以新臺幣│
 │    │          │      │侵入被害人位於彰化│  、偵卷(一)第66頁  │            │            │壹仟元折算壹日。    │
 │    │          │      │縣伸港鄉中華路599 │  ）。            │            │            │                    │
-│    │          │      │巷26弄15號住宅後，│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │巷26弄15號住宅後，│被害人於警詢之指│            │            │                    │
 │    │          │      │徒手竊取被害人所有│  訴（偵卷(十五)第18頁│            │            │                    │
 │    │          │      │之神明紅包（內各有│  反面）。        │            │            │                    │
-│    │          │      │200元）6個得手。  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />現場照片4張（偵 │            │            │                    │
+│    │          │      │200元）6個得手。  │現場照片4張（偵 │            │            │                    │
 │    │          │      │                  │  卷(十五)第16頁至第17│            │            │                    │
 │    │          │      │                  │  頁）。          │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />現場勘察報告表（│            │            │                    │
+│    │          │      │                  │現場勘察報告表（│            │            │                    │
 │    │          │      │                  │  偵卷(十五)第26頁至第│            │            │                    │
 │    │          │      │                  │  31頁）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />內政部警政署刑事│            │            │                    │
+│    │          │      │                  │內政部警政署刑事│            │            │                    │
 │    │          │      │                  │  警察局104年7月1 │            │            │                    │
 │    │          │      │                  │  日出具刑生字第10│            │            │                    │
 │    │          │      │                  │  00000000號鑑定書│            │            │                    │
 │    │          │      │                  │  （偵卷(十五)第32頁至│            │            │                    │
 │    │          │      │                  │  第33頁）。      │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│16  │104年5月15│林良姿│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1萬2500元   │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│16  │104年5月15│林良姿│柯修煌意圖為自己不│被告柯修煌於警詢│1萬2500元   │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日15時許  │（有）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │          │      │間，侵入被害人位於│  偵卷(八)第48頁反面│            │            │如易科罰金，以新臺幣│
 │    │          │      │彰化縣伸港鄉七嘉村│  、偵卷(一)第64頁）│            │            │壹仟元折算壹日。    │
 │    │          │      │建興二街35巷8號住 │  。              │            │            │                    │
-│    │          │      │宅內，徒手竊取被害│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │宅內，徒手竊取被害│被害人於警詢之指│            │            │                    │
 │    │          │      │人所有取神明金牌3 │  訴（偵卷(八)第39頁│            │            │                    │
 │    │          │      │面得手後，再將竊得│  反面）。        │            │            │                    │
-│    │          │      │之金牌交由楊一良變│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />現場照片2張（偵 │            │            │                    │
+│    │          │      │之金牌交由楊一良變│現場照片2張（偵 │            │            │                    │
 │    │          │      │賣所得用以購買毒品│  卷(八)第32頁）。  │            │            │                    │
 │    │          │      │施用。            │---------------   │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告楊一良於警詢│            │            │                    │
+│    │          │      │                  │被告楊一良於警詢│            │            │                    │
 │    │          │      │                  │  及偵訊中之自白（│            │            │                    │
 │    │          │      │                  │  偵卷(八)第50頁、第│            │            │                    │
 │    │          │      │                  │  69頁）。        │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│17  │104年5月31│葉甘霖│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│9000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│17  │104年5月31│葉甘霖│柯修煌意圖為自己不│被告柯修煌於警詢│9000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日14時許  │（有）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │      │間，進入被害人經營│  偵卷(八)第48頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │位於彰化縣和美鎮北│  、偵卷(一)第64頁）│            │            │算壹日。            │
 │    │          │      │美路3號雜貨店內， │  。              │            │            │                    │
-│    │          │      │徒手竊取被害人所有│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │徒手竊取被害人所有│被害人於警詢之指│            │            │                    │
 │    │          │      │之神明金牌2面得手 │  訴（偵卷(八)第40頁│            │            │                    │
 │    │          │      │後，再將竊得之金牌│  反面）。        │            │            │                    │
-│    │          │      │交由楊一良變賣所得│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />現場照片2張（偵 │            │            │                    │
+│    │          │      │交由楊一良變賣所得│現場照片2張（偵 │            │            │                    │
 │    │          │      │用以購買毒品施用。│  卷(八)第33頁）。  │            │            │                    │
 │    │          │      │                  │---------------   │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告楊一良於警詢│            │            │                    │
+│    │          │      │                  │被告楊一良於警詢│            │            │                    │
 │    │          │      │                  │  及偵訊中之自白（│            │            │                    │
 │    │          │      │                  │  偵卷(八)第50頁、第│            │            │                    │
 │    │          │      │                  │  69頁）。        │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│18  │104年6月3 │劉美枝│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1800元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│18  │104年6月3 │劉美枝│柯修煌意圖為自己不│被告柯修煌於警詢│1800元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日15時許  │（有）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │      │間，進入被害人經營│  偵卷(八)第48頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │位於彰化縣彰化市彰│  、偵卷(一)第64頁）│            │            │算壹日。            │
 │    │          │      │美路1段72號快餐店 │  。              │            │            │                    │
-│    │          │      │內，徒手竊取被害人│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │內，徒手竊取被害人│被害人於警詢之指│            │            │                    │
 │    │          │      │所有之神明紅包1個 │  訴（偵卷(八)第41頁│            │            │                    │
 │    │          │      │得手。            │  反面）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />現場照片2張（偵 │            │            │                    │
+│    │          │      │                  │現場照片2張（偵 │            │            │                    │
 │    │          │      │                  │  卷(八)第34頁）。  │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│19  │104年6月4 │鄭漢霖│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│2850元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│19  │104年6月4 │鄭漢霖│柯修煌意圖為自己不│被告柯修煌於警詢│2850元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日15時54分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，以隨機開門方式│  偵卷(十六)第27頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │徒手開啟被害人所有│  卷(一)第66頁反面）│            │            │算壹日。            │
 │    │          │      │停放於彰化縣線西鄉│  。              │            │            │                    │
-│    │          │      │線西村中央路2段360│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │線西村中央路2段360│被害人於警詢之指│            │            │                    │
 │    │          │      │號前車號000-00號自│  訴（偵卷(十六)第23頁│            │            │                    │
 │    │          │      │小客車車門後，竊取│  ）。            │            │            │                    │
-│    │          │      │車內零錢得手。    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />指認犯罪嫌疑人紀│            │            │                    │
+│    │          │      │車內零錢得手。    │指認犯罪嫌疑人紀│            │            │                    │
 │    │          │      │                  │  錄表（偵卷(十六)第25│            │            │                    │
 │    │          │      │                  │  頁）。          │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />現場照片及監視器│            │            │                    │
+│    │          │      │                  │現場照片及監視器│            │            │                    │
 │    │          │      │                  │  錄影畫面翻拍照片│            │            │                    │
 │    │          │      │                  │  12張（偵卷(十六)第  │            │            │                    │
 │    │          │      │                  │  16頁至第21頁）。│            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│20  │104年6月4 │林泉順│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
+│20  │104年6月4 │林泉順│柯修煌意圖為自己不│被告柯修煌於警詢│1萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日16時30分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，見被害人所有停│  偵卷(十二)第27頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │放於彰化縣線西鄉德│  卷(一)第65頁反面  │            │            │算壹日。            │
 │    │          │      │興村興農路305巷1號│   ）。           │            │            │                    │
-│    │          │      │旁之車號000-000號 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │旁之車號000-000號 │被害人於警詢之指│            │            │                    │
 │    │          │      │重型機車有機車鑰匙│  訴（偵卷(十二)第24頁│            │            │                    │
 │    │          │      │未拔，即以徒手方式│  ）。            │            │            │                    │
-│    │          │      │竊取該機車得手，嗣│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │竊取該機車得手，嗣│彰化縣警察局車輛│            │            │                    │
 │    │          │      │騎乘後再棄置在彰化│  協尋電腦輸入單（│            │            │                    │
 │    │          │      │縣線西鄉線西村線西│  偵卷(十二)第25頁）。│            │            │                    │
-│    │          │      │路7號旁（已尋獲） │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │路7號旁（已尋獲） │贓物認領保管單（│            │            │                    │
 │    │          │      │。                │  偵卷(十二)第26頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片及車輛尋獲│            │            │                    │
 │    │          │      │                  │  照片12張（偵卷(十二)│            │            │                    │
 │    │          │      │                  │  第16頁至第21頁）│            │            │                    │
 │    │          │      │                  │  。              │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│21  │104年6月12│章菀檥│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│2000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│21  │104年6月12│章菀檥│柯修煌意圖為自己不│被告柯修煌於警詢│2000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日17時11分│（有）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，進入被害人經營│  偵卷(八)第48頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │位於彰化縣彰化市平│  、偵卷(一)第64頁反│            │            │算壹日。            │
 │    │          │      │安街66巷48號修車廠│  面）。          │            │            │                    │
-│    │          │      │內，徒手竊取被害人│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │內，徒手竊取被害人│被害人於警詢之指│            │            │                    │
 │    │          │      │所有之神明金牌1面 │  訴（偵卷(八)第42頁│            │            │                    │
 │    │          │      │得手後，再將竊得之│  反面）。        │            │            │                    │
-│    │          │      │金牌交由楊一良變賣│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />現場照片2張及監 │            │            │                    │
+│    │          │      │金牌交由楊一良變賣│現場照片2張及監 │            │            │                    │
 │    │          │      │所得，以供購買毒品│  視器錄影畫面翻拍│            │            │                    │
 │    │          │      │施用。            │  照片2張（偵卷(八) │            │            │                    │
 │    │          │      │                  │  第35頁、第37頁、│            │            │                    │
 │    │          │      │                  │  第38頁）。      │            │            │                    │
 │    │          │      │                  │---------------   │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告楊一良於警詢│            │            │                    │
+│    │          │      │                  │被告楊一良於警詢│            │            │                    │
 │    │          │      │                  │  及偵訊之自白（偵│            │            │                    │
 │    │          │      │                  │  卷(八)第50頁、第69│            │            │                    │
 │    │          │      │                  │  頁）。          │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│22  │104年6月12│林正瑞│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
+│22  │104年6月12│林正瑞│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日19時54分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，以自備之鑰匙竊│  偵卷(五)第25頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │取被害人所有停放於│  卷(一)第63頁反面）│            │            │算壹日。未扣案之鑰匙│
 │    │          │      │彰化縣彰化市中華西│  。              │            │            │壹支沒收。          │
-│    │          │      │路143巷11號前之車 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │路143巷11號前之車 │被害人於警詢之指│            │            │                    │
 │    │          │      │號GZ8-087號重型機 │  訴（偵卷(五)第20頁│            │            │                    │
 │    │          │      │車得手，以供代步之│  反面）。        │            │            │                    │
-│    │          │      │用（已尋獲）。    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │用（已尋獲）。    │彰化縣警察局車輛│            │            │                    │
 │    │          │      │                  │  協尋電腦輸入單（│            │            │                    │
 │    │          │      │                  │  偵卷(五)第18頁至第│            │            │                    │
 │    │          │      │                  │  19頁）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │                  │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(五)第22頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片3張（偵卷 │            │            │                    │
 │    │          │      │                  │  (五)第15頁至第16頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│23  │104年6月16│柯錫烘│柯修煌與綽號「阿文│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│9萬9000元   │刑法第28條、│柯修煌共同犯竊盜罪，│
+│23  │104年6月16│柯錫烘│柯修煌與綽號「阿文│被告柯修煌於警詢│9萬9000元   │刑法第28條、│柯修煌共同犯竊盜罪，│
 │    │日20時46分│（無）│」之成年男子共同意│  及偵訊中之自白（│            │第320條第1項│處有期徒刑參月，如易│
 │    │許        │      │圖為自己不法之所有│  偵卷(八)第48頁反面│            │            │科罰金，以新臺幣壹仟│
 │    │          │      │，於左列時間，由綽│  、偵卷(一)第64頁反│            │            │元折算壹日。        │
 │    │          │      │號「阿文」駕駛不詳│  面）。          │            │            │                    │
-│    │          │      │車號自小客車至被害│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │車號自小客車至被害│被害人於警詢之指│            │            │                    │
 │    │          │      │人經營位於彰化縣彰│  訴（偵卷(八)第43頁│            │            │                    │
 │    │          │      │化市○○街000號雜 │  反面）。        │            │            │                    │
-│    │          │      │貨店，推由柯修煌入│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />現場照片2張及監 │            │            │                    │
+│    │          │      │貨店，推由柯修煌入│現場照片2張及監 │            │            │                    │
 │    │          │      │內，徒手竊取被害人│  視器錄影畫面翻拍│            │            │                    │
 │    │          │      │所有之神明金牌5面 │  照片1張（偵卷(八) │            │            │                    │
 │    │          │      │得手後，再將竊得之│  第36頁、第37頁）│            │            │                    │
 │    │          │      │金牌交由楊一良變賣│  。              │            │            │                    │
 │    │          │      │所得，以供購買毒品│---------------   │            │            │                    │
-│    │          │      │施用。            │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告楊一良於警詢│            │            │                    │
+│    │          │      │施用。            │被告楊一良於警詢│            │            │                    │
 │    │          │      │                  │  及偵訊中之自白  │            │            │                    │
 │    │          │      │                  │  （偵卷(八)第50頁、│            │            │                    │
 │    │          │      │                  │  第69頁）。      │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│24  │104年6月20│黃清源│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1300元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│24  │104年6月20│黃清源│柯修煌意圖為自己不│被告柯修煌於警詢│1300元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日12時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │          │      │間，駕駛不詳車號重│  偵卷(十三)第21頁、偵│            │            │如易科罰金，以新臺幣│
 │    │          │      │型機車至被害人位於│  卷(一)第65頁反面  │            │            │壹仟元折算壹日。    │
 │    │          │      │彰化縣線西鄉線西村│   ）。           │            │            │                    │
-│    │          │      │線西路17號之住處，│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人之子黃英保│            │            │                    │
+│    │          │      │線西路17號之住處，│被害人之子黃英保│            │            │                    │
 │    │          │      │侵入該住宅後竊取被│  於警詢之證述（偵│            │            │                    │
 │    │          │      │害人所有之皮夾1個 │  卷(十三)第20頁反面）│            │            │                    │
 │    │          │      │（價值約200元，內 │  。              │            │            │                    │
-│    │          │      │有現金1100元、健保│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />現場照片4張（偵 │            │            │                    │
+│    │          │      │有現金1100元、健保│現場照片4張（偵 │            │            │                    │
 │    │          │      │卡1張、印章1個）得│  卷(十三)第16頁至第17│            │            │                    │
 │    │          │      │手。              │  頁）。          │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│25  │104年6月20│劉鉦煒│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
+│25  │104年6月20│劉鉦煒│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日16時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │          │      │間，見被害人所有停│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />第27頁、偵│            │            │金，以新臺幣壹仟元折│
+│    │          │      │間，見被害人所有停│  偵卷第27頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │放於彰化縣伸港鄉定│  卷(一)第68頁）。  │            │            │算壹日。            │
-│    │          │      │興村定興路33巷旁產│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
-│    │          │      │業道路之車號000-00│  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />第22頁│            │            │                    │
+│    │          │      │興村定興路33巷旁產│被害人於警詢之指│            │            │                    │
+│    │          │      │業道路之車號000-00│  訴（偵卷第22頁│            │            │                    │
 │    │          │      │F號重型機車有機車 │  反面）          │            │            │                    │
 │    │          │      │鑰匙未拔，即以徒手│  。              │            │            │                    │
-│    │          │      │方式竊取該機車得手│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />證人柯政忠於警詢│            │            │                    │
-│    │          │      │（已尋獲）。      │  之證述（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />第│            │            │                    │
+│    │          │      │方式竊取該機車得手│證人柯政忠於警詢│            │            │                    │
+│    │          │      │（已尋獲）。      │  之證述（偵卷第│            │            │                    │
 │    │          │      │                  │  24頁反面）。    │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />扣押物品目錄表（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />第31頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │扣押物品目錄表（│            │            │                    │
+│    │          │      │                  │  偵卷第31頁）。│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片及現場照片│            │            │                    │
-│    │          │      │                  │  14張（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />第17│            │            │                    │
+│    │          │      │                  │  14張（偵卷第17│            │            │                    │
 │    │          │      │                  │  頁至第21頁）。  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│26  │104年6月22│陳秀榛│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│4000元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│26  │104年6月22│陳秀榛│柯修煌意圖為自己不│被告柯修煌於警詢│4000元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日16時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
-│    │          │      │間，侵入被害人位於│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6652A0A00000040.GIF" />第26頁反面│            │            │如易科罰金，以新臺幣│
+│    │          │      │間，侵入被害人位於│  偵卷第26頁反面│            │            │如易科罰金，以新臺幣│
 │    │          │      │彰化縣線西鄉德興村│  、偵卷(一)第69頁  │            │            │壹仟元折算壹日。    │
 │    │          │      │德興路161號住宅內 │  ）。            │            │            │                    │
-│    │          │      │，竊取被害人所有放│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
-│    │          │      │於神明廳神像上金牌│  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6652A0A00000040.GIF" />第19頁│            │            │                    │
+│    │          │      │，竊取被害人所有放│被害人於警詢之指│            │            │                    │
+│    │          │      │於神明廳神像上金牌│  訴（偵卷第19頁│            │            │                    │
 │    │          │      │2面得手，並於同年 │  反面）。        │            │            │                    │
-│    │          │      │月23日、27日持往「│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />證人吳炯雄於警詢│            │            │                    │
-│    │          │      │金和美銀樓」變賣所│  之證述（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6652A0A00000040.GIF" />第│            │            │                    │
+│    │          │      │月23日、27日持往「│證人吳炯雄於警詢│            │            │                    │
+│    │          │      │金和美銀樓」變賣所│  之證述（偵卷第│            │            │                    │
 │    │          │      │得3060元。        │  22頁）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />金飾加工變造登記│            │            │                    │
-│    │          │      │                  │  簿（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6652A0A00000040.GIF" />第24頁│            │            │                    │
+│    │          │      │                  │金飾加工變造登記│            │            │                    │
+│    │          │      │                  │  簿（偵卷第24頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />現場照片2張（偵 │            │            │                    │
-│    │          │      │                  │  卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6652A0A00000040.GIF" />第18頁）。  │            │            │                    │
+│    │          │      │                  │現場照片2張（偵 │            │            │                    │
+│    │          │      │                  │  卷第18頁）。  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│27  │104年6月23│王有清│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
+│27  │104年6月23│王有清│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日15時許  │（無，│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │          │由王意│間，見被害人所有停│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />第21頁反面│            │            │金，以新臺幣壹仟元折│
+│    │          │由王意│間，見被害人所有停│  偵卷第21頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │專製作│放於彰化縣伸港鄉彰│  、偵卷(一)第67頁反│            │            │算壹日。            │
 │    │          │筆錄）│新路7段601巷6號前 │  面）。          │            │            │                    │
-│    │          │      │之車號000-000號重 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人之子王意專│            │            │                    │
+│    │          │      │之車號000-000號重 │被害人之子王意專│            │            │                    │
 │    │          │      │型機車有機車鑰匙未│  於警詢之指訴（偵│            │            │                    │
-│    │          │      │拔，即以徒手方式竊│  卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />第18頁反面）│            │            │                    │
+│    │          │      │拔，即以徒手方式竊│  卷第18頁反面）│            │            │                    │
 │    │          │      │取該機車得手，嗣騎│  。              │            │            │                    │
-│    │          │      │乘後再棄置在彰化縣│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │乘後再棄置在彰化縣│彰化縣警察局車輛│            │            │                    │
 │    │          │      │伸港鄉定興村路燈編│  協尋電腦輸入單（│            │            │                    │
-│    │          │      │號11755號旁（已尋 │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />第20頁）。│            │            │                    │
-│    │          │      │獲）。            │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />第19頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />車輛尋獲照片2張 │            │            │                    │
-│    │          │      │                  │  （偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />第7頁） │            │            │                    │
+│    │          │      │號11755號旁（已尋 │  偵卷第20頁）。│            │            │                    │
+│    │          │      │獲）。            │贓物認領保管單（│            │            │                    │
+│    │          │      │                  │  偵卷第19頁）。│            │            │                    │
+│    │          │      │                  │車輛尋獲照片2張 │            │            │                    │
+│    │          │      │                  │  （偵卷第7頁） │            │            │                    │
 │    │          │      │                  │  。              │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│28  │104年6月24│林筱娟│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│500元       │刑法第320條 │柯修煌犯竊盜罪，處有│
+│28  │104年6月24│林筱娟│柯修煌意圖為自己不│被告柯修煌於警詢│500元       │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日9時3分許│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │      │間，以徒手方式竊取│  偵卷(二十)第41頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │被害人所有停放於彰│  、偵卷(一)第67頁反│            │            │算壹日。            │
 │    │          │      │化縣伸港鄉大同村大│  面）。          │            │            │                    │
-│    │          │      │同三街1號前未上鎖 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │同三街1號前未上鎖 │被害人於警詢之指│            │            │                    │
 │    │          │      │之腳踏車1輛，供作 │  訴（偵卷(二十)第29頁│            │            │                    │
 │    │          │      │代步工具（已尋獲）│  反面）。        │            │            │                    │
-│    │          │      │。                │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />扣押物品目錄表（│            │            │                    │
+│    │          │      │。                │扣押物品目錄表（│            │            │                    │
 │    │          │      │                  │  偵卷(二十)第33頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │                  │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(二十)第35頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片及現場照片│            │            │                    │
 │    │          │      │                  │  10張（偵卷(二十)第18│            │            │                    │
 │    │          │      │                  │  頁至第22頁）。  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│29  │104年6月24│柯清棟│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
+│29  │104年6月24│柯清棟│柯修煌意圖為自己不│被告柯修煌於警詢│不詳        │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日9時30分 │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，見被害人所有停│  偵卷(二十)第44頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │放於彰化縣伸港鄉七│  卷(一)第67頁反面）│            │            │算壹日。            │
 │    │          │      │嘉村嘉二路89號前之│  。              │            │            │                    │
-│    │          │      │車號000-000號重型 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │車號000-000號重型 │被害人於警詢之指│            │            │                    │
 │    │          │      │機車有機車鑰匙未拔│  訴（偵卷(二十)第26頁│            │            │                    │
 │    │          │      │，即以徒手方式竊取│  反面）。        │            │            │                    │
-│    │          │      │該機車得手，嗣騎乘│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │該機車得手，嗣騎乘│彰化縣警察局車輛│            │            │                    │
 │    │          │      │後再棄置在彰化縣和│  協尋電腦輸入單（│            │            │                    │
 │    │          │      │美鎮和線路13行旁（│  偵卷(二十)第28頁）。│            │            │                    │
-│    │          │      │已尋獲）。        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │已尋獲）。        │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(二十)第40頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片及現場照片│            │            │                    │
 │    │          │      │                  │  5張（偵卷(二十)第23 │            │            │                    │
 │    │          │      │                  │  頁至第25頁）。  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│30  │104年6月26│李慶河│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│30  │104年6月26│李慶河│柯修煌意圖為自己不│被告柯修煌於警詢│1000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日7時30分 │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │許        │      │間，以徒手方式，竊│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6672A0A00000040.GIF" />第29頁、偵│            │            │金，以新臺幣壹仟元折│
+│    │許        │      │間，以徒手方式，竊│  偵卷第29頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │取被害人所有停於彰│  卷(一)第68頁反面）│            │            │算壹日。            │
 │    │          │      │化縣伸港鄉大同村大│  。              │            │            │                    │
-│    │          │      │同路57號前未上鎖之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
-│    │          │      │腳踏車1輛得手，供 │  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6672A0A00000040.GIF" />第22頁│            │            │                    │
+│    │          │      │同路57號前未上鎖之│被害人於警詢之指│            │            │                    │
+│    │          │      │腳踏車1輛得手，供 │  訴（偵卷第22頁│            │            │                    │
 │    │          │      │作代步工具（已尋獲│  反面）。        │            │            │                    │
-│    │          │      │）。              │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6672A0A00000040.GIF" />第27頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │）。              │贓物認領保管單（│            │            │                    │
+│    │          │      │                  │  偵卷第27頁）。│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片及現場照片│            │            │                    │
-│    │          │      │                  │  8張（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6672A0A00000040.GIF" />第18 │            │            │                    │
+│    │          │      │                  │  8張（偵卷第18 │            │            │                    │
 │    │          │      │                  │  頁至第21頁）。  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│31  │104年6月26│黃珮琪│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│2000元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
+│31  │104年6月26│黃珮琪│柯修煌意圖為自己不│被告柯修煌於警詢│2000元      │刑法第321條 │柯修煌犯侵入住宅竊盜│
 │    │日12時40分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款  │罪，處有期徒刑陸月，│
 │    │許        │      │間，駕駛周銘賢之母│  偵卷(七)第29頁反面│            │            │如易科罰金，以新臺幣│
 │    │          │      │葉月照所有車牌0768│  、偵卷(一)第64頁）│            │            │壹仟元折算壹日。    │
 │    │          │      │-GB號自小客車前往 │  。              │            │            │                    │
-│    │          │      │被害人位於彰化縣線│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │被害人位於彰化縣線│被害人於警詢之指│            │            │                    │
 │    │          │      │西鄉○○路00巷00號│  訴（偵卷(七)第20頁│            │            │                    │
 │    │          │      │之住宅，侵入後並竊│  ）。            │            │            │                    │
-│    │          │      │取神明紅包（內有10│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │取神明紅包（內有10│監視器錄影畫面翻│            │            │                    │
 │    │          │      │00 元）2個得手。  │  拍照片4張（偵卷 │            │            │                    │
 │    │          │      │                  │  (七)第16頁至第17頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />證人葉月照於警詢│            │            │                    │
+│    │          │      │                  │證人葉月照於警詢│            │            │                    │
 │    │          │      │                  │  之證述（偵卷(七)第│            │            │                    │
 │    │          │      │                  │  22頁）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />車輛詳細資料報表│            │            │                    │
+│    │          │      │                  │車輛詳細資料報表│            │            │                    │
 │    │          │      │                  │ （偵卷(七)第23頁） │            │            │                    │
 │    │          │      │                  │  。              │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />證人周銘賢於警詢│            │            │                    │
+│    │          │      │                  │證人周銘賢於警詢│            │            │                    │
 │    │          │      │                  │  之證述（偵卷(七)第│            │            │                    │
 │    │          │      │                  │  26頁）。        │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />指認犯罪嫌疑人紀│            │            │                    │
+│    │          │      │                  │指認犯罪嫌疑人紀│            │            │                    │
 │    │          │      │                  │  錄表（偵卷(七)第28│            │            │                    │
 │    │          │      │                  │  頁）。          │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│32  │104年6月26│李素蘭│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│3萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
+│32  │104年6月26│李素蘭│柯修煌意圖為自己不│被告柯修煌於警詢│3萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日14時30分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │間，見被害人所有停│  偵卷(十四)第25頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │放於彰化縣伸港鄉溪│  、偵卷(一)第66頁  │            │            │算壹日。            │
 │    │          │      │底村彰新路7段399之│  ）。            │            │            │                    │
-│    │          │      │5號工廠內之車號000│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │5號工廠內之車號000│被害人於警詢之指│            │            │                    │
 │    │          │      │-NXJ號重型機車有機│  訴（偵卷(十四)第22頁│            │            │                    │
 │    │          │      │車鑰匙未拔，即以徒│  反面）。        │            │            │                    │
-│    │          │      │手方式竊取該機車得│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │手方式竊取該機車得│彰化縣警察局車輛│            │            │                    │
 │    │          │      │手，嗣騎乘後再棄置│  協尋電腦輸入單（│            │            │                    │
 │    │          │      │在彰化縣秀水鄉福安│  偵卷(十四)第23頁）。│            │            │                    │
-│    │          │      │村民意街204號前（ │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │村民意街204號前（ │贓物認領保管單（│            │            │                    │
 │    │          │      │已尋獲）。        │  偵卷(十四)第26頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │                  │監視器錄影畫面翻│            │            │                    │
 │    │          │      │                  │  拍照片及車輛尋獲│            │            │                    │
 │    │          │      │                  │  照片12張（偵卷(十四)│            │            │                    │
 │    │          │      │                  │  第16頁至第21頁）│            │            │                    │
 │    │          │      │                  │  。              │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│33  │104年6月26│周廷叡│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│3500元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│33  │104年6月26│周廷叡│柯修煌意圖為自己不│被告柯修煌於警詢│3500元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日14時31分│（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
-│    │許        │      │間，進入彰化縣伸港│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6642A0A00000040.GIF" />第23頁反面│            │            │金，以新臺幣壹仟元折│
+│    │許        │      │間，進入彰化縣伸港│  偵卷第23頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │鄉曾家村曾家路2之 │  、偵卷(一)第69頁反│            │            │算壹日。            │
 │    │          │      │25 號「雷王會」廟 │  面）。          │            │            │                    │
-│    │          │      │內，以徒手方式竊取│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
-│    │          │      │廟內之香油箱（內有│  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6642A0A00000040.GIF" />第22頁│            │            │                    │
+│    │          │      │內，以徒手方式竊取│被害人於警詢之指│            │            │                    │
+│    │          │      │廟內之香油箱（內有│  訴（偵卷第22頁│            │            │                    │
 │    │          │      │現金3500元）得手後│  反面）。        │            │            │                    │
-│    │          │      │，再將其放置於機車│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │，再將其放置於機車│監視器錄影畫面翻│            │            │                    │
 │    │          │      │腳踏板載走。      │  拍照片7張（偵卷 │            │            │                    │
-│    │          │      │                  │  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6642A0A00000040.GIF" />第18頁至第21頁│            │            │                    │
+│    │          │      │                  │  第18頁至第21頁│            │            │                    │
 │    │          │      │                  │  ）。            │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│34  │104年6月27│周秀鑾│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│2萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
+│34  │104年6月27│周秀鑾│柯修煌意圖為自己不│被告柯修煌於警詢│2萬元       │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日8時許   │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │      │間，見被害人所有停│  偵卷(九)第23頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │放於彰化縣伸港鄉海│  卷(一)第64頁反面）│            │            │算壹日。            │
 │    │          │      │尾村海尾路50號前之│  。              │            │            │                    │
-│    │          │      │車號000-000號重型 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │車號000-000號重型 │被害人於警詢之指│            │            │                    │
 │    │          │      │機車有機車鑰匙未拔│  訴（偵卷(九)第18頁│            │            │                    │
 │    │          │      │，即以徒手方式竊取│  反面）。        │            │            │                    │
-│    │          │      │該機車得手，嗣騎乘│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │該機車得手，嗣騎乘│彰化縣警察局車輛│            │            │                    │
 │    │          │      │後再棄置在彰化縣彰│  協尋電腦輸入單（│            │            │                    │
 │    │          │      │化市○○路○段00號│  偵卷(九)第21頁）。│            │            │                    │
-│    │          │      │前（已尋獲）。    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │前（已尋獲）。    │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(九)第20頁）。│            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />現場照片4張（偵 │            │            │                    │
+│    │          │      │                  │現場照片4張（偵 │            │            │                    │
 │    │          │      │                  │  卷(九)第16頁至第17│            │            │                    │
 │    │          │      │                  │  頁）。          │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│35  │104年7月3 │陳宥蓉│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│3000元      │刑法第320條 │柯修煌共同犯竊盜罪，│
+│35  │104年7月3 │陳宥蓉│柯修煌意圖為自己不│被告柯修煌於警詢│3000元      │刑法第320條 │柯修煌共同犯竊盜罪，│
 │    │日13時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │處有期徒刑貳月，如易│
-│    │          │      │間，由周銘賢騎乘所│  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />第40頁、偵│            │            │科罰金，以新臺幣壹仟│
+│    │          │      │間，由周銘賢騎乘所│  偵卷第40頁、偵│            │            │科罰金，以新臺幣壹仟│
 │    │          │      │有車牌號碼000-000 │  卷(一)第68頁）。  │            │            │元折算壹日。        │
-│    │          │      │號重型機車搭載柯修│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告柯修煌於警詢│            │            │                    │
+│    │          │      │號重型機車搭載柯修│被告柯修煌於警詢│            │            │                    │
 │    │          │      │煌前往彰化縣和美鎮│  及偵訊中之自白（│            │            │                    │
-│    │          │      │彰美路6段19號「龍 │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />第42頁反  │            │            │                    │
+│    │          │      │彰美路6段19號「龍 │  偵卷第42頁反  │            │            │                    │
 │    │          │      │天下大樓」，再由柯│  面、偵卷(十七)第79頁│            │            │                    │
 │    │          │      │修煌進入該大樓地下│  ）。            │            │            │                    │
-│    │          │      │室內，，以自備鑰匙│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
-│    │          │      │竊取被害人所有停放│  訴（偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />第29頁│            │            │                    │
+│    │          │      │室內，，以自備鑰匙│被害人於警詢之指│            │            │                    │
+│    │          │      │竊取被害人所有停放│  訴（偵卷第29頁│            │            │                    │
 │    │          │      │於地下室之車號    │  反面）。        │            │            │                    │
-│    │          │      │KNU-909號重型機車 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />現場照片18張（偵│            │            │                    │
-│    │          │      │得手（已尋獲）。  │  卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />第28頁）。  │            │            │                    │
-│    │          │      │                  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │KNU-909號重型機車 │現場照片18張（偵│            │            │                    │
+│    │          │      │得手（已尋獲）。  │  卷第28頁）。  │            │            │                    │
+│    │          │      │                  │彰化縣警察局車輛│            │            │                    │
 │    │          │      │                  │  協尋電腦輸入單（│            │            │                    │
-│    │          │      │                  │  偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />第32頁）。│            │            │                    │
+│    │          │      │                  │  偵卷第32頁）。│            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│36  │104年7月4 │黃清源│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│4、500元    │刑法第321條 │柯修煌犯毀越門扇侵入│
+│36  │104年7月4 │黃清源│柯修煌意圖為自己不│被告柯修煌於警詢│4、500元    │刑法第321條 │柯修煌犯毀越門扇侵入│
 │    │日10時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項第1款、│住宅竊盜罪，處有期徒│
 │    │          │      │間，前往被害人位於│  偵卷(十八)第22頁、偵│            │第2款       │刑陸月，如易科罰金，│
 │    │          │      │彰化縣線西鄉線西村│  卷(一)第67頁）。  │            │            │以新臺幣壹仟元折算壹│
-│    │          │      │線西路17號住宅，以│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │日。                │
+│    │          │      │線西路17號住宅，以│被害人於警詢之指│            │            │日。                │
 │    │          │      │身體撞擊該住宅門板│  訴（偵卷(十八)第20頁│            │            │                    │
 │    │          │      │之方式，將門撞開後│  反面）。        │            │            │                    │
-│    │          │      │侵入住宅竊取被害人│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />現場照片6張（偵 │            │            │                    │
+│    │          │      │侵入住宅竊取被害人│現場照片6張（偵 │            │            │                    │
 │    │          │      │所有放於宅內客廳桌│  卷(十八)第17頁至第19│            │            │                    │
 │    │          │      │上皮包內現金4、500│  頁）。          │            │            │                    │
 │    │          │      │元得手。          │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│37  │104年7月6 │謝欣谷│柯修煌與周銘賢共同│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│5100元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│37  │104年7月6 │謝欣谷│柯修煌與周銘賢共同│被告柯修煌於警詢│5100元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日8時46分 │（無）│意圖為自己不法之所│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │許        │      │有，於左列時間，柯│  偵卷(十七)第47頁、偵│            │            │金，以新臺幣壹仟元折│
 │    │          │      │修煌騎乘周銘賢所有│  卷(一)第66頁反面）│            │            │算壹日。            │
 │    │          │      │車牌號碼000-000號 │  。              │            │            │                    │
-│    │          │      │重型機車搭載周銘賢│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />共同被告柯修煌於│            │            │                    │
+│    │          │      │重型機車搭載周銘賢│共同被告柯修煌於│            │            │                    │
 │    │          │      │前往「廣澤宮」，推│  警詢中之證述（偵│            │            │                    │
 │    │          │      │由周銘賢在外把風，│  卷(十七)第47頁反面）│            │            │                    │
 │    │          │      │柯修煌則進入「廣澤│  。              │            │            │                    │
-│    │          │      │宮」，以徒手方式將│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │宮」，以徒手方式將│被害人於警詢之指│            │            │                    │
 │    │          │      │壓克力材質之香油錢│  訴（偵卷(十七)第40頁│            │            │                    │
 │    │          │      │箱破壞後竊取紙鈔得│  反面）。        │            │            │                    │
-│    │          │      │手後，再由周銘賢騎│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │手後，再由周銘賢騎│監視器錄影畫面翻│            │            │                    │
 │    │          │      │乘上揭機車搭載柯修│  拍照片及現場照片│            │            │                    │
 │    │          │      │煌逃逸。          │  18張（偵卷(十七)第  │            │            │                    │
 │    │          │      │                  │  31頁至第39頁）。│            │            │                    │
@@ -954,49 +847,49 @@ function openwin(URL,arguments,width,height)
 │    │          │      │                  │                  │            │            │                    │
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│38  │104年7月7 │黃姍苗│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│5000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│38  │104年7月7 │黃姍苗│柯修煌意圖為自己不│被告柯修煌於警詢│5000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日15時許  │（無）│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │      │間，以自備鑰匙開啟│  偵卷(十九)第31頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │機車電門方式，竊取│  、偵卷(一)第67頁）│            │            │算壹日。未扣案之鑰匙│
 │    │          │      │被害人所有停放於彰│  。              │            │            │壹支沒收。          │
-│    │          │      │化縣伸港鄉大同村大│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │化縣伸港鄉大同村大│被害人於警詢之指│            │            │                    │
 │    │          │      │同路30之3號前之車 │  訴（偵卷(十九)第30頁│            │            │                    │
 │    │          │      │號PS2-077號重型機 │  反面）。        │            │            │                    │
-│    │          │      │車，嗣騎乘後再棄置│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />彰化縣警察局車輛│            │            │                    │
+│    │          │      │車，嗣騎乘後再棄置│彰化縣警察局車輛│            │            │                    │
 │    │          │      │在彰化縣線西鄉沿海│  協尋電腦輸入單（│            │            │                    │
 │    │          │      │路892號前（已尋獲 │  偵卷(十九)第28頁）。│            │            │                    │
-│    │          │      │）。              │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />贓物認領保管單（│            │            │                    │
+│    │          │      │）。              │贓物認領保管單（│            │            │                    │
 │    │          │      │                  │  偵卷(十九)第29頁）。│            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│39  │104年7月7 │曾黃秀│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│1萬6000元   │刑法第320條 │柯修煌犯竊盜罪，處有│
+│39  │104年7月7 │曾黃秀│柯修煌意圖為自己不│被告柯修煌於警詢│1萬6000元   │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日16時許  │鸞（有│法之所有，於左列時│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │）    │間，騎乘伊所竊之車│  偵卷(十九)第31頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │號PS2-077號重型機 │  、偵卷(一)第67頁）│            │            │算壹日。            │
 │    │          │      │車前往位於彰化縣伸│  。              │            │            │                    │
-│    │          │      │港鄉泉州村仁愛路  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │港鄉泉州村仁愛路  │被害人於警詢之指│            │            │                    │
 │    │          │      │123號之「泉安宮」 │  訴（偵卷(十九)第21頁│            │            │                    │
 │    │          │      │，以徒手方式竊取  │  反面）。        │            │            │                    │
-│    │          │      │被害人所有皮包1個 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │被害人所有皮包1個 │監視器錄影畫面翻│            │            │                    │
 │    │          │      │（內有現金1萬6000 │  拍照片及現場照片│            │            │                    │
 │    │          │      │元、印章1個、健保 │  18張（偵卷(十九)第18│            │            │                    │
 │    │          │      │卡、身分證、提款卡│  頁至第20頁）。  │            │            │                    │
-│    │          │      │各1張及手機1支（  │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />被害人郵政存簿儲│            │            │                    │
+│    │          │      │各1張及手機1支（  │被害人郵政存簿儲│            │            │                    │
 │    │          │      │0000000000）得手。│  金簿影本（偵卷(十九)│            │            │                    │
 │    │          │      │                  │  第22頁）。      │            │            │                    │
 ├──┼─────┼───┼─────────┼─────────┼──────┼──────┼──────────┤
-│40  │104年7月7 │曾黃秀│柯修煌意圖為自己不│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告柯修煌於警詢│5000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
+│40  │104年7月7 │曾黃秀│柯修煌意圖為自己不│被告柯修煌於警詢│5000元      │刑法第320條 │柯修煌犯竊盜罪，處有│
 │    │日18時許  │鸞（有│法之所有，於104年7│  及偵訊中之自白（│            │第1項       │期徒刑貳月，如易科罰│
 │    │          │）    │月7日16時許，騎乘 │  偵卷(十九)第31頁反面│            │            │金，以新臺幣壹仟元折│
 │    │          │      │伊所竊之車號000-00│  、偵卷(一)第67頁）│            │            │算壹日。            │
 │    │          │      │7號重型機車前往位 │  。              │            │            │                    │
-│    │          │      │於彰化縣伸港鄉泉州│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被害人於警詢之指│            │            │                    │
+│    │          │      │於彰化縣伸港鄉泉州│被害人於警詢之指│            │            │                    │
 │    │          │      │村仁愛路123號之「 │  訴（偵卷(十九)第21頁│            │            │                    │
 │    │          │      │泉安宮」，以徒手方│  反面）。        │            │            │                    │
-│    │          │      │式竊取被害人所有皮│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />監視器錄影畫面翻│            │            │                    │
+│    │          │      │式竊取被害人所有皮│監視器錄影畫面翻│            │            │                    │
 │    │          │      │包1個（內有現金1萬│  拍照片及現場照片│            │            │                    │
 │    │          │      │6000元、印章1個、 │  18張（偵卷(十九)第18│            │            │                    │
 │    │          │      │健保卡、身分證、提│  頁至第20頁）。  │            │            │                    │
-│    │          │      │款卡各1張及手機1支│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />被害人郵政存簿儲│            │            │                    │
+│    │          │      │款卡各1張及手機1支│被害人郵政存簿儲│            │            │                    │
 │    │          │      │（0000000000）得手│  金簿影本（偵卷(十九)│            │            │                    │
 │    │          │      │後，復於左列時間持│  第22頁）。      │            │            │                    │
 │    │          │      │用被害人之提款卡前│                  │            │            │                    │
@@ -1010,96 +903,22 @@ function openwin(URL,arguments,width,height)
 │    │          │      │                  │                  │            │            │                    │
 ├──┼─────┴───┴─────────┴─────────┴──────┴──────┴──────────┤
 │ 附 │臺灣彰化地方法院檢察署偵查卷宗簡稱如下：                                                                    │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />偵卷(一)即104年度偵字第5355號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />偵卷(二)即104年度偵字第5387號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />偵卷(三)即104年度偵字第5670號、               │
-│ 註 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />偵卷(四)即104年度偵字第5817號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />偵卷(五)即104年度偵字第6028號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />偵卷(六)即104年度偵字第6372號、               │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />偵卷(七)即104年度偵字第6378號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />偵卷(八)即104年度偵字第6454號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />偵卷(九)即104年度偵字第6496號、               │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />偵卷(十)即104年度偵字第6556號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />偵卷(十一)即104年度偵字第6589號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />偵卷(十二)即104年度偵字第6610號、               │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />偵卷(十三)即104年度偵字第6611號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />偵卷(十四)即104年度偵字第6651號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5762A0A00000040.GIF" />偵卷(十五)即104年度偵字第6652號、               │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />偵卷(十六)即104年度偵字第6653號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5742A0A00000040.GIF" />偵卷(十七)即104年度偵字第6679號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" />偵卷(十八)即104年度偵字第6855號、               │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5722A0A00000040.GIF" />偵卷(十九)即104年度偵字第6954號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5712A0A00000040.GIF" />偵卷(二十)即104年度偵字第6955號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5702A0A00000040.GIF" />偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />即104年度偵字第7058號、               │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />即104年度偵字第7133號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />即104年度偵字第7227號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56D2A0A00000040.GIF" />偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6672A0A00000040.GIF" />即104年度偵字第7345號、               │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56C2A0A00000040.GIF" />偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />即104年度偵字第7409號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56B2A0A00000040.GIF" />偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6652A0A00000040.GIF" />即104年度偵字第7451號、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56A2A0A00000040.GIF" />偵卷<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6642A0A00000040.GIF" />即104年度偵字第7488號。               │
+│    │偵卷(一)即104年度偵字第5355號、偵卷(二)即104年度偵字第5387號、偵卷(三)即104年度偵字第5670號、               │
+│ 註 │偵卷(四)即104年度偵字第5817號、偵卷(五)即104年度偵字第6028號、偵卷(六)即104年度偵字第6372號、               │
+│    │偵卷(七)即104年度偵字第6378號、偵卷(八)即104年度偵字第6454號、偵卷(九)即104年度偵字第6496號、               │
+│    │偵卷(十)即104年度偵字第6556號、偵卷(十一)即104年度偵字第6589號、偵卷(十二)即104年度偵字第6610號、               │
+│    │偵卷(十三)即104年度偵字第6611號、偵卷(十四)即104年度偵字第6651號、偵卷(十五)即104年度偵字第6652號、               │
+│    │偵卷(十六)即104年度偵字第6653號、偵卷(十七)即104年度偵字第6679號、偵卷(十八)即104年度偵字第6855號、               │
+│    │偵卷(十九)即104年度偵字第6954號、偵卷(二十)即104年度偵字第6955號、偵卷即104年度偵字第7058號、               │
+│    │偵卷即104年度偵字第7133號、偵卷即104年度偵字第7227號、偵卷即104年度偵字第7345號、               │
+│    │偵卷即104年度偵字第7409號、偵卷即104年度偵字第7451號、偵卷即104年度偵字第7488號。               │
 │    │                                                                                                            │
-└──┴──────────────────────────────────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10410\12\CHDM104AC.00F] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000369&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c369%2c20151012%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=369&jdate=1041012&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c369%2c20151012%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=369&jdate=1041012&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c369%2c20151012%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','369','1041012','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王惠美">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王惠美">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴──────────────────────────────────────────────────────┘
+[*jrecno*]104,訴,369,20151012,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]369
+[*jdate*]1041012
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-104上訴1368</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001368&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1368&jdate=1040730&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1368&jdate=1040730&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1368','1040730','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,上訴,1368</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040730</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反商業會計法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 104年度上訴字第1368號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1368&jdate=1040730&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001368&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1368&jdate=1040730&jcheck=1
+[*裁判字號*]104,上訴,1368
+[*裁判日期*]1040730
+[*裁判案由*]違反商業會計法等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 104年度上訴字第1368號
 上　訴　人
 即　被　告　李佶霖原名李責寧
 選任辯護人　陳佑仲律師
@@ -135,37 +28,37 @@ function openwin(URL,arguments,width,height)
       得全菱公司員工之同意或授權，竟基於行使偽造私文書、
       填製不實會計憑證及記入帳冊、利用此不正當方法致使會
       計事項及財務報表發生不實之結果之犯意，藉著保管全菱
-      公司員工印章之機會，在全菱公司內盜用全菱公司員工<font color='red'>郭
-      淑娟</font>、張翰、潘忠良、吳宗儒、鄭張俊傑、張修瑋為辦理
-      勞健保所交付與公司之印章，逕自蓋印在不實填載<font color='red'>郭淑娟
-      </font>等6人各已領款1萬5,000元至3萬3,000元不等之端午節獎
+      公司員工印章之機會，在全菱公司內盜用全菱公司員工郭
+      淑娟、張翰、潘忠良、吳宗儒、鄭張俊傑、張修瑋為辦理
+      勞健保所交付與公司之印章，逕自蓋印在不實填載郭淑娟
+      等6人各已領款1萬5,000元至3萬3,000元不等之端午節獎
       金之「全菱公司100年6月端午節獎金」具領清冊領款人簽
       章處，填製此屬全菱公司原始內部憑證之商業會計憑證，
-      表示全菱公司員工<font color='red'>郭淑娟</font>等6人各已具領1萬5,000元至3萬
+      表示全菱公司員工郭淑娟等6人各已具領1萬5,000元至3萬
       3,000元不等之端午節獎金之意，而偽造上開屬私文書之
       具領清冊，交予記帳業者而行使之，使不知情之記帳業者
       記入帳冊，致全菱公司會計事項及財務報表發生不實結果
-      ，足生損害於全菱公司員工<font color='red'>郭淑娟</font>等6人及全菱公司會計
+      ，足生損害於全菱公司員工郭淑娟等6人及全菱公司會計
       財務之正確性。
 （二）於101年間擔任全菱公司經理人時，明知全菱公司101年之
       勞動節、端午節獎金各僅核發每人1,200元，亦未取得全
       菱公司員工之同意或授權，竟基於行使偽造私文書、填製
       不實會計憑證及記入帳冊、利用此不正當方法致使會計事
       項及財務報表發生不實結果之犯意，藉著保管全菱公司員
-      工印章之機會，在全菱公司內盜用全菱公司員工<font color='red'>郭淑娟</font>、
+      工印章之機會，在全菱公司內盜用全菱公司員工郭淑娟、
       潘忠良、吳宗儒、吳宸萱、李科瑩、林明豐、張迪鈞、楊
       尚哲、黃俊田、李文忠、楊素倩等11人為辦理勞健保所交
-      付與公司之印章，逕自蓋印在不實填載<font color='red'>郭淑娟</font>等11人各已
+      付與公司之印章，逕自蓋印在不實填載郭淑娟等11人各已
       領款2萬元至6萬1,000元不等之勞動節、端午節獎金之「
       全菱公司101年5月勞動節獎金」、「全菱公司101年6月端
       午節獎金」具領清冊領款人簽章處，填製上開屬全菱公司
-      原始內部憑證之商業會計憑證，表示全菱公司員工<font color='red'>郭淑娟
-      </font>等11人各已具領2萬元至6萬1,000元不等之勞動節、端午
+      原始內部憑證之商業會計憑證，表示全菱公司員工郭淑娟
+      等11人各已具領2萬元至6萬1,000元不等之勞動節、端午
       節獎金之意，而偽造上開屬私文書之具領清冊，一同於10
       1年11月29日傳真交予擔任全菱公司臨時管理人之會計師
       田乾隆而行使之，使不知情之田乾隆記入帳冊，致全菱公
       司會計事項及財務報表發生不實結果，足生損害於全菱公
-      司員工<font color='red'>郭淑娟</font>等11人及全菱公司會計財務之正確性。
+      司員工郭淑娟等11人及全菱公司會計財務之正確性。
 二、案經全菱電梯股份有限公司提起自訴及追加自訴。
     理  由
 壹、程序部分
@@ -245,7 +138,7 @@ function openwin(URL,arguments,width,height)
     力。
 貳、實體部分：
 一、訊據上訴人即被告李佶霖對於上開事實坦承不諱，並據證人
-    <font color='red'>郭淑娟</font>、吳宸萱、田乾隆於原審審理中具結證述在卷（見原
+    郭淑娟、吳宸萱、田乾隆於原審審理中具結證述在卷（見原
     審卷四第66至67頁、第68頁反面至69頁、第70至75頁），復
     有全菱公司變更登記表及公司及分公司基本資料查詢、被告
     李佶霖辭職書、全菱公司100年6月端午節獎金具領清冊、現
@@ -260,8 +153,8 @@ function openwin(URL,arguments,width,height)
     ，上開事實洵堪認定，被告犯行事證明確，應依法論科。
 二、被告先後擔任全菱公司之董事長及經理人，為公司法上之公
     司負責人，即為商業會計法上所稱之商業負責人，其先後未
-    經前述<font color='red'>郭淑娟</font>、張翰、潘忠良、吳宗儒、鄭張俊傑、張修瑋
-    等6人及<font color='red'>郭淑娟</font>、潘忠良、吳宗儒、吳宸萱、李科瑩、林明
+    經前述郭淑娟、張翰、潘忠良、吳宗儒、鄭張俊傑、張修瑋
+    等6人及郭淑娟、潘忠良、吳宗儒、吳宸萱、李科瑩、林明
     豐、張迪鈞、楊尚哲、黃俊田、李文忠、楊素倩等11人之同
     意或授權，即盜用前述全菱公司員工之印章，擅自蓋印在屬
     商業會計法所稱原始憑證之具領清冊上，前揭具領清冊性質
@@ -329,7 +222,7 @@ function openwin(URL,arguments,width,height)
     ，自難認有何違法或不當，至於員工本來就未對被告提出告
     訴，渠等是否不追究即非本案考量之事項，被告上訴指摘原
     判決量刑過重，難認為有理由，其上訴應予駁回。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、不另為無罪之諭知：
+、不另為無罪之諭知：
 一、自訴及追加自訴意旨另以：被告意圖不法所有，分別為下列
     犯行：(一)明知100年6月端午節時，全菱公司僅各給付6名員
     工端午節獎金每人1,200元，竟虛報全菱公司員工均領得相
@@ -422,86 +315,12 @@ function openwin(URL,arguments,width,height)
 四、故意遺漏會計事項不為記錄，致使財務報表發生不實之結果
     。
 五、其他利用不正當方法，致使會計事項或財務報表發生不實之
-    結果。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10407\30\TPHM1047U.00N] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001368&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1368&jdate=1040730&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1368&jdate=1040730&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1368%2c20150730%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1368','1040730','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="郭淑娟">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="郭淑娟">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+    結果。
+[*jrecno*]104,上訴,1368,20150730,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]上訴
+[*jno*]1368
+[*jdate*]1040730
+[*jcheck*]1

@@ -1,122 +1,15 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-102訴825</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000825&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c825%2c20131105%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=825&jdate=1021105&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c825%2c20131105%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=825&jdate=1021105&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c825%2c20131105%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','825','1021105','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,825</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021105</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">動物傳染病防治條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　000年度訴字第825號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c825%2c20131105%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=825&jdate=1021105&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000825&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c825%2c20131105%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=825&jdate=1021105&jcheck=1
+[*裁判字號*]102,訴,825
+[*裁判日期*]1021105
+[*裁判案由*]動物傳染病防治條例
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　000年度訴字第825號
 公　訴　人　臺灣桃園地方法院檢察署檢察官 
 被　　　告　陳家田
 　　　　　　黃彥霖
-　　　　　　<font color='red'>鍾文龍
-</font>上列被告因動物傳染病防治條例案件，經檢察官提起公訴（ 102
+　　　　　　鍾文龍
+上列被告因動物傳染病防治條例案件，經檢察官提起公訴（ 102
 年度偵字第4560號），嗣因被告於本院準備程序進行中，就被訴
 事實為有罪之陳述，經本院告知簡式審判程序意旨，並聽取公訴
 人及被告之意見後，本院合議庭裁定本件由受命法官改依簡式審
@@ -128,7 +21,7 @@ function openwin(URL,arguments,width,height)
 黃彥霖共同犯動物傳染病防治條例第41條第1 項之非法輸入檢疫
 物罪，處有期徒刑肆月，如易科罰金，以新臺幣壹仟元折算壹日
 。
-<font color='red'>鍾文龍</font>共同犯動物傳染病防治條例第41條第1 項之非法輸入檢疫
+鍾文龍共同犯動物傳染病防治條例第41條第1 項之非法輸入檢疫
 物罪，處有期徒刑陸月，如易科罰金，以新臺幣壹仟元折算壹日
 。
     事  實
@@ -137,28 +30,28 @@ function openwin(URL,arguments,width,height)
     例案件，經臺灣金門地方法院於100 年4 月14日以100 年度
     訴字第13號判處有期徒刑3 月，併科罰金新臺幣（下同）10
     萬元，於100 年5 月23日確定，於100 年11月22日易服社會
-    勞動而履行完畢，林宗正、<font color='red'>鍾文龍</font>與徐嘉金另於100 年間，
+    勞動而履行完畢，林宗正、鍾文龍與徐嘉金另於100 年間，
     因自大陸地區輸入保育或非保育類鳥類而共犯違反懲治走私
     條例等案件，經臺灣臺中地方法院於102 年1 月2 日以 101
-    年訴字第2721號判決，林宗正部分另行審結，而<font color='red'>鍾文龍</font>部分
+    年訴字第2721號判決，林宗正部分另行審結，而鍾文龍部分
     判處有期徒刑7 月，緩刑3 年，並應向地檢署檢察官所指定
     之機構或團體提供150 小時之義務勞務確定（現於緩刑期間
     ），徐嘉金部分判處有期徒刑7 月、7 月，應執行有期徒刑
     8 月，緩刑3 年，並應於判決確定之日起1 年內，向臺中市
     政府教育局支付新臺幣30萬元確定（現於緩刑期間）。詎林
-    宗正（另案審結）竟不知悔改，而與<font color='red'>鍾文龍</font>（綽號矮仔、佰
+    宗正（另案審結）竟不知悔改，而與鍾文龍（綽號矮仔、佰
     九）、網路商店「幸福鳥坊之負責人」徐嘉金（另行審結）
     、「臺北綠繡眼俱樂部」之負責人陳家田（綽號小田田、阿
     田）、鳥類玩家黃彥霖均明知中國大陸屬行政院農業委員會
     （下稱農委會）公告之高病原性家禽流行性感冒（SARS，俗
     稱禽流感）國家，而大陸地區活體禽鳥，均屬禁止擅自輸入
-    鳥類等檢疫物，竟未經農委會許可，林宗正、<font color='red'>鍾文龍</font>分別與
+    鳥類等檢疫物，竟未經農委會許可，林宗正、鍾文龍分別與
     徐嘉金、陳家田；黃彥霖與陳家田分別基於違反規定擅自輸
     入經公告禁止輸入之檢疫物之犯意聯絡，分別為下述行為：
   (一)徐嘉金、陳家田分別向林宗正，以不詳代價及每隻新臺幣（
     下同）7000元之代價訂購大陸地區綠繡眼1 隻及7 隻，隨後
-    由林宗正於大陸地區挑選，交予<font color='red'>鍾文龍</font>負責夾帶綠繡眼入境
-    ，<font color='red'>鍾文龍</font>即於100 年12月12日搭乘長榮航空公司BR-806號班
+    由林宗正於大陸地區挑選，交予鍾文龍負責夾帶綠繡眼入境
+    ，鍾文龍即於100 年12月12日搭乘長榮航空公司BR-806號班
     機自大陸地區，將上開禽鳥以1 個木盒裝綠繡眼1 隻，並藏
     放於隨身行李袋內之方式輸入臺灣，旋即於同日21時30分許
     ，在桃園縣中壢市之高鐵青埔站附近某處，將前開綠繡眼 7
@@ -175,7 +68,7 @@ function openwin(URL,arguments,width,height)
     5 樓住處交予陳家田，另將上開其所夾帶輸入之大陸地區綠
     繡眼2 隻交予陳家田寄養在前開住處頂樓加蓋鐵皮屋內。嗣
     於101 年9 月20日，經警持本院核發之搜索票前往陳家田住
-    處執行搜索，因<font color='red'>鍾文龍</font>所輸入之大陸地區綠繡眼7 隻業已死
+    處執行搜索，因鍾文龍所輸入之大陸地區綠繡眼7 隻業已死
     亡，僅查獲黃彥霖所輸入之大陸地區綠繡眼2 隻，並通報行
     政院農業委員會動植物防疫檢疫局新竹分局檢驗後銷毀（所
     採檢體檢測家禽流行性感冒結果陰性），始循線查知上情。
@@ -199,7 +92,7 @@ function openwin(URL,arguments,width,height)
     理念，且強化言詞辯論主義，使訴訟程序得以順暢進行，上
     開傳聞證據亦均具有證據能力。查本件下列所引用之被告以
     外之人於審判外之供述或非供述證據，因公訴人、被告陳家
-    田、黃彥霖、<font color='red'>鍾文龍</font>、徐嘉金及其辯護人於本院準備程序中
+    田、黃彥霖、鍾文龍、徐嘉金及其辯護人於本院準備程序中
     表示均同意有證據能力（見102 年審訴字第893 號卷《下稱
     審訴卷》第50頁、102 年訴字第825 號卷《下稱訴字卷》第
     28頁），且迄至言詞辯論終結前均未聲明異議，而本院審酌
@@ -209,20 +102,20 @@ function openwin(URL,arguments,width,height)
     屬適當，揆諸前開規定，認前揭證據資料應有證據能力，合
     先敘明。
 貳、實體部分
-  (一)訊據被告陳家田、黃彥霖、<font color='red'>鍾文龍</font>就前揭犯罪事實迭於警詢
+  (一)訊據被告陳家田、黃彥霖、鍾文龍就前揭犯罪事實迭於警詢
     、檢察官訊問、本院準備程序暨本院審理中均坦承不諱（陳
     家田部分，見101 年他字第5305號卷《下稱他字卷》第6 至
     20頁、102 年偵字第4560號卷《下稱偵字卷》第10至24頁、
     第42至43頁、他字卷第126 至130 頁、第190 至191 頁、審
     訴卷第48至49頁、訴字卷第27頁；黃彥霖部分，見他字卷第
     48至50頁、偵字卷第7 至9 頁、他字卷第132 至135 頁、審
-    訴卷第47至49頁、訴字卷第27頁反面；<font color='red'>鍾文龍</font>部分，見他字
+    訴卷第47至49頁、訴字卷第27頁反面；鍾文龍部分，見他字
     卷第165 至167 頁、偵字卷第64至65頁、他字卷第172 至17
     4 頁、審訴卷第47至49頁），核與證人柳瑞泰、盧剛益於警
     詢及偵訊中之證述（柳瑞泰部分，見他字卷第51至53頁、偵
     字卷第66至68頁、他字卷第121 至123 頁；盧剛益部分，見
     他字卷第54至57頁、偵字卷第69至72頁、他字卷第116 至11
-    9 至頁）相符，復有<font color='red'>鍾文龍</font>持用門號0000000000號與陳家田
+    9 至頁）相符，復有鍾文龍持用門號0000000000號與陳家田
     持用門號0000000000號於100 年12月12日至同年月13日、10
     1 年1 月21日之通訊監察譯文（見他字卷第21至24頁、第20
     7 至211 頁、第35至37頁、偵字卷第38至41頁、第35至37頁
@@ -232,10 +125,10 @@ function openwin(URL,arguments,width,height)
     35頁）、陳家田持用門號0000000000號與盧剛益持用00-000
     00000 號及門號0000000000號於100 年12月25日至同年月30
     日、101 年2 月26日至9 月14日之通訊監察譯文（見他字卷
-    第72至88頁、偵字卷第73至82頁）、<font color='red'>鍾文龍</font>持用門號000000
+    第72至88頁、偵字卷第73至82頁）、鍾文龍持用門號000000
     0000號、徐嘉金持用門號0000000000號與林宗正持用門號00
     00000000號於100 年11月15日至同年月16日之通訊監察譯文
-    （見他字卷第202 至206 頁）、<font color='red'>鍾文龍</font>持用門號0000000000
+    （見他字卷第202 至206 頁）、鍾文龍持用門號0000000000
     號、徐嘉金持用門號0000000000號與林宗正持用門號000000
     0000號於100 年12月13日至同年月14日、102 年1 月6 日之
     通訊監察譯文（見他字卷第212 至215 頁）、臺灣臺中地方
@@ -243,7 +136,7 @@ function openwin(URL,arguments,width,height)
     頁）、陳家田「臺北綠繡眼俱樂部」網頁列印資料（見他字
     卷第58至71頁、第91至103 頁、偵字卷第82至95頁）、搜索
     現場暨扣押物品照片（見他字卷第105 至110 頁、偵字卷第
-    97 至102頁）、黃彥霖、<font color='red'>鍾文龍</font>、林宗正之入出境資訊連結
+    97 至102頁）、黃彥霖、鍾文龍、林宗正之入出境資訊連結
     作業查詢結果（見他字卷第168 頁、他字卷第169 頁、訴字
     卷第36至38頁、第49之8 頁）、行政院農業委員會動植物防
     疫檢疫局新竹分局101 年10月9 日防檢竹動字第0000000000
@@ -261,28 +154,28 @@ function openwin(URL,arguments,width,height)
     為禽流感之非疫區國家外，其餘國家或地區均屬疫區，而大
     陸非屬公告之非疫區，故屬疫區等情，有行政院農業委員會
     99年12月3 日農防字第0000000000號函附卷足憑，合先敘明
-    。是被告陳家田、黃彥霖、<font color='red'>鍾文龍</font>三人違反動物傳染病防治
+    。是被告陳家田、黃彥霖、鍾文龍三人違反動物傳染病防治
     條例第33條規定擅自輸入禁止輸入之檢疫物，核渠所為，均
     係犯動物傳染病防治條例第41條第1 項之擅自輸入禁止輸入
-    之檢疫物罪。被告<font color='red'>鍾文龍</font>所犯該罪之構成要件行為為擅自輸
+    之檢疫物罪。被告鍾文龍所犯該罪之構成要件行為為擅自輸
     入禁止輸入檢疫物之行為，故其行為數自應以擅自輸入之行
-    為數劃分之，被告<font color='red'>鍾文龍</font>雖另於100 年12月27日亦有擅自輸
+    為數劃分之，被告鍾文龍雖另於100 年12月27日亦有擅自輸
     入禁止輸入檢疫物之行為而經臺灣臺中地方法院以101 年度
     訴字第2721號判決有罪確定在案，本件與該件間因無實質或
     裁判一罪之關係，自應於本件另為實體之裁判，附此敘明。
-    被告徐嘉金與林宗正、<font color='red'>鍾文龍</font>就犯罪事實一、(一)部分，被告
-    陳家田與林宗正、<font color='red'>鍾文龍</font>就犯罪事實一、(一)部分，陳家田與
+    被告徐嘉金與林宗正、鍾文龍就犯罪事實一、(一)部分，被告
+    陳家田與林宗正、鍾文龍就犯罪事實一、(一)部分，陳家田與
     黃彥霖就犯罪事實一、(二)部分，因其相互間互有犯意聯絡與
     行為分擔，應論以刑法第28條之共同正犯。爰審酌被告等人
     擅自由疫區輸入禁止輸入之檢疫物活體禽鳥8 隻、2 隻圖利
     ，影響檢疫機關對於動物傳染病之檢疫與防治，幸在陳家田
     住處所搜索扣押之活體小鳥經檢測家禽流行性感冒結果為陰
-    性反應等犯罪情節與所生危害程度及被告<font color='red'>鍾文龍</font>於本案案發
+    性反應等犯罪情節與所生危害程度及被告鍾文龍於本案案發
     後，復於100 年12月27日因與林宗正、徐嘉金共同自大陸地
     區以搭機夾帶綠繡眼18隻、鵲鴝5 隻、厚嘴葦鶯1 隻、畫眉
     2 隻等鳥類入境再轉交予徐嘉金等人販售圖利案件，經法院
     判處有期徒刑7 月、緩刑3 年，陳家田為國中畢業、家境貧
-    寒，黃彥霖家中經濟小康、<font color='red'>鍾文龍</font>家中經濟貧寒，及渠等到
+    寒，黃彥霖家中經濟小康、鍾文龍家中經濟貧寒，及渠等到
     案後均坦認犯行，態度尚佳等一切情狀，量處如主文所示之
     刑，以資懲儆。
 據上論斷，應依刑事訴訟法第273 條之1 第1 項、第299 條第 1
@@ -311,86 +204,12 @@ function openwin(URL,arguments,width,height)
 ，因執行業務，犯第1 項之罪者，除處罰其行為人外，對該法人
 或自然人亦科以第1 項之罰金。但法人之代表人或自然人對於犯
 罪之發生，已盡力為防止行為者，對該法人或自然人，不予處罰
-。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10211\05\TYDM102B5.00S] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000825&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c825%2c20131105%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=825&jdate=1021105&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c825%2c20131105%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=825&jdate=1021105&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c825%2c20131105%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','825','1021105','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="鍾文龍">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="鍾文龍">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+。
+[*jrecno*]102,訴,825,20131105,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]825
+[*jdate*]1021105
+[*jcheck*]1

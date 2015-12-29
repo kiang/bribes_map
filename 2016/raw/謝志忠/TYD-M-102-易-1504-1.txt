@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-102易1504</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+mV2bhz+1lomrjQnpty74T8dHXUI=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=001504&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c1504%2c20150414%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1504&jdate=1040414&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c1504%2c20150414%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1504&jdate=1040414&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c1504%2c20150414%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','1504','1040414','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,易,1504</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040414</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">侵占</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　 102年度易字第1504號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c1504%2c20150414%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1504&jdate=1040414&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=001504&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e6%98%93%2c1504%2c20150414%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1504&jdate=1040414&jcheck=1
+[*裁判字號*]102,易,1504
+[*裁判日期*]1040414
+[*裁判案由*]侵占
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　 102年度易字第1504號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　吳燕玲
 上列被告因侵占案件，經檢察官提起公訴（102年度偵字第17755號）
@@ -123,8 +18,8 @@ function openwin(URL,arguments,width,height)
     理業務，為執行業務之人，竟意圖為自己不法所有，基於業
     務侵占之接續犯意，於100 年2 月間，將宇辰公司所有，未
     含有排線之觸碰玻璃35箱以新臺幣（下同）3 萬5000元擅自
-    販售予群鑫科技有限公司（下稱群鑫公司），該公司股東<font color='red'>謝
-    志忠</font>及劉銹雲遂透過呂國華於同年2 月及6 月間，在宇辰公
+    販售予群鑫科技有限公司（下稱群鑫公司），該公司股東謝
+    志忠及劉銹雲遂透過呂國華於同年2 月及6 月間，在宇辰公
     司會議室內，分別交付2 萬元及1 萬5000元予被告吳燕玲，
     詎被告吳燕玲取得上開款項後，並未繳回宇辰公司，而將之
     侵占入己。因認被告涉犯刑法第336 條第2 項之業務侵占罪
@@ -170,16 +65,16 @@ function openwin(URL,arguments,width,height)
       月間委任證人呂國華向宇辰公司購買有排線之觸控玻璃，
       群鑫公司股東劉銹雲並交付證人呂國華2 萬元以作為價款
       ，後證人呂國華交付之貨品並無完整之排線，證人劉銹雲
-      雖有向證人<font color='red'>謝志忠</font>及呂國華反應，但證人呂國華於100 年
+      雖有向證人謝志忠及呂國華反應，但證人呂國華於100 年
       端午節前夕復跟證人劉銹雲表示可買第二批貨，會有排線
       ，證人劉銹雲再交付證人呂國華1 萬5000元，但證人呂國
-      華交付的玻璃仍無排線，證人劉銹雲雖有向證人<font color='red'>謝志忠</font>及
+      華交付的玻璃仍無排線，證人劉銹雲雖有向證人謝志忠及
       呂國華反應，但是均無結果，證人劉銹雲始於101 年3 月
       5 日至宇辰公司，與證人李世祥討論宇辰公司所出售之觸
-      控玻璃並無排線，是有瑕疵，要求退貨等情，業據證人<font color='red'>謝
-      志忠</font>、劉銹雲、李世祥於檢察事務官詢問時證述明確（見
+      控玻璃並無排線，是有瑕疵，要求退貨等情，業據證人謝
+      志忠、劉銹雲、李世祥於檢察事務官詢問時證述明確（見
       他字卷第104 頁至第106 頁、第127 頁），且有證人劉銹
-      雲、<font color='red'>謝志忠</font>與宇辰公司開會之會議紀錄在卷可稽（見他字
+      雲、謝志忠與宇辰公司開會之會議紀錄在卷可稽（見他字
       卷第7 頁至第9 頁），是前開事實，洵堪認定。至於證人
       呂國華為何得自宇辰公司處取得未含有排線之觸控玻璃（
       下稱系爭觸控玻璃），以交付證人劉銹雲？證人呂國華於
@@ -199,7 +94,7 @@ function openwin(URL,arguments,width,height)
         被告告知我系爭玻璃已經報廢，原有的功能還有，但是
         排線必須要剪掉，被告說排線剪掉的話就算是報廢品，
         不過玻璃含有「銀膠」的材質，就算玻璃不能用，銀膠
-        洗出來能夠再利用，我將這情形告知<font color='red'>謝志忠</font>及劉銹雲，
+        洗出來能夠再利用，我將這情形告知謝志忠及劉銹雲，
         他們有同意，我就將3 萬5000元分2 次交給被告，先給
         2 萬元，後給1 萬5000元，約於100 年2 月、6 月間。
         當時是被告主動告知有這樣一批貨，數量大概是35箱，
@@ -258,39 +153,39 @@ function openwin(URL,arguments,width,height)
         數量及價金等於檢察事務官及本院審理時之證述均不同
         ，其稱是以3 萬5000元向被告購買系爭觸控玻璃乙情，
         是否為真，已非無疑。
-     2、次查，證人呂國華之所以會將系爭觸控玻璃交付證人<font color='red'>謝
-        志忠</font>、劉銹雲，是因為受證人<font color='red'>謝志忠</font>之委託，業據證人
+     2、次查，證人呂國華之所以會將系爭觸控玻璃交付證人謝
+        志忠、劉銹雲，是因為受證人謝志忠之委託，業據證人
         呂國華於本院審理時證述在卷（見本院卷第43頁背面）
-        ，然證人<font color='red'>謝志忠</font>、劉銹雲是委託證人呂國華購買有排線
+        ，然證人謝志忠、劉銹雲是委託證人呂國華購買有排線
         之觸控玻璃，業據認定如前，而系爭觸控玻璃並無排線
         ，復據證人呂國華於檢察事務官及本院審理時證述在卷
-        ，是系爭觸控玻璃顯不符證人<font color='red'>謝志忠</font>、劉銹雲之所需，
-        證人呂國華竟仍交付於證人<font color='red'>謝志忠</font>、劉銹雲，顯有背於
-        證人<font color='red'>謝志忠</font>、劉銹雲之委託。至於證人呂國華於檢察事
+        ，是系爭觸控玻璃顯不符證人謝志忠、劉銹雲之所需，
+        證人呂國華竟仍交付於證人謝志忠、劉銹雲，顯有背於
+        證人謝志忠、劉銹雲之委託。至於證人呂國華於檢察事
         務官及本院審理時雖均稱有將系爭觸控玻璃並無排線，
-        但仍有銀膠或銀膏成分告知<font color='red'>謝志忠</font>及劉銹雲，而得渠等
+        但仍有銀膠或銀膏成分告知謝志忠及劉銹雲，而得渠等
         同意才購買云云（見他字卷第104 頁、本院卷第45頁）
-        ，但是證人劉銹雲、<font color='red'>謝志忠</font>分別於100 年2 月、6 月交
+        ，但是證人劉銹雲、謝志忠分別於100 年2 月、6 月交
         付證人呂國華2 萬元及1 萬5000元，是委託證人呂國華
         購買有排線之觸控玻璃，以製造相關電子的山寨產品，
-        業經認定如前，是無排線之系爭觸控玻璃顯非證人<font color='red'>謝志
-        忠</font>、呂國華所需，證人<font color='red'>謝志忠</font>、劉銹雲是否會同意改購
+        業經認定如前，是無排線之系爭觸控玻璃顯非證人謝志
+        忠、呂國華所需，證人謝志忠、劉銹雲是否會同意改購
         買無排線之系爭觸控玻璃，誠有可疑；且參酌前開證人
         劉銹雲與宇辰公司開會之會議紀錄（見他字卷第7 頁）
         ，證人劉銹雲在證人呂國華第1 次交付之觸控玻璃並無
-        排線，向證人呂國華、<font color='red'>謝志忠</font>反應，證人呂國華、<font color='red'>謝志
-        忠</font>均未有正面回應，直至100 年端午節前夕證人呂國華
+        排線，向證人呂國華、謝志忠反應，證人呂國華、謝志
+        忠均未有正面回應，直至100 年端午節前夕證人呂國華
         方跟證人劉銹雲表示可買第二批貨，會有排線，一定要
         證人劉銹雲買，因為證人劉銹雲當時有現金20萬元在證
         人呂國華處，只好答應證人呂國再買第2 批貨，而給證
         人呂國華1 萬5000元，但證人呂國華之後交付之觸控玻
         璃仍是沒有排線，無法使用，更徵證人呂國華前開所證
-        並非事實；末以，證人<font color='red'>謝志忠</font>、劉銹雲若確有同意購買
+        並非事實；末以，證人謝志忠、劉銹雲若確有同意購買
         無排線之系爭觸控玻璃，渠等自無可能再於100 年6 月
         取得系爭觸控玻璃後，於101 年3 月5 日、16日至宇辰
         公司，向證人李世祥表示系爭觸控玻璃並無排線，是有
         瑕疵，要求退貨，是證人呂國華證稱購買無排線之系爭
-        觸控玻璃有得<font color='red'>謝志忠</font>、劉銹雲之同意云云，顯與事實不
+        觸控玻璃有得謝志忠、劉銹雲之同意云云，顯與事實不
         符，難以採信。
      3、末查，證人呂國華雖一再證稱交付3 萬5000元以取得系
         爭觸控玻璃，然其在本院亦證稱其曾詢問被告系爭觸控
@@ -299,14 +194,14 @@ function openwin(URL,arguments,width,height)
         給其該批觸控玻璃，而其交付現金給被告時詢問該處有
         無攝影機或錄音機，係因該筆錢見不得光，被告不可以
         開給其任何收據云云，倘證人呂國華前揭證述為真，衡
-        情其自當據實以告，要無隱瞞證人<font color='red'>謝志忠</font>、劉銹雲之理
+        情其自當據實以告，要無隱瞞證人謝志忠、劉銹雲之理
         ，惟證人呂國華前於檢察事務官詢問時卻證稱：被告開
         出貨單給伊，但出貨單並未留存云云（參他字卷第105
         頁），與其在本院證述被告不能提供任何收據迥異，且
-        證人<font color='red'>謝志忠</font>、劉銹雲其後仍以購得存有瑕疵之系爭觸控
-        玻璃向宇辰公司要求退還價金，益見證人<font color='red'>謝志忠</font>、劉銹
-        雲對前情顯然一無所知，則證人呂國華雖受證人<font color='red'>謝志忠
-        </font>、劉銹雲之委託欲購買有排線之觸控玻璃，非但未購入
+        證人謝志忠、劉銹雲其後仍以購得存有瑕疵之系爭觸控
+        玻璃向宇辰公司要求退還價金，益見證人謝志忠、劉銹
+        雲對前情顯然一無所知，則證人呂國華雖受證人謝志忠
+        、劉銹雲之委託欲購買有排線之觸控玻璃，非但未購入
         合於受託購買之商品，竟在被告告以宇辰公司另有一批
         報廢、但含有銀膠或銀膏之玻璃時，在被告表示無庸向
         宇辰公司價購時，仍逕支付3 萬5000元予被告，實甚可
@@ -314,7 +209,7 @@ function openwin(URL,arguments,width,height)
         ，僅有其與被告2 人在場，益見本件除證人呂國華之單
         一證述外，實無其他證據可資證明被告確收受證人呂國
         華交付之3 萬5000元現金，而系爭觸控玻璃之取得經過
-        ，證人<font color='red'>謝志忠</font>、劉銹雲既均未參與，其等所稱向宇辰公
+        ，證人謝志忠、劉銹雲既均未參與，其等所稱向宇辰公
         司以3 萬5000元購買系爭觸控玻璃，價款係交付被告乙
         節，無非聽聞證人呂國華所述，衡之證人呂國華前後所
         為證述，不僅非無瑕疵可指，亦難謂符合一般社會交易
@@ -414,86 +309,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書(均須按他造當事人之人數附繕本)「切勿逕
 送上級法院」。
                                     書記官  陳韋伶
-中    華    民    國   104    年    4     月    15    日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10404\14\TYDM1044E.005] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e6%98%93&selectedCrmno=001504&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%ac%9d%e5%bf%97%e5%bf%a0&sdate=&edate=&page=&searchkw=%e8%ac%9d%e5%bf%97%e5%bf%a0&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e6%98%93%2c1504%2c20150414%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1504&jdate=1040414&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e6%98%93%2c1504%2c20150414%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e6%98%93&jno=1504&jdate=1040414&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e6%98%93%2c1504%2c20150414%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e6%98%93','1504','1040414','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="謝志忠">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="謝志忠">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   104    年    4     月    15    日
+[*jrecno*]102,易,1504,20150414,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]易
+[*jno*]1504
+[*jdate*]1040414
+[*jcheck*]1

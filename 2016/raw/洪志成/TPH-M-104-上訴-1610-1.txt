@@ -1,146 +1,39 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-104上訴1610</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001610&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1610','1041015','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,上訴,1610</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041015</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 104年度上訴字第1610號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001610&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1
+[*裁判字號*]104,上訴,1610
+[*裁判日期*]1041015
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 104年度上訴字第1610號
 上　訴　人
-即　被　告　<font color='red'>洪志成
-</font>上列上訴人因偽造文書等案件，不服臺灣基隆地方法院104年度
+即　被　告　洪志成
+上列上訴人因偽造文書等案件，不服臺灣基隆地方法院104年度
 訴字第109號，中華民國104年5月6日第一審判決（起訴案號：
 臺灣基隆地方法院檢察署103年度偵字第878號、103年度偵字第
 2009號），提起上訴，本院判決如下：
     主  文
 上訴駁回。
     事  實
-一、緣<font color='red'>洪志成</font>之母洪蔡彩蓮前向新光人壽股份有限公司（下稱新
+一、緣洪志成之母洪蔡彩蓮前向新光人壽股份有限公司（下稱新
     光人壽公司）投保，由時任新光人壽公司業務員之王美麗收
-    取保險費，<font color='red'>洪志成</font>因而與王美麗結識。<font color='red'>洪志成</font>與王美麗熟識
+    取保險費，洪志成因而與王美麗結識。洪志成與王美麗熟識
     後，向王美麗邀集投資其朋友開設之徵信社，王美麗遂自民
-    國86年間起陸續將投資款項交予<font color='red'>洪志成</font>投資其友人開設之徵
-    信社，嗣王美麗欲索取投資事業之股權證明為憑，<font color='red'>洪志成</font>均
+    國86年間起陸續將投資款項交予洪志成投資其友人開設之徵
+    信社，嗣王美麗欲索取投資事業之股權證明為憑，洪志成均
     無法交付，遂對王美麗稱其投資款已均轉交由臺灣臺北地方
-    法院（下稱台北地院）法官保管，王美麗對<font color='red'>洪志成</font>所言深信
-    不疑。嗣：(一)<font color='red'>洪志成</font>於100年間某日，在台北巿信義區永吉
-    路王美麗住所，經由王美麗介紹而認識其父王萬生，<font color='red'>洪志成
-    </font>竟基於意圖為自己不法所有之犯意，向王萬生謊稱：欲至馬
+    法院（下稱台北地院）法官保管，王美麗對洪志成所言深信
+    不疑。嗣：(一)洪志成於100年間某日，在台北巿信義區永吉
+    路王美麗住所，經由王美麗介紹而認識其父王萬生，洪志成
+    竟基於意圖為自己不法所有之犯意，向王萬生謊稱：欲至馬
     尼拉領取祖先財產，急需借款新台幣（下同）3萬元購買機
     票等語，王萬生不疑有他而應允之，然其身上無足夠現金，
-    遂帶同<font color='red'>洪志成</font>，至台北巿某處王萬生友人經營之商店，由王
-    萬生向該友人借得現金3萬元後交予<font color='red'>洪志成</font>。嗣<font color='red'>洪志成</font>取得
+    遂帶同洪志成，至台北巿某處王萬生友人經營之商店，由王
+    萬生向該友人借得現金3萬元後交予洪志成。嗣洪志成取得
     上開3萬元後，並未購買機票前往菲律賓馬尼拉，事後亦未
-    返還3萬元。(二)王萬生因覺<font color='red'>洪志成</font>所謂王美麗之投資款項均
+    返還3萬元。(二)王萬生因覺洪志成所謂王美麗之投資款項均
     交由台北地院法官保管等節有異，且認民眾繳交費用，法院
-    定然出具收據為證，遂要王美麗向<font color='red'>洪志成</font>索取法院證明為憑
-    。<font color='red'>洪志成</font>為取信王美麗、王萬生，竟基於行使偽造公文書之
+    定然出具收據為證，遂要王美麗向洪志成索取法院證明為憑
+    。洪志成為取信王美麗、王萬生，竟基於行使偽造公文書之
     不法犯意，於100年5月23日之前某日，先委由不知情之人偽
     刻「臺灣□□地方法院民事庭」（法院名稱空白）印章1枚
     ，復在不詳地點，填製「茲收到王美麗女士參萬伍仟元」、
@@ -205,7 +98,7 @@ function openwin(URL,arguments,width,height)
       審判期日，依刑事訴訟法第164條、第165條規定，踐行證
       據調查之法定程序，應認均有證據能力。
 二、實體部分：
-    訊據上訴人即被告<font color='red'>洪志成</font>否認涉有上開詐欺及行使偽造公文
+    訊據上訴人即被告洪志成否認涉有上開詐欺及行使偽造公文
     書犯行，辯稱略以：伊有借3萬元是事實，但伊沒有詐騙；
     關於行使偽造公文書部分，不是伊主使亦不是伊的作為，是
     伊舅舅交付的，不是伊交付云云。並具狀辯稱略以：（一）
@@ -233,8 +126,8 @@ function openwin(URL,arguments,width,height)
       跟朋友借，他就開黑色的車載伊去民權西路跟朋友借3萬
       ，伊就馬上把3萬元給他，他說過幾天會還伊，後來都沒
       有還等語（見偵字第2009號卷第25頁）；於原審審理時證
-      稱意旨略以：伊以前不認識<font color='red'>洪志成</font>，幾年前王美麗有帶被
-      告<font color='red'>洪志成</font>到伊台北巿信義區永吉路住處，伊才認識他。那
+      稱意旨略以：伊以前不認識洪志成，幾年前王美麗有帶被
+      告洪志成到伊台北巿信義區永吉路住處，伊才認識他。那
       一天，被告說他明天要去馬尼拉領『公產』，但是沒有機
       票錢，被告說要向伊借3萬元，下午就要去買飛機票，但
       是伊身上也沒有錢，伊就跟被告一起去民生西路伊朋友的
@@ -277,7 +170,7 @@ function openwin(URL,arguments,width,height)
       完畢，亦未還款予被害人，亦堪認被告有不法所有之詐欺
       意圖，其詐欺取財犯行已堪認定。
     3.被告關於詐欺取財部分辯解不可採之理由：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />查，證人王萬生分別於偵查及原審中就向友人借款之地點
+    查，證人王萬生分別於偵查及原審中就向友人借款之地點
       究係民生西路或民權西路，前後證述雖有不一，惟查，證
       人王萬生前後所證，就與被告認識之經過、被告借款之緣
       由、金額，其身上沒有錢，向友人借款後交予被告等主要
@@ -287,15 +180,15 @@ function openwin(URL,arguments,width,height)
       證人口誤，自難認證人王萬生所述全不可採；另證人王美
       麗於原審雖曾證稱意旨略以：被告曾跟伊借款3萬元，被
       告說要回馬來西亞需要機票錢；伊之前有將父親的金子拿
-      去典當8萬多元，再從其中拿取3萬元給<font color='red'>洪志成</font>等語（見原
+      去典當8萬多元，再從其中拿取3萬元給洪志成等語（見原
       審卷第30頁）；惟證人王美麗就此筆借款於同日亦證稱略
       以：伊父親不知道這件事情等語（見原審卷第30頁反面）
       ；證人王萬生於原審亦證稱略以：伊所說3萬元，與伊女
-      兒所說3萬元機票錢不是同一件事，伊拿給<font color='red'>洪志成</font>的3萬元
+      兒所說3萬元機票錢不是同一件事，伊拿給洪志成的3萬元
       機票錢，是向伊友人借的等語（見原審卷第32頁背面），
       是被告以王萬生與王美麗就被告所稱借款之原因，證述不
       一，指摘證人二人為不實證述，亦不可採。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告另辯稱：100年間被告向王美麗借3萬元，係因被告之
+    被告另辯稱：100年間被告向王美麗借3萬元，係因被告之
       乾弟張世玄要去馬來西亞，缺錢購買機票，被告向王美麗
       借款時曾表明上述借款之原由等語；而證人張世玄於本院
       雖證稱略以：當初伊需要3萬元，向被告借錢，借錢是因
@@ -313,19 +206,19 @@ function openwin(URL,arguments,width,height)
     1.證人王美麗於原審審理證稱意旨略以：之前伊有接到一位
       自稱為台北地院法官任繼光的電話，說伊有4百萬元在法
       院那邊，那個法官說要3萬5千元的保管手續費，叫伊把這
-      筆3萬5千元的費用拿給<font color='red'>洪志成</font>，<font color='red'>洪志成</font>會再把該筆手續費
+      筆3萬5千元的費用拿給洪志成，洪志成會再把該筆手續費
       交給他，伊當時沒有懷疑，伊先向伊父親王萬生拿了現金
-      5千元，另外3萬元是<font color='red'>洪志成</font>帶伊爸爸去台北巿永吉路住處
-      附近的銀行提領，伊父親有跟<font color='red'>洪志成</font>說要收據，幾天之後
-      的100年5月23日，<font color='red'>洪志成</font>就把這張台北地院的收據拿到伊
-      永吉路的家裡面交給伊；伊根本不認識<font color='red'>洪志成</font>的舅舅，也
-      不知道他舅舅的名字，<font color='red'>洪志成</font>也從來沒有在伊面前提過他
+      5千元，另外3萬元是洪志成帶伊爸爸去台北巿永吉路住處
+      附近的銀行提領，伊父親有跟洪志成說要收據，幾天之後
+      的100年5月23日，洪志成就把這張台北地院的收據拿到伊
+      永吉路的家裡面交給伊；伊根本不認識洪志成的舅舅，也
+      不知道他舅舅的名字，洪志成也從來沒有在伊面前提過他
       舅舅等語（見原審卷第29頁反面、第31頁反面）；證人王
-      萬生於原審審理證稱意旨略以：<font color='red'>洪志成</font>告訴伊女兒說投資
-      的4百萬元都在法院，需要手續費，<font color='red'>洪志成</font>每次都說手續
+      萬生於原審審理證稱意旨略以：洪志成告訴伊女兒說投資
+      的4百萬元都在法院，需要手續費，洪志成每次都說手續
       費繳了之後就可以領回4百萬元，但是都沒有領回來，所
-      以伊才會要求<font color='red'>洪志成</font>出具證明，因為繳錢給法院，法院會
-      出具收據，後來伊女兒拿錢給<font color='red'>洪志成</font>，<font color='red'>洪志成</font>就拿這張收
+      以伊才會要求洪志成出具證明，因為繳錢給法院，法院會
+      出具收據，後來伊女兒拿錢給洪志成，洪志成就拿這張收
       據過來給伊女兒等語（見原審卷第32頁正反面），均已將
       被告本人將系爭偽造公文書交付予王美麗之原因、過程證
       述綦詳，證詞相互吻合，應可採信。
@@ -338,7 +231,7 @@ function openwin(URL,arguments,width,height)
       詳方式在上開空白處填寫地點，是上開公文書顯為偽造等
       節，亦可認定。
     3.被告關於行使偽造公文書部分辯解不可採之理由：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />被告辯稱係舅舅蔡太郎將偽造公文書交付予王美麗一節，
+    被告辯稱係舅舅蔡太郎將偽造公文書交付予王美麗一節，
       此為證人王美麗所否認，雖被告聲請傳喚之證人張世玄於
       本院證稱意旨略以：伊有載被告到博愛路法院側門見到蔡
       太郎先生，被告跟王美麗兩位下車去見蔡太郎，伊沒有下
@@ -470,86 +363,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處5 年以下有期徒刑、拘役或科或併科1 千元以下罰
 金。
 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10410\15\TPHM104AF.023] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001610&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1610','1041015','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="洪志成">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="洪志成">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]104,上訴,1610,20151015,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]上訴
+[*jno*]1610
+[*jdate*]1041015
+[*jcheck*]1

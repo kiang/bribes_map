@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣花蓮地方法院-刑-102訴185</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣花蓮地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000185&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c185%2c20140116%2c2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=185&jdate=1030116&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c185%2c20140116%2c2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=185&jdate=1030116&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c185%2c20140116%2c2','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','185','1030116','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,185</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030116</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣花蓮地方法院刑事判決　　　　　　　102年度訴字第185號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c185%2c20140116%2c2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=185&jdate=1030116&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000185&selectedCrtid=HLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c185%2c20140116%2c2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=185&jdate=1030116&jcheck=2
+[*裁判字號*]102,訴,185
+[*裁判日期*]1030116
+[*裁判案由*]違反毒品危害防制條例等
+[*裁判全文*]臺灣花蓮地方法院刑事判決　　　　　　　102年度訴字第185號
 公　訴　人　臺灣花蓮地方法院檢察署檢察官
 被　　　告　朱００
 選任辯護人　曾泰源律師　
@@ -152,11 +45,11 @@ function openwin(URL,arguments,width,height)
       地點，販賣海洛因予鄭世明共8 次，並轉讓海洛因予鄭世
       明1 次。
 （三）以附表三所示之交易方式，分別於附表三各編號所示之時
-      間及地點，販賣甲基安非他命予<font color='red'>王金平</font>，共計5 次。
+      間及地點，販賣甲基安非他命予王金平，共計5 次。
 （四）以附表四所示之方式，分別於附表四各編號所示之時間及
       地點，轉讓甲基安非他命予潘尚志，共計5 次。
     嗣經臺灣花蓮地方法院檢察署檢察官據報指揮警方實施通訊
-    監察，且將林晉億、鄭世明、<font color='red'>王金平</font>、潘尚志拘提到案說明
+    監察，且將林晉億、鄭世明、王金平、潘尚志拘提到案說明
     ，並於102年4月18日14時35分許，由員警前往朱忠元位於花
     蓮縣吉安鄉○○路 0段000號806號房之居住處，扣得如附表
     五所示之物，而查悉全情。
@@ -198,7 +91,7 @@ function openwin(URL,arguments,width,height)
     ，足認被告之任意性自白與事實相符。
 三、犯罪事實欄二（三）之事實，業據被告於偵查及審理中坦承
     不諱（見本院卷第59頁；他字第270 號卷二第87、88頁），
-    核與證人<font color='red'>王金平</font>於警詢及偵查中之證述相符（見他字第270
+    核與證人王金平於警詢及偵查中之證述相符（見他字第270
     號卷一第105 頁至第118 頁、第125 頁至第128 頁），復有
     附表三各次犯行之相關通訊監察譯文及通訊監察書在卷可憑
     ，並有扣案如附表五編號二、六、十一所示之物可佐，且扣
@@ -234,13 +127,13 @@ function openwin(URL,arguments,width,height)
     後不得不以原價或低於原價讓與他人時，仍屬販賣行為（最
     高法院93年度台上字第1651號判決意旨參照）。是故，被告
     甘冒重刑風險，將海洛因及甲基安非他命出售與證人林晉億
-    、鄭世明及<font color='red'>王金平</font>自係其間有利可圖，且被告於審判中對於
+    、鄭世明及王金平自係其間有利可圖，且被告於審判中對於
     前揭販賣犯行皆坦承有收取500 元至2000元不等之毒品價金
     ，自屬販賣毒品無疑，從而，被告有販賣營利之不法意圖應
     可認定。
 六、綜上所述，被告有如附表一至附表四所示各次之犯罪事實，
     均洵堪認定，本案事證明確，應依法論罪科刑。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、論罪科刑之理由
+、論罪科刑之理由
 一、按甲基安非他命業經行政院衛生署75年7 月11日衛署藥字第
     597627號公告禁止使用，屬藥事法規定之禁藥，亦同屬毒品
     危害防制條例第2 條第2 項第2 款所定之第二級毒品，依法
@@ -537,7 +430,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───────┼────────┼────────┼─────────┤
 │    │102 年3 月4 日│林晉億以其所持用│B ：我過去找你噢│朱忠元販賣第二級毒│
 │ 二 │下午2 時17分之│之門號0000000000│    。          │品，累犯，處有期徒│
-│    │後某時許在花蓮│號與朱忠元持用之│A ：南濱公園下橋│刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年拾月。扣案如│
+│    │後某時許在花蓮│號與朱忠元持用之│A ：南濱公園下橋│刑年拾月。扣案如│
 │    │縣花蓮市榮光社│門號0000000000號│    有沒有一個廟│附表五編號二所示之│
 │    │區某處        │通話，約定朱忠元│    ，右手邊一個│物沒收銷燬；未扣案│
 │    │              │以1,000 元之價格│    廟。        │之販賣第二級毒品所│
@@ -554,7 +447,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───────┼────────┼────────┼─────────┤
 │    │102 年2 月26日│林晉億以其所持用│B ：我在樓下啊  │朱忠元販賣第二級毒│
 │ 三 │下午6 時41分之│之門號0000000000│A：好..我幫你開 │品，累犯，處有期徒│
-│    │後某時許在花蓮│號與朱忠元持用之│   門。         │刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年拾月。未扣案│
+│    │後某時許在花蓮│號與朱忠元持用之│   門。         │刑年拾月。未扣案│
 │    │縣花蓮市綜合市│門號0000000000號│【新警刑字第1020│之販賣第二級毒品所│
 │    │場旁麥當勞附近│通話，約定朱忠元│008973號卷第36頁│得新台幣壹仟元沒收│
 │    │某處          │以1,000 元之價格│；本院102 年度聲│，如全部或一部不能│
@@ -700,11 +593,11 @@ function openwin(URL,arguments,width,height)
 │    │              │                │                │編號六及十所示之物│
 │    │              │                │                │均沒收。          │
 └──┴───────┴────────┴────────┴─────────┘
-附表三：販賣甲基安非他命予證人<font color='red'>王金平</font>部分
+附表三：販賣甲基安非他命予證人王金平部分
 ┌──┬───────┬────────┬────────┬─────────┐
 │編號│交易時間及地點│   交易內容     │相關通訊監察譯文│   罪名與宣告刑   │
 ├──┼───────┼────────┼────────┼─────────┤
-│    │102 年2 月7 日│<font color='red'>王金平</font>（B ）以其│B：幾號？       │朱忠元販賣第二級毒│
+│    │102 年2 月7 日│王金平（B ）以其│B：幾號？       │朱忠元販賣第二級毒│
 │ 一 │凌晨3 時9 分之│持用之門號098817│A：4樓。        │品，累犯，處有期徒│
 │    │後某時在花蓮縣│5621號與朱忠元（│B：好。         │刑肆年。未扣案之販│
 │    │花蓮市明星賓館│A ）所持用之0983│【新警刑字第1020│賣第二級毒品所得新│
@@ -713,9 +606,9 @@ function openwin(URL,arguments,width,height)
 │    │              │元之價格販賣重量│監字第40號通訊監│，以其財產抵償之；│
 │    │              │約0.3 公克至0.4 │察書，同卷第39頁│扣案如附表五編號六│
 │    │              │公克之甲基安非他│】              │及十一所示之物均沒│
-│    │              │命1 包予<font color='red'>王金平  </font>│                │收。              │
+│    │              │命1 包予王金平  │                │收。              │
 ├──┼───────┼────────┼────────┼─────────┤
-│    │102 年2 月25日│<font color='red'>王金平</font>以其持用之│A：喂？         │朱忠元販賣第二級毒│
+│    │102 年2 月25日│王金平以其持用之│A：喂？         │朱忠元販賣第二級毒│
 │ 二 │晚間11時26分之│門號0000000000號│B：哪裡呀？     │品，累犯，處有期徒│
 │    │後某時在花蓮縣│與朱忠元所持用之│A：陽光。       │刑肆年。未扣案之販│
 │    │花蓮市明星賓館│0000000000號通話│B：恩，好。     │賣第二級毒品所得新│
@@ -726,7 +619,7 @@ function openwin(URL,arguments,width,height)
 │    │              │安非他命1 包予王│察書，同卷第39頁│及十一所示之物均沒│
 │    │              │金平            │】              │收。              │
 ├──┼───────┼────────┼────────┼─────────┤
-│    │102 年1 月12日│<font color='red'>王金平</font>以其持用之│（1 月12日下午1 │朱忠元販賣第二級毒│
+│    │102 年1 月12日│王金平以其持用之│（1 月12日下午1 │朱忠元販賣第二級毒│
 │ 三 │下午5 時23分之│門號0000000000號│時26分）        │品，累犯，處有期徒│
 │    │後某時在花蓮縣│與朱忠元所持用之│A ：哈囉？剛剛撥│刑肆年。未扣案之販│
 │    │吉安鄉建國路之│0000000000號通話│    錯電話？    │賣第二級毒品所得新│
@@ -736,7 +629,7 @@ function openwin(URL,arguments,width,height)
 │    │              │0.4 公克之甲基安│A ：喔。        │扣案如附表五編號六│
 │    │              │非他命1 包予曹紅│（1月12 日下午5 │所示之物沒收；未扣│
 │    │              │，並由曹紅轉交予│時23分）        │案如附表六編號二所│
-│    │              │<font color='red'>王金平          </font>│簡訊內容：「石頭│示之物沒收，如全部│
+│    │              │王金平          │簡訊內容：「石頭│示之物沒收，如全部│
 │    │              │                │，我晶晶，晚點我│或一部不能沒收時，│
 │    │              │                │姐妹打電話你。」│追徵其價額。      │
 │    │              │                │【花市警刑字第10│                  │
@@ -746,7 +639,7 @@ function openwin(URL,arguments,width,height)
 │    │              │                │訊監察書，同卷第│                  │
 │    │              │                │43頁】          │                  │
 ├──┼───────┼────────┼────────┼─────────┤
-│    │102 年1 月14日│<font color='red'>王金平</font>以其持用之│（1 月14日下午6 │朱忠元販賣第二級毒│
+│    │102 年1 月14日│王金平以其持用之│（1 月14日下午6 │朱忠元販賣第二級毒│
 │ 四 │下午6 時44分之│門號0000000000號│時31分）        │品，累犯，處有期徒│
 │    │後某時在花蓮縣│與朱忠元所持用之│A ：要過來嗎？  │刑肆年。未扣案之販│
 │    │新城鄉海星中學│0000000000號通話│B ：在哪裡？    │賣第二級毒品所得新│
@@ -766,7 +659,7 @@ function openwin(URL,arguments,width,height)
 │    │              │                │訊監察書，同卷第│                  │
 │    │              │                │43頁】          │                  │
 ├──┼───────┼────────┼────────┼─────────┤
-│    │102 年1 月18日│<font color='red'>王金平</font>以其持用之│（1 月18日上午10│朱忠元販賣第二級毒│
+│    │102 年1 月18日│王金平以其持用之│（1 月18日上午10│朱忠元販賣第二級毒│
 │ 五 │晚間9 時12分之│門號0000000000號│時44分）        │品，累犯，處有期徒│
 │    │後某時在花蓮縣│與朱忠元所持用之│簡訊內容：「我晚│刑肆年。未扣案之販│
 │    │花蓮市明星賓館│0000000000號通簡│點打給你」      │賣第二級毒品所得新│
@@ -904,86 +797,12 @@ function openwin(URL,arguments,width,height)
 │ 一 │門號0000000000號之SIM 卡1 枚│案發時插於附表五編號六所示之手機│
 ├──┼──────────────┼────────────────┤
 │ 二 │門號0000000000號之SIM 卡1 枚│案發時插於附表五編號六所示之手機│
-└──┴──────────────┴────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWHLD\CRIMINAL\10301\16\HLDM1031G.00E] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000185&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c185%2c20140116%2c2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=185&jdate=1030116&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c185%2c20140116%2c2&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=185&jdate=1030116&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c185%2c20140116%2c2','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','185','1030116','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLD 臺灣花蓮地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王金平">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王金平">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴──────────────┴────────────────┘
+[*jrecno*]102,訴,185,20140116,2
+[*v_court*]HLD 臺灣花蓮地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]185
+[*jdate*]1030116
+[*jcheck*]2

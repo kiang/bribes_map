@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-102訴760</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共34
-											筆 / 現在第17
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000760&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=18&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c760%2c20131128%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=760&jdate=1021128&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c760%2c20131128%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=760&jdate=1021128&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c760%2c20131128%2c2','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','760','1021128','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,760</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021128</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　102年度訴字第760號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c760%2c20131128%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=760&jdate=1021128&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000760&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c760%2c20131128%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=760&jdate=1021128&jcheck=2
+[*裁判字號*]102,訴,760
+[*裁判日期*]1021128
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　102年度訴字第760號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　陳少穎
 選任辯護人　邱清銜律師
@@ -140,8 +33,8 @@ function openwin(URL,arguments,width,height)
 品所得新臺幣伍佰元均沒收，未扣案之販賣毒品所得共新臺幣壹
 萬玖仟元應予沒收，其中伍仟元與吳武憲連帶沒收，如全部或一
 部不能沒收時，以其與吳武憲之財產連帶抵償之，其中陸仟伍佰
-元與吳武憲、<font color='red'>林建志</font>連帶沒收，如全部或一部不能沒收時，以其
-與吳武憲、<font color='red'>林建志</font>之財產連帶抵償之，其中參仟元與吳武憲、鍾
+元與吳武憲、林建志連帶沒收，如全部或一部不能沒收時，以其
+與吳武憲、林建志之財產連帶抵償之，其中參仟元與吳武憲、鍾
 政霖連帶沒收，如全部或一部不能沒收時，以其與吳武憲、鍾政
 霖之財產連帶抵償之，其中伍佰元與吳武憲、黎建宏連帶沒收，
 如全部或一部不能沒收時，以其與吳武憲、黎建宏之財產連帶抵
@@ -160,8 +53,8 @@ function openwin(URL,arguments,width,height)
 品所得新臺幣伍佰元均沒收，未扣案之販賣毒品所得共新臺幣壹
 萬玖仟元應予沒收，其中伍仟元與陳少穎連帶沒收，如全部或一
 部不能沒收時，以其與陳少穎之財產連帶抵償之，其中陸仟伍佰
-元與陳少穎、<font color='red'>林建志</font>連帶沒收，如全部或一部不能沒收時，以其
-與陳少穎、<font color='red'>林建志</font>之財產連帶抵償之，其中參仟元與陳少穎、鍾
+元與陳少穎、林建志連帶沒收，如全部或一部不能沒收時，以其
+與陳少穎、林建志之財產連帶抵償之，其中參仟元與陳少穎、鍾
 政霖連帶沒收，如全部或一部不能沒收時，以其與陳少穎、鍾政
 霖之財產連帶抵償之，其中伍佰元與陳少穎、黎建宏連帶沒收，
 如全部或一部不能沒收時，以其與陳少穎、黎建宏之財產連帶抵
@@ -207,13 +100,13 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
     事  實
 一、陳少穎前因違反毒品危害防制條例案件，經法院判決判處有
     期徒刑3 月確定，甫於民國102 年5 月27日徒刑易科罰金執
-    行完畢；猶不知悛悔，陳少穎、吳武憲、<font color='red'>林建志</font>（另行審結
+    行完畢；猶不知悛悔，陳少穎、吳武憲、林建志（另行審結
     ）、鍾政霖、黎建宏、李中堯、莊璽生、許霖松等人均明知
     愷他命（Ketamine，俗稱K 他命）係屬毒品危害防制條例列
     管之第三級毒品，不得非法販賣，因覬覦販賣愷他命可獲取
     暴利，竟分別為下列販賣愷他命之犯行：
 （一）於102 年2 月26日至同年7 月16日期間內，先後邀集吳武
-      憲、<font color='red'>林建志</font>、鍾政霖、黎建宏、李中堯、莊璽生、許霖松
+      憲、林建志、鍾政霖、黎建宏、李中堯、莊璽生、許霖松
       等人共組販毒集團，由吳武憲輔助陳少穎管理該販毒集團
       ，並協助找尋所欲販賣之愷他命貨源，其等並提供行動電
       話（下同）門號0000000000、0000000000、0000000000號
@@ -225,7 +118,7 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
       時至10時起迄隔日上午8 時至10時止），由眾人各別擔任
       早、晚班值班人員。值班人員於接獲客戶來電約定交易地
       點後，即應自行前往上開地點與客戶進行愷他命交易。吳
-      武憲、<font color='red'>林建志</font>、鍾政霖、黎建宏每對外販售新臺幣（下同
+      武憲、林建志、鍾政霖、黎建宏每對外販售新臺幣（下同
       ）500 元之愷他命1 包，可獲得陳少穎給付70元之報酬；
       李中堯、莊璽生、許霖松每對外販售500 元之愷他命1 包
       ，可獲得陳少穎給付50元之報酬。嗣眾人即分別為下列之
@@ -236,7 +129,7 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
       2、陳少穎與值班之吳武憲共同基於販賣第三級毒品以牟
          利之犯意聯絡，於附表二所示之時、地，分別以500
          元販賣愷他命1 包販賣愷他命予附表二所示之人。
-      3、陳少穎、吳武憲與值班之<font color='red'>林建志</font>共同基於販賣第三級
+      3、陳少穎、吳武憲與值班之林建志共同基於販賣第三級
          毒品以牟利之犯意聯絡，於附表三所示之時、地，分
          別以500 元販賣愷他命1 包販賣愷他命予附表三所示
          之人。
@@ -292,16 +185,16 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
     、呂昭明、賴介文等證述在卷，且有通訊監察譯文、通聯紀
     錄等附卷可憑，及販毒帳冊、愷他命等扣案可佐，堪認被告
     上開自白為真實。另公訴意旨雖認附表三編號3 （即起訴書
-    附表二編號3 ，此部分<font color='red'>林建志</font>未據起訴）所載該次時地係吳
+    附表二編號3 ，此部分林建志未據起訴）所載該次時地係吳
     武憲值班時販賣愷他命予徐煒皓，然徐煒皓於警詢、偵訊中
-    皆指稱當時送愷他命的是<font color='red'>林建志</font>本人，伊到現場時就看到<font color='red'>林
-    建志</font>在渣打銀行門口等了等語（偵15113 卷二第74頁背面、
-    第97頁），與<font color='red'>林建志</font>所供相符（偵15113 卷一第214 頁），
+    皆指稱當時送愷他命的是林建志本人，伊到現場時就看到林
+    建志在渣打銀行門口等了等語（偵15113 卷二第74頁背面、
+    第97頁），與林建志所供相符（偵15113 卷一第214 頁），
     吳武憲雖於偵查中供稱當天整個下午都是伊值班，與徐煒皓
     交易的對象應該是伊云云（偵15113 卷一第61頁），惟其係
     因當時為自己值班時間方於偵查中如此供稱，且吳武憲亦曾
-    找過<font color='red'>林建志</font>代其值班等情，為吳武憲、<font color='red'>林建志</font>供承在卷（本
-    院卷二第137 頁背面），應認當次係<font color='red'>林建志</font>接電話及出面交
+    找過林建志代其值班等情，為吳武憲、林建志供承在卷（本
+    院卷二第137 頁背面），應認當次係林建志接電話及出面交
     付愷他命予徐煒皓。
 二、論罪：
 （一）核被告陳少穎、吳武憲、鍾政霖、黎建宏、李中堯、莊璽
@@ -321,7 +214,7 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
       之認定，而認被告陳少穎、吳武憲於附表九所示之各次販
       入行為為附表一至八販賣愷他命所含括，不另論罪。被告
       陳少穎、吳武憲間，就附表一、二所示之各次販賣愷他命
-      犯行；被告陳少穎、吳武憲與<font color='red'>林建志</font>間，就附表三所示之
+      犯行；被告陳少穎、吳武憲與林建志間，就附表三所示之
       各次販賣愷他命犯行；被告陳少穎、吳武憲與鍾政霖間，
       就附表四所示之各次販賣愷他命犯行；被告陳少穎、吳武
       憲與黎建宏間，就附表五所示之各次販賣愷他命犯行；被
@@ -493,10 +386,10 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
       已非屬被告所有者外，均應予以宣告沒收（最高法院97年
       度台上字第409 號、90年度台上字第1849號判決參照）。
       扣案之行動電話3 支（含門號0000000000、0000000000、
-      0000000000之SIM 卡3 張）分別為被告7 人及<font color='red'>林建志</font>為附
+      0000000000之SIM 卡3 張）分別為被告7 人及林建志為附
       表一至八販賣毒品犯行聯絡購毒者之用，應依毒品危害防
       制條例第19條第1 項，分別於各次犯行主文下宣告沒收；
-      扣案帳冊1 本係被告陳少穎所有，為被告7 人及<font color='red'>林建志</font>用
+      扣案帳冊1 本係被告陳少穎所有，為被告7 人及林建志用
       以為本件犯行所用之物，均依同條項規定於各次犯行主文
       下宣告沒收。另犯販賣毒品罪者，其供犯罪所用之財物，
       固應優先適用毒品危害防制條例第19條第1 項義務沒收之
@@ -651,7 +544,7 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
 │    │        │            │            │            │                                                          │
 │    │        │            │            │            │                                                          │
 └──┴────┴──────┴──────┴──────┴─────────────────────────────┘
-附表三：陳少穎、吳武憲、<font color='red'>林建志</font>共同販賣毒品部分（<font color='red'>林建志</font>值
+附表三：陳少穎、吳武憲、林建志共同販賣毒品部分（林建志值
 班）
 ┌──┬────┬──────┬──────┬──────┬─────────────────────────────┐
 │編號│販賣對象│販賣時間    │販賣地點    │販毒者所用之│主文                                                      │
@@ -659,38 +552,38 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
 ├──┼────┼──────┼──────┼──────┼─────────────────────────────┤
 │ １ │曾苡翃  │102 年6 月1 │桃園縣中壢市│0000000000  │陳少穎共同販賣第三級毒品，累犯，處有期徒刑1 年8 月，扣案之│
 │    │        │日下午4 時55│南園二路上之│            │行動電話1 支（含門號0000000000之SIM 卡1 張）、分裝袋、帳冊│
-│    │        │分許        │啟英麻豆子火│            │均沒收，未扣案之販賣毒品所得新臺幣500 元與吳武憲、<font color='red'>林建志</font>連│
-│    │        │            │鍋店旁路邊  │            │帶沒收，如全部或一部不能沒收時，以其與吳武憲、<font color='red'>林建志</font>之財產│
+│    │        │分許        │啟英麻豆子火│            │均沒收，未扣案之販賣毒品所得新臺幣500 元與吳武憲、林建志連│
+│    │        │            │鍋店旁路邊  │            │帶沒收，如全部或一部不能沒收時，以其與吳武憲、林建志之財產│
 │    │        │            │            │            │連帶抵償之。                                              │
 │    │        │            │            │            │                                                          │
 │    │        │            │            │            │吳武憲共同販賣第三級毒品，處有期徒刑1 年6 月，扣案之行動電│
 │    │        │            │            │            │話1 支（含門號0000000000之SIM 卡1 張）、分裝袋、帳冊均沒收│
-│    │        │            │            │            │，未扣案之販賣毒品所得新臺幣500 元與陳少穎、<font color='red'>林建志</font>連帶沒收│
-│    │        │            │            │            │，如全部或一部不能沒收時，以其與陳少穎、<font color='red'>林建志</font>之財產連帶抵│
+│    │        │            │            │            │，未扣案之販賣毒品所得新臺幣500 元與陳少穎、林建志連帶沒收│
+│    │        │            │            │            │，如全部或一部不能沒收時，以其與陳少穎、林建志之財產連帶抵│
 │    │        │            │            │            │償之。                                                    │
 ├──┼────┼──────┼──────┼──────┼─────────────────────────────┤
 │ ２ │徐煒皓  │102 年5 月16│桃園縣中壢市│0000000000  │陳少穎共同販賣第三級毒品，處有期徒刑1 年6 月，扣案之行動電│
 │    │        │日下午4 時48│中原橋附近之│            │話1 支（含門號0000000000之SIM 卡1 張）、分裝袋、帳冊均沒收│
-│    │        │分許        │7-11超商前  │            │，未扣案之販賣毒品所得新臺幣500 元與吳武憲、<font color='red'>林建志</font>連帶沒收│
-│    │        │            │            │            │，如全部或一部不能沒收時，以其與吳武憲、<font color='red'>林建志</font>之財產連帶抵│
+│    │        │分許        │7-11超商前  │            │，未扣案之販賣毒品所得新臺幣500 元與吳武憲、林建志連帶沒收│
+│    │        │            │            │            │，如全部或一部不能沒收時，以其與吳武憲、林建志之財產連帶抵│
 │    │        │            │            │            │償之。                                                    │
 │    │        │            │            │            │                                                          │
 │    │        │            │            │            │吳武憲共同販賣第三級毒品，處有期徒刑1 年6 月，扣案之行動電│
 │    │        │            │            │            │話1 支（含門號0000000000之SIM 卡1 張）、分裝袋、帳冊均沒收│
-│    │        │            │            │            │，未扣案之販賣毒品所得新臺幣500 元與陳少穎、<font color='red'>林建志</font>連帶沒收│
-│    │        │            │            │            │，如全部或一部不能沒收時，以其與陳少穎、<font color='red'>林建志</font>之財產連帶抵│
+│    │        │            │            │            │，未扣案之販賣毒品所得新臺幣500 元與陳少穎、林建志連帶沒收│
+│    │        │            │            │            │，如全部或一部不能沒收時，以其與陳少穎、林建志之財產連帶抵│
 │    │        │            │            │            │償之。                                                    │
 ├──┤        ├──────┼──────┤            ├─────────────────────────────┤
 │ ３ │        │102 年5 月20│桃園縣中壢市│            │陳少穎共同販賣第三級毒品，處有期徒刑1 年6 月，扣案之行動電│
 │    │        │日下午4 時45│中山路與延平│            │話1 支（含門號0000000000之SIM 卡1 張）、分裝袋、帳冊均沒收│
-│    │        │分許        │路口之渣打銀│            │，未扣案之販賣毒品所得新臺幣500 元與吳武憲、<font color='red'>林建志</font>連帶沒收│
-│    │        │            │行前        │            │，如全部或一部不能沒收時，以其與吳武憲、<font color='red'>林建志</font>之財產連帶抵│
+│    │        │分許        │路口之渣打銀│            │，未扣案之販賣毒品所得新臺幣500 元與吳武憲、林建志連帶沒收│
+│    │        │            │行前        │            │，如全部或一部不能沒收時，以其與吳武憲、林建志之財產連帶抵│
 │    │        │            │            │            │償之。                                                    │
 │    │        │            │            │            │                                                          │
 │    │        │            │            │            │吳武憲共同販賣第三級毒品，處有期徒刑1 年6 月，扣案之行動電│
 │    │        │            │            │            │話1 支（含門號0000000000之SIM 卡1 張）、分裝袋、帳冊均沒收│
-│    │        │            │            │            │，未扣案之販賣毒品所得新臺幣500 元與陳少穎、<font color='red'>林建志</font>連帶沒收│
-│    │        │            │            │            │，如全部或一部不能沒收時，以其與陳少穎、<font color='red'>林建志</font>之財產連帶抵│
+│    │        │            │            │            │，未扣案之販賣毒品所得新臺幣500 元與陳少穎、林建志連帶沒收│
+│    │        │            │            │            │，如全部或一部不能沒收時，以其與陳少穎、林建志之財產連帶抵│
 │    │        │            │            │            │償之。                                                    │
 ├──┤        ├──────┼──────┼            ├─────────────────────────────┤
 │ 4  │        │102 年5 月23│桃園縣中壢市│            │同上                                                      │
@@ -976,86 +869,12 @@ SIM 卡壹張及其配用之行動電話壹具、分裝袋壹批、帳冊壹本�
 │    │        │            │            │            │話1 支（含門號0000000000之SIM 卡1 張）、分裝袋、帳冊均沒收│
 │    │        │            │            │            │，未扣案之販賣毒品所得新臺幣500 元與陳少穎連帶沒收，如全部│
 │    │        │            │            │            │或一部不能沒收時，以其與陳少穎、許霖松之財產連帶抵償之。  │
-└──┴────┴──────┴──────┴──────┴─────────────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10211\28\TYDM102BS.05R] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共34
-											筆 / 現在第17
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000760&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=18&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c760%2c20131128%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=760&jdate=1021128&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c760%2c20131128%2c2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=760&jdate=1021128&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c760%2c20131128%2c2','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','760','1021128','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="17"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林建志">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林建志">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴────┴──────┴──────┴──────┴─────────────────────────────┘
+[*jrecno*]102,訴,760,20131128,2
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]760
+[*jdate*]1021128
+[*jcheck*]2

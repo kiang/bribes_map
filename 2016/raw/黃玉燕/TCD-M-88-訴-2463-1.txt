@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-88訴2463</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第8
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4&selectedCrmno=002463&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%2c2463%2c20031016%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=2463&jdate=921016&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e8%a8%b4%2c2463%2c20031016%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=2463&jdate=921016&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('88%2c%e8%a8%b4%2c2463%2c20031016%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%a8%b4','2463','921016','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">88,訴,2463</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">921016</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">過失致死</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　　　　　　八十八年度訴字第二四六三號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%2c2463%2c20031016%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=2463&jdate=921016&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4&selectedCrmno=002463&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=88%2c%e8%a8%b4%2c2463%2c20031016%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=2463&jdate=921016&jcheck=1
+[*裁判字號*]88,訴,2463
+[*裁判日期*]921016
+[*裁判案由*]過失致死
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　　　　　　　八十八年度訴字第二四六三號
 　　公　訴　人　臺灣臺中地方法院檢察署檢察官
 　　被　　　告　甲○○
 　　選任辯護人　邱華南
@@ -240,11 +133,11 @@ function openwin(URL,arguments,width,height)
       。本案卻仍依循業界舊例以靜力模式為主，將結構物受力情形平均化，未顧及
       「金巴黎」因不規則性致使局部結構之動力特性與靜力模式有極大差異，因而
       應力集中部位被忽視，應力大之受力點被低估而失真，結構未適當加強而有提
-      前破壞之虞。另結構計算書與實際不符而使結構本身無足夠安全係數：包括<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />
+      前破壞之虞。另結構計算書與實際不符而使結構本身無足夠安全係數：包括
       一樓挑高未有夾層部分之樓高為五˙九公尺，結構計算書卻概括以一樓三公尺
       夾層樓二˙九公尺做計算，致使結構勁度被高估而應力被低估，韌性容量有提
       前用罄之虞。若再考慮地震時之動力特性，則由軸力－位移效應衍生之彎矩將
-      使此過失產生之危害嚴重化。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />地下室樓高五公尺，結構計算書卻以四˙三公
+      使此過失產生之危害嚴重化。地下室樓高五公尺，結構計算書卻以四˙三公
       尺做計算，則有結構勁度（強度）被高估而降低了實際的安全係數。且不規則
       處之結構應補強而未足夠補強，使結構本身無足夠強度「金巴黎」結構規劃有
       極明顯之平面不規則與立面不規則（一樓為開放空間，部分挑高為五˙九公尺
@@ -254,10 +147,10 @@ function openwin(URL,arguments,width,height)
       荷，而結構本身無防備，因此易嚴重崩壞，特別是本案之平面佈置存有許多不
       規則狀與鋸齒狀，於地震側向力負荷時其樓版局部未有足夠之橫向勁度以提供
       強勁之橫向支撐，與剛性樓版假設不符。
-    (三)又金巴黎住宅大樓之建築規劃於設計上有下列明顯之結構弱點：如<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />柱跨距較
-      大達九公尺（一般住宅柱跨距僅約六公尺左右），<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />底部做開放空間而有較長
-      之柱高達五˙九公尺（一般住宅柱高約三公尺左右），<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />平面配置規劃極不規
-      則而有許多缺角，易造成應力集中，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />由缺角所形成之各結構分區，柱個數太
+    (三)又金巴黎住宅大樓之建築規劃於設計上有下列明顯之結構弱點：如柱跨距較
+      大達九公尺（一般住宅柱跨距僅約六公尺左右），底部做開放空間而有較長
+      之柱高達五˙九公尺（一般住宅柱高約三公尺左右），平面配置規劃極不規
+      則而有許多缺角，易造成應力集中，由缺角所形成之各結構分區，柱個數太
       少，如四柱結構體六柱結構體等，易形成一柱破壞全部破壞結果（一般住宅結
       構體柱數類似大型貨卡車之輪胎數，有高度靜不定的規劃設計，亦即以較多之
       個數來避免少數的破壞影響到整體安全。若靜不定度低，則放大每一支樑或柱
@@ -880,10 +773,10 @@ function openwin(URL,arguments,width,height)
       責任，建築師法第十八條、第十九條前段定有明文。又建築工程中必須勘驗部
       分，應由直轄市、縣（市）（局）主管建築機關於核定建築計畫時，指定由承
       造人會同監造人按時申報後，方得繼續施工，主管建築機關得隨時勘驗之；而
-      建築工程必須勘驗部分，依左列施工階段辦理：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />放樣勘驗：建築物放樣後，
-      挖掘基礎土方前。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />基礎勘驗：基礎土方挖掘後、澆置混凝土前，其為鋼筋混
-      凝土構造者，配筋完畢，如有基椿者，基椿施工完成。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />配筋勘驗：鋼筋混凝
-      土構造及加強磚造各層樓板或屋頂配筋完畢，澆置混凝土前。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />鋼筋勘驗：鋼
+      建築工程必須勘驗部分，依左列施工階段辦理：放樣勘驗：建築物放樣後，
+      挖掘基礎土方前。基礎勘驗：基礎土方挖掘後、澆置混凝土前，其為鋼筋混
+      凝土構造者，配筋完畢，如有基椿者，基椿施工完成。配筋勘驗：鋼筋混凝
+      土構造及加強磚造各層樓板或屋頂配筋完畢，澆置混凝土前。鋼筋勘驗：鋼
       骨鋼筋混凝土構造各層鋼骨組立完成裝置模樣前或鋼骨構造、鋼骨結構組立完
       成作防火覆蓋之前。．．．申報勘驗之文件應經承造人會同監造人查核簽章後
       於該階段工程施工前送達當地主管建築機關次日方得繼續施工，建築法第五十
@@ -1121,17 +1014,17 @@ function openwin(URL,arguments,width,height)
         之建築結構專業人士，應無不能發現不規則性對結構安全危害之理。事前未
         依法令及專業做完整之分析與設計並做足夠之補強，此與嗣該棟大樓部分在
         九二一地震時崩塌，有明顯之因果關係。
-      (3)另結構計算書與實際不符而使結構本身無足夠安全係數：包括<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />一樓挑高未
+      (3)另結構計算書與實際不符而使結構本身無足夠安全係數：包括一樓挑高未
         有夾層部分之樓高為五˙九公尺，結構計算書卻概括以一樓三公尺夾層樓二
         ˙九公尺做計算，致使結構勁度被高估而應力被低估，韌性容量有提前用罄
         之虞。若再考慮地震時之動力特性，則由軸力－位移效應衍生之彎矩將使此
-        過失產生之危害嚴重化。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />地下室樓高五公尺，結構計算書卻以四˙三公尺
+        過失產生之危害嚴重化。地下室樓高五公尺，結構計算書卻以四˙三公尺
         做計算，則有結構勁度（強度）被高估而降低了實際的安全係數。此等設計
         之缺失皆屬可得避免，被告甲○○卻均未注意避免。
-      (4)又金巴黎住宅大樓之建築規劃於設計上有下列明顯之結構弱點：如<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />柱跨距
-        較大達九公尺（一般住宅柱跨距僅約六公尺左右），<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />底部做開放空間而有
-        較長之柱高達五˙九公尺（一般住宅柱高約三公尺左右），<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />平面配置規劃
-        極不規則而有許多缺角，易造成應力集中，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />由缺角所形成之各結構分區，
+      (4)又金巴黎住宅大樓之建築規劃於設計上有下列明顯之結構弱點：如柱跨距
+        較大達九公尺（一般住宅柱跨距僅約六公尺左右），底部做開放空間而有
+        較長之柱高達五˙九公尺（一般住宅柱高約三公尺左右），平面配置規劃
+        極不規則而有許多缺角，易造成應力集中，由缺角所形成之各結構分區，
         柱個數太少，如四柱結構體六柱結構體等，易形成一柱破壞全部破壞結果（
         一般住宅結構體柱數類似大型貨卡車之輪胎數，有高度靜不定的規劃設計，
         亦即以較多之個數來避免少數的破壞影響到整體安全。若靜不定度低，則放
@@ -1145,23 +1038,23 @@ function openwin(URL,arguments,width,height)
         ，造成預期外的負荷，而結構本身無防備，因此易嚴重崩壞，特別是本案之
         平面佈置存有許多不規則狀與鋸齒狀，於地震側向力負荷時其樓版局部未有
         足夠之橫向勁度以提供強勁之橫向支撐，與剛性樓版假設不符。尤以Ｃ部分
-        後棟之Ｍ、Ｎ棟為例，此錯誤假設與倒塌之因果關係如下：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />地震時，矩形
+        後棟之Ｍ、Ｎ棟為例，此錯誤假設與倒塌之因果關係如下：地震時，矩形
         高樓結構受側向負荷時之動態反應，第一振態為弱軸上之振動（一般單調矩
         形大樓可忽略動力偏心與扭矩效應），第一振態如稻禾隨風擺動般，樓層之
         側向位移隨樓高增加而增加。（振態的顯要性隨振頻增大而降低，亦即振態
-        編號增加而降低，第一振態大於第二振態大於第三振態大於˙˙˙˙）。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />
+        編號增加而降低，第一振態大於第二振態大於第三振態大於˙˙˙˙）。
         Ｍ棟與Ｎ棟相位相差九○度，亦即Ｍ棟之強軸方向（長向）為Ｎ棟之弱軸方
         向（短向），Ｍ棟之弱軸方向（短向）為Ｎ棟之強軸方向（長向），因此Ｍ
-        棟與Ｎ棟因相位相差九○度故其振態也近似相差九○度。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />地震時，因Ｍ棟
+        棟與Ｎ棟因相位相差九○度故其振態也近似相差九○度。地震時，因Ｍ棟
         與Ｎ棟第一振態近似相差九○度，使Ｍ棟與Ｎ棟之間的板樑因不一致的本性
         位移而受平面應力拉扯，其應力隨樓高增加而增大；連接Ｍ棟與Ｎ棟的樑Ｂ
         一、Ｂ四與Ｇ一八將因而產生極大之應力，並傳遞至連結其上之柱Ｃ二二、
-        Ｃ二五樑Ｂ一五、Ｂ一七，造成預期外之負荷。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />以Ｍ棟的樑Ｂ一五、Ｎ棟
+        Ｃ二五樑Ｂ一五、Ｂ一七，造成預期外之負荷。以Ｍ棟的樑Ｂ一五、Ｎ棟
         的樑Ｂ一七為例，原結構設計所忽略之負荷，隨樓高增加而增大，並施加於
         樑的側面（弱軸），造成彎矩破壞；此破壞為預期外，破壞模式應為混凝土
         先壓碎之壓力破壞，並進而造成由上而下之瞬間崩塌，證諸卷附「金巴黎」
         Ｍ棟與Ｎ棟崩塌現場照片，與被害人等於偵查中所陳述崩塌時之情景，均與
-        此破壞模式之推論相符合。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />被告甲○○與證人己○○結構技師於九十二年
+        此破壞模式之推論相符合。被告甲○○與證人己○○結構技師於九十二年
         七月三十一日本院調查時均坦承，基於建築結構專業，Ｍ、Ｎ棟間之不規則
         鋸齒狀應加設過樑，而不規則處結構也應特別補強。然過樑應加設而未加設
         ，不規則處之結構應補強而未足夠補強，則被告設計上之缺失使結構穩定性
@@ -1418,7 +1311,7 @@ function openwin(URL,arguments,width,height)
     良基營造公司並無承造上開「金巴黎」社區大樓之工程，竟出借良基營造公司之
     營業牌照予未具合法營造公司資格之寶琨建設公司，並使寶琨建設公司得以良基
     營造公司為承造人名義，向台中縣政府工務局申請使用執照，使不知情之公務員
-    黃明煌登載於職務執掌之登記簿上，並據以核發<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F51E2A0A00000040.GIF" />工建使字第三○二五號之使用
+    黃明煌登載於職務執掌之登記簿上，並據以核發工建使字第三○二五號之使用
     執照，足生損害於建管機關對建築管理之正確性。因認被告戊○○所為涉犯刑法
     第二百十四條使公務員登載不實事項於公文書，及稅捐稽徵法第四十三條第一項
     幫助逃漏稅捐等之罪嫌云云。
@@ -1446,9 +1339,9 @@ function openwin(URL,arguments,width,height)
     犯意，明知良基營造公司並無承造如附表二所示工程之事實，竟共同出借該公司
     營業牌照予如附表二所示未具合法營造公司資格之建商或個人。良基營造公司、
     瑞得營造公司借牌予附表二、三所示之未具合法營造公司，除向借牌之建商收取
-    營業稅五％之外，並收取定額之佣金（即服務費），其計價方式有三種：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />包工
-    包料案件，則抽取工程造價○．八％至三％不等的佣金；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />包工不包料案件，則
-    抽取工程造價百分之三十中之○．八％至二．五％不等的佣金；<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />變更承造人案
+    營業稅五％之外，並收取定額之佣金（即服務費），其計價方式有三種：包工
+    包料案件，則抽取工程造價○．八％至三％不等的佣金；包工不包料案件，則
+    抽取工程造價百分之三十中之○．八％至二．五％不等的佣金；變更承造人案
     件，係抽取工程造價約二％不等的佣金牟利。戊○○、賴傳旺、乙○○明知彼等
     並未分別承造附表二、三所示之房屋建造工程，實際上附表二、三所示之房屋建
     造工程係附表二、三所示之實際承造人承建，竟分別與附表二、三所示之實際承
@@ -1701,7 +1594,7 @@ function openwin(URL,arguments,width,height)
 ─┼────┤
 │十二│竹山鎮竹圍子│林進來  │瑞得公司    │不詳        │同右    │賴傳
 旺│        │
-│    │段硐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EFED2A0A00000040.GIF" />小段四│  │（開工報告工│            │        │
+│    │段硐小段四│  │（開工報告工│            │        │
   │        │
 │    │二八之二號  │        │程合約）    │            │        │
   │        │
@@ -1779,9 +1672,9 @@ function openwin(URL,arguments,width,height)
   │        │
 ├──┼──────┼────┼──────┼──────┼────┼──
 ─┼────┤
-│廿二│高雄市<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4D52A0A00000040.GIF" />程區│陳本興  │同右        │周添丁      │同右    │同右
+│廿二│高雄市程區│陳本興  │同右        │周添丁      │同右    │同右
   │        │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E4D52A0A00000040.GIF" />埕段一六七│        │            │黃誠任      │        │
+│    │埕段一六七│        │            │黃誠任      │        │
   │        │
 │    │、一七一號  │        │            │            │        │
   │        │
@@ -1857,7 +1750,7 @@ function openwin(URL,arguments,width,height)
   │        │
 ├──┼──────┼────┼──────┼──────┼────┼──
 ─┼────┤
-│ 卅 │花蓮縣光復鄉│<font color='red'>黃玉燕  </font>│同右        │不詳        │自雇工  │賴傳
+│ 卅 │花蓮縣光復鄉│黃玉燕  │同右        │不詳        │自雇工  │賴傳
 旺│        │
 │    │大安段二四０│        │（使用執照申│            │購料興建│
   │        │
@@ -2001,86 +1894,11 @@ function openwin(URL,arguments,width,height)
   │        │
 └──┴──────┴────┴──────┴──────┴────┴──
 ─┴────┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\judday\OK\LAWTCD\CRIMINAL\9212\31\TCDM92CV.001] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第8
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4&selectedCrmno=002463&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%2c2463%2c20031016%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=2463&jdate=921016&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e8%a8%b4%2c2463%2c20031016%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=2463&jdate=921016&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('88%2c%e8%a8%b4%2c2463%2c20031016%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%a8%b4','2463','921016','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="8"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃玉燕">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃玉燕">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]88,訴,2463,20031016,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]88
+[*jcase*]訴
+[*jno*]2463
+[*jdate*]921016
+[*jcheck*]1

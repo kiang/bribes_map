@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-103上訴2611</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002611&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=2611&jdate=1031204&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=2611&jdate=1031204&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','103','%e4%b8%8a%e8%a8%b4','2611','1031204','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,上訴,2611</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1031204</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 103年度上訴字第2611號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=2611&jdate=1031204&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002611&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=2611&jdate=1031204&jcheck=1
+[*裁判字號*]103,上訴,2611
+[*裁判日期*]1031204
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 103年度上訴字第2611號
 上　訴　人
 即　被　告　林千惠
 選任辯護人　沙洪律師（法律扶助律師）
@@ -127,7 +20,7 @@ function openwin(URL,arguments,width,height)
     毒品，竟基於販賣第二級毒品甲基安非他命（下稱甲基安非
     他命）以營利之犯意，於如附表一所示時間、地點，以如附
     表一所示之價額及方式，分別販賣如附表一所示數量之甲基
-    安非他命予賴柏瑞、李韋儀、<font color='red'>王寶萱</font>、蔡純純、陳俊利。
+    安非他命予賴柏瑞、李韋儀、王寶萱、蔡純純、陳俊利。
 二、林千惠與陳澍民（所犯共同販賣第二級毒品犯行部分，共2
     罪，經原審判決各判處有期徒刑3 年8 月，並與其另犯之販
     賣第二級毒品、轉讓禁藥及施用第一級毒品等罪，定應執行
@@ -175,11 +68,11 @@ function openwin(URL,arguments,width,height)
     具有自然之關聯性，均得作為證據。
 二、認定事實所憑之證據及理由：
   (一)上開如事實欄一所示、被告於如附表一所示之時地販賣甲基
-    安非他命予賴柏瑞、李韋儀、<font color='red'>王寶萱</font>、蔡純純、陳俊利等人
+    安非他命予賴柏瑞、李韋儀、王寶萱、蔡純純、陳俊利等人
     之事實，迭據被告於偵查、原審及本院審理時均坦承不諱（
     見102 年度偵字第29326 號卷第283 至285 頁、原審卷第32
     頁背面、第81頁背面、第116 頁，本院卷第68頁、第91頁背
-    面），並經證人賴柏瑞、李韋儀、<font color='red'>王寶萱</font>、蔡純純、陳俊利
+    面），並經證人賴柏瑞、李韋儀、王寶萱、蔡純純、陳俊利
     分別於警詢、偵查中證稱：渠等各於如附表一編號1 至8 所
     示時間與被告通話後，分別於附表一編號1 至8 所示時、地
     ，由被告交付渠等甲基安非他命並收取價金等情明確（見10
@@ -189,8 +82,8 @@ function openwin(URL,arguments,width,height)
     表一編號1 所示之時間，以0000000000號行動電話與被告使
     用之共犯陳澍民所有0000000000號行動電話進行聯繫、證人
     李韋儀有於附表一編號2 至3 所示之時間，以0000000000號
-    行動電話與被告之0000000000號行動電話進行聯繫、證人<font color='red'>王
-    寶萱</font>有於附表一編號4 所示之時間，以0000000000號行動電
+    行動電話與被告之0000000000號行動電話進行聯繫、證人王
+    寶萱有於附表一編號4 所示之時間，以0000000000號行動電
     話與被告之0000000000號行動電話進行聯繫、證人蔡純純有
     於附表一編號5 至7 所示之時間，各以0000000000、000000
     0000號行動電話與被告之0000000000號行動電話進行聯繫、
@@ -199,7 +92,7 @@ function openwin(URL,arguments,width,height)
     毒事宜、見面時間、地點等情，有原審法院102 年聲監字第
     1090、1261號通訊監察書、102 年聲監續字第1867、2076號
     通訊監察書、如附表四編號1 至8 所示被告林千惠與證人賴
-    柏瑞、李韋儀、<font color='red'>王寶萱</font>、蔡純純、陳俊利之通訊監察譯文各
+    柏瑞、李韋儀、王寶萱、蔡純純、陳俊利之通訊監察譯文各
     1 份在卷可憑（見102 年度偵字29326 號卷第11至17、70至
     75、247 至249 、257 至259 頁、102 年度偵字29327 號偵
     查卷(一)第151 、152 頁），並有原審法院102 年度聲搜字第
@@ -241,12 +134,12 @@ function openwin(URL,arguments,width,height)
     原價有償讓與他人，方難謂為販賣行為，而僅得以轉讓罪論
     處（最高法院93年度臺上字第1651號、87年度臺上字第3164
     號判決意旨參照）；茲甲基安非他命之價格不低，取得不易
-    ，被告如附表一所載各次與證人賴柏瑞、李韋儀、<font color='red'>王寶萱</font>、
+    ，被告如附表一所載各次與證人賴柏瑞、李韋儀、王寶萱、
     蔡純純、陳俊利等人、被告如附表二所載各次與證人蕭夢麟
     聯繫販賣交付甲基安非他命之過程，均係約定以現金交易，
     非如一般單純轉讓毒品者僅係談及交付毒品之數量，此應係
     慮及從事販賣毒品之風險極高之故，是被告如此精於計算，
-    堪認其具營利意圖，況依證人陳俊利、李韋儀、<font color='red'>王寶萱</font>、蔡
+    堪認其具營利意圖，況依證人陳俊利、李韋儀、王寶萱、蔡
     純純、蕭夢麟於偵查中結證係向被告「買」毒品等語明確。
     再徵諸毒品危害防制條例第4 條第2 項所定販賣第二級毒品
     之法定刑為「無期徒刑或7 年以上有期徒刑，得併科7 百萬
@@ -265,8 +158,8 @@ function openwin(URL,arguments,width,height)
 三、論罪：
   (一)按甲基安非他命屬於毒品危害防制條例第2 條第2 項第2 款
     所定之第二級毒品，不得販賣。核被告如事實欄一（即如附
-    表一所載販賣甲基安非他命予證人賴柏瑞、李韋儀、<font color='red'>王寶萱
-    </font>、蔡純純、陳俊利）、事實欄二（即附表二所載共同販賣甲
+    表一所載販賣甲基安非他命予證人賴柏瑞、李韋儀、王寶萱
+    、蔡純純、陳俊利）、事實欄二（即附表二所載共同販賣甲
     基安非他命予證人蕭夢麟）所示之行為，均係犯毒品危害防
     制條例第4 條第2 項之販賣第二級毒品罪。又其販賣前後持
     有甲基安非他命之低度行為，分別為販賣之高度行為所吸收
@@ -505,7 +398,7 @@ function openwin(URL,arguments,width,height)
 │    │        │          │      │          │基安非他命既│        │            │
 │    │        │          │      │          │遂。        │        │            │
 ├──┼────┼─────┼───┼─────┼──────┼────┼──────┤
-│4   │102 年9 │桃園縣桃園│<font color='red'>王寶萱</font>│第二級毒品│林千惠使用扣│1,500元 │102 年度偵字│
+│4   │102 年9 │桃園縣桃園│王寶萱│第二級毒品│林千惠使用扣│1,500元 │102 年度偵字│
 │    │月2 日  │市中正路36│      │甲基安非他│案如附表三編│        │第29326 號偵│
 │    │        │6 號13樓之│      │命0.5 公克│號5 所示行動│        │查卷第16、17│
 │    │        │8         │      │          │電話（內含門│        │頁即附表六編│
@@ -787,7 +680,7 @@ function openwin(URL,arguments,width,height)
 │  │        │          │          │B：我下去我下去，掰掰。         │        │        │          │
 ├─┼────┼─────┼─────┼────────────────┼────┼────┼─────┤
 │4 │102 年9 │0000000000│0000000000│A：喂。                         │臺北市士│原審法院│102 年度偵│
-│  │月2 日上│林千惠    │<font color='red'>王寶萱    </font>│B：喂阿姨，ancle出門了嗎？      │林區延平│102 年聲│字第29326 │
+│  │月2 日上│林千惠    │王寶萱    │B：喂阿姨，ancle出門了嗎？      │林區延平│102 年聲│字第29326 │
 │  │午11時57│          │          │A：他有打給你嗎？               │北路7 段│監字第12│號卷第16頁│
 │  │分04秒  │          │          │B：有阿，他說他12點多會到阿。   │261 號3 │61號    │至第17頁  │
 │  │        │          │          │A：是喔？                       │樓頂    │        │          │
@@ -1143,127 +1036,53 @@ function openwin(URL,arguments,width,height)
 ┌──┬────────────────────────────┬──────────────┐
 │編號│        原  判  決  主  文                              │           備    註         │
 ├──┼────────────────────────────┼──────────────┤
-│ 1  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年捌月，未扣案販賣毒品│即附表一編號1所示犯行       │
+│ 1  │林千惠販賣第二級毒品，處有期徒刑年捌月，未扣案販賣毒品│即附表一編號1所示犯行       │
 │    │所得新臺幣玖仟元沒收之，如全部或一部不能沒收時，以其財產│                            │
 │    │抵償之。                                                │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 2  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表三編│即附表一編號2 所示犯行      │
+│ 2  │林千惠販賣第二級毒品，處有期徒刑年柒月，扣案如附表三編│即附表一編號2 所示犯行      │
 │    │號五所示之物沒收，未扣案販賣毒品所得新臺幣伍仟元沒收之，│                            │
 │    │如全部或一部不能沒收時，以其財產抵償之。                │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 3  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表三編│即附表一編號3 所示犯行      │
+│ 3  │林千惠販賣第二級毒品，處有期徒刑年柒月，扣案如附表三編│即附表一編號3 所示犯行      │
 │    │號五所示之物沒收，未扣案販賣毒品所得新臺幣伍仟元沒收之，│                            │
 │    │如全部或一部不能沒收時，以其財產抵償之。                │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 4  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表三編│即附表一編號4 所示犯行      │
+│ 4  │林千惠販賣第二級毒品，處有期徒刑年柒月，扣案如附表三編│即附表一編號4 所示犯行      │
 │    │號五所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 5  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表三編│即附表一編號5 所示犯行      │
+│ 5  │林千惠販賣第二級毒品，處有期徒刑年柒月，扣案如附表三編│即附表一編號5 所示犯行      │
 │    │號五所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 6  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表三編│即附表一編號6 所示犯行      │
+│ 6  │林千惠販賣第二級毒品，處有期徒刑年柒月，扣案如附表三編│即附表一編號6 所示犯行      │
 │    │號五所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 7  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表三編│即附表一編號7 所示犯行      │
+│ 7  │林千惠販賣第二級毒品，處有期徒刑年柒月，扣案如附表三編│即附表一編號7 所示犯行      │
 │    │號五所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 8  │林千惠販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表三編│即附表一編號8 所示犯行      │
+│ 8  │林千惠販賣第二級毒品，處有期徒刑年柒月，扣案如附表三編│即附表一編號8 所示犯行      │
 │    │號五所示之物沒收，未扣案販賣毒品所得新臺幣壹仟伍佰元沒收│                            │
 │    │之，如全部或一部不能沒收時，以其財產抵償之。            │                            │
 ├──┼────────────────────────────┼──────────────┤
-│ 9  │林千惠共同販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表│即附表二編號1所示犯行       │
+│ 9  │林千惠共同販賣第二級毒品，處有期徒刑年柒月，扣案如附表│即附表二編號1所示犯行       │
 │    │三編號五所示之物沒收，未扣案販賣毒品所得新臺幣壹仟元與陳│                            │
 │    │澍民連帶沒收之，如全部或一部不能沒收時，以其等財產連帶抵│                            │
 │    │償之。                                                  │                            │
 ├──┼────────────────────────────┼──────────────┤
-│10  │林千惠共同販賣第二級毒品，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，扣案如附表│即附表二編號2所示犯行       │
+│10  │林千惠共同販賣第二級毒品，處有期徒刑年柒月，扣案如附表│即附表二編號2所示犯行       │
 │    │三編號一所示之物沒收，未扣案販賣毒品所得新臺幣貳仟伍佰元│                            │
 │    │與陳澍民連帶沒收之，如全部或一部不能沒收時，以其等財產連│                            │
 │    │帶抵償之。                                              │                            │
-└──┴────────────────────────────┴──────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10312\04\TPHM103C4.01V] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002611&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=2611&jdate=1031204&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=2611&jdate=1031204&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e8%a8%b4%2c2611%2c20141204%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','103','%e4%b8%8a%e8%a8%b4','2611','1031204','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王寶萱">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王寶萱">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴────────────────────────────┴──────────────┘
+[*jrecno*]103,上訴,2611,20141204,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]上訴
+[*jno*]2611
+[*jdate*]1031204
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-88訴1173</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第4
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4&selectedCrmno=001173&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bb%96%e5%a9%89%e6%b1%9d&sdate=&edate=&page=&searchkw=%e5%bb%96%e5%a9%89%e6%b1%9d&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bb%96%e5%a9%89%e6%b1%9d&sdate=&edate=&page=&searchkw=%e5%bb%96%e5%a9%89%e6%b1%9d&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%2c1173%2c20020220%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=1173&jdate=910220&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e8%a8%b4%2c1173%2c20020220%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=1173&jdate=910220&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('88%2c%e8%a8%b4%2c1173%2c20020220%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%a8%b4','1173','910220','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">88,訴,1173</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">910220</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>台灣台北地方法院刑事判決　　　　　　　　　　　　八十八年度訴字第一一七三號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%2c1173%2c20020220%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=1173&jdate=910220&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4&selectedCrmno=001173&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=88%2c%e8%a8%b4%2c1173%2c20020220%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=1173&jdate=910220&jcheck=1
+[*裁判字號*]88,訴,1173
+[*裁判日期*]910220
+[*裁判案由*]貪污等
+[*裁判全文*]台灣台北地方法院刑事判決　　　　　　　　　　　　八十八年度訴字第一一七三號
 　 公　訴　人　臺灣臺北地方法院檢察署檢察官
 　 被　　　告　寅○○
 　 右一人
@@ -214,19 +107,19 @@ function openwin(URL,arguments,width,height)
     於成績單上而連續偽造張銘升成績單共四張，以圖協助張銘升取得廣大學院學位
     證書，復基於前揭概括犯意，於八十八年一月間某日，在台北市○○○路某處委
     託不知情之刻印人士偽造「臺灣省屏東縣私立明德高中印」、「臺灣省屏東縣私
-    立明德高中騎縫之章」、「<font color='red'>廖婉汝</font>」印章三枚、「台灣省屏東縣私立明德高中」
+    立明德高中騎縫之章」、「廖婉汝」印章三枚、「台灣省屏東縣私立明德高中」
     鋼印一枚及橡皮章一百六十五枚，並委託不知情之中崙地區某印刷廠偽造台灣省
     屏東縣私立明德高中（下簡稱明德高中）空白畢業證書、畢業證明書、證明書、
-    結業證明書、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E52A2A0A00000040.GIF" />狀，而蓋用偽造「臺灣省屏東縣私立明德高級中學印」、偽造「
-    <font color='red'>廖婉汝</font>」印文各一枚（各共二枚）於偽造德中畢字第二八號畢業證書、德中畢字
+    結業證明書、狀，而蓋用偽造「臺灣省屏東縣私立明德高級中學印」、偽造「
+    廖婉汝」印文各一枚（各共二枚）於偽造德中畢字第二八號畢業證書、德中畢字
     第一七號偽造畢業證書上，並貼用不詳姓名人士之照片，而連續偽造畢業證書二
     張，足以生損害於明德高中學位之正確性及香港廣大學院。嗣經法務部調查局查
     獲上情，於八十八年二月五日扣得德中畢字第二八號偽造畢業證書、德中畢字第
     一七號偽造畢業證書及戊○○所有供犯罪所用之偽造「臺灣省屏東縣私立明德高
-    中印」、「臺灣省屏東縣私立明德高中騎縫之章」、「<font color='red'>廖婉汝</font>」印章三枚、「台
+    中印」、「臺灣省屏東縣私立明德高中騎縫之章」、「廖婉汝」印章三枚、「台
     灣省屏東縣私立明德高中」鋼印一枚及橡皮章一百六十五枚及預備供犯罪所用之
     空白之明德高中畢業證書五十一張、畢業證明書十五張、證明書四張、結業證明
-    書九張、資格證明書五張、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E52A2A0A00000040.GIF" />狀三張。
+    書九張、資格證明書五張、狀三張。
 三、案經法務部調查局台北市調查處移送臺灣臺北地方法院檢察署檢察官偵查起訴及
     臺灣花蓮地方法院檢察署檢察官移送併案審理。
     理  由
@@ -410,9 +303,9 @@ function openwin(URL,arguments,width,height)
           十二日（八八）德中（總）字第二四六七號函在卷可稽，並有如附表所示
           德中畢字第二八號偽造畢業證書、德中畢字第一七號偽造畢業證書、偽造
           「臺灣省屏東縣私立明德高中印」、「臺灣省屏東縣私立明德高中騎縫之
-          章」、「<font color='red'>廖婉汝</font>」印章各一枚、偽造「台灣省屏東縣私立明德高中」鋼印
+          章」、「廖婉汝」印章各一枚、偽造「台灣省屏東縣私立明德高中」鋼印
           一枚及橡皮章一百六十五枚、偽造空白之明德高中畢業證書五十一張、畢
-          業證明書十五張、證明書四張、結業證明書九張、資格證明書五張、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E52A2A0A00000040.GIF" />狀
+          業證明書十五張、證明書四張、結業證明書九張、資格證明書五張、狀
           三張扣案可證，被告在丙○審理中亦自承曾自行製作空白之偽造畢業證書
           等情（見丙○十八年九月二十七日訊問筆錄），則被告戊○○未經授權，
           而連續偽造印章，並進而以明德高中之名義製作明德高中畢業證書之事證
@@ -519,8 +412,8 @@ function openwin(URL,arguments,width,height)
           扣案之蔣肇泉、莊欣穎之畢業證書影本為其唯一論據，然被告戊○○業已
           否認偽造該等畢業證書，依蔣肇泉之畢業證明書上日期為七十八年六月，
           當時校長印文為「林孝先」、莊欣穎之畢業證書上日期為七十六年七月，
-          當時校長印文為「林孝先」，核與被告戊○○所偽刻之校長印文為「<font color='red'>廖
-          婉汝</font>」並不相符，且被告戊○○既已坦承偽造以校長「<font color='red'>廖婉汝</font>」名義之畢
+          當時校長印文為「林孝先」，核與被告戊○○所偽刻之校長印文為「廖
+          婉汝」並不相符，且被告戊○○既已坦承偽造以校長「廖婉汝」名義之畢
           業證書，並無否認其他偽造證書犯行之必要，此外，亦查無其他積極證據
           足認被告戊○○涉有偽造該二畢業證明書及畢業證書之犯行，尚難僅以被
           告持有該二紙證書即認被告涉有偽造證書之犯行，此部分亦不能證明被告
@@ -603,94 +496,19 @@ function openwin(URL,arguments,width,height)
 盜用印章、印文或署押，足以生損害於公眾或他人者，亦同。
 附表
 一、德中畢字第二八號偽造畢業證書上偽造「臺灣省屏東縣私立明德高級中學印」印
-    文一枚、偽造「<font color='red'>廖婉汝</font>」印文一枚。
+    文一枚、偽造「廖婉汝」印文一枚。
 二、德中畢字第一七號偽造畢業證書上偽造「臺灣省屏東縣私立明德高級中學印」印
-    文一枚、偽造「<font color='red'>廖婉汝</font>」印文一枚。
+    文一枚、偽造「廖婉汝」印文一枚。
 三、偽造「臺灣省屏東縣私立明德高中印」、「臺灣省屏東縣私立明德高中騎縫之章
-    」、「<font color='red'>廖婉汝</font>」印章各一枚、偽造「台灣省屏東縣私立明德高中」鋼印一枚及橡
+    」、「廖婉汝」印章各一枚、偽造「台灣省屏東縣私立明德高中」鋼印一枚及橡
     皮章一百六十五枚。
 四、偽造空白之明德高中畢業證書五十一張、畢業證明書十五張、證明書四張、結業
-    證明書九張、資格證明書五張、<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E52A2A0A00000040.GIF" />狀三張。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWTPD\CRIMINAL\9103\01\TPDM9131.010] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第4
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4&selectedCrmno=001173&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bb%96%e5%a9%89%e6%b1%9d&sdate=&edate=&page=&searchkw=%e5%bb%96%e5%a9%89%e6%b1%9d&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bb%96%e5%a9%89%e6%b1%9d&sdate=&edate=&page=&searchkw=%e5%bb%96%e5%a9%89%e6%b1%9d&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%2c1173%2c20020220%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=1173&jdate=910220&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e8%a8%b4%2c1173%2c20020220%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4&jno=1173&jdate=910220&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('88%2c%e8%a8%b4%2c1173%2c20020220%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%a8%b4','1173','910220','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="廖婉汝">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="廖婉汝">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+    證明書九張、資格證明書五張、狀三張。
+[*jrecno*]88,訴,1173,20020220,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]88
+[*jcase*]訴
+[*jno*]1173
+[*jdate*]910220
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-102自23</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%87%aa&selectedCrmno=000023&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%96%b9%e6%99%af%e9%88%9e&sdate=&edate=&page=&searchkw=%e6%96%b9%e6%99%af%e9%88%9e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%96%b9%e6%99%af%e9%88%9e&sdate=&edate=&page=&searchkw=%e6%96%b9%e6%99%af%e9%88%9e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%87%aa%2c23%2c20150430%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%87%aa&jno=23&jdate=1040430&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%87%aa%2c23%2c20150430%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%87%aa&jno=23&jdate=1040430&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%87%aa%2c23%2c20150430%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%87%aa','23','1040430','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,自,23</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040430</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誣告等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　　　102年度自字第9號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%87%aa%2c23%2c20150430%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%87%aa&jno=23&jdate=1040430&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%87%aa&selectedCrmno=000023&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%87%aa%2c23%2c20150430%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%87%aa&jno=23&jdate=1040430&jcheck=2
+[*裁判字號*]102,自,23
+[*裁判日期*]1040430
+[*裁判案由*]誣告等
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　　　102年度自字第9號
 　　　　　　　　　　　　　　　　　　　 102年度自字第23號
 自　訴　人　黃宜嫺
 自訴代理人　黃達元律師
@@ -219,7 +112,7 @@ function openwin(URL,arguments,width,height)
     組織，共同從事恐嚇取財等行為」，「犯嫌沈俊旭坦承受鄭
     文斌、壬○○之教唆持全安物業管理顧間公司所製作之抗議
     標語，分別於100 年7 月31日至8 月9 日，與吳泰源等人至
-    被害人方靜慧、何志龍、<font color='red'>方景鈞</font>、廖方微、何同華、何邱雪
+    被害人方靜慧、何志龍、方景鈞、廖方微、何同華、何邱雪
     琴、方熙廷等人恐嚇取財，事後由鄭文斌支付薪水作為代價
     」等語，以自訴人涉犯組織犯罪防制條例第3 條第1 項後段
     參與犯罪組織等罪嫌移送偵辦。上開解交人犯報告書記載：
@@ -230,7 +123,7 @@ function openwin(URL,arguments,width,height)
     ，甚至將報告書送到臺灣新北地方法院檢察署（下簡稱新北
     地檢署），警察尚未偵訊自訴人，何來自訴人坦承一事。由
     此可知，被告等捏造事實，羅織罪名，誣陷自訴人。方靜慧
-    之夫何志龍、父<font color='red'>方景鈞</font>對鄭文斌所提之告訴，分別於100 年
+    之夫何志龍、父方景鈞對鄭文斌所提之告訴，分別於100 年
     8 月29日、100 年11月29日不起訴處分，若自訴人有涉嫌恐
     嚇取財，為何未對自訴人提出告訴，只對鄭文斌提出告訴，
     委實自訴人未曾前往討債。組織犯罪部分，新北地檢署101
@@ -508,7 +401,7 @@ function openwin(URL,arguments,width,height)
     年1 月1 日為前揭報導，已嚴重貶損自訴人之名譽，且被告
     對媒體所述均與事實不符，因自訴人從未參與或指示鄭文斌
     對方靜慧為催債或勸其出面協商等行為，況方靜慧之配偶何
-    志龍、父親<font color='red'>方景鈞</font>分別對鄭文斌提出妨害自由等告訴，業經
+    志龍、父親方景鈞分別對鄭文斌提出妨害自由等告訴，業經
     臺北地檢署以100 年度偵字第17541 號、100 年度偵字第22
     977 號為不起訴處分在案，可證自訴人並無恐嚇之犯行，又
     方靜慧業因詐欺案件，經臺灣高等法院以98年度上訴字第49
@@ -531,7 +424,7 @@ function openwin(URL,arguments,width,height)
     者辛○○傳述不實消息所致，惟觀諸證人丑○○、庚○○、
     乙○○、辛○○及證人即蘋果日報記者子○○於本院審理中
     分別為如下證詞：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人丑○○證稱：「（問：自證六中國時報，是否你採訪的
+  證人丑○○證稱：「（問：自證六中國時報，是否你採訪的
     內容？）是。（問：你的報導消息來源？）時隔太久，我忘
     記了。（問：你有無參加過警方召開的記者會？）有。（問
     ：可否說明記者會你得到什麼訊息，讓你據以報導自證六？
@@ -541,7 +434,7 @@ function openwin(URL,arguments,width,height)
     判斷，本件是否需要做平衡報導？）本件屬於犯罪新聞，犯
     罪嫌疑人都是要移送法辦，我們當然相信新聞稿內容。」等
     語（見本院102 年度自字第9 號卷(四)第92至94頁背面）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人庚○○證稱：「（問：依據你的教育及工作經驗，採訪
+  證人庚○○證稱：「（問：依據你的教育及工作經驗，採訪
     時是否會留下消息來源？）筆記上面有時候會有，有時候不
     會有。（問：什麼時候你會記下採訪來源，何時不會？）報
     導需要的時候。【請求自證七自由時報報導予證人閱覽，審
@@ -567,7 +460,7 @@ function openwin(URL,arguments,width,height)
     但我不記得當天採訪細節。（問：在庭的被告等人中有無提
     供你有關自證七報導的消息人員？）沒有印象。」等語（見
     同上本院卷第88至91頁背面）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人乙○○證以：「【請求提示自證八予證人閱覽，審判長
+  證人乙○○證以：「【請求提示自證八予證人閱覽，審判長
     提示該卷頁予證人閱覽】（問：這篇新聞內容是否你報導的
     ？）是。（問：請你說明這篇新聞內容的消息來源是從哪裡
     來的？）從報導內容來看，應該是警方有召開記者會。（問
@@ -592,7 +485,7 @@ function openwin(URL,arguments,width,height)
     者？）現場看沒有。但是時間已經很久了，我不記得在庭被
     告於記者會當時是否有在場。」等語（見同上本院卷第100
     至102 頁背面）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />證人辛○○證以：「【請求提示自證九中央社新聞網報導予
+  證人辛○○證以：「【請求提示自證九中央社新聞網報導予
     證人閱覽，審判長提示該卷頁予證人閱覽】（問：這3 頁文
     件是否你報導的？）中央社新聞網這篇，如果是從我們中央
     社官網下載的，上有我的署名，應該是我所寫的。其他2 篇
@@ -613,7 +506,7 @@ function openwin(URL,arguments,width,height)
     當時採訪是收到新聞稿，還是我有參加記者會，我應該都沒
     有與在庭被告接觸過。」等詞（見同上本院卷第95至97頁）
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />證人子○○則證稱：「（問：據你的教育背景及工作專業，
+  證人子○○則證稱：「（問：據你的教育背景及工作專業，
     當你報導新聞時，是否會記載報導內容的採訪的消息來源？
     ）不一定，有些會，有些不會。（問：如果判斷有些會，有
     些不會記載消息來源？）有些我覺得會跟他聯絡的我會記，
@@ -721,7 +614,7 @@ function openwin(URL,arguments,width,height)
     、第34至35頁、第87至88頁、本院102 年度自字第9 號卷(三)
     第140 至144 頁、第167 至169 頁）。此外，並有下列之供
     述證據在卷足稽：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />自訴人於警詢及偵查中供稱：伊認識陳林、鄭文斌、吳泰源
+  自訴人於警詢及偵查中供稱：伊認識陳林、鄭文斌、吳泰源
     、徐彪、楊立平、何彥甫等人，鄭文斌是伊前夫，上述之人
     均是鄭文斌的朋友，伊未曾至方靜慧住處討債，鄭文斌打電
     話予伊，是要伊幫忙製作向方靜慧討債之看板，因鄭文斌說
@@ -733,13 +626,13 @@ function openwin(URL,arguments,width,height)
     文斌在變更董監事後，由全安物業人力派遣1 個月，之後林
     文彬食言，伊因此建議鄭文斌找鄭文斌認定的大哥陳林出面
     等語（見本院證物卷第3 至12頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />訴外人陳林於警詢、偵查中供陳：伊曾於62年經老大陳啟禮
+  訴外人陳林於警詢、偵查中供陳：伊曾於62年經老大陳啟禮
     之邀進入竹聯幫，約於10餘年前自首解散，鄭文斌曾為竹聯
     幫月堂堂主，後來交接給徐彪，伊曾聽聞鄭文斌提及大有巴
     士股權糾紛之事，但伊未介入；鄭文斌朋友有積欠當鋪金錢
     ，鄭文斌出面處理後有賺到錢，就拿6 萬元給伊吃紅等語（
     見本院證物卷第14至21頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />訴外人鄭文斌於偵查中供稱：壬○○是伊前妻，方靜慧於94
+  訴外人鄭文斌於偵查中供稱：壬○○是伊前妻，方靜慧於94
     年間至華弘公司詐騙，當初是方靜慧老闆鄧威日打電話給壬
     ○○，說會請財務長方靜慧到華弘公司借2 張支票，方靜慧
     有寫一張切結書，要以支票向銀行辦理信用貸款，於同年11
@@ -752,7 +645,7 @@ function openwin(URL,arguments,width,height)
     程標案由唐榮公司接手承做，經陳林從中斡旋，對方同意補
     償50萬元，陳林有交付30萬元給伊等語（見本院證物卷第22
     至24頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />訴外人沈俊旭於警詢及偵查中則陳稱：伊與吳泰源在鄭文斌
+  訴外人沈俊旭於警詢及偵查中則陳稱：伊與吳泰源在鄭文斌
     、壬○○開設的保全公司上班，擔任臨時聘僱之保全員工，
     伊曾與鄭文斌、吳泰源至方靜慧位於台北市文山區住處樓下
     舉牌討債，伊當時是全安物業公司的臨時聘僱保全員工，監
@@ -761,14 +654,14 @@ function openwin(URL,arguments,width,height)
     可以找一些人過來，並付工錢，伊之後便叫吳泰源去找人過
     來，經扣案的簿子便是去大有巴士工作的天數等詞（見本院
     證物卷第26至32頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />訴外人徐彪於警詢及偵查中供述：伊於電話中與鄭文斌談話
+  訴外人徐彪於警詢及偵查中供述：伊於電話中與鄭文斌談話
     的內容提及「開他兩槍」只是開玩笑，意思是指有人欠鄭文
     斌錢，鄭文斌找伊一起去文山區舉牌討錢，但伊都未到場，
     電話中伊向鄭文斌說乾脆由伊去幫忙按電鈴，把人抓下來處
     理就好等語只是吹牛，從來沒有真的去，因伊日子不好過，
     故鄭文斌問伊要不要去處理這條債務等語（見本院證物卷第
     36至42頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />系爭案件秘密證人A1於100 年12月14日警詢及於102 年2 月
+  系爭案件秘密證人A1於100 年12月14日警詢及於102 年2 月
     6 日偵查中證稱：約於數年前起即有數名男子到社區裡，以
     持續按壓門鈴，或趁住戶開門時直接闖入方靜慧住處等方式
     ，對方靜慧恐嚇，社區民眾因此擔心受影響，便詢問過方靜
@@ -783,7 +676,7 @@ function openwin(URL,arguments,width,height)
     ，阻止方靜慧離去，伊感覺這4 名男子長相均很兇惡，但沒
     有聽到大聲斥嚇的情形，之後方靜慧才說是因為之前公司的
     事被人討債等詞（見本院證物卷第65至69頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />系爭案件告訴人方靜慧於100 年9 月29日、12月11日警詢中
+  系爭案件告訴人方靜慧於100 年9 月29日、12月11日警詢中
     指證稱：鉅康公司老闆鄧威日於94年間要求伊至華弘公司向
     壬○○調借2 張支票，嗣於95年2 、3 月間，鉅康公司因經
     營不善倒閉，鄭文斌於95年6 月間帶了3 名男子到伊任職的
@@ -801,7 +694,7 @@ function openwin(URL,arguments,width,height)
     站在門口或轉角處，壬○○部分，印象中好像有帶一名男子
     過來，伊當時因為嚇怕了，所以不敢停留太久等語（見本院
     證物卷第70至76頁）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />系爭案件告訴人方靜慧之配偶何志龍於100 年9 月29日、12
+  系爭案件告訴人方靜慧之配偶何志龍於100 年9 月29日、12
     月11日、22日警詢中證稱：伊於95年6 月間，接獲方靜慧電
     話得悉有人到方靜慧任職的公司討債，對方共4 人稱方靜慧
     因欠公司200 萬元，其中一位鄭姓男子還要求其他3 名幫派
@@ -982,7 +875,7 @@ function openwin(URL,arguments,width,height)
     涉犯刑法第169 條第1 項之誣告罪嫌部分：
     自訴人及自訴代理人無非係以：被告丁○○等5 人在解送人
     犯報告書、刑事案件移送書虛偽捏造犯罪事實、羅織罪名，
-    誣陷自訴人，且從方靜慧之夫何志龍、父<font color='red'>方景鈞</font>先後對鄭文
+    誣陷自訴人，且從方靜慧之夫何志龍、父方景鈞先後對鄭文
     斌所提妨害自由、詐欺等告訴，均經臺北地檢署於100 年8
     月29日、100 年11月29日為不起訴處分，又均僅對鄭文斌提
     出告訴，未對自訴人提告，足認自訴人未曾前往討債，且系
@@ -1170,86 +1063,12 @@ function openwin(URL,arguments,width,height)
 日內補提理由書狀於本院（均須按他造當事人之人數附繕本）「
 切勿逕送上級法院」。
                                     書記官   彭秀玉
-中    華    民    國   104    年    4     月    30    日</pre>
-<!-- 原因：[騷擾] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWPCD\CRIMINAL\10404\30\PCDM1044U.07O] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%87%aa&selectedCrmno=000023&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%96%b9%e6%99%af%e9%88%9e&sdate=&edate=&page=&searchkw=%e6%96%b9%e6%99%af%e9%88%9e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%96%b9%e6%99%af%e9%88%9e&sdate=&edate=&page=&searchkw=%e6%96%b9%e6%99%af%e9%88%9e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%87%aa%2c23%2c20150430%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%87%aa&jno=23&jdate=1040430&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%87%aa%2c23%2c20150430%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%87%aa&jno=23&jdate=1040430&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%87%aa%2c23%2c20150430%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%87%aa','23','1040430','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="方景鈞">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="方景鈞">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   104    年    4     月    30    日
+[*jrecno*]102,自,23,20150430,2
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]自
+[*jno*]23
+[*jdate*]1040430
+[*jcheck*]2

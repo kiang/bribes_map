@@ -1,125 +1,18 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-100訴1376</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
-											筆 / 現在第14
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001376&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1376%2c20120706%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1376&jdate=1010706&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1376%2c20120706%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1376&jdate=1010706&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1376%2c20120706%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1376','1010706','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,1376</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010706</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇取財等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　 100年度訴字第1376號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1376%2c20120706%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1376&jdate=1010706&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001376&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1376%2c20120706%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1376&jdate=1010706&jcheck=2
+[*裁判字號*]100,訴,1376
+[*裁判日期*]1010706
+[*裁判案由*]恐嚇取財等
+[*裁判全文*]臺灣板橋地方法院刑事判決　　　　　　 100年度訴字第1376號
 公　訴　人　臺灣板橋地方法院檢察署檢察官
-被　　　告　<font color='red'>吳俊德
-　　　　　　</font>葉佳榜
+被　　　告　吳俊德
+　　　　　　葉佳榜
 　　　　　　何國勳
 上列被告因恐嚇取財等案件，經檢察官提起公訴（99年度偵字第
 22130號、第24257號），本院判決如下：
     主  文
-<font color='red'>吳俊德</font>教唆犯恐嚇取財未遂罪，處有期徒刑肆月，如易科罰金，
+吳俊德教唆犯恐嚇取財未遂罪，處有期徒刑肆月，如易科罰金，
 以新臺幣壹仟元折算壹日。
 葉佳榜犯如附表一、二、三所犯罪名及宣告刑欄所示之罪，各處
 如附表一、二、三所犯罪名及宣告刑欄所示之刑。應執行有期徒
@@ -129,8 +22,8 @@ function openwin(URL,arguments,width,height)
 臺幣壹仟元折算壹日。
 葉佳榜及何國勳被訴對伍萬料所有財物毀損部分均公訴不受理。
     事  實
-壹、<font color='red'>吳俊德</font>前因替何國勳（原名何崇銘）代墊賭博款項，何國勳
-    因而積欠<font color='red'>吳俊德</font>新臺幣（下同）72萬元之債務，然<font color='red'>吳俊德</font>歷
+壹、吳俊德前因替何國勳（原名何崇銘）代墊賭博款項，何國勳
+    因而積欠吳俊德新臺幣（下同）72萬元之債務，然吳俊德歷
     經多年自行追討無著，依其智識程度及社會經驗，足以預見
     如委託討債集團成員向何國勳催討債務，該討債集團成員將
     以非法恐嚇、毀損等方式對債務人或債務人家屬施壓，進而
@@ -147,13 +40,13 @@ function openwin(URL,arguments,width,height)
     由本院審結）共同基於以恐嚇、毀損方式迫使何國勳自行清
     償或逼迫何國勳之家屬代為償債之犯意聯絡，分別為如附表
     一所示之犯行。嗣何駿杰及何陳滿因不堪遭葉佳榜等人以出
-    言恫嚇須代為清償何國勳積欠<font color='red'>吳俊德</font>之債務，以及何駿杰位
+    言恫嚇須代為清償何國勳積欠吳俊德之債務，以及何駿杰位
     於（改制前）臺北縣永和市○○路○ 段20號1 樓已出租予亞
     藝國際股份有限公司（下稱亞藝影音）之店面，屢遭葉佳榜
     等人潑灑紅漆，致引發「亞藝影音」與何駿杰間之租賃糾紛
     ，不斷央求何國勳自行出面處理，何國勳遂於98年12月間某
-    日與<font color='red'>吳俊德</font>達成協議，雙方以55萬元現金處理上開債務。<font color='red'>吳
-    俊德</font>於取得上開55萬元之款項後，依約將其中26萬元交付予
+    日與吳俊德達成協議，雙方以55萬元現金處理上開債務。吳
+    俊德於取得上開55萬元之款項後，依約將其中26萬元交付予
     葉佳榜等人作為報酬。
 貳、何國勳因深刻體會葉佳榜等人以恫嚇、潑漆等非法方式追討
     債務成效卓然，為追討伍萬料之前妻所積欠之99萬5 千元債
@@ -183,14 +76,14 @@ function openwin(URL,arguments,width,height)
     電話SIM 卡1 張）；於同日15時40分許，葉佳榜在桃園縣楊
     梅鎮田寮子4 號為警搜索，並扣得行動電話1 支（含000000
     0000號行動電話SIM 卡1 張）：於同日18時許，警方通知何
-    國勳到案說明；於99年9 月1 日警方再通知<font color='red'>吳俊德</font>到案說明
+    國勳到案說明；於99年9 月1 日警方再通知吳俊德到案說明
     ，始循線查悉上情。
 伍、案經何駿杰及蔡仁維訴由（改制前）臺北縣政府警察局永和
     分局移送臺灣板橋地方法院檢察署檢察官偵查起訴。
     理  由
 甲、有罪部分：
 壹、證據能力方面：
-一、被告<font color='red'>吳俊德</font>、葉佳榜、何國勳關於本案之供述，並無出於強
+一、被告吳俊德、葉佳榜、何國勳關於本案之供述，並無出於強
     暴、脅迫、利誘、詐欺、疲勞訊問、違法羈押或其他不正方
     法之情形，亦未違反法定障礙事由經過期間不得訊問或告知
     義務之規定，依刑事訴訟法第156 條第1 項、第158 條之2
@@ -205,8 +98,8 @@ function openwin(URL,arguments,width,height)
     知有第159 條第1 項不得為證據之情形，而未於言詞辯論終
     結前聲明異議者，視為有前項之同意，刑事訴訟法第159 條
     第1 項、第159 條之1 第2 項、第159 條之5 分別定有明文
-    。查被告<font color='red'>吳俊德</font>、葉佳榜、何國勳於本院準備程序及審理期
-    日，均未對本件被告<font color='red'>吳俊德</font>、葉佳榜、何國勳以外之人於審
+    。查被告吳俊德、葉佳榜、何國勳於本院準備程序及審理期
+    日，均未對本件被告吳俊德、葉佳榜、何國勳以外之人於審
     判外證述之證據能力加以爭執（參本院卷第56至59頁、第19
     4 至196 頁），本院審酌上開證據作成之情況，核無違法取
     證或具有顯不可信之情況，以之作為認定本件事實之事證，
@@ -264,17 +157,17 @@ function openwin(URL,arguments,width,height)
     料恐嚇部分，當係誤載，應予更正。綜上，被告葉佳榜上開
     不利於己之自白，與卷附事證彰顯之事實大致相合，應堪採
     信屬實，其此部分犯行均堪認定。
-  (二)而訊據被告葉佳榜固不否認受被告<font color='red'>吳俊德</font>之委託，向何國勳
-    催討積欠被告<font color='red'>吳俊德</font>之債務72萬元，且係由被告<font color='red'>吳俊德</font>提供
+  (二)而訊據被告葉佳榜固不否認受被告吳俊德之委託，向何國勳
+    催討積欠被告吳俊德之債務72萬元，且係由被告吳俊德提供
     被害人何陳滿位於（改制前）臺北縣永和市○○路○ 段2 號
     5 樓住處，告訴人何駿杰出租予「亞藝影音」之店面，供其
-    等催討債務，以及其與鄧睿彥等人接受被告<font color='red'>吳俊德</font>委託向何
+    等催討債務，以及其與鄧睿彥等人接受被告吳俊德委託向何
     國勳催討債務，之後得到26萬元，其與鄧睿彥各得13萬元，
     其與鄧睿彥等人接受被告何國勳委託向被害人伍萬料催討他
     人債務，其與鄧睿彥各得4 萬元，告訴人蔡仁維部分，其分
     到約20萬元至30萬元之間，另關於附表一編號一部份（即起
     訴書犯罪事實二(一)部分），其曾於98年11月5 日16時許，與
-    被告<font color='red'>吳俊德</font>、鄧睿彥前往何陳滿住處途中，在（改制前）臺
+    被告吳俊德、鄧睿彥前往何陳滿住處途中，在（改制前）臺
     北縣永和市○○路○ 段26號1 樓之「易遊網」店前遭遇告訴
     人何駿杰夫婦等情；關於附表一編號二部分（即起訴書犯罪
     事實二(二)部分），其曾於99年11月9 日與鄧睿彥前往被害人
@@ -304,91 +197,91 @@ function openwin(URL,arguments,width,height)
   1.關於附表一編號一部份：
     證人即告訴人何駿杰於98年12月1 日警詢中之證稱：其於98
     年11月5 日16時許在（改制前）永和市○○路○ 段26號前，
-    遇見鄰居<font color='red'>吳俊德</font>，當時他跟著二名年輕人共三人，一看到其
-    與太太就把其攔住，<font color='red'>吳俊德</font>就對其說：「你大哥（即何國勳
+    遇見鄰居吳俊德，當時他跟著二名年輕人共三人，一看到其
+    與太太就把其攔住，吳俊德就對其說：「你大哥（即何國勳
     ，下同）跟我有債務關係，如果你不出面解決，你的店面在
     租人，如果不處理。」話尚未說完之際，當中就一個年輕人
     接著說：「現在債務已經委託我們處理」，其當時就解釋那
     是其大哥的事，與其等無關，如果他與其大哥有債務糾紛，
-    請他用法律途徑解決，然後隨即離開，其要對<font color='red'>吳俊德</font>提出恐
+    請他用法律途徑解決，然後隨即離開，其要對吳俊德提出恐
     嚇及毀損告訴，因為其又不是債權人（應係債務人之誤），
     他一直針對其討債，讓其感覺很無奈與無助，希望他們債務
     自行處理，不要牽連無辜等語（參99年度他字第824 號卷第
     7 至9 頁）；於98年12月29日警詢中之證稱：因其胞兄何崇
-    銘（即何國勳，下同）積欠<font color='red'>吳俊德</font>簽賭六合彩之賭債72萬元
-    （實係<font color='red'>吳俊德</font>替何國勳代墊賭債而積欠之債務），但因無力
-    償還所以有簽本票予<font color='red'>吳俊德</font>，於98年11月5 日在（改制前）
-    永和市○○路○ 段前，當時<font color='red'>吳俊德</font>有帶二名不知名男子欲至
+    銘（即何國勳，下同）積欠吳俊德簽賭六合彩之賭債72萬元
+    （實係吳俊德替何國勳代墊賭債而積欠之債務），但因無力
+    償還所以有簽本票予吳俊德，於98年11月5 日在（改制前）
+    永和市○○路○ 段前，當時吳俊德有帶二名不知名男子欲至
     其母親何陳滿住所催討其哥哥所積欠之債務，見到其及其太
     太黃心榆在樓下遂向其等表明，其哥哥何崇銘有積欠他錢要
-    其出面處理，其當時有請他用法律途徑處理，但是<font color='red'>吳俊德</font>旁
+    其出面處理，其當時有請他用法律途徑處理，但是吳俊德旁
     姓葉的男子恐嚇其說：「現在這條債務已經交給他們公司處
     理，如果其不出面處理就要砸毀其租給他人的店」等語（參
     99年度他字第824 號卷第11頁）；於99年6 月11日警詢中之
     證稱：係葉佳榜向我們催討債務，催討債務72萬元，後來由
     其胞兄何崇銘及其二女兒何姿瑩於98年12月中旬交付葉佳榜
     55萬元結清債務等語（參99年度他字第824 號卷第4 頁）；
-    於99年6 月11日偵查中證稱：98年11月5 日16時，<font color='red'>吳俊德</font>、
+    於99年6 月11日偵查中證稱：98年11月5 日16時，吳俊德、
     葉佳榜及不認識之小弟兩位，在（改制前）臺北縣永和市○
-    ○路○ 段易遊網店面門口碰到其，<font color='red'>吳俊德</font>攔下其，<font color='red'>吳俊德</font>跟
+    ○路○ 段易遊網店面門口碰到其，吳俊德攔下其，吳俊德跟
     其說其哥哥的債務其要不要處理，其說那是其哥哥的事，與
     其無關，他應該去找其哥哥，其跟其太太準備要離開，葉佳
     榜的小弟恐嚇其說如果其不出面處理，下次就將其租給人家
-    的店面砸店，其哥哥欠<font color='red'>吳俊德</font>72萬元，是簽賭六合彩賭債，
-    其與<font color='red'>吳俊德</font>、葉佳榜等人無債權債務糾紛，<font color='red'>吳俊德</font>是其等之
+    的店面砸店，其哥哥欠吳俊德72萬元，是簽賭六合彩賭債，
+    其與吳俊德、葉佳榜等人無債權債務糾紛，吳俊德是其等之
     鄰居，因為對其哥哥為民事本票裁定，但其哥哥已經跑路，
-    沒有財產，所以<font color='red'>吳俊德</font>衝著其有財產，對其追討，葉佳榜的
-    小弟向其恐嚇要砸店其會害怕，<font color='red'>吳俊德</font>說債務已經委託給葉
+    沒有財產，所以吳俊德衝著其有財產，對其追討，葉佳榜的
+    小弟向其恐嚇要砸店其會害怕，吳俊德說債務已經委託給葉
     佳榜處理，其租給「亞藝影音」店面有遭人潑漆，是98年11
     月18日23時許及同年12月1 日凌晨2 、3 時許，葉佳榜打電
     話給其說，只是潑了兩次漆，就討到債務，沒有見過這麼軟
     的債務人等語（參99年度他字第824 號卷第28至29頁）；99
     年8 月6 日偵查中證稱：98年11月5 日在永和路二段易遊網
-    店門口遇到其，<font color='red'>吳俊德</font>將其攔下，鄧睿彥說如果其不處理其
+    店門口遇到其，吳俊德將其攔下，鄧睿彥說如果其不處理其
     哥哥債務，他知道其有店面出租給人家，他會去砸店等語（
     參99年度他字第824 號卷第245 頁）；於101 年4 月10日本
-    院審理中證稱：其在易遊網遇到<font color='red'>吳俊德</font>和另外二個人，我不
-    知道他們的名字，<font color='red'>吳俊德</font>一直跟其說其哥哥要還他債務，對
-    於另外二個人沒有很熟悉，（<font color='red'>吳俊德</font>身邊的二位朋友）叫其
+    院審理中證稱：其在易遊網遇到吳俊德和另外二個人，我不
+    知道他們的名字，吳俊德一直跟其說其哥哥要還他債務，對
+    於另外二個人沒有很熟悉，（吳俊德身邊的二位朋友）叫其
     哥哥要出面解決債務的問題，身旁的二個人就說，如果其哥
-    哥不出面的話，就會砸店，（問：<font color='red'>吳俊德</font>身邊的二位朋友在
-    說如果你哥哥不出面的話他們就要砸店，當時<font color='red'>吳俊德</font>有無聽
-    到？）有，<font color='red'>吳俊德</font>聽到之後沒有什麼表示等語（參本院卷第
-    17 5頁反面至第176 頁）。考量證人何駿杰本與被告<font color='red'>吳俊德
-    </font>、葉佳榜等人無恩怨仇隙或債權債務糾紛，衡情並無設詞誣
-    陷其等於罪之動機或必要，且其證述內容與被告葉佳榜、<font color='red'>吳
-    俊德</font>自承在案發時地與告訴人何駿杰碰面，雙方並有談論何
+    哥不出面的話，就會砸店，（問：吳俊德身邊的二位朋友在
+    說如果你哥哥不出面的話他們就要砸店，當時吳俊德有無聽
+    到？）有，吳俊德聽到之後沒有什麼表示等語（參本院卷第
+    17 5頁反面至第176 頁）。考量證人何駿杰本與被告吳俊德
+    、葉佳榜等人無恩怨仇隙或債權債務糾紛，衡情並無設詞誣
+    陷其等於罪之動機或必要，且其證述內容與被告葉佳榜、吳
+    俊德自承在案發時地與告訴人何駿杰碰面，雙方並有談論何
     國勳積欠之債務等情一致，證人何駿杰所證之詞甚為可信。
-    而綜觀證人何駿杰之證述內容，雖見對於案發時地被告<font color='red'>吳俊
-    德</font>夥同到場之人數，包含被告<font color='red'>吳俊德</font>、葉佳榜及鄧睿彥在內
+    而綜觀證人何駿杰之證述內容，雖見對於案發時地被告吳俊
+    德夥同到場之人數，包含被告吳俊德、葉佳榜及鄧睿彥在內
     共三人或四人，係被告葉佳榜或鄧睿彥出言恫嚇證人何駿杰
     代為處理何國勳之債務等枝節事項，前後證述內容稍有差異
-    ，然衡酌證人何駿杰於案發之初警詢中，即已表明對被告<font color='red'>吳
-    俊德</font>等人提出恐嚇等告訴，並指明被告<font color='red'>吳俊德</font>一直針對其催
+    ，然衡酌證人何駿杰於案發之初警詢中，即已表明對被告吳
+    俊德等人提出恐嚇等告訴，並指明被告吳俊德一直針對其催
     討何國勳積欠之債務，讓其感到無奈與無助，希望不要牽連
-    無辜等語，在在顯示被告葉佳榜等人受被告<font color='red'>吳俊德</font>委託催討
+    無辜等語，在在顯示被告葉佳榜等人受被告吳俊德委託催討
     何國勳積欠之債務，自始並未侷限僅向何國勳一人追討，是
-    證人何駿杰於前述警詢、偵查中一再指證被告<font color='red'>吳俊德</font>、葉佳
+    證人何駿杰於前述警詢、偵查中一再指證被告吳俊德、葉佳
     榜等人向其恐嚇取財之情，更足採信，且對照證人何駿杰出
     租予「亞藝影音」之店面，於98年11月18日及同年12月1 日
-    確遭被告葉佳榜等人潑灑紅漆毀損物品，足以彰顯被告<font color='red'>吳俊
-    德</font>、葉佳榜等人並非單純要求證人何駿杰叫何國勳出面，而
+    確遭被告葉佳榜等人潑灑紅漆毀損物品，足以彰顯被告吳俊
+    德、葉佳榜等人並非單純要求證人何駿杰叫何國勳出面，而
     係直接向與債務無關之證人何駿杰出租他人之店面施壓，意
     欲迫使證人何駿杰代為處理何國勳之債務，無怪乎證人何駿
-    杰會清楚明白地感受被告<font color='red'>吳俊德</font>、葉佳榜等人係向其以恐嚇
+    杰會清楚明白地感受被告吳俊德、葉佳榜等人係向其以恐嚇
     、毀損等手段追討何國勳之債務，由此堪認證人何駿杰於警
-    詢及偵查中指稱被告<font color='red'>吳俊德</font>、葉佳榜等人係對其恐嚇取財，
+    詢及偵查中指稱被告吳俊德、葉佳榜等人係對其恐嚇取財，
     而其未因而代何國勳清償債務，致使被告葉佳榜等人此部分
     恐嚇取財犯行未能得逞等情，應屬實情。而自被告葉佳榜等
     人向非債務人之告訴人何駿杰恫嚇應代為償還何國勳積欠之
     債務，足見其等所為具備不法所有之意圖，是被告葉佳榜等
     人此部分恐嚇取財未遂犯行，堪予認定。至於證人何駿杰於
-    本院審理中之證述內容，雖僅指證當時被告<font color='red'>吳俊德</font>身旁之二
+    本院審理中之證述內容，雖僅指證當時被告吳俊德身旁之二
     位友人提及如何國勳不出面處理債務將要砸店等語，似僅描
     述對方要求何國勳出面處理債務，而未具體指稱要證人何駿
     杰代何國勳清償債務，然斟酌證人何駿杰於本院證述之時點
     ，距離案發時日將近2 年6 月之久，證人何駿杰能否清楚記
-    憶當時被告<font color='red'>吳俊德</font>、葉佳榜等人談話之內容，客觀上非無疑
+    憶當時被告吳俊德、葉佳榜等人談話之內容，客觀上非無疑
     義，是其前述在本院審理時之證述，自無較距離案發時間甚
     為接近之上述警詢、偵查中之證述內容可信，故證人何駿杰
     於本院審理中證述之內容，尚難執為對被告葉佳榜有利之認
@@ -423,9 +316,9 @@ function openwin(URL,arguments,width,height)
     道其小兒子的店面出租給人家，他們就要去砸店，其拜託他
     們不要這麼做，他們說其等不處理，他們就會這樣做等語（
     參99年度他字第824 號卷第244 至246 頁、第250 頁）。考
-    量證人何陳滿與被告<font color='red'>吳俊德</font>、葉佳榜等人於案發時無恩怨仇
+    量證人何陳滿與被告吳俊德、葉佳榜等人於案發時無恩怨仇
     隙或債權債務關係，衡情證人何陳滿應無刻意虛構事實陷被
-    告<font color='red'>吳俊德</font>、葉佳榜等人於罪之動機或必要，所證之詞可信度
+    告吳俊德、葉佳榜等人於罪之動機或必要，所證之詞可信度
     甚高。
   (2)對照證人何駿杰於98年12月1 日警詢中證稱：98年11月9 日
     晚上有一個自稱姓葉的男子（該男子就是在11月5 日當天遇
@@ -434,9 +327,9 @@ function openwin(URL,arguments,width,height)
     直接砸店了，如果叫你自家兄弟出來處理可以有折扣」，然
     後就留下手機離開，當時其媽媽馬上打電話給其，讓其等心
     中都感到很害怕、畏懼，因為其不知道他們會對其等採取什
-    麼不利的手段，<font color='red'>吳俊德</font>跟其媽媽說其大哥在8 年前有跟他簽
-    六合彩賭債，當時欠了他賭債，並簽了本票72萬元給<font color='red'>吳俊德
-    </font>，其與<font color='red'>吳俊德</font>沒有嫌隙糾紛等語（參99年度他字第824 號卷
+    麼不利的手段，吳俊德跟其媽媽說其大哥在8 年前有跟他簽
+    六合彩賭債，當時欠了他賭債，並簽了本票72萬元給吳俊德
+    ，其與吳俊德沒有嫌隙糾紛等語（參99年度他字第824 號卷
     第8 頁）；於98年12月29日警詢中證稱：98年11月9 日19時
     許，姓葉的男子有帶一名男子至其母親住處恐嚇其母親說：
     如果其母親不替其哥哥處理債務，換年輕的來就沒那麼好講
@@ -453,7 +346,7 @@ function openwin(URL,arguments,width,height)
     。
   (3)綜合證人何陳滿及何駿杰上開證述內容可知，被告葉佳榜等
     人於98年11月9 日前往證人何陳滿住處，曾對證人何陳滿威
-    嚇其身為何國勳之母應出面處理何國勳積欠被告<font color='red'>吳俊德</font>之債
+    嚇其身為何國勳之母應出面處理何國勳積欠被告吳俊德之債
     務，但因證人何陳滿自身沒錢可供代為清償，被告葉佳榜等
     人再以應由證人何駿杰代為處理何國勳之債務，否則將向證
     人何國勳出租他人之店面砸店加以威嚇，之後留下00000000
@@ -672,8 +565,8 @@ function openwin(URL,arguments,width,height)
     有悖，仍無足採。
   6.綜合前述，被告葉佳榜與李少鳴、鄧睿彥共同實行如附表一
     至三所示之犯行，事證明確，均堪認定，應予論罪科刑。
-二、被告<font color='red'>吳俊德</font>部分：
-    訊據被告<font color='red'>吳俊德</font>固不否認其與何國勳是鄰居，何國勳積欠其
+二、被告吳俊德部分：
+    訊據被告吳俊德固不否認其與何國勳是鄰居，何國勳積欠其
     72萬元之債務已有8 、9 年之久，在此期間其碰到告訴人何
     駿杰及被害人何陳滿都會說何國勳欠債未還之事，其友人認
     識鄧睿彥，其有委託鄧睿彥等人向何國勳催討債務，之後何
@@ -684,7 +577,7 @@ function openwin(URL,arguments,width,height)
     國勳有無分到財產，其認為何國勳沒有財產不合理，其委託
     鄧睿彥等人並不知他們會以潑灑紅漆，其有跟鄧睿彥等人說
     要以和平的方式處理云云。經查：
-  (一)對於鄧睿彥受被告<font color='red'>吳俊德</font>委託向何國勳追討72萬元之債務後
+  (一)對於鄧睿彥受被告吳俊德委託向何國勳追討72萬元之債務後
     ，夥同討債集團成員即被告葉佳榜、李少鳴共同基於以恐嚇
     、毀損方式迫使何國勳償債或逼迫何國勳之家屬代為償債之
     犯意聯絡，而為如附表一所示犯行，業經本院審認如上，堪
@@ -700,22 +593,22 @@ function openwin(URL,arguments,width,height)
     時出現報端記載，更為平面及電子媒體廣為報導，實為參與
     社會共同生活之成年人所熟知之社會現象，並為法院審理此
     類恐嚇或恐嚇取財等刑事案件已知之事項，無待深論。查被
-    告<font color='red'>吳俊德</font>案發時為年滿48歲之成年人，具備專科畢業之學歷
+    告吳俊德案發時為年滿48歲之成年人，具備專科畢業之學歷
     （參99年度偵字第24257 號卷第2 頁警詢筆錄受詢問人欄所
     載），自稱經營機車行，足以彰顯其係具備一般智識程度及
     社會經驗之成年人，對於前述債權人委託討債集團成員向債
     務人追討債務，討債集團成員常以前述非法方式迫使債務人
     或其家屬出面償債之一般社會生活經驗，自難諉為不知。
-  (三)被告<font color='red'>吳俊德</font>一再供稱其與何國勳是鄰居，何國勳積欠之債務
+  (三)被告吳俊德一再供稱其與何國勳是鄰居，何國勳積欠之債務
     經其多年催討均未獲清償，期間內更曾向告訴人何駿杰、被
-    害人何陳滿提及何國勳欠債不還之事等情，顯見被告<font color='red'>吳俊德
-    </font>對於此筆債務遲遲未獲清償甚為在意，且何國勳積欠之債務
-    數額非微，客觀上被告<font color='red'>吳俊德</font>自難全然漠視或平白自認損失
-    ，此時被告<font color='red'>吳俊德</font>如透過委託律師或登記有案之債務清理公
+    害人何陳滿提及何國勳欠債不還之事等情，顯見被告吳俊德
+    對於此筆債務遲遲未獲清償甚為在意，且何國勳積欠之債務
+    數額非微，客觀上被告吳俊德自難全然漠視或平白自認損失
+    ，此時被告吳俊德如透過委託律師或登記有案之債務清理公
     司，以聲請調解、核發支付命令或逕向法院對何國勳提起民
     事訴訟等合法手段，向何國勳追討債務，並無任何違反常情
-    之處，更是維護自身權益之積極、有效途徑。然被告<font color='red'>吳俊德
-    </font>面臨欠款無從獲償之情況下，不思以前揭合法方式向何國勳
+    之處，更是維護自身權益之積極、有效途徑。然被告吳俊德
+    面臨欠款無從獲償之情況下，不思以前揭合法方式向何國勳
     追討債務，逕自委託不具法律專業又非任職合法債務清理公
     司之鄧睿彥及被告葉佳榜等人，告以何國勳早未居住之何陳
     滿住處，以及告訴人何駿杰出租予「亞藝影音」之店面，放
@@ -723,59 +616,59 @@ function openwin(URL,arguments,width,height)
     為清償債務，以及對「亞藝影音」店面潑灑紅漆等舉動，並
     在逼使何國勳出面清償債務之前，未有一言阻止或約束被告
     葉佳榜等人之上開不法行為，僅靜待何國勳或其家屬忍無可
-    忍之後，由何國勳出面與被告<font color='red'>吳俊德</font>洽談債務清償事宜，被
-    告<font color='red'>吳俊德</font>於被告葉佳榜等人追討債務過程過程中，所表現於
+    忍之後，由何國勳出面與被告吳俊德洽談債務清償事宜，被
+    告吳俊德於被告葉佳榜等人追討債務過程過程中，所表現於
     外之種種作為，客觀上足認其委託鄧睿彥及被告葉佳榜等人
     ，即係透過被告葉佳榜等人採行之不法手段而達討債之目的
-    ：其次，苟被告葉佳榜等人如附表一所示犯行違背被告<font color='red'>吳俊
-    德</font>委託討債之本意，何以被告<font color='red'>吳俊德</font>全無阻止或約束被告葉
+    ：其次，苟被告葉佳榜等人如附表一所示犯行違背被告吳俊
+    德委託討債之本意，何以被告吳俊德全無阻止或約束被告葉
     佳榜等人之不法舉動，甚至基於人情義理或債務追討委託人
     之角色，應當出面向既非債務人又為無辜遭受牽連之告訴人
-    何駿杰、被害人何陳滿致歉或賠償損失，惟被告<font color='red'>吳俊德</font>全然
+    何駿杰、被害人何陳滿致歉或賠償損失，惟被告吳俊德全然
     不作此想，反而默不吭聲而坐收何國勳出面協調債務之利益
     ，更見被告葉佳榜等人以恐嚇、毀損之手段，向告訴人何駿
-    杰、被害人何陳滿追討何國勳之債務，難謂違背被告<font color='red'>吳俊德
-    </font>委託討債之目的；再者，如被告<font color='red'>吳俊德</font>係單純委託被告葉佳
+    杰、被害人何陳滿追討何國勳之債務，難謂違背被告吳俊德
+    委託討債之目的；再者，如被告吳俊德係單純委託被告葉佳
     榜等人找出何國勳以協調清償債務，就此等事務之難易程度
-    而言，被告<font color='red'>吳俊德</font>當無自願平白損失約一半債權數額，而將
+    而言，被告吳俊德當無自願平白損失約一半債權數額，而將
     剩餘部分債權數額充作被告葉佳榜等人討回債務之報酬之理
     ？另就被告葉佳榜等人之立場而論，如非其等討債之手法，
-    涉及對何國勳及其家人恐嚇、毀損等刑事犯罪，皆係被告<font color='red'>吳
-    俊德</font>不願或不敢親自從事之犯行，其等又有何立場與被告<font color='red'>吳
-    俊德</font>約定或索取如此高額比例之報酬？綜上，被告<font color='red'>吳俊德</font>辯
+    涉及對何國勳及其家人恐嚇、毀損等刑事犯罪，皆係被告吳
+    俊德不願或不敢親自從事之犯行，其等又有何立場與被告吳
+    俊德約定或索取如此高額比例之報酬？綜上，被告吳俊德辯
     稱不知被告葉佳榜等人會以潑漆等手段追討債務云云，難以
     通過自身智識程度、社會歷練及一般社會常情之檢視，概屬
     脫免刑責之語，洵無足採。
-  (四)另被告<font color='red'>吳俊德</font>辯稱：其有跟被告葉佳榜等人說要以平和、合
+  (四)另被告吳俊德辯稱：其有跟被告葉佳榜等人說要以平和、合
     法之方式向何國勳追討債務云云。核與證人葉佳榜於101 年
-    4 月10日本院審理中證稱：（問：<font color='red'>吳俊德</font>要求你們如何追討
+    4 月10日本院審理中證稱：（問：吳俊德要求你們如何追討
     債務？）他就說把債務處理回來，只有說這樣，用什麼方法
-    他不管，他只是委託其等處理債務，（問：<font color='red'>吳俊德</font>有說一定
+    他不管，他只是委託其等處理債務，（問：吳俊德有說一定
     要用合法的方式嗎？）沒有，他就委託其等處理等語（參本
     院卷第179 頁反面至第180 頁），考量被告葉佳榜並未坦承
     如附表一編號一、二所示之犯行，且對於所為犯行仍多所飾
-    卸，而其與被告<font color='red'>吳俊德</font>對於向何國勳追討債務一事，彼此為
-    委託人及受託人之關係，於被告<font color='red'>吳俊德</font>成功受償債務後，其
+    卸，而其與被告吳俊德對於向何國勳追討債務一事，彼此為
+    委託人及受託人之關係，於被告吳俊德成功受償債務後，其
     已獲取約定之報酬等情，客觀上證人葉佳榜應無迴護或陷害
-    被告<font color='red'>吳俊德</font>之動機或必要，故被告<font color='red'>吳俊德</font>所辯：有告知被告
+    被告吳俊德之動機或必要，故被告吳俊德所辯：有告知被告
     葉佳榜等人應以平和手段討債云云，已難憑採；又如身為委
-    託人之被告<font color='red'>吳俊德</font>真有要求被告葉佳榜等人以平和方式討債
+    託人之被告吳俊德真有要求被告葉佳榜等人以平和方式討債
     ，此等要求概與被告葉佳榜等人向來討債之手法有異，其等
-    在被告<font color='red'>吳俊德</font>要求以平和方式討債之限制下，可否勝任或願
+    在被告吳俊德要求以平和方式討債之限制下，可否勝任或願
     否受託此件討債之任務，又可否約定取得前述高額比例之報
-    酬，均非無疑；再被告<font color='red'>吳俊德</font>真有要求被告葉佳榜等人須以
+    酬，均非無疑；再被告吳俊德真有要求被告葉佳榜等人須以
     合法方式討債，身為受託一方之被告葉佳榜等人，何須擅自
     違背雙方約定之事項，而自陷違約或招惹其他糾紛之風險；
-    如被告<font color='red'>吳俊德</font>真有要求被告葉佳榜等人須以合法方式討債，
-    可見<font color='red'>吳俊德</font>於債務久未受償之情形下，對於遵守法紀一事仍
+    如被告吳俊德真有要求被告葉佳榜等人須以合法方式討債，
+    可見吳俊德於債務久未受償之情形下，對於遵守法紀一事仍
     至為重視，則何以被告葉佳榜等人實行如附表一所示之犯行
     ，致無辜之告訴人何駿杰、被害人何陳滿、「亞藝影音」受
-    害時，被告<font color='red'>吳俊德</font>均選擇沈默以對，未有阻止或約束被告葉
+    害時，被告吳俊德均選擇沈默以對，未有阻止或約束被告葉
     佳榜等人之違法行徑，直至何國勳出面處理債務？是由以上
     各情觀之，證人葉佳榜前開證詞，與本件案發之事實經過及
-    事理均無背離，應堪採信屬實。被告<font color='red'>吳俊德</font>上開辯解，亦係
+    事理均無背離，應堪採信屬實。被告吳俊德上開辯解，亦係
     脫免刑責之詞，猶無足採。
-  (五)綜上，被告<font color='red'>吳俊德</font>委託被告葉佳榜等人向何國勳追討債務一
+  (五)綜上，被告吳俊德委託被告葉佳榜等人向何國勳追討債務一
     節，雖未明白指示被告葉佳榜等人須以恐嚇、毀損之方式，
     迫使何國勳或其家屬出面償債，然依其智識程度、社會歷練
     ，以及其經多年催討債務無著，捨棄尋求正當人士或管道之
@@ -784,10 +677,10 @@ function openwin(URL,arguments,width,height)
     人進行討債，並於被告葉佳榜等人實行如附表一所示犯行，
     造成告訴人何駿杰、被害人何陳滿、「亞藝影音」受有侵害
     時，絲毫無動於衷，並坐享何國勳出面償債之成果等情觀察
-    ，在在顯示被告<font color='red'>吳俊德</font>對於被告葉佳榜等人將以恐嚇、毀損
+    ，在在顯示被告吳俊德對於被告葉佳榜等人將以恐嚇、毀損
     之不法手段，向何國勳或其家屬討債有所預見，且被告葉佳
     榜等人如附表一所示之犯行，亦無違背其意思之處，彰彰明
-    甚，故被告<font color='red'>吳俊德</font>對於教唆被告葉佳榜等人實行如附表一所
+    甚，故被告吳俊德對於教唆被告葉佳榜等人實行如附表一所
     示之犯行，具備教唆行為之故意及教唆特定犯罪之不確定故
     意，至為灼然，堪予認定。
 三、被告何國勳部分：
@@ -849,15 +742,15 @@ function openwin(URL,arguments,width,height)
     於一個意思所發動之教唆行為，縱其教唆結果觸犯數項罪名
     ，應成立教唆之想像上競合罪，而依刑法第55條從一重處斷
     （最高法院32年上字第111 號、28年非字第6 號判例意旨參
-    照）。查被告<font color='red'>吳俊德</font>及何國勳，分別教唆本無以恐嚇等方式
+    照）。查被告吳俊德及何國勳，分別教唆本無以恐嚇等方式
     向他人討債之被告葉佳榜等人實行犯罪，其二人所為自屬教
-    唆他人犯罪之教唆犯。又被告<font color='red'>吳俊德</font>教唆被告葉佳榜等人以
+    唆他人犯罪之教唆犯。又被告吳俊德教唆被告葉佳榜等人以
     恐嚇等方式，向何國勳、被害人何陳滿、告訴人何駿杰催討
-    何國勳積欠被告<font color='red'>吳俊德</font>之債務，以及被告何國勳教唆被告葉
+    何國勳積欠被告吳俊德之債務，以及被告何國勳教唆被告葉
     佳榜等人向被害人伍萬料催討被害人伍萬料前妻積欠被告何
     國勳之債務，各係以單一教唆行為，分別教唆被告葉佳榜等
     人以恐嚇、毀損等手法催討債務，被告葉佳榜等人犯如附表
-    一、二所示之罪，依前開說明，被告<font color='red'>吳俊德</font>、何國勳就教唆
+    一、二所示之罪，依前開說明，被告吳俊德、何國勳就教唆
     葉佳榜等人以恐嚇等方式為催討債務行為，仍應成立教唆之
     想像競合罪，分別從一重處斷。
 三、核被告葉佳榜所為，就附表一編號一、二、附表二編號一及
@@ -881,19 +774,19 @@ function openwin(URL,arguments,width,height)
     ，犯意各別，行為互殊，應予分論併罰。且被告葉佳榜所犯
     上開犯行，概與鄧睿彥、李少鳴有犯意聯絡及行為分擔，均
     應以所犯之罪之共同正犯論處。
-四、核被告<font color='red'>吳俊德</font>教唆被告葉佳榜等人向何國勳、被害人何陳滿
+四、核被告吳俊德教唆被告葉佳榜等人向何國勳、被害人何陳滿
     及告訴人何駿杰以恐嚇、毀損方式索取財物，以及被告何國
     勳教唆被告葉佳榜等人向被害人伍萬料以恐嚇方式索取財物
     ，雖使被告葉佳榜等人分別為如附表一、二所示之犯行，然
-    依前述說明及依刑法第29條第2 項之規定，被告<font color='red'>吳俊德</font>應從
+    依前述說明及依刑法第29條第2 項之規定，被告吳俊德應從
     一重成立教唆恐嚇取財未遂罪（最終仍由債務人何國勳自行
     清償債務），被告何國勳應從一重成立教唆恐嚇取財罪（最
     終係由非債務人即被害人伍萬料代為清償債務）。起訴書證
-    據並所犯法條欄二認被告<font color='red'>吳俊德</font>所犯係刑法第29條第1 項、
+    據並所犯法條欄二認被告吳俊德所犯係刑法第29條第1 項、
     第346 條第1 項之教唆恐嚇取財既遂罪，與本院認定之結果
     不符，亦無足採。
 五、審酌被告葉佳榜與鄧睿彥、李少鳴共組不法討債集團，分別
-    接受被告<font color='red'>吳俊德</font>、何國勳委託，而以恐嚇、毀損之手段，迫
+    接受被告吳俊德、何國勳委託，而以恐嚇、毀損之手段，迫
     使債務人即被告何國勳或債務人之家屬即被害人伍萬料出面
     償債，又因有利可圖，竟共同設局詐騙告訴人蔡仁維，其間
     更以強制、恐嚇等方式，取得告訴人蔡仁維交付之財物，犯
@@ -901,8 +794,8 @@ function openwin(URL,arguments,width,height)
     意思決定自由及財產安全之觀念，惡性非輕，又犯後就部分
     犯行仍多方飾詞狡辯，未見徹底悔悟犯行之心，犯後態度欠
     佳，以及考量被害人伍萬料具狀及當庭表示願意原諒被告葉
-    佳榜（參本院卷第199 頁反面及第201 頁）等情；被告<font color='red'>吳俊
-    德</font>僅因長期無法向何國勳討得債務，不思以合法理性之途徑
+    佳榜（參本院卷第199 頁反面及第201 頁）等情；被告吳俊
+    德僅因長期無法向何國勳討得債務，不思以合法理性之途徑
     實現債權或維護權利，明知告訴人何駿杰、被害人何陳滿與
     何國勳積欠之債務絲毫無涉，竟先唆使被告葉佳榜等人向何
     駿杰討債，再提供告訴人何駿杰出租予他人之店面及何陳滿
@@ -918,7 +811,7 @@ function openwin(URL,arguments,width,height)
     告訴（詳後述），亦具狀及當庭表示願意撤回毀損部分告訴
     ，以及願意原諒被告何國勳（參本院卷第103 頁、第199 頁
     反面）等情，分別量處如主文所示之刑，並就被告葉佳榜部
-    分定其應執行之刑，而被告<font color='red'>吳俊德</font>及何國勳部分，則分別諭
+    分定其應執行之刑，而被告吳俊德及何國勳部分，則分別諭
     知易科罰金之折算標準，以資處罰。
 六、扣案之行動電話共2 支（含0000000000號、0000000000號行
     動電話SIM 卡各1 張），各係被告葉佳榜、鄧睿彥所有且作
@@ -1021,12 +914,12 @@ function openwin(URL,arguments,width,height)
 毀棄、損壞前二條以外之他人之物或致令不堪用，足以生損害於
 公眾或他人者，處 2 年以下有期徒刑、拘役或 5 百元以下罰金
 。
-附表一：（即<font color='red'>吳俊德</font>教唆葉佳榜、鄧睿彥、李少鳴三人索取何國
-        勳積欠<font color='red'>吳俊德</font>債務部分）
+附表一：（即吳俊德教唆葉佳榜、鄧睿彥、李少鳴三人索取何國
+        勳積欠吳俊德債務部分）
 ┌──┬──────┬──────────┬───────────┐
 │編號│行 為 時 地 │   行  為  內  容   │   所犯罪名及宣告刑   │
 ├──┼──────┼──────────┼───────────┤
-│ 一 │於98年11月5 │<font color='red'>吳俊德</font>與鄧睿彥、葉佳│葉佳榜共同犯恐嚇取財未│
+│ 一 │於98年11月5 │吳俊德與鄧睿彥、葉佳│葉佳榜共同犯恐嚇取財未│
 │    │日16時許在（│榜共同前往何國勳之母│遂罪，處有期徒刑肆月，│
 │    │改制前）臺北│何陳滿位在（改制前）│如易科罰金，以新台幣壹│
 │    │縣永和市永和│臺北縣永和市○○路2 │仟元折算壹日。        │
@@ -1198,86 +1091,12 @@ function openwin(URL,arguments,width,height)
 │    │            │而使蔡仁維感受恐懼下│                      │
 │    │            │陸續交付86萬元予葉佳│                      │
 │    │            │榜等人。            │                      │
-└──┴──────┴──────────┴───────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10107\06\PCDM10176.02M] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
-											筆 / 現在第14
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001376&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1376%2c20120706%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1376&jdate=1010706&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1376%2c20120706%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1376&jdate=1010706&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1376%2c20120706%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1376','1010706','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="14"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴──────┴──────────┴───────────┘
+[*jrecno*]100,訴,1376,20120706,2
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]1376
+[*jdate*]1010706
+[*jcheck*]2

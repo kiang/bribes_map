@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-99金訴47</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+cZcO0HaSlBdRkDXDChHZ7RbaxhU=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000047&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%87%91%e8%a8%b4&jno=47&jdate=1000930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%87%91%e8%a8%b4&jno=47&jdate=1000930&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e9%87%91%e8%a8%b4','47','1000930','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,金訴,47</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000930</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　99年度金訴字第47號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%87%91%e8%a8%b4&jno=47&jdate=1000930&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000047&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%87%91%e8%a8%b4&jno=47&jdate=1000930&jcheck=1
+[*裁判字號*]99,金訴,47
+[*裁判日期*]1000930
+[*裁判案由*]貪污等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　99年度金訴字第47號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　陳景峻
 選任辯護人　謝震武律師
@@ -441,13 +336,13 @@ function openwin(URL,arguments,width,height)
       得利益。另由劉志福於96年12月間某日，將其等所詐得前
       揭140 萬元款項之餘款40萬元交予王成明，王成明即於96
       年12月下旬某日向胡鎮埔報告及討論後，決定將該筆40萬
-      元分別贈予<font color='red'>林郁方</font>、高金素梅及黃宗源等3 位立法委員各
+      元分別贈予林郁方、高金素梅及黃宗源等3 位立法委員各
       20萬元、10萬元、10萬元，作為伊等擬參選立法委員之政
       治獻金後，即由胡鎮埔於96年12月下旬某日，偕同王成明
-      及劉志福，分赴立法委員候選人<font color='red'>林郁方</font>、高金素梅設於台
+      及劉志福，分赴立法委員候選人林郁方、高金素梅設於台
       北市○○路、台北市鎮○街之立法院立法委員辦公室，由
-      胡鎮埔各交付20萬元、10萬元政治獻金予均不知情之<font color='red'>林郁
-      方</font>、高金素梅收受（均未開立政治獻金收據，惟<font color='red'>林郁方</font>已
+      胡鎮埔各交付20萬元、10萬元政治獻金予均不知情之林郁
+      方、高金素梅收受（均未開立政治獻金收據，惟林郁方已
       就上開收受之20萬元政治獻金部分於98年3 月間向監察院
       補行申報，並辦理繳庫），另由胡鎮埔將另筆10萬元送至
       立法委員擬參選人黃宗源設於桃園縣桃園市○○路277 之
@@ -634,7 +529,7 @@ function openwin(URL,arguments,width,height)
     同法第159 條之5 規定甚明。本件以下實體判斷所據以認定
     之證據方法，如屬傳聞證據者（含證人郭昆文、賴志威於本
     件調查時之證述、證人余天在本件調查及偵訊時之證述、證
-    人<font color='red'>林郁方</font>、高金素梅、黃宗源等在本件偵訊時之證述，均詳
+    人林郁方、高金素梅、黃宗源等在本件偵訊時之證述，均詳
     下述），均因檢察官、被告陳景峻、胡鎮埔、查台傳、王成
     明、劉志福及其等選任辯護人均先後於本院準備程序中及審
     判期日表示無意見，且迄本件言詞辯論終結前均未聲明異議
@@ -648,13 +543,13 @@ function openwin(URL,arguments,width,height)
 貳、實體部分：
 一、訊據被告陳景峻固不否認曾於96年間，請求被告查台傳協助
     募款，並曾收受由查台傳所交付之100 萬元現金；訊據被告
-    胡鎮埔固不否認曾於96年12月間，分別贈予立法委員<font color='red'>林郁方
-    </font>、高金素梅、黃宗源各20萬元、10萬元、10萬元現金；訊據
+    胡鎮埔固不否認曾於96年12月間，分別贈予立法委員林郁方
+    、高金素梅、黃宗源各20萬元、10萬元、10萬元現金；訊據
     被告查台傳固不否認曾依被告劉志福於前揭紙條上所擬定之
     捐款名單，親自或分別打電話予前揭退輔會所屬各轉投資事
     業機構之董事長或總經理而請求捐款；訊據被告王成明固不
     否認曾於96年間向被告查台傳報告本件募款之事，並曾偕同
-    被告胡鎮埔致贈前揭款項予立法委員<font color='red'>林郁方</font>等人；訊據被告
+    被告胡鎮埔致贈前揭款項予立法委員林郁方等人；訊據被告
     劉志福固不否認其曾擬具前揭捐款名單，並向被告查台傳報
     告後，請查台傳依該紙名單上所列，各別致電前揭退輔會所
     屬各轉投資事業機構董事長或總經理而請求捐款等事實，惟
@@ -666,7 +561,7 @@ function openwin(URL,arguments,width,height)
     募款，亦不知查台傳等人是否曾對各該轉投資事業機構之董
     事長或總經理施用詐術而取得前揭合計140 萬元款項云云；
     被告胡鎮埔辯稱其係依被告王成明之建議，並向王成明確認
-    前揭分別致贈予立法委員<font color='red'>林郁方</font>、高金素梅、黃宗源之款項
+    前揭分別致贈予立法委員林郁方、高金素梅、黃宗源之款項
     來源均屬合法後，始與王成明討論而決定分別致贈前揭款項
     予各該立法委員，其並未同意或核准被告查台傳等人向前揭
     退輔會所屬各轉投資事業機構募款，亦不知查台傳等人曾向
@@ -1339,25 +1234,25 @@ function openwin(URL,arguments,width,height)
         等前揭10家退輔會所屬轉投資事業機構贊助款項共140
         萬元之餘款計40萬元交予被告王成明，由王成明於96年
         12月下旬某日向被告胡鎮埔報告，並與胡鎮埔討論後，
-        決定將該筆40萬元分別贈予<font color='red'>林郁方</font>、高金素梅及黃宗源
+        決定將該筆40萬元分別贈予林郁方、高金素梅及黃宗源
         等3 位立法委員各20萬元、10萬元、10萬元，作為伊等
         擬參選立法委員之政治獻金後，由被告胡鎮埔偕同被告
         王成明、劉志福，於96年12月24日、同年12月下旬某日
-        ，分赴立法委員候選人<font color='red'>林郁方</font>、高金素梅設於台北市○
+        ，分赴立法委員候選人林郁方、高金素梅設於台北市○
         ○路、台北市鎮○街之立法院立法委員辦公室，由胡鎮
-        埔各交付20萬元、10萬元政治獻金予均不知情之<font color='red'>林郁方
-        </font>、高金素梅收受（均未開立政治獻金收據，惟<font color='red'>林郁方</font>已
+        埔各交付20萬元、10萬元政治獻金予均不知情之林郁方
+        、高金素梅收受（均未開立政治獻金收據，惟林郁方已
         就上開收受之20萬元政治獻金部分於98年3 月間向監察
         院補行申報，並辦理繳庫），另由胡鎮埔自行將另筆10
         萬元送至立法委員擬參選人黃宗源設於桃園縣桃園市○
         ○路277 之2 號住處，交予不知情之黃宗源作為政治獻
-        金（亦未開立政治獻金收據）等事實，業據證人<font color='red'>林郁方
-        </font>、高金素梅、黃宗源於本件偵訊時，分別結證在卷（見
+        金（亦未開立政治獻金收據）等事實，業據證人林郁方
+        、高金素梅、黃宗源於本件偵訊時，分別結證在卷（見
         臺北地檢署98年度偵字第16103 號卷第117 至119 頁、
         第124 至129 頁），核與被告胡鎮埔、王成明、劉志福
         於本件調查、偵訊時所為供述，及其等於本件審理時，
-        各以證人身分結證之內容均屬相符，並有立法院<font color='red'>林郁方
-        </font>委員國會辦公室98年3 月17日方字第008031701 號函及
+        各以證人身分結證之內容均屬相符，並有立法院林郁方
+        委員國會辦公室98年3 月17日方字第008031701 號函及
         所附政治獻金繳庫辦理單、郵政劃撥儲金存款收據、監
         察院自行收納款項統一收據等在卷（見臺北地檢署98年
         度偵字第3559號卷二第281 至285 頁），復為被告陳景
@@ -1660,7 +1555,7 @@ function openwin(URL,arguments,width,height)
       該事業單位能負擔的募款金額後，請秘書長查台傳先打電
       話給官派董事長或總經理，再交由其執行，而上開募得的
       140 萬元，經送予被告陳景峻100 萬元後，剩餘的40萬元
-      係交予被告王成明，後來則係用以贊助<font color='red'>林郁方</font>、高金素梅
+      係交予被告王成明，後來則係用以贊助林郁方、高金素梅
       及黃宗源立委作為競選活動費等語（見臺北地檢署97年度
       他字第8224號卷第73頁反面至第77頁），另於99年1 月12
       日偵訊時供稱其有拿前揭紙條給被告王成明看，經王成明
@@ -7194,86 +7089,12 @@ function openwin(URL,arguments,width,height)
 │  │        │                          │            │      │          │      │      │等項相符。    │
 ├─┼────┼─────────────┼──────┼───┼─────┼───┼───┼───────┤
 │  │        │                      合計│243281      │      │          │      │      │              │
-└─┴────┴─────────────┴──────┴───┴─────┴───┴───┴───────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10009\30\TPDM1009U.02U] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e9%87%91%e8%a8%b4&selectedCrmno=000047&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%87%91%e8%a8%b4&jno=47&jdate=1000930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e9%87%91%e8%a8%b4&jno=47&jdate=1000930&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e9%87%91%e8%a8%b4%2c47%2c20110930%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e9%87%91%e8%a8%b4','47','1000930','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林郁方">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林郁方">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴────┴─────────────┴──────┴───┴─────┴───┴───┴───────┘
+[*jrecno*]99,金訴,47,20110930,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]金訴
+[*jno*]47
+[*jdate*]1000930
+[*jcheck*]1

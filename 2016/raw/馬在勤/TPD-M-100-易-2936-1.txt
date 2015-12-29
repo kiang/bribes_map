@@ -1,167 +1,60 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-100易2936</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共182
-											筆 / 現在第65
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e6%98%93&selectedCrmno=002936&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=64&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=66&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=182&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e6%98%93%2c2936%2c20120706%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e6%98%93&jno=2936&jdate=1010706&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e6%98%93%2c2936%2c20120706%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e6%98%93&jno=2936&jdate=1010706&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e6%98%93%2c2936%2c20120706%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e6%98%93','2936','1010706','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,易,2936</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010706</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">侵占</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　 100年度易字第2936號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e6%98%93%2c2936%2c20120706%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e6%98%93&jno=2936&jdate=1010706&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e6%98%93&selectedCrmno=002936&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e6%98%93%2c2936%2c20120706%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e6%98%93&jno=2936&jdate=1010706&jcheck=1
+[*裁判字號*]100,易,2936
+[*裁判日期*]1010706
+[*裁判案由*]侵占
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　 100年度易字第2936號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　鄭幼生
-選任辯護人　<font color='red'>馬在勤</font>律師
+選任辯護人　馬在勤律師
 　　　　　　陳佳雯律師
 上列被告因侵占案件，經檢察官提起公訴（100 年度偵字第6632
 號），本院判決如下：
     主  文
 鄭幼生連續意圖為自己不法之所有，而侵占自己持有他人之物，
-處有期徒刑壹年；減為有期徒刑陸月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰
+處有期徒刑壹年；減為有期徒刑陸月，如易科罰金，以銀元佰
 元即新臺幣玖佰元折算壹日。緩刑貳年。
     事  實
-一、緣黃麗與張真於民國90年間，以<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫企業有限公司（下稱<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />
+一、緣黃麗與張真於民國90年間，以鑫企業有限公司（下稱
     鑫公司）之名義，向德寶營造股份有限公司（下稱德寶營造
     公司）承攬東西向快速公路萬里至瑞濱線第13標工程之廢棄
     土方工程，嗣黃麗與張真就上開工程款請領發生糾紛，德寶
-    公司為避免爭議，遂簽發受款人為<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司、禁止背書轉讓
+    公司為避免爭議，遂簽發受款人為鑫公司、禁止背書轉讓
     之記名式支票，用以支付工程款，黃麗為能順利取得工程款
     項，委託鄭幼生、官州鎮（官州鎮部分，業由檢察官以100
-    年度偵續字第675 號為不起訴處分確定）等人陪同其與<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫
+    年度偵續字第675 號為不起訴處分確定）等人陪同其與鑫
     公司負責人徐祺文（徐祺文部分，業由檢察官以100 年度偵
     字第6632號為不起訴處分確定）至德寶公司請領工程款，鄭
     幼生明知其係受黃麗委託代為提領上開工程款，竟基於意圖
     為自己不法所有之概括犯意，連續將下列代為提領而持有之
     款項予以侵占入己：
-(一)、於90年8 月13日，鄭幼生、官州鎮陪同黃麗及<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之負
-    責人徐祺文一同至德寶營造公司，由徐祺文持<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之大
+(一)、於90年8 月13日，鄭幼生、官州鎮陪同黃麗及鑫公司之負
+    責人徐祺文一同至德寶營造公司，由徐祺文持鑫公司之大
     小章向德寶公司會計領取該期工程款即票號SG0000000 號、
     發票日90年8 月15日，金額為新臺幣（下同）268 萬2828元
-    ，受款人為<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之禁止背書轉讓支票1 紙後，黃麗即指
-    示徐祺文將上開支票連同<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司開立於合作金庫商業銀行
+    ，受款人為鑫公司之禁止背書轉讓支票1 紙後，黃麗即指
+    示徐祺文將上開支票連同鑫公司開立於合作金庫商業銀行
     （下稱合作金庫）新店分行帳號0000000000000 號帳戶存摺
     及印鑑交付鄭幼生，鄭幼生當日即至合作金庫新店分行將該
-    支票存入<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司上開帳戶內。於90年8 月15日，鄭幼生即
+    支票存入鑫公司上開帳戶內。於90年8 月15日，鄭幼生即
     指示不知情之曹恆維（原名曹恆希）至合作金庫復興分行，
-    持上開<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之存摺、印鑑臨櫃取款50萬元後，以曹恆希
+    持上開鑫公司之存摺、印鑑臨櫃取款50萬元後，以曹恆希
     名義將該筆50萬元轉帳存入鄭幼生於第一商業銀行（下稱第
     一商銀）建成分行開立帳號00000000000 號帳戶內；復於同
-    日下午，再指示不知情之江豪秦持<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之存摺及印鑑臨
+    日下午，再指示不知情之江豪秦持鑫公司之存摺及印鑑臨
     櫃取款218 萬3000元，並將該筆款項以江豪秦名義轉帳存入
     鄭幼生上開第一商銀建成分行帳戶內，而未將受託提領持有
     之款項交付予黃麗，以上開方式將所提領之共計268 萬3000
     元款項侵占入己。
-(二)、於90年9 月15日，鄭幼生、官州鎮陪同黃麗及<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之負
-    責人徐祺文一同至德寶營造公司，由徐祺文持<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之大
+(二)、於90年9 月15日，鄭幼生、官州鎮陪同黃麗及鑫公司之負
+    責人徐祺文一同至德寶營造公司，由徐祺文持鑫公司之大
     小章向德寶公司會計領取票號分別為SG0000000 、SG000000
     0 、SG0000000 號，金額分別為236 萬4787元、143 萬5213
     元、134 萬5258元( 合計514 萬5528元) ，票載發票日均為
-    90年9 月15日，受款人為<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司之禁止背書轉讓支票共3
+    90年9 月15日，受款人為鑫公司之禁止背書轉讓支票共3
     紙後，徐祺文遂將上開3 張支票交付鄭幼生，徐祺文並應鄭
-    幼生要求，於90年9 月19日至合作金庫民生分行開立另一<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />
+    幼生要求，於90年9 月19日至合作金庫民生分行開立另一
     鑫公司帳號0000000000000 號帳戶，並將上開帳戶存摺及印
     鑑交付鄭幼生，鄭幼生開戶當日即將上開3 張禁止背書轉讓
     支票存入該帳戶內，再分別自該帳戶提領現金460 萬元、20
@@ -236,7 +129,7 @@ function openwin(URL,arguments,width,height)
     作為證據之偽造動機，其虛偽之可能性小，除非該等紀錄文
     書或證明文書有顯然不可信之情況，否則有承認其為證據之
     必要。查卷附之合作金庫新店分行100 年6 月2 日合金店字
-    第1000002066號函及函附之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司帳戶歷史交易明細查詢
+    第1000002066號函及函附之鑫公司帳戶歷史交易明細查詢
     結果、新開戶建檔登陸單、票號SG0000000 號支票影本、匯
     款申請書代收入傳票及合作金庫100 年7 月4 日合金復興存
     字第1000002177號函及函附之90年8 月15日匯款傳票影本、
@@ -263,7 +156,7 @@ function openwin(URL,arguments,width,height)
     檢察事務官詢問及檢察官訊問時均證述其等有依被告指示為
     上開領款及匯款之情形相符（見10 0年度偵字第6632號卷第
     至212 、230 至232 頁），並有合作金庫新店分行100 年6
-    月2 日合金店字第1000002066號函及函附之<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司帳戶歷
+    月2 日合金店字第1000002066號函及函附之鑫公司帳戶歷
     史交易明細查詢結果、新開戶建檔登陸單、票號SG0000000
     號支票影本、匯款申請書代收入傳票及合作金庫100 年7 月
     4 日合金復興存字第1000002177號函及函附之90年8 月15日
@@ -276,7 +169,7 @@ function openwin(URL,arguments,width,height)
     給付種類相同，並均屆清償期者，各得以其債務，與他方債
     務，互為抵銷；抵銷，應以意思表示，向他方為之，民法第
     334 條第1 項前段及同法第335 條第1 項前段分別定有明文
-    。查：證人徐祺文（即<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司負責人）固於本院審理時證
+    。查：證人徐祺文（即鑫公司負責人）固於本院審理時證
     述：向德寶公司請領工程款時須檢附發票，要繳稅金才能請
     領發票，稅金是由黃麗負責，是由被告拿錢出來繳稅金79萬
     元，伊領得發票才拿發票向德寶公司請款，被告事後有再給
@@ -284,9 +177,9 @@ function openwin(URL,arguments,width,height)
     筆30萬元黃麗沒有錢付，伊就跟告要錢，被告領款後就給伊
     30 萬 元的土尾錢等語（見本院卷第58頁反面、63頁至反面
     ）。然證人黃麗堅決否認其有積欠土尾錢且其負責出資部分
-    有包含稅金，陳稱：伊只是<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司承攬上開工程幕後出資
+    有包含稅金，陳稱：伊只是鑫公司承攬上開工程幕後出資
     的金主，伊負責出資履約保證金500 萬元，還有土方的運輸
-    費用，當初約定伊只負責工地支出，<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司的發票及稅款
+    費用，當初約定伊只負責工地支出，鑫公司的發票及稅款
     並非伊負責，伊固有委託官州鎮及被告為其處理請領工程款
     事宜，然與被告及官州鎮均尚未談論到報酬多少等語（見本
     院卷第47頁）。是以有關稅金、土尾款的支付既仍有爭議，
@@ -300,7 +193,7 @@ function openwin(URL,arguments,width,height)
     抵云云，既未曾有任何對外之意思表示，顯係卸責之詞，不
     足採信。
 (四)、再者，被告就事實欄一、(二)所示，其基於侵占之意思，於90
-    年9 月19日自<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E7892A0A00000040.GIF" />鑫公司合作金庫民生分行帳戶，提領現金46
+    年9 月19日自鑫公司合作金庫民生分行帳戶，提領現金46
     0 萬元、20萬元、20萬元及14萬6000元一情，有合作金庫10
     0 年7 月4 日合金復興存字第1000002177號函及函附之90年
     8 月15日匯款傳票影本、取款憑條、存款憑條附卷可查（見
@@ -437,86 +330,12 @@ function openwin(URL,arguments,width,height)
 附錄本案論罪科刑法條
 中華民國刑法第335條第1 項
 意圖為自己或第三人不法之所有，而侵占自己持有他人之物者，
-處 5 年以下有期徒刑、拘役或科或併科 1 千元以下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10107\06\TPDM10176.00O] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共182
-											筆 / 現在第65
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e6%98%93&selectedCrmno=002936&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=64&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=66&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=182&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e6%98%93%2c2936%2c20120706%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e6%98%93&jno=2936&jdate=1010706&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e6%98%93%2c2936%2c20120706%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e6%98%93&jno=2936&jdate=1010706&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e6%98%93%2c2936%2c20120706%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e6%98%93','2936','1010706','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="65"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="馬在勤">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="馬在勤">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+處 5 年以下有期徒刑、拘役或科或併科 1 千元以下罰金。
+[*jrecno*]100,易,2936,20120706,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]易
+[*jno*]2936
+[*jdate*]1010706
+[*jcheck*]1

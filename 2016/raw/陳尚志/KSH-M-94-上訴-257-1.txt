@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-高雄分院-刑-94上訴257</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+Gq6Ecq71Z4PSDl50P/GdLwLKb9o=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 高雄分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000257&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%b8%8a%e8%a8%b4&jno=257&jdate=940426&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%b8%8a%e8%a8%b4&jno=257&jdate=940426&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','94','%e4%b8%8a%e8%a8%b4','257','940426','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">94,上訴,257</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">940426</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反商業會計法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院高雄分院刑事判決　　　　 94年度上訴字第257號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%b8%8a%e8%a8%b4&jno=257&jdate=940426&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000257&selectedCrtid=KSH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%b8%8a%e8%a8%b4&jno=257&jdate=940426&jcheck=1
+[*裁判字號*]94,上訴,257
+[*裁判日期*]940426
+[*裁判案由*]違反商業會計法等
+[*裁判全文*]臺灣高等法院高雄分院刑事判決　　　　 94年度上訴字第257號
 上　訴　人　臺灣高雄地方法院檢察署檢察官
 被　　　告　甲○○
 　　　　　　乙○○
@@ -128,23 +23,23 @@ function openwin(URL,arguments,width,height)
     事  實
 一、甲○○係慶益營造有限公司（下稱慶益公司）之實際負責人
     ，為從事業務之人，負有據實製作薪資所得扣繳暨免扣繳憑
-    單之義務，明知於87年1 月至12月間，<font color='red'>陳尚志</font>、蔡金桐、盧
+    單之義務，明知於87年1 月至12月間，陳尚志、蔡金桐、盧
     錫輝、謝國等人均未在慶益公司工作及支薪，竟於87年間
     某日在慶益公司內，利用不知情之會計人員，於其業務上制
-    作之「各類所得扣繳暨免扣繳憑單上」，虛偽登載<font color='red'>陳尚志</font>、
+    作之「各類所得扣繳暨免扣繳憑單上」，虛偽登載陳尚志、
     蔡金桐、盧錫輝、廖國雄、謝國等5 人自87年1 月至12
     月止，在慶益公司薪資所得各17萬元，並依此製作營利事業
     所得稅結算申報書，且由不知情之會計人員填載營利事業所
     得稅結算申報書文件，併同前開內容不實之各類所得扣繳暨
     免扣繳憑單，持以於88年5 月間某日，向財政部高雄市國稅
     局申報慶益公司之87年度營利事業所得稅而加以行使，足以
-    生損害於<font color='red'>陳尚志</font>、蔡金桐、盧錫輝、廖國雄、謝國及稅捐
+    生損害於陳尚志、蔡金桐、盧錫輝、廖國雄、謝國及稅捐
     機關管理稅務之正確性。
 二、案經財政部高雄市國稅局移送台灣高雄地方法院檢察署檢察
     官偵查起訴暨臺灣台北地方法院檢察署移送併辦。
       理  由
 壹、撤銷改判（即被告甲○○）部分：
-一、訊據被告甲○○固承認製作及申報上開<font color='red'>陳尚志</font>、蔡金桐、盧
+一、訊據被告甲○○固承認製作及申報上開陳尚志、蔡金桐、盧
     錫輝、廖國雄、謝國等5 人之87年度各類所得扣繳暨免扣
     繳憑單，並據以制作慶益公司之87年度營利事業所得稅結算
     申報書，將上列之薪資金額列為該公司之成本，向財政部高
@@ -152,15 +47,15 @@ function openwin(URL,arguments,width,height)
     慶益公司之工程係由工頭承包後，再自行僱用工人，僱用之
     人數及薪資，並非我所管，是熊立德提供工資表來申請錢的
     ，熊立德是慶益公司的工地主任，他的職務就是負責慶益公
-    司的薪資發放，再把工人報到公司來，所以<font color='red'>陳尚志</font>、蔡金桐
+    司的薪資發放，再把工人報到公司來，所以陳尚志、蔡金桐
     、盧錫輝、廖國雄、謝國都是他（熊立德）提供給慶益公
     司的。工地主任拿回來的資料，我無法一個一個問，而工人
     工作的地點又不一定，慶益公司是按照工資表去算天數，我
     們慶益公司雇用工地主任，就要信任他，無法去防範他云云
 二、經查：
-（一）告訴人<font color='red'>陳尚志</font>、蔡金桐、盧錫輝及廖國雄、謝國等人於
+（一）告訴人陳尚志、蔡金桐、盧錫輝及廖國雄、謝國等人於
       民國87年間均未在慶益公司工作，而遭虛列薪資製成各類
-      所得扣繳暨免扣繳憑單等情，業據告訴人<font color='red'>陳尚志</font>、蔡金桐
+      所得扣繳暨免扣繳憑單等情，業據告訴人陳尚志、蔡金桐
       、盧錫輝、廖國雄、謝國指述綦詳，並有財政部高雄市
       國稅局等之移送函及附送之檢舉書、扣繳憑單、慶益公司
       87年度營利事業所得稅結算申報書、87年度營利事業所得
@@ -181,21 +76,21 @@ function openwin(URL,arguments,width,height)
       卡、變更登記事項卡等在卷可證，並為被告甲○○所不否
       認，雖證人即慶益公司工地主任熊立德於原審結證稱：「
       工地把工人報到公司。我在慶益營造時，江意銓以及其他
-      工地的工頭報給我。我有2 、3 個工地。<font color='red'>陳尚志</font>、蔡金桐
+      工地的工頭報給我。我有2 、3 個工地。陳尚志、蔡金桐
       、盧錫輝是否是江意銓報給我的，我不記得了，因為工人
       太多人。工頭將工人的薪資報給工地主任，工地主任再將
       薪資表報給公司，所以在公司內部無法確定工頭所報的薪
       資表所載的工人是否即為實際工作的工人，因為連我在工
       地實際負責工地管理業務的人，都無法確定工頭所呈報的
       工人是否為實際工作的工人。」等語（見原審卷第195 頁
-      ），惟查告訴人<font color='red'>陳尚志</font>、蔡金桐、盧錫輝及廖國雄、謝國
+      ），惟查告訴人陳尚志、蔡金桐、盧錫輝及廖國雄、謝國
       等人於87年間既未在慶益公司工作及支薪，慶益公司工
       地主任或負責人焉有不知情之理，證人熊立德上開所證，
       顯係事後迴護被告甲○○之詞，尚難輕信，查被告甲○○
       既係慶益公司之負責人，為從事業務之人，負有據實製作
       薪資所得扣繳暨免扣繳憑單及登載營利事業所得稅結算申
-      報書之義務，<font color='red'>陳尚志</font>、蔡金桐、盧錫輝及謝國、廖國雄
-      非慶益公司之員工，乃被告甲○○竟虛列<font color='red'>陳尚志</font>、蔡金桐
+      報書之義務，陳尚志、蔡金桐、盧錫輝及謝國、廖國雄
+      非慶益公司之員工，乃被告甲○○竟虛列陳尚志、蔡金桐
       、盧錫輝及謝國、廖國雄領取其公司薪資製作薪資所得
       扣繳暨免扣繳憑單，向財政部高雄市國稅局報稅，其有行
       使業務上登載不實文書之犯行甚明，其上述所辯顯係事後
@@ -204,7 +99,7 @@ function openwin(URL,arguments,width,height)
 二、查被告甲○○係慶益公司之實際負責人，而扣繳憑單乃係被
     告業務上所製作之文書（非屬會計憑證），被告利用不知情
     之會計人員填製扣繳憑單，且持該扣繳憑單併向財政部高雄
-    市國稅局申報稅捐，足以生損害於各被冒名者即<font color='red'>陳尚志</font>等人
+    市國稅局申報稅捐，足以生損害於各被冒名者即陳尚志等人
     及稅捐機關課稅正確性，所為係犯刑法第216 條、第215 條
     行使業務上登載不實文書罪。被告利用不知情之會計人員，
     製作及行使不實之扣繳憑單，為間接正犯；其偽造填製不實
@@ -250,18 +145,18 @@ function openwin(URL,arguments,width,height)
 一、公訴意旨略以：被告乙○○係慶益公司之實際負責人，為商
     業會計法第4 條所稱之負責人，且為從事業務之人，負有據
     實製作薪資所得扣繳暨免扣繳憑單之義務。其明知於87年1
-    月至12月間，<font color='red'>陳尚志</font>、蔡金桐及盧錫輝3 人均未在慶益公司
+    月至12月間，陳尚志、蔡金桐及盧錫輝3 人均未在慶益公司
     工作及支薪，竟基於概括犯意聯絡，在「各類所得扣繳暨免
-    扣繳憑單上」上，虛偽登載<font color='red'>陳尚志</font>、蔡金桐及盧錫輝3 人87
+    扣繳憑單上」上，虛偽登載陳尚志、蔡金桐及盧錫輝3 人87
     年度薪資所得各17萬元，並依此製作業務上不實之營利事業
     所得稅結算申報書且持向國稅局申報營利事業所得稅，足生
-    損害於<font color='red'>陳尚志</font>、蔡金桐、盧錫輝及稅捐機關管理稅務之正確
+    損害於陳尚志、蔡金桐、盧錫輝及稅捐機關管理稅務之正確
     性，因認被告乙○○涉有違反商業會計法第71條第1 款之商
     業負責人以明知為不實之事項而填製會計憑證罪及刑法第21
     6 條、第215 條之行使業務上登載不實文書罪嫌云云。
 二、本件公訴人認被告乙○○涉有上述犯行，係以被告乙○○自
     87年12月24日起即擔任慶益公司之負責人，有慶益公司股東
-    承受同意書影本1 份在卷可稽，而<font color='red'>陳尚志</font>、蔡金桐及盧錫輝
+    承受同意書影本1 份在卷可稽，而陳尚志、蔡金桐及盧錫輝
     等未在慶益公司工作亦未領取薪資，卻遭國稅局核定課稅之
     事實，亦有高雄市國稅局87年度綜合所得稅核定通知書及慶
     益公司87年度各類所得扣繳暨免扣繳憑單附卷可證，被告乙
@@ -342,7 +237,7 @@ function openwin(URL,arguments,width,height)
       定之犯行云云，然各類所得扣繳暨免扣繳憑單並非商業會
       計法所稱之會計憑證，業如前述，是被告乙○○之所為，
       亦無從構成商業會計法第71條第1 款之罪，甚為明確。
-（四）至告訴人<font color='red'>陳尚志</font>、蔡金桐、盧錫輝之指訴、財政部高雄市
+（四）至告訴人陳尚志、蔡金桐、盧錫輝之指訴、財政部高雄市
       國稅局87年度綜合所得稅核定通知書、各類所得扣繳暨免
       扣繳憑單等，均不足認被告乙○○與被告甲○○共同製作
       各類所得扣繳暨免扣繳憑單等申報資料，自仍不得執此為
@@ -382,86 +277,11 @@ function openwin(URL,arguments,width,height)
   從事業務之人，明知為不實之事項，而登載於其業務上作成之
   文書，足以生損害於公眾或他人者，處3 年以下有期徒刑、拘
   役或500元以下罰金。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\ok\LAWKSH\CRIMINAL\9404\26\KSHM944Q.017] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000257&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%b8%8a%e8%a8%b4&jno=257&jdate=940426&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=94&jcase=%e4%b8%8a%e8%a8%b4&jno=257&jdate=940426&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('94%2c%e4%b8%8a%e8%a8%b4%2c257%2c20050426%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','94','%e4%b8%8a%e8%a8%b4','257','940426','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KSH 臺灣高等法院 高雄分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳尚志">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳尚志">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]94,上訴,257,20050426,1
+[*v_court*]KSH 臺灣高等法院 高雄分院
+[*v_sys*]M
+[*jyear*]94
+[*jcase*]上訴
+[*jno*]257
+[*jdate*]940426
+[*jcheck*]1

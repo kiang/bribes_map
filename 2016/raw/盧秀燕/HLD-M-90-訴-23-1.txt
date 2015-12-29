@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣花蓮地方法院-刑-90訴23</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣花蓮地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000023&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c23%2c20021231%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=23&jdate=911231&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c23%2c20021231%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=23&jdate=911231&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c23%2c20021231%2c1','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','23','911231','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,訴,23</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">911231</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣花蓮地方法院刑事判決　　　　　　　　　　　　　　　九十年度訴字第二三號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c23%2c20021231%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=23&jdate=911231&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000023&selectedCrtid=HLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c23%2c20021231%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=23&jdate=911231&jcheck=1
+[*裁判字號*]90,訴,23
+[*裁判日期*]911231
+[*裁判案由*]貪污
+[*裁判全文*]臺灣花蓮地方法院刑事判決　　　　　　　　　　　　　　　九十年度訴字第二三號
 　　公　訴　人　臺灣花蓮地方法院檢察署檢察官
 　　被　　　告　丙○○
 　　選任辯護人　許景鐿
@@ -128,7 +21,7 @@ function openwin(URL,arguments,width,height)
 乙○○法人之受僱人，因執行業務，違反勞動檢查機構對該事業單位工作場所發生重
 大職業災害時，指派勞動檢查員對該事業單位工作場所實施檢查，發現非立即停工不
 足以避免職業災害擴大，就該場所以書面通知逕予先行停工之規定，處罰金新臺幣拾
-萬元，如易服勞役，以新臺幣玖佰元（即銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元）折算壹日。
+萬元，如易服勞役，以新臺幣玖佰元（即銀元佰元）折算壹日。
 丙○○、戊○○、己○○均無罪。
     事  實
 一、乙○○於民國八十六年間，原受僱於任發營造有限公司（業於八十七年十一月二
@@ -311,7 +204,7 @@ function openwin(URL,arguments,width,height)
           置。之後，台灣省立玉里養護所之上級機關台灣省政府衛生處對於此事件
           ，於八十七年十二月十五日以該處衛三字第八七三○○○九八○號函通知
           台灣省立玉里養護所出席「召開省立玉里醫院祥和復健園區第二期建築工
-          程」協調會，被通知出席者尚有<font color='red'>盧秀燕</font>省議員、任發公司、丁○○建築師
+          程」協調會，被通知出席者尚有盧秀燕省議員、任發公司、丁○○建築師
           事務所、該處政風室暨會計室等…，會議中會計單位與政風單位出席代表
           意見不一，相持不下，而丁○○建築師事務所代表甲○○則表示：依工程
           慣例，勞安事件皆判定為停工，且依新頒定之天災人禍等因素，亦列入人
@@ -385,7 +278,7 @@ function openwin(URL,arguments,width,height)
       ○○、戊○○有何貪污犯行以及被告己○○有何違反勞工安全衛生法、勞動檢
       查法犯行，揆諸首揭說明，既不能證明被告丙○○、戊○○、己○○犯罪，即
       應為其等三人無罪之諭知，以資審慎。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、台灣花蓮地方法院檢察署八十九年度偵字第二一三三號移送併案審理要旨略以：
+、台灣花蓮地方法院檢察署八十九年度偵字第二一三三號移送併案審理要旨略以：
     被告丙○○於八十八年七月、八月間，未曾僱用案外人黃玉華等十一人至玉里醫
     院擔任護士職務，竟由玉里醫院支付黃玉華等十一人之八十八年七月、八月薪資
     計七十三萬七千元，因認被告丙○○另涉有此部分違反貪污治罪條例之犯行，與
@@ -414,91 +307,16 @@ function openwin(URL,arguments,width,height)
 ：
   一、違反第二十六條規定，使勞工在未經審查或檢查合格之工作場所作業者。
   二、違反第二十七條至第二十九條停工通知者。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />法人之代表人、法人或自然人之代理人、受僱人或其他從業人員，因執行業務犯前
+法人之代表人、法人或自然人之代理人、受僱人或其他從業人員，因執行業務犯前
   項之罪耆，除處罰其行為人外，對該法人或自然人亦科以前項之罰金。
 刑法第十一條前段：
 本法總則於其他法令有刑罰之規定者，亦適用之。但其他法令有特別規定者，不在此
 限。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\OK\LAWHLD\CRIMINAL\9201\03\HLDM9213.004] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000023&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c23%2c20021231%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=23&jdate=911231&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c23%2c20021231%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=23&jdate=911231&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c23%2c20021231%2c1','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','23','911231','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="HLD 臺灣花蓮地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="盧秀燕">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="盧秀燕">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]90,訴,23,20021231,1
+[*v_court*]HLD 臺灣花蓮地方法院
+[*v_sys*]M
+[*jyear*]90
+[*jcase*]訴
+[*jno*]23
+[*jdate*]911231
+[*jcheck*]1

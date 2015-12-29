@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-103自65</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%87%aa&selectedCrmno=000065&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%87%aa%2c65%2c20150325%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%87%aa&jno=65&jdate=1040325&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%87%aa%2c65%2c20150325%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%87%aa&jno=65&jdate=1040325&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%87%aa%2c65%2c20150325%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%87%aa','65','1040325','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,自,65</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040325</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　 102年度自字第82號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%87%aa%2c65%2c20150325%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%87%aa&jno=65&jdate=1040325&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%87%aa&selectedCrmno=000065&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%87%aa%2c65%2c20150325%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%87%aa&jno=65&jdate=1040325&jcheck=2
+[*裁判字號*]103,自,65
+[*裁判日期*]1040325
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　 102年度自字第82號
 　　　　　　　　　　　　　　　　　　　 103年度自字第65號
 自　訴　人　全菱電梯股份有限公司
 代　表　人　田乾隆
@@ -143,36 +36,36 @@ function openwin(URL,arguments,width,height)
       、填製不實會計憑證及記入帳冊、利用此不正當方法致使
       會計事項及財務報表發生不實之結果之犯意，藉著保管全
       菱公司員工印章之機會，在全菱公司內盜用全菱公司員工
-      <font color='red'>郭淑娟</font>、張翰、潘忠良、吳宗儒、鄭張俊傑、張修瑋為辦
-      理勞健保所交付與公司之印章，逕自蓋印在不實填載<font color='red'>郭淑
-      娟</font>等6 人各已領款1 萬5,000 元至3 萬3,000 元不等之端
+      郭淑娟、張翰、潘忠良、吳宗儒、鄭張俊傑、張修瑋為辦
+      理勞健保所交付與公司之印章，逕自蓋印在不實填載郭淑
+      娟等6 人各已領款1 萬5,000 元至3 萬3,000 元不等之端
       午節獎金之「全菱公司100 年6 月端午節獎金」具領清冊
       領款人簽章處，填製此屬全菱公司原始內部憑證之商業會
-      計憑證，表示全菱公司員工<font color='red'>郭淑娟</font>等6 人各已具領1 萬
+      計憑證，表示全菱公司員工郭淑娟等6 人各已具領1 萬
       5,000 元至3 萬3,000 元不等之端午節獎金之意，而偽造
       上開屬私文書之具領清冊，交予記帳業者而行使之，使不
       知情之記帳業者記入帳冊，致全菱公司會計事項及財務報
-      表發生不實結果，足生損害於全菱公司員工<font color='red'>郭淑娟</font>等6 人
+      表發生不實結果，足生損害於全菱公司員工郭淑娟等6 人
       及全菱公司會計財務之正確性。
 （二）於101 年間擔任全菱公司經理人時，明知全菱公司101 年
       之勞動節、端午節獎金各僅核發每人1,200 元，亦未取得
       全菱公司員工之同意或授權，竟基於行使偽造私文書、填
       製不實會計憑證及記入帳冊、利用此不正當方法致使會計
       事項及財務報表發生不實之結果之犯意，藉著保管全菱公
-      司員工印章之機會，在全菱公司內盜用全菱公司員工<font color='red'>郭淑
-      娟</font>、潘忠良、吳宗儒、吳宸萱、李科瑩、林明豐、張迪鈞
+      司員工印章之機會，在全菱公司內盜用全菱公司員工郭淑
+      娟、潘忠良、吳宗儒、吳宸萱、李科瑩、林明豐、張迪鈞
       、楊尚哲、黃俊田、李文忠、楊素倩等11人為辦理勞健保
-      所交付與公司之印章，逕自蓋印在不實填載<font color='red'>郭淑娟</font>等11人
+      所交付與公司之印章，逕自蓋印在不實填載郭淑娟等11人
       各已領款2 萬元至6 萬1,000 元不等之勞動節、端午節獎
       金之「全菱公司101 年5 月勞動節獎金」、「全菱公司10
       1 年6 月端午節獎金」具領清冊領款人簽章處，填製上開
       屬全菱公司原始內部憑證之商業會計憑證，表示全菱公司
-      員工<font color='red'>郭淑娟</font>等11人各已具領2 萬元至6 萬1,000 元不等之
+      員工郭淑娟等11人各已具領2 萬元至6 萬1,000 元不等之
       勞動節、端午節獎金之意，而偽造上開屬私文書之具領清
       冊，一同於101 年11月29日傳真交予擔任全菱公司臨時管
       理人之會計師田乾隆而行使之，使不知情之田乾隆記入帳
       冊，致全菱公司會計事項及財務報表發生不實結果，足生
-      損害於全菱公司員工<font color='red'>郭淑娟</font>等11人及全菱公司會計財務之
+      損害於全菱公司員工郭淑娟等11人及全菱公司會計財務之
       正確性。
 二、案經全菱電梯股份有限公司提起自訴及追加自訴。
     理  由
@@ -256,7 +149,7 @@ function openwin(URL,arguments,width,height)
     交由會計師作帳乙情無訛，且自訴代表人當庭提出101 年11
     月29日自全菱公司傳真予自訴代表人之「全菱公司101 年5
     月勞動節獎金」、「全菱公司101 年6 月端午節獎金」具領
-    清冊資料中，亦含有證人<font color='red'>郭淑娟</font>製表、被告李佶霖覆核之10
+    清冊資料中，亦含有證人郭淑娟製表、被告李佶霖覆核之10
     1 年7 至10月員工薪資資料（見同上本院卷四第81至86頁）
     ，堪認自證10之「全菱公司101 年5 月勞動節獎金」、「全
     菱公司101 年6 月端午節獎金」具領清冊確係被告李佶霖製
@@ -301,27 +194,27 @@ function openwin(URL,arguments,width,height)
       理人。被告李佶霖於100 年間擔任全菱公司董事長時，明
       知全菱公司100 年之端午節獎金僅核發每人1,200 元，亦
       未取得全菱公司員工之同意或授權，在全菱公司內盜用全
-      菱公司員工<font color='red'>郭淑娟</font>、張翰、潘忠良、吳宗儒、鄭張俊傑、
+      菱公司員工郭淑娟、張翰、潘忠良、吳宗儒、鄭張俊傑、
       張修瑋為辦理勞健保所交付與公司之印章，逕自蓋印在不
-      實填載<font color='red'>郭淑娟</font>等6 人各已領款1 萬5,000 元至3 萬3,000
+      實填載郭淑娟等6 人各已領款1 萬5,000 元至3 萬3,000
       元不等之端午節獎金之「全菱公司100 年6 月端午節獎金
-      」具領清冊領款人簽章處，表示全菱公司員工<font color='red'>郭淑娟</font>等6
+      」具領清冊領款人簽章處，表示全菱公司員工郭淑娟等6
       人各已具領1 萬5,000 元至3 萬3,000 元不等之端午節獎
       金之意，而偽造上開屬私文書之具領清冊，並交予記帳業
       者，記帳業者因而記入帳冊。被告李佶霖復於101 年間擔
       任全菱公司經理人時，明知全菱公司101 年之勞動節、端
       午節獎金各僅核發每人1,200 元，亦未取得全菱公司員工
-      之同意或授權，在全菱公司內盜用全菱公司員工<font color='red'>郭淑娟</font>、
+      之同意或授權，在全菱公司內盜用全菱公司員工郭淑娟、
       潘忠良、吳宗儒、吳宸萱、李科瑩、林明豐、張迪鈞、楊
       尚哲、黃俊田、李文忠、楊素倩等11人為辦理勞健保所交
-      付與公司之印章，逕自蓋印在不實填載<font color='red'>郭淑娟</font>等11人各已
+      付與公司之印章，逕自蓋印在不實填載郭淑娟等11人各已
       領款2 萬元至6 萬1,000 元不等之勞動節、端午節獎金之
       「全菱公司101 年5 月勞動節獎金」、「全菱公司101 年
       6 月端午節獎金」具領清冊領款人簽章處，表示全菱公司
-      員工<font color='red'>郭淑娟</font>等11人各已具領2 萬元至6 萬1,000 元不等之
+      員工郭淑娟等11人各已具領2 萬元至6 萬1,000 元不等之
       勞動節、端午節獎金之意，而偽造上開屬私文書之具領清
       冊，並一同交予田乾隆，田乾隆因而記入帳冊等情，此業
-      據證人<font color='red'>郭淑娟</font>、吳宸萱、田乾隆本院審理中具結證述在卷
+      據證人郭淑娟、吳宸萱、田乾隆本院審理中具結證述在卷
       （見同上本院卷四第66至67頁、第68頁反面至69頁、第70
       至75頁），亦為被告李佶霖所自承（見同上本院卷三第
       206 至207 頁；本院卷四第64、69頁反面、78頁反面至79
@@ -374,8 +267,8 @@ function openwin(URL,arguments,width,height)
 參、論罪科刑：
 一、被告李佶霖先後擔任全菱公司之董事長及經理人，為公司法
     上之公司負責人，即為商業會計法上所稱之商業負責人，其
-    先後未經前述<font color='red'>郭淑娟</font>、張翰、潘忠良、吳宗儒、鄭張俊傑、
-    張修瑋等6 人及<font color='red'>郭淑娟</font>、潘忠良、吳宗儒、吳宸萱、李科瑩
+    先後未經前述郭淑娟、張翰、潘忠良、吳宗儒、鄭張俊傑、
+    張修瑋等6 人及郭淑娟、潘忠良、吳宗儒、吳宸萱、李科瑩
     、林明豐、張迪鈞、楊尚哲、黃俊田、李文忠、楊素倩等11
     人之同意或授權，即盜用前述全菱公司員工之印章，擅自蓋
     印在屬商業會計法所稱原始憑證之具領清冊上，前揭具領清
@@ -518,8 +411,8 @@ function openwin(URL,arguments,width,height)
     侵占及違反商業會計法犯行，辯稱：伊僅負責開立全菱公司
     發票給客戶及製作合約書，其餘傳票製作、帳目等會計流程
     均非伊負責，自訴人提出之具領清冊及傳票亦非伊所製，公
-    司之財務會計另有<font color='red'>郭淑娟</font>及助理吳宸萱負責等語。經查：
-一、全菱公司之財務會計另由證人<font color='red'>郭淑娟</font>負責，而前揭100 年端
+    司之財務會計另有郭淑娟及助理吳宸萱負責等語。經查：
+一、全菱公司之財務會計另由證人郭淑娟負責，而前揭100 年端
     午節獎金、101 年勞動節及端午節獎金之具領清冊均係被告
     李佶霖製作，全菱公司之員工印章亦均由被告李佶霖保管，
     被告楊素倩並未參與等節，業據被告李佶霖於本院審理中供
@@ -528,8 +421,8 @@ function openwin(URL,arguments,width,height)
     情之記帳業者依據被告李佶霖交付之具領清冊製作後，記入
     全菱公司帳冊；101 年勞動節及端午節獎金之轉帳傳票，則
     係不知情之證人田乾隆依據被告李佶霖傳真之具領清冊製作
-    後，記入全菱公司帳冊等節，業經認定如前，參以證人<font color='red'>郭淑
-    娟</font>於本院審理中具結證稱：伊於98年3 月至102 年3 月任職
+    後，記入全菱公司帳冊等節，業經認定如前，參以證人郭淑
+    娟於本院審理中具結證稱：伊於98年3 月至102 年3 月任職
     全菱公司會計，工作內容係記公司流水帳，轉帳支出傳票係
     交由記帳業者製作，伊負責公司之支出明細，員工薪資表部
     分係由伊與記帳業者聯繫；楊素倩應係全菱公司之總務，負
@@ -587,86 +480,12 @@ function openwin(URL,arguments,width,height)
 四、故意遺漏會計事項不為記錄，致使財務報表發生不實之結果
     。
 五、其他利用不正當方法，致使會計事項或財務報表發生不實之
-    結果。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10403\25\TPDM1043P.01C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%87%aa&selectedCrmno=000065&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%83%ad%e6%b7%91%e5%a8%9f&sdate=&edate=&page=&searchkw=%e9%83%ad%e6%b7%91%e5%a8%9f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%87%aa%2c65%2c20150325%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%87%aa&jno=65&jdate=1040325&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%87%aa%2c65%2c20150325%2c2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%87%aa&jno=65&jdate=1040325&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%87%aa%2c65%2c20150325%2c2','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%87%aa','65','1040325','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="郭淑娟">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="郭淑娟">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+    結果。
+[*jrecno*]103,自,65,20150325,2
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]自
+[*jno*]65
+[*jdate*]1040325
+[*jcheck*]2

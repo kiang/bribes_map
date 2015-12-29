@@ -1,136 +1,29 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣士林地方法院-刑-100訴121</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣士林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000121&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c121%2c20120316%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=121&jdate=1010316&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c121%2c20120316%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=121&jdate=1010316&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c121%2c20120316%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','121','1010316','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,121</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010316</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣士林地方法院刑事判決　　　　　　　100年度訴字第121號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c121%2c20120316%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=121&jdate=1010316&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000121&selectedCrtid=SLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c121%2c20120316%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=121&jdate=1010316&jcheck=1
+[*裁判字號*]100,訴,121
+[*裁判日期*]1010316
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣士林地方法院刑事判決　　　　　　　100年度訴字第121號
 公　訴　人　臺灣士林地方法院檢察署檢察官
-被　　　告　<font color='red'>林家興
-</font>上列被告因偽造文書等案件，經檢察官提起公訴（99年度偵字第
+被　　　告　林家興
+上列被告因偽造文書等案件，經檢察官提起公訴（99年度偵字第
 13899 號），本院判決如下：
     主  文
-<font color='red'>林家興</font>共同犯踰越門扇、攜帶兇器竊盜罪，累犯，處有期徒刑捌
+林家興共同犯踰越門扇、攜帶兇器竊盜罪，累犯，處有期徒刑捌
 月，又犯附表一所示各罪，均累犯，各處如附表一所示之主刑及
 從刑。應執行有期徒刑貳年陸月，偽造之「朱文儀」署名肆枚沒
 收。其餘被訴部分無罪。
     事  實
-一、<font color='red'>林家興</font>前因違反毒品危害防制條例案件，經臺灣板橋地方法
+一、林家興前因違反毒品危害防制條例案件，經臺灣板橋地方法
     院以96年度簡字第7512號判決處有期徒刑3 月確定，於民國
     97年4 月21日執行完畢。詎其仍不知悔改，與真實年籍姓名
     不詳，綽號「阿慶」之成年男子，基於意圖為自己不法所有
-    之共同竊盜犯意聯絡，於98年4 月11日凌晨，由<font color='red'>林家興</font>駕駛
+    之共同竊盜犯意聯絡，於98年4 月11日凌晨，由林家興駕駛
     「阿慶」所有之車牌號碼不詳之自用小客車，隨意選定，行
     至臺北市○○區○○街45之2 號1 樓宏麟國際科技有限公司
     （下稱宏麟公司）辦公室時，先由「阿慶」持客觀上可作為
-    兇器使用之鐵橇1 把，撬開該處鐵門，再與<font color='red'>林家興</font>共同踰越
+    兇器使用之鐵橇1 把，撬開該處鐵門，再與林家興共同踰越
     前開鐵門，入內竊取HP電腦2 臺、宏碁液晶電視1 臺、宏麟
     公司負責人朱文儀之上海商業儲蓄銀行（下稱上海銀行）信
     用卡（卡號：0000000000000000號）及中國信託商業銀行（
@@ -143,12 +36,12 @@ function openwin(URL,arguments,width,height)
     羅拉、BenQ）、華碩牌手提電腦1 臺、宏麟公司之空白支票
     10張、朱文儀所有之大陸地區駕照、宏麟公司之大小章及存
     摺，及朱文儀家屬所有之身分證、健保卡、台胞證、存摺等
-    物，得手後<font color='red'>林家興</font>僅分得華碩牌手提電腦1 臺、朱文儀之上
+    物，得手後林家興僅分得華碩牌手提電腦1 臺、朱文儀之上
     海銀行信用卡、中國信託商業銀行信用卡及謝玉惠所有荷蘭
     銀行信用卡各1 張，並即於翌日（4 月12日）將分得之贓物
     華碩牌手提電腦持往臺北市○○區○○路附近跳蚤市場路邊
     攤販變賣，得款新臺幣（下同）3,000 元後，供己花用。
-二、<font color='red'>林家興</font>復基於行使偽造私文書及意圖為自己不法所有之詐欺
+二、林家興復基於行使偽造私文書及意圖為自己不法所有之詐欺
     犯意，分別於附表一所示之時間及信用卡特約商店，在消費
     結帳時，持竊得之朱文儀上海銀行信用卡、中國信託銀行信
     用卡刷卡，並於附表一編號一、編號二所示之各次消費時間
@@ -156,12 +49,12 @@ function openwin(URL,arguments,width,height)
     名3 枚及1 枚，表示持卡人朱文儀刷卡簽帳之意，持交予附
     表一編號一、編號二所示特約商店之結帳人員而行使之，使
     各結帳員均誤以為該信用卡乃朱文儀本人所持用結帳，遂同
-    意<font color='red'>林家興</font>以簽帳方式交易，並交付附表一編號1 所載前3 次
+    意林家興以簽帳方式交易，並交付附表一編號1 所載前3 次
     、編號2 所示金額之等值商品，而以上揭方式詐欺取財得逞
     ，並致生損害於持卡人朱文儀及附表一編號1 、2 所示之各
     特約商店。至附表一編號1 所載第4 次及附表一編號3 至編
     號6 之盜刷行為，則因信用卡已無法過卡，而未冒名簽寫簽
-    帳單，亦未詐得財物。嗣員警取得<font color='red'>林家興</font>於98年4 月13日上
+    帳單，亦未詐得財物。嗣員警取得林家興於98年4 月13日上
     午6 時26分許，持朱文儀之中國信託銀行信用卡至臺北縣蘆
     洲市（現改為新北市蘆洲區，下同）永樂街83號全家便利商
     店提款機欲預借現金之錄影畫面（此部分犯行因屬不罰，未
@@ -183,28 +76,28 @@ function openwin(URL,arguments,width,height)
     事人對傳聞證據之處分權，及證據資料愈豐富，愈有助於真
     實發見之理念，且強化言詞辯論主義，使訴訟程序得以順暢
     進行，上開傳聞證據亦均具有證據能力。查本判決以下所引
-    用之書面及言詞陳述之證據能力，被告<font color='red'>林家興</font>對其證據能力
+    用之書面及言詞陳述之證據能力，被告林家興對其證據能力
     均不爭執，並經本院審理時逐一提示，被告迄言詞辯論終結
     前亦未聲明異議，本院審酌該等供述證據之取得過程並無瑕
     疵，與本案待證事實間復具有相當之關聯性，以之為本案證
     據尚無不當，自得採為證據，合先敘明。
 貳、有罪部分：
-一、訊據被告<font color='red'>林家興</font>坦承與綽號「阿慶」之成年男子共同竊盜、
+一、訊據被告林家興坦承與綽號「阿慶」之成年男子共同竊盜、
     並於附表一編號1 、4 所示之時間及信用卡特約商店，持竊
     得之朱文儀上海銀行信用卡刷卡消費之事實，惟矢口否認有
     何附表一編號2 、3 、5 、6 所示之盜刷信用卡犯行，辯稱
     ：伊並未前往附表一編號2 、3 、5 、6 所示之信用卡特約
     商店，因伊已將信用卡交予張明純云云。經查：
     1.竊盜及附表一編號1 、4 部分：
-      被告<font color='red'>林家興</font>與綽號「阿慶」之成年男子共同竊盜、並獨自
+      被告林家興與綽號「阿慶」之成年男子共同竊盜、並獨自
       於附表一編號1 、4 所示之時間及信用卡特約商店，持竊
       得之朱文儀上海銀行信用卡刷卡消費之事實，業經被告於
       本院審理時自白不諱（見本院卷第190 頁、192 頁），並
-      有證人賴寶珠於警詢中之證詞、被告<font color='red'>林家興</font>於附表一編號
+      有證人賴寶珠於警詢中之證詞、被告林家興於附表一編號
       4 信用卡特約商店內監視錄影畫面之翻拍照片1 張、上海
       商業儲蓄銀行信用卡授權交易明細資料1 份（見偵卷第32
       頁）、上海商業儲蓄銀行信用卡中心100 年10月20日上卡
-      字第10000000 87 號函檢附之被告<font color='red'>林家興</font>偽造朱文儀署名
+      字第10000000 87 號函檢附之被告林家興偽造朱文儀署名
       之簽帳單影本3 紙（見本院卷第145 至147 頁）在卷可佐
       ，足徵被告此部分自白屬實，可以採信。
     2.附表一編號2部分：
@@ -213,10 +106,10 @@ function openwin(URL,arguments,width,height)
       冒用紀錄之交易資料1 份及信用卡簽帳單影本1 紙在卷可
       查（見偵卷第33頁以下、本院卷第150 頁）。就該次盜刷
       行為，證人張明純則於警詢中陳稱：98年4 月13日凌晨3
-      時37分，伊和<font color='red'>林家興</font>一同前往台北市○○區○○路1 號「
-      家樂福」，是<font color='red'>林家興</font>持被害人朱文儀所有之中國信託銀行
+      時37分，伊和林家興一同前往台北市○○區○○路1 號「
+      家樂福」，是林家興持被害人朱文儀所有之中國信託銀行
       信用卡盜刷購買手提電腦等語（見偵卷第19頁）；於偵查
-      中仍稱：98年4 月13日當天<font color='red'>林家興</font>要伊載他去很多地方，
+      中仍稱：98年4 月13日當天林家興要伊載他去很多地方，
       當日凌晨3 時37分許有去桂林路1 號「家樂福」，也是要
       買電腦，後來沒有買等語（見偵卷第125 頁）。雖證人張
       明純就該次消費行為究有無實際購得商品乙情，所述略有
@@ -448,17 +341,17 @@ function openwin(URL,arguments,width,height)
       之中國信託銀行及上海銀行信用卡等情，已如前述。證人
       張明純自警詢、偵查及審理中均矢口否認收受被告交付之
       謝玉惠荷蘭銀行信用卡，並於偵查中陳稱：「98年5 月9
-      日下午3 時44分我有和<font color='red'>林家興</font>去桃園縣蘆竹鄉○○路○段
+      日下午3 時44分我有和林家興去桃園縣蘆竹鄉○○路○段
       112 號6 樓歡樂吉遊樂場，是他帶我去，他邀我去那裡打
       電動。」、「當天我先把車子開到停車場，我先上去，他
       說他要去廁所還是幹嘛的我忘了，我去遊樂場約20分鐘他
       都沒有出現，我有辦遊樂場的會員，會員卡上有照片，後
       來我下去停車場打電話給他，再一起離開。」等語（見偵
-      卷第124 頁）。惟證人張明純於警詢則稱：「，是<font color='red'>林家興
-      </font>盜刷（信用卡），因為我有辦該遊樂場之會員卡，是<font color='red'>林家
-      興</font>購買遊戲代幣，要我提供會員資料，才會將代幣存入我
-      的會員卡內。我們一起賭玩<font color='red'>林家興</font>購買遊樂代幣，因為<font color='red'>林
-      家興</font>臨時有事要走，剩下約5000至6000代幣，我就以6000
+      卷第124 頁）。惟證人張明純於警詢則稱：「，是林家興
+      盜刷（信用卡），因為我有辦該遊樂場之會員卡，是林家
+      興購買遊戲代幣，要我提供會員資料，才會將代幣存入我
+      的會員卡內。我們一起賭玩林家興購買遊樂代幣，因為林
+      家興臨時有事要走，剩下約5000至6000代幣，我就以6000
       元賣給其他客人。」等語（見偵卷第16頁）。衡諸證人張
       明純就被告有無進入該遊樂場把玩機臺乙情，證人張明純
       於警詢及偵查中所述不一，已難遽採。況依卷附之桃園縣
@@ -470,14 +363,14 @@ function openwin(URL,arguments,width,height)
       日下午，前往上開遊樂場，自難認被告有何編號1 、2 、
       3 之行使偽造私文書犯行。
     2.附表二編號4部分：
-      證人張明純於警詢陳稱：「是<font color='red'>林家興</font>要購買窗簾，並提供
+      證人張明純於警詢陳稱：「是林家興要購買窗簾，並提供
       1 組信用卡卡號給我，要我至台北縣淡水鎮○○路183 之
-      1 號隆美布料竹圍店，我交給店家確認後，<font color='red'>林家興</font>又叫我
+      1 號隆美布料竹圍店，我交給店家確認後，林家興又叫我
       不要買了，我便問隆美布料竹圍店賴小姐這樣怎麼辦，她
       跟我說沒關係，只要沒向銀行請款均不會扣款；我以前在
       隆美窗簾工作，所以我認識隆美布料竹圍店之賴小姐。」
       等語（見偵卷第20、21頁）；證人張明純於偵查中則改稱
-      ：「我有去（隆美布料店），是我自己去，因為<font color='red'>林家興</font>的
+      ：「我有去（隆美布料店），是我自己去，因為林家興的
       朋友說要做窗簾，是他那個朋友直接跟我聯絡，我之前在
       那間窗簾店工作過，就去幫他問尺寸跟價錢，還跟窗簾店
       拿手刷單，他那個朋友綽號叫阿龍，問完之後隔兩天，我
@@ -487,7 +380,7 @@ function openwin(URL,arguments,width,height)
       刷單交給店長賴淑玲，問她要怎麼處理，她說會計部那邊
       會處理。」等語（見偵卷第126 頁）。證人張明純於本院
       又稱：「我有去隆美布料，那天我要去窗簾店訂窗簾，那
-      天被告<font color='red'>林家興</font>的朋友- 綽號「阿龍」也說要買，過沒幾天
+      天被告林家興的朋友- 綽號「阿龍」也說要買，過沒幾天
       ，我要去窗簾店那邊，他們約我在蘆洲那邊附近的公園，
       之前我有拿刷卡單，我幫他算價格，他有帶一個女的，那
       女的說要刷卡，我打電話去銀行要授權碼，後來銀行要那
@@ -507,13 +400,13 @@ function openwin(URL,arguments,width,height)
       ，被告並未參與，自難認被告有編號4 之詐欺取財未遂犯
       行。
     3.附表二編號5 、6 、7、8部分：
-      證人張明純於警詢陳稱：「我有開車載<font color='red'>林家興</font>至台北市○
+      證人張明純於警詢陳稱：「我有開車載林家興至台北市○
       ○路及永康街口附近下車，我在永康街內吃東西，我不知
-      道<font color='red'>林家興</font>走去哪裡，後來他打電話約在永康街內的公園等
+      道林家興走去哪裡，後來他打電話約在永康街內的公園等
       他，應該是他去盜刷購物。後來沒見他提東西回車上。」
       等語（見偵卷第20頁）；嗣證人張明純於偵查中又稱：「
       98年5 月16日下午8 時30分左右，有去臺北市○○區○○
-      路2 段230 號B1松青超市信義店，是<font color='red'>林家興</font>找我去的，可
+      路2 段230 號B1松青超市信義店，是林家興找我去的，可
       我不知道去那邊幹嘛，他有叫我載他去兩次，都是叫我在
       那邊等一下，他去找朋友，第一次我見他進入松青超市，
       後了我等了一下，他手機打不通，我有去松青超市找他，
@@ -583,7 +476,7 @@ function openwin(URL,arguments,width,height)
 │編號│起訴書附│  時間  │  地點及特約商店  │ 信用卡 │ 金額 │  主     文                     │
 │    │表編號  │        │                  │        │      │                                │
 ├──┼────┼────┼─────────┼────┼───┼────────────────┤
-│1   │1       │98.04.11│台北縣三重市（改制│朱文儀上│21,790│<font color='red'>林家興</font>犯行使偽造私文書罪，累犯，│
+│1   │1       │98.04.11│台北縣三重市（改制│朱文儀上│21,790│林家興犯行使偽造私文書罪，累犯，│
 │    │        │下午3時 │後新北市三重區，下│海銀行信│元    │處有期徒刑拾月，偽造之「朱文儀」│
 │    │        │19分    │同）五華街282號家 │用卡    │      │署名參枚沒收。                  │
 │    │        │        │樂福蘆洲店        │        │      │                                │
@@ -606,13 +499,13 @@ function openwin(URL,arguments,width,height)
 │    │        │        │                  │        │易未完│                                │
 │    │        │        │                  │        │成）  │                                │
 ├──┼────┼────┼─────────┼────┼───┼────────────────┤
-│2   │6       │98.04.13│臺北市○○區○○路│朱文儀中│28,490│<font color='red'>林家興</font>犯行使偽造私文書罪，累犯，│
+│2   │6       │98.04.13│臺北市○○區○○路│朱文儀中│28,490│林家興犯行使偽造私文書罪，累犯，│
 │    │        │上午3時 │1號家樂福桂林店   │國信託商│元    │處有期徒刑捌月，偽造之「朱文儀」│
 │    │        │37 分   │                  │業銀行信│      │署名壹枚沒收。                  │
 │    │        │        │                  │用卡    │      │                                │
 │    │        │        │                  │        │      │                                │
 ├──┼────┼────┼─────────┼────┼───┼────────────────┤
-│3   │8       │98.04.13│臺北市中正區和平西│朱文儀中│24,900│<font color='red'>林家興</font>犯詐欺取財未遂罪，累犯，處│
+│3   │8       │98.04.13│臺北市中正區和平西│朱文儀中│24,900│林家興犯詐欺取財未遂罪，累犯，處│
 │    │        │中午12時│路1段13號B1燦坤3C │國信託商│元（起│有期徒刑陸月。                  │
 │    │        │42分31秒│和平旗艦店        │業銀行信│訴書誤│                                │
 │    │        │及42分56│                  │用卡    │載5,00│                                │
@@ -621,16 +514,16 @@ function openwin(URL,arguments,width,height)
 │    │        │6 時26分│                  │        │      │                                │
 │    │        │）      │                  │        │      │                                │
 ├──┼────┼────┼─────────┼────┼───┼────────────────┤
-│4   │9       │98.04.13│臺北市○○路○段34 │朱文儀上│28,500│<font color='red'>林家興</font>犯詐欺取財未遂罪，累犯，處│
+│4   │9       │98.04.13│臺北市○○路○段34 │朱文儀上│28,500│林家興犯詐欺取財未遂罪，累犯，處│
 │    │        │下午1時 │號1樓佛斯特科技有 │海銀行信│元    │有期徒刑陸月。                  │
 │    │        │48分    │限公司            │        │      │                                │
 │    │        │        │                  │        │      │                                │
 ├──┼────┼────┼─────────┼────┼───┼────────────────┤
-│5   │10      │98.04.13│臺北市○○○路○段 │朱文儀上│500元 │<font color='red'>林家興</font>犯詐欺取財未遂罪，累犯，處│
+│5   │10      │98.04.13│臺北市○○○路○段 │朱文儀上│500元 │林家興犯詐欺取財未遂罪，累犯，處│
 │    │        │下午2時 │52號9樓中華電信信 │海銀行信│      │有期徒刑參月。                  │
 │    │        │41 分   │用卡公用電話      │用卡    │      │                                │
 ├──┼────┼────┼─────────┼────┼───┼────────────────┤
-│6   │11      │98.04.13│新北市○○區○○路│朱文儀上│899元 │<font color='red'>林家興</font>犯詐欺取財未遂罪，累犯，處│
+│6   │11      │98.04.13│新北市○○區○○路│朱文儀上│899元 │林家興犯詐欺取財未遂罪，累犯，處│
 │    │        │下午5時 │200號伍伍伍皮鞋   │海銀行信│      │有期徒刑參月。                  │
 │    │        │23 分   │                  │用卡    │      │                                │
 └──┴────┴────┴─────────┴────┴───┴────────────────┘
@@ -680,86 +573,12 @@ function openwin(URL,arguments,width,height)
 │    │    │        │                  │書誤載│      │          │            │
 │    │    │        │                  │為175,│      │          │            │
 │    │    │        │                  │50元）│      │          │            │
-└──┴──┴────┴─────────┴───┴───┴─────┴──────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWSLD\CRIMINAL\10103\16\SLDM1013G.00A] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000121&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c121%2c20120316%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=121&jdate=1010316&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c121%2c20120316%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=121&jdate=1010316&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c121%2c20120316%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','121','1010316','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="SLD 臺灣士林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林家興">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林家興">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴──┴────┴─────────┴───┴───┴─────┴──────┘
+[*jrecno*]100,訴,121,20120316,1
+[*v_court*]SLD 臺灣士林地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]121
+[*jdate*]1010316
+[*jcheck*]1

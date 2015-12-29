@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣苗栗地方法院-刑-92訴90</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣苗栗地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000090&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%ba%b7%e4%b8%96%e5%84%92&sdate=&edate=&page=&searchkw=%e5%ba%b7%e4%b8%96%e5%84%92&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%ba%b7%e4%b8%96%e5%84%92&sdate=&edate=&page=&searchkw=%e5%ba%b7%e4%b8%96%e5%84%92&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c90%2c20041103%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=90&jdate=931103&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c90%2c20041103%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=90&jdate=931103&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c90%2c20041103%2c1','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','90','931103','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,訴,90</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">931103</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣苗栗地方法院刑事判決　　　　　　　　　　　　　　九十二年度訴字第九０號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c90%2c20041103%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=90&jdate=931103&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000090&selectedCrtid=MLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c90%2c20041103%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=90&jdate=931103&jcheck=1
+[*裁判字號*]92,訴,90
+[*裁判日期*]931103
+[*裁判案由*]貪污
+[*裁判全文*]臺灣苗栗地方法院刑事判決　　　　　　　　　　　　　　九十二年度訴字第九０號
 　　公　訴　人　臺灣苗栗地方法院檢察署檢察官
 　　被　　　告　壬○○
 　　　　　　　　丙○○
@@ -270,7 +163,7 @@ function openwin(URL,arguments,width,height)
 　　足認被告壬○○與被告丙○○於發包時已達成政大公司超額施作之數量應於驗收
 　　時扣除日之共識，則被告壬○○、丙○○何有浮報公共工程之價額及數量之行為
 　　？
-　(三)苗栗縣調查站移送書意旨意旨所載：「及至新任竹南鎮長<font color='red'>康世儒</font>就職（九十一年
+　(三)苗栗縣調查站移送書意旨意旨所載：「及至新任竹南鎮長康世儒就職（九十一年
 　　三月一日）後，方將被告壬○○指使浮報工程價額數量之四百十二萬九千七百零
 　　九元整，全數扣除，免除公帑損失」云云，與事實有嚴重出入。
 　(四)又驗收結算程序既然於九十一年二月二十六日即已用印確定，結論無法改變，被
@@ -303,14 +196,14 @@ function openwin(URL,arguments,width,height)
     　惟依前開判決意旨，本件首先應探究者當係被告壬○○、丙○○二人主觀上有
       無為自已或第三人之不法意圖。
     (二)証人戊○○即政大公司之經理於本院訊問時具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />伊「二期工程」做完以後，約一月份左右，就多做之部分，鎮公所告訴伊稱手
+　　伊「二期工程」做完以後，約一月份左右，就多做之部分，鎮公所告訴伊稱手
 　　　續辦不出來，看是要捐贈，還是要拆回去。伊做完「二期工程」約一個月，伊
 　　　工廠經理侯達源告訴伊該多做納骨櫃，已經有人將骨灰罐放進去，當時尚未請
 　　　款。因為納骨櫃已經做下去了，公所又給我們這樣的回答，我們想儘快請到錢
 　　　，而且多做部分去拆，會有損害，況員工說要如何拆？拆，不就要去打架，因
       為民眾已經把骨灰放進去納骨櫃了，如果真的去拆，會引起軒然大波。因此，
       公司於二月份左右決定將多作之納骨櫃捐贈給鎮公所。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />伊確於九十一年二月底拜訪過竹南鎮公所，伊係去拜訪鎮長，跟他餞行，因為
+　　伊確於九十一年二月底拜訪過竹南鎮公所，伊係去拜訪鎮長，跟他餞行，因為
 　　　他要卸任了，一方面請教他就以前捐贈部分有無補償的方法。鎮長即被告壬○
 　　　○回稱：既然已經捐贈了，就捐贈了，會想辦法，但是不敢保證。伊會又去找
 　　　鎮長談補償事宜，不過是順口問的，如果可以得到補償的話，不是更好。
@@ -321,25 +214,25 @@ function openwin(URL,arguments,width,height)
 　　等語，誠屬可信，亦為情理之常。公訴人前開所提証據(四)、(五)即無法認定被告壬
 　　○○、丙○○有何不法之意圖。
 　(三)證人丁○○即長川公司之設計、監工於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />伊公司與竹南鎮公所有過合作事宜，一件是「增設工程」、一件是「二期工程
+　　伊公司與竹南鎮公所有過合作事宜，一件是「增設工程」、一件是「二期工程
 　　　」。施作當中要參與監工及驗收。「增設工程」單價是參考其他案子，數量是
 　　　依照業主即前鎮長被告壬○○的需求。製作「增設工程」工程預算書、前開計
 　　　算表之前，伊有去現場看過，因為伊公司有做過「二期工程」，伊知道位置。
 　　　確實是被告壬○○要伊將做多做部分設計在「增設工程」裡面。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />因為「二期工程」包商有多作，可是沒有算錢，後來伊公司又做「增設工程」
+　　因為「二期工程」包商有多作，可是沒有算錢，後來伊公司又做「增設工程」
 　　　案子，但是老闆說不知道包商是要拆，還是送給公所，為了怕公所開天窗，所
 　　　以我們就把「二期工程」多做部分設計在「增設工程」裡面去，如果包商有拆
 　　　走的話，就讓承包「增設工程」的包商做，如果沒有拆走的話，設計書裡面的
 　　　數量可以挪到其他地方去做。「二期工程」多做部分，包商沒有拆走，「增設
 　　　工程」的包商也沒有將設計書裡面的數量挪到別地方去做，伊直接將合約書的
 　　　資料當做驗收資料。多做的部分並不能納入「增設工程」驗收。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />後來「增設工程」驗收不是伊去的，係己○○去驗收的，但驗收紀錄是伊打字
+　　後來「增設工程」驗收不是伊去的，係己○○去驗收的，但驗收紀錄是伊打字
 　　　的。驗收結果文字記載部分是：「二期工程」的施作，不能納入「增設工程」
 　　　的驗收。做驗收紀錄時，伊知道「二期工程」包商沒有拆，「增設工程」包商
 　　　沒有施作。伊在做「增設工程」驗收資料時，被告壬○○並無指示伊將多做部
 　　　分列入「增設工程」範圍內。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />就業務實務來說，伊認為包商把沒有做的部分扣除也可以報完工。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />「增設工程」設計時間是九十一年一月十五日到同年月二十九日。台灣苗栗地
+　　就業務實務來說，伊認為包商把沒有做的部分扣除也可以報完工。
+　　「增設工程」設計時間是九十一年一月十五日到同年月二十九日。台灣苗栗地
 　　　方法院檢察署九十一年他字六０二號卷第二十七頁所附「工程材料規格說明書
 　　　」文字記載「上列數量因現場而變更時，須排列至其他位置以補足數量」，係
 　　　針對「二期工程」多做部分，因為那時不知道「二期工程」包商是要拆，還是
@@ -355,12 +248,12 @@ function openwin(URL,arguments,width,height)
   作時之解決方法等語，應屬可信，亦難認被告壬○○有何不法意圖，即公訴人上開
   所提証據(一)、(二)亦無法認定被告壬○○、丙○○有何不法之意圖。
 　(三)證人癸○○即竹南鎮公所建設科土木技士於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />伊有參與「增設工程」驗收，伊等驗收是根據合約書、竣工圖去現場看，用來
+　　伊有參與「增設工程」驗收，伊等驗收是根據合約書、竣工圖去現場看，用來
 　　　做對照、抽驗，抽驗是伊本人會同監驗、會驗。竣工圖是設計公司提供，包含
 　　　合約書、竣工圖、決算書。驗收時伊等看到情形就是：「二期工程」已經施作
 　　　的部分，不在「增設工程」包商做的部分，全部都刪除，扣除「二期工程」多
 　　　做部分不能列入後就結案掉了。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />設計公司所提出之竣工圖圖示部分，包含「二期工程」已經多做部分。設計公
+　　設計公司所提出之竣工圖圖示部分，包含「二期工程」已經多做部分。設計公
 　　　司或承辦單位在驗收之前，並無告知伊「二期工程」多施作部分要惕除，是伊
 　　　自己比對出來的，伊本來就知道「二期工程」有部分不計價，因為「二期工程
 　　　」伊有參與驗收，所以伊知道有部分不計價。本次驗收時他們又把它放入計價
@@ -369,28 +262,28 @@ function openwin(URL,arguments,width,height)
 　　　收之前，事先提醒伊，被告壬○○亦無義務在伊驗收之前，事先告知或提醒伊
 　　　在「增設工程」裡面有「二期工程」多做部分。在進行驗收前、中、後，被告
 　　　壬○○亦無要伊把「二期工程」多做部分列入「增設工程」驗收範圍之情形。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />九十一年二月二十七日會議，係伊接獲通知說要開會，是被告壬○○提出「二
+　　九十一年二月二十七日會議，係伊接獲通知說要開會，是被告壬○○提出「二
 　　　期工程」多做部分能否付款。開會過程別人講的伊記不得了，伊有講說程序上
 　　　不能符合，後來沒有結果。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />伊進行增設工程驗收時，判別何者為二期工程多做部分，有困難，但是伊是以
+　　伊進行增設工程驗收時，判別何者為二期工程多做部分，有困難，但是伊是以
 　　　現場納骨櫃裡面有放納骨罈的我們就剔除，伊就認為那是多做的部分。
 　　（以上參見本院九十二年五月三十日訊問筆錄）
   (四)證人甲○○即竹南鎮公所政風室主任於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />伊有參與「增設工程」驗收工程驗收紀錄，伊當天是與主計主任、承包商、證
+　　伊有參與「增設工程」驗收工程驗收紀錄，伊當天是與主計主任、承包商、證
   　　人癸○○一起去現場抽查，發現有「二期工程」多做部分納入「增設工程」決
   　　算部分，而且當場海南公司參與驗收的人也承認不是他們施作的，伊等把多做
   　　部分扣除，再報結算。庭上之証人侯達源有主動提出「二期工程」多做部分之
   　　問題。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />參與驗收所依據的竣工圖、決算書等資料，有包含「二期工程」業已施作部分
+　　參與驗收所依據的竣工圖、決算書等資料，有包含「二期工程」業已施作部分
 　　　，且設計公司、承辦單位參與驗收當時、或之前，並無告知伊。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />驗收完第二天即是二月二十七日召開會議，會議是由被告壬○○召開，被告壬
+　　驗收完第二天即是二月二十七日召開會議，會議是由被告壬○○召開，被告壬
 　　　○○要求與會者提供解決的意見，參與驗收人員、財政科長、主任秘書討論多
 　　　做部分是否應該付款，討論過程中伊與証人癸○○均主張不行付款，因為不是
 　　　海南公司做的。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />九十一年二月二十六日辦理驗收當天，被告壬○○並無指示伊要將「二期工程
+　　九十一年二月二十六日辦理驗收當天，被告壬○○並無指示伊要將「二期工程
 　　　」多做部分列入「增設工程」驗收。
 　（以上參見本院九十二年五月三十日訊問筆錄）
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />伊驗收時發現合約內應施作之納骨櫃竟約有半數在開標前即供民眾放置骨灰罐
+　　伊驗收時發現合約內應施作之納骨櫃竟約有半數在開標前即供民眾放置骨灰罐
 　　　。（參見台灣苗栗地方法院檢察署九十一年他字六０二號卷第一二二頁）
 　綜上証人癸○○、甲○○二人之証詞：
 　　　　　1.在進行驗收前、中、後，被告壬○○亦無要伊把「二期工程」多做部分
@@ -416,15 +309,15 @@ function openwin(URL,arguments,width,height)
 　，又如何可究稱被告壬○○、丙○○主觀確有不法之意圖。公訴人前開所提之証據
 　均無法認定被告壬○○、丙○○有何不法之意圖。
   (五)被告丙○○於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />伊確承包過竹南鎮公所「增設工程」工程，該工程合約書應該要做約七、八百
+　　伊確承包過竹南鎮公所「增設工程」工程，該工程合約書應該要做約七、八百
   　　個納骨櫃。至於估價單上單就一體成型三十型骨灰櫃的就有一千多個，是合約
   　　上比較多，伊沒有做那麼多個。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />「二期工程」業已施作部分被剔除，本來就不是伊做的，伊之前就有向被告壬
+　　「二期工程」業已施作部分被剔除，本來就不是伊做的，伊之前就有向被告壬
   　　○○報備過了，因為伊得標以後，當天伊有去現場看，合約書記載的數量，某
   　　部分就已經有人做好了，然後伊就去公所找秘書即証人庚○○，他有去向被告
   　　壬○○報告，因為被告壬○○當天有告訴伊，他說有人做就有人做，你只做你
   　　的部分就好了。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />至於與合約書上記載的部分不符，係他們就指示伊這樣，伊領伊的錢就好了。
+　　至於與合約書上記載的部分不符，係他們就指示伊這樣，伊領伊的錢就好了。
   　　為何驗收部分竣工圖還包含「二期工程」多做部分，要問設計公司。完工聲請
   　　驗收時，關於施工數量伊並無將「二期工程」多出的部分一併列入計算，被告
   　　壬○○也無叫伊將「二期工程」多施作的部分一起列入計算，被告壬○○亦無
@@ -442,7 +335,7 @@ function openwin(URL,arguments,width,height)
   報的驗收，而且伊也沒有全部請款，伊沒有請那麼多錢，伊只是說完工了，可以來
   驗收了。伊只是單純做工而已，伊什麼都不知道等語，誠屬可信。
   (六)證人侯達源即政大公司是負責人於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />伊公司於九十年間有施做「二期工程」，並已完工，台灣苗栗地方法院檢察署
+　　伊公司於九十年間有施做「二期工程」，並已完工，台灣苗栗地方法院檢察署
   　　九十一年他字第六０二號卷第五九頁之切結書，即係該工程合約書範圍以外多
   　　施作的納骨櫃要贈與給鎮公所，納骨櫃實際數量伊不知道，大約價值三、四百
   　　萬元。當時是竹南鎮公所民政科主辦葉榮民先生要伊多做，據伊瞭解係做得不
@@ -451,12 +344,12 @@ function openwin(URL,arguments,width,height)
   　　部分數量太多，而且也不符合變更設計。贈與當然是很不甘願，也有想過要申
   　　訴，但是申訴時間很長，伊要發年終獎金，為了想領工程款就想說贈予好了。
   　　捐贈日期係九十一年二月五日。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />「二期工程」約於九十一年一月底驗收通過，所請得之工程款並無包含多施作
+　　「二期工程」約於九十一年一月底驗收通過，所請得之工程款並無包含多施作
 　　　的部分。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />因為多施做納骨櫃部分，有的裡面已經有放納骨罈，如果要移走的話，可能要
+　　因為多施做納骨櫃部分，有的裡面已經有放納骨罈，如果要移走的話，可能要
 　　　請人來做法事，程序很麻煩，而且已經使用過的納骨櫃若要再賣也不好賣，而
 　　　且我也在做功德吧！所以多做部分沒付錢，伊也沒有拆走。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />伊並無向被告壬○○表示希望能彌補超額施作部分，約四百多萬的損失。
+　　伊並無向被告壬○○表示希望能彌補超額施作部分，約四百多萬的損失。
 　（以上參見本院九十二年五月三十日訊問筆錄）
   依上所述，亦足認前揭被告壬○○所稱政大公司捐贈切結係於「增設工程」設計之
   後，被告壬○○基於任期將滿，為履行對鎮民之承諾，使民眾得對其先人靈位遺骨
@@ -465,12 +358,12 @@ function openwin(URL,arguments,width,height)
   補足數量」，作為日後避免納骨櫃重疊施作時之解決方法等語，足認實在。而難認
   被告丙○○與被告壬○○有何共同浮報價額、數量之犯意聯絡。
 　(七)證人乙○○即竹南鎮公所主任秘書於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />九十一年二月二十七日那天會議是陳秘書通知的，他說是鎮長即被告壬○○要
+　　九十一年二月二十七日那天會議是陳秘書通知的，他說是鎮長即被告壬○○要
 　　　開這個會，是在會議室由被告壬○○主持的會議，討論的事情是納骨櫃的問題
 　　　，內容我不是很瞭解，後來是經過證人癸○○報告出來，政風主任甲○○也表
 　　　示拒絕付款就「二期工程」多做的部分。後來會議並沒有結果。被告壬○○也
 　　　沒有講什麼，大家都沒有辦法，坐在那邊一段時間會議就結束了。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告壬○○在會議上並無講要海南公司冒領工程款轉交政大公司，也無給伊等
+　　被告壬○○在會議上並無講要海南公司冒領工程款轉交政大公司，也無給伊等
 　　　很大的壓力要配合辦理。
 　（以上參見本院九十二年五月三十日訊問筆錄）
 　由上可知，被告壬○○既在會議上並無講要海南公司冒領工程款轉交政大公司，也
@@ -481,12 +374,12 @@ function openwin(URL,arguments,width,height)
 　等語，應係情理之常。豈僅因被告壬○○召開此一會議，即轉稱被告壬○○原確有
 　與被告丙○○共同浮報價額、數量之犯意聯絡。
 　(八)證人庚○○即竹南鎮公所行政秘書於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />於九十一年二月二十七日被告壬○○召開會議中，被告壬○○確有問到說海南
+　　於九十一年二月二十七日被告壬○○召開會議中，被告壬○○確有問到說海南
 　　　公司先被扣款的錢能否發給海南公司。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />鎮公所組成工程驗收團隊，係根據竣工報告表，會同有關單位，簽到主任秘書
+　　鎮公所組成工程驗收團隊，係根據竣工報告表，會同有關單位，簽到主任秘書
 　　　那邊代理鎮長簽收辦理驗收。人選是主計、財政、政風三個單位，特定驗收人
 　　　則是各單位派人，不是由我決定的。該驗收團隊的組成並沒有經過被告裁定。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />被告壬○○並無指示伊要將「二期工程」增設部分列入「增設工程」驗收範圍
+　　被告壬○○並無指示伊要將「二期工程」增設部分列入「增設工程」驗收範圍
 　　　。
 　（以上參見本院九十二年五月三十日訊問筆錄）
 　是即，拒絕依「增設工程」原竣工圖驗收之証人癸○○、甲○○本即於「二期工
@@ -495,18 +388,18 @@ function openwin(URL,arguments,width,height)
 　何指示驗收人員之狀態下，定當明瞭「增設工程」之驗收結果，而依經驗情理之常
 　，又如何可究稱被告壬○○、丙○○主觀確有不法之意圖。
 　(九)證人己○○即長川公司負責人於本院訊問中具結証稱：
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />竹南鎮公所「二期工程」、「增設工程」是伊公司所設計，施工現場伊均有去
+　　竹南鎮公所「二期工程」、「增設工程」是伊公司所設計，施工現場伊均有去
 　　　看過該「增設工程」係伊去驗收的，驗收時，竣工圖、相關決算書是伊公司所
 　　　提出的，該竣工圖確包含政大公司之前已經施作完畢部分，是被告壬○○要求
 　　　伊公司將政大公司已經施作部分之數量又再設計到「增設工程」設計書。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />伊不知道承包商（即政大公司）有捐贈的事情，鎮公所相關人員也沒有告訴伊
+　　伊不知道承包商（即政大公司）有捐贈的事情，鎮公所相關人員也沒有告訴伊
 　　　。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />「增設工程」驗收時伊有去現場，那天驗收時，伊有主動稱竣工圖要重新做過
+　　「增設工程」驗收時伊有去現場，那天驗收時，伊有主動稱竣工圖要重新做過
 　　　，因為有部分納骨櫃是「二期工程」所做的，且業有民眾進塔使用，惟因為已
 　　　經排定驗收了，且實務上來說竣工圖與實際不符的話，可以修正竣工圖，要不
 　　　要驗收就看業主，所以本件沒有重新做過竣工圖以後再重新驗收。不過最後結
 　　　案的竣工圖是有修正，已符合現狀的。
-　　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />當時「二期工程」已施作部分，設計在「增設工程」內，係因為伊等怕公所開
+　　當時「二期工程」已施作部分，設計在「增設工程」內，係因為伊等怕公所開
 　　　天窗，被告壬○○要伊設計進去，伊有向被告壬○○反應「二期工程」多做部
 　　　分沒有搬出去，他要伊跟政大溝通看看，讓「增設工程」的包商能夠做下去。
 　（以上參見本院九十二年五月三十日訊問筆錄）
@@ -548,86 +441,11 @@ function openwin(URL,arguments,width,height)
 察官收受判決正本之日期為準。
                                     書  記  官  劉  秋  雯
 中　　　華　　　民　　　國　　　九十三　　　年　　　十一　　月　　三　　日
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\OK\LAWMLD\CRIMINAL\9311\03\MLDM93B3.009] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000090&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%ba%b7%e4%b8%96%e5%84%92&sdate=&edate=&page=&searchkw=%e5%ba%b7%e4%b8%96%e5%84%92&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%ba%b7%e4%b8%96%e5%84%92&sdate=&edate=&page=&searchkw=%e5%ba%b7%e4%b8%96%e5%84%92&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c90%2c20041103%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=90&jdate=931103&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c90%2c20041103%2c1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=90&jdate=931103&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c90%2c20041103%2c1','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','90','931103','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="MLD 臺灣苗栗地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="康世儒">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="康世儒">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]92,訴,90,20041103,1
+[*v_court*]MLD 臺灣苗栗地方法院
+[*v_sys*]M
+[*jyear*]92
+[*jcase*]訴
+[*jno*]90
+[*jdate*]931103
+[*jcheck*]1

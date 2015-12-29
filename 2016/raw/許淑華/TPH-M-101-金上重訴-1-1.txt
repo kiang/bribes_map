@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101金上重訴1</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共29
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=29&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=1&jdate=1020930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=1&jdate=1020930&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4','1','1020930','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,金上重訴,1</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020930</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">證券交易法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　101年度金上重訴字第1號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=1&jdate=1020930&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=1&jdate=1020930&jcheck=1
+[*裁判字號*]101,金上重訴,1
+[*裁判日期*]1020930
+[*裁判案由*]證券交易法
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　101年度金上重訴字第1號
 上　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　黃望修
 選任辯護人　吳雨學律師
@@ -267,10 +160,10 @@ function openwin(URL,arguments,width,height)
     公開發行公司取得或處分資產處理準則」第9條第1項第3款
     之規定，被告石溪岸旋再與陳冠宇聯繫，希由遠見事務所代
     為提供第2份鑑價報告，陳冠宇即指示遠見事務所總經理陳
-    金蟬，由遠見事務所業務<font color='red'>許淑華</font>聯繫台欣不動產估價師事務
+    金蟬，由遠見事務所業務許淑華聯繫台欣不動產估價師事務
     所（下稱：台欣事務所）負責人楊尚泓，並由遠見事務所協
     理陳國章指派估價人員李爾清代為製作鑑價報告，96年7月1
-    8日，<font color='red'>許淑華</font>即以台欣事務所名義，以15萬元之代價向陳建
+    8日，許淑華即以台欣事務所名義，以15萬元之代價向陳建
     忠報價，惟李爾清係遠見事務所臺中分公司之實習生，鑑價
     當天，李爾清始臨時由臺中趕赴臺北後，即由陳國章提供翁
     慶儒製作之第1份鑑價報告選定標的，交由李爾清進行鑑價
@@ -383,7 +276,7 @@ function openwin(URL,arguments,width,height)
     員、製作建碁大樓估價報告初稿）、證人張馨友（遠見事務
     所員工）、證人楊尚泓（台欣事務所負責人）、證人楊嘉蕙
     （宏遠證券公司副理）、證人蔡坤杰（日升事務所負責人）
-    、證人張婷鈞（遠見事務所業務助理）、證人<font color='red'>許淑華</font>（遠見
+    、證人張婷鈞（遠見事務所業務助理）、證人許淑華（遠見
     事務所業務經理）、證人陳金蟬（遠見事務所業務部總經理
     ）、證人陳冠宇（遠見事務所負責人兼總經理）、證人簡琇
     玲（吳瑞榮建築師之妻）、證人李爾清（遠見事務所估價人
@@ -1189,9 +1082,9 @@ function openwin(URL,arguments,width,height)
     則為15億325萬3907元。其後，因中華徵信所並未正式提出
     鑑價報告，被告石溪岸為符合相關規定，旋與陳冠宇聯繫，
     希由遠見事務所代為介紹另一家公司出具鑑價報告，陳冠宇
-    即指示遠見事務所總經理陳金蟬，由遠見事務所業務<font color='red'>許淑華
-    </font>聯繫台欣事務所楊尚泓，並由遠見事務所協理陳國章指派估
-    價人員李爾清代為製作鑑價報告，96年7月18日<font color='red'>許淑華</font>即以
+    即指示遠見事務所總經理陳金蟬，由遠見事務所業務許淑華
+    聯繫台欣事務所楊尚泓，並由遠見事務所協理陳國章指派估
+    價人員李爾清代為製作鑑價報告，96年7月18日許淑華即以
     台欣事務所名義，以15萬元之代價向陳建忠報價，因李爾清
     係遠見事務所臺中分公司之實習生，鑑價當天李爾清臨時由
     臺中趕赴臺北後，即由陳國章提供翁慶儒製作之第一份鑑價
@@ -1202,7 +1095,7 @@ function openwin(URL,arguments,width,height)
     15億325萬3907元及14億8476萬1034元之不動產估價報告，
     遠見事務所事後僅從15萬元之鑑價費中，支付楊尚泓2萬100
     0元之費用。此部分之事實，業據證人陳建忠、鄭雅麗、翁
-    慶儒、吳泰和、陳冠宇、陳金蟬、<font color='red'>許淑華</font>、楊尚泓、李爾清
+    慶儒、吳泰和、陳冠宇、陳金蟬、許淑華、楊尚泓、李爾清
     、陳國章等人於偵訊或原審審理時證述屬實，並有陽明海運
     公司96.6.19「購買臺北資訊大樓有關不動產估價事宜」簽
     核單、事業開發部簽呈、中華徵信估價師事務所96.6.14出
@@ -1531,12 +1424,12 @@ function openwin(URL,arguments,width,height)
     信所不用出報告？）沒有，他沒有這樣跟我講」等語（見原
     審卷(三)第95頁）。又證人楊尚泓亦於偵訊時證稱：「（問：
     你是否認識...陳建忠...等人，交往關係為何？）...當初
-    是由遠見事務所的<font color='red'>許淑華</font>經理，介紹1件陽明海運公司委託
+    是由遠見事務所的許淑華經理，介紹1件陽明海運公司委託
     的不動產估價案件給我，我才知道陽明海運公司的承辦人姓
     陳，應該就是陳建忠，不過我不曾電話聯繫或跟他見過面..
     .（問：...就本大樓進行估價作業過程中，曾否與陽明海運
     公司相關承辦人員接洽聯繫？）從來沒有，相關的接洽聯繫
-    業務，都是透過遠見事務所的<font color='red'>許淑華</font>經理在處理，我只是負
+    業務，都是透過遠見事務所的許淑華經理在處理，我只是負
     責專業的估價部分...（問：你承攬本大樓估價作業期間，
     有無任何人員要求你高估本大樓之估價金額？）沒有，因為
     比較價格是參考比較標的的實際成交價格得出，而且市場上
@@ -1685,38 +1578,38 @@ function openwin(URL,arguments,width,height)
     問時，伊乃告以該期中照會估價與市場行情有差距，遂請中
     華徵信所再行核算等語，尚稱有據。
   (五)關於陽明海運公司委託遠見事務所、台新事務所估價之事，
-    證人陳冠宇於偵訊時證稱：「（問：何以<font color='red'>許淑華</font>身為遠見事
+    證人陳冠宇於偵訊時證稱：「（問：何以許淑華身為遠見事
     務所員工，竟會替台欣事務所出具鑑價報價單？）應該是當
     時陽明海運公司需要第2家估價公司，所以請我們介紹另一
     家鑑價公司，做同案的估價報告，當時幫助陽明海運公司介
-    紹另一家公司的承辦人是<font color='red'>許淑華</font>，<font color='red'>許淑華</font>當時可能是代表遠
-    見公司與台欣公司聯絡，所以<font color='red'>許淑華</font>直接就代表台欣公司與
+    紹另一家公司的承辦人是許淑華，許淑華當時可能是代表遠
+    見公司與台欣公司聯絡，所以許淑華直接就代表台欣公司與
     陽明海運公司聯絡...我不太清楚」等語（見98年度他字第
     7625號卷(五)第156頁）。而證人陳金蟬亦於偵訊時證稱：「
-    （問：何以<font color='red'>許淑華</font>會聯繫陽明海運公司陳建忠？）...據陳
+    （問：何以許淑華會聯繫陽明海運公司陳建忠？）...據陳
     冠宇表示，陽明海運公司希望遠見事務所能幫他們推薦一家
     不動產估價師事務所，我曾打電話給台住及高光陸經營的不
     動產估價師事務所，這2家事務所當時也在忙不良債權的估
-    價案，沒有多餘的時間可以承作，所以我就要<font color='red'>許淑華</font>問台欣
+    價案，沒有多餘的時間可以承作，所以我就要許淑華問台欣
     事務所的負責估價師楊尚泓，詢問楊尚泓有無意願承作...
-    楊尚泓到現場勘查後，就回覆<font color='red'>許淑華</font>表示願意承作，<font color='red'>許淑華
-    </font>就向陽明海運公司報價，聯繫的人就是陽明海運公司的陳建
+    楊尚泓到現場勘查後，就回覆許淑華表示願意承作，許淑華
+    就向陽明海運公司報價，聯繫的人就是陽明海運公司的陳建
     忠...（問：不動產估價業界，事務所間進行『複委託』是
     否為常態？）『複委託』在不動產估價業界是常態...都會
     找同業幫忙」等語（見98年度他字第7625號卷(五)第184-185
-    頁）。又證人<font color='red'>許淑華</font>亦於偵訊時證稱：「（問：陽明海運公
+    頁）。又證人許淑華亦於偵訊時證稱：「（問：陽明海運公
     司委託遠見事務所進行不動產估價，你有無負責部分業務？
     何人交辦給你？）有的，有一天總經理陳金蟬跟我說...要
     我去找台欣事務所楊尚泓...同時也把陽明海運公司陳建忠
     的電話給我」等語（見98年度他字第7625號卷(五)第166頁）
     。另證人楊尚泓亦於偵訊時證稱：「（問：你是否認識...
     陳建忠...等人，交往關係為何？）...當初是由遠見事務所
-    的<font color='red'>許淑華</font>經理，介紹1件陽明海運公司委託的不動產估價案
+    的許淑華經理，介紹1件陽明海運公司委託的不動產估價案
     件給我，我才知道陽明海運公司的承辦人姓陳，應該就是陳
     建忠，不過我不曾電話聯繫或跟他見過面...（問：...就本
     大樓進行估價作業過程中，曾否與陽明海運公司相關承辦人
     員接洽聯繫？）從來沒有，相關的接洽聯繫業務，都是透過
-    遠見事務所的<font color='red'>許淑華</font>經理在處理，我只是負責專業的估價部
+    遠見事務所的許淑華經理在處理，我只是負責專業的估價部
     分...（問：你承攬本大樓估價作業期間，有無任何人員要
     求你高估本大樓之估價金額？）沒有，因為比較價格是參考
     比較標的的實際成交價格得出，而且市場上都有揭露這方面
@@ -1735,12 +1628,12 @@ function openwin(URL,arguments,width,height)
     、17日有寄期中照會過來，我沒有處理中華徵信所期中照會
     事宜，石溪岸有跟中華徵信所聯絡，之後告訴我中華徵信所
     不出報告，石溪岸有跟遠見聯絡，有請遠見另外再推薦一家
-    鑑價公司，後來是台欣之<font color='red'>許淑華</font>主動跟我聯絡要洽辦內湖大
+    鑑價公司，後來是台欣之許淑華主動跟我聯絡要洽辦內湖大
     樓辦理鑑價事情，我把這個訊息經過石溪岸同意後回請台欣
     來承辦建碁大樓之鑑價事宜」等語（見原審卷(三)第105頁）
     。綜此，由前述證人之證稱，可知係因中華徵信所未提出估
     價報告，陽明海運公司缺少1份估價報告，遂由被告石溪岸
-    委請遠見事務所陳冠宇代為尋找，當時遠見事務所<font color='red'>許淑華</font>雖
+    委請遠見事務所陳冠宇代為尋找，當時遠見事務所許淑華雖
     曾聯繫台住及高光陸經營之不動產估價師事務所，卻均因事
     忙而婉拒，其後台欣事務所楊尚泓表示願意承攬，才由台欣
     事務所出具該第2份估價報告，遠見事務所或台欣事務所楊
@@ -2474,86 +2367,12 @@ function openwin(URL,arguments,width,height)
 刑事訴訟法第三百七十七條至第三百七十九條、第三百九十三條
 第一款規定，於前項案件之審理，不適用之。
                                     書記官  李文傑
-中    華    民    國   102    年    10    月    8     日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10209\30\TPHM1029U.04R] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共29
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=29&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%a8%b1%e6%b7%91%e8%8f%af&sdate=&edate=&page=&searchkw=%e8%a8%b1%e6%b7%91%e8%8f%af&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=1&jdate=1020930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=1&jdate=1020930&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4%2c1%2c20130930%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e9%87%91%e4%b8%8a%e9%87%8d%e8%a8%b4','1','1020930','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許淑華">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許淑華">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   102    年    10    月    8     日
+[*jrecno*]101,金上重訴,1,20130930,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]金上重訴
+[*jno*]1
+[*jdate*]1020930
+[*jcheck*]1

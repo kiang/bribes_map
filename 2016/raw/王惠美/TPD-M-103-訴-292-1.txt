@@ -1,138 +1,31 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-103訴292</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000292&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c292%2c20150924%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=292&jdate=1040924&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c292%2c20150924%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=292&jdate=1040924&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c292%2c20150924%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','292','1040924','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,292</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040924</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誣告</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　103年度訴字第292號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c292%2c20150924%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=292&jdate=1040924&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000292&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c292%2c20150924%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=292&jdate=1040924&jcheck=1
+[*裁判字號*]103,訴,292
+[*裁判日期*]1040924
+[*裁判案由*]誣告
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　103年度訴字第292號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
-被　　　告　<font color='red'>王惠美
-</font>選任辯護人　羅瑞洋律師
+被　　　告　王惠美
+選任辯護人　羅瑞洋律師
 上列被告因誣告案件，經檢察官提起公訴（102年度偵字第24512
 號），本院判決如下：
     主  文
-<font color='red'>王惠美</font>意圖他人受刑事處分，向該管公務員誣告，處有期徒刑參
+王惠美意圖他人受刑事處分，向該管公務員誣告，處有期徒刑參
 月。
     事  實
-一、<font color='red'>王惠美</font>係址設臺北市○○區○○○路0段00號4樓之5大南通
+一、王惠美係址設臺北市○○區○○○路0段00號4樓之5大南通
     運股份有限公司（下稱大南公司）負責人，於民國101年4月
     間，代表大南公司與經營元賀通運有限公司（址設臺北市○
     ○區○○路00號4樓，下稱元賀公司）之謝守諄口頭約定，
     將大南公司所有之車牌號碼000-00號營業遊覽大客車（下稱
     系爭遊覽車）及車牌號碼000-00號營業遊覽大客車，以新臺
-    幣（下同）480萬元之價格，一併出售予元賀公司，<font color='red'>王惠美
-    </font>並告知謝守諄該808-CC號車於該月3日已送至新竹市○○區
+    幣（下同）480萬元之價格，一併出售予元賀公司，王惠美
+    並告知謝守諄該808-CC號車於該月3日已送至新竹市○○區
     ○○路000巷000號之修車廠（即嘉偉國際股份有限公司，下
     稱嘉偉公司）維修，尚未取回。嗣於101年4月16日下午，因
     元賀公司須用車，謝守諄即請新到職之司機林建仁依址前往
-    嘉偉修車廠取車，並於當日開始載運旅客。詎<font color='red'>王惠美</font>明知上
+    嘉偉修車廠取車，並於當日開始載運旅客。詎王惠美明知上
     情，竟於101年4月18日，意圖使林建仁受刑事處分，而使不
     知情之李汶諭前往臺北市政府警察局大安分局安和路派出所
     誣告林建仁侵占808-CC號車，經該分局將林建仁、謝守諄以
@@ -142,7 +35,7 @@ function openwin(URL,arguments,width,height)
 二、案經謝守諄訴由臺灣臺北地方法院檢察署檢察官偵查起訴。
     理  由
 壹、程序部分：
-一、查本案被告<font color='red'>王惠美</font>所為不利於己之陳述，並無出於強暴、脅
+一、查本案被告王惠美所為不利於己之陳述，並無出於強暴、脅
     迫、利誘、詐欺、疲勞訊問、違法羈押或其他不正之方法，
     亦非違反法定障礙事由經過期間不得訊問或告知義務之規定
     而為，依刑事訴訟法第156條第1項、第158條之2規定，應認
@@ -192,27 +85,27 @@ function openwin(URL,arguments,width,height)
       卷第27至30、41、56頁、偵字卷第4至5、27頁及本院卷第
       75至76、89至93頁），並經證人即嘉偉公司負責人蘇武東
       迭於偵訊及本院審理時具結證稱：「（提示林建仁相片）
-      我認識此人，他是<font color='red'>王惠美</font>公司的司機。他去我那邊保養、
+      我認識此人，他是王惠美公司的司機。他去我那邊保養、
       修理車子2、3次。本案之前他就已經以大南公司司機的身
       份開車子到我那邊1、2次。這2、3次加起來的時間有半年
       了。前1、2次他來我都是對大南收錢。但是他是有拖欠修
       理費的，101年4月3日林建仁又開車來，我仍然有收，我
       認為只要車子在就有保障，我有跟林建仁說先前的欠款再
       加上這次的修車費用，他要一次跟我清除了我才會讓他把
-      車開走，我想他應該是有把這話轉達給<font color='red'>王惠美</font>，車子2、3
+      車開走，我想他應該是有把這話轉達給王惠美，車子2、3
       天就修好了。我記得林建仁有打電話來問車子好了沒，我
       有跟他說錢付清了才會讓他把車開走，期間我有打電話給
-      <font color='red'>王惠美</font>說車修好了，她只有說好。然後又拖了好幾天，林
+      王惠美說車修好了，她只有說好。然後又拖了好幾天，林
       建仁來取車，他把前面的帳都結清，且他說他現在已經換
-      到別的交通公司，這台車也已經被<font color='red'>王惠美</font>賣掉了，因為他
+      到別的交通公司，這台車也已經被王惠美賣掉了，因為他
       錢付清，且車子之前是林建仁開來的，所以我就把車交給
       林建仁了。林建仁有跟我說就這麼剛好這台車剛好是他新
-      老闆買的。後來沒有人打電話來問我車子的去向。<font color='red'>王惠美
-      </font>迄今都沒有問過我這台車為何交給林建仁。…（提示101
-      年偵19816號102年2月6日告訴代理人筆錄）我沒有接到<font color='red'>王
-      惠美</font>電話跟我問車子為何被開走。當時林建仁把車開來時
-      ，<font color='red'>王惠美</font>沒有打電話跟我說車子哪裡壞掉、要修哪裡。司
-      機才會知道車子哪裡壞掉，他可能有跟<font color='red'>王惠美</font>報備。林建
+      老闆買的。後來沒有人打電話來問我車子的去向。王惠美
+      迄今都沒有問過我這台車為何交給林建仁。…（提示101
+      年偵19816號102年2月6日告訴代理人筆錄）我沒有接到王
+      惠美電話跟我問車子為何被開走。當時林建仁把車開來時
+      ，王惠美沒有打電話跟我說車子哪裡壞掉、要修哪裡。司
+      機才會知道車子哪裡壞掉，他可能有跟王惠美報備。林建
       仁在取車時，我印象中他是說薪水沒有正常支付之類的，
       所以才離開大南公司。」、「我記得大南公司在101年4月
       間將808-CC號車交給我，在我於新竹市○○路000巷000號
@@ -276,7 +169,7 @@ function openwin(URL,arguments,width,height)
       ，所以才給我貨款前往新竹市○○區○○路000巷000號嘉
       偉國際公司修車廠領車。」、「車子是我開去修的，也是
       我開走的，我開車的時候壞掉，車子壞掉在高速公路上面
-      ，是大南公司的老闆娘<font color='red'>王惠美</font>打電話叫我開到嘉偉公司送
+      ，是大南公司的老闆娘王惠美打電話叫我開到嘉偉公司送
       修。叫我將車從嘉偉公司開走是謝守諄，那時我已經在那
       邊上班了。」等語（見他字卷第32至34、47頁）相符，此
       外復有大南通運、元賀通運汽車買賣契約書及告訴人謝守
@@ -329,7 +222,7 @@ function openwin(URL,arguments,width,height)
       受刑事處分之虞，被告前揭所辯，無非卸責之詞，不足採
       信。本案事證已臻明確，被告誣告犯行堪以認定，應予依
       法論科。
-二、核被告<font color='red'>王惠美</font>所為，係犯刑法第169條第1項之誣告罪。爰審
+二、核被告王惠美所為，係犯刑法第169條第1項之誣告罪。爰審
     酌被告係與告訴人間因民事買賣糾紛而虛捏不實事項，誣指
     告訴人涉犯侵占罪嫌，造成司法程序之無益進行，耗費國家
     司法資源，並使告訴人疲於應訴，甚且面臨刑事處罰之危險
@@ -360,86 +253,12 @@ function openwin(URL,arguments,width,height)
 意圖他人受刑事或懲戒處分，向該管公務員誣告者，處7年以下
 有期徒刑。
 意圖他人受刑事或懲戒處分，而偽造、變造證據，或使用偽造、
-變造之證據者，亦同。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10409\24\TPDM1049O.010] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000292&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c292%2c20150924%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=292&jdate=1040924&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c292%2c20150924%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=292&jdate=1040924&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c292%2c20150924%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','292','1040924','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王惠美">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王惠美">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+變造之證據者，亦同。
+[*jrecno*]103,訴,292,20150924,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]292
+[*jdate*]1040924
+[*jcheck*]1

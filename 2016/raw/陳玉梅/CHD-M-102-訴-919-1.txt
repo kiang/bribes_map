@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-102訴919</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000919&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c919%2c20131009%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=919&jdate=1021009&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c919%2c20131009%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=919&jdate=1021009&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c919%2c20131009%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','919','1021009','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,919</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021009</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　102年度訴字第919號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c919%2c20131009%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=919&jdate=1021009&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000919&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c919%2c20131009%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=919&jdate=1021009&jcheck=1
+[*裁判字號*]102,訴,919
+[*裁判日期*]1021009
+[*裁判案由*]違反毒品危害防制條例
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　102年度訴字第919號
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　王麗玉
 選任辯護人　蕭佩芬律師
@@ -157,7 +50,7 @@ function openwin(URL,arguments,width,height)
     犯罪、實施公訴，依法其有訊問被告之權，證人且須具結，
     而實務運作時，檢察官偵查中向被告以外之人所取得之陳述
     ，原則上均能遵守法律規定，不致違法取供，其可信度極高
-    ，職是，本件證人<font color='red'>陳玉梅</font>、王乙、蔡世豐、謝志鴻、王重原
+    ，職是，本件證人陳玉梅、王乙、蔡世豐、謝志鴻、王重原
     、蔡心意於偵查中檢察官以證人身分予以訊問，並經依法具
     結在卷，且無證據顯示檢察官在偵查時有不法取供之情形，
     亦查無證據顯示有顯不可信之情況。是揆諸前揭說明，上開
@@ -194,7 +87,7 @@ function openwin(URL,arguments,width,height)
     當者，亦得為證據，當事人、代理人或辯護人於法院調查證
     據時，知有第159條第1項不得為證據之情形，而未於言詞辯
     論終結前聲明異議者，視為有前項之同意，此觀同法第159
-    條之5規定即明。經查，除證人<font color='red'>陳玉梅</font>、王乙、蔡世豐、謝
+    條之5規定即明。經查，除證人陳玉梅、王乙、蔡世豐、謝
     志鴻、王重原、蔡心意於偵訊之證述（已如前述）外，本判
     決後開引用其餘各該被告以外之人於審判外之陳述（包含書
     面陳述），固亦皆屬傳聞證據，惟當事人及辯護人雖知上開
@@ -208,7 +101,7 @@ function openwin(URL,arguments,width,height)
 貳、實體部分
 一、認定犯罪事實所憑之證據及理由：
 （一）上開犯罪事實，業據被告王麗玉於本院審理時坦承不諱，
-      核與證人<font color='red'>陳玉梅</font>、王乙、蔡世豐、謝志鴻、王重原、蔡心
+      核與證人陳玉梅、王乙、蔡世豐、謝志鴻、王重原、蔡心
       意分別於警詢、偵查中之證述大致相符，並有如附表二、
       附表三證據欄所示其餘證據資料在卷可資佐證，足認被告
       前開自白與事實相符，堪以採認。
@@ -228,7 +121,7 @@ function openwin(URL,arguments,width,height)
       稱其係因為本身也有在施用海洛因，為圖供自己施用，乃
       以從購入之毒品中抽出部分供己施用之方式獲利（見院卷
       第36-37頁），且被告確有販賣如附表二所示之海洛因予
-      證人<font color='red'>陳玉梅</font>、王乙、蔡世豐、王重原之事實，已經調查屬
+      證人陳玉梅、王乙、蔡世豐、王重原之事實，已經調查屬
       實，考量社會大眾均知買賣海洛因係非法行為之客觀社會
       環境，依據前開積極證據及經驗法則綜合研判，被告所為
       事實一 (一)（即附表二）部分均係意圖營利而販賣第一
@@ -349,7 +242,7 @@ function openwin(URL,arguments,width,height)
 日內向本院補提理由書（均須按他造當事人之人數附繕本）「切
 勿逕送上級法院」。
 中    華    民    國   102    年    10     月     9    日
-                                      書記官  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3AD2A0A00000040.GIF" />庭姍
+                                      書記官  庭姍
 附表一：被告所犯各罪之宣告刑
 ┌──┬───────┬───────────────────────┐
 │編號│犯罪事實      │宣告刑                                        │
@@ -425,189 +318,189 @@ function openwin(URL,arguments,width,height)
 │    │            │          │          │及金額（│                  │
 │    │            │          │          │新臺幣）│                  │
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 一 │<font color='red'>陳玉梅</font>、王乙│於102年6月│彰化縣大城│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 一 │陳玉梅、王乙│於102年6月│彰化縣大城│1000元之│被告於本院訊問、│
 │    │（王乙持用陳│19日6時30 │鄉大城路某│海洛因  │  準備程序時之自白│
 │    │玉梅門號0900│分、7時14 │處之田埂路│        │  （見院卷第11背頁│
 │    │000000號之行│分、7時28 │旁        │        │  、第36頁）。    │
-│    │動電話與王麗│分許聯繫後│          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人<font color='red'>陳玉梅</font>於警詢│
+│    │動電話與王麗│分許聯繫後│          │        │證人陳玉梅於警詢│
 │    │玉持用之門號│若干分鐘。│          │        │  、偵查中之證述（│
 │    │0000000000  │          │          │        │  見彰警分刑字第  │
 │    │號行動電話聯│          │          │        │  0000000000號警卷│
 │    │絡）        │          │          │        │  第97至9893頁、  │
 │    │            │          │          │        │  102年度偵字第651│
 │    │            │          │          │        │  1號卷第83頁）。 │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" /><font color='red'>陳玉梅</font>出具之指認│
+│    │            │          │          │        │陳玉梅出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1份（見同上警卷 │
 │    │            │          │          │        │  第95頁）。      │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />證人王乙於警詢、│
+│    │            │          │          │        │證人王乙於警詢、│
 │    │            │          │          │        │  偵查中之證述（見│
 │    │            │          │          │        │  同上警卷第105頁 │
 │    │            │          │          │        │  、同上偵卷第74背│
 │    │            │          │          │        │  頁）            │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />王乙持用<font color='red'>陳玉梅</font>手│
+│    │            │          │          │        │王乙持用陳玉梅手│
 │    │            │          │          │        │  機與王麗玉於左列│
 │    │            │          │          │        │  時間之通訊監察譯│
 │    │            │          │          │        │  文1份（見同上警 │
 │    │            │          │          │        │  卷第97、108頁） │
 │    │            │          │          │        │  。              │
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 二 │王乙（王乙持│102年6月21│彰化縣大城│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
-│    │用<font color='red'>陳玉梅</font>門號│日16時27分│鄉大城路某│海洛因。│  準備程序時之自白│
+│ 二 │王乙（王乙持│102年6月21│彰化縣大城│1000元之│被告於本院訊問、│
+│    │用陳玉梅門號│日16時27分│鄉大城路某│海洛因。│  準備程序時之自白│
 │    │0000000000號│、17時10分│處之田埂路│        │  （見院卷第12頁、│
 │    │行動電話與王│聯繫後約若│旁        │        │  第36頁）。      │
-│    │麗玉持用之門│干分鐘    │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人王乙於警詢、│
+│    │麗玉持用之門│干分鐘    │          │        │證人王乙於警詢、│
 │    │號0000000000│          │          │        │  偵查中之證述（見│
 │    │號行動電話聯│          │          │        │  同上警卷第106頁 │
 │    │絡）        │          │          │        │  、偵卷第74背頁）│
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />王乙出具之指認犯│
+│    │            │          │          │        │王乙出具之指認犯│
 │    │            │          │          │        │  罪嫌疑人紀錄表1 │
 │    │            │          │          │        │  份（見同上警卷第│
 │    │            │          │          │        │  107頁）。       │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />王乙與王麗玉於左│
+│    │            │          │          │        │王乙與王麗玉於左│
 │    │            │          │          │        │  列時間之通訊監察│
 │    │            │          │          │        │  譯文1份（見同上 │
 │    │            │          │          │        │  警卷第129頁）。 │
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 三 │<font color='red'>陳玉梅</font>（陳玉│102年6月26│彰化縣二林│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 三 │陳玉梅（陳玉│102年6月26│彰化縣二林│1000元之│被告於本院訊問、│
 │    │梅持用門號09│日08時09分│鎮基督教醫│海洛因（│  準程序時之自白（│
-│    │00000000號行│聯繫後約若│院附近巷子│<font color='red'>陳玉梅</font>僅│  見院卷第12頁、第│
+│    │00000000號行│聯繫後約若│院附近巷子│陳玉梅僅│  見院卷第12頁、第│
 │    │動電話與王麗│干分鐘    │          │給付800 │  36頁背頁）。    │
-│    │玉持用之門號│          │          │元，200 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人<font color='red'>陳玉梅</font>於警詢│
+│    │玉持用之門號│          │          │元，200 │證人陳玉梅於警詢│
 │    │0000000000號│          │          │元賒帳迄│  及偵查中之證述（│
 │    │行動電話聯絡│          │          │今未付）│  見同上警卷第94背│
 │    │）          │          │          │        │  頁、偵卷第83背頁│
 │    │            │          │          │        │  ）              │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" /><font color='red'>陳玉梅</font>出具之指認│
+│    │            │          │          │        │陳玉梅出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1份（見同上警卷 │
 │    │            │          │          │        │  第95頁）。      │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />王麗玉與<font color='red'>陳玉梅</font>於│
+│    │            │          │          │        │王麗玉與陳玉梅於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1份（見同 │
 │    │            │          │          │        │  上警卷第96背頁）│
 │    │            │          │          │        │  。              │
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 四 │蔡世豐（蔡世│102年6月13│彰化縣大城│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 四 │蔡世豐（蔡世│102年6月13│彰化縣大城│1000元之│被告於本院訊問、│
 │    │豐持用門號  │日10時26分│鄉永和村某│海洛因  │  準程序時之自白（│
 │    │0000000000號│、10時35分│產業道路旁│        │  見院卷第12背頁、│
 │    │行動電話與王│聯繫後若干│          │        │  第36背頁）。    │
-│    │麗玉持用之門│分鐘      │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人蔡世豐於警詢│
+│    │麗玉持用之門│分鐘      │          │        │證人蔡世豐於警詢│
 │    │號0000000000│          │          │        │  及偵查中之證述（│
 │    │號行動電話聯│          │          │        │  見同上警卷第38頁│
 │    │絡）        │          │          │        │  、同上偵卷第55背│
 │    │            │          │          │        │  頁）            │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />蔡世豐出具之指認│
+│    │            │          │          │        │蔡世豐出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1份（見同上警卷 │
 │    │            │          │          │        │  第41頁）。      │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />蔡世豐與王麗玉於│
+│    │            │          │          │        │蔡世豐與王麗玉於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1 份（見同│
 │    │            │          │          │        │  上警卷第42頁）。│
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 五 │蔡世豐（蔡世│102年6月15│被告位於彰│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院準備程│
+│ 五 │蔡世豐（蔡世│102年6月15│被告位於彰│1000元之│被告於本院準備程│
 │    │豐持用門號  │日10時56分│化縣大城鄉│海洛因  │  序時之自白（見院│
 │    │0000000000號│、11時00分│永和村青埔│        │  卷第36背頁）。  │
-│    │行動電話與王│聯繫後若干│巷5之1號住│        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人蔡世豐於警詢│
+│    │行動電話與王│聯繫後若干│巷5之1號住│        │證人蔡世豐於警詢│
 │    │麗玉持用之門│分鐘      │處        │        │  及偵查中之證述（│
 │    │號0000000000│          │          │        │  見同上警卷第38背│
 │    │號行動電話聯│          │          │        │  頁、同上偵卷第55│
 │    │絡）        │          │          │        │  背頁）          │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />蔡世豐出具之指認│
+│    │            │          │          │        │蔡世豐出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1份（見同上警卷 │
 │    │            │          │          │        │  第41頁）。      │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />蔡世豐與王麗玉於│
+│    │            │          │          │        │蔡世豐與王麗玉於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1 份（見同│
 │    │            │          │          │        │  上警卷第42頁）。│
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 六 │蔡世豐（蔡世│於102年6月│彰化縣大城│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 六 │蔡世豐（蔡世│於102年6月│彰化縣大城│1000元之│被告於本院訊問、│
 │    │豐持用門號09│19日13時19│鄉大城路永│海洛因  │  準備程序時之自白│
 │    │00000000號行│分、14時06│和村王厝巷│        │  （見同上第第12背│
 │    │動電話與王麗│分、14時07│附近之百姓│        │  頁、36背-37頁） │
 │    │玉持用之門號│分聯繫後若│公廟外    │        │  。              │
-│    │0000000000號│干分鐘    │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人蔡世豐於警詢│
+│    │0000000000號│干分鐘    │          │        │證人蔡世豐於警詢│
 │    │行動電      │          │          │        │  、偵查中之證述（│
 │    │話聯絡）    │          │          │        │  見1同上警卷第39 │
 │    │            │          │          │        │  頁、同上偵卷第55│
 │    │            │          │          │        │  背頁）          │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />蔡世豐出具之指認│
+│    │            │          │          │        │蔡世豐出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1 份（見同上警卷│
 │    │            │          │          │        │  第41頁）。      │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />蔡世豐與王麗玉於│
+│    │            │          │          │        │蔡世豐與王麗玉於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1份（見同 │
 │    │            │          │          │        │  上警卷第42背頁）│
 │    │            │          │          │        │  。              │
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 七 │謝志鴻（謝志│102年6月14│被告位於彰│500元之 │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 七 │謝志鴻（謝志│102年6月14│被告位於彰│500元之 │被告於本院訊問、│
 │    │鴻持用04-894│日11時05分│化縣大城鄉│海洛因  │  準備程序時之自白│
 │    │1594號電話與│、11時06分│永和村青埔│        │  （見院卷第13頁、│
 │    │王麗玉持用之│、11時16分│巷5之1號住│        │  第37頁）。      │
-│    │門號00000000│聯繫後約12│處        │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人警詢、偵查中│
+│    │門號00000000│聯繫後約12│處        │        │證人警詢、偵查中│
 │    │46號行動電話│時左右    │          │        │  之證述（見同上  │
 │    │聯絡）      │          │          │        │  警卷第56背-57頁 │
 │    │            │          │          │        │  、同上偵卷第59背│
 │    │            │          │          │        │  頁）。          │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />謝志鴻出具之指認│
+│    │            │          │          │        │謝志鴻出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1份（見同上警卷 │
 │    │            │          │          │        │  頁第58頁）。    │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />謝志鴻與王麗玉於│
+│    │            │          │          │        │謝志鴻與王麗玉於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1 份（見同│
 │    │            │          │          │        │  上警卷第59頁）。│
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 八 │王重原（王重│102年06月 │彰化縣大城│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 八 │王重原（王重│102年06月 │彰化縣大城│1000元之│被告於本院訊問、│
 │    │原持用00000 │16日08時42│鄉大城路堤│海洛因  │  準備程序時之自白│
 │    │0000號電話與│分、09時53│防邊      │        │  （見院卷第13頁、│
 │    │王麗玉持用之│分、10時07│          │        │  37頁）。        │
-│    │門號00000000│分聯繫後約│          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人偵查中之證述│
+│    │門號00000000│分聯繫後約│          │        │證人偵查中之證述│
 │    │46號行動電話│於10時15分│          │        │  （見同上偵卷第63│
 │    │聯絡）      │左右      │          │        │  背頁）。        │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />王重原出具之指認│
+│    │            │          │          │        │王重原出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1 份（見同上警卷│
 │    │            │          │          │        │  第79頁）。      │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />王重原與王麗玉於│
+│    │            │          │          │        │王重原與王麗玉於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1 份（見同│
 │    │            │          │          │        │  上警卷第80背頁）│
 │    │            │          │          │        │  。              │
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 九 │王重原（王重│102年06月 │彰化縣大城│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 九 │王重原（王重│102年06月 │彰化縣大城│1000元之│被告於本院訊問、│
 │    │原持用00000 │29日23時13│鄉大城路堤│海洛因  │  準備程序時之自白│
 │    │0000號電話與│分、23時14│防邊      │        │  （見院卷第13頁、│
 │    │王麗玉持用之│分聯繫後約│          │        │  第37頁）。      │
-│    │門號00000000│於06月30日│          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人警詢、偵查中│
+│    │門號00000000│於06月30日│          │        │證人警詢、偵查中│
 │    │46 號行動電 │0時左右   │          │        │  之證述（見同上警│
 │    │話聯絡）    │          │          │        │  卷第77背頁、同上│
 │    │            │          │          │        │  偵卷第63背頁）。│
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />王重原出具之指認│
+│    │            │          │          │        │王重原出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1 份（見同上警卷│
 │    │            │          │          │        │  頁第79頁）。    │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />王重原與王麗玉於│
+│    │            │          │          │        │王重原與王麗玉於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1 份（見同│
 │    │            │          │          │        │  上警卷第80背頁）│
 │    │            │          │          │        │  。              │
 ├──┼──────┼─────┼─────┼────┼─────────┤
-│ 十 │王重原（王重│102年07月 │彰化縣大城│1000元之│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院準備程│
+│ 十 │王重原（王重│102年07月 │彰化縣大城│1000元之│被告於本院準備程│
 │    │原持用00000 │01日02時23│鄉大城路堤│海洛因  │  序時之自白（見院│
 │    │000號電話與 │分聯繫後約│防邊      │        │  卷第37背頁）。  │
-│    │王麗玉持用之│於03時左右│          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人警詢、偵查中│
+│    │王麗玉持用之│於03時左右│          │        │證人警詢、偵查中│
 │    │門號00000000│          │          │        │  之證述（見同上警│
 │    │46號行動電話│          │          │        │  卷第78頁、同上偵│
 │    │聯絡）      │          │          │        │  卷第64頁）。    │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />王重原出具之指認│
+│    │            │          │          │        │王重原出具之指認│
 │    │            │          │          │        │  犯罪嫌疑人紀錄表│
 │    │            │          │          │        │  1 份（見同上警卷│
 │    │            │          │          │        │  頁第79頁）。    │
-│    │            │          │          │        │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />王重原與王麗玉於│
+│    │            │          │          │        │王重原與王麗玉於│
 │    │            │          │          │        │  左列時間之通訊監│
 │    │            │          │          │        │  察譯文1 份（見同│
 │    │            │          │          │        │  上警卷第80背頁）│
@@ -621,104 +514,30 @@ function openwin(URL,arguments,width,height)
 │    │            │          │          │金額（新臺│                  │
 │    │            │          │          │幣）      │                  │
 ├──┼──────┼─────┼─────┼─────┼─────────┤
-│ 一 │蔡心意（蔡心│102年06月 │彰化縣大城│1000元之海│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於本院訊問、│
+│ 一 │蔡心意（蔡心│102年06月 │彰化縣大城│1000元之海│被告於本院訊問、│
 │    │意持用門號09│13日21時13│鄉東港村北│洛因（蔡心│  準備程序時之自白│
 │    │00000000號行│分許聯繫後│勢路6號蔡 │意及玉麗玉│  （見院卷第11背頁│
 │    │動電話與王麗│若干分鐘  │心意住處。│各出資500 │  、第36頁）。    │
-│    │玉持用之門號│          │          │元，合資由│<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人蔡心意於警詢│
+│    │玉持用之門號│          │          │元，合資由│證人蔡心意於警詢│
 │    │0000000000號│          │          │玉麗玉購買│  及偵查中之證證（│
 │    │行動電話聯絡│          │          │1000 元之 │  見同上警卷第120 │
 │    │）          │          │          │海洛因）。│  頁、同上偵卷第77│
 │    │            │          │          │          │  背頁）。        │
-│    │            │          │          │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />蔡心意出具之指認│
+│    │            │          │          │          │蔡心意出具之指認│
 │    │            │          │          │          │  犯罪嫌疑人紀錄表│
 │    │            │          │          │          │  1份（見同上警卷 │
 │    │            │          │          │          │  第122頁）。     │
-│    │            │          │          │          │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />蔡心意與王麗玉於│
+│    │            │          │          │          │蔡心意與王麗玉於│
 │    │            │          │          │          │  左列時間之通訊監│
 │    │            │          │          │          │  察譯文1 份（見同│
 │    │            │          │          │          │  上警卷第123頁） │
 │    │            │          │          │          │  。              │
-└──┴──────┴─────┴─────┴─────┴─────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10210\09\CHDM102A9.00X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000919&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e7%8e%89%e6%a2%85&sdate=&edate=&page=&searchkw=%e9%99%b3%e7%8e%89%e6%a2%85&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c919%2c20131009%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=919&jdate=1021009&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c919%2c20131009%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=919&jdate=1021009&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c919%2c20131009%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','919','1021009','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳玉梅">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳玉梅">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴──────┴─────┴─────┴─────┴─────────┘
+[*jrecno*]102,訴,919,20131009,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]919
+[*jdate*]1021009
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣嘉義地方法院-刑-103訴393</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣嘉義地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000393&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c393%2c20150119%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=393&jdate=1040119&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c393%2c20150119%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=393&jdate=1040119&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c393%2c20150119%2c1','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','393','1040119','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,393</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040119</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣嘉義地方法院刑事判決　　　　　　　103年度訴字第393號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c393%2c20150119%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=393&jdate=1040119&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000393&selectedCrtid=CYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c393%2c20150119%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=393&jdate=1040119&jcheck=1
+[*裁判字號*]103,訴,393
+[*裁判日期*]1040119
+[*裁判案由*]違反毒品危害防制條例等
+[*裁判全文*]臺灣嘉義地方法院刑事判決　　　　　　　103年度訴字第393號
 公　訴　人　臺灣嘉義地方法院檢察署檢察官
 被　　　告　吳丁旭
 選任辯護人　王正明律師
@@ -132,7 +25,7 @@ function openwin(URL,arguments,width,height)
     己有門號0000000000號行動電話做為聯繫交易海洛因、甲基
     安非他命之工具，分別另行起意，依與購毒者約定之時間，
     前往約定之地點，販賣海洛因與陳榆臻、販賣甲基安非他命
-    與楊賜聰、蔡順和、<font color='red'>陳長發</font>、蔡志成、陳榆臻等購毒者，從
+    與楊賜聰、蔡順和、陳長發、蔡志成、陳榆臻等購毒者，從
     中牟利，共計販賣海洛因2次、甲基安非他命19次，總計獲
     取新臺幣（以下同）2萬2千500元之價款（各該次販賣之購
     毒者、時間、地點、毒品金額、是否已收取價款均詳如附表
@@ -451,10 +344,10 @@ function openwin(URL,arguments,width,height)
       交易金額為3千元，被告已收取。
 （十一）附表二編號3之102年9月27日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年9月27日）、地點，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為2千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為2千元，已
       收取錢，即偵2300號卷第187頁背面之通訊監察譯文所示
       約定交易的通話內容等語明確（見本院卷第44頁）。核與
-      證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年9月27日在嘉義市
+      證人即購毒者陳長發證述：伊有於102年9月27日在嘉義市
       五顯街停車場，向被告買甲基安非他命之情相符（見偵
       2300號卷第218頁至第219頁）。並有上述102年9月27日通
       訊監察譯文附卷可稽，內容如下（見偵2300號卷第187頁
@@ -470,14 +363,14 @@ function openwin(URL,arguments,width,height)
       陳：去停車場。
       吳：好。
       堪認被告確有於102年9月27日下午2時54分許，在嘉義市
-      五顯街停車場，販賣甲基安非他命與<font color='red'>陳長發</font>，交易金額為
+      五顯街停車場，販賣甲基安非他命與陳長發，交易金額為
       2千元，被告已收取。
 （十二）附表二編號3之102年9月28日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年9月28日）、地點，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為1千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為1千元，已
       收取錢，即偵2300號卷第188頁背面之通訊監察譯文所示
       約定交易的通話內容等語明確（見本院卷第44頁）。核與
-      證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年9月28日在嘉義市
+      證人即購毒者陳長發證述：伊有於102年9月28日在嘉義市
       五顯街停車場，向被告買甲基安非他命之情相符（見偵
       2300號卷第218頁至第219頁）。並有上述102年9月28日通
       訊監察譯文附卷可稽，內容如下（見偵2300號卷第188頁
@@ -491,14 +384,14 @@ function openwin(URL,arguments,width,height)
       陳：到了啊，停車場。
       吳：好。
       堪認被告確有於102年9月28日下午6時22分許，在嘉義市
-      五顯街停車場，販賣甲基安非他命與<font color='red'>陳長發</font>，交易金額為
+      五顯街停車場，販賣甲基安非他命與陳長發，交易金額為
       1千元，被告已收取。
 （十三）附表二編號3之102年10月1日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年10月1日）、地點，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為1千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為1千元，已
       收取錢，即偵2300號卷第189頁之通訊監察譯文所示約定
       交易的通話內容等語明確（見本院卷第44頁背面）。核與
-      證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年10月1日在嘉義市
+      證人即購毒者陳長發證述：伊有於102年10月1日在嘉義市
       五顯街停車場，向被告買甲基安非他命之情相符（見偵
       2300號卷第218頁至第219頁）。並有上述102年10月1日通
       訊監察譯文附卷可稽，內容如下（見偵2300號卷第189頁
@@ -510,14 +403,14 @@ function openwin(URL,arguments,width,height)
       陳：停車場。
       吳：好。
       堪認被告確有於102年10月1日晚上8時21分許，在嘉義市
-      五顯街停車場，販賣甲基安非他命與<font color='red'>陳長發</font>，交易金額為
+      五顯街停車場，販賣甲基安非他命與陳長發，交易金額為
       1千元，被告已收取。
 （十四）附表二編號3之102年10月3日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年10月3日）、地點，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為1千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為1千元，已
       收取錢，即偵2300號卷第189頁背面之通訊監察譯文所示
       約定交易的通話內容等語明確（見本院卷第44頁背面）。
-      核與證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年10月3日在嘉
+      核與證人即購毒者陳長發證述：伊有於102年10月3日在嘉
       義縣竹崎交流道附近，向被告買甲基安非他命之情相符（
       見偵2300號卷第218頁至第219頁）。並有上述102年10月3
       日通訊監察譯文附卷可稽，內容如下（見偵2300號卷第18
@@ -535,14 +428,14 @@ function openwin(URL,arguments,width,height)
       陳：我過去那邊。
       吳：好啊。
       堪認被告確有於102年10月3日晚上9時40分許，在嘉義縣
-      竹崎交流道附近，販賣甲基安非他命與<font color='red'>陳長發</font>，交易金額
+      竹崎交流道附近，販賣甲基安非他命與陳長發，交易金額
       為1千元，被告已收取。
 （十五）附表二編號3之102年10月8日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年10月8日）、地點，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為1千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為1千元，已
       收取錢，即偵2300號卷第191頁之通訊監察譯文所示約定
       交易的通話內容等語明確（見本院卷第44頁背面）。核與
-      證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年10月8日在嘉義市
+      證人即購毒者陳長發證述：伊有於102年10月8日在嘉義市
       五顯街停車場，向被告買甲基安非他命之情相符（見偵
       2300號卷第218頁至第219頁）。並有上述102年10月8日通
       訊監察譯文附卷可稽，內容如下（見偵2300號卷第191頁
@@ -555,16 +448,16 @@ function openwin(URL,arguments,width,height)
       陳：同樣在那啊。
       吳：好啦。
       堪認被告確有於102年10月8日下午4時48分許，在嘉義市
-      五顯街停車場，販賣甲基安非他命與<font color='red'>陳長發</font>，交易金額為
+      五顯街停車場，販賣甲基安非他命與陳長發，交易金額為
       1千元，被告已收取，起訴書附表誤載交易時間為同日下
       午3時30分，應予更正。
 （十六）附表二編號3之102年10月25日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年10月25日），在嘉義
       市五顯街附近向榮街與文化路交岔路口之全家便利商店，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為2千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為2千元，已
       收取錢，即偵2300號卷第192頁之通訊監察譯文所示約定
       交易的通話內容等語明確（見本院卷第44頁背面）。核與
-      證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年10月25日向被告
+      證人即購毒者陳長發證述：伊有於102年10月25日向被告
       買甲基安非他命之情相符（見偵2300號卷第218頁至第219
       頁）。並有上述102年10月25日通訊監察譯文附卷可稽，
       內容如下（見偵2300號卷第192頁）：
@@ -585,15 +478,15 @@ function openwin(URL,arguments,width,height)
       陳：好。
       堪認被告確有於102年10月25日晚上7時3分許，在嘉義市
       五顯街附近向榮街與文化路交岔路口之全家便利商店，販
-      賣甲基安非他命與<font color='red'>陳長發</font>，交易金額為2千元，被告已收
+      賣甲基安非他命與陳長發，交易金額為2千元，被告已收
       取，起訴書附表誤載交易地點為五顯街停車場，應予更正
       。
 （十七）附表二編號3之102年10月28日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年10月28日）、地點，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為2千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為2千元，已
       收取錢，即偵2300號卷第193頁之通訊監察譯文所示約定
       交易的通話內容等語明確（見本院卷第44頁背面）。核與
-      證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年10月28日在嘉義
+      證人即購毒者陳長發證述：伊有於102年10月28日在嘉義
       市五顯街停車場，向被告買甲基安非他命之情相符（見偵
       2300號卷第218頁至第219頁）。並有上述102年10月28日
       通訊監察譯文附卷可稽，內容如下（見偵2300號卷第193
@@ -614,14 +507,14 @@ function openwin(URL,arguments,width,height)
       陳：沒有，減一半。
       吳：這樣喔，好啦。
       堪認被告確有於102年10月28日晚上8時45分許，在嘉義市
-      五顯街之停車場，販賣甲基安非他命與<font color='red'>陳長發</font>，交易金額
+      五顯街之停車場，販賣甲基安非他命與陳長發，交易金額
       為2千元，被告已收取。
 （十八）附表二編號3之102年11月18日犯行部分，據被告供承：伊
       有於附表二編號3所示之時間（102年11月18日）、地點，
-      販賣甲基安非他命與<font color='red'>陳長發</font>，這次交易金額為2千元，已
+      販賣甲基安非他命與陳長發，這次交易金額為2千元，已
       收取錢，即偵2300號卷第197頁背面之通訊監察譯文所示
       約定交易的通話內容等語明確（見本院卷第44頁背面）。
-      核與證人即購毒者<font color='red'>陳長發</font>證述：伊有於102年11月18日在
+      核與證人即購毒者陳長發證述：伊有於102年11月18日在
       民雄向被告買甲基安非他命之情相符（見偵2300號卷第
       218頁至第219頁）。並有上述102年11月18日通訊監察譯
       文附卷可稽，內容如下（見偵2300號卷第197頁背面）：
@@ -640,7 +533,7 @@ function openwin(URL,arguments,width,height)
       陳：到了啊。
       吳：好。
       堪認被告確有於102年11月18日下午3時18分許，在嘉義縣
-      民雄鄉北勢仔釣蝦場，販賣甲基安非他命與<font color='red'>陳長發</font>，交易
+      民雄鄉北勢仔釣蝦場，販賣甲基安非他命與陳長發，交易
       金額為2千元，被告已收取，起訴書附表誤載交易地點為
       江厝店之便利商店，應予更正。
 （十九）附表二編號4之犯行部分，據被告供承：伊有於附表二編
@@ -702,7 +595,7 @@ function openwin(URL,arguments,width,height)
       交易金額為5千500元，但仍賒欠價款，起訴書附表誤載交
       易時間為同日晚上10時41分、交易地點為南投縣水里鄉博
       愛路某處，應予更正。
-（<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F69C2A0A00000040.GIF" />）附表二編號5之102年10月18日犯行部分，據被告供承：伊
+（）附表二編號5之102年10月18日犯行部分，據被告供承：伊
       有於附表二編號5所示之時間（102年10月18日）、地點，
       販賣甲基安非他命與陳榆臻，這次交易金額為5千500元，
       錢還欠著，即警卷一第24頁背面編號24至26之通訊監察譯
@@ -742,7 +635,7 @@ function openwin(URL,arguments,width,height)
       堪認被告確有於102年10月18日下午3時15分許，在嘉義市
       嘉義基督教醫院旁統一超商，販賣甲基安非他命與陳榆臻
       ，交易金額為5千500元，但仍賒欠價款。
-（<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F69B2A0A00000040.GIF" />）附表三之102年11月12日犯行部分，據被告供承：伊有於
+（）附表三之102年11月12日犯行部分，據被告供承：伊有於
       附表三所示之時間（102年11月12日）、地點轉讓甲基安
       非他命與劉國標，伊是先於102年11月11日晚上與劉國標
       有電話聯繫，再於102年11月12日凌晨前往南投縣集集鎮
@@ -758,7 +651,7 @@ function openwin(URL,arguments,width,height)
       到1公克之甲基安非他命與劉國標，起訴書附表誤載轉讓
       時間為102年11月11日、地點為集集鎮大「圓」巷之空屋
       ，應予更正。
-（<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F69A2A0A00000040.GIF" />）附表三之102年12月3日犯行部分，據被告供承：伊有於附
+（）附表三之102年12月3日犯行部分，據被告供承：伊有於附
       表三所示之時間（102年12月3日）、地點轉讓甲基安非他
       命與劉國標，當天伊提供甲基安非他命與跟劉國標一起施
       用，施用量大約不到1公克，伊沒有給劉國標其他的甲基
@@ -772,7 +665,7 @@ function openwin(URL,arguments,width,height)
       之空屋，轉讓不到1公克之甲基安非他命與劉國標，起訴
       書附表誤載轉讓地點為集集鎮大「圓」巷之空屋，應予更
       正。
-（<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6992A0A00000040.GIF" />）而海洛因、甲基安非他命乃毒品危害防制條例所列管具成
+（）而海洛因、甲基安非他命乃毒品危害防制條例所列管具成
       癮性、濫用性之第一、二級毒品，危害社會甚深，嚴禁持
       有、轉讓、製造、運輸及販賣等，罪刑非輕，販賣毒品乃
       懸為厲禁之重罪，從事者莫不極盡隱諱之能事，唯恐遭致
@@ -898,7 +791,7 @@ function openwin(URL,arguments,width,height)
 貳、不另為無罪之諭知部分（即附表五編號1所示）
 一、公訴意旨另以：被告於附表二編號3之102年9月27日、102年
     9月28日、102年10月3日、102年10月8日，除販賣上述甲基
-    安非他命與<font color='red'>陳長發</font>外，亦同時販賣海洛因與<font color='red'>陳長發</font>（即附表
+    安非他命與陳長發外，亦同時販賣海洛因與陳長發（即附表
     五編號1所示），因認被告於附表五編號1所為涉犯毒品危害
     防制條例第4條第1項之販賣第一級毒品罪嫌，且其此部分販
     賣第一級毒品罪嫌，與附表二編號3之102年9月27日、102年
@@ -923,21 +816,21 @@ function openwin(URL,arguments,width,height)
     心證，基於無罪推定之原則，自應為被告無罪判決之諭知，
     有最高法院92年度臺上字第128號判例可參。
 三、公訴意旨認被告涉有附表五編號1所示販賣海洛因罪嫌，無
-    非係以證人<font color='red'>陳長發</font>於警詢、偵訊時之證述、通訊監察譯文等
+    非係以證人陳長發於警詢、偵訊時之證述、通訊監察譯文等
     為主要論據。訊據被告堅決否認有於附表五編號1所示時地
-    販賣海洛因與證人<font color='red'>陳長發</font>，辯稱：伊有於附表五編號1所示
-    之時地與<font color='red'>陳長發</font>見面交易毒品，但僅販賣甲基安非他命與<font color='red'>陳
-    長發</font>，並未販賣海洛因等語。
+    販賣海洛因與證人陳長發，辯稱：伊有於附表五編號1所示
+    之時地與陳長發見面交易毒品，但僅販賣甲基安非他命與陳
+    長發，並未販賣海洛因等語。
 四、經查：
-（一）被告有於附表五編號1所示之時地與<font color='red'>陳長發</font>見面，並交易
-      毒品之情，業據被告坦承不諱，並經證人<font color='red'>陳長發</font>證述明確
+（一）被告有於附表五編號1所示之時地與陳長發見面，並交易
+      毒品之情，業據被告坦承不諱，並經證人陳長發證述明確
       ，且有上述通訊監察譯文附卷可考，堪認無誤。而所應探
-      究者，乃被告於附表五編號1所示時地與<font color='red'>陳長發</font>見面後，
+      究者，乃被告於附表五編號1所示時地與陳長發見面後，
       除販賣甲基安非他命外，是否有事證可認同時亦有販賣海
-      洛因與<font color='red'>陳長發</font>？
+      洛因與陳長發？
 （二）訊據被告於警詢、偵訊及本院審理中，歷次接受訊問，均
-      坦承有販賣甲基安非他命與<font color='red'>陳長發</font>，惟堅決否認有販賣海
-      洛因與<font color='red'>陳長發</font>之情事。反觀證人<font color='red'>陳長發</font>關於附表五編號1
+      坦承有販賣甲基安非他命與陳長發，惟堅決否認有販賣海
+      洛因與陳長發之情事。反觀證人陳長發關於附表五編號1
       所示之時地與被告見面並交易毒品之細節歷次所述內容，
       於103年1月23日警詢及偵訊時係稱：伊均是向被告購買海
       洛因，有於102年9月27日、102年9月28日、102年10月3日
@@ -982,28 +875,28 @@ function openwin(URL,arguments,width,height)
       有販賣甲基安非他命，所以才講跟被告有購買海洛因？）
       應該是因伊一開始怕說出自己有販賣甲基安非他命，所以
       才講跟被告購買海洛因等語（見本院卷第95頁背面至第97
-      頁背面）。細繹證人<font color='red'>陳長發</font>上開供證內容，不僅前後不一
+      頁背面）。細繹證人陳長發上開供證內容，不僅前後不一
       ，且無法明確指出究係於何時地向被告購買海洛因，據於
       本院所證，更有因害怕自己所涉販賣甲基安非他命犯行遭
       追查，而將向被告購買之甲基安非他命謊稱為海洛因之動
-      機甚明。故證人<font color='red'>陳長發</font>上開所述各節，就被告所涉法定刑
+      機甚明。故證人陳長發上開所述各節，就被告所涉法定刑
       度為死刑、無期徒刑之販賣第一級毒品犯嫌而言，顯然證
       明力過低，無法遽採為不利被告之認定，至為灼然。
 （三）另觀檢察官所提出之相關通訊監察譯文（詳見本判決壹有
       罪部分二（十一）（十二）（十四）（十五）），雙方通話內容均
       甚為短促，除雙方互約見面、見面之地點外，別無其他內
       容，遑論有何關於毒品之種類、金額等交易內容，是由上
-      開通訊監察譯文，確無法得知被告有販賣海洛因與<font color='red'>陳長發
-      </font>，自亦無法為不利被告之認定甚明。
+      開通訊監察譯文，確無法得知被告有販賣海洛因與陳長發
+      ，自亦無法為不利被告之認定甚明。
 五、本院認為，倘若檢察官僅將唯一之買方指述，及客觀上無甚
     關聯之一般性通訊談話內容，作為證據資料，即起訴賣方販
     賣毒品，而在無被告自白或其他供述、非供述證據，足以補
     強、佐證之情況下，即已可致所謂之賣方，受到重刑之宣告
     ，則人權保障、精密偵查，祇是理論、不切實際。本件附表
-    五編號1部分除證人<font color='red'>陳長發</font>曾為不利被告之指述外，卷內並
-    無其他補強證據可佐。且證人<font color='red'>陳長發</font>前後陳述不一，證明力
+    五編號1部分除證人陳長發曾為不利被告之指述外，卷內並
+    無其他補強證據可佐。且證人陳長發前後陳述不一，證明力
     顯然過低，由上述通訊監察譯文亦無法得知被告有販賣海洛
-    因與<font color='red'>陳長發</font>，均無法為不利被告之認定。綜上，本院依檢察
+    因與陳長發，均無法為不利被告之認定。綜上，本院依檢察
     官所舉出之上開證據及調查證據之結果，對於被告是否有公
     訴意旨所指附表五編號1所示之販賣海洛因犯行，仍有合理
     懷疑存在，尚未達有罪之確信。此外，復查無其他積極確切
@@ -1247,7 +1140,7 @@ function openwin(URL,arguments,width,height)
 │  │      │                │          │全部或一部不能沒收時，│
 │  │      │                │          │以其財產抵償之。      │
 ├─┼───┼────────┼─────┼───────────┤
-│3 │<font color='red'>陳長發</font>│102年9月27日下午│2千元（已 │吳丁旭販賣第二級毒品，│
+│3 │陳長發│102年9月27日下午│2千元（已 │吳丁旭販賣第二級毒品，│
 │  │      │2時54分許       │收取）    │累犯，處有期徒刑參年捌│
 │  │      │嘉義巿五顯街之停│          │月。附表四所示之物沒收│
 │  │      │車場            │          │，如全部或一部不能沒收│
@@ -1368,7 +1261,7 @@ function openwin(URL,arguments,width,height)
 │編│購毒者│交易時間        │交易地點      │交易之金額（新臺幣）│
 │號│      │                │              │                    │
 ├─┼───┼────────┼───────┼──────────┤
-│1 │<font color='red'>陳長發</font>│102年9月27日下午│嘉義市五顯街之│購買2千元之海洛因（1│
+│1 │陳長發│102年9月27日下午│嘉義市五顯街之│購買2千元之海洛因（1│
 │  │      │3時許           │停車場        │包）                │
 │  │      ├────────┼───────┼──────────┤
 │  │      │102年9月28日晚上│同上          │購買1千元之海洛因（1│
@@ -1387,86 +1280,12 @@ function openwin(URL,arguments,width,height)
 │  │      │102年11月10日上 │嘉義縣竹崎鄉灣│同上                │
 │  │      │午10時43分許    │橋加油站對面巷│                    │
 └─┴───┴────────┴───────┴──────────┘
-（以下空白）</pre>
-<!-- 原因：[未成年] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWCYD\CRIMINAL\10401\19\CYDM1041J.00Y] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000393&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e9%95%b7%e7%99%bc&sdate=&edate=&page=&searchkw=%e9%99%b3%e9%95%b7%e7%99%bc&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c393%2c20150119%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=393&jdate=1040119&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c393%2c20150119%2c1&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=393&jdate=1040119&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c393%2c20150119%2c1','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','393','1040119','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="CYD 臺灣嘉義地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳長發">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳長發">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+（以下空白）
+[*jrecno*]103,訴,393,20150119,1
+[*v_court*]CYD 臺灣嘉義地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]393
+[*jdate*]1040119
+[*jcheck*]1

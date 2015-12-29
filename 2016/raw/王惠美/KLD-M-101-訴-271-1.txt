@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣基隆地方法院-刑-101訴271</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000271&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c271%2c20120920%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=271&jdate=1010920&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c271%2c20120920%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=271&jdate=1010920&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c271%2c20120920%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','271','1010920','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,271</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010920</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　101年度訴字第271號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c271%2c20120920%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=271&jdate=1010920&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000271&selectedCrtid=KLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c271%2c20120920%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=271&jdate=1010920&jcheck=1
+[*裁判字號*]101,訴,271
+[*裁判日期*]1010920
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣基隆地方法院刑事判決　　　　　　　101年度訴字第271號
 　　　　　　　　　　　　　　　　　　　101年度訴字第374號
 　　　　　　　　　　　　　　　　　　　101年度訴字第499號
 公　訴　人　臺灣基隆地方法院檢察署檢察官
@@ -134,7 +27,7 @@ function openwin(URL,arguments,width,height)
 刑罰」欄所示。應執行有期徒刑拾年，未據扣案如附表編號1 至
 編號3 、編號6 、編號7 、編號12、編號15、編號16、編號18、
 編號19、編號22、編號23、編號27、編號36之販賣毒品所得共新
-臺幣貳萬伍仟<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元沒收，如全部或一部不能沒收時，以其財產
+臺幣貳萬伍仟佰元沒收，如全部或一部不能沒收時，以其財產
 抵償之；未據扣案如附表編號4 、編號5 、編號9 至編號11、編
 號13、編號14、編號21、編號24、編號25、編號30、編號32、編
 號33、編號35販賣毒品所得共新臺幣貳萬元與王淑萍連帶沒收，
@@ -156,13 +49,13 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
 帶沒收，如全部或一部不能沒收時，以其與詹德偉之財產抵償之
 ；扣案之NOKIA 牌手機壹支（序號000000000000000 號，含門號
 0000000000號SIM 卡壹張）沒收之。
-張佩剛共同販賣第二級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，未據
-扣案之販賣毒品所得新臺幣貳萬<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元與劉家祥連帶沒收，如全
+張佩剛共同販賣第二級毒品，累犯，處有期徒刑年柒月，未據
+扣案之販賣毒品所得新臺幣貳萬仟元與劉家祥連帶沒收，如全
 部或一部不能沒收時，以其與劉家祥之財產抵償之；又販賣第二
-級毒品，累犯，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年柒月，未據扣案之販賣毒品所得
+級毒品，累犯，處有期徒刑年柒月，未據扣案之販賣毒品所得
 新臺幣柒仟元沒收，如全部或一部不能沒收時，以其財產抵償之
-。應執行有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年拾月，未據扣案之販賣毒品所得新臺幣貳
-萬<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元與劉家祥連帶沒收，如全部或一部不能沒收時，以其與
+。應執行有期徒刑年拾月，未據扣案之販賣毒品所得新臺幣貳
+萬仟元與劉家祥連帶沒收，如全部或一部不能沒收時，以其與
 劉家祥之財產抵償之；未據扣案之販賣毒品所得新臺幣柒仟元沒
 收，如全部或一部不能沒收時，以其財產抵償之。
 王淑萍其餘被訴部分無罪。
@@ -235,8 +128,8 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
     7 日，持臺灣基隆地方法院檢察署檢察官開立之拘票，在基
     隆巿安樂區麥金路222 號基隆長庚醫院拘得王淑萍、張佩剛
     及劉家祥，並扣得張佩剛持有之第二級毒品甲基安非他命1
-    包（淨重0.3170公克）、第四級毒品麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F0482A0A00000040.GIF" />1 包（淨重
-    0.0100公克）、麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F0482A0A00000040.GIF" />殘渣袋1 只、含有XYCAINE 麻醉藥成
+    包（淨重0.3170公克）、第四級毒品麻黃1 包（淨重
+    0.0100公克）、麻黃殘渣袋1 只、含有XYCAINE 麻醉藥成
     分（非管制藥品）之白色粉末1 包、吸食器1 組、玻璃球1
     支、塑膠藥鏟2 支、夾鏈袋1 大包、SONY ERICSSON 行動電
     話2 支（各含0000000000號SIM 卡、無SIM 卡）、HUGIGA行
@@ -272,7 +165,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
     得為證據之情形，而未於言詞辯論終結前聲明異議者，視為
     有前項之同意，刑事訴訟法第159 條之5 定有明文。查本判
     決下列所引用之被告以外之人即證人蔡吳鶴、賴秀琴、蔡孟
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3562A0A00000040.GIF" />、張建明、柯施旻、詹慶良、<font color='red'>王惠美</font>、鄭美謙、蘇清龍、
+    、張建明、柯施旻、詹慶良、王惠美、鄭美謙、蘇清龍、
     徐偉豐、高增尚、郭良益、陳翊鳳、林建德、王淑萍於審判
     外之言詞及書面陳述，雖屬傳聞證據，惟被告詹德偉、王淑
     萍、張佩剛及其選任辯護人、檢察官等於審判期日，對本案
@@ -314,9 +207,9 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
     理中坦認如附表編號4 、編號5 、編號8 至編號11、編號13
     、編號14、編號17、編號20、編號21、編號24至編號26、編
     號28至編號35、編號37至編號39等25次販賣第二級毒品之犯
-    罪事實，核與證人蔡吳鶴、賴秀琴、蔡孟<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3562A0A00000040.GIF" />、詹慶良、鄭美
+    罪事實，核與證人蔡吳鶴、賴秀琴、蔡孟、詹慶良、鄭美
     謙、徐偉豐、高增尚、郭良益、柯施旻、蘇清龍、陳翊鳳、
-    林建德、張建明、<font color='red'>王惠美</font>於警詢、偵訊證述情節相符，並有
+    林建德、張建明、王惠美於警詢、偵訊證述情節相符，並有
     員警實施通訊監察所製作之監聽譯文附卷可佐，被告詹德偉
     、王淑萍之自白核與事實相符，可以採信。
   (二)被告張佩剛於偵訊、本院審理中坦認如事實二等2 次販賣第
@@ -421,7 +314,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
     (2)王淑萍所有之行動電話3 支（各含0000000000、
     0000000000、0000000000號SIM 卡1 張）；(3)張佩剛所有之
     第二級毒品甲基安非他命1 包（淨重0.3170公克）、第四級
-    毒品麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F0482A0A00000040.GIF" />1 包（淨重0.0100公克）、麻黃<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F0482A0A00000040.GIF" />殘渣袋1 只、
+    毒品麻黃1 包（淨重0.0100公克）、麻黃殘渣袋1 只、
     含有XYCAINE 麻醉藥成分（非管制藥品）之白色粉末1 包、
     吸食器1 組、玻璃球1 支、塑膠藥鏟2 支、夾鏈袋1 大包、
     SONY ERICSSON 行動電話2 支（0000000000號SIM 卡、無
@@ -516,7 +409,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │新臺幣）│      │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
  │    │100年2月│基隆市安樂│詹德偉│蔡吳鶴│1包     │101 年│詹德偉販賣第二級毒品，累犯，處有期徒刑壹年拾│
- │ 1  │初至3 月│區安和一街│      │      │/300元  │度訴字│月。未據扣案之販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />佰元沒收，│
+ │ 1  │初至3 月│區安和一街│      │      │/300元  │度訴字│月。未據扣案之販賣毒品所得新臺幣佰元沒收，│
  │    │初間某日│2巷5之3號 │      │      │        │第499 │如全部或一部不能沒收時，以其財產抵償之。    │
  │    │        │樓下      │      │      │        │號    │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
@@ -527,8 +420,8 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │含門號0000000000號SIM卡壹張）沒收之。       │
  │    │        │          │      │      │        │      │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │100年11 │基隆市安樂│詹德偉│蔡孟<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3562A0A00000040.GIF" />│1包     │101 年│詹德偉販賣第二級毒品，累犯，處有期徒刑壹年拾│
- │ 3  │月7日下 │路二段85度│      │      │/3,000元│度訴字│月。未據扣案之販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，│
+ │    │100年11 │基隆市安樂│詹德偉│蔡孟│1包     │101 年│詹德偉販賣第二級毒品，累犯，處有期徒刑壹年拾│
+ │ 3  │月7日下 │路二段85度│      │      │/3,000元│度訴字│月。未據扣案之販賣毒品所得新臺幣仟元沒收，│
  │    │午5時42 │C店外     │      │      │        │第271 │如全部或一部不能沒收時，以其財產抵償之。扣案│
  │    │分許    │          │      │      │        │號    │之NOKIA牌手機壹支（序號00000 0000000000號， │
  │    │        │          │      │      │        │      │含門號0000000000號SIM卡壹張）沒收之。       │
@@ -575,7 +468,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
  │    │100年11 │臺北巿民族│王淑萍│陳翊鳳│1包（重 │101 年│王淑萍販賣第二級毒品，累犯，處有期徒刑壹年拾│
- │ 8  │月11日下│東路與新生│      │      │0.8公克 │度訴字│月。未據扣案之販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟伍佰元沒│
+ │ 8  │月11日下│東路與新生│      │      │0.8公克 │度訴字│月。未據扣案之販賣毒品所得新臺幣仟伍佰元沒│
  │    │午4、5時│北路高架橋│      │      │）/3500 │第271 │收，如全部或一部不能沒收時，以其財產抵償之。│
  │    │        │下之停車場│      │      │元      │號    │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
@@ -605,7 +498,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │（序號000000000000000號，含門號0000000000號 │
  │    │        │          │      │      │        │      │SIM卡壹張）沒收之。                         │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │100年11 │臺北市光復│詹德偉│<font color='red'>王惠美</font>│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
+ │    │100年11 │臺北市光復│詹德偉│王惠美│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
  │ 11 │月12日上│北路龍城市│王淑萍│      │/2,000元│度訴字│年拾月。未據扣案之販賣毒品所得新臺幣貳仟元與│
  │    │午8、9時│場        │      │      │        │第374 │王淑萍連帶沒收，如全部或一部不能沒收時，以其│
  │    │許      │          │      │      │        │號    │與王淑萍之財產抵償之。扣案之NOKIA牌手機壹支 │
@@ -638,7 +531,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │（序號000000000000000號，含門號0000000000號 │
  │    │        │          │      │      │        │      │SIM卡壹張）沒收之。                         │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │100年11 │臺北市南京│詹德偉│<font color='red'>王惠美</font>│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
+ │    │100年11 │臺北市南京│詹德偉│王惠美│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
  │ 14 │月14日晚│東路六段洲│王淑萍│      │/2,000元│度訴字│年拾月。未據扣案之販賣毒品所得新臺幣貳仟元與│
  │    │間8時59 │美橋橋下路│      │      │        │第374 │王淑萍連帶沒收，如全部或一部不能沒收時，以其│
  │    │分許    │邊        │      │      │        │號    │與王淑萍之財產抵償之。扣案之NOKIA牌手機壹支 │
@@ -659,7 +552,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
  │    │100年11 │基隆市大慶│詹德偉│高增尚│1包（重 │101 年│詹德偉販賣第二級毒品，累犯，處有期徒刑壹年拾│
- │ 16 │月17日下│大城社區附│      │      │1公克） │度訴字│月。未據扣案之販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟伍佰元沒│
+ │ 16 │月17日下│大城社區附│      │      │1公克） │度訴字│月。未據扣案之販賣毒品所得新臺幣仟伍佰元沒│
  │    │午6時56 │近中和路之│      │      │/3,500元│第271 │收，如全部或一部不能沒收時，以其財產抵償之。│
  │    │分許    │加油站    │      │      │        │號    │扣案之NOKIA牌手機壹支（序號000000000000000號│
  │    │        │          │      │      │        │      │，含門號0000000000號SIM 卡壹張）沒收之。    │
@@ -678,14 +571,14 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │含門號0000000000號SIM卡壹張）沒收之。       │
  │    │        │          │      │      │        │      │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │100年11 │基隆市安樂│詹德偉│蔡孟<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3562A0A00000040.GIF" />│1包     │101 年│詹德偉販賣第二級毒品，累犯，處有期徒刑壹年拾│
+ │    │100年11 │基隆市安樂│詹德偉│蔡孟│1包     │101 年│詹德偉販賣第二級毒品，累犯，處有期徒刑壹年拾│
  │ 19 │月22日下│路二段85度│      │      │/4,000元│度訴字│月。未據扣案之販賣毒品所得新臺幣肆仟元沒收，│
  │    │午6時51 │C店外     │      │      │        │第271 │如全部或一部不能沒收時，以其財產抵償之。扣案│
  │    │分許    │          │      │      │        │號    │之NOKIA牌手機壹支（序號00000 0000000000號， │
  │    │        │          │      │      │        │      │含門號0000000000號SIM卡壹張）沒收之。       │
  │    │        │          │      │      │        │      │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │100年12 │基隆市安樂│王淑萍│蔡孟<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3562A0A00000040.GIF" />│1包     │101 年│王淑萍販賣第二級毒品，累犯，處有期徒刑壹年拾│
+ │    │100年12 │基隆市安樂│王淑萍│蔡孟│1包     │101 年│王淑萍販賣第二級毒品，累犯，處有期徒刑壹年拾│
  │ 20 │月14日下│路二段85度│      │      │/2,000元│度訴字│月。未據扣案之販賣毒品所得新臺幣貳仟元沒收，│
  │    │午3時29 │C店外     │      │      │        │第271 │如全部或一部不能沒收時，以其之財產抵償之。  │
  │    │分許    │          │      │      │        │號    │                                            │
@@ -711,7 +604,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │子        │      │      │        │      │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
  │    │100年12 │基隆市安樂│詹德偉│高增尚│1包（重1│101 年│詹德偉販賣第二級毒品，累犯，處有期徒刑壹年拾│
- │ 23 │月16日凌│路二段85度│      │      │公克）  │度訴字│月。未據扣案之販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟伍佰元沒│
+ │ 23 │月16日凌│路二段85度│      │      │公克）  │度訴字│月。未據扣案之販賣毒品所得新臺幣仟伍佰元沒│
  │    │晨0時19 │C店外     │      │      │/3,500元│第271 │收，如全部或一部不能沒收時，以其財產抵償之。│
  │    │分許    │          │      │      │        │號    │扣案之NOKIA牌手機壹支（序號000000000000000號│
  │    │        │          │      │      │        │      │，含門號0000000000號SIM 卡壹張）沒收之。    │
@@ -730,7 +623,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │（序號000000000000000號，含門號0000000000號 │
  │    │        │          │      │      │        │      │SIM卡壹張）沒收之。                         │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │100年12 │臺北市南京│詹德偉│<font color='red'>王惠美</font>│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
+ │    │100年12 │臺北市南京│詹德偉│王惠美│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
  │ 25 │月18日晚│東路六段麥│王淑萍│      │/2,000元│度訴字│年拾月。未據扣案之販賣毒品所得新臺幣貳仟元與│
  │    │間11時17│帥新城社區│      │      │        │第374 │王淑萍連帶沒收，如全部或一部不能沒收時，以其│
  │    │分許    │前之路邊  │      │      │        │號    │與王淑萍之財產抵償之。扣案之NOKIA牌手機壹支 │
@@ -766,7 +659,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │晚間8時 │北路高架橋│      │      │）      │第271 │如全部或一部不能沒收時，以其財產抵償之。    │
  │    │許      │下之停車場│      │      │/4,000元│號    │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │101年1月│臺北市敦化│詹德偉│<font color='red'>王惠美</font>│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
+ │    │101年1月│臺北市敦化│詹德偉│王惠美│1包     │101 年│詹德偉共同販賣第二級毒品，累犯，處有期徒刑壹│
  │ 30 │17日下午│南路200巷 │王淑萍│      │/2,000元│度訴字│年拾月。未據扣案之販賣毒品所得新臺幣貳仟元與│
  │    │4時32分 │附近之7-11│      │      │        │第374 │王淑萍連帶沒收，如全部或一部不能沒收時，以其│
  │    │許      │便利商店前│      │      │        │號    │與王淑萍之財產抵償之。扣案之NOKIA牌手機壹支 │
@@ -810,7 +703,7 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │        │          │      │      │        │      │（序號000000000000000號，含門號0000000000號 │
  │    │        │          │      │      │        │      │SIM卡壹張）沒收之。                         │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │101年3月│新北巿三重│王淑萍│<font color='red'>王惠美</font>│1包     │101 年│王淑萍販賣第二級毒品，累犯，處有期徒刑壹年拾│
+ │    │101年3月│新北巿三重│王淑萍│王惠美│1包     │101 年│王淑萍販賣第二級毒品，累犯，處有期徒刑壹年拾│
  │ 34 │2日下午1│區集仁街、│      │      │/1,000元│度訴字│月。未據扣案之販賣毒品所得新臺幣壹仟元沒收，│
  │    │時3分許 │集英街交岔│      │      │        │第374 │如全部或一部不能沒收時，以其財產抵償之。    │
  │    │        │路口和康柏│      │      │        │號    │                                            │
@@ -848,90 +741,16 @@ NOKIA 牌手機壹支（序號000000000000000 號，含門號
  │    │時48分許│社區附近路│      │      │）      │第271 │如全部或一部不能沒收時，以其財產抵償之。    │
  │    │        │邊        │      │      │/1,000元│號    │                                            │
  ├──┼────┼─────┼───┼───┼────┼───┼──────────────────────┤
- │    │101年3月│臺北巿內湖│王淑萍│<font color='red'>王惠美</font>│1包     │101 年│王淑萍販賣第二級毒品，累犯，處有期徒刑壹年拾│
+ │    │101年3月│臺北巿內湖│王淑萍│王惠美│1包     │101 年│王淑萍販賣第二級毒品，累犯，處有期徒刑壹年拾│
  │ 39 │5日下午4│區大湖社區│      │      │/1,000元│度訴字│月。未據扣案之販賣毒品所得新臺幣壹仟元沒收，│
  │    │時12樓  │前之路邊  │      │      │        │第374 │如全部或一部不能沒收時，以其財產抵償之。    │
  │    │        │          │      │      │        │號    │                                            │
- └──┴────┴─────┴───┴───┴────┴───┴──────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWKLD\CRIMINAL\10109\20\KLDM1019K.009] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000271&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%83%a0%e7%be%8e&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%83%a0%e7%be%8e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c271%2c20120920%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=271&jdate=1010920&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c271%2c20120920%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=271&jdate=1010920&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c271%2c20120920%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','271','1010920','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王惠美">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王惠美">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+ └──┴────┴─────┴───┴───┴────┴───┴──────────────────────┘
+[*jrecno*]101,訴,271,20120920,1
+[*v_court*]KLD 臺灣基隆地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]訴
+[*jno*]271
+[*jdate*]1010920
+[*jcheck*]1

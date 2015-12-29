@@ -1,117 +1,12 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣南投地方法院-刑-102訴693</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+Gq6Ecq71Z4PSDl50P/GdLwLKb9o=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣南投地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000693&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c693%2c20140108%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=693&jdate=1030108&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c693%2c20140108%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=693&jdate=1030108&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c693%2c20140108%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','693','1030108','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,訴,693</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030108</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反森林法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣南投地方法院刑事判決　　　　　　　102年度訴字第693號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c693%2c20140108%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=693&jdate=1030108&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000693&selectedCrtid=NTD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c693%2c20140108%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=693&jdate=1030108&jcheck=1
+[*裁判字號*]102,訴,693
+[*裁判日期*]1030108
+[*裁判案由*]違反森林法等
+[*裁判全文*]臺灣南投地方法院刑事判決　　　　　　　102年度訴字第693號
 公　訴　人　臺灣南投地方法院檢察署檢察官
-被　　　告　<font color='red'>范雲</font>程
+被　　　告　范雲程
 　　　　　　范達文
 　　　　　　范達人
 上列被告等因違反森林法等案件，經檢察官提起公訴（102 年度
@@ -119,7 +14,7 @@ function openwin(URL,arguments,width,height)
 陳述，本院合議庭裁定由受命法官獨任進行簡式審判程序，判決
 如下：
     主      文
-<font color='red'>范雲</font>程結夥二人以上竊取森林主產物，為搬運贓物使用車輛，處
+范雲程結夥二人以上竊取森林主產物，為搬運贓物使用車輛，處
 有期徒刑陸月，如易科罰金，以新臺幣壹仟元折算壹日，併科罰
 金新臺幣柒仟肆佰伍拾貳元，如易服勞役，以新臺幣壹仟元折算
 壹日，扣案鏈鋸、刈刀各壹支均沒收。
@@ -133,7 +28,7 @@ function openwin(URL,arguments,width,height)
 壹日，扣案鏈鋸、刈刀各壹支均沒收。
     事實及理由
 一、犯罪事實：
-  (一)<font color='red'>范雲</font>程、范達文及范達人父子3 人（下合稱<font color='red'>范雲</font>程等3 人）
+  (一)范雲程、范達文及范達人父子3 人（下合稱范雲程等3 人）
     於民國102 年4 月3 日10時許，駕駛車牌號碼00-0000 號自
     小貨車行經中華民國所有、由行政院農業委員會林務局南投
     林區管理處（下稱南投林管處）管理並出租與陳秋合使用、
@@ -142,28 +37,28 @@ function openwin(URL,arguments,width,height)
     稱系爭國有林地），發現有森林主產物枯山麻黃1 支倒伏在
     該處，為將該山麻黃竊取回家以作為柴火使用，竟共同意圖
     為自己不法之所有，基於結夥二人以上，竊取森林主產物，
-    為搬運贓物使用車輛之犯意聯絡，先由<font color='red'>范雲</font>程持其所有、客
+    為搬運贓物使用車輛之犯意聯絡，先由范雲程持其所有、客
     觀上足供兇器使用之鏈鋸、刈刀各1 支將該山麻黃鋸成數小
     段之殘材（材積共0.92立方公尺、山價新臺幣〔下同〕2,48
     4 元，下稱系爭山麻黃殘材）後，將之搬運至前述自小貨車
     上，置於自己實力支配之下而竊取得手。適有南投林管處臺
     中工作站土城分站之森林護管員林佳威巡視時發現上情，乃
-    當場制止，詎<font color='red'>范雲</font>程等3 人均置之不理，仍使用前述自小貨
+    當場制止，詎范雲程等3 人均置之不理，仍使用前述自小貨
     車將其所竊得之贓物即系爭山麻黃殘材載運回家，嗣後即將
     之當柴燒盡。乃經林佳威於發現當日報警究辦，經警於同年
-    6 月15日12時18分許前往<font color='red'>范雲</font>程等3 人位於南投縣國姓鄉○
+    6 月15日12時18分許前往范雲程等3 人位於南投縣國姓鄉○
     ○村○○巷00號之住處內扣得鏈鋸、刈刀各1 支，並循線查
     悉上情。
   (二)案經行政院農業委員會林務局南投林區管理處訴由彰化縣警
     察局溪湖分局報告臺灣南投地方法院檢察署檢察官偵查起訴
     。
 二、證據名稱：
-  (一)被告<font color='red'>范雲</font>程、范達文及范達人於偵查中、本院準備程序及審
+  (一)被告范雲程、范達文及范達人於偵查中、本院準備程序及審
     理時之自白（參見偵卷第17頁至第18頁）。
   (二)證人林佳威、張美惠於警詢；證人林佳威、周書田於偵查中
     之證述（參見警卷第14頁至第18頁；偵卷第19頁至第20頁）
     。
-  (三)森林暨自然保育警察隊南投分隊偵辦<font color='red'>范雲</font>程涉嫌森林法竊盜
+  (三)森林暨自然保育警察隊南投分隊偵辦范雲程涉嫌森林法竊盜
     案照片7 張、埔里林班圖、土地建物查詢資料、車輛詳細資
     料報表、行政院農業委員會林務局南投林區管理處102 年10
     月1 日投授中政字第0000000000號函、南投林區管理處國有
@@ -184,7 +79,7 @@ function openwin(URL,arguments,width,height)
     斷之標準。查系爭山麻黃原先倒伏之地點，係在由南投林管
     處所管領之系爭國有林地，已如前述，揆諸前揭判例意旨，
     應認系爭山麻黃殘材屬森林法所稱之「森林主產物」無訛，
-    而被告<font color='red'>范雲</font>程等3 人結夥二人以上竊取系爭山麻黃殘材，並
+    而被告范雲程等3 人結夥二人以上竊取系爭山麻黃殘材，並
     以前述大貨車搬運其所竊得之贓物即系爭山麻黃殘材，核其
     等之所為，均係犯森林法第52條第1 項第4 款、第6 款之結
     夥二人以上竊取森林主產物，為搬運贓物使用車輛罪。又犯
@@ -206,11 +101,11 @@ function openwin(URL,arguments,width,height)
     應優先適用重法之森林法第52條第1 項第4 款、第6 款之規
     定處斷，爰不另論刑法第321 條第1 項第3 款、第4 款之加
     重竊盜罪。
-  (三)被告<font color='red'>范雲</font>程、范達文及范達人就前開犯行，有犯意聯絡及行
+  (三)被告范雲程、范達文及范達人就前開犯行，有犯意聯絡及行
     為分擔，應依刑法第28條規定，論以共同正犯。復因「結夥
     」本質即為共同正犯，是本件判決主文欄自無再加列「共同
     」記載之必要，附此敘明。
-  (四)本院審酌被告<font color='red'>范雲</font>程、范達文及范達人3 人：(1)不思以正當
+  (四)本院審酌被告范雲程、范達文及范達人3 人：(1)不思以正當
     途徑獲取財物，而竊取國家重要森林資源，竊得系爭山麻黃
     殘材，所為誠屬可責；(2)惟念及其等前無前科紀錄，此有臺
     灣高等法院被告前案紀錄表各1 份在卷足憑，足見其等素行
@@ -236,12 +131,12 @@ function openwin(URL,arguments,width,height)
     認併科贓額3 倍之罰金應屬適當，爰均併科如主文所示之罰
     金7,452 （計算式：2,484 &#215;3 ＝7,452 ）元，並諭知易服
     勞役之折算標準。
-  (五)扣案鏈鋸、刈刀各1 支均為被告<font color='red'>范雲</font>程所有，並為供被告<font color='red'>范
-    雲</font>程等3 人犯本件犯行分別用以將系爭山麻黃殘材鋸開，及
+  (五)扣案鏈鋸、刈刀各1 支均為被告范雲程所有，並為供被告范
+    雲程等3 人犯本件犯行分別用以將系爭山麻黃殘材鋸開，及
     割除路旁雜草以方便搬運之用，俱為供本件犯行所用之物，
-    此業據被告<font color='red'>范雲</font>程、范達文及范達人供述不諱在卷（參見本
+    此業據被告范雲程、范達文及范達人供述不諱在卷（參見本
     院卷第18頁），爰依刑法第38條第1 項第2 款規定及「共同
-    正犯責任共同」之原則，分別在被告<font color='red'>范雲</font>程、范達文及范達
+    正犯責任共同」之原則，分別在被告范雲程、范達文及范達
     人主文項下諭知沒收。
 四、應適用之法律：
   (一)刑事訴訟法第273 條之1 第1 項、第299 條第1 項前段、第
@@ -280,86 +175,12 @@ function openwin(URL,arguments,width,height)
 八、以贓物燃料，使用於礦物之採取，精製石灰、磚、瓦或其他
     物品之製造者。
 前項未遂犯罰之。
-第 1 項第 5 款所製物品，以贓物論，沒收之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWNTD\CRIMINAL\10301\08\NTDM10318.008] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e8%a8%b4&selectedCrmno=000693&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e8%a8%b4%2c693%2c20140108%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=693&jdate=1030108&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e8%a8%b4%2c693%2c20140108%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e8%a8%b4&jno=693&jdate=1030108&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e8%a8%b4%2c693%2c20140108%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e8%a8%b4','693','1030108','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="NTD 臺灣南投地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="范雲">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="范雲">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+第 1 項第 5 款所製物品，以贓物論，沒收之。
+[*jrecno*]102,訴,693,20140108,1
+[*v_court*]NTD 臺灣南投地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]訴
+[*jno*]693
+[*jdate*]1030108
+[*jcheck*]1

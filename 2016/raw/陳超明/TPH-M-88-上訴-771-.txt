@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-88上訴771</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第10
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000771&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=771&jdate=890203&jcheck=">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=771&jdate=890203&jcheck=">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','88','%e4%b8%8a%e8%a8%b4','771','890203','')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">88,上訴,771</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">890203</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　　　　　　　八十八年度上訴字第七七一號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=771&jdate=890203&jcheck=
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000771&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=771&jdate=890203&jcheck=
+[*裁判字號*]88,上訴,771
+[*裁判日期*]890203
+[*裁判案由*]貪污治罪條例等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　　　　　　　八十八年度上訴字第七七一號
 　　上　訴　人　臺灣臺北地方法院檢察署檢察官
 　　上　訴　人
 　　即　被　告　卯○○
@@ -125,78 +18,78 @@ function openwin(URL,arguments,width,height)
 　　即　被　告　戊○○
 　　選任辯護人　董惠彬
 　　被　　　告　子○○
-住苗栗縣竹南鎮大埔里相思林三十<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+住苗栗縣竹南鎮大埔里相思林三十.
+　　　　　　　　　　　　身分證.
 　　選任辯護人　蕭佳灶律師
 　　上　訴　人
-　　即　被　告　己○○　男　三<span  style="color:#e8e8e8">.</span>
+　　即　被　告　己○○　男　三.
 　　　　　　　　　　　　住台北市○○街二二五號四樓
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　選任辯護人　馮志剛律師
 　　　　　　　　簡肇盈律師
 　　　　　　　　苗怡凡律師
 　　上　訴　人
-　　即　被　告　巳○○　男　五<span  style="color:#e8e8e8">.</span>
+　　即　被　告　巳○○　男　五.
 　　　　　　　　　　　　住台北市○○路○段五九巷三七號
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　選任辯護人　朱正剛律師
 　　　　　　　　汪倩英律師
 　　上　訴　人
-　　即　被　告　辰○○　男　三<span  style="color:#e8e8e8">.</span>
+　　即　被　告　辰○○　男　三.
 　　　　　　　　　　　　住台北市○○區○○街三巷二號四樓之九
 　　　　　　　　　　　　居台北市○○區○○路二九號七樓
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
-　　　　　　　　辛○○　男　四<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
+　　　　　　　　辛○○　男　四.
 　　　住台北市○○區○○街五十號二樓
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　右　一　人
 　　選任辯護人　李國盛律師
 　　上　訴　人
-　　即　被　告　乙○○　男　三<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　住彰化<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　即　被　告　乙○○　男　三.
+　　　　　　　　　　　　住彰化.
+　　　　　　　　　　　　身分證.
 　　選任辯護人　徐揆智律師
 　　　　　　　　李淑妃律師
 　　上　訴　人
-　　即　被　告　庚○○　男　四<span  style="color:#e8e8e8">.</span>
+　　即　被　告　庚○○　男　四.
 　　　　　　　　　　　　住台北縣土城市○○路○段二二巷十九號十樓
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　選任辯護人　廖學興律師
 　　　　　　　　林倖如律師
 　　　　　　　　蔡文生律師
 　　上　訴　人
-　　即　被　告　丑○　　男　五<span  style="color:#e8e8e8">.</span>
+　　即　被　告　丑○　　男　五.
 　　　　　　　　　　　　住台北市○○○路○段三０二號十三樓
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　選任辯護人　劉秉鈞律師
 　　　　　　　　柴啟宸律師
 　　　　　　　　楊雅惠律師
-　　被　　　告　丁○○　男　六<span  style="color:#e8e8e8">.</span>
+　　被　　　告　丁○○　男　六.
 　　　　　　　　　　　　住台北市○○○路○段一八二巷五十七弄三號
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　選任辯護人　方錫洀律師
-　　被　　　告　午○○　男　六<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　住台中<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
-　　　　　　　　未○○　女　五<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　住台中<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　被　　　告　午○○　男　六.
+　　　　　　　　　　　　住台中.
+　　　　　　　　　　　　身分證.
+　　　　　　　　未○○　女　五.
+　　　　　　　　　　　　住台中.
+　　　　　　　　　　　　身分證.
 　　右二人共同
 　　選任辯護人　藺超群律師
 　　　　　　　　景玉鳳律師
-　　被　　　告　寅○○　男六十<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　住彰化<span  style="color:#e8e8e8">.</span>
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　被　　　告　寅○○　男六十.
+　　　　　　　　　　　　住彰化.
+　　　　　　　　　　　　身分證.
 　　選任辯護人　陳憲鑑律師
 　　上　訴　人
-　　即　被　告　壬○○　男　四<span  style="color:#e8e8e8">.</span>
+　　即　被　告　壬○○　男　四.
 　　　　　　　　　　　　住台北市○○路二二巷三號二樓
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　選任辯護人　張義祖律師
 　　上　訴　人
-　　即　被　告　癸○○　男　四<span  style="color:#e8e8e8">.</span>
+　　即　被　告　癸○○　男　四.
 　　　　　　　　　　　　住台北市○○路八二巷六弄七號一樓
-　　　　　　　　　　　　身分證<span  style="color:#e8e8e8">.</span>
+　　　　　　　　　　　　身分證.
 　　選任辯護人　施正國律師
 右上訴人因被告貪污治罪條例等案件，不服臺灣臺北地方法院八十六年度訴字第二四
 四一號，中華民國八十八年一月十一日第一審判決（起訴案號：臺灣臺北地方法院檢
@@ -222,7 +115,7 @@ function openwin(URL,arguments,width,height)
 癸○○無罪。
 其他上訴駁回。
 己○○撤銷改判部分（恐嚇取財）與上訴駁回部分（參與犯罪組織）所處之刑，應執
-行有期徒刑貳年捌月，並應於刑之執行完畢或赦免後，令入勞動場所強制工作<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年。
+行有期徒刑貳年捌月，並應於刑之執行完畢或赦免後，令入勞動場所強制工作年。
     事     實
 一、卯○○原係台灣省議會議員並擔任民政委員會委員，負責監督審查台灣省政府有
     關民政行政行為之業務，其中有關台灣省政府衛生處印製民國（下同）八十五年
@@ -241,18 +134,18 @@ function openwin(URL,arguments,width,height)
     甲○○、戊○○與沈氏公司專案經理庚○○見面接洽，甲○○表示合作條件為(1)
     卯○○負責協助沈氏公司得標，(2)沈氏公司須支付得標金額百分之十之佣金，以
     酬謝卯○○協助有功，沈氏公司核算成本後認有利潤表示合作意願，其中自八十
-    四年八、九月間起至同年十二月間止商議過程如下：<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />於八十四年八、九月間卯
+    四年八、九月間起至同年十二月間止商議過程如下：於八十四年八、九月間卯
     ○○透過甲○○、戊○○邀集沈氏公司總經理丑○、專案經理庚○○、營業部主
     任沈哲煜等人，前往台中市西屯區工業區○○○路三十四號上上彩色股份有限公
     司（以下簡稱上上公司）會合商議合作承包相關事宜，席間卯○○表示將協助沈
     氏公司得標，惟沈氏公司需支付得標金額百分之十佣金，然因不知底標多少，故
     未達成共識，之後甲○○或戊○○連繫庚○○商談若從限制或擴張投標廠商資格
     、交貨運送地點或更改手冊用紙規格方式可否降低成本，唯可行性係將扉頁用紙
-    由一二０磅改為一００磅則可降低成本約六百至七百萬元，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />之後戊○○邀約庚
+    由一二０磅改為一００磅則可降低成本約六百至七百萬元，之後戊○○邀約庚
     ○○前往台灣省議會會館二０八室即卯○○辦公室，當時卯○○問及若保健手冊
     內頁用紙由一二０磅改為一００磅確定可以節省六百至七百萬元之成本，旋甲○
     ○即電話通知庚○○有關保健手冊內頁用紙無法更動，經商議後若由進口牛皮美
-    術紙改為一五０磅道林紙可節省六百萬元，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />嗣後戊○○再度連繫庚○○前往台
+    術紙改為一五０磅道林紙可節省六百萬元，嗣後戊○○再度連繫庚○○前往台
     灣省議會卯○○辦公室確認若保健手冊扉頁由進口牛皮紙改為一五０磅道林紙可
     降低成本六百萬元，卯○○為讓沈氏公司也有相當利潤將運用關係變更製作規格
     中之紙張規格以降低成本，倘日後無法順利交貨，渠保證將出面擺平，雙方均同
@@ -399,8 +292,8 @@ function openwin(URL,arguments,width,height)
             年「保健手冊」之製印用紙規格顯有遭人「綁標」，才基於監督之身分
             要求承辦公務人員更改，以防遭廠商「綁標」，伊係在「解標」云云。
       （二）經查被告卯○○如何與沈氏公司連繫，並於台中市西屯區工業區三十六
-            號三十四號上上印刷廠商談八十五年度保健手冊印製事宜，其中談及<font color='red'>陳
-            超明</font>助沈氏公司得標，而沈氏公司應給付得標金額百分之十為佣金，事
+            號三十四號上上印刷廠商談八十五年度保健手冊印製事宜，其中談及陳
+            超明助沈氏公司得標，而沈氏公司應給付得標金額百分之十為佣金，事
             後分別透過甲○○或戊○○與庚○○商談如何降低保健手冊製造成本，
             以及增加投標廠商之資格限制，嗣後卯○○確實亦曾透過議會連絡人林
             飛龍通知承辦人丁○○等人，談及變更保健手冊用紙之事宜與增加投標
@@ -437,8 +330,8 @@ function openwin(URL,arguments,width,height)
             手冊招標規格之廠商資本額由五千萬元提高為一億元，紙張內頁及扉頁
             紙質之變更事項，有所磋商，嗣施壓迫使省衛生處在招標規格上變更，
             其製作說明第四項「紙張」部分扉頁一五○磅進口牛皮美術紙或「同級
-            產品」（以上均請出示樣張）等情，此據被告丁○○供稱：「當時<font color='red'>陳超
-            明</font>給我極大的壓力強烈要求衛生處必須修改保健手冊製作說明中紙張規
+            產品」（以上均請出示樣張）等情，此據被告丁○○供稱：「當時陳超
+            明給我極大的壓力強烈要求衛生處必須修改保健手冊製作說明中紙張規
             格條文，扉頁紙張除使用一五○磅進口牛皮美術紙外，應可使用同級產
             品來替代，我在卯○○的強大壓力下即要午○○依照我的指示辦理」等
             語，亦有台灣省政府衛生處函稿影本附卷可按，另被告午○○供稱：「
@@ -455,8 +348,8 @@ function openwin(URL,arguments,width,height)
             為處長所批示修改內容即是要修改未○○所擬的印製規格說明，我認為
             修正『內容』二字等於規格，所以我蓋章同意，並指示林燕卿這樣寫」
             等語，且被告寅○○供承：卯○○為前述保健手冊印製案與伊聯繫共計
-            有四次，丁○○亦曾前往省議會會館就保健手冊印製案有所討論，<font color='red'>陳超
-            明</font>並要求渠等檢討『製作說明』及採用卯○○所提供之扉頁色紙，於八
+            有四次，丁○○亦曾前往省議會會館就保健手冊印製案有所討論，陳超
+            明並要求渠等檢討『製作說明』及採用卯○○所提供之扉頁色紙，於八
             十五年七、八月間得標之沈氏公司開始交貨後，伊記得交了三批貨（每
             批五萬本）無法予以驗收付款，廠商領不到貨款，卯○○為此打電話來
             質問伊為何不給廠商貨款？經伊向總務室檔管股長許碧娥（負責驗收事
@@ -541,7 +434,7 @@ function openwin(URL,arguments,width,height)
             人有所接觸參與商議之事實經過，其間又與被告未○○在台北會合取回
             網片等情，已據被告甲○○、未○○二人供述在卷，況且被告庚○○亦
             於調查站偵訊時就與被告卯○○、甲○○商議過程供稱：自八十四年九
-            月間起至同年十二月間止商議過程如下<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />於八十四年八、九月間卯○○
+            月間起至同年十二月間止商議過程如下於八十四年八、九月間卯○○
             透過甲○○、戊○○邀集沈氏公司總經理丑○、專案經理庚○○、營業
             部主任沈哲煜等人，前往台中市西屯區工業區○○○路三十四號上上彩
             色股份有限公司（以下簡稱上上公司）會合商議合作承包相關事宜，席
@@ -549,11 +442,11 @@ function openwin(URL,arguments,width,height)
             十佣金，然因不知底標多少，故未達成共識，之後甲○○或戊○○連繫
             庚○○商談若從限制或擴張投標廠商資格、交貨運送地點或更改手冊用
             紙規格方式可否降低成本，唯可行性係將扉頁用紙由一二０磅改為一０
-            ０磅則可降低成本約六百至七百萬元，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />之後戊○○邀約庚○○前往台
+            ０磅則可降低成本約六百至七百萬元，之後戊○○邀約庚○○前往台
             灣省議會會館二０八室即卯○○辦公室，當時卯○○問及若保健手冊內
             頁用紙由一二０磅改為一００磅確定可以節省六百至七百萬元之成本，
             旋甲○○即電話通知庚○○有關保健手冊內頁用紙無法更動，經商議後
-            若由進口牛皮美術紙改為一五０磅道林紙可節省六百萬元，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />嗣後林杰
+            若由進口牛皮美術紙改為一五０磅道林紙可節省六百萬元，嗣後林杰
             明再度連繫庚○○前往台灣省議會卯○○辦公室確認若保健手冊扉頁由
             進口牛皮紙改為一五０磅道林紙可降低成本六百萬元，足見被告戊○○
             知悉且參與被告卯○○、甲○○與廠商協調事宜或承辦公務人員變更規
@@ -622,8 +515,8 @@ function openwin(URL,arguments,width,height)
             至少達十六家以上顯係提高品質，並非所謂「綁標」，另有關道林紙之
             成本應比進口美術牛皮紙高，又何來降低印製成本，而此次沈氏公司得
             標後所支付之款項均係不得已之情況下所為云云。
-      （二）經查被告庚○○對於其參與本件保健手冊之全部過程、如何與被告<font color='red'>陳超
-            明</font>商談規格紙張用紙、告訴參與廠商得以道林紙降低製作成本節省印製
+      （二）經查被告庚○○對於其參與本件保健手冊之全部過程、如何與被告陳超
+            明商談規格紙張用紙、告訴參與廠商得以道林紙降低製作成本節省印製
             費用及開標後如何支付金錢予甲○○之事實經過，業據渠於調查站訊問
             及檢察官偵訊時陳述綦詳（見台灣台北地方法院檢察署八十六年偵字第
             一六二二四號偵查卷附八十六年三月四日、七月二十二日訊問筆錄、八
@@ -681,7 +574,7 @@ function openwin(URL,arguments,width,height)
         人行使權利，顯見被告壬○○所辯無非事後卸責之詞，並不足採，本件事證
         明確，其犯行洵堪認定。其猶請求調查事發當日警員在場執勤狀況，無礙於
         其犯有強制罪之事實認定，自無需再作無益之調查。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />、被告己○○、巳○○、辰○○、辛○○、乙○○部分：
+  、被告己○○、巳○○、辰○○、辛○○、乙○○部分：
     一、被告己○○、巳○○、辛○○、乙○○違反組織犯罪防制條例部分：
       （一）訊據上訴人即被告己○○、巳○○、辛○○及乙○○均矢口否認有何參
             與事實欄二所示竹聯幫之組織，被告己○○辯稱：伊自始即非參與竹聯
@@ -866,11 +759,11 @@ function openwin(URL,arguments,width,height)
       五十五條、罰金罰鍰提高標準條例第一條前段，並審酌被告等人犯罪動機、目
       的、手段、方法、犯罪後之態度等一情狀，對被告壬○○量處有期徒刑拾月；
       對被告己○○、巳○○、辛○○、乙○○各處有期徒刑壹年拾月，並均應於刑
-      之執行完畢或赦免後，令入勞動場所強制工作<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年，經核原判決上開認事用法
+      之執行完畢或赦免後，令入勞動場所強制工作年，經核原判決上開認事用法
       ，洵無不合。上訴意旨仍執前開情詞否認飾卸犯罪而指摘原判決，尚非有理由
       ，應予駁回。至被告己○○撤銷改判部分（恐嚇取財）與上訴駁回部分（參與
       犯罪組織）所處之刑，應定執行有期徒刑貳年捌月，並應於刑之執行完畢或赦
-      免後，令入勞動場所強制工作<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年。
+      免後，令入勞動場所強制工作年。
   柒、公訴意旨另略以：被告甲○○、壬○○所為如事實欄二所示之行為，亦各涉犯
       組織犯罪防制條例第六條非犯罪組織之成員而資助犯罪組織罪嫌，及被告辰○
       ○所為如事實欄二所示之行為，又涉犯刑法第三百四十六條第一項之恐嚇取財
@@ -936,7 +829,7 @@ function openwin(URL,arguments,width,height)
       嚇取財罪部分又經本院判決無罪如上，則未經原審判決之刑法第三百零四條部
       分亦屬無從牽連，本院自不能併予審理（同上最高法院二十八年上字第五六二
       號判例意旨參照），附為敘明。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />、被告子○○、丁○○、午○○、未○○、寅○○部分：
+  、被告子○○、丁○○、午○○、未○○、寅○○部分：
   一、公訴意旨略以：被告子○○係卯○○之司機，被告丁○○、午○○、未○○、
       寅○○分別係台灣省政府衛生處前處長、第六科科長、承辦人、總務室主任，
       緣卯○○為讓沈氏公司就八十五年保健手冊之印製也有相當利潤將運用關係變
@@ -1090,86 +983,11 @@ function openwin(URL,arguments,width,height)
 刑法第三百四十六條第一項
 意圖為自己或第三人不法之所有，以恐嚇使人將本人或第三人之物交付者，處六月以
 上五年以下有期徒刑，得併科一千元以下罰金。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWTPH\CRIMINAL\8902\10\TPHM892A.159] -->
-<!-- 旗標：[] -->
-<!--檢查單號：[]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第10
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000771&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=771&jdate=890203&jcheck=">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=771&jdate=890203&jcheck=">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('88%2c%e4%b8%8a%e8%a8%b4%2c771%2c20000203','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','88','%e4%b8%8a%e8%a8%b4','771','890203','')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="10"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳超明">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳超明">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]88,上訴,771,20000203
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]88
+[*jcase*]上訴
+[*jno*]771
+[*jdate*]890203
+[*jcheck*]

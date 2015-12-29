@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-103訴31</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000031&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c31%2c20140626%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=31&jdate=1030626&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c31%2c20140626%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=31&jdate=1030626&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c31%2c20140626%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','31','1030626','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,31</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030626</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　103年度訴字第31號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c31%2c20140626%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=31&jdate=1030626&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000031&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c31%2c20140626%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=31&jdate=1030626&jcheck=1
+[*裁判字號*]103,訴,31
+[*裁判日期*]1030626
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣臺中地方法院刑事判決　103年度訴字第31號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　任懋勳
 輔　佐　人　財團法人私立龍眼林社會福利慈善事業基金會社工
@@ -147,16 +40,16 @@ function openwin(URL,arguments,width,height)
     書上，再由張芳賓將偽造附表一所示被害人楊淑雯等人上開
     文件交給洪昆明，藉由洪昆明於附表一所示送件時間，以設
     於臺中市○區○○路000號1樓全國通訊行名義，持偽造附表
-    一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5712A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5702A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示被害人之上開文件交由上游盤商六二
-    屋向遠傳公司承辦門號業務之人員申辦開通附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5712A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5702A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示門號之行動電話；以茂全資訊社名義，持偽造附
-    表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />所示被害人之上開文件，交由上游盤商六二
+    一編號所示被害人之上開文件交由上游盤商六二
+    屋向遠傳公司承辦門號業務之人員申辦開通附表一編號
+    所示門號之行動電話；以茂全資訊社名義，持偽造附
+    表一編號所示被害人之上開文件，交由上游盤商六二
     屋向台哥大公司承辦門號業務之人員申辦開通如附表一編號
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />所示門號之行動電話；以設於彰化縣員林鎮○○路00
+    所示門號之行動電話；以設於彰化縣員林鎮○○路00
     巷0號之「四方資訊科技社（下稱四方資訊社）」名義，持
-    偽造附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5722A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示被害人之上開文件
+    偽造附表一編號至、至、所示被害人之上開文件
     ，交由上游盤商六二屋向台哥大公司承辦門號業務之人員申
-    辦開通如附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5722A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示門號，藉以表
+    辦開通如附表一編號至、至、所示門號，藉以表
     示係附表一所示被害人親自申請開通如附表一所示門號之電
     信服務，使前述公司承辦人員誤認係附表一所示被害人親自
     辦理且經銷商審核無訛，而允為開通如附表一所示之門號行
@@ -168,15 +61,15 @@ function openwin(URL,arguments,width,height)
     5900元，使台哥大公司、遠傳公司分別受有13萬9231元、3
     萬6941元之損害，並足生損害於附表一所示之被害人及台哥
     大、遠傳公司權益及交易秩序。
-二、案經附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示
+二、案經附表一編號至、至、、至、至所示
     被害人告訴臺中市政府警察局第六分局報告臺灣臺中地方法
     院檢察署檢察官偵查起訴。
     理  由
 壹、程序部分
-一、本件附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示
+一、本件附表一編號至、至、、至、至所示
     被害人均於偵訊中對被告任懋勳及同案被告張芳賓提出告訴
-    （見偵卷第28頁背面），均為告訴人；其餘附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5742A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示被害人均於警詢、偵訊及本院均未到庭或具狀陳述
+    （見偵卷第28頁背面），均為告訴人；其餘附表一編號
+    所示被害人均於警詢、偵訊及本院均未到庭或具狀陳述
     意見。故公訴人認附表一所示被害人均提出告訴，容有誤會
     ，合先指明。
 二、被告任懋勳於本院準備程序供述：伊領有輕度智障之身心障
@@ -247,8 +140,8 @@ function openwin(URL,arguments,width,height)
     開通如附表一所示門號，亦簽寫附表一所示門號之申請書、
     確認書；台哥大公司、遠傳公司因錯誤而開通附表一所示門
     號而交付上開門號之SIM卡，因而受有13萬9231元、3萬6941
-    元之損害等情，附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />、
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示被害人證述在卷（見偵卷第28至29頁），並有證
+    元之損害等情，附表一編號至、至、、至、
+    至所示被害人證述在卷（見偵卷第28至29頁），並有證
     人即台哥大公司代理人華皇傑、遠傳公司代理人孫宏彰各於
     警詢時供述明確（見警卷第20至21頁、第25至26頁）及證人
     洪昆明於警詢、偵訊及本院審理時之證述詳明（見警卷29至
@@ -258,18 +151,18 @@ function openwin(URL,arguments,width,height)
     頁）。另同案被告張芳賓將偽造附表一所示被害人楊淑雯等
     人之黏貼有國民身分證、全民健康保險卡之正反面影本之門
     號申請書及切結書交由不知情洪昆明，藉由洪昆明於附表一
-    所示送件時間，以全國通訊行名義持偽造附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5712A0A00000040.GIF" />
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5702A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示被害人之上開文件交由上游盤商六二屋向遠傳公司
-    申辦開通附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5712A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5702A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示門號之行動電話；以茂
-    全資訊社名義持偽造附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />所示被害人之上開文
+    所示送件時間，以全國通訊行名義持偽造附表一編號
+    所示被害人之上開文件交由上游盤商六二屋向遠傳公司
+    申辦開通附表一編號所示門號之行動電話；以茂
+    全資訊社名義持偽造附表一編號所示被害人之上開文
     件，交由上游盤商六二屋向台哥大公司申辦開通如附表一編
-    號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />所示門號之行動電話；以四方資訊社名義持偽造附
-    表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5722A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示被害人之上開文件，交由
-    上游盤商六二屋向台哥大公司申辦開通如附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />
-    、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5722A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示門號；且洪昆明各於附表一所示送件時間
+    號所示門號之行動電話；以四方資訊社名義持偽造附
+    表一編號至、至、所示被害人之上開文件，交由
+    上游盤商六二屋向台哥大公司申辦開通如附表一編號至
+    、至、所示門號；且洪昆明各於附表一所示送件時間
     支付張芳賓經銷開通上開門號之每門號佣金5900元等情，業
-    據證人即附表一所示編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" />
-    至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56F2A0A00000040.GIF" />所示被害人各別指述在卷（見警卷第44至45頁、第51至
+    據證人即附表一所示編號至、至、、至、
+    至所示被害人各別指述在卷（見警卷第44至45頁、第51至
     52頁、第59至60頁、第66至67頁、第74至75頁、第81至83頁
     、第90至91頁、第97至98頁、第106至107頁、第113至114頁
     、第120至121頁、第127至128頁、第134至135頁、第141至
@@ -475,14 +368,14 @@ function openwin(URL,arguments,width,height)
     表一編號二所示罪刑下宣告沒收；附表二編號八至十所示部
     分，於附表一編號三所示罪刑下宣告沒收；附表二編號十一
     至十四、十七、十八所示部分，於附表一編號四所示罪刑下
-    宣告沒收。至於偽造附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示被害人申請
+    宣告沒收。至於偽造附表一編號所示被害人申請
     書或確認書部分：本院遍查全卷未見有上開偽造文書之正本
-    或影本，且偽造附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示被害人之署押，
-    亦均附著於偽造附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示門號之申請書或
+    或影本，且偽造附表一編號所示被害人之署押，
+    亦均附著於偽造附表一編號所示門號之申請書或
     確認書上，而上開偽造之申請書或確認書之本體，既均非被
     告任懋勳或共犯張芳賓等人所有之物，亦皆非違禁物，又無
-    證據證明尚仍存在而未滅失，故本院自無從就附表一編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />所示被害人之署押併予宣告沒收，附予陳明。
+    證據證明尚仍存在而未滅失，故本院自無從就附表一編號
+    所示被害人之署押併予宣告沒收，附予陳明。
   (二)次按刑法第217條所稱之偽造署押，係指行為人冒用本人名
     義在文件上簽名或為民法第3條第3項所稱指印之類似簽名之
     行為者而言，若僅在空白文書之姓名欄，書寫他人之姓名，
@@ -549,47 +442,47 @@ function openwin(URL,arguments,width,height)
 │    │          │    ├──────┤          │年月日    │方案）        │                │
 │    │          │    │送件名義商號│          │          │              │                │
 ├──┼─────┼──┼──────┼─────┼─────┼───────┼────────┤
-│一  │102.02.04 │9   │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />楊淑雯    │0000000000│102.02.01 │網內一族：401 │任懋勳共同犯行使│
+│一  │102.02.04 │9   │楊淑雯    │0000000000│102.02.01 │網內一族：401 │任懋勳共同犯行使│
 │    │          │    ├──────┤          │          │型            │偽造私文書罪，處│
 │    │          │    │四方資訊社  │          │          │              │有期徒刑伍月，如│
 │    │（見本院卷│    ├──────┼─────┼─────┼───────┤易科罰金，以新臺│
-│    │第235至236│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />李宥溱    │0000000000│102.02.02 │網內一族：401 │幣壹仟元折算壹日│
+│    │第235至236│    │李宥溱    │0000000000│102.02.02 │網內一族：401 │幣壹仟元折算壹日│
 │    │頁）      │    ├──────┤          │          │型            │。未扣案如附表二│
 │    │          │    │四方資訊社  │          │          │              │編號一至六、十五│
 │    │          │    ├──────┼─────┼─────┼───────┤、十六所示偽造署│
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />賴玉娥    │0000000000│102.02.02 │網內一族：401 │名，均沒收。    │
+│    │          │    │賴玉娥    │0000000000│102.02.02 │網內一族：401 │名，均沒收。    │
 │    │          │    ├──────┤          │          │型            │                │
 │    │          │    │四方資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />黃水樹    │0000000000│102.02.02 │網內一族：401 │                │
+│    │          │    │黃水樹    │0000000000│102.02.02 │網內一族：401 │                │
 │    │          │    ├──────┤          │          │型            │                │
 │    │          │    │四方資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />林文財    │0000000000│102.01.30 │              │                │
+│    │          │    │林文財    │0000000000│102.01.30 │              │                │
 │    │          │    ├──────┤          │          │              │                │
 │    │          │    │茂全資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />詹文吉    │0000000000│102.01.31 │網內一族：401 │                │
+│    │          │    │詹文吉    │0000000000│102.01.31 │網內一族：401 │                │
 │    │          │    ├──────┤          │          │型            │                │
 │    │          │    │茂全資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />謝春葉    │0000000000│102.01.31 │網內一族：401 │                │
+│    │          │    │謝春葉    │0000000000│102.01.31 │網內一族：401 │                │
 │    │          │    ├──────┤          │          │型            │                │
 │    │          │    │茂全資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />陳世錚    │0000000000│102.02.03 │哈拉精省398限 │                │
+│    │          │    │陳世錚    │0000000000│102.02.03 │哈拉精省398限 │                │
 │    │          │    ├──────┤          │          │＋SMART150限24│                │
 │    │          │    │全國通訊行  │          │          │手機方案      │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57C2A0A00000040.GIF" />許永茂    │0000000000│102.02.02 │哈拉精省398限 │                │
+│    │          │    │許永茂    │0000000000│102.02.02 │哈拉精省398限 │                │
 │    │          │    │            │          │          │＋SMART150限24│                │
 │    │          │    │全國通訊行  │          │          │手機方案      │                │
 ├──┼─────┼──┼──────┼─────┼─────┼───────┼────────┤
-│二  │102.02.05 │2   │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57B2A0A00000040.GIF" />孫玉如    │0000000000│102.02.05 │網內一族：401 │任懋勳共同犯行使│
+│二  │102.02.05 │2   │孫玉如    │0000000000│102.02.05 │網內一族：401 │任懋勳共同犯行使│
 │    │（見本院卷│    ├──────┤          │          │型            │偽造私文書罪，處│
-│    │          │    │四方資訊社  │          │          │              │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如│
+│    │          │    │四方資訊社  │          │          │              │有期徒刑月，如│
 │    │第238頁） │    ├──────┼─────┼─────┼───────┤易科罰金，以新臺│
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57A2A0A00000040.GIF" />葉戴秀英  │0000000000│102.02.05 │              │幣壹仟元折算壹日│
+│    │          │    │葉戴秀英  │0000000000│102.02.05 │              │幣壹仟元折算壹日│
 │    │          │    ├──────┤          │          │              │。未扣案如附表二│
 │    │          │    │四方資訊社  │          │          │              │編號七所示偽造署│
 │    │          │    │            │          │          │              │名部分，均沒收。│
@@ -598,53 +491,53 @@ function openwin(URL,arguments,width,height)
 │    │          │    │            │          │          │              │                │
 │    │          │    │            │          │          │              │                │
 ├──┼─────┼──┼──────┼─────┼─────┼───────┼────────┤
-│三  │102.02.08 │4   │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5792A0A00000040.GIF" />蘇笑      │0000000000│102.02.07 │網內一族：401 │任懋勳共同犯行使│
+│三  │102.02.08 │4   │蘇笑      │0000000000│102.02.07 │網內一族：401 │任懋勳共同犯行使│
 │    │（見本院卷│    ├──────┤          │          │型            │偽造私文書罪，處│
 │    │          │    │四方資訊社  │          │          │              │有期徒刑肆月，如│
 │    │第227頁） │    ├──────┼─────┼─────┼───────┤易科罰金，以新臺│
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5782A0A00000040.GIF" />胡家蓁    │0000000000│102.02.07 │              │幣壹仟元折算壹日│
+│    │          │    │胡家蓁    │0000000000│102.02.07 │              │幣壹仟元折算壹日│
 │    │          │    ├──────┤          │          │              │。未扣案如附表二│
 │    │          │    │四方資訊社  │          │          │              │編號八至十所示署│
 │    │          │    ├──────┼─────┼─────┼───────┤名部分，均沒收。│
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />黃秀蘭    │0000000000│102.02.07 │網內一族：401 │                │
+│    │          │    │黃秀蘭    │0000000000│102.02.07 │網內一族：401 │                │
 │    │          │    ├──────┤          │          │型            │                │
 │    │          │    │四方資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5772A0A00000040.GIF" />鄭春綢    │0000000000│102.02.07 │網內一族：401 │                │
+│    │          │    │鄭春綢    │0000000000│102.02.07 │網內一族：401 │                │
 │    │          │    ├──────┤          │          │型            │                │
 │    │          │    │四方資訊社  │          │          │              │                │
 ├──┼─────┼──┼──────┼─────┼─────┼───────┼────────┤
-│四  │102.02.21 │7   │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5762A0A00000040.GIF" />簡榮端    │0000000000│102.02.17 │網內一族：401 │任懋勳共同犯行使│
+│四  │102.02.21 │7   │簡榮端    │0000000000│102.02.17 │網內一族：401 │任懋勳共同犯行使│
 │    │（見本院卷│    ├──────┤          │          │型            │偽造私文書罪，處│
 │    │          │    │四方資訊社  │          │          │              │有期徒刑伍月，如│
 │    │第231頁） │    ├──────┼─────┼─────┼───────┤易科罰金，以新臺│
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5752A0A00000040.GIF" />許村      │0000000000│102.02.17 │網內一族：401 │幣壹仟元折算壹日│
+│    │          │    │許村      │0000000000│102.02.17 │網內一族：401 │幣壹仟元折算壹日│
 │    │          │    ├──────┤          │          │型            │。未扣案如附表二│
 │    │          │    │四方資訊社  │          │          │              │編號十一至十四、│
 │    │          │    ├──────┼─────┼─────┼───────┤十七、十八所示偽│
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5742A0A00000040.GIF" />謝秀琴    │0000000000│102.02.21 │              │造署名，均沒收。│
+│    │          │    │謝秀琴    │0000000000│102.02.21 │              │造署名，均沒收。│
 │    │          │    ├──────┤          │          │              │                │
 │    │          │    │四方資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5732A0A00000040.GIF" />蔡昭省    │0000000000│102.02.21 │網內一族：401 │                │
+│    │          │    │蔡昭省    │0000000000│102.02.21 │網內一族：401 │                │
 │    │          │    ├──────┤          │          │型            │                │
 │    │          │    │四方資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5722A0A00000040.GIF" />林省      │0000000000│102.02.21 │網內一族：401 │                │
+│    │          │    │林省      │0000000000│102.02.21 │網內一族：401 │                │
 │    │          │    │            │          │          │型            │                │
 │    │          │    │四方資訊社  │          │          │              │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5712A0A00000040.GIF" /><font color='red'>黃麗香    </font>│0000000000│102.02.21 │3G哈拉精省398 │                │
+│    │          │    │黃麗香    │0000000000│102.02.21 │3G哈拉精省398 │                │
 │    │          │    ├──────┤          │          │限24＋SMART150│                │
 │    │          │    │全國通訊行  │          │          │限24手機方案  │                │
 │    │          │    ├──────┼─────┼─────┼───────┤                │
-│    │          │    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5702A0A00000040.GIF" />洪淑梅    │0000000000│102.02.21 │3G哈拉精省398 │                │
+│    │          │    │洪淑梅    │0000000000│102.02.21 │3G哈拉精省398 │                │
 │    │          │    ├──────┤          │          │限24＋SMART150│                │
 │    │          │    │全國通訊行  │          │          │限24手機方案  │                │
 ├──┼─────┼──┼──────┼─────┼─────┼───────┼────────┤
-│五  │102.03.04 │1   │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F56E2A0A00000040.GIF" />蘇威昆    │0000000000│102.02.24 │八折12個月哈拉│任懋勳共同犯行使│
+│五  │102.03.04 │1   │蘇威昆    │0000000000│102.02.24 │八折12個月哈拉│任懋勳共同犯行使│
 │    │（見本院卷│    ├──────┤          │          │精省398限36手 │偽造私文書罪，處│
-│    │第224頁） │    │全國通訊行  │          │          │機方案-預繳   │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如│
+│    │第224頁） │    │全國通訊行  │          │          │機方案-預繳   │有期徒刑月，如│
 │    │          │    │            │          │          │1500          │易科罰金，以新臺│
 │    │          │    │            │          │          │              │幣壹仟元折算壹日│
 │    │          │    │            │          │          │              │。              │
@@ -730,88 +623,14 @@ function openwin(URL,arguments,width,height)
 │十七│遠傳行動電話/第三代行動通信業 │「洪淑梅」署名2枚 │警卷第159頁       │
 │    │務申請書                      │                  │偵卷第45頁（正本）│
 ├──┼───────────────┼─────────┼─────────┤
-│十八│遠傳行動電話/第三代行動通信業 │「<font color='red'>黃麗香</font>」署名2枚 │警卷第164頁       │
+│十八│遠傳行動電話/第三代行動通信業 │「黃麗香」署名2枚 │警卷第164頁       │
 │    │務申請書                      │                  │                  │
-└──┴───────────────┴─────────┴─────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10306\26\TCDM1036Q.02C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000031&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c31%2c20140626%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=31&jdate=1030626&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c31%2c20140626%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=31&jdate=1030626&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c31%2c20140626%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','31','1030626','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃麗香">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃麗香">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───────────────┴─────────┴─────────┘
+[*jrecno*]103,訴,31,20140626,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]31
+[*jdate*]1030626
+[*jcheck*]1

@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101矚上重訴11</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+cZcO0HaSlBdRkDXDChHZ7RbaxhU=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第4
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=11&jdate=1011026&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=11&jdate=1011026&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4','11','1011026','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,矚上重訴,11</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1011026</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　 101年度矚上重訴字第11號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=11&jdate=1011026&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=11&jdate=1011026&jcheck=1
+[*裁判字號*]101,矚上重訴,11
+[*裁判日期*]1011026
+[*裁判案由*]貪污治罪條例
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　 101年度矚上重訴字第11號
 上　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　許虞哲
 選任辯護人　林之嵐律師
@@ -165,20 +60,20 @@ function openwin(URL,arguments,width,height)
     日以其已申報財產交易所得繳交綜合所得稅為由，向北區國
     稅局提起復查，請求撤銷罰鍰處分。
 二、廖文權於中壢稽徵所查核逃漏稅期間，先於94年10月14日委
-    請立法委員<font color='red'>林郁方</font>向北區國稅局陳情謂：廖文權上述交易事
+    請立法委員林郁方向北區國稅局陳情謂：廖文權上述交易事
     實均已逐年申報財產交易所得繳納綜合所得稅，「請協助勿
     改課其他稅目，以維當事人權益」，該陳情書並經被告許虞
-    哲簽閱，<font color='red'>林郁方</font>另於94年10月24日召集財政部賦稅署、北區
+    哲簽閱，林郁方另於94年10月24日召集財政部賦稅署、北區
     國稅局、中壢稽徵所人員至立法院召開協調會，許虞哲則指
     派該局副局長陳瀛國、審查四科科長羅榮鎮、股長楊秀月與
-    賦稅署人員出席協調，會中<font color='red'>林郁方</font>、廖文權要求免依營業稅
+    賦稅署人員出席協調，會中林郁方、廖文權要求免依營業稅
     法補稅及處罰，惟未獲同意；嗣許虞哲再於94年11月3 日偕
-    同羅榮鎮、紀淑美與<font color='red'>林郁方</font>協調，<font color='red'>林郁方</font>要求免罰且核課期
+    同羅榮鎮、紀淑美與林郁方協調，林郁方要求免罰且核課期
     間為5 年，北區國稅局仍不同意，且依前開稅法規定將88至
     90年度違章營業部分，於94年11月17日作出上開裁罰處分，
-    其後<font color='red'>林郁方</font>再於94年12月13日在立法院召開協調會，許虞哲
-    再度偕同羅榮鎮、紀淑美與<font color='red'>林郁方</font>、廖文權協商，許虞哲等
-    仍未同意補稅免罰，末經<font color='red'>林郁方</font>提議，由許虞哲同意以北區
+    其後林郁方再於94年12月13日在立法院召開協調會，許虞哲
+    再度偕同羅榮鎮、紀淑美與林郁方、廖文權協商，許虞哲等
+    仍未同意補稅免罰，末經林郁方提議，由許虞哲同意以北區
     國稅局名義將本件報財政部核示。
 三、財政部賦稅署受理該案件後，林吉昌指示許虞哲率羅榮鎮赴
     賦稅署討論，會中決定由北區國稅局函文賦稅署函復同意免
@@ -209,7 +104,7 @@ function openwin(URL,arguments,width,height)
     文權獲取不法利益之犯意聯絡，以曲解稅務法令之方法，規
     避、違背營業稅法第51條、所得稅法第110 條裁罰及稅捐稽
     徵法第21條核課期間之規定，由許虞哲指示審查四科科長羅
-    榮鎮簽辦依<font color='red'>林郁方</font>、廖文權要求，擬同意補稅免罰，且核課
+    榮鎮簽辦依林郁方、廖文權要求，擬同意補稅免罰，且核課
     期間自7年改為5年，致廖文權獲取免繳營業稅本稅及罰鍰金
     額1億5,936萬3,568元、營利事業所得稅本稅及罰鍰金額1億
     1,569萬9,525元、綜合所得稅本稅及罰鍰3,872萬8,250元，
@@ -278,8 +173,8 @@ function openwin(URL,arguments,width,height)
     稅等資料影本、中壢稽徵所94年11月1日、4日移送裁罰廖文
     權88至90年違章營業漏稅資料影本、北區國稅局裁罰廖文權
     88至90年違章營業處分書等資料影本、廖文權94年12月29日
-    申請撤銷罰鍰復查申請書資料影本、立法委員<font color='red'>林郁方</font>要求北
-    區局廖文權案免補免罰資料影本、立法委員<font color='red'>林郁方</font>與北區局
+    申請撤銷罰鍰復查申請書資料影本、立法委員林郁方要求北
+    區局廖文權案免補免罰資料影本、立法委員林郁方與北區局
     、財政部賦稅署協議紀錄資料影本、紀淑美就廖文權案處理
     流程書面紀錄資料影本、被告於95年1月2日、1月6日就廖文
     權案，簽報財政部同意補稅免罰及更改核課期間公文影本、
@@ -327,23 +222,23 @@ function openwin(URL,arguments,width,height)
     受上開處分書後，於同年12月29日以其已申報財產交易所得
     繳交綜合所得稅為由，向北區國稅局提起復查，請求撤銷罰
     鍰處分。嗣中壢稽徵所查核逃漏稅期間，廖文權於94年10月
-    14日委請立法委員<font color='red'>林郁方</font>向北區國稅局陳情，被告乃指派國
-    稅局副局長率員參加<font color='red'>林郁方</font>於94年10月24日召集財政部賦稅
+    14日委請立法委員林郁方向北區國稅局陳情，被告乃指派國
+    稅局副局長率員參加林郁方於94年10月24日召集財政部賦稅
     署、北區國稅局、中壢稽徵所人員於立法院召開之協調會，
-    會中<font color='red'>林郁方</font>、廖文權要求免依營業稅法補稅及處罰，未獲同
-    意；嗣被告再於94年11月3 日偕同羅榮鎮、紀淑美與<font color='red'>林郁方
-    </font>協調，北區國稅局仍未同意免罰及核課期間為5 年；且於94
-    年11月17日作出前述裁罰處分。嗣<font color='red'>林郁方</font>再於94年12月13日
+    會中林郁方、廖文權要求免依營業稅法補稅及處罰，未獲同
+    意；嗣被告再於94年11月3 日偕同羅榮鎮、紀淑美與林郁方
+    協調，北區國稅局仍未同意免罰及核課期間為5 年；且於94
+    年11月17日作出前述裁罰處分。嗣林郁方再於94年12月13日
     在立法院召開協調會與被告及相關人員協商，被告仍未同意
-    補稅免罰，末經<font color='red'>林郁方</font>提議，被告同意以北區國稅局名義將
+    補稅免罰，末經林郁方提議，被告同意以北區國稅局名義將
     本件報由財政部核示等情，業據被告供述在卷，並有廖文權
     88至93年及94年1至8月漏稅事件之紀淑美查核報告及廖文權
     補繳營業稅等資料影本、中壢稽徵所94年11月1日、4日移送
     裁罰廖文權88至90年違章營業漏稅資料影本、北區國稅局裁
     罰廖文權88至90年違章營業處分書等資料影本、廖文權94年
-    12月29日申請撤銷罰鍰復查申請書資料影本、立法委員<font color='red'>林郁
-    方</font>要求北區局廖文權案免補免罰資料影本、立法委員<font color='red'>林郁方
-    </font>與北區局、財政部賦稅署協議紀錄資料影本、紀淑美就廖文
+    12月29日申請撤銷罰鍰復查申請書資料影本、立法委員林郁
+    方要求北區局廖文權案免補免罰資料影本、立法委員林郁方
+    與北區局、財政部賦稅署協議紀錄資料影本、紀淑美就廖文
     權案處理流程書面紀錄資料影本、北區國稅局中壢稽徵所出
     席會議或業務協調連繫報告單在卷可按，此部分事實堪以認
     定。
@@ -368,7 +263,7 @@ function openwin(URL,arguments,width,height)
     告所不爭，並有北區國稅局95年1月2日及95年1月5日簽呈（
     見偵查卷一第65至67、68至70頁）、財政部北區國稅局95年
     1月6日北區國審四字第0950001610 號函（見偵查卷二第162
-    至164 頁）在卷可稽。然被告指示所屬依立法委員<font color='red'>林郁方</font>與
+    至164 頁）在卷可稽。然被告指示所屬依立法委員林郁方與
     財政部賦稅署及北區國稅局協商共識報請財政部核示，究否
     應負貪污治罪條例第6條第1項第4 款之對於主管事務違背法
     令圖利私人罪責，首應審究者為被告究否有明知而故意曲解
@@ -399,12 +294,12 @@ function openwin(URL,arguments,width,height)
         於同年月15日批示如議辦理，有簽核資料可按（見他字
         卷四第129 頁），廖文權收受上開處分後，提起復查，
         亦有廖文權所具申請書可憑（見偵卷二第132至135頁）
-        。嗣廖文權透過立法委員<font color='red'>林郁方</font>陳情，召開協調會，經
+        。嗣廖文權透過立法委員林郁方陳情，召開協調會，經
         被告派員或自行參與立法委員於94年10月24日、94年11
         月3 日、94年12月13日就廖文權案召開之協調會，北區
         國稅局均未同意廖文權免補營業稅及免予裁罰、免罰且
         核課期間5 年、補稅免罰，迄94年12月13日協調會被告
-        始同意依<font color='red'>林郁方</font>委員之議，就所請核課期間為5 年及免
+        始同意依林郁方委員之議，就所請核課期間為5 年及免
         罰等事，待廖文權繳清營業稅，由北區國稅局專案報請
         財政部核示等情，業如前述，並有財政部臺灣省北區國
         稅局審查四科出席會議或業務協調連繫報告單、北區國
@@ -766,7 +661,7 @@ function openwin(URL,arguments,width,height)
       險等語（見原審卷三第305 頁背面）；核與被告供述先核
       課上開三年度營業本稅及罰鍰之原由未悖，堪信屬實。
 （七）綜上所述，依現存卷證資料，尚無足證明被告指示所屬依
-      立法委員<font color='red'>林郁方</font>與財政部賦稅署及北區國稅局協商共識報
+      立法委員林郁方與財政部賦稅署及北區國稅局協商共識報
       請財政部核示，並就所屬簽擬意見批核有何明知違背法令
       而圖利私人之主觀犯意。至北區國稅局就廖文權案核課期
       間之認定，縱或與最高行政法院上述見解未符，然就其簽
@@ -916,21 +811,21 @@ function openwin(URL,arguments,width,height)
       規定即有未符，是廖文權違章未為營業登記且逃漏鉅額營
       業稅，行政機關僅能依法處罰。
     4.廖文權於中壢稽徵所查核逃漏稅期間，先於94年10月14日
-      請託立法委員<font color='red'>林郁方</font>向北區國稅局陳情，主張已逐年申報
+      請託立法委員林郁方向北區國稅局陳情，主張已逐年申報
       財產交易所得繳納綜合所得稅，勿改課其他稅目，該陳情
       書並經被告簽閱。同年10月24日被告指派國稅局副局長率
-      員與<font color='red'>林郁方</font>協調，廖文權要求免依營業稅法補稅及免罰未
-      獲同意。94年11月3 日被告率羅榮鎮、紀淑美與<font color='red'>林郁方</font>再
+      員與林郁方協調，廖文權要求免依營業稅法補稅及免罰未
+      獲同意。94年11月3 日被告率羅榮鎮、紀淑美與林郁方再
       度協調，北區國稅局仍未同意免罰及核課期間為5 年，甚
       且依稅法規定，於94年11月17日作出裁罰3 倍罰鍰之行政
-      處分。94年12月13日，<font color='red'>林郁方</font>再於立法院召開協調會與被
+      處分。94年12月13日，林郁方再於立法院召開協調會與被
       告及相關人員協商，被告等人仍未同意補稅免罰，最後依
-      <font color='red'>林郁方</font>提議，由被告同意以北區國稅局名義報部財政部核
+      林郁方提議，由被告同意以北區國稅局名義報部財政部核
       示。事後被告受當時賦稅署署長林吉昌（已歿）之命，率
       羅榮鎮與林吉昌等官員討論免罰之道，決議由國稅局函文
       賦稅署函復同意免罰及核課期間為5 年解套。從上開廖文
       權案件進行始末，足見案發時就本件應依法課徵營業稅並
-      處罰一事並無疑義，且在立法委員<font color='red'>林郁方</font>初始介入本案時
+      處罰一事並無疑義，且在立法委員林郁方初始介入本案時
       ，經多次協調會稅務機關並未同意補稅免罰，甚且於協調
       會期間仍處分裁罰，益徵廖文權案自始無從免罰。
     5.被告於94年任職於北區國稅局局長期間，該局曾查獲胡武
@@ -1216,86 +1111,12 @@ function openwin(URL,arguments,width,height)
 刑事訴訟法第377條至第379條、第393條第1款之規定，
 於前項案件之審理，不適用之。
                                   書記官   郭家慧 
-中    華    民    國   101    年    11    月    1     日</pre>
-<!-- 原因：[性交] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTPH\CRIMINAL\10110\26\TPHM101AQ.019] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共6
-											筆 / 現在第4
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e9%83%81%e6%96%b9&sdate=&edate=&page=&searchkw=%e6%9e%97%e9%83%81%e6%96%b9&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=11&jdate=1011026&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4&jno=11&jdate=1011026&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4%2c11%2c20121026%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e7%9f%9a%e4%b8%8a%e9%87%8d%e8%a8%b4','11','1011026','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林郁方">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林郁方">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   101    年    11    月    1     日
+[*jrecno*]101,矚上重訴,11,20121026,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]矚上重訴
+[*jno*]11
+[*jdate*]1011026
+[*jcheck*]1

@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-102重上更(二)12</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+7XBz3Uwut7e0rPhcCF3mLrWrze8=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&selectedCrmno=000012&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&jno=12&jdate=1040326&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&jno=12&jdate=1040326&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','102','%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)','12','1040326','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,重上更(二),12</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040326</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　 102年度重上更(二)字第12號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&jno=12&jdate=1040326&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&selectedCrmno=000012&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&jno=12&jdate=1040326&jcheck=1
+[*裁判字號*]102,重上更(二),12
+[*裁判日期*]1040326
+[*裁判案由*]毒品危害防制條例等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　 102年度重上更(二)字第12號
 上　訴　人　臺灣基隆地方法院檢察署檢察官
 被　　　告　王明賢
 指定辯護人　本院公設辯護人李廣澤
@@ -172,14 +67,14 @@ function openwin(URL,arguments,width,height)
     日本海上保安廳人員即向我國行政院海岸巡防署（下稱海巡
     署）通報，再轉報海洋巡防總局（下稱海巡總局）偵防查緝
     隊共同追緝。海巡署立即派遣海巡總局第七（蘇澳）海巡隊
-    由隊員<font color='red'>陳家宏</font>、黃嘉威分率該隊10023 及5025號巡防艇2 艘
+    由隊員陳家宏、黃嘉威分率該隊10023 及5025號巡防艇2 艘
     出發，日方「龍星丸」號及保安廳人員亦出動船隻追趕「新
     再發二號」漁船。而於同日13時18分許，「新再發二號」漁
     船在日本與那國島西方18.5浬海域（即東經122 度46分，北
     緯24度10分）處被日方船隻追到，同日下午2 時50分許，我
     國所出動之巡防艇2 艘亦趕至現場共同處理；日方人員向我
     國海巡隊人員說明發現毒品及追趕「新再發二號」漁船之經
-    過情形，海巡隊員<font color='red'>陳家宏</font>、黃嘉威並登上日本海上保安廳船
+    過情形，海巡隊員陳家宏、黃嘉威並登上日本海上保安廳船
     隻檢視日方人員自海上打撈之毒品一批，日方人員當場以試
     劑檢驗證實為甲基安非他命毒品，雙方交涉後，「新再發二
     號」漁船及王明賢、鄭塗柱、杜豐宜等人由我國海巡隊人員
@@ -516,7 +411,7 @@ function openwin(URL,arguments,width,height)
     因係就其親身體驗事實而為陳述，並非傳聞證據；如證人證
     述內容係轉述第3人陳述之內容，且用以證明待證事實之存
     否者，因屬傳聞證據，應依傳聞法則定其證據能力之有無。
-    查，證人<font color='red'>陳家宏</font>於偵查及原法院審理中之供詞，係針對當天
+    查，證人陳家宏於偵查及原法院審理中之供詞，係針對當天
     登船檢查之情形為證述（見93年度偵字第2684號卷一第139
     至140 頁、原審卷二第137 至140 頁）；而證人黃嘉威於原
     審及本院上訴審亦是就當天與日方人員一起調查本件運輸第
@@ -524,10 +419,10 @@ function openwin(URL,arguments,width,height)
     至137 頁、本院上訴字卷二第57頁反面至第62頁反面），均
     係其等本於親自聽聞體驗之經歷所為陳述，並非傳聞證詞。
     辯護人以其等之上開陳述為傳聞證據，認無證據能力，容有
-    誤會。又證人<font color='red'>陳家宏</font>於偵查中檢察官訊問時，業經具結擔保
+    誤會。又證人陳家宏於偵查中檢察官訊問時，業經具結擔保
     其陳述之可信性，且查無證據足資證明其於偵查中檢察官訊
     問時所為之陳述，有顯不可信之情形，是其上開陳述自得作
-    為證據。至於，證人<font color='red'>陳家宏</font>、黃嘉威於原審，證人黃嘉威於
+    為證據。至於，證人陳家宏、黃嘉威於原審，證人黃嘉威於
     本院上訴審審理時，均經以證人身分傳訊到庭具結作證，進
     行交互詰問，已予被告對質詰問之機會，保障其訴訟上之權
     利，本院審理時，並再提示渠等上開偵訊及原審之筆錄及告
@@ -573,11 +468,11 @@ function openwin(URL,arguments,width,height)
     ，被告王明賢等3 人及「新再發二號」漁船由我國海巡隊人
     員帶回等事實，為被告所是認，並經證人即當時任職於臺東
     富岡漁港伽蘭安檢所人員高凌維、陳泰翔於原審、證人即海
-    巡隊人員黃嘉威於原審及本院、證人即海巡隊人員<font color='red'>陳家宏</font>於
+    巡隊人員黃嘉威於原審及本院、證人即海巡隊人員陳家宏於
     原審時到庭證述屬實（證人高凌維部分見原審卷二第79頁，
     證人陳泰翔部分見原審卷二第125 、126 頁，證人黃嘉威部
     分見原審卷二第130-132 頁、本院上訴卷二第57至62頁，證
-    人<font color='red'>陳家宏</font>部分見原審卷二第137 、138 頁），並有安檢執勤
+    人陳家宏部分見原審卷二第137 、138 頁），並有安檢執勤
     工作紀錄簿一份為證（原審卷一第84、85頁），此部分事實
     堪以認定。
   (二)又「新再發二號」漁船進入日本國海域時，為日本水產廳所
@@ -1011,19 +906,19 @@ function openwin(URL,arguments,width,height)
     查知係毒品甲基安非他命後，即通報其國家之海上保安廳，
     日本海上保安廳並再聯繫我國海巡總局人員後，決定自後追
     趕「新再發二號」漁船並共同加以查緝，我國海巡總局亦指
-    派第七（蘇澳）海巡隊由該隊人員<font color='red'>陳家宏</font>、黃嘉威分率該隊
+    派第七（蘇澳）海巡隊由該隊人員陳家宏、黃嘉威分率該隊
     10023 及5025號巡防艇二艘至海上與日方人員會合共同查緝
-    被告三人及其漁船等情，已據證人<font color='red'>陳家宏</font>、黃嘉威於及海巡
+    被告三人及其漁船等情，已據證人陳家宏、黃嘉威於及海巡
     總局查緝隊鑑識組人員陳維新等人證述屬實。且被告王明賢
     於93年7 月13日中午前後即於航行途中遭日本海上保安廳人
     員以有運送毒品甲基安非他命為由加以攔截一情，為被告於
     本院上訴審審理時所認（本院上訴卷二第36頁）。是本案雖
     未有毒品扣押於我國司法單位，惟日本水產廳人員有自海上
     打撈得疑似毒品之漂流物4 大包物件，則為事實。且依證人
-    <font color='red'>陳家宏</font>、黃嘉威所證，渠二人於當日下午在海上與日方海上
+    陳家宏、黃嘉威所證，渠二人於當日下午在海上與日方海上
     保安廳人員會合後，均有登上日方海上保安廳船隻檢視日方
     所打撈取之毒品，日方人員並當場以試劑確認該批漂流物品
-    係毒品甲基安非他命等情，業據證人<font color='red'>陳家宏</font>於原法院審理中
+    係毒品甲基安非他命等情，業據證人陳家宏於原法院審理中
     證稱：（問：你有無看到日方檢驗毒品的情況？）有，當時
     扣案物品放在左船艙，日方人員取出樣品進行檢驗，日方表
     示這是日本使用的檢測劑，當場測試後，向我們表示有毒品
@@ -1093,7 +988,7 @@ function openwin(URL,arguments,width,height)
     試劑滴入後，呈現藍色，與日方提出之試劑說明書所記載之
     顏色相符，該試劑之綠色包裝盒記載為「興奮劑試劑」等，
     亦有原審勘驗筆錄一份為憑（見原審卷一第166 頁）；得徵
-    證<font color='red'>陳家宏</font>、黃嘉威上開所證有登上日本海上保安廳船隻檢視
+    證陳家宏、黃嘉威上開所證有登上日本海上保安廳船隻檢視
     日方所查扣之毒品及日方人員有當場以試劑檢驗確認為毒品
     甲基安非他命等各節，均為事實，可以採信。再依證人黃嘉
     威於本院上訴審供證：因當日出勤未有準備相關之毒品檢驗
@@ -1118,7 +1013,7 @@ function openwin(URL,arguments,width,height)
     4 月4 日管檢字第0000000000號函暨附件一份在卷可稽（見
     原審卷一第44至56頁），可知上開鑑定方法，係經行政院衛
     生署認可之分析法。綜上，日本海上保安廳人員於上開時地
-    ，與我國海巡人員<font color='red'>陳家宏</font>、黃嘉威等人會合後，日方於其船
+    ，與我國海巡人員陳家宏、黃嘉威等人會合後，日方於其船
     隻上就查扣毒品所使用之初步檢驗方法，可用於檢驗毒品甲
     基安非他命無誤，則上開檢驗結果以日方所查扣之海上漂流
     物白色結晶粉末係毒品甲基安非他命一節，應為屬實，可以
@@ -1151,7 +1046,7 @@ function openwin(URL,arguments,width,height)
     ）有。（問：請說明該漁船的狀況，有無漁獲？）船上沒有
     漁獲也沒有冰塊…（問：你登上新再發二號漁船時，船上有
     無任何捕魚的工具？）我記得有幾件草蓆，漁具不多云云（
-    見原審卷二第131 頁、第136 頁）；另證人<font color='red'>陳家宏</font>亦證稱：
+    見原審卷二第131 頁、第136 頁）；另證人陳家宏亦證稱：
     （問：當天你有無登上新再發二號漁船？）有。（問：你登
     船之後，該船與其他漁船有無不同？）船尾有幾件草蓆，沒
     有漁具，前方魚獲艙沒有任何漁獲。（提示93年度偵字第26
@@ -1409,86 +1304,12 @@ function openwin(URL,arguments,width,height)
 之，如全部或一部不能沒收時，追徵其價額或以其財產抵償之。
 為保全前項價額之追徵或以財產抵償，得於必要範圍內扣押其財
 產。
-犯第 4 條之罪所使用之水、陸、空交通工具沒收之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10403\26\TPHM1043Q.019] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共15
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&selectedCrmno=000012&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&jno=12&jdate=1040326&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)&jno=12&jdate=1040326&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)%2c12%2c20150326%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','102','%e9%87%8d%e4%b8%8a%e6%9b%b4(%e4%ba%8c)','12','1040326','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳家宏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳家宏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+犯第 4 條之罪所使用之水、陸、空交通工具沒收之。
+[*jrecno*]102,重上更(二),12,20150326,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]重上更(二)
+[*jno*]12
+[*jdate*]1040326
+[*jcheck*]1

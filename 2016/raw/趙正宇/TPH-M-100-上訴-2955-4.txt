@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-100上訴2955</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002955&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%b6%99%e6%ad%a3%e5%ae%87&sdate=&edate=&page=&searchkw=%e8%b6%99%e6%ad%a3%e5%ae%87&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%b6%99%e6%ad%a3%e5%ae%87&sdate=&edate=&page=&searchkw=%e8%b6%99%e6%ad%a3%e5%ae%87&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=2955&jdate=1011214&jcheck=4">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=2955&jdate=1011214&jcheck=4">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','100','%e4%b8%8a%e8%a8%b4','2955','1011214','4')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,上訴,2955</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1011214</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">傷害致死等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 100年度上訴字第2955號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=2955&jdate=1011214&jcheck=4
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002955&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=2955&jdate=1011214&jcheck=4
+[*裁判字號*]100,上訴,2955
+[*裁判日期*]1011214
+[*裁判案由*]傷害致死等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 100年度上訴字第2955號
 上　訴　人　鍾仕綺
 即　被　告　　　　　
 選任辯護人　洪大明律師
@@ -148,15 +41,15 @@ function openwin(URL,arguments,width,height)
     。（一）緣戊○○於97年12月22日晚上8時許，至新竹縣○
     ○鎮○○路○段000號奇檬子PUB飲酒，庚○○亦至該處。同
     日晚上9時許，戊○○邀庚○○同至愛人卡拉OK飲酒，未久
-    庚○○找甲○○、<font color='red'>趙正宇</font>及真實姓名年籍不詳之成年男子（
-    下稱某甲）與戊○○共同飲酒，詎庚○○與甲○○、<font color='red'>趙正宇
-    </font>（99年2月13日死亡，不起訴處分確定）及某甲，共同意圖
+    庚○○找甲○○、趙正宇及真實姓名年籍不詳之成年男子（
+    下稱某甲）與戊○○共同飲酒，詎庚○○與甲○○、趙正宇
+    （99年2月13日死亡，不起訴處分確定）及某甲，共同意圖
     為自己不法之所有，基於詐欺取財犯意聯絡，由庚○○提議
     以把玩骰子比大小賭博助興，並提供新臺幣（下同）一萬元
     賭金，供戊○○押注閒家，戊○○一萬元賭金賭輸後，庚○
     ○另提議與戊○○合股做莊，由戊○○丟擲骰子，供甲○○
-    、<font color='red'>趙正宇</font>及某甲押注，戊○○僅丟擲五、六次骰子後，庚○
-    ○、甲○○、<font color='red'>趙正宇</font>及某甲，即向戊○○虛構其與庚○○合
+    、趙正宇及某甲押注，戊○○僅丟擲五、六次骰子後，庚○
+    ○、甲○○、趙正宇及某甲，即向戊○○虛構其與庚○○合
     股，已賭輸四百萬元，拿出庚○○提供之空白本票，詢問戊
     ○○如何處理賭債，要求戊○○簽發本票清償賭債，戊○○
     因酒精作用判斷能力降低，在庚○○等人要求簽發本票情況
@@ -164,13 +57,13 @@ function openwin(URL,arguments,width,height)
     萬元本票四紙（下稱系爭本票，票號：CH487558、CH000000
     至487562號，發票日期各為97年12月24、24、25、24日），
     由庚○○持有戊○○簽發之本票四紙。97年12月23日晚上7
-    時許，庚○○、甲○○、<font color='red'>趙正宇</font>，至新竹縣北埔鄉○○街00
+    時許，庚○○、甲○○、趙正宇，至新竹縣北埔鄉○○街00
     號戊○○住處，詢問戊○○、丙○○賭債處理事宜，同日晚
     上9時許，戊○○因被討債憂鬱症發作，被家人送至為恭紀
     念醫院住院治療（至98年1月10日）。97年12月24日下午5時
-    50分許，庚○○、甲○○、<font color='red'>趙正宇</font>又至戊○○之住處，庚○
+    50分許，庚○○、甲○○、趙正宇又至戊○○之住處，庚○
     ○持系爭本票影本，交戊○○之祖母，97年12月25日晚上6
-    、7時許，庚○○、甲○○、<font color='red'>趙正宇</font>再至戊○○之住處，詢
+    、7時許，庚○○、甲○○、趙正宇再至戊○○之住處，詢
     問丙○○賭債處理事宜。（二）庚○○（成年人）因前揭賭
     債事宜，心生不滿，另基於恐嚇危害安全接續犯意，先指示
     真實姓名年籍不詳成年男子，駕車牌號碼不詳銀色小客車，
@@ -188,7 +81,7 @@ function openwin(URL,arguments,width,height)
     等器械，砸毀該處大門及窗戶玻璃（毀損部分未據告訴），
     彭麗榕、丙○○經村長告知，返家查看後始悉此情，使彭麗
     榕、丙○○心生畏懼，致生危害於安全。續於同日上午10時
-    13分許，由<font color='red'>趙正宇</font>駕車載庚○○、己○○（成年人）、陳明
+    13分許，由趙正宇駕車載庚○○、己○○（成年人）、陳明
     興、少年彭○雄（年籍詳卷，經臺灣新竹地方法院少年法庭
     裁定訓誡假日生活輔導）前往該處，承前共同恐嚇危害安全
     犯意聯絡，由庚○○指示己○○、陳明興擋住出入口，阻止
@@ -206,7 +99,7 @@ function openwin(URL,arguments,width,height)
     理  由
 一、程序及證據能力部分：檢察官起訴書犯罪事實欄附表編號4
     ，原記載上開事實欄一（二）恐嚇取財未遂部分，係庚○○
-    、甲○○、<font color='red'>趙正宇</font>前往戊○○位於新竹縣北埔鄉住處索款未
+    、甲○○、趙正宇前往戊○○位於新竹縣北埔鄉住處索款未
     果，渠等知悉戊○○根本未積欠上述款項，竟基於取得該款
     項之同一目的，採取潑漆、砸玻璃之恐嚇手段欲戊○○或其
     家人就範。嗣第一審檢察官於民國100年2月14日原審準備程
@@ -310,9 +203,9 @@ function openwin(URL,arguments,width,height)
 二、事實一（一）部分：庚○○雖坦承於97年12月22日晚上8時
     許，與戊○○在奇檬子PUB飲酒，並與戊○○至愛人卡拉OK
     飲酒，嗣後亦至戊○○住處詢問賭債處理事宜，惟否認詐欺
-    取財犯行，辯稱略以：戊○○在愛人卡拉OK賭輸<font color='red'>趙正宇</font>四百
-    萬元，簽發本票係<font color='red'>趙正宇</font>之朋友提供，簽發後交<font color='red'>趙正宇</font>，嗣
-    後陪<font color='red'>趙正宇</font>至戊○○住處云云；甲○○固坦承二次開車載庚
+    取財犯行，辯稱略以：戊○○在愛人卡拉OK賭輸趙正宇四百
+    萬元，簽發本票係趙正宇之朋友提供，簽發後交趙正宇，嗣
+    後陪趙正宇至戊○○住處云云；甲○○固坦承二次開車載庚
     ○○至戊○○住處，詢問賭債處理事宜，惟否認詐欺取財犯
     行，辯稱略以：沒有在愛人卡拉OK參與詐欺取財犯行云云。
     經查：
@@ -343,15 +236,15 @@ function openwin(URL,arguments,width,height)
     在愛人卡拉OK內簽的沒錯。」、「（今警方出示甲○○之彩
     色相片供你指認，這個甲○○於97年12月22日當天晚上是否
     有參與這場詐賭？）確定有」（第9號偵卷第45至47頁）；
-    於98年1月4日警詢時證稱略以：「（今警方出示<font color='red'>趙正宇</font>之彩
-    色相片，你是否認識這位<font color='red'>趙正宇</font>？）認識。他就是在97年12
-    月22日當天晚上，我們就是一起賭博的其中一個」、「（<font color='red'>趙
-    正宇</font>是否有參與發生於97年12月22日21時許，在竹東鎮北興
+    於98年1月4日警詢時證稱略以：「（今警方出示趙正宇之彩
+    色相片，你是否認識這位趙正宇？）認識。他就是在97年12
+    月22日當天晚上，我們就是一起賭博的其中一個」、「（趙
+    正宇是否有參與發生於97年12月22日21時許，在竹東鎮北興
     路二段200號愛人卡拉OK內擲骰子比大小之賭博？）確定有
     」、「97年12月22日21時許當天晚上，庚○○提議說我與他
-    一同做莊給<font color='red'>趙正宇</font>、甲○○及還有一位我不認識之男子押注
+    一同做莊給趙正宇、甲○○及還有一位我不認識之男子押注
     ，庚○○叫我擲骰子，丟了五、六次後他們就說我輸了四百
-    萬元，庚○○就說不要玩了，<font color='red'>趙正宇</font>就逼我簽本票」、「（
+    萬元，庚○○就說不要玩了，趙正宇就逼我簽本票」、「（
     你提供給警方四張面額各一百萬元本票影本編號分別為CHNO
     000000、CHNO487561、CHNO487560、CHNO487558。你於第一
     次筆錄中供稱，這四張本票是你本人於97年12月22日晚上在
@@ -363,7 +256,7 @@ function openwin(URL,arguments,width,height)
     供我押注閒家使用，又我丟擲骰子數次後，庚○○即要求我
     簽發本票，我當時迷迷糊糊搞不清楚狀況等語（第9號偵卷
     第118頁），而戊○○就其僅丟擲五、六次骰子後，庚○○
-    、甲○○、<font color='red'>趙正宇</font>及真實姓名年籍不詳之成年男子，向其虛
+    、甲○○、趙正宇及真實姓名年籍不詳之成年男子，向其虛
     構與庚○○合股賭輸四百萬元，要求簽發本票清償賭債，因
     飲酒判斷能力降低，在庚○○等人要求簽發本票情況下，陷
     於錯誤，誤信欠四百萬元賭款，而簽發面額一百萬元本票四
@@ -374,29 +267,29 @@ function openwin(URL,arguments,width,height)
     ○○簽發面額一百萬元之本票四紙等語（第9號偵卷第10至
     11、141頁），庚○○之陳述有致自己受刑事追訴或處罰風
     險，且與戊○○證述情節相符，足見戊○○指訴上情堪以採
-    信。再甲○○於原審時稱：與庚○○、<font color='red'>趙正宇</font>分別於97年12
+    信。再甲○○於原審時稱：與庚○○、趙正宇分別於97年12
     月23、24、25日至戊○○住處，詢問戊○○、丙○○賭債處
     理事宜等語（原審筆錄卷一第211頁），核與庚○○於偵查
-    時稱：戊○○簽發本票後翌日，有與甲○○、<font color='red'>趙正宇</font>至戊○
+    時稱：戊○○簽發本票後翌日，有與甲○○、趙正宇至戊○
     ○住處，詢問賭債處理事宜等語大致相符（第9號偵卷第141
     至143頁），且經丙○○於偵查、原審時證述明確（第9號偵
     卷第115至116、158至159頁、原審筆錄卷二第228至244頁）
-    ，堪認庚○○、甲○○、與<font color='red'>趙正宇</font>分別於97年12月23、24、
+    ，堪認庚○○、甲○○、與趙正宇分別於97年12月23、24、
     25日至戊○○住處，詢問賭債處理事宜等情屬實。
 (二)、庚○○於警詢時自承：「（空白本票是何人準備的？）我出
     去買的」、「（戊○○所簽具四張每張面額一百萬元之本票
     正本在何處？）在我那邊」、「（今警方出示，四張面額各
     一百萬元本票影本，編號分別是CHN0000000、CHN0000000、
     CHN0000000、CHN0000000，這四張本票影本是否為你於97年
-    12月23日18時許，你帶著甲○○及<font color='red'>趙正宇</font>到戊○○家中索討
+    12月23日18時許，你帶著甲○○及趙正宇到戊○○家中索討
     這賭債時，由你本人拿給戊○○的？）是的」等語（第9號
     偵卷第11頁），核與丙○○於偵查、原審時證稱：庚○○、
-    甲○○、<font color='red'>趙正宇</font>至戊○○住處詢問賭債處理事宜時，庚○○
+    甲○○、趙正宇至戊○○住處詢問賭債處理事宜時，庚○○
     並有持上開本票影本等語相符（第9號偵卷第115頁、原審筆
     錄卷二第229至230、239頁背面），足認戊○○簽發之本票
     係由庚○○提供，簽發後亦係由庚○○持有，而庚○○、甲
-    ○○、<font color='red'>趙正宇</font>至戊○○住處詢問賭債處理事宜時，庚○○並
-    有持上開本票影本等情。又<font color='red'>趙正宇</font>於警詢時稱：「（97年12
+    ○○、趙正宇至戊○○住處詢問賭債處理事宜時，庚○○並
+    有持上開本票影本等情。又趙正宇於警詢時稱：「（97年12
     月23日18時許，庚○○是否有帶著你及甲○○到戊○○家中
     索討這400萬元之賭債？）有。還沒去的時候不知道，當天
     是庚○○要我載他去北埔，快到戊○○家時是庚○○說是要
@@ -410,28 +303,28 @@ function openwin(URL,arguments,width,height)
     ○有積欠其賭債等語大致相符（原審筆錄卷一第211頁），
     且丙○○於原審時證稱：庚○○當時說戊○○是積欠他賭債
     ，所以都是庚○○出面詢問賭債處理事宜等語屬實（原審筆
-    錄卷二第240頁），益見係庚○○邀甲○○、<font color='red'>趙正宇</font>同至戊
+    錄卷二第240頁），益見係庚○○邀甲○○、趙正宇同至戊
     ○○住處，詢問戊○○積欠其賭債之處理事宜。
 (三)、戊○○於97年12月30日警詢時證稱：於97年12月23日，庚○
     ○有帶二位前一天有與我一起賭博的男子到我家等語（第9
-    號偵卷第45頁），而庚○○、甲○○、<font color='red'>趙正宇</font>分別於97年12
+    號偵卷第45頁），而庚○○、甲○○、趙正宇分別於97年12
     月23、24、25日至戊○○住處詢問賭債處理事宜等情，參以
     戊○○於警詢時就員警提示之照片辨認，指認結果與實際情
     形相合，足徵甲○○確有於97年12月22日晚上9時許，與庚
-    ○○、<font color='red'>趙正宇</font>、戊○○在愛人卡拉OK把玩骰子比大小賭博。
-    而庚○○於原審時稱：賭債之債權人係<font color='red'>趙正宇</font>，因<font color='red'>趙正宇</font>不
-    知戊○○住處，所以我陪同<font color='red'>趙正宇</font>一起去，另我找甲○○同
+    ○○、趙正宇、戊○○在愛人卡拉OK把玩骰子比大小賭博。
+    而庚○○於原審時稱：賭債之債權人係趙正宇，因趙正宇不
+    知戊○○住處，所以我陪同趙正宇一起去，另我找甲○○同
     去之原因係因我沒有車等語（原審筆錄卷三第305頁背面至
     第306頁），惟戊○○簽發之本票上業已載明其住址，有本
-    票影本可參（第9號偵卷第65頁），若<font color='red'>趙正宇</font>確係賭債之債
-    權人並持有本票，自無不知戊○○住處之理。又<font color='red'>趙正宇</font>於98
+    票影本可參（第9號偵卷第65頁），若趙正宇確係賭債之債
+    權人並持有本票，自無不知戊○○住處之理。又趙正宇於98
     年1月1日駕車載庚○○、己○○、陳明興、少年彭○雄至彭
     麗榕、丙○○住處，業據己○○於警詢時供述明確（第9號
-    偵卷第35頁），可見<font color='red'>趙正宇</font>確有車輛可載庚○○至戊○○住
+    偵卷第35頁），可見趙正宇確有車輛可載庚○○至戊○○住
     處，無再找甲○○同行之必要。再甲○○於原審時稱：不知
     庚○○係從事何業等語（原審筆錄卷一第211頁），可知甲
-    ○○與庚○○不熟，倘非甲○○與庚○○、<font color='red'>趙正宇</font>共同參與
-    賭博，豈有連續三日夥同庚○○、<font color='red'>趙正宇</font>至戊○○住處追討
+    ○○與庚○○不熟，倘非甲○○與庚○○、趙正宇共同參與
+    賭博，豈有連續三日夥同庚○○、趙正宇至戊○○住處追討
     債務之理。而庚○○在奇檬子PUB遇見戊○○前，僅有在某
     護膚店見過戊○○一次，且對戊○○之家庭狀況無所知悉等
     情，業據庚○○供承在卷（原審筆錄卷(三)第304至305頁），
@@ -443,14 +336,14 @@ function openwin(URL,arguments,width,height)
     給真實姓名年籍不詳綽號阿旦之人四百餘萬，我也輸給綽號
     阿旦之人二百萬，所以我也有簽發面額二百萬元之本票一紙
     等語（第9號偵卷第141頁），惟戊○○簽發後之本票係由庚
-    ○○持有，且係庚○○邀甲○○、<font color='red'>趙正宇</font>同至戊○○住處，
+    ○○持有，且係庚○○邀甲○○、趙正宇同至戊○○住處，
     詢問戊○○積欠其賭債之處理事宜，若其與戊○○同為債務
     人，並非賭債之債權人，豈會持有戊○○簽發之本票，向戊
-    ○○逼債。再庚○○、甲○○、<font color='red'>趙正宇</font>如與戊○○僅係單純
+    ○○逼債。再庚○○、甲○○、趙正宇如與戊○○僅係單純
     賭博，庚○○自可於偵查時據實以告，然庚○○卻於警詢、
-    偵查時，隱瞞<font color='red'>趙正宇</font>當日有參與賭博之情，甚虛偽稱當日係
+    偵查時，隱瞞趙正宇當日有參與賭博之情，甚虛偽稱當日係
     真實姓名年籍不詳綽號阿旦之人與戊○○賭博，益徵庚○○
-    、甲○○、<font color='red'>趙正宇</font>與戊○○間，顯非單純賭博之事，而係預
+    、甲○○、趙正宇與戊○○間，顯非單純賭博之事，而係預
     謀詐賭犯罪。
 (四)、再庚○○於警詢時先稱：「（你與戊○○喝酒過程中，尚有
     何人陸續加入？）其中一位男的，我只知道他叫阿旦。還有
@@ -462,7 +355,7 @@ function openwin(URL,arguments,width,height)
     （空白本票是何人準備的？）我出去買的」、「（現戊○○
     所簽具四張每張面額一百萬元之本票正本在何處？）在我那
     邊」、「（這四張本票影本是否為你於97年12月23日18時許
-    ，你帶著甲○○及<font color='red'>趙正宇</font>到戊○○家中索討這賭債時，由你
+    ，你帶著甲○○及趙正宇到戊○○家中索討這賭債時，由你
     本人拿給戊○○的？）是的」（第9號偵卷第10至11頁）；
     然於偵查時改稱：當日係我、真實姓名年籍不詳綽號阿旦之
     人與戊○○在愛人卡拉OK賭博，我有和戊○○合股與綽號阿
@@ -470,29 +363,29 @@ function openwin(URL,arguments,width,height)
     總共輸給綽號阿旦之人四百萬元，綽號阿旦之人的朋友就去
     買本票，戊○○就簽發面額一百萬元之本票四紙，我也簽發
     面額二百萬元之本票一紙交予綽號阿旦之人（第9號偵卷第1
-    41頁）；於原審時又先後稱：當日係我、<font color='red'>趙正宇</font>與戊○○在
-    愛人卡拉OK，但只有<font color='red'>趙正宇</font>與戊○○在對賭，我雖全程在場
+    41頁）；於原審時又先後稱：當日係我、趙正宇與戊○○在
+    愛人卡拉OK，但只有趙正宇與戊○○在對賭，我雖全程在場
     目睹賭博及簽發本票之過程，惟並無參與賭博（原審筆錄卷
-    一第90頁）；當日係我、<font color='red'>趙正宇</font>、某真實姓名年籍不詳之人
-    與戊○○在愛人卡拉OK，但只有<font color='red'>趙正宇</font>與戊○○在對賭，戊
-    ○○簽發之本票亦係交予<font color='red'>趙正宇</font>（原審筆錄卷一第288頁背
-    面）；當日係我、<font color='red'>趙正宇</font>、某真實姓名年籍不詳之人與戊○
-    ○在愛人卡拉OK，但只有<font color='red'>趙正宇</font>、某真實姓名年籍不詳之人
+    一第90頁）；當日係我、趙正宇、某真實姓名年籍不詳之人
+    與戊○○在愛人卡拉OK，但只有趙正宇與戊○○在對賭，戊
+    ○○簽發之本票亦係交予趙正宇（原審筆錄卷一第288頁背
+    面）；當日係我、趙正宇、某真實姓名年籍不詳之人與戊○
+    ○在愛人卡拉OK，但只有趙正宇、某真實姓名年籍不詳之人
     與戊○○在對賭，我並沒有借戊○○一萬元，也沒有提供本
     票，亦無持有戊○○簽發之本票（原審筆錄卷一第321頁）
-    ；當日係有<font color='red'>趙正宇</font>與戊○○對賭，我與綽號阿旦之人對賭，
-    我有輸給綽號阿旦之人二百萬元，戊○○總共輸<font color='red'>趙正宇</font>及綽
+    ；當日係有趙正宇與戊○○對賭，我與綽號阿旦之人對賭，
+    我有輸給綽號阿旦之人二百萬元，戊○○總共輸趙正宇及綽
     號阿旦之人四百萬元等語（原審筆錄卷二第273至276頁）。
     庚○○既自承當日全程在場目睹賭博及簽發本票之過程，則
     庚○○對於參與賭博之人、賭博輸贏、賭債處理顯無可能不
     知情，然其就參與賭博之人究係其與戊○○、綽號阿旦之人
-    或係戊○○與綽號阿旦之人，或係戊○○與<font color='red'>趙正宇</font>，抑或係
-    戊○○與<font color='red'>趙正宇</font>對賭，其與綽號阿旦之人對賭；賭博之贏家
-    究係綽號阿旦之人或<font color='red'>趙正宇</font>；輸家僅有戊○○抑或係其與戊
+    或係戊○○與綽號阿旦之人，或係戊○○與趙正宇，抑或係
+    戊○○與趙正宇對賭，其與綽號阿旦之人對賭；賭博之贏家
+    究係綽號阿旦之人或趙正宇；輸家僅有戊○○抑或係其與戊
     ○○；戊○○簽發之本票係由何人提供，嗣後係由何人持有
     戊○○簽發之本票等重點，所述前後不一，是庚○○所辯並
     無詐賭之情事與該不詳姓名者云云，顯係卸責之詞，不足採
-    信。而甲○○如未參與賭博，何需與庚○○及<font color='red'>趙正宇</font>到戊○
+    信。而甲○○如未參與賭博，何需與庚○○及趙正宇到戊○
     ○中索討賭債。況甲○○坦承於二次開車載庚○○至戊○○
     住處，詢問賭債處理事宜，其雖否認詐欺取財犯行，辯稱略
     以：沒有在愛人卡拉OK參與詐欺取財犯行云云。而丁○○亦
@@ -512,15 +405,15 @@ function openwin(URL,arguments,width,height)
     戊○○住處，詢問賭債處理事宜之情節，先後陳述或稍有差
     異，惟此或因案發後迄調查、審理時無法明確記憶，尚難因
     此即認戊○○、丙○○之陳述不可採。另庚○○、甲○○、
-    <font color='red'>趙正宇</font>所陳，就97年12月22日在愛人卡拉OK究有何人，97年
+    趙正宇所陳，就97年12月22日在愛人卡拉OK究有何人，97年
     12月23、25日何人至戊○○住處，詢問賭債處理事宜之情節
     ，先後陳述或有差異，然其等陳述內容，有致自己與被告同
     受追訴處罰風險，基於卸責刻意掩護，亦屬事理，因庚○○
-    、甲○○與<font color='red'>趙正宇</font>，均基於詐欺取財之犯意聯絡及行為分擔
+    、甲○○與趙正宇，均基於詐欺取財之犯意聯絡及行為分擔
     ，上開細節差異，不影響庚○○、甲○○刑事責任之認定。
     此外，復有前述四張本票影本、財團法人為恭紀念醫院100
     年2月7日函暨檢附之戊○○急診病歷、出院病歷摘要、乙種
-    診斷證明書等資料、<font color='red'>趙正宇</font>個人基本資料查詢結果在卷可證
+    診斷證明書等資料、趙正宇個人基本資料查詢結果在卷可證
     （第9號偵卷第65、177頁、原審書證卷一第228至232頁）。
     則鐘仕綺辯解此部分僅有戊○○指訴，無補強證據云云，即
     非可採。綜上，庚○○、甲○○此部分犯行事證明確，堪以
@@ -534,7 +427,7 @@ function openwin(URL,arguments,width,height)
     因酒醉始砸毀該處大門及窗戶玻璃云云；庚○○固坦承於98
     年1月1日凌晨3時15分前某時許，有告知乙○○關於其不滿
     戊○○積欠賭債事宜，暨彭麗榕、丙○○住處所在，另於98
-    年1月1日上午10時13分許，有由<font color='red'>趙正宇</font>駕車搭載其與己○○
+    年1月1日上午10時13分許，有由趙正宇駕車搭載其與己○○
     、陳明興、少年彭○雄同至該處，惟辯稱略以：未指示亦不
     知悉不詳之人於97年12月27日凌晨2時58分許，朝彭麗榕、
     丙○○住處潑灑油漆、丟擲石塊暨乙○○於98年1月1日凌晨
@@ -542,30 +435,30 @@ function openwin(URL,arguments,width,height)
     ，又因彭麗榕、丙○○先至我父母住處騷擾，才於98年1月1
     日至該處瞭解事情始末，無恐嚇危害安全之犯行云云；己○
     ○否認恐嚇危害安全犯行，辯稱略以：因庚○○告知彭麗榕
-    、丙○○先至庚○○父母住處騷擾，始與庚○○、<font color='red'>趙正宇</font>、
+    、丙○○先至庚○○父母住處騷擾，始與庚○○、趙正宇、
     陳明興、少年彭○雄同至該處，然無恐嚇危害安全之犯行云
     云。經查：
 (一)、彭麗榕、丙○○於98年1月1日上午10時13分許，因遭庚○○
-    、<font color='red'>趙正宇</font>、己○○、陳明興、少年彭○雄等人言詞恫嚇及人
+    、趙正宇、己○○、陳明興、少年彭○雄等人言詞恫嚇及人
     數優勢下，致心生畏懼之事實，業據共同被告陳明興於原審
     時坦承（原審筆錄卷一第205頁背面至206頁），核與彭麗榕
     於偵查、原審少年法庭調查，及原審時證述情節大致相符（
     第9號偵卷第119、172至173頁、少調字第67號卷第101頁、
     原審筆錄卷二第244至264頁），且丙○○於原審時證述：庚
-    ○○於98年1月1日夥同<font color='red'>趙正宇</font>、己○○、陳明興、少年彭○
+    ○○於98年1月1日夥同趙正宇、己○○、陳明興、少年彭○
     雄至住處，庚○○先指示同行之人擋住出入口阻止在場人離
     去後，對我恫稱：「妳要全家死是嗎，敢報警」，又對彭麗
     榕恫稱：「妳很白目，敢報警，是否想全家死」，同行之人
     復對彭麗榕恫稱：「妳想全家死是嗎，敢報警，警政署有我
     的人」，致我與彭麗榕心生畏懼等語（原審筆錄卷二第232
     至237頁），另少年彭○雄於原審時證稱：98年1月1日我有
-    與庚○○、<font color='red'>趙正宇</font>、己○○、陳明興，同至彭麗榕、丙○○
+    與庚○○、趙正宇、己○○、陳明興，同至彭麗榕、丙○○
     住處，我並有對彭麗榕、丙○○說恐嚇或不利之言語，我有
     講叫他們不要再去人家家裡亂等語（原審筆錄卷二第268頁
     、第272頁），並有新竹縣政府警察局竹東分局100年4月18
     日函暨檢附之員警到場處理所抄錄在場人之年籍資料在卷可
     稽（原審書證卷二第68至70頁），是彭麗榕、丙○○於98年
-    1月1日上午10時13分許，遭庚○○、<font color='red'>趙正宇</font>、己○○、陳明
+    1月1日上午10時13分許，遭庚○○、趙正宇、己○○、陳明
     興、少年彭○雄等人言詞恫嚇，致心生畏懼之事實，已堪認
     定。
 (二)、乙○○於警詢及原審時自承：98年1月1日凌晨3時15分許，
@@ -608,7 +501,7 @@ function openwin(URL,arguments,width,height)
     騎乘機車，於97年12月27日凌晨2時58分許，朝彭麗榕、丙
     ○○住處潑灑油漆、丟擲石塊等情，業據彭麗榕、丙○○證
     述明確（第9號偵卷第114至117、158至160頁），又庚○○
-    於97年12月23、24、25日，與甲○○、<font color='red'>趙正宇</font>至戊○○住處
+    於97年12月23、24、25日，與甲○○、趙正宇至戊○○住處
     ，詢問丙○○賭債處理事宜致心生不滿，另庚○○於98年1
     月1日凌晨3時15分前某時許，告知乙○○關於其不滿戊○○
     積欠其賭債事宜暨彭麗榕、丙○○住處所在，故乙○○於98
@@ -675,21 +568,21 @@ function openwin(URL,arguments,width,height)
     相片）（這二人有看過？）乙○○不記得，彭○雄有到家裡
     」、「（彭○雄是何時來？）他是1月1日才來，他很凶，說
     他法院、警察都有認識的人」（第9號偵卷第119、172頁）
-    ；於原審時證稱：庚○○、<font color='red'>趙正宇</font>、己○○、陳明興、少年
+    ；於原審時證稱：庚○○、趙正宇、己○○、陳明興、少年
     彭○雄，於98年1月1日至我的住處，先由庚○○指示同行之
     人擋住出入口阻止在場人離去後，對丙○○恫稱：「妳要全
     家死是嗎，敢報警」，對我恫稱：「妳很白目，敢報警，是
-    否想全家死」，並詢問在場何人係彭麗榕，旋<font color='red'>趙正宇</font>認出我
+    否想全家死」，並詢問在場何人係彭麗榕，旋趙正宇認出我
     是戊○○之母，即向庚○○告稱：「不要給她出去，她就是
     戊○○的媽媽」，庚○○接續對我恫稱：「妳很白目，敢報
     警，是否想全家死」，少年彭○雄復對我恫稱：「妳想全家
     死是嗎，敢報警，警政署有我的人」，致我心生畏懼等語（
     原審筆錄卷二第244至259頁）。丙○○於偵查時證稱：「（
-    提示卷附相片）（98年1月1日除了庚○○、<font color='red'>趙正宇</font>外，還有
+    提示卷附相片）（98年1月1日除了庚○○、趙正宇外，還有
     那些人來？）己○○、彭○雄、陳明興」、「（98年1月1日
     當天情形？）他們就說「你們敢回來了哦，你們家被潑油漆
     、被砸干我們什麼事」，後來庚○○先進來，並叫二個小弟
-    在門口擋著，要閒雜人等不能進入，<font color='red'>趙正宇</font>就指著我婆婆對
+    在門口擋著，要閒雜人等不能進入，趙正宇就指著我婆婆對
     庚○○說，那就是戊○○的媽媽，庚○○指著我婆婆說「你
     很白目敢報警」，他叫其他人出去，留二個小弟顧門口，我
     婆婆就請朋友報警，一下子警察就來，警察來之前他又指著
@@ -701,23 +594,23 @@ function openwin(URL,arguments,width,height)
     ‧‧」等語（第9號偵卷第116至117頁），核與其於原審時
     證述內容大致相符（原審筆錄卷二第232至237頁）。又證人
     即當日在場之彭麗榕友人范素雲於警詢、偵查時亦證述：「
-    （今警方出示庚○○，<font color='red'>趙正宇</font>、陳明興、己○○及彭○雄彩
+    （今警方出示庚○○，趙正宇、陳明興、己○○及彭○雄彩
     色相片，你是否認識見過這五個人？）這五個人就是於98年
     1月1日上午10時13分許，到我朋友彭麗榕家裏討債之人，因
     為當天我有在場，所以我認得出他們5人。其中3號穿紅衣服
     格子的很兇，攔著我不准出門」、「（98年1月1日早上10點
-    多你們回家之後還有那些人到你們家？）<font color='red'>趙正宇</font>、庚○○、
+    多你們回家之後還有那些人到你們家？）趙正宇、庚○○、
     陳明興，陳明興站在門口，其他我比較沒有印象」等語（第
     9號偵卷第60至61、159頁）。彭麗榕、丙○○、范素雲上開
     證述內容，指證明確且渠等證詞互核相符，應係親身經歷而
     印象深刻始能於案發後近二年半之原審時，猶為清晰無誤之
-    指訴，又彭麗榕、丙○○、范素雲與庚○○、<font color='red'>趙正宇</font>、己○
+    指訴，又彭麗榕、丙○○、范素雲與庚○○、趙正宇、己○
     ○、陳明興、少年彭○雄究無夙怨，且彭麗榕於原審少年法
     庭調查時亦陳稱：「（是否願意原諒少年？）我可以給少年
     機會，少年這麼年輕和對方結識在一起，這少年要怎麼辦。
     而我兒子目前狀況很糟糕」（少調字第67號卷第102頁背面
-    ），實難認其等有虛構上揭情節以誣指被告庚○○、<font color='red'>趙正宇
-    </font>、己○○、陳明興、少年彭○雄之必要。且彭麗榕、丙○○
+    ），實難認其等有虛構上揭情節以誣指被告庚○○、趙正宇
+    、己○○、陳明興、少年彭○雄之必要。且彭麗榕、丙○○
     係經具結後證述，足徵彭麗榕、丙○○當無冒受偽證追訴處
     罰而為虛偽陳述之理，其等證言堪以採信。
 (五)、乙○○雖辯稱：係聽聞庚○○告知關於其不滿戊○○積欠其
@@ -746,7 +639,7 @@ function openwin(URL,arguments,width,height)
     醉。是乙○○所辯並無恐嚇危害安全之犯行云云，顯係卸責
     之詞，不足採信。
 (六)、己○○雖另辯稱略以：係因庚○○告知彭麗榕、丙○○先至
-    庚○○父母住處騷擾，始與庚○○、<font color='red'>趙正宇</font>、陳明興、少年
+    庚○○父母住處騷擾，始與庚○○、趙正宇、陳明興、少年
     彭○雄同至該處，當時指示站在被害人住處門外，依彭麗榕
     、丙○○證詞，可知己○○雖在場但無恐嚇危害安全之犯行
     云云。然按「共同正犯之成立，祇須具有犯意之聯絡，行為
@@ -765,7 +658,7 @@ function openwin(URL,arguments,width,height)
     、偵查時自承：「（是何人召集你去的？同行尚有何人？）
     是庚○○在當天9時許，打電話給我，要我陪他到北埔瞭解
     是何人到庚○○家亂庚○○的家人。我一起過去的連我在內
-    一共五人，除了我、庚○○及<font color='red'>趙正宇</font>，另外二位我不認識」
+    一共五人，除了我、庚○○及趙正宇，另外二位我不認識」
     、「（你還幫庚○○做哪些事？）去北埔。今年1月初我去
     北埔前，我接到庚○○電話，他說他家的老人家被人欺負，
     他希望我多找幾個朋友幫忙，我就找幾個朋友（有彭○雄、
@@ -782,8 +675,8 @@ function openwin(URL,arguments,width,height)
     死是嗎？敢報警」，並一直要妳婆婆彭麗榕出面處理，然後
     把妳家其他人都趕出去，留兩個年輕人把妳家大門堵住，不
     讓妳及妳婆婆出去，是否實在？）實在，他們有擋在大門口
-    」、（妳向檢察官說當時庚○○叫二個小弟在門口擋著，<font color='red'>趙
-    正宇</font>指著妳婆婆說她就是戊○○的媽媽，庚○○就說「你很
+    」、（妳向檢察官說當時庚○○叫二個小弟在門口擋著，趙
+    正宇指著妳婆婆說她就是戊○○的媽媽，庚○○就說「你很
     白目敢報警」，留二個小弟顧門口，後來庚○○有對警察說
     他們是來收賭債的，是否實在？）對，他有講我們很白目敢
     報警」、「（在場的人當時都有聽到這些話？）對」等語（
@@ -791,25 +684,25 @@ function openwin(URL,arguments,width,height)
     （你們去新竹縣北埔鄉○○街00號屋內做什麼事？）我是站
     在屋外。我在旁邊聽到庚○○與該屋內的人對話，庚○○問
     對方是誰到他家騷擾他的家人」等語大致相符（第9號偵卷
-    第36頁），足認己○○對於庚○○、<font color='red'>趙正宇</font>、陳明興、少年
+    第36頁），足認己○○對於庚○○、趙正宇、陳明興、少年
     彭○雄與彭麗榕、丙○○間之對話均有所聽聞。再庚○○等
     人以加害生命、身體之事對彭麗榕、丙○○恫稱之際，己○
     ○不僅未加以阻止，反而均全程在場，甚有受庚○○指示與
     陳明興共同擋住出入口阻止在場人離去，參酌上開說明，堪
     認己○○係以自己犯罪之意思，於庚○○等人恐嚇危害安全
     時，與庚○○等人間具有犯意之聯絡，且實際分擔前揭行為
-    之實施，而以此等方式恐嚇危害安全，足認庚○○、<font color='red'>趙正宇
-    </font>、己○○、陳明興、少年彭○雄就上開犯行具有犯意聯絡及
+    之實施，而以此等方式恐嚇危害安全，足認庚○○、趙正宇
+    、己○○、陳明興、少年彭○雄就上開犯行具有犯意聯絡及
     行為分擔，自應同負其責。是己○○利所辯站在門口云云，
     尚不足採，其恐嚇危害安全部分事證明確，犯行洵堪認定。
-(七)、庚○○雖於原審時證稱：98年1月1日我與<font color='red'>趙正宇</font>、己○○、
+(七)、庚○○雖於原審時證稱：98年1月1日我與趙正宇、己○○、
     陳明興、少年彭○雄雖至彭麗榕、丙○○住處，但均僅站在
     門口，己○○則係在屋外很遠的地方等語（原審筆錄卷二第
     279至280頁），惟庚○○係指示己○○、陳明興擋住出入口
-    阻止在場人離去後，與<font color='red'>趙正宇</font>、少年彭○雄進入彭麗榕、丙
+    阻止在場人離去後，與趙正宇、少年彭○雄進入彭麗榕、丙
     ○○住處一情，已據彭麗榕、丙○○、范素雲證述明確，核
-    與少年彭○雄於原審時證稱：有與庚○○、<font color='red'>趙正宇</font>進入彭麗
-    榕、丙○○住處，庚○○進去最裡面，接著是<font color='red'>趙正宇</font>，之後
+    與少年彭○雄於原審時證稱：有與庚○○、趙正宇進入彭麗
+    榕、丙○○住處，庚○○進去最裡面，接著是趙正宇，之後
     是我等語大致相符（原審筆錄卷二第270至271頁），益見庚
     ○○等人確有進入彭麗榕、丙○○住處內，則庚○○前開所
     言，尚難作為有利於己○○認定之依據。按證人之證言或共
@@ -821,11 +714,11 @@ function openwin(URL,arguments,width,height)
     ，何人擋住出入口阻止在場人離去，何人認出彭麗榕係戊○
     ○之母，庚○○等人所站立位置等細節，先後陳述或稍有差
     異，然所基本事實相符，尚難因就細節陳述之出入，即認彭
-    麗榕、丙○○之陳述不可採。另庚○○、乙○○、<font color='red'>趙正宇</font>、
+    麗榕、丙○○之陳述不可採。另庚○○、乙○○、趙正宇、
     己○○，與陳明興、少年彭○雄所陳，就庚○○告知不滿戊
     ○○積欠賭債事宜之內容及時點，何人擋住出入口阻止在場
     人離去，斯時各人所站立之位置等枝節，先後陳述或有差異
-    ，因庚○○、乙○○、<font color='red'>趙正宇</font>、己○○，與陳明興、少年彭
+    ，因庚○○、乙○○、趙正宇、己○○，與陳明興、少年彭
     ○雄，均基於恐嚇危害安全之犯意聯絡及行為分擔而為犯行
     ，自不影響庚○○、乙○○、己○○刑事責任之認定。此外
     ，復有彭麗榕所繪製現場圖在卷可證（原審筆錄卷二第294
@@ -835,10 +728,10 @@ function openwin(URL,arguments,width,height)
     明確堪以認定，應依法論科。
 四、論罪科刑部分：核被告庚○○、甲○○如事實欄一（一）部
     分所為，均係犯刑法第339條第1項之詐欺取財罪，其等二人
-    與共同正犯<font color='red'>趙正宇</font>及某甲間，有犯意聯絡及行為分擔，均為
+    與共同正犯趙正宇及某甲間，有犯意聯絡及行為分擔，均為
     共同正犯。核被告庚○○、乙○○、己○○就事實欄一（二
     ）部分所為，均係犯刑法第305條之恐嚇危害安全罪。公訴
-    意旨雖認庚○○、乙○○、己○○與共同正犯<font color='red'>趙正宇</font>及少年
+    意旨雖認庚○○、乙○○、己○○與共同正犯趙正宇及少年
     彭○雄所為，係犯刑法第346條第3項、第1項之恐嚇取財未
     遂罪嫌等語。惟刑法第305條之恐嚇危害安全罪，與刑法第
     346條第1項之恐嚇取財罪，其構成要件迥然不同，前者係指
@@ -884,7 +777,7 @@ function openwin(URL,arguments,width,height)
     丙○○之恐嚇危害安全犯行，係一行為觸犯相同罪名之同種
     想像競合犯，應依刑法第55條規定，從一重依刑法第305條
     之恐嚇危害安全罪處斷。庚○○、乙○○、己○○，與陳明
-    興、<font color='red'>趙正宇</font>及少年彭○雄間，就恐嚇危害安全之犯行，有犯
+    興、趙正宇及少年彭○雄間，就恐嚇危害安全之犯行，有犯
     意聯絡及行為分擔應論以共同正犯。庚○○、乙○○、甲○
     ○等有事實欄所示前科紀錄等情，有被告前案紀錄表在卷可
     稽，其等於前案執行完畢後五年內故意再犯本件有期徒刑以
@@ -899,7 +792,7 @@ function openwin(URL,arguments,width,height)
     5款，行為時之兒童及少年福利法第70條第1項前段（已修正
     為兒童及少年福利與權益保障法第112條第1項前段）之規定
     ，審酌庚○○、甲○○正值青壯，不思以正當途徑獲取財物
-    ，竟與<font color='red'>趙正宇</font>設局對戊○○詐賭，犯罪情節甚為嚴重，且犯
+    ，竟與趙正宇設局對戊○○詐賭，犯罪情節甚為嚴重，且犯
     罪所生之危險及損害非輕，再被告等人均飾詞圖卸否認犯行
     ，犯罪後態度不佳；庚○○、乙○○、己○○不思循正常管
     道解決糾紛，竟以潑灑油漆、丟擲石塊、持器械砸毀彭麗榕
@@ -944,7 +837,7 @@ function openwin(URL,arguments,width,height)
     婦至庚○○父母住處請託協助處理此事後，始返家查看，此
     據彭麗榕、丙○○證述在卷，足認戊○○於98年1月1日凌晨
     3時15分許，乙○○砸毀住處大門及窗戶玻璃後並未返家查
-    看，且於庚○○、<font color='red'>趙正宇</font>、己○○、陳明興、少年彭○雄，
+    看，且於庚○○、趙正宇、己○○、陳明興、少年彭○雄，
     於同日上午10時13分許，共同恐嚇危害安全之時亦未在場，
     參以戊○○早於97年12月23日晚上9時許，即因急性精神病
     至為恭紀念醫院就醫並住院治療至98年1月10日乙情，有財
@@ -955,10 +848,10 @@ function openwin(URL,arguments,width,height)
     生畏懼，實堪置疑。另公訴人所舉警詢、偵查筆錄，均無戊
     ○○言及知悉不詳之人於97年12月27日凌晨2時58分許，朝
     住處潑灑油漆、丟擲石塊及乙○○於98年1月1日凌晨3時15
-    分許，砸毀住處大門及窗戶玻璃暨庚○○、<font color='red'>趙正宇</font>、己○○
+    分許，砸毀住處大門及窗戶玻璃暨庚○○、趙正宇、己○○
     、陳明興、少年彭○雄於同日上午10時13分許，共同恐嚇危
     害安全暨其因之而生畏怖之記載，實難認戊○○有因庚○○
-    、乙○○、<font color='red'>趙正宇</font>、己○○、陳明興、少年彭○雄潑灑油漆
+    、乙○○、趙正宇、己○○、陳明興、少年彭○雄潑灑油漆
     、丟擲石塊、砸毀住處大門及窗戶玻璃暨至住處恐嚇危害安
     全之行為，而心生畏佈。揆諸前揭說明，此部分不能證明庚
     ○○、乙○○、己○○犯罪，原應為無罪之諭知，惟第一審
@@ -984,86 +877,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處年以下有期徒刑、拘役或科或併科一千元以下罰金
 。
 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[兒童及少年福利法] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWTPH\CRIMINAL\10112\14\TPHM101CE.00L] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[4]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=002955&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%b6%99%e6%ad%a3%e5%ae%87&sdate=&edate=&page=&searchkw=%e8%b6%99%e6%ad%a3%e5%ae%87&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%b6%99%e6%ad%a3%e5%ae%87&sdate=&edate=&page=&searchkw=%e8%b6%99%e6%ad%a3%e5%ae%87&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=2955&jdate=1011214&jcheck=4">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e4%b8%8a%e8%a8%b4&jno=2955&jdate=1011214&jcheck=4">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e4%b8%8a%e8%a8%b4%2c2955%2c20121214%2c4','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','100','%e4%b8%8a%e8%a8%b4','2955','1011214','4')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="趙正宇">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="趙正宇">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]100,上訴,2955,20121214,4
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]上訴
+[*jno*]2955
+[*jdate*]1011214
+[*jcheck*]4

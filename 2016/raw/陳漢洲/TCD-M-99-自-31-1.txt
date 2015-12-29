@@ -1,120 +1,13 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-99自31</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共200
-											筆 / 現在第35
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%87%aa&selectedCrmno=000031&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=36&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=200&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%87%aa%2c31%2c20110905%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=31&jdate=1000905&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%87%aa%2c31%2c20110905%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=31&jdate=1000905&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%87%aa%2c31%2c20110905%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%87%aa','31','1000905','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,自,31</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000905</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誣告</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　　99年度自字第31號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%87%aa%2c31%2c20110905%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=31&jdate=1000905&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%87%aa&selectedCrmno=000031&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%87%aa%2c31%2c20110905%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=31&jdate=1000905&jcheck=1
+[*裁判字號*]99,自,31
+[*裁判日期*]1000905
+[*裁判案由*]誣告
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　　　99年度自字第31號
 自　訴　人　黃露甘
 自訴代理人　林春榮律師
-　　　　　　<font color='red'>陳漢洲</font>律師
+　　　　　　陳漢洲律師
 被　　　告　陳秀瓊
 選任辯護人　何孟育律師
 　　　　　　張慶宗律師
@@ -133,14 +26,14 @@ function openwin(URL,arguments,width,height)
     未於91年1月底，在臺中市○○○街之家中，收受陳秀瓊所
     交付價值2萬餘元之金項鍊及戒子；自訴人於98年4月22日係
     至金格銀樓購買飾品，無不法情事，被告竟為使自訴人受刑
-    事處分，於98年6月16日在臺中市○○路602號虛構「<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />自訴
+    事處分，於98年6月16日在臺中市○○路602號虛構「自訴
     人擔任法務部調查局臺中縣調查站副主任期間先於90年間，
     至金格銀樓向被告購買5兩金條1條、1兩多四方型男戒1只、
     5兩多男項鍊1條，並暗示該金條係要送給調查局長，使被告
-    及吳中庸均不敢向自訴人收取款項；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />被告因與吳中庸有糾
+    及吳中庸均不敢向自訴人收取款項；被告因與吳中庸有糾
     紛，於90年11月間至臺中縣調查站請求協助，自訴人因允諾
     居中協調，被告遂將3本帳冊交付自訴人，自訴人竟將之侵
-    占入己，並轉交與吳中庸；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />黃露甘於91年1月底，假藉願
+    占入己，並轉交與吳中庸；黃露甘於91年1月底，假藉願
     協調糾紛為由，要被告攜帶1兩多的男項鍊1條及3錢多之男
     女對戒各1個，總價2萬多元前往臺中市○○○街尊龍別墅社
     區，且因被告有求於黃露甘，故未向自訴人收取分文，惟自
@@ -171,7 +64,7 @@ function openwin(URL,arguments,width,height)
   4.被告於98年8月20日再向洪昭男提出檢舉書而指自訴人運用
     與高層之關係而打壓，使南投縣調查站陳副主任降調高雄市
     調查處專員（下稱「丁事實」）。
-  5.被告於98年9月9日又以「丁事實」向洪昭男及監察院王建<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4EB2A0A00000040.GIF" />
+  5.被告於98年9月9日又以「丁事實」向洪昭男及監察院王建
     院長提出陳情書。
   6.被告於98年10月7日至監察院應詢，仍指稱自訴人有「甲、
     乙、丁事實」之不法情事，並提出98年6月16日及9月9日所
@@ -259,7 +152,7 @@ function openwin(URL,arguments,width,height)
     實之故意，與誣告罪之構成要件仍屬有間（最高法院97年度
     臺上字第1978號判決意旨參照）。
 四、本件自訴人認被告涉有上開誣告罪嫌，無非係以證人吳雯惠
-    、<font color='red'>陳漢洲</font>、陳姿今、被告於偵查中之證述，證人吳中庸於本
+    、陳漢洲、陳姿今、被告於偵查中之證述，證人吳中庸於本
     院審理時證述，證人吳瑛、刁龍德、毛有增、周榮耀、莊國
     喬、李宏錦於監察院調查中之證詞，及臺中地方法院檢察署
     98年度偵字第26756號不起訴處分書、99年度偵續字第128號
@@ -286,24 +179,24 @@ function openwin(URL,arguments,width,height)
     、「丙事實」及「丁事實」伊均是以質疑的語氣提出檢舉，
     伊並無意圖使自訴人受刑事或懲戒處分，而虛構自訴人有上
     開「甲、乙、丙、丁事實」等內容之情形等語。經查：
-  (一)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告有於98年6月16日在臺中市○○路602號以「甲事實」
+  (一)被告有於98年6月16日在臺中市○○路602號以「甲事實」
     之內容，向最高法院檢察署、法務部及總統府、監察院提出
     檢舉，最高法院檢察署因之於98年6月23日以台莊字第09800
     08728號函轉南投地方法院檢察署分98年度他字第448號貪污
     治罪條例等案辦理；而監察院則於98年6月18日收文，文號
     為第0000000000號，並於同月29日函稱：「台端98年6月16
     日陳情書收悉。經查本案既已向法務部陳情，請靜候其處理
-    ，復請查照」；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告於98年7月3日則以「乙事實」之內容
+    ，復請查照」；被告於98年7月3日則以「乙事實」之內容
     具狀向最高法院檢察署提出，亦由該署發交南投地方法院檢
     察署辦理；且於同日另就「甲事實」向監察院洪昭男委員提
     出檢舉，由監察委員洪昭男自動申請調查而分第0000000000
-    號案；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告於98年7月14日另提供光碟乙片與洪昭男，而
-    指自訴人有「乙事實」之行為；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />被告於98年8月20日再向
-    洪昭男提出「丁事實」內容之檢舉書；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />被告於98年9月9日
-    又以「丁事實」向洪昭男及監察院王建<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4EB2A0A00000040.GIF" />院長提出陳情書；
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />被告於98年9月25日以「丙事實」為內容向總統提出陳情
+    號案；被告於98年7月14日另提供光碟乙片與洪昭男，而
+    指自訴人有「乙事實」之行為；被告於98年8月20日再向
+    洪昭男提出「丁事實」內容之檢舉書；被告於98年9月9日
+    又以「丁事實」向洪昭男及監察院王建院長提出陳情書；
+    被告於98年9月25日以「丙事實」為內容向總統提出陳情
     書，該陳情書亦由法務部檢察司轉交南投地方法院檢察署分
-    98 年度他字第557號案偵辦；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />被告於98年10月7日至監察
+    98 年度他字第557號案偵辦；被告於98年10月7日至監察
     院應詢，陳述自訴人有「甲事實」、「乙事實」、「丁事實
     」之情事，並提出其前於98年6月16日及98年9月9日所分別
     製作之陳情函各1份。再自訴人刑事部分，經南投地方法院
@@ -415,7 +308,7 @@ function openwin(URL,arguments,width,height)
     雯惠之證詞均無可採，自無從以證人吳中庸、吳雯惠上開有
     瑕疵之證詞，而執為被告有誣告上開「甲事實」、「乙事實
     」犯行之積極證據。
-  (三)況上開被告所提出之「甲事實」<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />中，關於被告於90年11月
+  (三)況上開被告所提出之「甲事實」中，關於被告於90年11月
     間至臺中縣調查站請求協助，自訴人因允諾居中協調，被告
     遂將3本帳冊交付自訴人，自訴人竟將之侵占入己，並轉交
     與證人吳中庸之內容，業據證人陳姿今於本院審理時到庭具
@@ -436,7 +329,7 @@ function openwin(URL,arguments,width,height)
     頁反面）。經核陳姿今、陳秀英關於被告於90年11月間至臺
     中縣調查站請求協助，因自訴人允諾居中協調，被告遂將3
     本帳冊交付自訴人，且事後自被告處得知，無法向自訴人取
-    回該3本帳冊之內容彼此相符，並與被告提出「甲事實<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />」
+    回該3本帳冊之內容彼此相符，並與被告提出「甲事實」
     之內容並無歧異，證人陳姿今、陳秀英此部分之證述尚屬可
     採，足見被告上開指陳並非全然無據。至自訴人雖以被告於
     證人吳中庸上開違反管理外匯條例一案中，在97年7月24日
@@ -473,7 +366,7 @@ function openwin(URL,arguments,width,height)
     84年至86年之實際銷售總額、營業額與毛利等語，自非虛詞
     ，應屬可採，是難以被告可提出金格銀樓大雅店84年至86年
     之實際銷售總額、營業額及毛利一節，遽認被告有虛構上開
-    「甲事實<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />」之情。
+    「甲事實」之情。
   (四)再被告以上開「乙事實」、「丙事實」及「丁事實」，其均
     是以質疑的語氣提出，其並沒有誣告之犯意等語置辯，則查
     ：
@@ -595,9 +488,9 @@ function openwin(URL,arguments,width,height)
     件，經檢察官為不起訴處分、駁回再議確定，即謂被告有何
     誣告犯行。是以，上開不起訴處分書、駁回再議處分書，尚
     不得遽以推論被告有誣告之犯意。
-  (六)至自訴人雖提出證人<font color='red'>陳漢洲</font>於偵查中之證述，及證人吳瑛、
+  (六)至自訴人雖提出證人陳漢洲於偵查中之證述，及證人吳瑛、
     刁龍德、毛有增、周榮耀、莊國喬、李宏錦於監察院調查中
-    之證詞為證據，惟證人<font color='red'>陳漢洲</font>之證述僅可證明其係因證人吳
+    之證詞為證據，惟證人陳漢洲之證述僅可證明其係因證人吳
     雯惠之電話通知而於97年12月9日前往金格銀樓遭搜索之現
     場，並非自訴人之通知。且其未對證人陳天祿表示係自訴人
     之通知而知金格銀樓遭搜索及因之前往現場等情，而證人吳
@@ -652,86 +545,12 @@ function openwin(URL,arguments,width,height)
 內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
 逕送上級法院」。
 中    華    民    國   100    年    9     月    5     日
-                                書記官  黃毅皓</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10009\05\TCDM10095.034] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共200
-											筆 / 現在第35
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%87%aa&selectedCrmno=000031&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=36&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=200&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e6%bc%a2%e6%b4%b2&sdate=&edate=&page=&searchkw=%e9%99%b3%e6%bc%a2%e6%b4%b2&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%87%aa%2c31%2c20110905%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=31&jdate=1000905&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%87%aa%2c31%2c20110905%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%87%aa&jno=31&jdate=1000905&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%87%aa%2c31%2c20110905%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%87%aa','31','1000905','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="35"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳漢洲">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳漢洲">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+                                書記官  黃毅皓
+[*jrecno*]99,自,31,20110905,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]自
+[*jno*]31
+[*jdate*]1000905
+[*jcheck*]1

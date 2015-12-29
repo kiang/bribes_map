@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-98訴1180</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共25
-											筆 / 現在第3
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=001180&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=25&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c1180%2c20150917%2c20&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1180&jdate=1040917&jcheck=20">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c1180%2c20150917%2c20&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1180&jdate=1040917&jcheck=20">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c1180%2c20150917%2c20','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','1180','1040917','20')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,1180</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040917</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造有價證券等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　98年度訴字第1180號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c1180%2c20150917%2c20&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1180&jdate=1040917&jcheck=20
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=001180&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c1180%2c20150917%2c20&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1180&jdate=1040917&jcheck=20
+[*裁判字號*]98,訴,1180
+[*裁判日期*]1040917
+[*裁判案由*]偽造有價證券等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　98年度訴字第1180號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
 被　　　告　黃朝陽
 選任辯護人　丁福慶律師
@@ -134,7 +27,7 @@ function openwin(URL,arguments,width,height)
 他人，處有期徒刑壹年捌月，減為有期徒刑拾月。如附表二（十
 四）編號3所示偽造之印章及印文均沒收；又共同行使偽造公文
 書，足以生損害於公眾及他人，處有期徒刑壹年肆月。如附表二
-（十五）所示偽造之印章及印文均沒收。應執行有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年捌
+（十五）所示偽造之印章及印文均沒收。應執行有期徒刑年捌
 月。如附表二所示偽造之印章及印文均沒收。
     事  實
 一、(一)黃朝陽在概括犯意下，與附表一編號1至13行為人欄除王
@@ -147,30 +40,30 @@ function openwin(URL,arguments,width,height)
     期，核貸如附表一編號1至13核貸金額欄所示核貸金額之款
     項，足以生損害於國稅稽徵機關及附表一編號1至13授信銀
     行欄所示銀行。
-  (二)黃朝陽另與附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />行為人欄所示之人基於共同行使
+  (二)黃朝陽另與附表一編號14行為人欄所示之人基於共同行使
     偽造公文書、私文書、詐欺取財之犯意聯絡，以附表一編號
-    14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />犯罪行為欄所示方式，向如附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />授信銀行欄
+    14犯罪行為欄所示方式，向如附表一編號14授信銀行欄
     所示銀行申請貸款，致使各該銀行經辦人員陷於錯誤，誤認
-    附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />借款戶欄所示公司經營狀況良好，而於如附
-    表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />核貸日期欄所示日期，核貸如附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />
+    附表一編號14借款戶欄所示公司經營狀況良好，而於如附
+    表一編號14核貸日期欄所示日期，核貸如附表一編號14
     核貸金額欄所示核貸金額之款項，足以生損害於國稅稽徵機
-    關及附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />授信銀行欄所示銀行。
-  (三)黃朝陽另與附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />行為人欄所示之人基於共同行使
+    關及附表一編號14授信銀行欄所示銀行。
+  (三)黃朝陽另與附表一編號14行為人欄所示之人基於共同行使
     偽造公文書、私文書、詐欺取財之犯意聯絡，以附表一編號
-    14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />犯罪行為欄所示方式，向如附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />授信銀行欄
+    14犯罪行為欄所示方式，向如附表一編號14授信銀行欄
     所示銀行申請貸款，致使各該銀行經辦人員陷於錯誤，誤認
-    附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />借款戶欄所示公司經營狀況良好，而於如附
-    表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />核貸日期欄所示日期，核貸如附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />
+    附表一編號14借款戶欄所示公司經營狀況良好，而於如附
+    表一編號14核貸日期欄所示日期，核貸如附表一編號14
     核貸金額欄所示核貸金額之款項，足以生損害於國稅稽徵機
-    關及附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />授信銀行欄所示銀行。
-  (四)黃朝陽另與附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />行為人欄所示之人基於共同行使
-    偽造公文書、詐欺取財之犯意聯絡，以附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />犯罪
-    行為欄所示方式，向如附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />授信銀行欄所示銀行
+    關及附表一編號14授信銀行欄所示銀行。
+  (四)黃朝陽另與附表一編號14行為人欄所示之人基於共同行使
+    偽造公文書、詐欺取財之犯意聯絡，以附表一編號14犯罪
+    行為欄所示方式，向如附表一編號14授信銀行欄所示銀行
     申請貸款，致使各該銀行經辦人員陷於錯誤，誤認附表一編
-    號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />借款戶欄所示公司經營狀況良好，而於如附表一編號
-    14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />核貸日期欄所示日期，核貸如附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />核貸金額
+    號14借款戶欄所示公司經營狀況良好，而於如附表一編號
+    14核貸日期欄所示日期，核貸如附表一編號14核貸金額
     欄所示核貸金額之款項，足以生損害於國稅稽徵機關及附表
-    一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />授信銀行欄所示銀行。
+    一編號14授信銀行欄所示銀行。
   (五)黃朝陽另與附表一編號15行為人欄所示之人基於共同行使偽
     造公文書、詐欺取財之犯意聯絡，以附表一編號15犯罪行為
     欄所示方式，向如附表一編號15授信銀行欄所示銀行申請貸
@@ -1157,27 +1050,27 @@ function openwin(URL,arguments,width,height)
 ┌──┬───────────┬───┬─────┬────────┬─────────┬──────┬───────┬───────┬───────────────┐
 │編號│       借款戶         │負責人│連帶保證人│    授信銀行    │  授信類別        │  核貸日期  │ 核貸金額     │   行為人     │      犯罪行為                │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 1  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />合力公司            │孫峻生│孫峻生    │合庫商銀松江分行│小額簡便貸款      │94年4 月25日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />孫峻生      │孫峻生（業經本院以99年簡字第54│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │9號判決確定）為合力公司負責人 │
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │，與陳坤成（本院另行審結）、黃│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│朝陽、自稱「二姐」之成年女子之│
+│ 1  │合力公司            │孫峻生│孫峻生    │合庫商銀松江分行│小額簡便貸款      │94年4 月25日│新臺幣300 萬元│孫峻生      │孫峻生（業經本院以99年簡字第54│
+│    │                      │      │          │                │                  │            │              │陳坤成      │9號判決確定）為合力公司負責人 │
+│    │                      │      │          │                │                  │            │              │黃朝陽      │，與陳坤成（本院另行審結）、黃│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│朝陽、自稱「二姐」之成年女子之│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │成年女子、自稱「李定邦」或「鄭│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「李定邦│明」之成年人共同基於行使偽造公│
+│    │                      │      │          │                │                  │            │              │自稱「李定邦│明」之成年人共同基於行使偽造公│
 │    │                      │      │          │                │                  │            │              │  」或「鄭明」│文書、私文書、詐欺取財之犯意聯│
 │    │                      │      │          │                │                  │            │              │  之成年人    │絡，先由「二姐」委託不知情之某│
 │    │                      │      │          │                │                  │            │              │              │真實姓名年籍不詳之成年人偽造如│
 │    │                      │      │          │                │                  │            │              │              │附表二（一）1所示之印章，由孫 │
-│    │                      │      │          │                │                  │            │              │              │峻生於附表一編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示核貸日 │
+│    │                      │      │          │                │                  │            │              │              │峻生於附表一編號1所示核貸日 │
 │    │                      │      │          │                │                  │            │              │              │期即94年4月25日前某日，提供合 │
 │    │                      │      │          │                │                  │            │              │              │力公司之大小章、統一發票章及營│
 │    │                      │      │          │                │                  │            │              │              │利事業登記證等物，交由黃朝陽杜│
 │    │                      │      │          │                │                  │            │              │              │編不實財報數據，據以偽造如附表│
 │    │                      │      │          │                │                  │            │              │              │二（一）1所示之公文書、私文書 │
 │    │                      │      │          │                │                  │            │              │              │，再由孫峻生以合力公司負責人之│
-│    │                      │      │          │                │                  │            │              │              │名義，向如附表一編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示合 │
+│    │                      │      │          │                │                  │            │              │              │名義，向如附表一編號1所示合 │
 │    │                      │      │          │                │                  │            │              │              │庫商銀松江分行申請貸款，且為符│
 │    │                      │      │          │                │                  │            │              │              │合銀行授信條件，由孫峻生充當附│
-│    │                      │      │          │                │                  │            │              │              │表一編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示貸款之連帶保證 │
+│    │                      │      │          │                │                  │            │              │              │表一編號1所示貸款之連帶保證 │
 │    │                      │      │          │                │                  │            │              │              │人，並以陳坤成因長期從事代書業│
 │    │                      │      │          │                │                  │            │              │              │而與金融機構建立之熟稔交情，經│
 │    │                      │      │          │                │                  │            │              │              │自稱「李定邦」或「鄭明」之成年│
@@ -1190,32 +1083,32 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │資訊取信承辦人員，致使銀行經辦│
 │    │                      │      │          │                │                  │            │              │              │人員陷於錯誤，誤認合力公司經營│
 │    │                      │      │          │                │                  │            │              │              │狀況良好，乃於如附表一編號1   │
-│    │                      │      │          │                │                  │            │              │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示日期，予以核貸如附表一編│
-│    │                      │      │          │                │                  │            │              │              │號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示金額之款項，足以生損 │
+│    │                      │      │          │                │                  │            │              │              │所示日期，予以核貸如附表一編│
+│    │                      │      │          │                │                  │            │              │              │號1所示金額之款項，足以生損 │
 │    │                      │      │          │                │                  │            │              │              │害於國稅稽徵機關及合庫商銀。  │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />合力公司            │孫峻生│孫峻生    │合庫商銀松江分行│國外遠期信用狀借款│94年6 月13日│美金20萬元    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />孫峻生      │孫峻生與許松強（業經本院以98年│
-│    │                      │      │許松強    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │度訴字第1472號判決確定）、陳坤│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │成、張新民、何輝雄、黃朝陽、自│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│稱「二姐」之成年女子、自稱「李│
+│    │合力公司            │孫峻生│孫峻生    │合庫商銀松江分行│國外遠期信用狀借款│94年6 月13日│美金20萬元    │孫峻生      │孫峻生與許松強（業經本院以98年│
+│    │                      │      │許松強    │                │                  │            │              │陳坤成      │度訴字第1472號判決確定）、陳坤│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │成、張新民、何輝雄、黃朝陽、自│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│稱「二姐」之成年女子、自稱「李│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │定邦」或「鄭明」之成年人共同基│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「李定邦│於行使偽造公文書、私文書、詐欺│
+│    │                      │      │          │                │                  │            │              │自稱「李定邦│於行使偽造公文書、私文書、詐欺│
 │    │                      │      │          │                │                  │            │              │  」或「鄭明」│取財之犯意聯絡，先由「二姐」委│
 │    │                      │      │          │                │                  │            │              │  之成年人    │託不知情之某真實姓名年籍不詳之│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />許松強      │成年人偽造如附表二（一）2所示 │
+│    │                      │      │          │                │                  │            │              │許松強      │成年人偽造如附表二（一）2所示 │
 │    │                      │      │          │                │                  │            │              │              │之印章，由孫峻生於附表一編號1 │
-│    │                      │      │          │                │                  │            │              │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示核貸日期即94年6月13日前 │
+│    │                      │      │          │                │                  │            │              │              │所示核貸日期即94年6月13日前 │
 │    │                      │      │          │                │                  │            │              │              │某日，提供合力公司之大小章、統│
 │    │                      │      │          │                │                  │            │              │              │一發票章及營利事業登記證等物，│
 │    │                      │      │          │                │                  │            │              │              │交由黃朝陽杜編不實財報數據，據│
 │    │                      │      │          │                │                  │            │              │              │以偽造如附表二（一）2所示之公 │
 │    │                      │      │          │                │                  │            │              │              │文書、私文書，再由孫峻生以合力│
 │    │                      │      │          │                │                  │            │              │              │公司負責人之名義，向如附表一編│
-│    │                      │      │          │                │                  │            │              │              │號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示合庫商銀松江分行申請 │
+│    │                      │      │          │                │                  │            │              │              │號1所示合庫商銀松江分行申請 │
 │    │                      │      │          │                │                  │            │              │              │貸款，且為符合銀行授信條件，另│
 │    │                      │      │          │                │                  │            │              │              │以新臺幣10萬元至20萬元不等之代│
 │    │                      │      │          │                │                  │            │              │              │價，覓得知情為詐騙且無償還能力│
-│    │                      │      │          │                │                  │            │              │              │之許松強充當附表一編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示 │
+│    │                      │      │          │                │                  │            │              │              │之許松強充當附表一編號1所示 │
 │    │                      │      │          │                │                  │            │              │              │貸款之連帶保證人，並以陳坤成因│
 │    │                      │      │          │                │                  │            │              │              │長期從事代書業而與金融機構建立│
 │    │                      │      │          │                │                  │            │              │              │之熟稔交情，經自稱「李定邦」或│
@@ -1228,22 +1121,22 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │於銀行徵信時提供不實資訊取信承│
 │    │                      │      │          │                │                  │            │              │              │辦人員，致使銀行經辦人員陷於錯│
 │    │                      │      │          │                │                  │            │              │              │誤，誤認合力公司經營狀況良好，│
-│    │                      │      │          │                │                  │            │              │              │乃於如附表一編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示日期， │
-│    │                      │      │          │                │                  │            │              │              │予以核貸如附表一編號1<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示金 │
+│    │                      │      │          │                │                  │            │              │              │乃於如附表一編號1所示日期， │
+│    │                      │      │          │                │                  │            │              │              │予以核貸如附表一編號1所示金 │
 │    │                      │      │          │                │                  │            │              │              │額之款項，足以生損害於國稅稽徵│
 │    │                      │      │          │                │                  │            │              │              │機關及合庫商銀。              │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 2  │日日興公司            │劉振安│劉振安    │萬泰銀行建成分行│中期放款          │94年5 月27日│新臺幣200 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />劉振安      │劉振安（業經本院以98年度訴字第│
-│    │                      │      │劉榮欽    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />黃乾榮      │1180號判決確定）為日日興公司負│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │責人，與劉榮欽（業經本院以99年│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />黃朝陽      │度簡字第1709號判決確定）、黃乾│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「二姐」│榮（業經本院以99年度字第548 號│
+│ 2  │日日興公司            │劉振安│劉振安    │萬泰銀行建成分行│中期放款          │94年5 月27日│新臺幣200 萬元│劉振安      │劉振安（業經本院以98年度訴字第│
+│    │                      │      │劉榮欽    │                │                  │            │              │黃乾榮      │1180號判決確定）為日日興公司負│
+│    │                      │      │          │                │                  │            │              │張新民      │責人，與劉榮欽（業經本院以99年│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │度簡字第1709號判決確定）、黃乾│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│榮（業經本院以99年度字第548 號│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │判決確定）、張新民、黃朝陽、自│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />自稱「阿城」│稱「二姐」之成年女子、綽號「阿│
+│    │                      │      │          │                │                  │            │              │自稱「阿城」│稱「二姐」之成年女子、綽號「阿│
 │    │                      │      │          │                │                  │            │              │  之成年人    │城」之成年人、自稱「陳醫師」之│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />自稱「陳醫師│成年人共同基於行使偽造公文書、│
+│    │                      │      │          │                │                  │            │              │自稱「陳醫師│成年人共同基於行使偽造公文書、│
 │    │                      │      │          │                │                  │            │              │  」之成年人  │詐欺取財之犯意聯絡，先由「二姐│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B82A0A00000040.GIF" />劉榮欽      │」委託不知情之某真實姓名年籍不│
+│    │                      │      │          │                │                  │            │              │劉榮欽      │」委託不知情之某真實姓名年籍不│
 │    │                      │      │          │                │                  │            │              │              │詳之成年人偽造如附表二（二）所│
 │    │                      │      │          │                │                  │            │              │              │示之印章，由劉振安於附表一編號│
 │    │                      │      │          │                │                  │            │              │              │2所示核貸日期即94年5月27日前某│
@@ -1266,26 +1159,26 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │所示金額之款項，足以生損害於國│
 │    │                      │      │          │                │                  │            │              │              │稅稽徵機關及萬泰銀行。        │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 3  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />德麗公司            │顏永昌│顏永昌    │合庫商銀松江分行│小額簡便貸款      │94年6 月28日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />顏永昌      │顏永昌（業經本院以98年度訴字第│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │1180號判決確定）為德麗公司負責│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │人，與陳坤成、黃朝陽、自稱「二│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│姐」之成年女子、自稱「李定邦」│
+│ 3  │德麗公司            │顏永昌│顏永昌    │合庫商銀松江分行│小額簡便貸款      │94年6 月28日│新臺幣300 萬元│顏永昌      │顏永昌（業經本院以98年度訴字第│
+│    │                      │      │          │                │                  │            │              │陳坤成      │1180號判決確定）為德麗公司負責│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │人，與陳坤成、黃朝陽、自稱「二│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│姐」之成年女子、自稱「李定邦」│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │之成年人共同基於行使偽造公文書│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「李定邦│、私文書、詐欺取財之犯意聯絡，│
+│    │                      │      │          │                │                  │            │              │自稱「李定邦│、私文書、詐欺取財之犯意聯絡，│
 │    │                      │      │          │                │                  │            │              │  」之成年人  │先由「二姐」委託不知情之某真實│
 │    │                      │      │          │                │                  │            │              │              │姓名年籍不詳之成年人偽造如附表│
 │    │                      │      │          │                │                  │            │              │              │二（三）1所示之印章，由顏永昌 │
-│    │                      │      │          │                │                  │            │              │              │於附表一編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示核貸日期即 │
+│    │                      │      │          │                │                  │            │              │              │於附表一編號3所示核貸日期即 │
 │    │                      │      │          │                │                  │            │              │              │94年6月28日前某日，提供德麗公 │
 │    │                      │      │          │                │                  │            │              │              │司之大小章、統一發票章及營利事│
 │    │                      │      │          │                │                  │            │              │              │業登記證等物，交由黃朝陽杜編不│
 │    │                      │      │          │                │                  │            │              │              │實財報數據，據以偽造如附表二（│
 │    │                      │      │          │                │                  │            │              │              │三）1所示之公文書、私文書，顏 │
 │    │                      │      │          │                │                  │            │              │              │永昌再以德麗公司負責人之名義，│
-│    │                      │      │          │                │                  │            │              │              │向如附表一編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示合庫商銀 │
+│    │                      │      │          │                │                  │            │              │              │向如附表一編號3所示合庫商銀 │
 │    │                      │      │          │                │                  │            │              │              │松江分行申請貸款，且為符合銀行│
 │    │                      │      │          │                │                  │            │              │              │授信條件，由顏永昌充當附表一編│
-│    │                      │      │          │                │                  │            │              │              │號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示貸款之連帶保證人，並 │
+│    │                      │      │          │                │                  │            │              │              │號3所示貸款之連帶保證人，並 │
 │    │                      │      │          │                │                  │            │              │              │以陳坤成因長期從事代書業而與金│
 │    │                      │      │          │                │                  │            │              │              │融機構建立之熟稔交情，經自稱「│
 │    │                      │      │          │                │                  │            │              │              │李定邦」之成年人之委託，而推由│
@@ -1297,32 +1190,32 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │徵信時提供不實資訊取信承辦人員│
 │    │                      │      │          │                │                  │            │              │              │，致銀行經辦人員陷於錯誤，誤認│
 │    │                      │      │          │                │                  │            │              │              │德麗公司經營狀況良好，乃於如附│
-│    │                      │      │          │                │                  │            │              │              │表一編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示日期，予以核貸 │
-│    │                      │      │          │                │                  │            │              │              │如附表一編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示金額之款項 │
+│    │                      │      │          │                │                  │            │              │              │表一編號3所示日期，予以核貸 │
+│    │                      │      │          │                │                  │            │              │              │如附表一編號3所示金額之款項 │
 │    │                      │      │          │                │                  │            │              │              │，足以生損害於國稅稽徵機關及合│
 │    │                      │      │          │                │                  │            │              │              │庫商銀。                      │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />德麗公司            │顏永昌│顏永昌    │合庫商銀松江分行│國外遠期信用狀借款│94年8 月3 日│美金20萬元    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />顏永昌      │顏永昌與謝壽宏（業經本院以100 │
-│    │                      │      │謝壽宏    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │年度簡字第1926號判決確定）、陳│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │坤成、黃朝陽、自稱「二姐」之成│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│年女子、自稱「李定邦」之成年人│
+│    │德麗公司            │顏永昌│顏永昌    │合庫商銀松江分行│國外遠期信用狀借款│94年8 月3 日│美金20萬元    │顏永昌      │顏永昌與謝壽宏（業經本院以100 │
+│    │                      │      │謝壽宏    │                │                  │            │              │陳坤成      │年度簡字第1926號判決確定）、陳│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │坤成、黃朝陽、自稱「二姐」之成│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│年女子、自稱「李定邦」之成年人│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │共同基於行使偽造公文書、私文書│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「李定邦│、詐欺取財之犯意聯絡，先由「二│
+│    │                      │      │          │                │                  │            │              │自稱「李定邦│、詐欺取財之犯意聯絡，先由「二│
 │    │                      │      │          │                │                  │            │              │  」之成年人  │姐」委託不知情之某真實姓名年籍│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />謝壽宏      │不詳之成年人偽造如附表二（三）│
+│    │                      │      │          │                │                  │            │              │謝壽宏      │不詳之成年人偽造如附表二（三）│
 │    │                      │      │          │                │                  │            │              │              │2所示之印章，由顏永昌於附表一 │
-│    │                      │      │          │                │                  │            │              │              │編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示核貸日期即94年8月3 │
+│    │                      │      │          │                │                  │            │              │              │編號3所示核貸日期即94年8月3 │
 │    │                      │      │          │                │                  │            │              │              │日前某日，提供德麗公司之大小章│
 │    │                      │      │          │                │                  │            │              │              │、統一發票章及營利事業登記證等│
 │    │                      │      │          │                │                  │            │              │              │物，交由黃朝陽杜編不實財報數據│
 │    │                      │      │          │                │                  │            │              │              │，據以偽造如附表二（三）2所示 │
 │    │                      │      │          │                │                  │            │              │              │之公文書、私文書，顏永昌再以德│
 │    │                      │      │          │                │                  │            │              │              │麗公司負責人之名義，向如附表一│
-│    │                      │      │          │                │                  │            │              │              │編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示合庫商銀松江分行申 │
+│    │                      │      │          │                │                  │            │              │              │編號3所示合庫商銀松江分行申 │
 │    │                      │      │          │                │                  │            │              │              │請貸款，且為符合銀行授信條件，│
 │    │                      │      │          │                │                  │            │              │              │另以新臺幣10萬元至20萬元不等之│
 │    │                      │      │          │                │                  │            │              │              │代價，覓得知情為詐騙且無償還能│
-│    │                      │      │          │                │                  │            │              │              │力之謝壽宏充當附表一編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所 │
+│    │                      │      │          │                │                  │            │              │              │力之謝壽宏充當附表一編號3所 │
 │    │                      │      │          │                │                  │            │              │              │示貸款之連帶保證人，並以陳坤成│
 │    │                      │      │          │                │                  │            │              │              │因長期從事代書業而與金融機構建│
 │    │                      │      │          │                │                  │            │              │              │立之熟稔交情，經自稱「李定邦」│
@@ -1335,37 +1228,37 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │徵信時提供不實資訊取信承辦人員│
 │    │                      │      │          │                │                  │            │              │              │，致銀行經辦人員陷於錯誤，誤認│
 │    │                      │      │          │                │                  │            │              │              │德麗公司經營狀況良好，乃於如附│
-│    │                      │      │          │                │                  │            │              │              │表一編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示日期，予以核貸 │
-│    │                      │      │          │                │                  │            │              │              │如附表一編號3<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示金額之款項 │
+│    │                      │      │          │                │                  │            │              │              │表一編號3所示日期，予以核貸 │
+│    │                      │      │          │                │                  │            │              │              │如附表一編號3所示金額之款項 │
 │    │                      │      │          │                │                  │            │              │              │，足以生損害於國稅稽徵機關及合│
 │    │                      │      │          │                │                  │            │              │              │庫商銀。                      │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 4  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />人本公司            │尹衍澤│尹衍澤    │合庫商銀埔墘分行│小額簡便貸款      │94年7 月1 日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />尹衍澤      │尹衍澤（業經本院以99年度簡字第│
-│    │                      │      │謝進興（94│                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │548 號判決確定）為人本公司負責│
-│    │                      │      │年11月11日│                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │人，與謝進興（業經本院以98年度│
-│    │                      │      │變更連帶保│                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │訴字第1180號判決確定）、劉榮欽│
-│    │                      │      │證人為劉榮│                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │（業經本院以99年度簡字第548 號│
-│    │                      │      │欽）      │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />自稱「二姐」│判決確定）、陳坤成、張新民、何│
+│ 4  │人本公司            │尹衍澤│尹衍澤    │合庫商銀埔墘分行│小額簡便貸款      │94年7 月1 日│新臺幣300 萬元│尹衍澤      │尹衍澤（業經本院以99年度簡字第│
+│    │                      │      │謝進興（94│                │                  │            │              │陳坤成      │548 號判決確定）為人本公司負責│
+│    │                      │      │年11月11日│                │                  │            │              │張新民      │人，與謝進興（業經本院以98年度│
+│    │                      │      │變更連帶保│                │                  │            │              │何輝雄      │訴字第1180號判決確定）、劉榮欽│
+│    │                      │      │證人為劉榮│                │                  │            │              │黃朝陽      │（業經本院以99年度簡字第548 號│
+│    │                      │      │欽）      │                │                  │            │              │自稱「二姐」│判決確定）、陳坤成、張新民、何│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │輝雄、黃朝陽、自稱「二姐」之成│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />謝進興      │年女子共同基於行使偽造公文書、│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />劉榮欽      │詐欺取財之犯意聯絡，先由「二姐│
+│    │                      │      │          │                │                  │            │              │謝進興      │年女子共同基於行使偽造公文書、│
+│    │                      │      │          │                │                  │            │              │劉榮欽      │詐欺取財之犯意聯絡，先由「二姐│
 │    │                      │      │          │                │                  │            │              │              │」委託不知情之某真實姓名年籍不│
 │    │                      │      │          │                │                  │            │              │              │詳之成年人偽造如附表二（四）1 │
 │    │                      │      │          │                │                  │            │              │              │所示之印章，由尹衍澤於附表一編│
-│    │                      │      │          │                │                  │            │              │              │號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示核貸日期即94年7 月1 │
+│    │                      │      │          │                │                  │            │              │              │號4 所示核貸日期即94年7 月1 │
 │    │                      │      │          │                │                  │            │              │              │日前某日，提供人本公司之大小章│
 │    │                      │      │          │                │                  │            │              │              │、統一發票章及營利事業登記證等│
 │    │                      │      │          │                │                  │            │              │              │物與張新民，由張新民再轉交予何│
 │    │                      │      │          │                │                  │            │              │              │輝雄委託黃朝陽杜編不實財報數據│
 │    │                      │      │          │                │                  │            │              │              │，據以偽造如附表二（四）1所示 │
 │    │                      │      │          │                │                  │            │              │              │之公文書，尹衍澤則以人本公司負│
-│    │                      │      │          │                │                  │            │              │              │責人之名義，向如附表一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /> │
+│    │                      │      │          │                │                  │            │              │              │責人之名義，向如附表一編號4 │
 │    │                      │      │          │                │                  │            │              │              │所示合庫商銀埔墘分行申請貸款，│
 │    │                      │      │          │                │                  │            │              │              │且為符合銀行授信條件，張新民另│
 │    │                      │      │          │                │                  │            │              │              │以新臺幣20萬元至25萬元不等之代│
 │    │                      │      │          │                │                  │            │              │              │價覓得知情為詐騙且無償還能力之│
 │    │                      │      │          │                │                  │            │              │              │謝進興、劉榮欽充當附表一編號4 │
-│    │                      │      │          │                │                  │            │              │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示貸款之連帶保證人，嗣由陳│
+│    │                      │      │          │                │                  │            │              │              │所示貸款之連帶保證人，嗣由陳│
 │    │                      │      │          │                │                  │            │              │              │坤成出面持附表二（四）1所示之 │
 │    │                      │      │          │                │                  │            │              │              │偽造公文書，向合庫商銀埔墘分行│
 │    │                      │      │          │                │                  │            │              │              │遞件以行使，陳坤成並隨同銀行徵│
@@ -1374,31 +1267,31 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │於銀行徵信時提供不實資訊取信承│
 │    │                      │      │          │                │                  │            │              │              │辦人員，致銀行經辦人員陷於錯誤│
 │    │                      │      │          │                │                  │            │              │              │，誤認人本公司經營狀況良好，乃│
-│    │                      │      │          │                │                  │            │              │              │於如附表一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示日期，予 │
-│    │                      │      │          │                │                  │            │              │              │以核貸如附表一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示金額 │
+│    │                      │      │          │                │                  │            │              │              │於如附表一編號4所示日期，予 │
+│    │                      │      │          │                │                  │            │              │              │以核貸如附表一編號4所示金額 │
 │    │                      │      │          │                │                  │            │              │              │之款項，足以生損害於國稅稽徵機│
 │    │                      │      │          │                │                  │            │              │              │關及合庫商銀。                │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />人本公司            │尹衍澤│尹衍澤    │第一銀行營業部  │小額簡便貸款      │94年9 月22日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />尹衍澤      │尹衍澤與劉榮欽、陳坤成、張新民│
-│    │                      │      │劉榮欽    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │、何輝雄、黃朝陽、自稱「二姐」│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │之成年女子共同基於行使偽造公文│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │書、詐欺取財之犯意聯絡，先由「│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │二姐」委託不知情之某真實姓名年│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />自稱「二姐」│籍不詳之成年人偽造如附表二（四│
+│    │人本公司            │尹衍澤│尹衍澤    │第一銀行營業部  │小額簡便貸款      │94年9 月22日│新臺幣300 萬元│尹衍澤      │尹衍澤與劉榮欽、陳坤成、張新民│
+│    │                      │      │劉榮欽    │                │                  │            │              │陳坤成      │、何輝雄、黃朝陽、自稱「二姐」│
+│    │                      │      │          │                │                  │            │              │張新民      │之成年女子共同基於行使偽造公文│
+│    │                      │      │          │                │                  │            │              │何輝雄      │書、詐欺取財之犯意聯絡，先由「│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │二姐」委託不知情之某真實姓名年│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│籍不詳之成年人偽造如附表二（四│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │）2 所示之印章，由尹衍澤於附表│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />劉榮欽      │一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示核貸日期即94年9 │
+│    │                      │      │          │                │                  │            │              │劉榮欽      │一編號4 所示核貸日期即94年9 │
 │    │                      │      │          │                │                  │            │              │              │月22日前某日，提供人本公司之大│
 │    │                      │      │          │                │                  │            │              │              │小章、統一發票章及營利事業登記│
 │    │                      │      │          │                │                  │            │              │              │證等物與張新民，由張新民再轉交│
 │    │                      │      │          │                │                  │            │              │              │與黃朝陽杜編不實財報數據，據以│
 │    │                      │      │          │                │                  │            │              │              │偽造如附表二（四）2 所示之公文│
 │    │                      │      │          │                │                  │            │              │              │書，尹衍澤則以人本公司負責人之│
-│    │                      │      │          │                │                  │            │              │              │名義，向如附表一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示第│
+│    │                      │      │          │                │                  │            │              │              │名義，向如附表一編號4 所示第│
 │    │                      │      │          │                │                  │            │              │              │一銀行營業部申請貸款，且為符合│
 │    │                      │      │          │                │                  │            │              │              │銀行授信條件，張新民另以新臺幣│
 │    │                      │      │          │                │                  │            │              │              │20萬元至25萬元不等之代價覓得知│
 │    │                      │      │          │                │                  │            │              │              │情為詐騙且無償還能力之劉榮欽充│
-│    │                      │      │          │                │                  │            │              │              │當附表一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示貸款之連帶│
+│    │                      │      │          │                │                  │            │              │              │當附表一編號4 所示貸款之連帶│
 │    │                      │      │          │                │                  │            │              │              │保證人，嗣由陳坤成出面持附表二│
 │    │                      │      │          │                │                  │            │              │              │（四）2 所示之偽造公文書，向第│
 │    │                      │      │          │                │                  │            │              │              │一銀行營業部遞件以行使，陳坤成│
@@ -1407,31 +1300,31 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │欽則於銀行徵信時提供不實資訊取│
 │    │                      │      │          │                │                  │            │              │              │信承辦人員，致銀行經辦人員陷於│
 │    │                      │      │          │                │                  │            │              │              │錯誤，誤認人本公司經營狀況良好│
-│    │                      │      │          │                │                  │            │              │              │，乃於如附表一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示日期│
-│    │                      │      │          │                │                  │            │              │              │，予以核貸如附表一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示│
+│    │                      │      │          │                │                  │            │              │              │，乃於如附表一編號4 所示日期│
+│    │                      │      │          │                │                  │            │              │              │，予以核貸如附表一編號4 所示│
 │    │                      │      │          │                │                  │            │              │              │金額之款項，足以生損害於國稅稽│
 │    │                      │      │          │                │                  │            │              │              │徵機關及第一銀行。            │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />人本公司            │尹衍澤│劉榮欽    │永豐銀行永春分行│小額簡便貸款      │94年11月23日│新臺幣150 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />尹衍澤      │尹衍澤與劉榮欽、陳坤成、張新民│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │、何輝雄、黃朝陽、自稱「二姐」│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │之成年女子共同基於行使偽造公文│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │書、詐欺取財之犯意聯絡，先由「│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │二姐」委託不知情之某真實姓名年│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />自稱「二姐」│籍不詳之成年人偽造如附表二（四│
+│    │人本公司            │尹衍澤│劉榮欽    │永豐銀行永春分行│小額簡便貸款      │94年11月23日│新臺幣150 萬元│尹衍澤      │尹衍澤與劉榮欽、陳坤成、張新民│
+│    │                      │      │          │                │                  │            │              │陳坤成      │、何輝雄、黃朝陽、自稱「二姐」│
+│    │                      │      │          │                │                  │            │              │張新民      │之成年女子共同基於行使偽造公文│
+│    │                      │      │          │                │                  │            │              │何輝雄      │書、詐欺取財之犯意聯絡，先由「│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │二姐」委託不知情之某真實姓名年│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│籍不詳之成年人偽造如附表二（四│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │）3 所示之印章，由尹衍澤於附表│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />劉榮欽      │一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示核貸日期即94年11│
+│    │                      │      │          │                │                  │            │              │劉榮欽      │一編號4 所示核貸日期即94年11│
 │    │                      │      │          │                │                  │            │              │              │月23日前某日，提供人本公司之大│
 │    │                      │      │          │                │                  │            │              │              │小章、統一發票章及營利事業登記│
 │    │                      │      │          │                │                  │            │              │              │證等物與張新民，由張新民再轉交│
 │    │                      │      │          │                │                  │            │              │              │與黃朝陽杜編不實財報數據，據以│
 │    │                      │      │          │                │                  │            │              │              │偽造如附表二（四）3 所示之公文│
 │    │                      │      │          │                │                  │            │              │              │書，尹衍澤則以人本公司負責人之│
-│    │                      │      │          │                │                  │            │              │              │名義，向如附表一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示永│
+│    │                      │      │          │                │                  │            │              │              │名義，向如附表一編號4 所示永│
 │    │                      │      │          │                │                  │            │              │              │豐銀行永春分行申請貸款，且為符│
 │    │                      │      │          │                │                  │            │              │              │合銀行授信條件，張新民另以新臺│
 │    │                      │      │          │                │                  │            │              │              │幣20萬元至25萬元不等之代價覓得│
 │    │                      │      │          │                │                  │            │              │              │知情為詐騙且無償還能力之劉榮欽│
-│    │                      │      │          │                │                  │            │              │              │充當附表一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示貸款之連│
+│    │                      │      │          │                │                  │            │              │              │充當附表一編號4 所示貸款之連│
 │    │                      │      │          │                │                  │            │              │              │帶保證人，嗣由陳坤成出面持附表│
 │    │                      │      │          │                │                  │            │              │              │二（四）3 所示之偽造公文書，向│
 │    │                      │      │          │                │                  │            │              │              │永豐銀行永春分行遞件以行使，陳│
@@ -1440,19 +1333,19 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │劉榮欽則於銀行徵信時提供不實資│
 │    │                      │      │          │                │                  │            │              │              │訊取信承辦人員，致銀行經辦人員│
 │    │                      │      │          │                │                  │            │              │              │陷於錯誤，誤認人本公司經營狀況│
-│    │                      │      │          │                │                  │            │              │              │良好，乃於如附表一編號4 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />所示│
-│    │                      │      │          │                │                  │            │              │              │日期，予以核貸如附表一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" /> │
+│    │                      │      │          │                │                  │            │              │              │良好，乃於如附表一編號4 所示│
+│    │                      │      │          │                │                  │            │              │              │日期，予以核貸如附表一編號4 │
 │    │                      │      │          │                │                  │            │              │              │所示金額之款項，足以生損害於國│
 │    │                      │      │          │                │                  │            │              │              │稅稽徵機關及永豐銀行。        │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />人本公司            │尹衍澤│尹衍澤    │合庫商銀埔墘分行│國外遠期信用狀借款│95年1 月20日│美金10萬元    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />尹衍澤      │尹衍澤與詹淑娟（業經本院以98年│
-│    │                      │      │詹淑娟    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │度簡字第5077號判決確定）、陳坤│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │成、張新民、何輝雄、黃朝陽共同│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │基於行使偽造公文書、詐欺取財之│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │犯意聯絡，先由「二姐」委託不知│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />詹淑娟      │情之某真實姓名年籍不詳之成年人│
+│    │人本公司            │尹衍澤│尹衍澤    │合庫商銀埔墘分行│國外遠期信用狀借款│95年1 月20日│美金10萬元    │尹衍澤      │尹衍澤與詹淑娟（業經本院以98年│
+│    │                      │      │詹淑娟    │                │                  │            │              │陳坤成      │度簡字第5077號判決確定）、陳坤│
+│    │                      │      │          │                │                  │            │              │張新民      │成、張新民、何輝雄、黃朝陽共同│
+│    │                      │      │          │                │                  │            │              │何輝雄      │基於行使偽造公文書、詐欺取財之│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │犯意聯絡，先由「二姐」委託不知│
+│    │                      │      │          │                │                  │            │              │詹淑娟      │情之某真實姓名年籍不詳之成年人│
 │    │                      │      │          │                │                  │            │              │              │偽造如附表二（四）4所示之印章 │
-│    │                      │      │          │                │                  │            │              │              │，由尹衍澤於附表一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />所示 │
+│    │                      │      │          │                │                  │            │              │              │，由尹衍澤於附表一編號4所示 │
 │    │                      │      │          │                │                  │            │              │              │核貸日期即95年1月20日前某日， │
 │    │                      │      │          │                │                  │            │              │              │提供人本公司之大小章、統一發票│
 │    │                      │      │          │                │                  │            │              │              │章及營利事業登記證等物，何輝雄│
@@ -1460,44 +1353,44 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │杜編不實財報數據，據以偽造如附│
 │    │                      │      │          │                │                  │            │              │              │表二（四）4所示之公文書，尹衍 │
 │    │                      │      │          │                │                  │            │              │              │澤則以人本公司負責人之名義，向│
-│    │                      │      │          │                │                  │            │              │              │如附表一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />所示合庫商銀埔 │
+│    │                      │      │          │                │                  │            │              │              │如附表一編號4所示合庫商銀埔 │
 │    │                      │      │          │                │                  │            │              │              │墘分行申請貸款，且為符合銀行授│
 │    │                      │      │          │                │                  │            │              │              │信條件，張新民則以20萬元覓得知│
 │    │                      │      │          │                │                  │            │              │              │情為詐騙且無償還能力之詹淑娟充│
-│    │                      │      │          │                │                  │            │              │              │當附表一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />所示貸款之連帶 │
+│    │                      │      │          │                │                  │            │              │              │當附表一編號4所示貸款之連帶 │
 │    │                      │      │          │                │                  │            │              │              │保證人，嗣由陳坤成出面持附表二│
 │    │                      │      │          │                │                  │            │              │              │（四）4所示之偽造公文書，向合 │
 │    │                      │      │          │                │                  │            │              │              │庫商銀埔墘分行遞件以行使，致銀│
 │    │                      │      │          │                │                  │            │              │              │行經辦人員陷於錯誤，誤認人本公│
 │    │                      │      │          │                │                  │            │              │              │司經營狀況良好，乃於如附表一編│
-│    │                      │      │          │                │                  │            │              │              │號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />所示日期，予以核貸如附表 │
-│    │                      │      │          │                │                  │            │              │              │一編號4<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />所示金額之款項，足以 │
+│    │                      │      │          │                │                  │            │              │              │號4所示日期，予以核貸如附表 │
+│    │                      │      │          │                │                  │            │              │              │一編號4所示金額之款項，足以 │
 │    │                      │      │          │                │                  │            │              │              │生損害於國稅稽徵機關及合庫商銀│
 │    │                      │      │          │                │                  │            │              │              │。                            │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 5  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />快樂年公司          │黃筱涵│黃銘發    │合庫商銀埔墘分行│小額簡便貸款      │94年7 月26日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />黃筱涵      │黃筱涵（業經本院以98年度簡字第│
-│    │                      │      │黃筱涵    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │5075號判決確定）為快樂年公司負│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │責人，與黃銘發（業經本院以101 │
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│年度訴字第649 號判決確定）、陳│
+│ 5  │快樂年公司          │黃筱涵│黃銘發    │合庫商銀埔墘分行│小額簡便貸款      │94年7 月26日│新臺幣300 萬元│黃筱涵      │黃筱涵（業經本院以98年度簡字第│
+│    │                      │      │黃筱涵    │                │                  │            │              │陳坤成      │5075號判決確定）為快樂年公司負│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │責人，與黃銘發（業經本院以101 │
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│年度訴字第649 號判決確定）、陳│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │坤成、黃朝陽、自稱「二姐」之成│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱合力公司│年女子、自稱合力公司經理「李定│
+│    │                      │      │          │                │                  │            │              │自稱合力公司│年女子、自稱合力公司經理「李定│
 │    │                      │      │          │                │                  │            │              │  經理「李定邦│邦」之成年人共同基於行使偽造公│
 │    │                      │      │          │                │                  │            │              │  」之成年人  │文書、詐欺取財之犯意聯絡，先由│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />黃銘發      │「二姐」委託不知情之某真實姓名│
+│    │                      │      │          │                │                  │            │              │黃銘發      │「二姐」委託不知情之某真實姓名│
 │    │                      │      │          │                │                  │            │              │              │年籍不詳之成年人偽造如附表二（│
 │    │                      │      │          │                │                  │            │              │              │五）1所示之印章，由黃筱涵於附 │
-│    │                      │      │          │                │                  │            │              │              │表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示核貸日期即94年7│
+│    │                      │      │          │                │                  │            │              │              │表一編號5所示核貸日期即94年7│
 │    │                      │      │          │                │                  │            │              │              │月26日前某日，提供快樂年公司之│
 │    │                      │      │          │                │                  │            │              │              │大小章、統一發票章及營利事業登│
 │    │                      │      │          │                │                  │            │              │              │記證等物，交由黃朝陽杜編不實財│
 │    │                      │      │          │                │                  │            │              │              │報數據，據以偽造如附表二（五）│
 │    │                      │      │          │                │                  │            │              │              │1所示之公文書，黃筱涵再以快樂 │
 │    │                      │      │          │                │                  │            │              │              │年公司負責人之名義，向如附表一│
-│    │                      │      │          │                │                  │            │              │              │編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示合庫商銀埔墘分行申 │
+│    │                      │      │          │                │                  │            │              │              │編號5所示合庫商銀埔墘分行申 │
 │    │                      │      │          │                │                  │            │              │              │請貸款，且為符合銀行授信條件，│
 │    │                      │      │          │                │                  │            │              │              │另以新臺幣10萬元至20萬元不等之│
 │    │                      │      │          │                │                  │            │              │              │代價覓得知情為詐騙且無償還能力│
-│    │                      │      │          │                │                  │            │              │              │之黃銘發充當附表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示 │
+│    │                      │      │          │                │                  │            │              │              │之黃銘發充當附表一編號5所示 │
 │    │                      │      │          │                │                  │            │              │              │貸款之連帶保證人，並以陳坤成因│
 │    │                      │      │          │                │                  │            │              │              │長期從事代書業而與金融機構建立│
 │    │                      │      │          │                │                  │            │              │              │之熟稔交情，經由自稱合力公司經│
@@ -1510,31 +1403,31 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │徵信時提供不實資訊取信承辦人員│
 │    │                      │      │          │                │                  │            │              │              │，致使銀行經辦人員陷於錯誤，誤│
 │    │                      │      │          │                │                  │            │              │              │認快樂年公司經營狀況良好，乃於│
-│    │                      │      │          │                │                  │            │              │              │如附表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示日期，予以 │
-│    │                      │      │          │                │                  │            │              │              │核貸如附表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示金額之 │
+│    │                      │      │          │                │                  │            │              │              │如附表一編號5所示日期，予以 │
+│    │                      │      │          │                │                  │            │              │              │核貸如附表一編號5所示金額之 │
 │    │                      │      │          │                │                  │            │              │              │款項，足以生損害於國稅稽徵機關│
 │    │                      │      │          │                │                  │            │              │              │及合庫商銀。                  │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />快樂年公司          │黃筱涵│黃筱涵    │合庫商銀埔墘分行│國外遠期信用狀借款│94年11月24日│美金20萬元    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />黃筱涵      │黃筱涵與黃銘發、陳坤成、張新民│
-│    │                      │      │黃銘發    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │、何輝雄、黃朝陽、自稱「二姐」│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │之成年女子、自稱合力公司經理「│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│李定邦」之人共同基於行使偽造公│
+│    │快樂年公司          │黃筱涵│黃筱涵    │合庫商銀埔墘分行│國外遠期信用狀借款│94年11月24日│美金20萬元    │黃筱涵      │黃筱涵與黃銘發、陳坤成、張新民│
+│    │                      │      │黃銘發    │                │                  │            │              │陳坤成      │、何輝雄、黃朝陽、自稱「二姐」│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │之成年女子、自稱合力公司經理「│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│李定邦」之人共同基於行使偽造公│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │文書、詐欺取財之犯意聯絡，先由│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱合力公司│「二姐」委託不知情之某真實姓名│
+│    │                      │      │          │                │                  │            │              │自稱合力公司│「二姐」委託不知情之某真實姓名│
 │    │                      │      │          │                │                  │            │              │  經理「李定邦│年籍不詳之成年人偽造如附表二（│
 │    │                      │      │          │                │                  │            │              │  」之成年人  │五）2所示之印章，由黃筱涵於附 │
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />黃銘發      │表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示核貸日期即94年 │
+│    │                      │      │          │                │                  │            │              │黃銘發      │表一編號5所示核貸日期即94年 │
 │    │                      │      │          │                │                  │            │              │              │11月24日前某日，提供快樂年公司│
 │    │                      │      │          │                │                  │            │              │              │之大小章、統一發票章及營利事業│
 │    │                      │      │          │                │                  │            │              │              │登記證等物，交由黃朝陽杜編不實│
 │    │                      │      │          │                │                  │            │              │              │財報數據，據以偽造如附表二（五│
 │    │                      │      │          │                │                  │            │              │              │）2所示之公文書，黃筱涵再以快 │
 │    │                      │      │          │                │                  │            │              │              │樂年公司負責人之名義，向如附表│
-│    │                      │      │          │                │                  │            │              │              │一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示合庫商銀埔墘分行 │
+│    │                      │      │          │                │                  │            │              │              │一編號5所示合庫商銀埔墘分行 │
 │    │                      │      │          │                │                  │            │              │              │申請貸款，且為符合銀行授信條件│
 │    │                      │      │          │                │                  │            │              │              │，另以新臺幣10萬元至20萬元不等│
 │    │                      │      │          │                │                  │            │              │              │之代價覓得知情為詐騙且無償還能│
-│    │                      │      │          │                │                  │            │              │              │力之黃銘發充當附表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所 │
+│    │                      │      │          │                │                  │            │              │              │力之黃銘發充當附表一編號5所 │
 │    │                      │      │          │                │                  │            │              │              │示貸款之連帶保證人，並以陳坤成│
 │    │                      │      │          │                │                  │            │              │              │因長期從事代書業而與金融機構建│
 │    │                      │      │          │                │                  │            │              │              │立之熟稔交情，經自稱合力公司經│
@@ -1547,34 +1440,34 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │徵信時提供不實資訊取信承辦人員│
 │    │                      │      │          │                │                  │            │              │              │，致使銀行經辦人員陷於錯誤，誤│
 │    │                      │      │          │                │                  │            │              │              │認快樂年公司經營狀況良好，乃於│
-│    │                      │      │          │                │                  │            │              │              │如附表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示日期，予以 │
-│    │                      │      │          │                │                  │            │              │              │核貸如附表一編號5<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示金額之 │
+│    │                      │      │          │                │                  │            │              │              │如附表一編號5所示日期，予以 │
+│    │                      │      │          │                │                  │            │              │              │核貸如附表一編號5所示金額之 │
 │    │                      │      │          │                │                  │            │              │              │款項，足以生損害於國稅稽徵機關│
 │    │                      │      │          │                │                  │            │              │              │及合庫商銀。                  │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 6  │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />東振公司            │吳鵬輝│吳鵬輝    │合庫商銀埔墘分行│國外遠期信用狀借款│94年8 月8日 │美金20萬元    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />吳鵬輝      │吳鵬輝（業經本院以98年度簡字第│
-│    │                      │      │陳瑞生    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />李儒滋      │5074號判決確定）為東振公司負責│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />陳坤成      │人，與李儒滋（業經本院以98年度│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />黃朝陽      │訴字第1180號判決確定）、陳瑞生│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「二姐」│（業經本院以99年度簡字第790 號│
+│ 6  │東振公司            │吳鵬輝│吳鵬輝    │合庫商銀埔墘分行│國外遠期信用狀借款│94年8 月8日 │美金20萬元    │吳鵬輝      │吳鵬輝（業經本院以98年度簡字第│
+│    │                      │      │陳瑞生    │                │                  │            │              │李儒滋      │5074號判決確定）為東振公司負責│
+│    │                      │      │          │                │                  │            │              │陳坤成      │人，與李儒滋（業經本院以98年度│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │訴字第1180號判決確定）、陳瑞生│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│（業經本院以99年度簡字第790 號│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │判決確定）、陳坤成、黃朝陽、自│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />陳瑞生      │稱「二姐」之成年女子共同基於行│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B82A0A00000040.GIF" />王慶常（王慶│使偽造公文書、詐欺取財之犯意聯│
+│    │                      │      │          │                │                  │            │              │陳瑞生      │稱「二姐」之成年女子共同基於行│
+│    │                      │      │          │                │                  │            │              │王慶常（王慶│使偽造公文書、詐欺取財之犯意聯│
 │    │                      │      │          │                │                  │            │              │  常僅涉及詐欺│絡，先由「二姐」委託不知情之某│
 │    │                      │      │          │                │                  │            │              │  取財犯行）  │真實姓名年籍不詳之成年人偽造如│
 │    │                      │      │          │                │                  │            │              │              │附表二（六）1所示之印章，由吳 │
-│    │                      │      │          │                │                  │            │              │              │鵬輝於附表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示核貸日 │
+│    │                      │      │          │                │                  │            │              │              │鵬輝於附表一編號6所示核貸日 │
 │    │                      │      │          │                │                  │            │              │              │期即94年8月8日前某日，提供東振│
 │    │                      │      │          │                │                  │            │              │              │公司之大小章、統一發票章及營利│
 │    │                      │      │          │                │                  │            │              │              │事業登記證等物，交由黃朝陽杜編│
 │    │                      │      │          │                │                  │            │              │              │不實財報數據，據以偽造如附表二│
 │    │                      │      │          │                │                  │            │              │              │（六）1所示之公文書，吳鵬輝再 │
 │    │                      │      │          │                │                  │            │              │              │以東振公司負責人之名義，向如附│
-│    │                      │      │          │                │                  │            │              │              │表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示合庫商銀埔墘分 │
+│    │                      │      │          │                │                  │            │              │              │表一編號6所示合庫商銀埔墘分 │
 │    │                      │      │          │                │                  │            │              │              │行申請貸款，且為符合銀行授信條│
 │    │                      │      │          │                │                  │            │              │              │件，另以新臺幣10萬元至20萬元不│
 │    │                      │      │          │                │                  │            │              │              │等之代價覓得知情為詐騙且無償還│
-│    │                      │      │          │                │                  │            │              │              │能力之陳瑞生充當附表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" /> │
+│    │                      │      │          │                │                  │            │              │              │能力之陳瑞生充當附表一編號6 │
 │    │                      │      │          │                │                  │            │              │              │所示貸款之連帶保證人，並以陳坤│
 │    │                      │      │          │                │                  │            │              │              │成因長期從事代書業而與金融機構│
 │    │                      │      │          │                │                  │            │              │              │建立之熟稔交情，而推由陳坤成出│
@@ -1591,30 +1484,30 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │黃朝陽前往東振公司冒充員工，致│
 │    │                      │      │          │                │                  │            │              │              │使銀行經辦人員陷於錯誤，誤認東│
 │    │                      │      │          │                │                  │            │              │              │振公司經營狀況良好，乃於如附表│
-│    │                      │      │          │                │                  │            │              │              │一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示日期，予以核貸如 │
-│    │                      │      │          │                │                  │            │              │              │附表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B12A0A00000040.GIF" />所示金額之款項， │
+│    │                      │      │          │                │                  │            │              │              │一編號6所示日期，予以核貸如 │
+│    │                      │      │          │                │                  │            │              │              │附表一編號6所示金額之款項， │
 │    │                      │      │          │                │                  │            │              │              │足以生損害於國稅稽徵機關及合庫│
 │    │                      │      │          │                │                  │            │              │              │商銀。                        │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />東振公司            │吳鵬輝│吳鵬輝    │合庫商銀埔墘分行│小額簡便貸款      │95年1 月19日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />吳鵬輝      │吳鵬輝與李儒滋、陳瑞生、陳坤成│
-│    │                      │      │陳瑞生    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />李儒滋      │、黃朝陽、自稱「二姐」之成年女│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />陳坤成      │子共同基於行使偽造公文書、詐欺│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />黃朝陽      │取財之犯意聯絡，先由「二姐」委│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「二姐」│託不知情之某真實姓名年籍不詳之│
+│    │東振公司            │吳鵬輝│吳鵬輝    │合庫商銀埔墘分行│小額簡便貸款      │95年1 月19日│新臺幣300 萬元│吳鵬輝      │吳鵬輝與李儒滋、陳瑞生、陳坤成│
+│    │                      │      │陳瑞生    │                │                  │            │              │李儒滋      │、黃朝陽、自稱「二姐」之成年女│
+│    │                      │      │          │                │                  │            │              │陳坤成      │子共同基於行使偽造公文書、詐欺│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │取財之犯意聯絡，先由「二姐」委│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│託不知情之某真實姓名年籍不詳之│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │成年人偽造如附表二（六）2所示 │
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />陳瑞生      │之印章，由吳鵬輝於附表一編號6 │
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />王慶常（王慶│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示核貸日期即95年1月19日前 │
+│    │                      │      │          │                │                  │            │              │陳瑞生      │之印章，由吳鵬輝於附表一編號6 │
+│    │                      │      │          │                │                  │            │              │王慶常（王慶│所示核貸日期即95年1月19日前 │
 │    │                      │      │          │                │                  │            │              │  常僅涉及詐欺│某日，提供東振公司之大小章、統│
 │    │                      │      │          │                │                  │            │              │  取財犯行）  │一發票章及營利事業登記證等物，│
 │    │                      │      │          │                │                  │            │              │              │交由黃朝陽杜編不實財報數據，據│
 │    │                      │      │          │                │                  │            │              │              │以偽造如附表二（六）2所示之公 │
 │    │                      │      │          │                │                  │            │              │              │文書，吳鵬輝再以東振公司負責人│
-│    │                      │      │          │                │                  │            │              │              │之名義，向如附表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示 │
+│    │                      │      │          │                │                  │            │              │              │之名義，向如附表一編號6所示 │
 │    │                      │      │          │                │                  │            │              │              │合庫商銀埔墘分行申請貸款，且為│
 │    │                      │      │          │                │                  │            │              │              │符合銀行授信條件，另以新臺幣10│
 │    │                      │      │          │                │                  │            │              │              │萬元至20萬元不等之代價覓得知情│
 │    │                      │      │          │                │                  │            │              │              │為詐騙且無償還能力之陳瑞生充當│
-│    │                      │      │          │                │                  │            │              │              │附表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示貸款之連帶保 │
+│    │                      │      │          │                │                  │            │              │              │附表一編號6所示貸款之連帶保 │
 │    │                      │      │          │                │                  │            │              │              │證人，並以陳坤成因長期從事代書│
 │    │                      │      │          │                │                  │            │              │              │業而與金融機構建立之熟稔交情，│
 │    │                      │      │          │                │                  │            │              │              │而推由陳坤成出面持附表二（六）│
@@ -1629,16 +1522,16 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │常及黃朝陽前往東振公司冒充員工│
 │    │                      │      │          │                │                  │            │              │              │，致使銀行經辦人員陷於錯誤，誤│
 │    │                      │      │          │                │                  │            │              │              │認東振公司經營狀況良好，乃於如│
-│    │                      │      │          │                │                  │            │              │              │附表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示日期，予以核 │
-│    │                      │      │          │                │                  │            │              │              │貸如附表一編號6<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />所示金額之款 │
+│    │                      │      │          │                │                  │            │              │              │附表一編號6所示日期，予以核 │
+│    │                      │      │          │                │                  │            │              │              │貸如附表一編號6所示金額之款 │
 │    │                      │      │          │                │                  │            │              │              │項，足以生損害於國稅稽徵機關及│
 │    │                      │      │          │                │                  │            │              │              │合庫商銀。                    │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 7  │  千美公司            │張朝  │張朝      │合庫商銀埔墘分行│小額簡便貸款      │94年8 月22日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />張朝        │張朝（業經本院以98年度簡字第50│
-│    │                      │      │袁棋棟    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />黃朝陽      │73號判決確定）為千美公司負責人│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />自稱「二姐」│，與袁棋棟（業經本院以100 年度│
+│ 7  │  千美公司            │張朝  │張朝      │合庫商銀埔墘分行│小額簡便貸款      │94年8 月22日│新臺幣300 萬元│張朝        │張朝（業經本院以98年度簡字第50│
+│    │                      │      │袁棋棟    │                │                  │            │              │黃朝陽      │73號判決確定）為千美公司負責人│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│，與袁棋棟（業經本院以100 年度│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │簡字第371號判決確定）、黃朝陽 │
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />袁棋棟      │、自稱「二姐」之成年女子共同基│
+│    │                      │      │          │                │                  │            │              │袁棋棟      │、自稱「二姐」之成年女子共同基│
 │    │                      │      │          │                │                  │            │              │              │於行使偽造公文書、詐欺取財之犯│
 │    │                      │      │          │                │                  │            │              │              │意聯絡，先由「二姐」委託不知情│
 │    │                      │      │          │                │                  │            │              │              │之某真實姓名年籍不詳之成年人偽│
@@ -1661,12 +1554,12 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │額之款項，足以生損害於國稅稽徵│
 │    │                      │      │          │                │                  │            │              │              │機關及合庫商銀。              │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 8  │  天榮公司            │莊松榮│莊松榮    │合庫商銀松江分行│小額簡便貸款      │94年9 月19日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />莊松榮      │莊松榮（業經本院以100 年度訴字│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │第672 號判決確定）為天榮公司負│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │責人，與陳坤成、黃朝陽、自稱「│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│二姐」之成年女子、綽號「阿本」│
+│ 8  │  天榮公司            │莊松榮│莊松榮    │合庫商銀松江分行│小額簡便貸款      │94年9 月19日│新臺幣300 萬元│莊松榮      │莊松榮（業經本院以100 年度訴字│
+│    │                      │      │          │                │                  │            │              │陳坤成      │第672 號判決確定）為天榮公司負│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │責人，與陳坤成、黃朝陽、自稱「│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│二姐」之成年女子、綽號「阿本」│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │之成年人共同基於行使偽造公文書│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />綽號「阿本」│、私文書、詐欺取財之犯意聯絡，│
+│    │                      │      │          │                │                  │            │              │綽號「阿本」│、私文書、詐欺取財之犯意聯絡，│
 │    │                      │      │          │                │                  │            │              │  之成年人    │先由「二姐」委託不知情之某真實│
 │    │                      │      │          │                │                  │            │              │              │姓名年籍不詳之成年人偽造如附表│
 │    │                      │      │          │                │                  │            │              │              │二（八）所示之印章，由莊松榮於│
@@ -1694,12 +1587,12 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │編號8所示金額之款項，足以生損 │
 │    │                      │      │          │                │                  │            │              │              │害於國稅稽徵機關及合庫商銀。  │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 9  │  安妮公司            │吳泰通│吳泰通    │合庫商銀埔墘分行│小額簡便貸款      │94年11月18日│新臺幣400 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />吳泰通      │吳泰通（已歿，檢察官另為不起訴│
-│    │                      │      │賴宏基    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │處分）為安妮公司負責人，與賴宏│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │基（業經本院以98年度訴字第1180│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│號判決確定）、陳坤成、黃朝陽、│
+│ 9  │  安妮公司            │吳泰通│吳泰通    │合庫商銀埔墘分行│小額簡便貸款      │94年11月18日│新臺幣400 萬元│吳泰通      │吳泰通（已歿，檢察官另為不起訴│
+│    │                      │      │賴宏基    │                │                  │            │              │陳坤成      │處分）為安妮公司負責人，與賴宏│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │基（業經本院以98年度訴字第1180│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│號判決確定）、陳坤成、黃朝陽、│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │自稱「二姐」之成年女子共同基於│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />賴宏基      │行使偽造公文書、私文書、詐欺取│
+│    │                      │      │          │                │                  │            │              │賴宏基      │行使偽造公文書、私文書、詐欺取│
 │    │                      │      │          │                │                  │            │              │              │財之犯意聯絡，先由「二姐」委託│
 │    │                      │      │          │                │                  │            │              │              │不知情之某真實姓名年籍不詳之成│
 │    │                      │      │          │                │                  │            │              │              │年人偽造如附表二（九）所示之印│
@@ -1731,13 +1624,13 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │之款項，足以生損害於國稅稽徵機│
 │    │                      │      │          │                │                  │            │              │              │關及合庫商銀。                │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 10 │  詩諾精品行          │周品儀│周品儀( 原│合庫商銀埔墘分行│小額簡便貸款      │94年11月24日│新臺幣400 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />周品儀 (原名│周品儀（業經本院以98年度訴字第│
+│ 10 │  詩諾精品行          │周品儀│周品儀( 原│合庫商銀埔墘分行│小額簡便貸款      │94年11月24日│新臺幣400 萬元│周品儀 (原名│周品儀（業經本院以98年度訴字第│
 │    │                      │( 原名│名周淑安) │                │                  │            │              │  周淑安)     │1180號判決確定）為詩諾精品行負│
-│    │                      │周淑安│古雅芬    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │責人，與古雅芬（業經本院以98年│
-│    │                      │)     │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │度訴字第1472號判決確定）、陳坤│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│成、黃朝陽、自稱「二姐」之成年│
+│    │                      │周淑安│古雅芬    │                │                  │            │              │陳坤成      │責人，與古雅芬（業經本院以98年│
+│    │                      │)     │          │                │                  │            │              │黃朝陽      │度訴字第1472號判決確定）、陳坤│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│成、黃朝陽、自稱「二姐」之成年│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │女子共同基於行使偽造公文書、私│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />古雅芬      │文書、詐欺取財之犯意聯絡，先由│
+│    │                      │      │          │                │                  │            │              │古雅芬      │文書、詐欺取財之犯意聯絡，先由│
 │    │                      │      │          │                │                  │            │              │              │「二姐」委託不知情之某真實姓名│
 │    │                      │      │          │                │                  │            │              │              │年籍不詳之成年人偽造如附表二（│
 │    │                      │      │          │                │                  │            │              │              │十）所示之印章，由周品儀於附表│
@@ -1769,14 +1662,14 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │以生損害於國稅稽徵機關及合庫商│
 │    │                      │      │          │                │                  │            │              │              │銀。                          │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 11 │  豐瑜公司            │張怜媛│張怜媛    │合庫商銀埔墘分行│小額簡便貸款      │95年1 月23日│新臺幣500 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />張怜媛      │張怜媛（已歿，本院另以98年度訴│
-│    │                      │      │吳林洋    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │字第388 號為不受理判決確定）為│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │豐瑜公司負責人，與吳林洋（業經│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />自稱「二姐」│本院以98年度訴字第1180號判決確│
+│ 11 │  豐瑜公司            │張怜媛│張怜媛    │合庫商銀埔墘分行│小額簡便貸款      │95年1 月23日│新臺幣500 萬元│張怜媛      │張怜媛（已歿，本院另以98年度訴│
+│    │                      │      │吳林洋    │                │                  │            │              │陳坤成      │字第388 號為不受理判決確定）為│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │豐瑜公司負責人，與吳林洋（業經│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│本院以98年度訴字第1180號判決確│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │定）、陳坤成、黃朝陽、自稱「二│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B52A0A00000040.GIF" />自稱「趙高峰│姐」之成年女子、自稱「趙高峰」│
+│    │                      │      │          │                │                  │            │              │自稱「趙高峰│姐」之成年女子、自稱「趙高峰」│
 │    │                      │      │          │                │                  │            │              │  」之成年人  │之成年人共同基於行使偽造公文書│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />吳林洋      │、詐欺取財之犯意聯絡，先由「二│
+│    │                      │      │          │                │                  │            │              │吳林洋      │、詐欺取財之犯意聯絡，先由「二│
 │    │                      │      │          │                │                  │            │              │              │姐」委託不知情之某真實姓名年籍│
 │    │                      │      │          │                │                  │            │              │              │不詳之成年人偽造如附表二（十一│
 │    │                      │      │          │                │                  │            │              │              │）所示之印章，由張怜媛於附表一│
@@ -1808,14 +1701,14 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │編號11所示金額之款項，足以生損│
 │    │                      │      │          │                │                  │            │              │              │害於國稅稽徵機關及合庫商銀。  │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 12 │  詠豐公司            │葉文貴│葉文貴    │合庫商銀埔墘分行│小額簡便貸款      │95年1 月27日│新臺幣300 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />葉文貴      │葉文貴（業經本院以98年度訴字第│
-│    │                      │      │彭正平    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │1180號判決確定）為詠豐公司負責│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │人，與彭正平（業經本院以98年度│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │簡字第5074號判決確定）、陳坤成│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │、張新民、何輝雄、黃朝陽、自稱│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B62A0A00000040.GIF" />自稱「二姐」│「二姐」之成年女子共同基於行使│
+│ 12 │  詠豐公司            │葉文貴│葉文貴    │合庫商銀埔墘分行│小額簡便貸款      │95年1 月27日│新臺幣300 萬元│葉文貴      │葉文貴（業經本院以98年度訴字第│
+│    │                      │      │彭正平    │                │                  │            │              │陳坤成      │1180號判決確定）為詠豐公司負責│
+│    │                      │      │          │                │                  │            │              │張新民      │人，與彭正平（業經本院以98年度│
+│    │                      │      │          │                │                  │            │              │何輝雄      │簡字第5074號判決確定）、陳坤成│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │、張新民、何輝雄、黃朝陽、自稱│
+│    │                      │      │          │                │                  │            │              │自稱「二姐」│「二姐」之成年女子共同基於行使│
 │    │                      │      │          │                │                  │            │              │  之成年女子  │偽造公文書、詐欺取財之犯意聯絡│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B72A0A00000040.GIF" />彭正平      │，先委託某真實姓名年籍不詳之成│
+│    │                      │      │          │                │                  │            │              │彭正平      │，先委託某真實姓名年籍不詳之成│
 │    │                      │      │          │                │                  │            │              │              │年人偽造如附表二（十二）所示之│
 │    │                      │      │          │                │                  │            │              │              │印章，由葉文貴於附表一編號12所│
 │    │                      │      │          │                │                  │            │              │              │示核貸日期即95年1月27日前某日 │
@@ -1843,17 +1736,17 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │編號12所示金額之款項，足以生損│
 │    │                      │      │          │                │                  │            │              │              │害於國稅稽徵機關及合庫商銀。  │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 13 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />雪山醇公司          │黃益財│黃益財    │合庫商銀太平分行│中期擔保放款      │95年2 月24日│新臺幣500 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />黃益財      │黃益財（已歿，另由本院以98年度│
-│    │                      │      │楊傑丞    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />林忠進      │訴字第1180號為不受理判決確定）│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />陳坤成      │為雪山醇公司負責人，與楊傑丞（│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />張新民      │業經本院以98年度簡字第5076號判│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />何輝雄      │決確定）、林忠進（本院另行審結│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />黃朝陽      │）、陳坤成、張新民、何輝雄、黃│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />楊傑丞      │朝陽共同基於行使偽造公文書、詐│
+│ 13 │雪山醇公司          │黃益財│黃益財    │合庫商銀太平分行│中期擔保放款      │95年2 月24日│新臺幣500 萬元│黃益財      │黃益財（已歿，另由本院以98年度│
+│    │                      │      │楊傑丞    │                │                  │            │              │林忠進      │訴字第1180號為不受理判決確定）│
+│    │                      │      │          │                │                  │            │              │陳坤成      │為雪山醇公司負責人，與楊傑丞（│
+│    │                      │      │          │                │                  │            │              │張新民      │業經本院以98年度簡字第5076號判│
+│    │                      │      │          │                │                  │            │              │何輝雄      │決確定）、林忠進（本院另行審結│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │）、陳坤成、張新民、何輝雄、黃│
+│    │                      │      │          │                │                  │            │              │楊傑丞      │朝陽共同基於行使偽造公文書、詐│
 │    │                      │      │          │                │                  │            │              │              │欺取財之犯意聯絡，先委託某真實│
 │    │                      │      │          │                │                  │            │              │              │姓名年籍不詳之成年人偽造如附表│
 │    │                      │      │          │                │                  │            │              │              │二（十三）所示之印章，由黃益財│
-│    │                      │      │          │                │                  │            │              │              │於附表一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示核貸日期即│
+│    │                      │      │          │                │                  │            │              │              │於附表一編號13所示核貸日期即│
 │    │                      │      │          │                │                  │            │              │              │95年2月24日前某日，提供雪山醇 │
 │    │                      │      │          │                │                  │            │              │              │公司之大小章、統一發票章及營利│
 │    │                      │      │          │                │                  │            │              │              │事業登記證等物與何輝雄，何輝雄│
@@ -1861,11 +1754,11 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │陽杜編不實財報數據，據以偽造如│
 │    │                      │      │          │                │                  │            │              │              │附表二（十三）所示之公文書，黃│
 │    │                      │      │          │                │                  │            │              │              │益財再以雪山醇公司負責人之名義│
-│    │                      │      │          │                │                  │            │              │              │，向如附表一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示合庫商│
+│    │                      │      │          │                │                  │            │              │              │，向如附表一編號13所示合庫商│
 │    │                      │      │          │                │                  │            │              │              │銀太平分行申請貸款，且為符合銀│
 │    │                      │      │          │                │                  │            │              │              │行授信條件，張新民另以不詳代價│
 │    │                      │      │          │                │                  │            │              │              │，覓得知情為詐騙且無償還能力之│
-│    │                      │      │          │                │                  │            │              │              │楊傑丞充當附表一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示貸│
+│    │                      │      │          │                │                  │            │              │              │楊傑丞充當附表一編號13所示貸│
 │    │                      │      │          │                │                  │            │              │              │款之連帶保證人，嗣由陳坤成出面│
 │    │                      │      │          │                │                  │            │              │              │持附表二（十三）所示之偽造公文│
 │    │                      │      │          │                │                  │            │              │              │書，向合庫商銀太平分行遞件以行│
@@ -1873,18 +1766,18 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │銀行徵信時提供不實資訊取信承辦│
 │    │                      │      │          │                │                  │            │              │              │人員，致銀行經辦人員陷於錯誤，│
 │    │                      │      │          │                │                  │            │              │              │誤認雪山醇公司經營狀況良好，乃│
-│    │                      │      │          │                │                  │            │              │              │於如附表一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示日期，予│
-│    │                      │      │          │                │                  │            │              │              │以核貸如附表一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示金額│
+│    │                      │      │          │                │                  │            │              │              │於如附表一編號13所示日期，予│
+│    │                      │      │          │                │                  │            │              │              │以核貸如附表一編號13所示金額│
 │    │                      │      │          │                │                  │            │              │              │之款項，足以生損害於國稅稽徵機│
 │    │                      │      │          │                │                  │            │              │              │關及合庫商銀。                │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />雪山醇公司          │黃益財│黃益財    │合庫商銀太平分行│國外遠期信用狀借款│95年3 月7 日│美金10萬元    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />黃益財      │黃益財與楊傑丞、林忠進、陳坤成│
-│    │                      │      │楊傑丞    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />林忠進      │、張新民、何輝雄、黃朝陽共同基│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />陳坤成      │於行使偽造公文書、詐欺取財之犯│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />張新民      │意聯絡，先委託某真實姓名年籍不│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />何輝雄      │詳之成年人偽造如附表二（十三）│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />黃朝陽      │所示之印章，由黃益財於附表一編│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />楊傑丞      │號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示核貸日期即95年3 月7 │
+│    │雪山醇公司          │黃益財│黃益財    │合庫商銀太平分行│國外遠期信用狀借款│95年3 月7 日│美金10萬元    │黃益財      │黃益財與楊傑丞、林忠進、陳坤成│
+│    │                      │      │楊傑丞    │                │                  │            │              │林忠進      │、張新民、何輝雄、黃朝陽共同基│
+│    │                      │      │          │                │                  │            │              │陳坤成      │於行使偽造公文書、詐欺取財之犯│
+│    │                      │      │          │                │                  │            │              │張新民      │意聯絡，先委託某真實姓名年籍不│
+│    │                      │      │          │                │                  │            │              │何輝雄      │詳之成年人偽造如附表二（十三）│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │所示之印章，由黃益財於附表一編│
+│    │                      │      │          │                │                  │            │              │楊傑丞      │號13所示核貸日期即95年3 月7 │
 │    │                      │      │          │                │                  │            │              │              │日前某日，提供雪山醇公司之大小│
 │    │                      │      │          │                │                  │            │              │              │章、統一發票章及營利事業登記證│
 │    │                      │      │          │                │                  │            │              │              │等物與何輝雄，何輝雄再以每套5 │
@@ -1892,11 +1785,11 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │財報數據，據以偽造如附表二（十│
 │    │                      │      │          │                │                  │            │              │              │三）所示之公文書，黃益財再以雪│
 │    │                      │      │          │                │                  │            │              │              │山醇公司負責人之名義，向如附表│
-│    │                      │      │          │                │                  │            │              │              │一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示合庫商銀太平分行│
+│    │                      │      │          │                │                  │            │              │              │一編號13所示合庫商銀太平分行│
 │    │                      │      │          │                │                  │            │              │              │申請貸款，且為符合銀行授信條件│
 │    │                      │      │          │                │                  │            │              │              │，張新民另以不詳代價，覓得知情│
 │    │                      │      │          │                │                  │            │              │              │為詐騙且無償還能力之楊傑丞充當│
-│    │                      │      │          │                │                  │            │              │              │附表一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示貸款之連帶保│
+│    │                      │      │          │                │                  │            │              │              │附表一編號13所示貸款之連帶保│
 │    │                      │      │          │                │                  │            │              │              │證人，嗣由陳坤成出面持附表二（│
 │    │                      │      │          │                │                  │            │              │              │十三）所示之偽造公文書，向合庫│
 │    │                      │      │          │                │                  │            │              │              │商銀太平分行遞件以行使，黃益財│
@@ -1904,21 +1797,21 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │提供不實資訊取信承辦人員，致銀│
 │    │                      │      │          │                │                  │            │              │              │行經辦人員陷於錯誤，誤認雪山醇│
 │    │                      │      │          │                │                  │            │              │              │公司經營狀況良好，乃於如附表一│
-│    │                      │      │          │                │                  │            │              │              │編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示日期，予以核貸如附│
-│    │                      │      │          │                │                  │            │              │              │表一編號13<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示金額之款項，足│
+│    │                      │      │          │                │                  │            │              │              │編號13所示日期，予以核貸如附│
+│    │                      │      │          │                │                  │            │              │              │表一編號13所示金額之款項，足│
 │    │                      │      │          │                │                  │            │              │              │以生損害於國稅稽徵機關及合庫商│
 │    │                      │      │          │                │                  │            │              │              │銀。                          │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 14 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />歐倫特公司          │江岳彪│陳昆山    │合庫商銀三重分行│短期放款          │95年8 月1 日│新臺幣200 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />江岳彪      │江岳彪（業經本院以98年度訴字第│
-│    │                      │      │江岳彪    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │1180號判決確定）為歐倫特公司負│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │責人，與陳昆山（業經本院以99年│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │度簡字第1709號判決確定）、陳坤│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │成、張新民、何輝雄、黃朝陽共同│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />陳昆山      │基於行使偽造公文書、私文書、詐│
+│ 14 │歐倫特公司          │江岳彪│陳昆山    │合庫商銀三重分行│短期放款          │95年8 月1 日│新臺幣200 萬元│江岳彪      │江岳彪（業經本院以98年度訴字第│
+│    │                      │      │江岳彪    │                │                  │            │              │陳坤成      │1180號判決確定）為歐倫特公司負│
+│    │                      │      │          │                │                  │            │              │張新民      │責人，與陳昆山（業經本院以99年│
+│    │                      │      │          │                │                  │            │              │何輝雄      │度簡字第1709號判決確定）、陳坤│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │成、張新民、何輝雄、黃朝陽共同│
+│    │                      │      │          │                │                  │            │              │陳昆山      │基於行使偽造公文書、私文書、詐│
 │    │                      │      │          │                │                  │            │              │              │欺取財之犯意聯絡，先委託某真實│
 │    │                      │      │          │                │                  │            │              │              │姓名年籍不詳之成年人偽造如附表│
 │    │                      │      │          │                │                  │            │              │              │二（十四）1 所示之印章，由江岳│
-│    │                      │      │          │                │                  │            │              │              │彪於附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示核貸日期│
+│    │                      │      │          │                │                  │            │              │              │彪於附表一編號14所示核貸日期│
 │    │                      │      │          │                │                  │            │              │              │即95年8 月1 日前某日，將歐倫特│
 │    │                      │      │          │                │                  │            │              │              │公司之大小章、統一發票章及營利│
 │    │                      │      │          │                │                  │            │              │              │事業登記證等物提供與何輝雄，何│
@@ -1927,11 +1820,11 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │造如附表二（十四）1 所示之公文│
 │    │                      │      │          │                │                  │            │              │              │書、私文書，江岳彪再以歐倫特公│
 │    │                      │      │          │                │                  │            │              │              │司負責人之名義，向如附表一編號│
-│    │                      │      │          │                │                  │            │              │              │14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示合庫商銀三重分行申請貸│
+│    │                      │      │          │                │                  │            │              │              │14所示合庫商銀三重分行申請貸│
 │    │                      │      │          │                │                  │            │              │              │款，且為符合銀行授信條件，張新│
 │    │                      │      │          │                │                  │            │              │              │民另以不詳代價，覓得知情為詐騙│
 │    │                      │      │          │                │                  │            │              │              │且無償還能力之陳昆山充當附表一│
-│    │                      │      │          │                │                  │            │              │              │編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示貸款之連帶保證人，│
+│    │                      │      │          │                │                  │            │              │              │編號14所示貸款之連帶保證人，│
 │    │                      │      │          │                │                  │            │              │              │嗣由陳坤成出面持附表二（十四）│
 │    │                      │      │          │                │                  │            │              │              │1 所示之偽造公文書、私文書，向│
 │    │                      │      │          │                │                  │            │              │              │合庫商銀三重分行遞件以行使，陳│
@@ -1941,18 +1834,18 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │資訊取信承辦人員，致銀行經辦人│
 │    │                      │      │          │                │                  │            │              │              │員陷於錯誤，誤認歐倫特公司經營│
 │    │                      │      │          │                │                  │            │              │              │狀況良好，乃於如附表一編號14  │
-│    │                      │      │          │                │                  │            │              │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示日期，予以核貸如附表一編│
-│    │                      │      │          │                │                  │            │              │              │號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />所示金額之款項，足以生損│
+│    │                      │      │          │                │                  │            │              │              │所示日期，予以核貸如附表一編│
+│    │                      │      │          │                │                  │            │              │              │號14所示金額之款項，足以生損│
 │    │                      │      │          │                │                  │            │              │              │害於國稅稽徵機關及合庫商銀。  │
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />歐倫特公司          │江岳彪│江岳彪    │合庫商銀三重分行│短期放款          │96年2 月12日│新臺幣200 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />江岳彪      │江岳彪與余龍雄（業經本院以99年│
-│    │                      │      │余龍雄    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │度簡字第1997號判決確定）、陳坤│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │成、張新民、何輝雄、黃朝陽共同│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │基於行使偽造公文書、私文書、詐│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │欺取財之犯意聯絡，先委託某真實│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />余龍雄      │姓名年籍不詳之成年人偽造如附表│
+│    │歐倫特公司          │江岳彪│江岳彪    │合庫商銀三重分行│短期放款          │96年2 月12日│新臺幣200 萬元│江岳彪      │江岳彪與余龍雄（業經本院以99年│
+│    │                      │      │余龍雄    │                │                  │            │              │陳坤成      │度簡字第1997號判決確定）、陳坤│
+│    │                      │      │          │                │                  │            │              │張新民      │成、張新民、何輝雄、黃朝陽共同│
+│    │                      │      │          │                │                  │            │              │何輝雄      │基於行使偽造公文書、私文書、詐│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │欺取財之犯意聯絡，先委託某真實│
+│    │                      │      │          │                │                  │            │              │余龍雄      │姓名年籍不詳之成年人偽造如附表│
 │    │                      │      │          │                │                  │            │              │              │二（十四）2 所示之印章，由江岳│
-│    │                      │      │          │                │                  │            │              │              │彪於附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示核貸日期│
+│    │                      │      │          │                │                  │            │              │              │彪於附表一編號14所示核貸日期│
 │    │                      │      │          │                │                  │            │              │              │即96年2 月12日前某日，將歐倫特│
 │    │                      │      │          │                │                  │            │              │              │公司之大小章、統一發票章及營利│
 │    │                      │      │          │                │                  │            │              │              │事業登記證等物提供與何輝雄，何│
@@ -1961,11 +1854,11 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │造如附表二（十四）2 所示之公文│
 │    │                      │      │          │                │                  │            │              │              │書、私文書，江岳彪再以歐倫特公│
 │    │                      │      │          │                │                  │            │              │              │司負責人之名義，向如附表一編號│
-│    │                      │      │          │                │                  │            │              │              │14 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" /> 所示合庫商銀三重分行申請│
+│    │                      │      │          │                │                  │            │              │              │14  所示合庫商銀三重分行申請│
 │    │                      │      │          │                │                  │            │              │              │貸款，且為符合銀行授信條件，張│
 │    │                      │      │          │                │                  │            │              │              │新民另以不詳代價，覓得知情為詐│
 │    │                      │      │          │                │                  │            │              │              │騙且無償還能力之余龍雄充當附表│
-│    │                      │      │          │                │                  │            │              │              │一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示貸款之連帶保證人│
+│    │                      │      │          │                │                  │            │              │              │一編號14所示貸款之連帶保證人│
 │    │                      │      │          │                │                  │            │              │              │，嗣由陳坤成出面持附表二（十四│
 │    │                      │      │          │                │                  │            │              │              │）2 所示之偽造公文書、私文書，│
 │    │                      │      │          │                │                  │            │              │              │向合庫商銀三重分行遞件以行使，│
@@ -1975,18 +1868,18 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │實資訊取信承辦人員，致銀行經辦│
 │    │                      │      │          │                │                  │            │              │              │人員陷於錯誤，誤認歐倫特公司經│
 │    │                      │      │          │                │                  │            │              │              │營狀況良好，乃於如附表一編號14│
-│    │                      │      │          │                │                  │            │              │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />所示日期，予以核貸如附表一編│
-│    │                      │      │          │                │                  │            │              │              │號14 <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" /> 所示金額之款項，足以生│
+│    │                      │      │          │                │                  │            │              │              │所示日期，予以核貸如附表一編│
+│    │                      │      │          │                │                  │            │              │              │號14  所示金額之款項，足以生│
 │    │                      │      │          │                │                  │            │              │              │損害於國稅稽徵機關及合庫商銀。│
 │    ├───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />歐倫特公司          │江岳彪│江岳彪    │華南銀行永和分行│中期放款          │96年2 月16日│新臺幣145萬元 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />江岳彪      │江岳彪與孫金銀（業經本院以100 │
-│    │                      │      │孫金銀    │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />陳坤成      │年度簡字第2884號判決確定）、陳│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />張新民      │坤成、張新民、何輝雄、黃朝陽共│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />何輝雄      │同基於行使偽造公文書、詐欺取財│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />黃朝陽      │之犯意聯絡，先委託某真實姓名年│
-│    │                      │      │          │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />孫金銀      │籍不詳之成年人偽造如附表二（十│
+│    │歐倫特公司          │江岳彪│江岳彪    │華南銀行永和分行│中期放款          │96年2 月16日│新臺幣145萬元 │江岳彪      │江岳彪與孫金銀（業經本院以100 │
+│    │                      │      │孫金銀    │                │                  │            │              │陳坤成      │年度簡字第2884號判決確定）、陳│
+│    │                      │      │          │                │                  │            │              │張新民      │坤成、張新民、何輝雄、黃朝陽共│
+│    │                      │      │          │                │                  │            │              │何輝雄      │同基於行使偽造公文書、詐欺取財│
+│    │                      │      │          │                │                  │            │              │黃朝陽      │之犯意聯絡，先委託某真實姓名年│
+│    │                      │      │          │                │                  │            │              │孫金銀      │籍不詳之成年人偽造如附表二（十│
 │    │                      │      │          │                │                  │            │              │              │四）3 所示之印章，由江岳彪於附│
-│    │                      │      │          │                │                  │            │              │              │表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示核貸日期即96年│
+│    │                      │      │          │                │                  │            │              │              │表一編號14所示核貸日期即96年│
 │    │                      │      │          │                │                  │            │              │              │2月16 日前某日，將歐倫特公司之│
 │    │                      │      │          │                │                  │            │              │              │大小章、統一發票章及營利事業登│
 │    │                      │      │          │                │                  │            │              │              │記證等物提供與何輝雄，何輝雄再│
@@ -1994,11 +1887,11 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │杜編不實財報數據，據以偽造如附│
 │    │                      │      │          │                │                  │            │              │              │表二（十四）3 所示之公文書，江│
 │    │                      │      │          │                │                  │            │              │              │岳彪再以歐倫特公司負責人之名義│
-│    │                      │      │          │                │                  │            │              │              │，向如附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示華南銀│
+│    │                      │      │          │                │                  │            │              │              │，向如附表一編號14所示華南銀│
 │    │                      │      │          │                │                  │            │              │              │行永和分行申請貸款，且為符合銀│
 │    │                      │      │          │                │                  │            │              │              │行授信條件，張新民另以不詳代價│
 │    │                      │      │          │                │                  │            │              │              │，覓得知情為詐騙且無償還能力之│
-│    │                      │      │          │                │                  │            │              │              │孫金銀充當附表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示貸│
+│    │                      │      │          │                │                  │            │              │              │孫金銀充當附表一編號14所示貸│
 │    │                      │      │          │                │                  │            │              │              │款之連帶保證人，嗣由陳坤成出面│
 │    │                      │      │          │                │                  │            │              │              │持附表二（十四）3 所示之偽造公│
 │    │                      │      │          │                │                  │            │              │              │文書，向華南商銀永和分行遞件以│
@@ -2008,15 +1901,15 @@ function openwin(URL,arguments,width,height)
 │    │                      │      │          │                │                  │            │              │              │提供不實資訊取信承辦人員，致銀│
 │    │                      │      │          │                │                  │            │              │              │行經辦人員陷於錯誤，誤認歐倫特│
 │    │                      │      │          │                │                  │            │              │              │公司經營狀況良好，乃於如附表一│
-│    │                      │      │          │                │                  │            │              │              │編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示日期，予以核貸如附│
-│    │                      │      │          │                │                  │            │              │              │表一編號14<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />所示金額之款項，足│
+│    │                      │      │          │                │                  │            │              │              │編號14所示日期，予以核貸如附│
+│    │                      │      │          │                │                  │            │              │              │表一編號14所示金額之款項，足│
 │    │                      │      │          │                │                  │            │              │              │以生損害於國稅稽徵機關及華南商│
 │    │                      │      │          │                │                  │            │              │              │銀。                          │
 ├──┼───────────┼───┼─────┼────────┼─────────┼──────┼───────┼───────┼───────────────┤
-│ 15 │  建歷公司            │黃俊仁│黃俊仁    │臺灣銀行城中分行│短期放款          │96年9 月29日│新臺幣500 萬元│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />黃俊仁      │黃俊仁（業經本院以100 年度簡字│
-│    │                      │      │高淳斐（原│                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B22A0A00000040.GIF" />何輝雄      │第1159號判決確定）為建歷公司負│
-│    │                      │      │名卓淳斐、│                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B32A0A00000040.GIF" />黃朝陽      │責人，與高淳斐（業經本院以98年│
-│    │                      │      │卓婉琪）  │                │                  │            │              │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F6B42A0A00000040.GIF" />高淳斐（原名│度訴字第1180號判決確定）、何輝│
+│ 15 │  建歷公司            │黃俊仁│黃俊仁    │臺灣銀行城中分行│短期放款          │96年9 月29日│新臺幣500 萬元│黃俊仁      │黃俊仁（業經本院以100 年度簡字│
+│    │                      │      │高淳斐（原│                │                  │            │              │何輝雄      │第1159號判決確定）為建歷公司負│
+│    │                      │      │名卓淳斐、│                │                  │            │              │黃朝陽      │責人，與高淳斐（業經本院以98年│
+│    │                      │      │卓婉琪）  │                │                  │            │              │高淳斐（原名│度訴字第1180號判決確定）、何輝│
 │    │                      │      │          │                │                  │            │              │  卓淳斐、卓婉│雄、黃朝陽共同基於行使偽造公文│
 │    │                      │      │          │                │                  │            │              │  琪          │書、詐欺取財之犯意聯絡，先委託│
 │    │                      │      │          │                │                  │            │              │              │某不知情之真實姓名年籍不詳之成│
@@ -2164,7 +2057,7 @@ function openwin(URL,arguments,width,height)
 │    │枚              │                      │枚              │
 ├──┼────────┼───────────┼────────┤
 │ 17 │「中信銀城中分行│偽造之「合力科技實業有│「中信銀城中分行│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.7.15捌代收 │限公司93年5、6月份財政│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.7.15捌代收 │
+│    │93.7.15捌代收 │限公司93年5、6月份財政│93.7.15捌代收 │
 │    │國市庫稅款章」1 │部台北市國稅局營業稅繳│國市庫稅款章」1 │
 │    │枚              │款書」                │枚              │
 ├──┼────────┼───────────┼────────┤
@@ -2174,7 +2067,7 @@ function openwin(URL,arguments,width,height)
 │    │1枚             │款書」                │1枚             │
 ├──┼────────┼───────────┼────────┤
 │ 19 │「中信銀城中分行│偽造之「合力科技實業有│「中信銀城中分行│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.11.15捌代收│限公司93年9、10月份財 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.11.15捌代收│
+│    │93.11.15捌代收│限公司93年9、10月份財 │93.11.15捌代收│
 │    │國市庫稅款章」1 │政部台北市國稅局營業稅│國市庫稅款章」1 │
 │    │枚              │繳款書」              │枚              │
 ├──┼────────┼───────────┼────────┤
@@ -2313,7 +2206,7 @@ function openwin(URL,arguments,width,height)
 │    │枚              │                      │枚              │
 ├──┼────────┼───────────┼────────┤
 │ 18 │「中信銀城中分行│偽造之「合力科技實業有│「中信銀城中分行│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.7.15捌代收 │限公司93年5、6月份財政│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.7.15捌代收 │
+│    │93.7.15捌代收 │限公司93年5、6月份財政│93.7.15捌代收 │
 │    │國市庫稅款章」1 │部台北市國稅局營業稅繳│國市庫稅款章」1 │
 │    │枚              │款書」                │枚              │
 ├──┼────────┼───────────┼────────┤
@@ -2323,7 +2216,7 @@ function openwin(URL,arguments,width,height)
 │    │1枚             │款書」                │1枚             │
 ├──┼────────┼───────────┼────────┤
 │ 20 │「中信銀城中分行│偽造之「合力科技實業有│「中信銀城中分行│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.11.15捌代收│限公司93年9、10月份財 │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />93.11.15捌代收│
+│    │93.11.15捌代收│限公司93年9、10月份財 │93.11.15捌代收│
 │    │國市庫稅款章」1 │政部台北市國稅局營業稅│國市庫稅款章」1 │
 │    │枚              │繳款書」              │枚              │
 ├──┼────────┼───────────┼────────┤
@@ -2338,9 +2231,9 @@ function openwin(URL,arguments,width,height)
 │    │1枚             │款書」                │1枚             │
 ├──┼────────┼───────────┼────────┤
 │ 23 │「中信銀城中分行│偽造之「合力科技實業有│「中信銀城中分行│
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />94.5.16捌代收 │限公司94年3、4月份財政│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />94.5.16捌代收 │
+│    │94.5.16捌代收 │限公司94年3、4月份財政│94.5.16捌代收 │
 │    │國市庫稅款章」、│部台北市國稅局營業稅繳│國市庫稅款章」、│
-│    │「<font color='red'>劉文雄</font>」各1枚 │款書」                │「<font color='red'>劉文雄</font>」各1枚 │
+│    │「劉文雄」各1枚 │款書」                │「劉文雄」各1枚 │
 └──┴────────┴───────────┴────────┘
 附表二（二）：日日興實業有限公司
 ┌──┬────────┬───────────┬────────┐
@@ -4619,86 +4512,12 @@ function openwin(URL,arguments,width,height)
 103年6月18日修正前刑法第339條第1項
 意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
 物交付者，處5年以下有期徒刑、拘役或科或併科1千元以下罰金
-。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10409\17\TPDM1049H.01X] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[20]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共25
-											筆 / 現在第3
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=001180&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=25&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e6%96%87%e9%9b%84&sdate=&edate=&page=&searchkw=%e5%8a%89%e6%96%87%e9%9b%84&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c1180%2c20150917%2c20&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1180&jdate=1040917&jcheck=20">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c1180%2c20150917%2c20&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=1180&jdate=1040917&jcheck=20">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c1180%2c20150917%2c20','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','1180','1040917','20')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉文雄">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉文雄">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+。
+[*jrecno*]98,訴,1180,20150917,20
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]1180
+[*jdate*]1040917
+[*jcheck*]20

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣苗栗地方法院-刑-92訴358</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣苗栗地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000358&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c358%2c20040531%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=358&jdate=930531&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c358%2c20040531%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=358&jdate=930531&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c358%2c20040531%2c2','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','358','930531','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,訴,358</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">930531</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反公職人員選舉罷免法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣苗栗地方法院刑事判決　　　　　　　　　　　　　九十二年度訴字第三五八號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c358%2c20040531%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=358&jdate=930531&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000358&selectedCrtid=MLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c358%2c20040531%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=358&jdate=930531&jcheck=2
+[*裁判字號*]92,訴,358
+[*裁判日期*]930531
+[*裁判案由*]違反公職人員選舉罷免法
+[*裁判全文*]臺灣苗栗地方法院刑事判決　　　　　　　　　　　　　九十二年度訴字第三五八號
 　　公　訴　人　臺灣苗栗地方法院檢察署檢察官
 　　被　　　告　丁○○
 　　選任辯護人　庚○○律師
@@ -198,7 +91,7 @@ function openwin(URL,arguments,width,height)
     (二)系爭傳單內容載稱：「．．．九十年十二月七日中化煤灰外洩，經里民反應公
       款私用，中化公司也有認同，在十二月十四日在廠內開協調會採用全里發放，
       一戶八千元」等語，核與事實相符：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E0012A0A00000040.GIF" />(1)告訴人雖曾將上開回饋金中之九十餘萬元捐充通天宮取得土地所有權之增值
+    (1)告訴人雖曾將上開回饋金中之九十餘萬元捐充通天宮取得土地所有權之增值
         稅之用，在九十年六月十八日召開之里民大會中列為報告事項，惟會中包括
         被告在內之里民多加質疑其作法之妥當性，而里民陳春發甚至當場質問：「
         社區守望相助隊，里辦公室為何不補助？」，乃告訴人竟仍充耳不聞，反而
@@ -223,11 +116,11 @@ function openwin(URL,arguments,width,height)
         乙○○有公款私用情形，及後來煤灰外洩事件因此變更發放補償金之方式，
         確與事實相符，並無捏造或扭曲事實之情形。
 （三）被告係基於公益而為善意評論：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E0022A0A00000040.GIF" />(1)被告始終認為該筆三百萬元回饋金應供為里民健康檢查費用。蓋因是次氨氣
+    (1)被告始終認為該筆三百萬元回饋金應供為里民健康檢查費用。蓋因是次氨氣
         外洩事件，造成里民二十多人不適就醫，而蘆竹里其他里民是否會因中化公
         司長期空氣污染而影響健康，有進行全面性之健康檢查必要。八十七年十一
-        月九日協調過程中，雖<font color='red'>陳超明</font>先生發言：「有關健康檢查費用，施廠長要求
-        改為回饋睦鄰基金方式處理」，惟僅係<font color='red'>陳超明</font>個人於會中之發言，並未達成
+        月九日協調過程中，雖陳超明先生發言：「有關健康檢查費用，施廠長要求
+        改為回饋睦鄰基金方式處理」，惟僅係陳超明個人於會中之發言，並未達成
         協調結論，從而被告之認知祇是有人建議名目上變更而已，實質上仍應供為
         里民健康檢查費用為宜，況告訴人僅於里民大會中將該筆三百萬元之支用情
         形以公共基金名義報告，其決議過程外人並無從得知，被告忽聞該筆三百萬
@@ -238,7 +131,7 @@ function openwin(URL,arguments,width,height)
         大會中提案討論其使用方式，且對利害迴避毫無顧忌，逞個人之私意，主導
         將絕大部分公款捐予私廟，則未受其利之里民批評時任里長之乙○○係基於
         個人信仰將公款捐予私廟使用為「公款私用」，顯非過言。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E0082A0A00000040.GIF" />(2)被告係蘆竹里民之一員，當然有權利質疑里長乙○○執行公務員是否公平。
+    (2)被告係蘆竹里民之一員，當然有權利質疑里長乙○○執行公務員是否公平。
         如前所述，乙○○既係擔任里長公職，依法應遵守行政中立、宗教平等之法
         律原則，三百萬元之回饋金係蘆竹里全體里民因中化公司空氣污染公害之補
         償金，其竟不思將之用於里內之諸般公共建設上，幾乎將之全部無條件捐予
@@ -262,86 +155,11 @@ function openwin(URL,arguments,width,height)
 灣高等法院台中分院。
                                             書記官  王月香
 中　　　華　　　民　　　國　　九十三　　年　　　五　　　月　　三十一　　日
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[E:\Judday\OK\LAWMLD\CRIMINAL\9305\31\MLDM935V.083] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000358&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e8%b6%85%e6%98%8e&sdate=&edate=&page=&searchkw=%e9%99%b3%e8%b6%85%e6%98%8e&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c358%2c20040531%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=358&jdate=930531&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c358%2c20040531%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=358&jdate=930531&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c358%2c20040531%2c2','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','358','930531','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="MLD 臺灣苗栗地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳超明">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳超明">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]92,訴,358,20040531,2
+[*v_court*]MLD 臺灣苗栗地方法院
+[*v_sys*]M
+[*jyear*]92
+[*jcase*]訴
+[*jno*]358
+[*jdate*]930531
+[*jcheck*]2

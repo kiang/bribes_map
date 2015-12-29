@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣苗栗地方法院-刑-103訴13</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣苗栗地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第4
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000013&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c13%2c20140417%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=13&jdate=1030417&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c13%2c20140417%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=13&jdate=1030417&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c13%2c20140417%2c2','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','13','1030417','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,13</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030417</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反槍砲彈藥刀械管制條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣苗栗地方法院刑事判決　　　　　　　 103年度訴字第13號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c13%2c20140417%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=13&jdate=1030417&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000013&selectedCrtid=MLD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c13%2c20140417%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=13&jdate=1030417&jcheck=2
+[*裁判字號*]103,訴,13
+[*裁判日期*]1030417
+[*裁判案由*]違反槍砲彈藥刀械管制條例等
+[*裁判全文*]臺灣苗栗地方法院刑事判決　　　　　　　 103年度訴字第13號
 公　訴　人　臺灣苗栗地方法院檢察署檢察官
 被　　　告　鄭家豐
 選任辯護人　李添興律師
@@ -125,10 +18,10 @@ function openwin(URL,arguments,width,height)
 一、甲○○前於民國101 年1 月間因妨害秩序案件，經臺灣臺中
     地方法院以101 年度易字第1708號判決判處有期徒刑2 月確
     定，並於101 年10月2 日易科罰金執行完畢。詎其仍不知警
-    惕，前經與苗栗縣苑裡鎮鎮長<font color='red'>杜文卿</font>及雇員張平奇發生糾紛
+    惕，前經與苗栗縣苑裡鎮鎮長杜文卿及雇員張平奇發生糾紛
     ，並遭他人質疑其無能力製作爆裂物，因而心生不滿，明知
     未經許可，不得製造具有殺傷力或破壞性之爆裂物，竟基於
-    恐嚇<font color='red'>杜文卿</font>、張平奇及公眾，與意圖供自己犯恐嚇特定他人
+    恐嚇杜文卿、張平奇及公眾，與意圖供自己犯恐嚇特定他人
     及不特定公眾罪之用而未經許可製造爆裂物之犯意，先於
     102 年9 月底某日，在彰化縣之某不詳金紙店購買高空煙火
     、紅色長串鞭炮、捲式鞭炮，又在彰化縣之某不詳五金行買
@@ -152,7 +45,7 @@ function openwin(URL,arguments,width,height)
     為延遲引爆裝置，欲引爆該狀似爆裂物之物品而點燃上開延
     遲引爆裝置內之3 支線香後離去，然因上開線香燃燒至白色
     膠帶纏繞處即熄滅，未能將之引爆成功而製作未遂，以此方
-    式恐嚇<font color='red'>杜文卿</font>、張平奇及不特定公眾，致生危害於<font color='red'>杜文卿</font>、
+    式恐嚇杜文卿、張平奇及不特定公眾，致生危害於杜文卿、
     張平奇及不特定公眾之生命、身體安全。嗣經民眾報警，為
     警當場扣得上開狀似爆裂物之物品1 顆（業經警拆解如附表
     所示之物）而循線查獲。
@@ -178,7 +71,7 @@ function openwin(URL,arguments,width,height)
     有證據能力。
 貳、實體方面
 一、訊據被告甲○○固坦承有於上開時、地將上開狀似爆裂物之
-    物品置於苗栗縣苑裡鎮公所門口前以恐嚇<font color='red'>杜文卿</font>、張平奇及
+    物品置於苗栗縣苑裡鎮公所門口前以恐嚇杜文卿、張平奇及
     不特定公眾之犯行（見本院卷第39頁、第91頁反面至第92頁
     ），且有於上開時、地製造該狀似爆裂物物品之事實，惟矢
     口否認有何製造爆裂物未遂犯行，辯稱：其所製造之爆裂物
@@ -203,7 +96,7 @@ function openwin(URL,arguments,width,height)
     狀金屬筒無因此發生爆裂進而產生具有殺傷力碎片之可能；
     另依據相關實務案例，亦應認本案被告所製造者並非所謂之
     爆裂物云云為被告辯護。經查：
-  (一)被告有基於恐嚇<font color='red'>杜文卿</font>、張平奇及公眾之犯意於102 年9 月
+  (一)被告有基於恐嚇杜文卿、張平奇及公眾之犯意於102 年9 月
     底某日，在彰化縣之不詳金紙店購買高空煙火、紅色長串鞭
     炮、捲式鞭炮，又在彰化縣之不詳五金行買桶狀鐵管，繼而
     在其位於彰化縣鹿港鎮○○○○區○○○○路00號住處，將
@@ -217,7 +110,7 @@ function openwin(URL,arguments,width,height)
     3 支以白色膠帶纏繞固定之線香，再以黑色膠帶將上開線香
     、爆引線及小磚頭1 塊纏繞固定為延遲引爆裝置，欲引爆該
     狀似爆裂物之物品而點燃上開延遲引爆裝置內之3 支線香後
-    離去，且該狀似爆裂物之物品係為供恐嚇<font color='red'>杜文卿</font>、張平奇及
+    離去，且該狀似爆裂物之物品係為供恐嚇杜文卿、張平奇及
     不特定公眾之用而製作等事實，業經被告於警詢、偵查及審
     理中坦認在卷（見臺灣苗栗地方法院檢察署102 年度偵字第
     6162號卷，下稱偵卷，第11頁反面至第12頁、第49頁至第50
@@ -386,20 +279,20 @@ function openwin(URL,arguments,width,height)
     注意該狀似爆裂物物品之擺放位置而避免該物品因倒下或他
     人隨意丟擲之煙蒂而爆炸，其主觀上具有製作爆裂物之意圖
     ，甚為灼然。況被告於偵查中亦供稱：伊曾向彰化環保局人
-    員說伊被<font color='red'>杜文卿</font>打，要如何解決，可否以火藥來尋求解決，
+    員說伊被杜文卿打，要如何解決，可否以火藥來尋求解決，
     環保局人員說火藥都被政府禁止，伊沒有辦法做，所以伊才
     想到用煙火的火藥來製作爆裂物等語（見偵卷第73頁反面）
-    。可知被告原即因其與<font color='red'>杜文卿</font>間之糾紛而欲以火藥尋求解決
+    。可知被告原即因其與杜文卿間之糾紛而欲以火藥尋求解決
     ，因遭告知火藥為依法受管制之物，轉而尋求以煙火類火藥
     製作具有爆烈性、破壞力之爆裂物，益徵其有製作爆裂物之
     主觀故意，堪可認定。再被告製作本件狀似爆裂物之物品係
-    意圖供自己犯恐嚇<font color='red'>杜文卿</font>、張平奇之用乙節，業經被告坦認
+    意圖供自己犯恐嚇杜文卿、張平奇之用乙節，業經被告坦認
     在卷（見偵卷第12頁反面、第49頁，本院卷第13頁至第14頁
     ）。被告將該狀似爆裂物之物品置於不特定人出入之苗栗縣
     苑裡鎮公所前，明知此舉足以使公眾對其舉動產生畏懼感，
     將致進出公所之公眾產生騷擾不安乙節，亦經被告供承在卷
     （見本院卷第90頁反面）。是被告製造上開狀似爆裂物之物
-    品，除供恐嚇<font color='red'>杜文卿</font>、張平奇之目的外，尚有供自己犯恐嚇
+    品，除供恐嚇杜文卿、張平奇之目的外，尚有供自己犯恐嚇
     危害公眾罪所用之意圖甚明。
   (六)被告於審理中雖辯稱其有以水沾濕引信，避免爆引線引燃爆
     裂物，且其於苗栗縣苑裡鎮公所前點燃上開延遲引爆裝置內
@@ -479,8 +372,8 @@ function openwin(URL,arguments,width,height)
     上又未受許可而著手製造，即成立犯罪，縱其尚未製造完成
     ，或製成後未具殺傷力或破壞性，亦屬未遂犯。又被告本件
     狀似爆裂物之物品作為恐嚇物，擺放於苗栗縣苑裡鎮公所前
-    ，乃以加害生命、身體之事恐嚇苗栗縣苑裡鎮鎮長<font color='red'>杜文卿</font>、
-    雇員張平奇及不特定之公眾，自足以致生危害於<font color='red'>杜文卿</font>、張
+    ，乃以加害生命、身體之事恐嚇苗栗縣苑裡鎮鎮長杜文卿、
+    雇員張平奇及不特定之公眾，自足以致生危害於杜文卿、張
     平奇及不特定公眾之生命、身體安全。是核被告所為，係犯
     槍砲彈藥刀械管制條例第7 條第6 項、第3 項之意圖供自己
     犯罪之用，未經許可製造爆裂物未遂罪、刑法第151 條之恐
@@ -491,9 +384,9 @@ function openwin(URL,arguments,width,height)
     其持有爆裂物主要組成零件火藥之行為，為其製造爆裂物之
     部分行為，不另論罪。又被告利用不知情之計程車司機何金
     蒼，將上開狀似爆裂物之物品放置至苗栗縣苑裡鎮公所前，
-    以恐嚇<font color='red'>杜文卿</font>、張平奇及不特定公眾之生命、身體安全之犯
+    以恐嚇杜文卿、張平奇及不特定公眾之生命、身體安全之犯
     行部分，為間接正犯。被告所犯意圖供自己犯罪之用，未經
-    許可製造爆裂物未遂罪、恐嚇公眾罪及恐嚇<font color='red'>杜文卿</font>、張平奇
+    許可製造爆裂物未遂罪、恐嚇公眾罪及恐嚇杜文卿、張平奇
     危害安全罪，係屬一行為而同時觸犯數罪名，為想像競合犯
     ，應依刑法第55條之規定，從一重之供自己犯罪之用，未經
     許可製造爆裂物未遂罪處斷。再被告有如事實欄所載犯罪科
@@ -548,8 +441,8 @@ function openwin(URL,arguments,width,height)
     煙火、鞭炮拆解得出之煙火類火藥置入桶狀鐵管內密封而製
     成狀似爆裂物之物品，非如上揭立法理由所稱製造殺傷力甚
     大之槍械供犯罪使用而危害他人生命、安全者，其犯罪之情
-    節尚非至惡，且其於警詢、偵查、審理中一再陳稱其因與<font color='red'>杜
-    文卿</font>、張平奇間之糾紛遭打傷至無法工作，復因其認渠等對
+    節尚非至惡，且其於警詢、偵查、審理中一再陳稱其因與杜
+    文卿、張平奇間之糾紛遭打傷至無法工作，復因其認渠等對
     其母有不當言行，始為本件犯行，其因一時不滿情緒，致罹
     重典，其手段、作為固屬不當，然相對於供自己犯罪之用而
     大量進行具強大殺傷力槍械、爆裂物等物之製造者而言，本
@@ -568,18 +461,18 @@ function openwin(URL,arguments,width,height)
 三、爰審酌被告已為具備相當智識、年逾60歲之成年人，不思依
     循正軌處事，竟違法著手製造爆裂物，其製造爆裂物之行為
     對社會治安之維護造成相當危害，然所製造之爆裂物因製造
-    不當而不具殺傷力，被告係因與被害人<font color='red'>杜文卿</font>、張平奇間糾
+    不當而不具殺傷力，被告係因與被害人杜文卿、張平奇間糾
     紛所受傷害、不滿，始犯下本案，其犯行雖屬不該，仍屬情
     有可原，又被告犯後坦承部分犯行，併念其犯罪之手段尚屬
     輕微，兼衡其國小肄業之智識程度、以毒水處理為職業、收
-    入1 天約新臺幣2 萬多元、其自稱因與被害人<font color='red'>杜文卿</font>、張平
+    入1 天約新臺幣2 萬多元、其自稱因與被害人杜文卿、張平
     奇間糾紛而無法繼續從事前揭職業之生活狀況、與其子少有
     往來等一切情狀（見本院卷第91頁），量處如主文所示之刑
     ，並就併科罰金部分諭知易服勞役之折算標準。扣案如附表
     所示之物，均為被告所製造之狀似爆裂物物品經鑑驗後所拆
     解之物，因該狀似爆裂物物品不具殺傷力，非違禁物，然屬
     被告所有、供其製造爆裂物所用之物，且亦屬供其犯恐嚇危
-    害<font color='red'>杜文卿</font>、張平奇及公眾罪所用之物，均業據被告供明在卷
+    害杜文卿、張平奇及公眾罪所用之物，均業據被告供明在卷
     （見本院卷第90頁反面至第91頁），均應依刑法第38條第1
     項第2 款規定宣告沒收。
 據上論斷，應依刑事訴訟法第299 條第1 項前段，槍砲彈藥刀械
@@ -640,86 +533,12 @@ function openwin(URL,arguments,width,height)
 │ 5    │現場鐵管中取出之紙板、紙片等物│1包     │
 ├───┼───────────────┼────┤
 │ 6    │鐵管中取出之疑似火藥物        │1包     │
-└───┴───────────────┴────┘</pre>
-<!-- 原因：[騷擾] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWMLD\CRIMINAL\10304\17\MLDM1034H.010] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第4
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000013&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%9c%e6%96%87%e5%8d%bf&sdate=&edate=&page=&searchkw=%e6%9d%9c%e6%96%87%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c13%2c20140417%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=13&jdate=1030417&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c13%2c20140417%2c2&v_court=MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=13&jdate=1030417&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c13%2c20140417%2c2','MLD+%e8%87%ba%e7%81%a3%e8%8b%97%e6%a0%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','13','1030417','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="MLD 臺灣苗栗地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="杜文卿">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="杜文卿">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└───┴───────────────┴────┘
+[*jrecno*]103,訴,13,20140417,2
+[*v_court*]MLD 臺灣苗栗地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]13
+[*jdate*]1030417
+[*jcheck*]2

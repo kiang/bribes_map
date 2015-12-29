@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-101訴1909</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+J0uNtwwihPvDPPZKKWfq3eQwE3k=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=001909&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c1909%2c20130614%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=1909&jdate=1020614&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c1909%2c20130614%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=1909&jdate=1020614&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c1909%2c20130614%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','1909','1020614','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,1909</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020614</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　 101年度訴字第1909號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c1909%2c20130614%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=1909&jdate=1020614&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=001909&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c1909%2c20130614%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=1909&jdate=1020614&jcheck=2
+[*裁判字號*]101,訴,1909
+[*裁判日期*]1020614
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　 101年度訴字第1909號
 公　訴　人　臺灣新北地方法院檢察署檢察官
 被　　　告　張力夫
 上列被告因偽造文書等案件，經檢察官提起公訴（101 年度偵字
@@ -135,8 +30,8 @@ function openwin(URL,arguments,width,height)
     理費之不實收據1 張。嗣於99年6 月14日下午3 時20分許，
     在址設臺北縣三重市（現改制為新北市○○區○○○路0 段
     000 號本院三重簡易庭2 樓協商室內，提示上開收據予代理
-    薪關渡社區管委會參與調解之總幹事<font color='red'>劉國隆</font>而行使之，<font color='red'>劉國
-    隆</font>因不知真偽，遂當場代理薪關渡社區管委會先行撤回上開
+    薪關渡社區管委會參與調解之總幹事劉國隆而行使之，劉國
+    隆因不知真偽，遂當場代理薪關渡社區管委會先行撤回上開
     支付命令之聲請，致生損害於薪關渡社區管委會對於管理費
     收取與否認定之正確性。嗣因薪關渡社區管委會對前任主任
     委員張明哲、前總幹事紀堯堂提出侵占之告訴，經檢察官偵
@@ -175,7 +70,7 @@ function openwin(URL,arguments,width,height)
     訊據被告固坦承其曾積欠薪關渡社區共計31,400元之管理費
     ，本案31,400元管理費收據之內容係其於基隆市中山四路之
     辦公室以電腦繕打列印，並於99年6 月14日下午3 時20分許
-    ，在本院三重簡易庭2 樓協商室內向<font color='red'>劉國隆</font>出示該收據等情
+    ，在本院三重簡易庭2 樓協商室內向劉國隆出示該收據等情
     ，並就該收據上之薪關渡社區管委會圓戳章印文為真正一事
     不予爭執。惟矢口否認有何偽造私文書、行使偽造私文書之
     犯行，辯稱：伊先於98年12月18日之前1 、2 日於辦公室繕
@@ -190,10 +85,10 @@ function openwin(URL,arguments,width,height)
       社區於99年4 月7 日聲請本院對被告發99年度司促字第13
       542 號支付命令，經其異議後，於99年6 月14日下午3 時
       20分許，在本院三重簡易庭2 樓協商室內，提示上開收據
-      予代理薪關渡社區管委會出庭調解之總幹事<font color='red'>劉國隆</font>而行使
-      ，致<font color='red'>劉國隆</font>代理薪關渡社區管委會撤回對於被告之管理費
+      予代理薪關渡社區管委會出庭調解之總幹事劉國隆而行使
+      ，致劉國隆代理薪關渡社區管委會撤回對於被告之管理費
       支付命令聲請等情，業據被告坦承不諱，核與證人即99年
-      間擔任薪關渡社區總幹事之<font color='red'>劉國隆</font>於本院審理時之證述相
+      間擔任薪關渡社區總幹事之劉國隆於本院審理時之證述相
       符（詳本院卷第64至69頁），並有上開收據影本在卷可稽
       【詳板橋地檢署100 年度偵字第14215 號卷（下稱14215
       號偵字卷）第12頁】，並經本院調取本院三重簡易庭99年
@@ -220,7 +115,7 @@ function openwin(URL,arguments,width,height)
       平也是這樣處理，簽自己的名負責等語【詳板橋地檢署10
       1 年度偵字第7768號卷（下稱7768號偵字卷）第15頁】；
       證人即99年間由金固保全股份有限公司（下稱金固公司）
-      派駐擔任薪關渡社區總幹事之<font color='red'>劉國隆</font>於本院101 年12月5
+      派駐擔任薪關渡社區總幹事之劉國隆於本院101 年12月5
       日審理時結證稱：伊或其他警衛收到管理費之現金，會在
       值勤簿登載，並於隔日入帳，交到管委會之銀行帳戶內，
       伊擔任總幹事期間，都是由伊存到管委會銀行帳戶，記帳
@@ -253,7 +148,7 @@ function openwin(URL,arguments,width,height)
       管委會圓戳章之總幹事或其他警衛實無可能蓋印該圓戳章
       於該本案31,400元管理費收據上。又被告係於其基隆港務
       局秘書室之辦公室內，以電腦繕打並列印本案31,400元管
-      理費收據，及99年6 月14日下午3 時20分許對<font color='red'>劉國隆</font>行使
+      理費收據，及99年6 月14日下午3 時20分許對劉國隆行使
       等事實，業經本院認定如前。是堪認被告係於99年6 月14
       日前之某時在其辦公室內列印上開收據後至99年6 月14日
       間之某時，於不詳地點盜用薪關渡社區管委會之圓戳章蓋
@@ -319,7 +214,7 @@ function openwin(URL,arguments,width,height)
       卷第198 頁背面）；且於99年間，負責處理薪關渡社區事
       務之金固公司，會要求警為值勤時一定要穿公司之制服，
       薪關渡社區管委會之委員不負責收取管理費等情，亦據證
-      人<font color='red'>劉國隆</font>證述明確（詳本院卷第69頁），是堪認一般住戶
+      人劉國隆證述明確（詳本院卷第69頁），是堪認一般住戶
       均無可能將管理費交予不認識之警衛。然被告於100 年7
       月15日偵查、本院101 年10月22日準備程序時竟供稱：伊
       係將31,400元管理費交給薪關渡社區管理中心內的服務人
@@ -361,8 +256,8 @@ function openwin(URL,arguments,width,height)
 （一）查本案31,400元管理費收據之文字內容係表示被告已繳交
       上開金額之管理費予薪關渡社區管委會之意，當屬刑法第
       210 條所指之私文書甚明，被告繼而持以提出予代理薪關
-      渡社區管委會出庭調解之<font color='red'>劉國隆</font>而行使之，並向<font color='red'>劉國隆</font>表
-      示其已繳付管理費，<font color='red'>劉國隆</font>因而代理薪關渡社區管委會撤
+      渡社區管委會出庭調解之劉國隆而行使之，並向劉國隆表
+      示其已繳付管理費，劉國隆因而代理薪關渡社區管委會撤
       回99年度司促字第13542 號支付命令之聲請，致生損害於
       薪關渡社區管委會對於認定管理費收取與否之正確性。故
       核被告所為，係犯刑法第216 條、第210 條之行使偽造私
@@ -372,7 +267,7 @@ function openwin(URL,arguments,width,height)
 （二）爰審酌被告正值中壯，且係具有穩定收入之公務員，然竟
       為逃避繳納社區管理費之責任，偽造本案31,400元管理費
       收據，並持以行使之犯罪情節；及其行使偽造私文書，誤
-      導代理薪關渡社區管委會出庭調解之<font color='red'>劉國隆</font>，致<font color='red'>劉國隆</font>向
+      導代理薪關渡社區管委會出庭調解之劉國隆，致劉國隆向
       法院撤回支付命令之聲請，非但無助民事紛爭之解決，亦
       浪費司法資源；被告並無刑事前案紀錄，素行尚稱良好，
       其為警察專科學校畢業之智識程度；於本院審理時否認犯
@@ -381,7 +276,7 @@ function openwin(URL,arguments,width,height)
 （三）被告所偽造並行使之31,400元管理費收據雖係被告所有供
       犯罪所用之物，然未據扣案，復非屬違禁物或義務沒收之
       物，且被告供稱：伊於99年6 月14日將該收據提出給調解
-      委員看，看完之後正本還給伊，調解委員及<font color='red'>劉國隆</font>有留影
+      委員看，看完之後正本還給伊，調解委員及劉國隆有留影
       本，正本應該還在家裡，但伊找不到，本案開庭後，本院
       雖請伊回去找，但經伊回家仔細找，就是找不到等語（詳
       本院卷第229 頁正背面、第231 頁）。該收據業經被告仔
@@ -392,9 +287,9 @@ function openwin(URL,arguments,width,height)
 肆、不另為無罪諭知部分：
 一、公訴意旨另以：被告基於詐欺得利之犯意，將本案其所偽造
     之31,400元管理費收據於99年6 月14日下午3 時20分許，在
-    本院三重簡易庭2 樓協商室內，交付上開收據予<font color='red'>劉國隆</font>而行
+    本院三重簡易庭2 樓協商室內，交付上開收據予劉國隆而行
     使之，佯稱其已於98年12月18日繳交其所積欠之31,400元管
-    理費，致<font color='red'>劉國隆</font>陷於錯誤，而詐得免除其所積欠31,400元管
+    理費，致劉國隆陷於錯誤，而詐得免除其所積欠31,400元管
     理費之不法利益。因認被告此部分亦涉有刑法第339 條第2
     項詐欺得利罪嫌等語。
 二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實，刑
@@ -410,12 +305,12 @@ function openwin(URL,arguments,width,height)
     度者，始得據為有罪之認定（最高法院30年上字第816 號、
     29年上字第3105號、53年臺上字第656 號、76年臺上字第49
     86號判例意旨參照）。
-三、公訴意旨認被告涉有前揭詐欺得利罪嫌，無非以證人<font color='red'>劉國隆
-    </font>、薪關渡社區管委會100 年12月15日薪字第0000000 號函及
+三、公訴意旨認被告涉有前揭詐欺得利罪嫌，無非以證人劉國隆
+    、薪關渡社區管委會100 年12月15日薪字第0000000 號函及
     本院三重簡易庭99年6 月14日之調解通知書各1 份，為其論
     述之依據。訊據被告固承認其於99年6 月14日在本院三重簡
-    易庭2 樓協商室內，提出本案31,400元管理費收據予<font color='red'>劉國隆
-    </font>，並向<font color='red'>劉國隆</font>表示其已繳交上開管理費一事，惟堅決否認其
+    易庭2 樓協商室內，提出本案31,400元管理費收據予劉國隆
+    ，並向劉國隆表示其已繳交上開管理費一事，惟堅決否認其
     有何此部分被訴詐欺得利犯行，辯稱：伊確曾於98年12月間
     繳納31,400元管理費云云。
 四、經查：
@@ -439,10 +334,10 @@ function openwin(URL,arguments,width,height)
       有明定。故民事案件撤回起訴或調解，均不致債之關係消
       滅，且於未違反上開民事訴訟法第263 條情形，仍得復行
       起訴或聲請調解甚明。
-（二）被告於本院準備程序中供稱：99年6 月14日<font color='red'>劉國隆</font>看了該
+（二）被告於本院準備程序中供稱：99年6 月14日劉國隆看了該
       31,400元管理費收據後，應該是將民事案件撤回了，但伊
-      忘記<font color='red'>劉國隆</font>是否曾向伊表示不再對伊追討這筆錢等語（詳
-      本院卷第26頁背面）。證人<font color='red'>劉國隆</font>於本院審理時亦證稱：
+      忘記劉國隆是否曾向伊表示不再對伊追討這筆錢等語（詳
+      本院卷第26頁背面）。證人劉國隆於本院審理時亦證稱：
       伊曾於99年6 月14日代理薪關渡社區管委會至本院三重簡
       易庭與被告就管理費欠繳進行調解，當時被告有拿出本案
       31,400元管理費收據，很肯定地表示欠繳之款項已經繳納
@@ -451,18 +346,18 @@ function openwin(URL,arguments,width,height)
       據上的印文為黑色，伊不疑有他，遂撤回本院99年度司促
       字第13542 號支付命令之聲請，並將該收據帶回去給管委
       會看，但經核對後發現沒有該筆款項入帳等語（詳本院卷
-      第64頁背面至第66頁）。是<font color='red'>劉國隆</font>雖撤回支付命令之聲請
+      第64頁背面至第66頁）。是劉國隆雖撤回支付命令之聲請
       ，致聲請調解之繫屬消滅，然此僅係支付命令聲請人之權
-      利行使，薪關渡社區管委會或代理該管委會之<font color='red'>劉國隆</font>既未
-      向被告表示免除此31,400元管理費債務，且<font color='red'>劉國隆</font>亦未與
+      利行使，薪關渡社區管委會或代理該管委會之劉國隆既未
+      向被告表示免除此31,400元管理費債務，且劉國隆亦未與
       被告就該債務成立調解，故該管委會對被告之31,400元管
       理費債權尚屬存在，是難認被告因此獲有利益。
 （三）綜上，此部分依檢察官所主張之證據資料，實無從獲致被
-      告於99年6 月14日因對<font color='red'>劉國隆</font>佯稱其已繳付31,400元管理
+      告於99年6 月14日因對劉國隆佯稱其已繳付31,400元管理
       費，因而獲有免除該項債務之不法利益，本院復查無其他
       足資證明被告因此獲有不法利益之積極事證，參酌前述法
-      條及最高法院判例意旨，依罪疑唯輕之法理，自難僅憑<font color='red'>劉
-      國隆</font>代理薪關渡社區管委會撤回本院99年度司促字第1354
+      條及最高法院判例意旨，依罪疑唯輕之法理，自難僅憑劉
+      國隆代理薪關渡社區管委會撤回本院99年度司促字第1354
       2 號支付命令之聲請，即遽認被告於99年6 月14日有詐欺
       得利之犯行。此外，別無其他積極事證足認被告有檢察官
       所指該部分犯行，該部分犯罪尚屬不能證明，本應為無罪
@@ -496,86 +391,12 @@ function openwin(URL,arguments,width,height)
 中華民國刑法第217條
 偽造印章、印文或署押，足以生損害於公眾或他人者，處三年以
 下有期徒刑。
-盜用印章、印文或署押，足以生損害於公眾或他人者，亦同。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10206\14\PCDM1026E.02K] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=001909&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c1909%2c20130614%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=1909&jdate=1020614&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c1909%2c20130614%2c2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=1909&jdate=1020614&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c1909%2c20130614%2c2','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','1909','1020614','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉國隆">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉國隆">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+盜用印章、印文或署押，足以生損害於公眾或他人者，亦同。
+[*jrecno*]101,訴,1909,20130614,2
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]訴
+[*jno*]1909
+[*jdate*]1020614
+[*jcheck*]2

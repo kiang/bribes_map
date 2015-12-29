@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新竹地方法院-刑-103訴285</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+vb2bDoI8zNr2BdJbqm2p+hnLfi8=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新竹地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000285&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c285%2c20150925%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=285&jdate=1040925&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c285%2c20150925%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=285&jdate=1040925&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c285%2c20150925%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','285','1040925','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,285</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040925</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">殺人未遂等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新竹地方法院刑事判決　　　　　　　103年度訴字第285號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c285%2c20150925%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=285&jdate=1040925&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000285&selectedCrtid=SCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c285%2c20150925%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=285&jdate=1040925&jcheck=1
+[*裁判字號*]103,訴,285
+[*裁判日期*]1040925
+[*裁判案由*]殺人未遂等
+[*裁判全文*]臺灣新竹地方法院刑事判決　　　　　　　103年度訴字第285號
 　　　　　　　　　　　　　　　　　　　103年度訴字第342號
 公　訴　人　臺灣新竹地方法院檢察署檢察官
 被　　　告　陳宥華
@@ -129,8 +24,8 @@ function openwin(URL,arguments,width,height)
 選任辯護人　財團法人法律扶助基金會許麗美律師
 被　　　告　洪振瑋
 選任辯護人　財團法人法律扶助基金會蔡甫欣律師
-被　　　告　<font color='red'>陳家宏
-</font>選任辯護人　陳詩文律師
+被　　　告　陳家宏
+選任辯護人　陳詩文律師
 　　　　　　蔡伊雅律師
 被　　　告　官建廷
 選任辯護人　鍾添錦律師
@@ -159,7 +54,7 @@ function openwin(URL,arguments,width,height)
 以新臺幣壹仟元折算壹日，扣案如附表二所示之物，沒收之。
 曾甫程共同犯圖利聚眾賭博罪，處有期徒刑伍月，如易科罰金，
 以新臺幣壹仟元折算壹日，扣案如附表二所示之物，沒收之。
-官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>被訴共同非
+官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家宏被訴共同非
 法持有手槍及子彈罪部分，均無罪；其餘被訴殺人未遂罪部分，
 均公訴不受理。
     事  實
@@ -179,19 +74,19 @@ function openwin(URL,arguments,width,height)
     彼此間各自糾眾持有刀械棍棒等武器在新豐鄉一帶相互挑釁
     與尋仇。嗣於103 年1 月5 日凌晨前後，綽號「官肥」官建
     廷、綽號「板弟」許致翔、綽號「小美」洪振瑋、綽號「小
-    鬼」<font color='red'>陳家宏</font>、綽號「香腸」許永樟及方彥則（原名方凱威，
+    鬼」陳家宏、綽號「香腸」許永樟及方彥則（原名方凱威，
     於104 年3 月27日更名為方彥則）陸續至方信偉上開住處飲
     酒，詎方信偉為替鄭凱陽出頭，竟夥同上開人等，共同基於
     傷害之犯意聯絡，欲至「王惟俊」、黃平成、少年范○偉等
     人出沒之上開鄰近址設新竹縣新豐鄉中崙村8 鄰之大自然魚
     池鄰近民宅據點尋釁（無證據顯示方信偉、方彥則、官建廷
-    、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>知悉少年范○偉未滿18
+    、許永樟、許致翔、洪振瑋、陳家宏知悉少年范○偉未滿18
     歲，詳後述），方信偉旋於當日2 時22分前某時，自行至其
     住處3 樓取出前揭受「鄭兆嚴」委託藏放並已置入上開子彈
     之該2 把手槍插入腰際，復以衣物遮掩後，在上開人等均不
     知情其有攜帶槍彈之情形下，乘坐方彥則駕駛車牌號碼000-
-    0000號銀色自小客車搭載官建廷，許致翔、洪振瑋、<font color='red'>陳家宏
-    </font>則乘坐許永樟駕駛車牌號碼0000 -00號黑色自小客車一同出
+    0000號銀色自小客車搭載官建廷，許致翔、洪振瑋、陳家宏
+    則乘坐許永樟駕駛車牌號碼0000 -00號黑色自小客車一同出
     發前往上開地點。其等行車期間並再搭載綽號「蕃薯」陳宥
     華上車，陳宥華即與上開人等共同基於傷害之犯意聯絡及與
     方信偉共同基於非法持有制式手槍及具殺傷力之子彈之單一
@@ -213,7 +108,7 @@ function openwin(URL,arguments,width,height)
     具有殺傷力，若持該等槍彈近距離朝車內射擊，極可能致車
     內之人中彈而有致命之虞，竟仍不違背其等本意而容任其發
     生，進而超出其等與方彥則、官建廷、許永樟、許致翔、洪
-    振瑋、<font color='red'>陳家宏</font>間原有之傷害犯意聯絡範圍，提升其等犯意而
+    振瑋、陳家宏間原有之傷害犯意聯絡範圍，提升其等犯意而
     共同基於殺人之不確定故意，分別持槍朝該車內射擊，少年
     范○偉為閃避其等射擊，因而偏駛致撞擊左側路邊路燈，並
     旋即倒車及打轉方向盤，惟因過度轉動反使其車失控向右迴
@@ -224,7 +119,7 @@ function openwin(URL,arguments,width,height)
     副駕駛座下方而幸未遭子彈射中，嗣洪振瑋下車持棍棒損壞
     上開少年范○偉所駕駛該車之前擋風玻璃及車頂天窗玻璃，
     各使之碎裂喪失其效用（陳宥華、方信偉、方彥則、許永樟
-    、官建廷、許致翔、洪振瑋、<font color='red'>陳家宏</font>涉嫌毀損部分均未據告
+    、官建廷、許致翔、洪振瑋、陳家宏涉嫌毀損部分均未據告
     訴），陳宥華於行兇後，隨即將其持有之槍彈交還方信偉，
     而喪失該等槍彈之持有，並與方信偉、洪振瑋各自返回原車
     逃離現場，少年范○偉則經送天主教仁慈醫療財團法人仁慈
@@ -316,8 +211,8 @@ function openwin(URL,arguments,width,height)
     前項之同意。刑事訴訟法第159 條第1 項、第159 條之5 分
     別定有明文。經查，本判決所引用被告以外之人於審判外之
     陳述之供述證據及其餘所依憑判斷之非供述證據等證據方法
-    ，除被告方信偉、官建廷、鄭凱陽、謝鎧仲、許永樟、<font color='red'>陳家
-    宏</font>、洪振瑋於警詢中之供述或告訴人范振偉、被害人黃平成
+    ，除被告方信偉、官建廷、鄭凱陽、謝鎧仲、許永樟、陳家
+    宏、洪振瑋於警詢中之供述或告訴人范振偉、被害人黃平成
     於警詢中之證述，因屬審判外之陳述，業經檢察官當庭表示
     就此部分捨棄出證，僅作為彈劾證據使用外（見本院103 年
     度訴字第285 號卷【下稱訴字卷】卷三第45頁），其餘證據
@@ -464,13 +359,13 @@ function openwin(URL,arguments,width,height)
     尚難以資作為認定有罪判決之證據，是求為無罪之判決云云
     。惟查：
   1.被告方信偉於103 年1 月5 日當日2 時22分前某時，邀同陸
-    續至其住處飲酒之被告官建廷、許致翔、洪振瑋、<font color='red'>陳家宏</font>、
+    續至其住處飲酒之被告官建廷、許致翔、洪振瑋、陳家宏、
     許永樟及方彥則等人一同前往大自然魚池鄰近之民宅據點，
     其並自行至其住處3 樓取出前揭受「鄭兆嚴」委託藏放並已
     裝填上開子彈之該2 把手槍插入腰際，復以衣物遮掩後，由
     被告方彥則駕駛車牌號碼000-0000號銀色自小客車搭載被告
     方信偉、官建廷，被告許永樟駕駛車牌號碼0000-00 號黑色
-    自小客車搭載被告許致翔、洪振瑋、<font color='red'>陳家宏</font>前往，一行人途
+    自小客車搭載被告許致翔、洪振瑋、陳家宏前往，一行人途
     中曾停留在被告鄭凱陽位在新竹縣新豐鄉○○街000 號租屋
     處，由被告方信偉下車進入該租屋處取出先前藏放於該租屋
     處內之不詳數量刀械棍棒，分發藏放在上開2 部小客車內，
@@ -495,12 +390,12 @@ function openwin(URL,arguments,width,height)
     142 頁至第143 頁、第145 頁、第33頁至第36頁、第38頁至
     第39頁、第40頁至第42頁、第43頁至第45頁，訴字卷三第61
     頁背面至第68頁）大致相符；就被告方信偉邀同被告官建廷
-    、洪振瑋、<font color='red'>陳家宏</font>、方彥則、許永樟、許致翔駕車前往、途
+    、洪振瑋、陳家宏、方彥則、許永樟、許致翔駕車前往、途
     中及在大自然魚池發生槍擊經過，亦與被告官建廷、洪振瑋
-    、<font color='red'>陳家宏</font>、方彥則、許永樟於本院準備或審理程序中之供述
+    、陳家宏、方彥則、許永樟於本院準備或審理程序中之供述
     大致相符（被告官建廷之供述見訴字卷一第122 頁背面至第
     123 頁；被告洪振瑋之供述見訴字卷一第123 頁背面至第12
-    4 頁、訴字卷三第58頁背面至第59頁；被告<font color='red'>陳家宏</font>之供述見
+    4 頁、訴字卷三第58頁背面至第59頁；被告陳家宏之供述見
     訴字卷一第215 頁至第216 頁；被告方彥則之供述見訴字卷
     一第216 頁至第217 頁；被告許永樟之供述見訴字卷一第21
     3 頁背面至第215 頁）；就被告方信偉一行人前往大自然魚
@@ -552,7 +447,7 @@ function openwin(URL,arguments,width,height)
     第147 頁、第118 頁至第121 頁，訴字卷三第55頁至其背面
     、第63頁背面、第66頁）、與被告許永樟於偵查中供述（見
     偵888 號卷第30頁、第9 頁至第12頁、第55頁、第48頁、第
-    71頁至第72頁）、與被告<font color='red'>陳家宏</font>於偵查中供述雙方衝突始末
+    71頁至第72頁）、與被告陳家宏於偵查中供述雙方衝突始末
     （見103 年度偵緝字第473 號卷【下稱偵緝473 號卷】第52
     頁至第61頁），與證人即1 月3 日其車輛遭毀損使用人陳戴
     春桃、葉三村、彭明珠於警詢中之證述（見偵2398號卷一第
@@ -829,17 +724,17 @@ function openwin(URL,arguments,width,height)
     後，就去洗澡，洗完澡就睡覺，中間沒有人再打電話，被告
     陳宥華又出去的情形等語（見訴字卷三第161 頁背面至第16
     2 頁），或其餘被告方信偉、官建廷、方彥則、許永樟、許
-    致翔、洪振瑋、<font color='red'>陳家宏</font>於本案偵審中均未提及被告陳宥華於
+    致翔、洪振瑋、陳家宏於本案偵審中均未提及被告陳宥華於
     案發時在場，被告方信偉更一再陳稱本案係其一人所為，惟
     證人吳佩玲與被告陳宥華為夫妻關係，本有偏袒之可能，而
-    被告方信偉、<font color='red'>陳家宏</font>、許致翔、方彥則、與被告陳宥華為朋
+    被告方信偉、陳家宏、許致翔、方彥則、與被告陳宥華為朋
     友或同行關係，被告洪振瑋與被告陳宥華為遠房親戚，業經
     其等分別供述在卷（見偵924 號卷第25頁、第60頁、第16頁
     、第48頁、偵3451號卷第28頁背面），被告官建廷、許永樟
     彼等間縱或與被告陳宥華未有直接關係，亦有可能透過上開
     被告而具有一定情誼，是上開人等之證述或供述即難遽信，
     況被告方信偉、官建廷、方彥則、許永樟、許致翔、洪振瑋
-    、<font color='red'>陳家宏</font>於本案偵審階段，為避重責，多有逃避或隱匿供述
+    、陳家宏於本案偵審階段，為避重責，多有逃避或隱匿供述
     之舉，其等供述之憑信性顯有可議。又，本院前雖曾勘驗雙
     喜彩券行103 年1 月5 日監視錄影畫面，證人吳佩玲確於10
     3 年1 月5 日1 時15分有駕車前往雙喜彩券行搭載被告陳宥
@@ -849,7 +744,7 @@ function openwin(URL,arguments,width,height)
     證人吳佩玲外，卷內尚無其餘證據可茲佐證，況被告方彥則
     於上開時間雖仍在雙喜彩券行，其後復亦能出現在案發現場
     ，是尚難遽以證人吳佩玲之證述、其餘被告方信偉、官建廷
-    、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>之供述或證述
+    、方彥則、許永樟、許致翔、洪振瑋、陳家宏之供述或證述
     ，或上開勘驗筆錄為有利被告陳宥華之認定。
   至扣案如附表一編號1 至2 所示之手槍2 支，經送請內政部
     警政署刑事警察局鑑驗結果略以：送鑑手槍2 支（均含彈匣
@@ -1041,7 +936,7 @@ function openwin(URL,arguments,width,height)
     程中就有人提議說要不然去大自然魚池看告訴人少年范○偉
     、被害人黃平成有無在那邊，如果有要跟其等理論，伊忘記
     是誰先講這句話，伊聽到就說「好，走吧」，被告官建廷、
-    方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>都沒有異議就跟
+    方彥則、許永樟、許致翔、洪振瑋、陳家宏都沒有異議就跟
     著走等語（見偵924 號卷第145 頁、第215 頁），被告許永
     樟於偵查中則稱：被告方信偉進來跟伊說，其要去新庄子繞
     繞，看有沒有烏鴉跟他們的人，如果有碰到就要打回來，伊
@@ -1508,7 +1403,7 @@ function openwin(URL,arguments,width,height)
     之危險，且其見友即被告鄭凱陽與「王惟俊」、告訴人少年
     范○偉、被害人黃平成發生糾紛，根本未思以理性解決，即
     率爾邀同被告官建廷、方彥則、許永樟、許致翔、洪振瑋、
-    <font color='red'>陳家宏</font>前往尋釁，又明知受託藏放之上開制式手槍及具殺傷
+    陳家宏前往尋釁，又明知受託藏放之上開制式手槍及具殺傷
     力之子彈，危險性較諸一般刀械棍棒為鉅，仍取用隨身，被
     告陳宥華亦知該等槍彈具有相當危險性仍收受而與之共同持
     有，抵達後雖曾推由被告方信偉對空鳴槍，然嗣見告訴人少
@@ -1612,7 +1507,7 @@ function openwin(URL,arguments,width,height)
     所使用之證據是否具有證據能力，合先敘明。
 貳、實體事項
 一、公訴意旨略以：被告官建廷、方彥則、許永樟、許致翔、洪
-    振瑋、<font color='red'>陳家宏</font>與上開同案被告陳宥華、方信偉共同基於未經
+    振瑋、陳家宏與上開同案被告陳宥華、方信偉共同基於未經
     許可持有手槍、子彈及殺人之犯意聯絡及行為分擔，於103
     年1 月5 日凌晨前後，陸續在同案被告方信偉住處集結，並
     分乘被告方彥則所駕駛車牌號碼000-0000號自用小客車及被
@@ -1639,12 +1534,12 @@ function openwin(URL,arguments,width,height)
     人於行兇後迅速分乘被告方彥則駕駛之車號000-0000號及被
     告許永樟所駕駛車號0000-00 號自用小客車逃離現場，返回
     同案被告方信偉位於新竹縣新豐鄉○○村0 鄰○○00號住處
-    ，因認被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳
-    家宏</font>共同涉犯槍砲彈藥刀械管制條例第7 條第4 項、第12條
+    ，因認被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳
+    家宏共同涉犯槍砲彈藥刀械管制條例第7 條第4 項、第12條
     第4 項未經許可持有手槍及具殺傷力子彈及刑法第271條第2
     項、第1 項殺人未遂罪嫌。
 二、公訴人認被告官建廷、方彥則、許永樟、許致翔、洪振瑋、
-    <font color='red'>陳家宏</font>共同涉犯槍砲彈藥刀械管制條例第7 條第4 項、第12
+    陳家宏共同涉犯槍砲彈藥刀械管制條例第7 條第4 項、第12
     條第4 項未經許可持有手槍及具殺傷力子彈及刑法第271 條
     第2 項、第1 項殺人未遂罪嫌，無非係以(一)同案被告陳宥華
     於警詢及偵查中之供述；(二)同案被告方信偉於偵查中之供述
@@ -1659,9 +1554,9 @@ function openwin(URL,arguments,width,height)
     查中之供述；(九)同案被告鄭凱陽於偵查中之供述；(十)同案被
     告鄭凱陽與出租人謝欣連等人簽訂之房屋租賃契約書影本1
     份；(十一)同案被告謝鎧仲於偵查中之供述；(十二)扣案之1 萬2,55
-    7 元；(十三)被告許永樟於偵查中之供述；(十四)被告<font color='red'>陳家宏</font>於偵查
-    中之供述；(十五)竹北分局偵查隊偵查佐曾能威製作之被告<font color='red'>陳家
-    宏</font>查訪譯文1 份；(十六)案外人「王惟俊」臉書列印截圖4 張；
+    7 元；(十三)被告許永樟於偵查中之供述；(十四)被告陳家宏於偵查
+    中之供述；(十五)竹北分局偵查隊偵查佐曾能威製作之被告陳家
+    宏查訪譯文1 份；(十六)案外人「王惟俊」臉書列印截圖4 張；
     (十七)被告洪振瑋於偵查中之供述；(十八)告訴人少年范○偉於偵查
     中之證述；(十九)告訴人少年范○偉之林口長庚醫院診斷證明書
     1 份；(二十)告訴人少年范○偉遭槍擊之傷勢照片1 張；車牌
@@ -1683,7 +1578,7 @@ function openwin(URL,arguments,width,height)
     3 年3 月14日刑鑑字第0000000000號鑑定書1 份；扣案之
     手槍2 枝、子彈5 發偵查佐鄭維欽之製作通聯分析偵查報
     告1 份；案外人鄭德持用門號0000000000號、被告官建廷
-    持用門號0000000000號、被告<font color='red'>陳家宏</font>持用門號0000000000號
+    持用門號0000000000號、被告陳家宏持用門號0000000000號
     、被告許永樟持用門號0000-000000 號、同案被告門號謝鎧
     仲持用門號0000000000號、被告許致翔持用門號0000000000
     號、被告洪振瑋持用門號0000000000號行電話自103 年1 月
@@ -1707,8 +1602,8 @@ function openwin(URL,arguments,width,height)
     法院為諭知被告無罪之判決（最高法院40年台上字第86號判
     例意旨、76年台上字第4986號判例、94年度台上字第3329號
     判決意旨參照）。
-四、訊據被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家
-    宏</font>固坦承如犯罪事實欄二所示時地及方式前往大自然魚池鄰
+四、訊據被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家
+    宏固坦承如犯罪事實欄二所示時地及方式前往大自然魚池鄰
     近民宅之事實，惟均堅詞否認共同非法持有槍彈及殺人未遂
     犯行，被告官建廷並辯稱：伊不是開槍的人，事前也不知情
     ，所以伊認為自己沒有持有制式手槍、子彈，也沒有殺人未
@@ -1731,23 +1626,23 @@ function openwin(URL,arguments,width,height)
     不知道去的人有帶槍，伊也不是開槍的人等語，被告洪振瑋
     之辯護人則為其辯稱：被告洪振瑋案發前不知同案被告方信
     偉攜帶槍械及前去尋仇，主觀上並無殺人之犯意聯絡等語；
-    被告<font color='red'>陳家宏</font>則辯稱：伊當晚從頭到尾都在酒醉，所以沒有參
-    與持槍及殺人未遂犯行等語，被告<font color='red'>陳家宏</font>之辯護人則為其辯
-    稱：被告<font color='red'>陳家宏</font>不知情有人攜帶槍械同行，且未同案與被告
+    被告陳家宏則辯稱：伊當晚從頭到尾都在酒醉，所以沒有參
+    與持槍及殺人未遂犯行等語，被告陳家宏之辯護人則為其辯
+    稱：被告陳家宏不知情有人攜帶槍械同行，且未同案與被告
     方信偉就殺害他人犯意有直接或間接意思合致，復未下車開
     槍或敲擊告訴人少年范○偉所駕駛該車，足見其參與情節輕
     微，懇請為不受理之判決等語。經查：
-  (一)被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>有
+  (一)被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家宏有
     如犯罪事實欄二所示時地及方式前往大自然魚池鄰近民宅，
     而同案被告方信偉、陳宥華犯如犯罪事實欄二所示共同非法
     持有槍彈及殺人未遂犯行，且被告洪振瑋復曾下車敲擊告訴
     人少年范○偉所駕駛該車前擋風玻璃及車頂天窗玻璃等事實
     ，均經本院認定如前，是本案應審酌者厥為被告官建廷、方
-    彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>與同案被告方信偉
+    彥則、許永樟、許致翔、洪振瑋、陳家宏與同案被告方信偉
     、陳宥華就犯罪事實欄二所示共同非法持有槍彈及殺人未遂
     犯行究有無犯意聯絡，及其等前往上開地點是基於何一犯意
     ，茲將本院得心證之理由分述如後。
-  (二)被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>並
+  (二)被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家宏並
     無共同非法持有槍彈及殺人之犯意聯絡
   1.同案被告方信偉於本院審理程序中證稱：103 年1 月5 日同
     案被告鄭凱陽打電話給伊說外面很多人在抓他，幾台轎車，
@@ -1757,7 +1652,7 @@ function openwin(URL,arguments,width,height)
     伊還有穿1 件大外套蓋住槍，就叫其餘被告出發，其等沒人
     知道伊帶槍，伊沒有跟他們講，所以伊才叫其等拿鐵棍放在
     身上；當天在伊家喝酒時，是伊提議要去大自然魚池，被告
-    官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>跟伊沒
+    官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家宏跟伊沒
     有討論，伊說同案被告鄭凱陽好像有事，伊等過去看看，當
     下被告許致翔沒有坐任何表示，被告方彥則不知道要去大自
     然魚池，被告許永樟不知道當天伊等要去那邊做什麼，伊沒
@@ -1769,13 +1664,13 @@ function openwin(URL,arguments,width,height)
     支模擬槍有1 支比較大支，伊可以將比較短那支插在腰際上
     坐下等語（見訴字卷三第71頁），是同案被告方信偉已明確
     證稱其攜帶上開槍彈時，係將之插入腰際並以衣物遮掩，且
-    未告知被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳
-    家宏</font>，則被告官建廷、方彥則、許永樟、許致翔、洪振瑋、
-    <font color='red'>陳家宏</font>等是否知悉其攜帶槍彈已屬有疑，遑論與之共同持有
+    未告知被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳
+    家宏，則被告官建廷、方彥則、許永樟、許致翔、洪振瑋、
+    陳家宏等是否知悉其攜帶槍彈已屬有疑，遑論與之共同持有
     ，自難認以其等有與同案被告方信偉、陳宥華同去大自然魚
     池之事實即遽認其等有非法共同持有槍彈之犯意聯絡。
-  2.再者，被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳
-    家宏</font>與告訴人少年范○偉、被害人黃平成於本案發生前本不
+  2.再者，被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳
+    家宏與告訴人少年范○偉、被害人黃平成於本案發生前本不
     相識，同經其等於本院準備程序中供述在卷（見訴字卷二第
     138 頁背面），前無怨隙，縱同案被告鄭凱陽與告訴人少年
     范○偉、被害人黃平成間有上開紛爭，然是否足使人萌生殺
@@ -1791,15 +1686,15 @@ function openwin(URL,arguments,width,height)
     時沒有下車，那時場面很混亂，伊也不知道有誰下車；案發
     當時有2 、3 個人持木棒、刀械砸對方的車，但伊不知道是
     誰（見訴字卷三第74頁至第76頁），且被告官建廷、方彥則
-    、許永樟、許致翔、<font color='red'>陳家宏</font>亦均否認下車，則確難認被告官
-    建廷、方彥則、許永樟、許致翔、<font color='red'>陳家宏</font>有下車參與同案被
+    、許永樟、許致翔、陳家宏亦均否認下車，則確難認被告官
+    建廷、方彥則、許永樟、許致翔、陳家宏有下車參與同案被
     告方信偉、陳宥華斯時之所為。而同案被告方信偉、陳宥華
     原先僅有傷害犯意，嗣於下車遭遇告訴人少年范○偉、被害
     人黃平成有上開互動後，始提昇為殺人犯意，業經本院認定
-    如前，則被告官建廷、方彥則、許永樟、許致翔、<font color='red'>陳家宏</font>當
+    如前，則被告官建廷、方彥則、許永樟、許致翔、陳家宏當
     時既未下車，且事前不知其等有攜帶槍彈之情事，自難遽認
     同案被告方信偉、陳宥華下車後之所為，為被告官建廷、方
-    彥則、許永樟、許致翔、<font color='red'>陳家宏</font>認知範圍內，而與同案被告
+    彥則、許永樟、許致翔、陳家宏認知範圍內，而與同案被告
     方信偉、陳宥華有犯意聯絡。
   3.另，被告洪振瑋於同案被告方信偉、陳宥華槍擊結束後，固
     有下車敲擊告訴人少年范○偉所駕駛車輛之行為，已經本院
@@ -1813,12 +1708,12 @@ function openwin(URL,arguments,width,height)
     認被告洪振瑋與被告方信偉、陳宥華就非法持有槍彈或殺人
     未遂犯行間具有犯意聯絡。
   4.從而，依卷內事證，均尚難認被告官建廷、方彥則、許永樟
-    、許致翔、洪振瑋、<font color='red'>陳家宏</font>等與同案被告方信偉、陳宥華間
+    、許致翔、洪振瑋、陳家宏等與同案被告方信偉、陳宥華間
     有非法持有槍彈及殺人之犯意聯絡。
-  (三)被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>一
+  (三)被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家宏一
     同前往大自然魚池鄰近民宅本係與同案被告方信偉、陳宥華
     共同基於傷害之犯意聯絡，核其等所為應僅構成傷害罪
-  1.被告官建廷、洪振瑋、<font color='red'>陳家宏</font>就係與同案被告方信偉、陳宥
+  1.被告官建廷、洪振瑋、陳家宏就係與同案被告方信偉、陳宥
     華共同基於傷害之犯意聯絡而一同前往大自然魚池鄰近民宅
     乙節，在本院審理程序中均坦承不諱（見訴字卷三第232 頁
     背面），核與同案被告方信偉於上開供稱：鄭凱陽接到電話
@@ -1826,7 +1721,7 @@ function openwin(URL,arguments,width,height)
     人提議說要不然去大自然魚池看告訴人少年范○偉、被害人
     黃平成有無在那邊，如果有要跟其等理論，伊忘記是誰先講
     這句話，伊聽到就說「好，走吧」，被告官建廷、方彥則、
-    許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>都沒有異議就跟著走等語
+    許永樟、許致翔、洪振瑋、陳家宏都沒有異議就跟著走等語
     ，被告許永樟上開供承：被告方信偉進來跟伊說，其要去新
     庄子繞繞，看有沒有烏鴉跟他們的人，如果有碰到就要打回
     來，伊就說好，其等車子不夠載人，就叫伊幫忙載人等語大
@@ -1837,7 +1732,7 @@ function openwin(URL,arguments,width,height)
     告方彥則則辯稱：伊一開始不知道云云。然查，被告許永樟
     上開否認即與其揭自白相異，本難認可採；又，被告許永樟
     、許致翔、方彥則確有與同案被告方信偉、陳宥華、被告官
-    建廷、洪振瑋、<font color='red'>陳家宏</font>一同前往大自然魚池，途中行經同案
+    建廷、洪振瑋、陳家宏一同前往大自然魚池，途中行經同案
     被告鄭凱陽租屋處時，由同案被告方信偉取出棍棒、刀械分
     予被告許永樟、方彥則所駕駛之車輛等情，已經本院認定如
     前，而被告許永樟、方彥則、許致翔各為73年5 月生、81年
@@ -1848,33 +1743,33 @@ function openwin(URL,arguments,width,height)
     分發棍棒、刀械等情，當可知將發生傷害他人身體情事，被
     告許致翔仍願隨同前往，被告許永樟、方彥則更願意駕駛車
     輛搭載其等前往大自然魚池鄰近民宅據點，顯與同案被告陳
-    宥華、方信偉、官建廷、洪振瑋、<font color='red'>陳家宏</font>有傷害之犯意聯絡
+    宥華、方信偉、官建廷、洪振瑋、陳家宏有傷害之犯意聯絡
     甚明，故上開其等所辯均難認可採。
-  3.從而，被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳
-    家宏</font>與同案被告方信偉、陳宥華共同基於傷害之犯意聯絡一
+  3.從而，被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳
+    家宏與同案被告方信偉、陳宥華共同基於傷害之犯意聯絡一
     同前往大自然魚池鄰近民宅據點，嗣又未與同案被告方信偉
     、陳宥華有犯意聯絡，共同提昇其等犯意為殺人，則核其等
     所為均應認僅構成刑法第277 條第1 項之傷害罪，公訴人認
-    被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>與
+    被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家宏與
     被告方信偉、陳宥華係共犯刑法第271 條第2 項、第1 項之
     殺人未遂罪嫌，即容有誤會。
   (四)綜上所述，公訴人所提之各項證據，雖能證明被告官建廷、
-    方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>係與同案被告方
+    方彥則、許永樟、許致翔、洪振瑋、陳家宏係與同案被告方
     信偉、陳宥華共同基於傷害之犯意聯絡一同前往大自然魚池
     鄰近民宅據點，惟依卷內事證尚難認被告官建廷、方彥則、
-    許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>對於同案被告方信偉、陳
+    許永樟、許致翔、洪振瑋、陳家宏對於同案被告方信偉、陳
     宥華非法持有槍彈乙情確實知情，是均難認其等與同案被告
     方信偉、陳宥華就非法持有槍彈及殺人未遂之犯行均具有犯
     意聯絡，故依公訴人所提出之各項證據，尚不足以說服本院
-    形成被告官建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家
-    宏</font>與被告方信偉、陳宥華共同非法持有槍彈之有罪心證。此
+    形成被告官建廷、方彥則、許永樟、許致翔、洪振瑋、陳家
+    宏與被告方信偉、陳宥華共同非法持有槍彈之有罪心證。此
     外，本院在得依或應依職權調查證據之範圍內，復查無其他
     積極明確之證據，足以認定被告官建廷、方彥則、許永樟、
-    許致翔、洪振瑋、<font color='red'>陳家宏</font>有公訴人所指共同持有槍彈之罪行
+    許致翔、洪振瑋、陳家宏有公訴人所指共同持有槍彈之罪行
     ，既不能證明被告官建廷、方彥則、許永樟、許致翔、洪振
-    瑋、<font color='red'>陳家宏</font>此部分之犯罪，揆諸前揭說明，就其等被訴共同
+    瑋、陳家宏此部分之犯罪，揆諸前揭說明，就其等被訴共同
     非法持有槍彈罪嫌，自應為被告官建廷、方彥則、許永樟、
-    許致翔、洪振瑋、<font color='red'>陳家宏</font>無罪之判決，以昭審慎。
+    許致翔、洪振瑋、陳家宏無罪之判決，以昭審慎。
   (五)另，告訴乃論之罪，告訴人於第一審辯論終結前，得撤回其
     告訴；告訴經撤回者，法院應諭知不受理之判決，刑事訴訟
     法第238 條第1 項、第303 條第3 款分別定有明文。又檢察
@@ -1887,10 +1782,10 @@ function openwin(URL,arguments,width,height)
     則於判決理由欄敘明其理由逕依刑事訴訟法第303 條第3 款
     諭知不受理判決即可，尚無適用同法第300 條之餘地（最高
     法院71年度台上字第6600號判決意旨參照）。據此，被告官
-    建廷、方彥則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>所為既係
+    建廷、方彥則、許永樟、許致翔、洪振瑋、陳家宏所為既係
     犯刑法第277 條第1 項之傷害罪，依同法第287 條前段之規
     定，須告訴乃論。茲告訴人少年范○偉與被告官建廷、方彥
-    則、許永樟、許致翔、洪振瑋、<font color='red'>陳家宏</font>已於104 年3 月10日
+    則、許永樟、許致翔、洪振瑋、陳家宏已於104 年3 月10日
     達成和解，並於本案辯論終結前撤回告訴乙節，業經告訴人
     少年范○偉於本院審理中證述明確（見訴字卷三第56頁），
     並有104 年3 月10日和解書暨聲請撤回告訴狀各1 紙在卷可
@@ -1989,86 +1884,12 @@ function openwin(URL,arguments,width,height)
 │    │        │      │550 號扣押物品清單編│
 │    │        │      │號006 （見訴285 號卷│
 │    │        │      │一第34頁）。        │
-└──┴────┴───┴──────────┘</pre>
-<!-- 原因：[未滿18] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWSCD\CRIMINAL\10409\25\SCDM1049P.007] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000285&selectedCrtid=SCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%99%b3%e5%ae%b6%e5%ae%8f&sdate=&edate=&page=&searchkw=%e9%99%b3%e5%ae%b6%e5%ae%8f&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c285%2c20150925%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=285&jdate=1040925&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c285%2c20150925%2c1&v_court=SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=285&jdate=1040925&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c285%2c20150925%2c1','SCD+%e8%87%ba%e7%81%a3%e6%96%b0%e7%ab%b9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','285','1040925','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="SCD 臺灣新竹地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="陳家宏">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="陳家宏">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴────┴───┴──────────┘
+[*jrecno*]103,訴,285,20150925,1
+[*v_court*]SCD 臺灣新竹地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]訴
+[*jno*]285
+[*jdate*]1040925
+[*jcheck*]1

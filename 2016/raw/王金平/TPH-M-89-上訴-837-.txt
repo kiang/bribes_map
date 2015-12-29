@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-89上訴837</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共38
-											筆 / 現在第38
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000837&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=837&jdate=891213&jcheck=">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=837&jdate=891213&jcheck=">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','89','%e4%b8%8a%e8%a8%b4','837','891213','')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">89,上訴,837</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">891213</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">瀆職等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　　　　　　　八十九年度上訴字第八三七號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=837&jdate=891213&jcheck=
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000837&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=837&jdate=891213&jcheck=
+[*裁判字號*]89,上訴,837
+[*裁判日期*]891213
+[*裁判案由*]瀆職等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　　　　　　　八十九年度上訴字第八三七號
 　　上　訴　人　臺灣士林地方法院檢察署檢察官
 　　上　訴　人
 　　即　被　告　乙○○
@@ -130,7 +23,7 @@ function openwin(URL,arguments,width,height)
 　　即　被　告　午○○
 　　選任辯護人　孫銘豫
 　　上　訴　人
-　　即　被　告　己○○更名為<span  style="color:#e8e8e8">.</span>
+　　即　被　告　己○○更名為.
 　　選任辯護人　杜英達
 　　　　　　　　丁中原
 　　上　訴　人
@@ -148,7 +41,7 @@ function openwin(URL,arguments,width,height)
 ○、午○○、己○○（即李茗葦）、丑○○各處有期徒刑壹年貳月；又寅○○、辰○
 ○、未○○、午○○、己○○（即李茗葦）、丑○○共同不依法令搜索他人住宅，各
 處有期徒刑肆月；寅○○應執行有期徒刑壹年陸月，辰○○、未○○、午○○、己○
-○（即李茗葦）、丑○○各應執行有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。午○○緩刑肆年。
+○（即李茗葦）、丑○○各應執行有期徒刑壹年月。午○○緩刑肆年。
     事  實
 一、乙○○原係臺北市政府警察局士林分局第三組組長，而寅○○則係該分局刑事組
     第七小隊小隊長，辰○○、未○○、午○○、己○○（即李茗葦）、丑○○則為
@@ -166,7 +59,7 @@ function openwin(URL,arguments,width,height)
     ○三人隨而進入上址住宅，由辰○○、丑○○在屋內戒護，由寅○○逕行違法搜
     索上開房屋之房間，在該屋靠近馬路邊、由孟憲祥使用之房間床底抽屜內查獲孟
     憲祥所有具殺傷力之改造八厘米手槍一支及不具殺傷力之土造子彈一顆，並搜獲
-    子○○所有之少量海洛因、注射針筒、涉嫌偽造之立法委員<font color='red'>王金平</font>信函一份、朱
+    子○○所有之少量海洛因、注射針筒、涉嫌偽造之立法委員王金平信函一份、朱
     高正印章一顆，及孟憲祥所有少量之安非他命、吸食器一個、蓋有竹聯幫捍衛隊
     印文之紙張及孟憲祥名片等物，因而發現孟憲祥及當時在現場之李光明、子○○
     、丁○○及女友庚○○（原名林麗玲）、巳○○等人涉有違反槍砲彈藥刀械管制
@@ -311,7 +204,7 @@ function openwin(URL,arguments,width,height)
     、二時許，共同前往福港街二○八號二樓之十二竹聯幫捍衛隊堂口違法搜索，現
     場除查獲改造之八釐米手槍一支及土製子彈一顆外，尚查獲少量之毒品海洛因、
     安非他命，施用器具吸食器一個、針筒、蓋有竹聯幫捍衛隊印文之紙張、偽造之
-    <font color='red'>王金平</font>信函、朱高正印章，並由寅○○等人與子○○協議再交一把槍，為不追究
+    王金平信函、朱高正印章，並由寅○○等人與子○○協議再交一把槍，為不追究
     毒品危害防制條例、犯罪組織防制條例之條件，嗣將李光明等五人全部逮捕，毒
     品等證據扣押，帶回士林分局製作筆錄及採尿，因時間拖延，寅○○等人與子○
     ○再協議改再交一把槍為須再交二把槍，同意由李光明一人頂替，將其餘四人無
@@ -330,7 +223,7 @@ function openwin(URL,arguments,width,height)
     於八月三十日至八月三十一日之通訊監察作業報告摘要附卷可稽（見八十七年度
     他字第五六八卷第一○六頁至第一一五頁反面、第一四五頁至第一四八頁反面）
     ，另前揭於上址查獲物品中之少量海洛因、安非他命、吸食器及注射針筒等物均
-    為被告李光明及證人丁○○所自始承認，而偽造之<font color='red'>王金平</font>信函及朱高正印章部分
+    為被告李光明及證人丁○○所自始承認，而偽造之王金平信函及朱高正印章部分
     ，並於嗣後經臺北市調處分別於孟憲祥福港街住所及丁○○住所查扣（見八十七
     年度他字第五六八號卷第五十五頁反面、第六十二頁至第六十四頁），證人子○
     ○亦證述係為其所偽造及自行偽刻（見八十七年度他字第五六八號卷第五十五頁
@@ -384,7 +277,7 @@ function openwin(URL,arguments,width,height)
     物庫於八十七年十月二十八日所收受之扣押物品清單中亦僅記載有上開手槍三把
     及子彈五顆部分，槍套部分則付諸闕如（見八十七年度訴字第六八八號卷第五十
     五頁八十七年度保管字第三六五八號扣押物品清單），而系爭槍套卻遲至八十七
-    年十一月七日方單獨送至臺灣士林地方法院檢察署贓物庫，有<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5F62A0A00000040.GIF" />年度保管字第三
+    年十一月七日方單獨送至臺灣士林地方法院檢察署贓物庫，有年度保管字第三
     七九六號扣押物品清單可證（同上卷第一○○頁），是現場到底有無發現槍套實
     有可疑，且被告乙○○於偵查中卻稱沒有看到槍套等語（見八十七年度偵字第一
     一七二七號卷第一三四頁），足徵被告寅○○等所稱在現場發現槍套，李光明主
@@ -507,7 +400,7 @@ function openwin(URL,arguments,width,height)
     時三十二分及三十九分在桃園縣龜山鄉○○○○○道附近與被告寅○○的000
     0000000行動電話聯絡，也有與丙○○使用的0000000000行動
     電話聯絡，有中華電信股份有限公司臺灣北區電信分公司八十八年一月二十七日
-    行銷二密<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5162A0A00000040.GIF" />字第○○五號函所附之0000000000（辰○○使用）電話於
+    行銷二密字第○○五號函所附之0000000000（辰○○使用）電話於
     八十七年八月三十一日至九月二日之通話記錄在卷可稽（見八十七年度偵字第一
     一七二七號卷第二一四頁）。足徵辰○○陪同卯○○所指派不詳之人前往取槍，
     並於途中與卯○○、寅○○聯絡取槍事宜，而取槍之地點雖無法證實為中壢，然
@@ -598,7 +491,7 @@ function openwin(URL,arguments,width,height)
     向臺灣台北地方法院檢察署聲請監聽電話號碼（○二）00000000、00
     000000、00000000共三支所取得，有臺灣臺北地方法院檢察署所
     核發之通訊監察書乙份（含登記表及電信監察作業執行通知單）在卷可稽（見本
-    院卷法務部調查局臺北市調查處八十九年五月二日<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5152A0A00000040.GIF" />參字第8933162號函附件）
+    院卷法務部調查局臺北市調查處八十九年五月二日參字第8933162號函附件）
     ，故上開電話錄音譯文既係依法定程序合法取得，自有證據能力而得採為判決之
     基礎，併此敘明。
   (九)另就本件於上開案發地點所查獲之德制八釐米手槍乙把、子彈乙發及嗣後由被告
@@ -612,7 +505,7 @@ function openwin(URL,arguments,width,height)
   (十)至於被告乙○○於本院調查時所聲請傳喚之證人甲○○、戊○○、壬○○、辛○
     ○（即士林分局八十七年八月三十日晚上至翌日值班之員警），以證明當日並無
     接獲被告乙○○打回士林分局聯絡任何事務，並傳訊證人癸○○（即士林分局負
-    責內部公文收送之職員）及證人陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E5702A0A00000040.GIF" />美（即被告乙○○之妻）以證明乙○○於八
+    責內部公文收送之職員）及證人陳美（即被告乙○○之妻）以證明乙○○於八
     三十一日上午批示公文時，並非由寅○○面呈；且八十七年八月三十一日凌晨一
     時以後均未聽到任何電話或呼叫器響聲。然證人甲○○已證述其未將被告寅○○
     打電話來請其聯絡組長乙○○之事告知其他值班之員警，是證人戊○○、壬○○
@@ -626,7 +519,7 @@ function openwin(URL,arguments,width,height)
     本院八十九年八月二十一日訊問筆錄），亦無法證明被告寅○○並無於八十七年
     八月三十一日送公文時碰到組長乙○○，更何況乙○○於偵查中即供述其於當日
     上午九點以後均在辦公室批公文，被告寅○○自當會碰到組長乙○○，是證人癸
-    ○○之上開證言，亦無法證明被告乙○○不知情。另證人陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E5702A0A00000040.GIF" />美既為被告乙○○
+    ○○之上開證言，亦無法證明被告乙○○不知情。另證人陳美既為被告乙○○
     之妻，其證言自有偏頗之虞，且其於本院之證言亦不足推翻證人甲○○與被告寅
     ○○之電話譯文內容。
   (十一)綜上所述，被告乙○○等七人所辯，均係卸責之詞，不足採信，本件事證明確，
@@ -640,7 +533,7 @@ function openwin(URL,arguments,width,height)
     ○○、丑○○、午○○、己○○（即李茗葦）、未○○等違法搜索，核其等所為
     ，係犯刑法第三百零七條之違法搜索罪。渠等假借職務上之權力及機會而犯之，
     應依刑法第一百三十四條加重其刑。又被告寅○○等人在搜索現場，發現毒品海
-    洛因、安非他命、吸食器、針筒等施用器具、及偽造之<font color='red'>王金平</font>信函、朱高正印章
+    洛因、安非他命、吸食器、針筒等施用器具、及偽造之王金平信函、朱高正印章
     、蓋有竹聯幫捍衛隊印文之紙張等，經寅○○等扣押攜回警局，自屬公務員職務
     上掌管之物品，且上開扣押物品均為刑事案件之證據，被告乙○○、寅○○、辰
     ○○、未○○、午○○、己○○（即李茗葦）、丑○○等人任由子○○等人倒掉
@@ -764,86 +657,11 @@ function openwin(URL,arguments,width,height)
 刑法第一百三十四條：
   公務員假借職務上之權利、機會或方法，以故意犯本章以外各罪者，加重其刑至二
   分之一。但因公務員之身分已特別規定其刑者，不在此限。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWTPH\CRIMINAL\8912\19\TPHM89CJ.025] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共38
-											筆 / 現在第38
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000837&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e9%87%91%e5%b9%b3&sdate=&edate=&page=&searchkw=%e7%8e%8b%e9%87%91%e5%b9%b3&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=837&jdate=891213&jcheck=">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=837&jdate=891213&jcheck=">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('89%2c%e4%b8%8a%e8%a8%b4%2c837%2c20001213','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','89','%e4%b8%8a%e8%a8%b4','837','891213','')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="38"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王金平">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王金平">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]89,上訴,837,20001213
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]89
+[*jcase*]上訴
+[*jno*]837
+[*jdate*]891213
+[*jcheck*]

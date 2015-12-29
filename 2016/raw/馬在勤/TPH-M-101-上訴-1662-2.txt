@@ -1,168 +1,61 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101上訴1662</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共200
-											筆 / 現在第66
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001662&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=65&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=67&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=200&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1662&jdate=1010906&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1662&jdate=1010906&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','1662','1010906','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,上訴,1662</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010906</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 101年度上訴字第1662號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1662&jdate=1010906&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001662&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1662&jdate=1010906&jcheck=2
+[*裁判字號*]101,上訴,1662
+[*裁判日期*]1010906
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 101年度上訴字第1662號
 上　訴　人
-即　被　告　陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />
+即　被　告　陳國
 選任辯護人　舒建中律師
 上　訴　人
 即　被　告　葉憲錫
 選任辯護人　陳佳雯律師
-　　　　　　<font color='red'>馬在勤</font>律師
+　　　　　　馬在勤律師
 上列上訴人即被告因違反毒品危害防制條例案件，不服臺灣板橋
 地方法院101年度訴字第128號，中華民國101年5月4 日第一審判
 決（起訴案號：臺灣板橋地方法院檢察署100年度偵字第25998號
 、第32419號），及移送併案審理（101年度偵字第2667號、第31
 32）提起上訴，本院判決如下：
     主  文
-原判決關於葉憲錫共同製造第三級毒品及陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />部分撤銷。
-陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />共同製造第三級毒品，處有期徒刑肆年拾月。扣案如附表
+原判決關於葉憲錫共同製造第三級毒品及陳國部分撤銷。
+陳國共同製造第三級毒品，處有期徒刑肆年拾月。扣案如附表
 一(一)所示之物、附表二編號8所示之NOKIA行動電話壹支（不含門
 號0000000000SIM 卡壹枚）均沒收，未扣案之製造毒品所得財物
-新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾萬元應與葉憲錫連帶沒收，如全部或一部不能沒收時
+新臺幣拾萬元應與葉憲錫連帶沒收，如全部或一部不能沒收時
 ，以其財產連帶抵償之。
 葉憲錫共同製造第三級毒品，處有期徒刑肆年陸月。扣案如附表
 一(一)所示之物、附表二編號8所示之NOKIA行動電話壹支（不含門
 號0000000000SIM 卡壹枚）均沒收，未扣案之製造毒品所得財物
-新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾萬元應與陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />連帶沒收，如全部或一部不能沒收時
+新臺幣拾萬元應與陳國連帶沒收，如全部或一部不能沒收時
 ，以其財產連帶抵償之。扣案如附表一(一)所示之物、附表二編號
 8所示之NOKIA行動電話壹支（不含門號0000000000SIM 卡壹枚）
-均沒收，未扣案之製造毒品所得財物新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾萬元應與陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />
+均沒收，未扣案之製造毒品所得財物新臺幣拾萬元應與陳國
 連帶沒收，如全部或一部不能沒收時，以其等財產連帶抵償之。
     事  實
-一、陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />與真實姓名年籍不詳綽號「寶哥」或「阿寶」之成年
+一、陳國與真實姓名年籍不詳綽號「寶哥」或「阿寶」之成年
     男子（下簡稱「寶哥」，由檢察官另案偵查）係朋友關係。
-    「寶哥」因知陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />有製造第三級毒品硝甲西泮藥錠（Nime
+    「寶哥」因知陳國有製造第三級毒品硝甲西泮藥錠（Nime
     tazepam ，俗稱一粒眠，下稱一粒眠）之技術，有意提供資
-    金並購置機具設備，與陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />共組一粒眠地下製毒工廠，乃
+    金並購置機具設備，與陳國共組一粒眠地下製毒工廠，乃
     於民國99年9 月間向當時仍不知情之葉憲錫佯稱欲承租新北
     市附近廠房，以供存放雜物之用，由葉憲錫代「寶哥」自99
     年11月起，承租新北市○○區○○路1段28巷87臨號之2之廠
-    房（下稱板橋廠房），並由陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />將製造一粒眠所需之原料
+    房（下稱板橋廠房），並由陳國將製造一粒眠所需之原料
     （除主要原料硝甲西泮外）及機具設備運至上址板橋廠房內
     ，以伺機成立地下製毒工廠。嗣於100年3月初，葉憲錫因失
     業向「寶哥」表示經濟困難，「寶哥」即向葉憲錫表示，其
     可提供製造一粒眠所需之原料及技術，願以每製造一錠一粒
     眠新臺幣（下同）0.5 元之代價，邀葉憲錫加入其地下製毒
     工廠，共同製造一粒眠，葉憲錫認有利可圖，遂為應允。3
-    人謀議既定，「寶哥」、陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />與葉憲錫，均明知一粒眠係
+    人謀議既定，「寶哥」、陳國與葉憲錫，均明知一粒眠係
     毒品危害防制條例第2條第2項第3 款所列管之第三級毒品，
     非經許可，不得製造。詎其3 人竟共同基於製造第三級毒品
     一粒眠之犯意聯絡，先由葉憲錫於100年5月間，受「寶哥」
     指示至臺北市美麗華百樂園附近，向真實姓名年籍不詳之成
     年男子取得製造一粒眠之主要原料硝甲西泮，復由「寶哥」
-    居中聯絡陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />由臺南住處北上，經葉憲錫開車接往板橋廠
-    房，由陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />傳授葉憲錫製造一粒眠方法：先依特定比例加
+    居中聯絡陳國由臺南住處北上，經葉憲錫開車接往板橋廠
+    房，由陳國傳授葉憲錫製造一粒眠方法：先依特定比例加
     入硝甲西泮、乳糖、色素、咖啡因、蔗甘寶等原料並放入攪
     拌機攪拌均勻，再加入食用黏著劑凝固，以壓扁機確認所有
     原料混合均勻後，將一粒眠半成品放入震動濾網機震動成小
@@ -174,21 +67,21 @@ function openwin(URL,arguments,width,height)
     11月7 日更名黃國楨）具名代「寶哥」向不知情之林素惠承
     租位在新北市○○區○○路5巷55之7號之廠房（下稱泰山廠
     房），以供對外進貨之用。每當葉憲錫製造一粒眠之某項原
-    料短缺時，葉憲錫即以電話向「寶哥」及陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />反應，由「
-    寶哥」出資、陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />代向不知情之化工行訂購，送貨至上址
+    料短缺時，葉憲錫即以電話向「寶哥」及陳國反應，由「
+    寶哥」出資、陳國代向不知情之化工行訂購，送貨至上址
     泰山廠房，由葉憲錫自稱為承租該址廠房之「黃先生」出面
-    收受，私下另行將原料運至板橋廠房，以掩人耳目。陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />
+    收受，私下另行將原料運至板橋廠房，以掩人耳目。陳國
     並與葉憲錫持續電話聯絡，於電話中教導葉憲錫關於製造一
     粒眠之技術，更親自自臺南前往板橋廠房，教導葉憲錫調整
     機器、調配一粒眠，與葉憲錫、「寶哥」等人共同接續製造
-    一粒眠，陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />並因此從「寶哥」處取得30萬元報酬，至葉
+    一粒眠，陳國並因此從「寶哥」處取得30萬元報酬，至葉
     憲錫則因尚未交付「寶哥」製成之一粒眠，而未取得報酬。
 二、嗣於100年9月29日下午7時20 分許，為法務部調查局新北市
     調查處調查官依法執行搜索，查獲板橋廠房之製毒工廠，當
     場查獲葉憲錫及其友人劉書涵（劉書涵共同持有第三級毒品
     純質淨重二十公克以上，業經原審判決確定）外，並扣得如
     附表一所示之物。又於100年12月1日上午10時25分許，員警
-    持拘票，依法逕行拘提陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />到案，並在臺南市○○區○○
+    持拘票，依法逕行拘提陳國到案，並在臺南市○○區○○
     街425巷1弄10號住處，扣得如附表二所示之物。
 三、案經法務部調查局新北市調查處（以下稱新北市調處）、臺
     北市政府警察局、臺南市政府警察局歸仁分局移送臺灣板橋
@@ -200,7 +93,7 @@ function openwin(URL,arguments,width,height)
     其轉讓第三級毒品部分上訴，復於本院審理中亦明確表示僅
     就原審判決共同製造第三級毒品部分上訴（見本院卷第 101
     頁正面、第109 頁），故本院審理範圍僅限於原審判決被告
-    陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫共同製造第三級毒品部分，合先陳明。
+    陳國、葉憲錫共同製造第三級毒品部分，合先陳明。
 二、按被告以外之人於審判外之言詞或書面陳述，除法律有規定
     者外，不得作為證據，刑事訴訟法第159條第1項定有明文。
     又被告以外之人於審判外之陳述，雖不符刑事訴訟法第 159
@@ -210,7 +103,7 @@ function openwin(URL,arguments,width,height)
     查證據時，知有同法第159條第1項不得為證據之情形，而未
     於言詞辯論終結前聲明異議者，視為有前項之同意，刑事訴
     訟法第159條之5亦有明文。查本判決下列所引各項供述證據
-    ，被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫及其辯護人於本院準備程序中，均已
+    ，被告陳國、葉憲錫及其辯護人於本院準備程序中，均已
     陳稱：同意作為證據等語明確（見本院卷第68-69頁、第79-
     80頁），本院審酌各該證據作成時之情況，並無違法不當或
     證明力明顯過低之瑕疵，認以之作為證據應屬適當，依刑事
@@ -219,15 +112,15 @@ function openwin(URL,arguments,width,height)
     證據（詳後述），查無違反法定程序取得之情，依同法第15
     8條之4規定反面解釋，均俱有證據能力。
 貳、認定犯罪事實所憑之證據及理由：
-一、訊據被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />坦承教導被告葉憲錫製作錠劑，然否認有製
+一、訊據被告陳國坦承教導被告葉憲錫製作錠劑，然否認有製
     造第三級毒品硝甲西泮藥錠之犯行，辯稱：伊僅幫助葉憲錫
     製作錠劑，並不知錠劑內容物為何云云（見本院卷第68頁、
     第101 頁）。而被告葉憲錫坦承製作第三級毒品硝甲西泮藥
     錠。經查：
-  (一)上揭犯罪事實，迭據被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />於調查局、偵查中及原審審
+  (一)上揭犯罪事實，迭據被告陳國於調查局、偵查中及原審審
     理時坦承不諱，而被告葉憲錫亦於調查局、偵查中、原審及
     本院準備、審理中坦承不諱，而葉憲錫代「寶哥」承租板橋
-    廠房，並由陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />將製造一粒眠所需之原料（除主要原料硝
+    廠房，並由陳國將製造一粒眠所需之原料（除主要原料硝
     甲西泮外）及機具設備運至板橋廠房內，成立製毒工廠，復
     為掩人耳目並對外進貨，另行承租泰山廠房，此事實核與證
     人林素惠於警詢中證稱：我向地主承租新北市○○區○○路
@@ -239,20 +132,20 @@ function openwin(URL,arguments,width,height)
     然後他帶著這位陳大哥和我碰面，我就把廠房（指泰山廠房
     ）租給他，這個廠房我是用2萬元向房東租的，再以25000元
     租給陳大哥（見偵卷第25998號卷第239-241頁）等語相符。
-  (二)被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />以其妻王真香所申請0000000000號門號之行動電
+  (二)被告陳國以其妻王真香所申請0000000000號門號之行動電
     話，與他人連繫購買製造一粒眠之原料並調整機器，內容如
     下：
   1.100年8月16日15時49分04秒：
-    陳師傅（指被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />）：明天若是在板橋車站那個南邊那
+    陳師傅（指被告陳國）：明天若是在板橋車站那個南邊那
     你方便嗎…南三出口那？
     邱游盼友人（年籍不詳）：好啦。
     陳師傅：帶到那給我就好了…剩下我再坐那個就好了，我坐
     車過去就好了…
   2.100年8月25日
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />10時56分22秒：
+  10時56分22秒：
     某女業者：寄來了喔。
     陳師傅：這樣我待會過去。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />16時31分07秒：
+  16時31分07秒：
     某女業者：我今天會幫你把烘箱寄貨運出去…你要寄給那個
     黃先生，我有寫黃先生…應該明天會到。
     陳師傅：好，我跟他說。
@@ -272,20 +165,20 @@ function openwin(URL,arguments,width,height)
     陳師傅：（基地台地址：新北市○○區○○路1段26號）不
     詳之人：未接聽。
   6.100年9月5日
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />08時43分12秒：
+  08時43分12秒：
     陳師傅：你大概什麼時候會過來？我要安排其他的貨先進來
     …
     某女業者：8 號吧…我是說那個耶，貨初八到。
     陳師傅：喔，初八到你指定地點嗎？
     某女業者：嗯。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />15時26分23秒：
+  15時26分23秒：
     某女業者：你那個乳糖部分，1 噸美國的，1 噸荷蘭的沒關
     係啦喔？因為有一個插花的哩，想要跟你商量一下…你用過
     美國的啊…要不你跟他說一下好不好？看能不能商量一下…
     到時候也是同一天初八給你啦，你跟他問一下…
     陳師傅：嗯。
   7.100 年9 月8 日
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />13時05分38秒：
+  13時05分38秒：
     某女業者：他那個要改明天到嗎？因為貨運送去，那個黃先
     生說明天送，他沒跟你說嗎？
     陳師傅：沒有啊，很早就說今天啊，下午啊。
@@ -295,21 +188,21 @@ function openwin(URL,arguments,width,height)
     通說，那2桶咖啡因是明天送囉，你要不要跟黃先生問一下
     …要不我現在問日通問清楚好了。
     陳師傅：你給他問一下，我聯絡。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />13時09分56秒：
+  13時09分56秒：
     陳師傅：他們說好了，說明天。
     某女業者：對，對。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />13時14分27秒：
+  13時14分27秒：
     某女業者：那是2 間不同地方出的耶，那他連乳糖也是明天
     再收嗎？
     陳師傅：對啊，他就說那個他今天不方便啊。
     某女業者：乳糖也跟他說好了嗎？剛才說的那是咖啡因耶，
     乳糖那也是改明天嗎？
     陳師傅：中午，一樣。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />13時16分58秒：
+  13時16分58秒：
     某女業者：乳糖那個他要截看看，因為他那個貨都已經出去
     了…陳師傅：先放一下，明天再送難道沒有辦法？
     某女業者：…你等我電話。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />14時07分16秒：
+  14時07分16秒：
     某女業者：他那個已經送出去了，沒有辦法截了。
     陳師傅：啊幾點？
     某女業者：…我打電話問。
@@ -332,26 +225,26 @@ function openwin(URL,arguments,width,height)
     都在那個而已。
     張維中聲音（業者）：這樣我叫他那143 捲留著吧。
   12.100 年9 月27日
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />10時57分37秒：
+  10時57分37秒：
     張維中聲音（業者）：…不過他數量報錯了…188對啦，差
     10對啦…
     陳師傅：喔。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />09時53分46秒：
+  09時53分46秒：
     陳師傅：11時50…我拿那個給你就好了，我還要辦事情。邱
     游盼友人：不好意思，還讓你給我送…陳師傅：沒有啦，順
     便啦。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />22時46分40秒：
+  22時46分40秒：
     邱游盼友人：你那麼快馬上趕回去了？
     陳師傅：我處理好我就那個了。
     邱游盼友人：啊什麼問題？
     陳師傅：位置稍微跑掉。
-    依被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />以行動電話連繫之情形，可得知被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />與
+    依被告陳國以行動電話連繫之情形，可得知被告陳國與
     各個業者連繫購買製造一粒眠，並包括機器之使用、製造之
-    成效，均由陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />連繫購入及指導，被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />雖未經常在
-    板橋廠房，但製作過程機器若產生任何問題，均由陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />前
+    成效，均由陳國連繫購入及指導，被告陳國雖未經常在
+    板橋廠房，但製作過程機器若產生任何問題，均由陳國前
     往板橋廠房解決，有手機0000000000 號門號通訊監察譯文1
     份在卷可稽（見警聲搜卷第2365號卷4-6 頁）；另被告陳國
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />確係購入製做一粒眠相關成分咖啡因、蔗甘寶等原料及包
+    確係購入製做一粒眠相關成分咖啡因、蔗甘寶等原料及包
     裝紙，有附表二編號10所示100年6月8日、100年9月5日新芳
     良化工原料儀器有限公司出貨單2 紙（其餘出貨單與本案無
     關）、附表二編號9所示100年9月28 日玉山銀行存款憑條影
@@ -364,19 +257,19 @@ function openwin(URL,arguments,width,height)
   (四)此外，復有泰山廠房之房屋租賃契約書2份、現場圖1份、現
     場照片在卷可佐，並有附表一(一)所示之毒品、原料及機器等
     物、附表二編號8所示NOKIA行動電話1支扣案可資佐證。
-  (五)足徵「寶哥」提供資金供被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />向不知情之化工公司購
-    入製造一粒眠之原料，復由陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />設置機器，並傳授葉憲錫
-    製造一粒眠方法，陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />亦至板橋廠房教導葉憲錫調整機器
-    、調配一粒眠之犯行已堪認定，被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />所辯不足採信，
+  (五)足徵「寶哥」提供資金供被告陳國向不知情之化工公司購
+    入製造一粒眠之原料，復由陳國設置機器，並傳授葉憲錫
+    製造一粒眠方法，陳國亦至板橋廠房教導葉憲錫調整機器
+    、調配一粒眠之犯行已堪認定，被告陳國所辯不足採信，
     被告葉憲錫任意性自白與事實相符，應堪採信。
 二、本件事證明確，被告2人犯行均堪認定，皆應依法論科。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />、論罪科刑：
+、論罪科刑：
 一、按硝甲西泮及愷他命均係毒品危害防制條例第2 條第2 項第
     3 款所規定之第三級毒品。又毒品危害防制條例第4 條製造
     第一級至第四級毒品之「製造」，係指就原料、原素予以加
     工，使成具有特定功效之成品者而言。查本件犯罪事實一部
     分，共犯「寶哥」提供資金購買可供製造一粒眠之機具設備
-    、主原料硝甲西泮及副原料；被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />則代購製造一粒眠
+    、主原料硝甲西泮及副原料；被告陳國則代購製造一粒眠
     之副原料、教導被告葉憲錫操作機具之技術及製作一粒眠之
     方法；被告葉憲錫即依比例調配攪拌，壓製成錠，使主原料
     硝甲西泮易於持有、保存，並使其具有一定之崩解速度，以
@@ -395,11 +288,11 @@ function openwin(URL,arguments,width,height)
     同犯意之聯絡者亦屬之，且表示之方法，不以明示通謀為必
     要，即相互間有默示之合致亦無不可。有最高法院97年度台
     上字第2517號判決可參。
-  (一)是核被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫所為，均係犯毒品危害防制條例第
-    4條第3項之製造第三級毒品罪；被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫與「寶
+  (一)是核被告陳國、葉憲錫所為，均係犯毒品危害防制條例第
+    4條第3項之製造第三級毒品罪；被告陳國、葉憲錫與「寶
     哥」之成年男子間對於製造第三級毒品之犯行，有犯意聯絡
     及行為分擔，均為共同正犯。
-  (二)被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫因製造一粒眠而持有第三級毒品硝甲西
+  (二)被告陳國、葉憲錫因製造一粒眠而持有第三級毒品硝甲西
     泮純質淨重20公克以上，另扣案如附表一(一)編號1-1至1-3、
     1-4至1-5、2-1至2-15、3、4-1、4-2、5-1 至5-13、6、7、
     8、9、10、11-1至11-2、12、24-1至24-2所示之粉末、錠粒
@@ -415,7 +308,7 @@ function openwin(URL,arguments,width,height)
   (三)又按行為於密切接近之時地實施，侵害同法益，各行為之獨
     立性極為薄弱，依一般社會健全觀念，以視為數個舉動之接
     續施行，合為包括之一行為以評價，屬接續犯。查被告陳國
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫於100年5月間某日起至同年9月29 日為警查獲時
+    、葉憲錫於100年5月間某日起至同年9月29 日為警查獲時
     止，於前揭時間密集製造第三級毒品之犯行，核與接續犯概
     念相符，應論以接續犯。又檢察官移送併辦部分與起訴事實
     係同一事實，自為起訴效力所及，應併與審理。
@@ -468,16 +361,16 @@ function openwin(URL,arguments,width,height)
     被告在偵查終結前自白，應均屬「偵查中自白」，始合立法
     意旨，而法官為羈押訊問，偵查尚未終結，仍屬偵查階段，
     自有上開條項之適用（本院暨所屬法院99年法律座談會刑事
-    類提案第26號研討意見參照）。經查：被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />就上開犯
+    類提案第26號研討意見參照）。經查：被告陳國就上開犯
     罪事實之犯行，於偵查及原審審判中供認不諱，被告葉憲錫
     就上開犯罪事實之犯行，於偵查及原審、本院審判中均自白
-    無訛，有各該筆錄在卷可參（陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />部分見偵字第25988 號
+    無訛，有各該筆錄在卷可參（陳國部分見偵字第25988 號
     卷第168-178頁、第202-204頁、原審卷第73 頁反面、第136
     頁，葉憲錫部分見偵字第25998頁第25-30頁、66-69頁、110
     -112頁、原審卷第21頁、第136頁、本院卷第46 頁反面、79
     頁反面），均應依毒品危害防制條例第17條第2 項之規定減
-    輕其刑。雖被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />於本院審理中否認犯行，惟因被告陳
-    國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />在偵查中及原審審理業已自白，嗣雖於本院翻異其詞否
+    輕其刑。雖被告陳國於本院審理中否認犯行，惟因被告陳
+    國在偵查中及原審審理業已自白，嗣雖於本院翻異其詞否
     認犯行，揆諸前開說明，仍應依法減輕其刑。
   2.又毒品危害防制防制條例第17條第1 項所稱供出毒品來源，
     因而查獲其他正犯或共犯者，被告之供出毒品來源，與調查
@@ -489,59 +382,59 @@ function openwin(URL,arguments,width,height)
     適用上開規定予以減刑（最高法院97年度臺上第1475號判決
     、99年度臺上字第7729號判決意旨參照）。經查，新北市調
     處經由臺灣板橋地方法院檢察署檢察官向原審聲請搜索票之
-    前，已得知被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />以0000000000號門號之行動電話連繫
-    被告葉憲錫，已得知「陳師父」即為被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />，查知陳國
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />與葉憲錫製造一粒眠之犯行，並有確切之證據，足以合理
-    之懷疑被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />為製造毒品一粒眠之共犯，並非因葉憲錫
-    之供述，而查獲被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />，有臺灣板橋地方法院檢察署10
+    前，已得知被告陳國以0000000000號門號之行動電話連繫
+    被告葉憲錫，已得知「陳師父」即為被告陳國，查知陳國
+    與葉憲錫製造一粒眠之犯行，並有確切之證據，足以合理
+    之懷疑被告陳國為製造毒品一粒眠之共犯，並非因葉憲錫
+    之供述，而查獲被告陳國，有臺灣板橋地方法院檢察署10
     0年度警聲搜字第2365 號卷可參，揆諸上開規定，自不得適
     用上開規定予以減刑，併予陳明。
-二、原審對被告予以論罪科刑，固非無見。惟查：被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、
+二、原審對被告予以論罪科刑，固非無見。惟查：被告陳國、
     葉憲錫因製造一粒眠而持有第三級毒品硝甲西泮純質淨重20
     公克以上，及第四級毒品二氮平及硝西泮純質淨重20公克以
     上之低度行為，應為製造之高度行為所吸收，不另論罪，原
-    審認無證據證明被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫渠等所製造之一粒眠內
+    審認無證據證明被告陳國、葉憲錫渠等所製造之一粒眠內
     ，亦含有第四級毒品二氮平及硝西泮成分，不另論被告2 人
     持有第四級毒品純質淨重20公克以上，容有誤認。被告陳國
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />上訴意旨略以：其僅係教製成錠劑之原料，並購買機器，
+    上訴意旨略以：其僅係教製成錠劑之原料，並購買機器，
     純粹只是幫忙提供技術，幫忙買相關的機械工具，並無犯意
-    連絡，且葉憲錫只有在機器有問題時才會找陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />，若機器
-    沒有問題就從網站上照方式做，葉憲錫自己會做，陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />並
+    連絡，且葉憲錫只有在機器有問題時才會找陳國，若機器
+    沒有問題就從網站上照方式做，葉憲錫自己會做，陳國並
     沒有參與真正製造的事實，僅為幫助犯；另硝甲西泮原本為
     第四級毒品，被告並不知硝甲西泮已更改為第三級毒品，依
     「所知輕於所犯，從其所知」，自應論以製造第四級毒品硝
     甲西泮罪；另被告已經在偵審認罪，符合第17條第2 項減輕
     的規定，請從輕量刑等語。被告葉憲錫上訴意旨略以：其自
     偵查、原審審理至本院審理均坦承犯行，並有供出製造毒品
-    之「陳師父」即陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />，應依毒品危害防制條例第17 條第1
-    項之規定減輕其刑等語。惟被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />為製造一粒眠，購買
+    之「陳師父」即陳國，應依毒品危害防制條例第17 條第1
+    項之規定減輕其刑等語。惟被告陳國為製造一粒眠，購買
     各項原料及機器，而所製造並扣案之附表一(一)之一粒眠成品
     及半成品，業經鑑定為第三級毒品硝甲西泮藥錠，被告陳國
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />無從諉為不知係何種類之毒品；且被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />向不知情之
-    化工公司購入製造一粒眠之原料，復由陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />設置機器，並
-    傳授葉憲錫製造一粒眠方法，陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />亦至板橋廠房教導葉憲
+    無從諉為不知係何種類之毒品；且被告陳國向不知情之
+    化工公司購入製造一粒眠之原料，復由陳國設置機器，並
+    傳授葉憲錫製造一粒眠方法，陳國亦至板橋廠房教導葉憲
     錫調整機器、調配一粒眠等犯行，已為犯罪構成要件之行為
     ，其與葉憲錫、「寶哥」均為共同正犯，故上訴並無理由；
-    另經查，新北市調處在向原審聲請搜索票之前，查知陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />
+    另經查，新北市調處在向原審聲請搜索票之前，查知陳國
     與葉憲錫製造一粒眠之犯行，並有確切之證據得知「陳師父
-    」即為被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />，並非因葉憲錫之供述而查獲共犯陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />
+    」即為被告陳國，並非因葉憲錫之供述而查獲共犯陳國
     ，無從依毒品危害防制條例第17 條第1項之規定減輕其刑，
     認葉憲錫亦無理由，已如上述。惟原判決既有上開可議之處
     ，自應由本院將原判決關於葉憲錫共同製造第三級毒品及陳
-    國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />部分撤銷改判。
-三、爰審酌被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫明知一粒眠所含硝甲西泮成分係
+    國部分撤銷改判。
+三、爰審酌被告陳國、葉憲錫明知一粒眠所含硝甲西泮成分係
     屬毒品，足以戕害國人身心健康，僅因圖利而應「寶哥」之
     邀而以工廠生產方式大量製造一粒眠，製造數量龐大，倘流
     入市面，將助長施用毒品惡習，危害社會治安程度甚鉅，兼
-    衡被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫之素行、犯罪動機、目的、生活狀況
-    、智識程度、被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />代「寶哥」購置機具原料並指導製
-    毒、被告葉憲錫實際從事製毒之犯罪情節、被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />因製
-    毒已獲利30萬元，及被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />上訴後否認犯行，避重就輕
+    衡被告陳國、葉憲錫之素行、犯罪動機、目的、生活狀況
+    、智識程度、被告陳國代「寶哥」購置機具原料並指導製
+    毒、被告葉憲錫實際從事製毒之犯罪情節、被告陳國因製
+    毒已獲利30萬元，及被告陳國上訴後否認犯行，避重就輕
     ，被告葉憲錫雖坦承犯行，但對有關「寶哥」之諸多問題，
     仍有所迴護之態度等一切情狀，分別量處如主文第2、3項所
-    示之刑，以示懲儆。至公訴意旨就被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫所為
+    示之刑，以示懲儆。至公訴意旨就被告陳國、葉憲錫所為
     犯罪事實一之犯行均具體求處有期徒刑12年，顯未斟酌被告
-    陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫於偵審中均自白可依法減輕其刑，認公訴人
+    陳國、葉憲錫於偵審中均自白可依法減輕其刑，認公訴人
     之求刑，核屬過重，以量處如主文所示第2、3項之刑為適當
     ，附此敘明。
 四、沒收部分：
@@ -578,7 +471,7 @@ function openwin(URL,arguments,width,height)
     、3、4-1、4-2、5-1至5-13、6、7、8、9、10、11-1至11-2
     、12、24-1至24-2所示之物則另含有第四級毒品二氮平成分
     ，均如前述，其內毒品皆屬違禁物，除取樣鑑驗用罄部分外
-    ，均應依刑法第38條第1項第1款規定，分別於被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、
+    ，均應依刑法第38條第1項第1款規定，分別於被告陳國、
     葉憲錫所犯各罪主文項下宣告沒收。
   (二)次按毒品危害防制條例第19條第1項固規定犯第4條之罪者，
     其供犯罪所用或因犯罪所得之財物應沒收，惟該條既未特別
@@ -597,15 +490,15 @@ function openwin(URL,arguments,width,height)
     、30、31、32、33、34、35、36-1至36-2、37、38、39所示
     之物，均為共犯「寶哥」出資所購，為供製造一粒眠所用之
     原料或機具，另扣案如附表二編號8 所示之NOKIA行動電話1
-    支，則為被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />所有，供與被告葉憲錫聯絡製毒所用，
-    業據被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫均供認在卷，並有上揭監聽譯文可
+    支，則為被告陳國所有，供與被告葉憲錫聯絡製毒所用，
+    業據被告陳國、葉憲錫均供認在卷，並有上揭監聽譯文可
     佐，依上開說明，均應依毒品危害防制條例第19條第1 項規
-    定，於被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫所犯製造第三級毒品罪主文項下
+    定，於被告陳國、葉憲錫所犯製造第三級毒品罪主文項下
     均宣告沒收。另搭配附表二編號8所示之NOKIA行動電話之門
-    號0000000000SIM卡1枚，乃被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />之妻王真香名義申辦
-    ，業據被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />供述在卷，並有通聯調閱查詢單附卷可參
+    號0000000000SIM卡1枚，乃被告陳國之妻王真香名義申辦
+    ，業據被告陳國供述在卷，並有通聯調閱查詢單附卷可參
     （見100年度警聲搜字第2365號卷第29 頁），復無證據可認
-    該SIM 卡為被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />名義申辦，不予宣告沒收。至扣案如
+    該SIM 卡為被告陳國名義申辦，不予宣告沒收。至扣案如
     附表一(二)所示之物，因係綽號「阿峰」之成年男子交給被告
     葉憲錫作為抵債之用，始為被告葉憲錫持有，業據其供述在
     卷，則附表一(二)所示之物顯與被告葉憲錫製造一粒眠犯行無
@@ -630,16 +523,16 @@ function openwin(URL,arguments,width,height)
     旨參照）。另按共同正犯，應對犯罪之全部事實負責，原判
     決既認上訴人等為共同正犯，則就所得財物應合併計算，全
     部追繳沒收，方為適法（最高法院64年度臺上字第2613號判
-    例參照）。查被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />因製造第三級毒品，受有共犯「寶
-    哥」給予30萬元報酬，業據被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />供承在卷，而被告葉
+    例參照）。查被告陳國因製造第三級毒品，受有共犯「寶
+    哥」給予30萬元報酬，業據被告陳國供承在卷，而被告葉
     憲錫則因尚未交付一粒眠成品予「寶哥」致尚未獲報酬，亦
-    據被告葉憲錫供承在卷，然被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、葉憲錫既為共同正
+    據被告葉憲錫供承在卷，然被告陳國、葉憲錫既為共同正
     犯，依上開說明，應依毒品危害防制條例第19條第1 項規定
     ，就製造毒品所得30萬元宣告連帶沒收，如全部或一部不能
     沒收時，以其等財產連帶抵償之。
-  (四)至扣案如附表二編號1至7、9、10 所示之物，被告陳國<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />雖
+  (四)至扣案如附表二編號1至7、9、10 所示之物，被告陳國雖
     均坦認為其所有，然附表編號9、10 所示之物，為被告陳國
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />購買製毒原料之證明，並非直接供其製造一粒眠所用，應
+    購買製毒原料之證明，並非直接供其製造一粒眠所用，應
     認係本案證據，非應沒收之物，至上開其餘物品，尚無證據
     證明與本案有關，因此該等扣案物爰不併予宣告沒收，末此
     敘明。
@@ -871,86 +764,12 @@ function openwin(URL,arguments,width,height)
 │9   │匯款單          │                │4張                 │
 ├──┼────────┼────────┼──────────┤
 │10  │新芳良化工出貨單│                │3張                 │
-└──┴────────┴────────┴──────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10109\06\TPHM10196.00T] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共200
-											筆 / 現在第66
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001662&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=65&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=67&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=200&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1662&jdate=1010906&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1662&jdate=1010906&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c1662%2c20120906%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','1662','1010906','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="66"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="馬在勤">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="馬在勤">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴────────┴────────┴──────────┘
+[*jrecno*]101,上訴,1662,20120906,2
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]上訴
+[*jno*]1662
+[*jdate*]1010906
+[*jcheck*]2

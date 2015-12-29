@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺南地方法院-刑-98訴895</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第12
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000895&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c895%2c20100413%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=895&jdate=990413&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c895%2c20100413%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=895&jdate=990413&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c895%2c20100413%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','895','990413','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,895</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">990413</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　 98年度訴字第895號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c895%2c20100413%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=895&jdate=990413&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000895&selectedCrtid=TND
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c895%2c20100413%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=895&jdate=990413&jcheck=1
+[*裁判字號*]98,訴,895
+[*裁判日期*]990413
+[*裁判案由*]詐欺
+[*裁判全文*]臺灣臺南地方法院刑事判決　　　　　　　 98年度訴字第895號
 公　訴　人　臺灣臺南地方法院檢察署檢察官
 被　　　告　Ｏ○○
 選任辯護人　許惠珠律師
@@ -120,7 +13,7 @@ function openwin(URL,arguments,width,height)
 裁定改依簡式審判程序審理，判決如下：
     主  文
 Ｏ○○犯如附表一編號一至六十六所示之罪，各處如附表一編號
-一至六十六所示之刑，應執行有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年。扣案如附表二編號
+一至六十六所示之刑，應執行有期徒刑年。扣案如附表二編號
 一至五所示之物，均沒收。
     事  實
 一、Ｏ○○（綽號凱哥、貓仔）、李鴻政（綽號小李，另案經本
@@ -226,7 +119,7 @@ function openwin(URL,arguments,width,height)
     、139 至140 、163 至182 頁、偵三卷第3 至10頁），復據
     證人即被害人戌○○、ｉ○○、ｑ○○、Ｖ○○、寅○○、
     ｃ○○、ｍ○○、辰○○、Ｇ○○、Ｗ○○、Ｈ○○、甲癸
-    ○、ｇ○○、酉○○、丑○○、ｂ○○、陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4FD2A0A00000040.GIF" />月、ｄ○○○
+    ○、ｇ○○、酉○○、丑○○、ｂ○○、陳月、ｄ○○○
     、Ｘ○○、巳○○、ｔ○○、未○○、黃拺、甲庚○、Ｓ○
     ○、甲子○、天○○、Ｂ○○、甲丑○、Ｕ○○、癸○○、
     壬○○、午○○、甲巳○、甲乙○、甲己○、ｒ○○○、ｗ
@@ -285,7 +178,7 @@ function openwin(URL,arguments,width,height)
     M 匯款單1 張及電子銀行申請書1 份、寅○○之匯款單3 張
     、ｇ○○之匯款單3 張、ｍ○○之匯款單2 張、ｂ○○之匯
     款單3 張、甲癸○之匯款單1 張、丑○○之匯款單7 張、戌
-    ○○之匯款單7 張、ｉ○○之匯款單4 張、陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4FD2A0A00000040.GIF" />月之匯款單
+    ○○之匯款單7 張、ｉ○○之匯款單4 張、陳月之匯款單
     2 張、Ｘ○○之匯款單4 張、酉○○之匯款單2 張、Ｈ○○
     之匯款單4 張、甲○○之匯款單18張、ｑ○○之匯款單1 張
     、Ｖ○○之匯款單2 張、ｗ○○之匯款單2 張、Ｓ○○之匯
@@ -314,7 +207,7 @@ function openwin(URL,arguments,width,height)
     、陳習強、田禮郎、朱芷鈴、洪博文、陳康輝、林聖勳、吳
     佳燕、林正嘉、陳富美、張翎、陳聰鑄、胡勝豪、吳育全、
     陳明宏、劉興業、蔡李龍、葉旺花、林國南、胡志忠、張正
-    忠、劉宇<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />、鐘煥文、郭秀鳳、黃健郎、田涵萱、王凱旋、
+    忠、劉宇、鐘煥文、郭秀鳳、黃健郎、田涵萱、王凱旋、
     張銀標、劉育民、徐小華、季采丰、施鎂鍠、吳黎陵、鐘靜
     怡、江孟宏、林靖智、楊永義、何政宇、崔晉瑞、黃信豪、
     楊嘉茹、卓貴媛、黃鈞印、李建治、楊玲芬、劉正吉、張東
@@ -330,8 +223,8 @@ function openwin(URL,arguments,width,height)
     林永芳、賀子娟、蔡清忠、王湧奇、翁秀子、謝政勳、唐勇
     安、陳崇祖、董克超、曾冠華、楊鎮昌、楊立宜、溫明德、
     謝錦源、黃孔亮、嚴桂英、陳鐘山、林峻億、邱智群、范焜
-    嵃、王培仰、葉亦軒、陳春余、陳鄒惠如、陳福興、<font color='red'>王淑芬
-    </font>、吳俊蔚、陳麒安、許志鴻、黃志仲、賴冠廷、黃建璋、劉
+    嵃、王培仰、葉亦軒、陳春余、陳鄒惠如、陳福興、王淑芬
+    、吳俊蔚、陳麒安、許志鴻、黃志仲、賴冠廷、黃建璋、劉
     哲瑄等人之金融機構開戶資料及帳戶交易明細表；網路拍賣
     網頁、線上交談紀錄、紅利點數明細查詢、AA0000000 支票
     及退票理由單、統瞬企業有限公司基本資料、奇摩拍賣網頁
@@ -738,7 +631,7 @@ function openwin(URL,arguments,width,height)
 │    │      │        │                  │帳號000-00000000000000號帳戶  │                          │
 │    │      │        │                  ├───────────────┤                          │
 │    │      │        │                  │於95年5月25日13時55分許，匯款3│                          │
-│    │      │        │                  │0,000元至劉宇<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3F12A0A00000040.GIF" />之新竹英明郵局 │                          │
+│    │      │        │                  │0,000元至劉宇之新竹英明郵局 │                          │
 │    │      │        │                  │帳號000-00000000000000號帳戶  │                          │
 │    │      │        │                  ├───────────────┤                          │
 │    │      │        │                  │於95年6月9日10時46分許，匯款18│                          │
@@ -771,8 +664,8 @@ function openwin(URL,arguments,width,height)
 │    │      │        │                  │-桃園6支局帳號00000000000000號│                          │
 │    │      │        │                  │帳戶                          │                          │
 │    ├───┼────┼─────────┼───────────────┤                          │
-│    │陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4FD2A0A00000040.GIF" />月│95年6月1│接獲一自稱古光明之│於95年6月12日13時21分許，匯款6│                          │
-│    │<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E17C2A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E17C2A0A00000040.GIF" />  │2日     │男子告知被害人中獎│3,000元至施鎂鍠之台中大坑口郵 │                          │
+│    │陳月│95年6月1│接獲一自稱古光明之│於95年6月12日13時21分許，匯款6│                          │
+│    │  │2日     │男子告知被害人中獎│3,000元至施鎂鍠之台中大坑口郵 │                          │
 │    │      │        │90萬元，惟須先繳款│局帳號000-00000000000000號帳戶│                          │
 │    │      │        │保證金及臨時性權利├───────────────┤                          │
 │    │      │        │認證金始能領獎，被│於95年6月12日16時32分許，匯款8│                          │
@@ -1032,7 +925,7 @@ function openwin(URL,arguments,width,height)
 │ 2  │甲乙○│95年7月2│上牙虎奇摩網站看到│於95年7月3日某時12時許，匯款89│Ｏ○○共同意圖為自己不法之│
 │    │      │日17時  │拍賣中國信託紅利點│,100元至洪博文之中國信託銀行帳│所有，以詐術使人將本人之物│
 │    │      │        │數之廣告，匯款給出│號000000000000號帳戶          │交付，處有期徒刑陸月，減為│
-│    │      │        │賣人後未收到點數始├───────────────┤有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案如附表二│
+│    │      │        │賣人後未收到點數始├───────────────┤有期徒刑月。扣案如附表二│
 │    │      │        │知受騙            │於95年7月3日某時許，匯款92,400│編號1至3所示之物，均沒收。│
 │    │      │        │                  │元至洪博文之中國信託銀行帳號  │                          │
 │    │      │        │                  │000000000000號帳戶            │                          │
@@ -1058,7 +951,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 5  │ｗ○○│95年7月3│接獲自稱妻子朋友來│於95年7月3日15時17分許，匯款30│Ｏ○○共同意圖為自己不法之│
 │    │      │日13時00│電，佯稱家裡急需用│,000元至林忠德之第一銀行雙和分│所有，以詐術使人將本人之物│
-│    │      │分      │錢，要求被害人匯款│行帳號000-00000000000號帳戶   │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │分      │錢，要求被害人匯款│行帳號000-00000000000號帳戶   │交付，處有期徒刑月，減為│
 │    │      │        │幫忙，被害人不疑有├───────────────┤有期徒刑壹月又拾伍日。扣案│
 │    │      │        │他匯款至指定帳戶  │於95年7月4日08時18分許，匯款70│如附表二編號1 至3 所示之物│
 │    │      │        │                  │,000元至張東煌之后里義里郵局帳│，均沒收。                │
@@ -1076,7 +969,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 7  │Ｍ○○│95年7月5│聲稱抽中獎金港幣25│於95年7月5日某時許，匯款8,600 │Ｏ○○共同意圖為自己不法之│
 │    │      │日      │萬元，需先匯保證金│元至吳俊蔚之台北國際商業銀行東│所有，以詐術使人將本人之物│
-│    │      │        │                  │湖分行帳號0000000000000號帳戶 │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │                  │湖分行帳號0000000000000號帳戶 │交付，處有期徒刑月，減為│
 │    │      │        │                  │                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至3 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1091,14 +984,14 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 9  │乙○○│95年7月5│接獲自稱是其表妹之│於95年7月5日17時34分許，匯款20│Ｏ○○共同意圖為自己不法之│
 │    │      │日      │人來電借錢，被害人│,000元至謝錦源之苗栗福興郵局帳│所有，以詐術使人將本人之物│
-│    │      │        │匯款予對方，經過相│號000-00000000000000號帳戶    │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │匯款予對方，經過相│號000-00000000000000號帳戶    │交付，處有期徒刑月，減為│
 │    │      │        │當時間未見對方還錢│                              │有期徒刑壹月又拾伍日月。扣│
 │    │      │        │始知受騙          │                              │案如附表二編號1 至3 所示之│
 │    │      │        │                  │                              │物，均沒收。              │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 10 │Ｄ○○│95年7月6│被害人網路購買虛擬│於95年7月6日17時20分許，匯款2,│Ｏ○○共同意圖為自己不法之│
 │    │      │日      │寶物，匯款後始知遭│000元至鄭凱瑋之三重市郵局五常 │所有，以詐術使人將本人之物│
-│    │      │        │詐騙              │分局帳號000-00000000000000號帳│交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │詐騙              │分局帳號000-00000000000000號帳│交付，處有期徒刑月，減為│
 │    │      │        │                  │戶                            │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  ├───────────────┤如附表二編號1 至3 所示之物│
 │    │      │        │                  │於95年7月6日17時29分許，匯款7,│，均沒收。                │
@@ -1115,7 +1008,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 12 │戊○○│95年7月7│被害人與人網路對談│於95年7月7日15時12分許，匯款8,│Ｏ○○共同意圖為自己不法之│
 │    │      │日14時30│約定伴遊，對方要求│088元至林宇潔之新竹國際商銀永 │所有，以詐術使人將本人之物│
-│    │      │分許    │被害人使用ATM轉帳 │安分行帳號000-00000000000號帳 │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │分許    │被害人使用ATM轉帳 │安分行帳號000-00000000000號帳 │交付，處有期徒刑月，減為│
 │    │      │        │伴遊費用3000元    │戶                            │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至3 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1169,7 +1062,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 15 │Ｌ○○│95年7月1│詐欺集團打電話告知│於95年7月11日09時29分許，匯款1│Ｏ○○共同意圖為自己不法之│
 │    │      │1日     │被害人中獎，要求被│0,000元至王幸雄之台北市士林芝 │所有，以詐術使人將本人之物│
-│    │      │        │害人匯款愛心基金款│山郵局帳號00000000000000號帳戶│交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │害人匯款愛心基金款│山郵局帳號00000000000000號帳戶│交付，處有期徒刑月，減為│
 │    │      │        │項                │                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至3 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1374,7 +1267,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 23 │ｌ○○│95年7月4│接獲簡訊佯稱中獎（│於95年7月14日14時22分許，匯款3│Ｏ○○共同意圖為自己不法之│
 │    │      │日10時30│香港賽馬協會貳獎）│0,000元至白純綺之南瑤分局帳號 │所有，以詐術使人將本人之物│
-│    │      │分許    │被害人依照簡訊指示│00000000000000號帳戶          │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │分許    │被害人依照簡訊指示│00000000000000號帳戶          │交付，處有期徒刑月，減為│
 │    │      │        │付款至指定帳戶    │                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至3 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1382,7 +1275,7 @@ function openwin(URL,arguments,width,height)
 │ 24 │亥○○│95年6月1│被害人接獲自稱香港│於95年6月12日13時44分許，匯款6│Ｏ○○共同意圖為自己不法之│
 │    │      │2日9時許│永達電子公司電話佯│3,000元至朱素美之新莊郵局帳號 │所有，以詐術使人將本人之物│
 │    │      │        │稱被害人中獎得獎90│00000000000000號帳戶          │交付，處有期徒刑陸月，減為│
-│    │      │        │萬元，要求被害人繳├───────────────┤有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案如附表二│
+│    │      │        │萬元，要求被害人繳├───────────────┤有期徒刑月。扣案如附表二│
 │    │      │        │交保證金，被害人不│於95年6月15日12時11分許，匯款4│編號1 至3 所示之物，均沒收│
 │    │      │        │疑有他匯款至歹徒指│0,000元至陳麒安之板橋港尾郵局 │。                        │
 │    │      │        │定之帳戶          │帳號00000000000000號帳戶      │                          │
@@ -1401,7 +1294,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 25 │ｙ○○│95年7月2│歹徒以簡訊詐騙被害│於95年7月20日13時52分許，匯款2│Ｏ○○共同意圖為自己不法之│
 │    │      │0日12時 │人中獎，向被害人佯│6,800元至之賀子娟內壢郵局帳號7│所有，以詐術使人將本人之物│
-│    │      │許      │稱可得二十五萬港幣│00-00000000000000號帳戶       │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │許      │稱可得二十五萬港幣│00-00000000000000號帳戶       │交付，處有期徒刑月，減為│
 │    │      │        │獎金，被害人不疑有│                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │他依照歹徒指示繳交│                              │如附表二編號1 至3 所示之物│
 │    │      │        │相關律師費，匯款至│                              │，均沒收。                │
@@ -1575,15 +1468,15 @@ function openwin(URL,arguments,width,height)
 │    │      │        │                  │00000000000000號帳戶          │                          │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 37 │Ｉ○  │95年7月3│謊稱其兒子遭綁架，│於95年7 月30日22時01分許，匯款│Ｏ○○共同意圖為自己不法之│
-│    │      │0日17時 │要求付贖金18萬元  │50,000元至<font color='red'>王淑芬</font>之台北富邦中正│所有，以詐術使人將本人之物│
+│    │      │0日17時 │要求付贖金18萬元  │50,000元至王淑芬之台北富邦中正│所有，以詐術使人將本人之物│
 │    │      │        │                  │分行帳號000-000000000000號帳戶│交付，處有期徒刑伍月，減為│
 │    │      │        │                  ├───────────────┤有期徒刑貳月又拾伍日。扣案│
 │    │      │        │                  │於95年7 月30日22時35分許，匯款│如附表二編號1 至4 所示之物│
-│    │      │        │                  │50,000元至<font color='red'>王淑芬</font>之台北富邦中正│，均沒收。                │
+│    │      │        │                  │50,000元至王淑芬之台北富邦中正│，均沒收。                │
 │    │      │        │                  │分行帳號000-000000000000號帳戶│                          │
 │    │      │        │                  ├───────────────┤                          │
 │    │      │        │                  │於95年7 月30日23時09分許，匯款│                          │
-│    │      │        │                  │20,000元至<font color='red'>王淑芬</font>之台北富邦中正│                          │
+│    │      │        │                  │20,000元至王淑芬之台北富邦中正│                          │
 │    │      │        │                  │分行帳號000-000000000000號帳戶│                          │
 │    │      │        │                  ├───────────────┤                          │
 │    │      │        │                  │於95年7月31日0時08分許，匯款29│                          │
@@ -1651,7 +1544,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 43 │ａ○○│95年8月2│被害人在家上網找援│於95年8月2日22時42分許，匯款14│Ｏ○○共同意圖為自己不法之│
 │    │      │日      │交，匯款時對方稱被│,000元至魏廷峰之台北富邦銀行松│所有，以詐術使人將本人之物│
-│    │      │        │害人操作不當弄壞對│山分行帳號000000000000號帳戶  │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │害人操作不當弄壞對│山分行帳號000000000000號帳戶  │交付，處有期徒刑月，減為│
 │    │      │        │方之系統，要求巨額│                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │賠償              │                              │如附表二編號1 至5 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1659,7 +1552,7 @@ function openwin(URL,arguments,width,height)
 │ 44 │蔡婉婷│95年7月2│詐騙集團以電話通知│於95年7月20日15時00分許，匯款4│Ｏ○○共同意圖為自己不法之│
 │    │      │0日     │中獎，要求被害人匯│00,000元至林毅名之合作金庫新莊│所有，以詐術使人將本人之物│
 │    │      │        │款印花稅、加注金  │分行帳號000-0000000000000號帳 │交付，處有期徒刑陸月，減為│
-│    │      │        │                  │戶                            │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案如附表二│
+│    │      │        │                  │戶                            │有期徒刑月。扣案如附表二│
 │    │      │        │                  ├───────────────┤編號1 至4 所示之物，均沒收│
 │    │      │        │                  │於95年7月21日某時許，匯款59,19│。                        │
 │    │      │        │                  │8元至林毅名之合作金庫新莊分行 │                          │
@@ -1711,7 +1604,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 46 │甲丁○│95年8月4│接獲自稱為其朋友張│於95年8月4日14時21分許，匯款20│Ｏ○○共同意圖為自己不法之│
 │    │      │日14時許│玉玲之電話，稱最近│,000元至張勝達之中華郵政瑞芳郵│所有，以詐術使人將本人之物│
-│    │      │        │急需一筆週轉金，便│局帳號00000000000000號帳戶    │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │急需一筆週轉金，便│局帳號00000000000000號帳戶    │交付，處有期徒刑月，減為│
 │    │      │        │匯款至對方所指定之├───────────────┤有期徒刑壹月又拾伍日。扣案│
 │    │      │        │帳號內            │於95年8月4日15時02分許，匯款6,│如附表二編號1 至5 所示之物│
 │    │      │        │                  │000元至張勝達之中華郵政瑞芳郵 │，均沒收。                │
@@ -1740,21 +1633,21 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 48 │Ｒ○○│95年8月3│接獲一自稱「公小姐│於95年8月5日09時53分許，匯款30│Ｏ○○共同意圖為自己不法之│
 │    │      │日9時許 │」之協力廠商來電，│,000元至陳東熙之華南銀行帳號  │所有，以詐術使人將本人之物│
-│    │      │        │佯稱需要用錢，被害│000000000000號帳戶            │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │佯稱需要用錢，被害│000000000000號帳戶            │交付，處有期徒刑月，減為│
 │    │      │        │人不疑有他匯款三萬│                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │元至指定帳戶      │                              │如附表二編號1 至5 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 49 │丁○○│95年8月4│網路購物，匯款後卻│於95年8月7日10時許，匯款9,500 │Ｏ○○共同意圖為自己不法之│
 │    │      │日23時00│未收到貨品始知受騙│元至謝國賓之華南銀行板橋分行帳│所有，以詐術使人將本人之物│
-│    │      │分      │                  │號000000000000000號帳戶       │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │分      │                  │號000000000000000號帳戶       │交付，處有期徒刑月，減為│
 │    │      │        │                  │                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至5 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 50 │ｕ○○│95年8月9│被害人接獲不明人士│於95年8月9日某時許，匯款10,000│Ｏ○○共同意圖為自己不法之│
 │    │      │日11時00│自稱其小姑林美妙來│元至周鳳中之聯邦銀行龍潭分行帳│所有，以詐術使人將本人之物│
-│    │      │分      │電，佯稱急需用錢，│號000-000000000000號帳戶      │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │分      │電，佯稱急需用錢，│號000-000000000000號帳戶      │交付，處有期徒刑月，減為│
 │    │      │        │被害人不疑有他依指│                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │示匯款至指定帳戶，│                              │如附表二編號1 至5 所示之物│
 │    │      │        │後被害人打電話給其│                              │，均沒收。                │
@@ -1762,28 +1655,28 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 51 │ｅ○○│95年8月9│接獲不明語音來電，│於95年8月9日12時38分許，匯款70│Ｏ○○共同意圖為自己不法之│
 │    │      │日10時30│稱是台北地檢署將其│,000元至彭健明之土地銀行西三重│所有，以詐術使人將本人之物│
-│    │      │分      │列為被告，為要監控│分行帳號000000000000號帳戶    │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │分      │列為被告，為要監控│分行帳號000000000000號帳戶    │交付，處有期徒刑月，減為│
 │    │      │        │其帳戶，需將      │                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │000000000000設為約│                              │如附表二編號1 至5 所示之物│
 │    │      │        │定轉帳帳戶        │                              │，均沒收。                │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 52 │張明玲│95年8月9│被害人接獲一自稱為│於95年8月9日15時30分許，匯款20│Ｏ○○共同意圖為自己不法之│
 │    │      │日      │其兄女友之女子來電│,000元至周鳳中之聯邦銀行龍潭分│所有，以詐術使人將本人之物│
-│    │      │        │，請求被害人匯款。│行帳號000-000000000000號帳戶  │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │，請求被害人匯款。│行帳號000-000000000000號帳戶  │交付，處有期徒刑月，減為│
 │    │      │        │被害人不疑有他依照│                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │歹徒指示匯款至指定│                              │如附表二編號1 至5 所示之物│
 │    │      │        │帳戶後始知受騙上當│                              │，均沒收。                │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 53 │甲丙○│95年8月9│某女以0000000000電│於95年8月9日19時41分許，匯款2,│Ｏ○○共同意圖為自己不法之│
 │    │      │日19時許│話與被害人連絡，稱│000元至簡志銘之三重郵局五常分 │所有，以詐術使人將本人之物│
-│    │      │        │欲網路購物，使被害│局帳號000-00000000000000號帳戶│交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │欲網路購物，使被害│局帳號000-00000000000000號帳戶│交付，處有期徒刑月，減為│
 │    │      │        │人以ATM轉帳       │                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至5 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 54 │甲甲○│95年8月1│歹徒致電給被害人佯│於95年8月10日11時15分許，匯款2│Ｏ○○共同意圖為自己不法之│
 │    │      │0日11時1│稱為被害人之妹，並│0,000元至劉連城之國泰世華銀行 │所有，以詐術使人將本人之物│
-│    │      │0分許   │聲稱急需用錢要求被│文心分行帳號000-000000000000號│交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │0分許   │聲稱急需用錢要求被│文心分行帳號000-000000000000號│交付，處有期徒刑月，減為│
 │    │      │        │害人匯款，被害人不│帳戶                          │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │疑有他便依照歹徒指│                              │如附表二編號1 至5 所示之物│
 │    │      │        │示匯款至指定帳戶  │                              │，均沒收。                │
@@ -1798,7 +1691,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 56 │Ｙ○○│95年8月1│接獲歹徒假冒友人來│於95年8月15日14時29分，匯款5,0│Ｏ○○共同意圖為自己不法之│
 │    │      │5日14時 │電借錢，被害人不疑│00元至陳國轅之彰化銀行樹林分行│所有，以詐術使人將本人之物│
-│    │      │許      │有他匯款至歹徒指定│帳號000-00000000000000號帳戶  │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │許      │有他匯款至歹徒指定│帳號000-00000000000000號帳戶  │交付，處有期徒刑月，減為│
 │    │      │        │帳戶              │                              │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至5 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1806,13 +1699,13 @@ function openwin(URL,arguments,width,height)
 │ 57 │庚○○│95年8月1│謊稱綁架被害人之兒│於95年8月15日16時20分許，匯款3│Ｏ○○共同意圖為自己不法之│
 │    │      │5日16時1│子，要求付贖金始放│00,000元至林若環之竹東鎮下公館│所有，以詐術使人將本人之物│
 │    │      │0分     │人                │郵局帳號00000000000000號帳戶  │交付，處有期徒刑陸月，減為│
-│    │      │        │                  │                              │有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月。扣案如附表二│
+│    │      │        │                  │                              │有期徒刑月。扣案如附表二│
 │    │      │        │                  │                              │編號1 至5 所示之物，均沒收│
 │    │      │        │                  │                              │。                        │
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 58 │甲辰○│95年8月1│網路購買天幣，匯款│於95年8月15日19時22分許，匯款2│Ｏ○○共同意圖為自己不法之│
 │    │      │5日     │後未收到貨物始知受│,000元至黃欽城之中華郵政總局新│所有，以詐術使人將本人之物│
-│    │      │        │騙                │竹光華郵局帳號000-000000000000│交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │        │騙                │竹光華郵局帳號000-000000000000│交付，處有期徒刑月，減為│
 │    │      │        │                  │75號帳戶                      │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │                  │                              │如附表二編號1 至5 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1847,7 +1740,7 @@ function openwin(URL,arguments,width,height)
 ├──┼───┼────┼─────────┼───────────────┼─────────────┤
 │ 61 │ｋ○○│95年8月1│被害人接獲一冒稱其│於95年8月23日14時07分許，匯款3│Ｏ○○共同意圖為自己不法之│
 │    │      │3日13時3│上司林芳美者來電，│0,000元至柯智祥之合作金庫沙鹿 │所有，以詐術使人將本人之物│
-│    │      │0分     │佯稱其父親急需用錢│分行帳號000-0000000000000號帳 │交付，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，減為│
+│    │      │0分     │佯稱其父親急需用錢│分行帳號000-0000000000000號帳 │交付，處有期徒刑月，減為│
 │    │      │        │，被害人不疑有他匯│戶                            │有期徒刑壹月又拾伍日。扣案│
 │    │      │        │款至指定帳戶      │                              │如附表二編號1 至5 所示之物│
 │    │      │        │                  │                              │，均沒收。                │
@@ -1930,86 +1823,12 @@ function openwin(URL,arguments,width,height)
 │    │      │：0000000000、0000000000、0000000000、    │
 │    │      │0000000000號，序號各為：000000000000000、 │
 │    │      │00000000000000000、000000000000000號、無）│
-└──┴───┴─────────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\Judday\OK\LAWTND\CRIMINAL\9904\13\TNDM994D.01C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第12
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000895&selectedCrtid=TND','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%b7%91%e8%8a%ac&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%b7%91%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c895%2c20100413%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=895&jdate=990413&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c895%2c20100413%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=895&jdate=990413&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c895%2c20100413%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','895','990413','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="12"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王淑芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王淑芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───┴─────────────────────┘
+[*jrecno*]98,訴,895,20100413,1
+[*v_court*]TND 臺灣臺南地方法院
+[*v_sys*]M
+[*jyear*]98
+[*jcase*]訴
+[*jno*]895
+[*jdate*]990413
+[*jcheck*]1

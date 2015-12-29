@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-101訴371</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共24
-											筆 / 現在第8
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000371&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=24&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c371%2c20120612%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=371&jdate=1010612&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c371%2c20120612%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=371&jdate=1010612&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c371%2c20120612%2c2','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','371','1010612','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,371</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010612</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　　　　101年度訴字第371號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c371%2c20120612%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=371&jdate=1010612&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000371&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c371%2c20120612%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=371&jdate=1010612&jcheck=2
+[*裁判字號*]101,訴,371
+[*裁判日期*]1010612
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　　　　101年度訴字第371號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　鐘正一
 　　　　　　現另案在法務部矯正署臺中監獄臺中分監執行中
@@ -261,7 +154,7 @@ function openwin(URL,arguments,width,height)
     交易。由蘇尉隆駕駛自用小客車搭載湯雅玲至約定地點，再
     由湯雅玲在副駕駛座上當場交付現金3000元予鐘正一，鐘正
     一則販售而交付1包海洛因予湯雅玲。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />、湯雅玲於100年12月11日18時57分許，以陳繼業所持用門號
+、湯雅玲於100年12月11日18時57分許，以陳繼業所持用門號
     0000000000號行動電話撥打予鐘正一所持用門號0000000000
     號行動電話，聯絡其與蘇尉隆、陳繼業欲共同合資向鐘正一
     購買第一級毒品海洛因事宜。雙方約定在臺中市○○區○○
@@ -269,14 +162,14 @@ function openwin(URL,arguments,width,height)
     玲及陳繼業至約定地點，再由湯雅玲在副駕駛座上當場交付
     現金3000元予鐘正一，鐘正一則販售而交付1包海洛因予湯
     雅玲。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />、湯雅玲於100年12月11日21時53分許，以0000000000號公共
+、湯雅玲於100年12月11日21時53分許，以0000000000號公共
     電話撥打予鐘正一所持用門號0000000000號行動電話，聯絡
     其與蘇尉隆欲共同合資向鐘正一購買第一級毒品海洛因事宜
     。雙方約定在臺中市○○區○○路與軍福十九街口交易，由
     蘇尉隆駕駛自用小客車搭載湯雅玲至約定地點，再由湯雅玲
     在副駕駛座上當場交付現金3000元予鐘正一，鐘正一則販售
     而交付1包海洛因予湯雅玲。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />、湯雅玲於100年12月12日14時23分許，以門號0000000000號
+、湯雅玲於100年12月12日14時23分許，以門號0000000000號
     行動電話撥打予鐘正一所持用門號0000000000號行動電話，
     聯絡其與蘇尉隆、陳繼業欲共同合資向鐘正一購買第一級毒
     品海洛因事宜。雙方約定在臺中市○○區○○路與軍福十九
@@ -287,20 +180,20 @@ function openwin(URL,arguments,width,height)
 三、鐘正一明知海洛因係屬毒品危害防制條例第2條第2項第1款
     所列管之第一級毒品，不得非法持有、轉讓；竟分別基於轉
     讓第一級毒品海洛因之犯意，為下列之行為：
-(一)、於100年11月1日，在其與<font color='red'>蔡慧玲</font>同住位於臺中市○○區○○
+(一)、於100年11月1日，在其與蔡慧玲同住位於臺中市○○區○○
     街777號3樓307室之租屋處，無償轉讓約可摻入2支香菸內施
-    用之海洛因予<font color='red'>蔡慧玲</font>1次。
-(二)、於100年11月5日或6日，在其與<font color='red'>蔡慧玲</font>同住位於上址租屋處
-    ，無償轉讓約可摻入2支香菸內施用之海洛因予<font color='red'>蔡慧玲</font>1次。
-(三)、於100年11月11日，在其與<font color='red'>蔡慧玲</font>同住位於上址租屋處，無
-    償轉讓約可摻入2支香菸內施用之海洛因予<font color='red'>蔡慧玲</font>1次。
-(四)、於100年11月底某日，在其與<font color='red'>蔡慧玲</font>同住位於上址租屋處，
-    無償轉讓約可摻入2支香菸內施用之海洛因予<font color='red'>蔡慧玲</font>1次。
-(五)、於100年12月12日，在其與<font color='red'>蔡慧玲</font>同住位於上址租屋處，無
-    償轉讓約可摻入2支香菸內施用之海洛因予<font color='red'>蔡慧玲</font>1次。
+    用之海洛因予蔡慧玲1次。
+(二)、於100年11月5日或6日，在其與蔡慧玲同住位於上址租屋處
+    ，無償轉讓約可摻入2支香菸內施用之海洛因予蔡慧玲1次。
+(三)、於100年11月11日，在其與蔡慧玲同住位於上址租屋處，無
+    償轉讓約可摻入2支香菸內施用之海洛因予蔡慧玲1次。
+(四)、於100年11月底某日，在其與蔡慧玲同住位於上址租屋處，
+    無償轉讓約可摻入2支香菸內施用之海洛因予蔡慧玲1次。
+(五)、於100年12月12日，在其與蔡慧玲同住位於上址租屋處，無
+    償轉讓約可摻入2支香菸內施用之海洛因予蔡慧玲1次。
 四、嗣經警於100年12月12日22時30分許，在臺中市○○區○○
     路777號1樓查獲因另案遭通緝之鐘正一，並持本院核發之搜
-    索票，在同上址3樓307室鐘正一與<font color='red'>蔡慧玲</font>同住之租屋處，查
+    索票，在同上址3樓307室鐘正一與蔡慧玲同住之租屋處，查
     獲海洛因7包（驗餘淨重合計1.4652公克）、行動電話（含
     門號0000000000號SIM卡）1支、電子磅秤1個、現金50000元
     。
@@ -332,7 +225,7 @@ function openwin(URL,arguments,width,height)
     過程及其功能等加以觀察其信用性，據以判斷該項陳述是否
     有顯不可信之情況，並非對其陳述內容之證明力如何加以論
     斷（最高法院94年度臺上字第629號判決意旨參照）。經查
-    ，本案證人陳文祥、王茗富、湯雅玲、<font color='red'>蔡慧玲</font>、蘇尉隆、陳
+    ，本案證人陳文祥、王茗富、湯雅玲、蔡慧玲、蘇尉隆、陳
     繼業等人於檢察官偵訊時所為證述，均經依法具結，以擔保
     其陳述之真實性，而檢察官於訊問上開證人前均告知得拒絕
     證言之權利，證人陳文祥等人就檢察官之問題均以連續陳述
@@ -354,7 +247,7 @@ function openwin(URL,arguments,width,height)
     法同法第159條之1至第159條之4規定始適用（臺灣高等法院
     暨所屬法院96年法律座談會刑事類提案第26號研討結果參照
     ）。經查，本案證人陳文祥、王茗富、湯雅玲、蘇尉隆、陳
-    繼業、<font color='red'>蔡慧玲</font>等人於警詢之陳述，固屬傳聞證據，然上開人
+    繼業、蔡慧玲等人於警詢之陳述，固屬傳聞證據，然上開人
     等之警詢陳述，業經本院於準備程序及審判期日時予以提示
     並告以要旨，而經公訴人、被告及其辯護人均表示沒有意見
     ，且迄至本院言詞辯論終結前均未聲明異議。本院審酌上開
@@ -445,9 +338,9 @@ function openwin(URL,arguments,width,height)
     調查程序，故應認均有證據能力。
 二、認定犯罪事實所憑證據及理由：
   (一)訊據被告鐘正一對於犯罪事實欄二(一)～(四)、(七)～(九)、(十二)、(十四)
-    ～<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />及犯罪事實欄三(一)～(五)所示犯罪事實迭於偵查及本院審
-    理中坦承不諱，核與證人陳文祥、王茗富、湯雅玲及<font color='red'>蔡慧玲
-    </font>於警詢、偵訊證述，及證人蘇尉隆、陳繼業等人於警詢、偵
+    ～及犯罪事實欄三(一)～(五)所示犯罪事實迭於偵查及本院審
+    理中坦承不諱，核與證人陳文祥、王茗富、湯雅玲及蔡慧玲
+    於警詢、偵訊證述，及證人蘇尉隆、陳繼業等人於警詢、偵
     訊證述情節相符，復有本院核發之100年度聲監字第1522號
     、100年度聲監續字第1480號、100年度聲監字第1297號通訊
     監察書及門號0000000000號、00 00000 000號行動電話通訊
@@ -608,7 +501,7 @@ function openwin(URL,arguments,width,height)
   (一)按海洛因係毒品危害防制條例第2條第2項第1款依毒品成癮
     性、濫用性及對社會危害性分級管制之第一級毒品，不得非
     法持有、轉讓及販賣。是被告鐘正一關於犯罪事實欄二(一)～
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />所為，核均係犯毒品危害防制條例第4條第1項之販賣第一
+    所為，核均係犯毒品危害防制條例第4條第1項之販賣第一
     級毒品罪。被告鐘正一關於犯罪事實欄三(一)～(五)所為，核均
     係犯毒品危害防制條例第8條第1項之轉讓第一級毒品罪。被
     告因販賣或轉讓而持有第一級毒品之低度行為應為其販賣或
@@ -715,7 +608,7 @@ function openwin(URL,arguments,width,height)
     留，應整體視為第一級毒品），係被告鐘正一本案販賣第一
     級毒品所剩餘之毒品，業據被告鐘正一於本院審理中供述明
     確（見本院卷第189頁背面），依上開說明，自應依毒品危
-    害防制條例第18條第1項前段規定，於犯罪事實欄二<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />所示
+    害防制條例第18條第1項前段規定，於犯罪事實欄二所示
     之販賣第一級毒品罪科刑項下諭知沒收銷燬之。至於鑑驗耗
     損之第一級毒品海洛因業已滅失，則無庸為沒收銷燬之諭知
     ，附此敘明。
@@ -888,7 +781,7 @@ function openwin(URL,arguments,width,height)
 │ 一 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(一)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 二 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑捌年。扣│
@@ -900,7 +793,7 @@ function openwin(URL,arguments,width,height)
 │ 三 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(三)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 四 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年柒月│
@@ -918,7 +811,7 @@ function openwin(URL,arguments,width,height)
 │ 六 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(六)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 七 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年柒月│
@@ -948,12 +841,12 @@ function openwin(URL,arguments,width,height)
 │ 十一 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(十一)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 十二 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │            │。扣案之電子磅秤壹個沒收；未扣案販賣毒品所得新│
-│    │            │臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產│
+│    │            │臺幣仟元沒收，如全部或一部不能沒收，以其財產│
 │    │            │抵償之。                                      │
 │    │            │                                              │
 ├──┼──────┼───────────────────────┤
@@ -966,81 +859,81 @@ function openwin(URL,arguments,width,height)
 │ 十四 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(十四)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 十五 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(十五)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 十六 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(十六)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 十七 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(十七)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 十八 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(十八)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 十九 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(十九)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
 │ 二十 │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
 │    │二、(二十)所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F69C2A0A00000040.GIF" /> │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
-│    │二、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
+│  │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
+│    │二、所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F69B2A0A00000040.GIF" /> │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
-│    │二、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
+│  │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
+│    │二、所示  │。扣案之行動電話壹支（含門號0000000000號SIM卡 │
 │    │            │）、電子磅秤壹個均沒收；未扣案販賣毒品所得新臺│
-│    │            │幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元沒收，如全部或一部不能沒收，以其財產抵│
+│    │            │幣仟元沒收，如全部或一部不能沒收，以其財產抵│
 │    │            │償之。                                        │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F69A2A0A00000040.GIF" /> │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
-│    │二、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />所示  │。扣案之第一級毒品海洛因柒包（均含包裝袋，驗餘│
+│  │如犯罪事實欄│鐘正一販賣第一級毒品，累犯，處有期徒刑柒年捌月│
+│    │二、所示  │。扣案之第一級毒品海洛因柒包（均含包裝袋，驗餘│
 │    │            │淨重合計壹點肆陸伍貳公克）均沒收銷燬之，扣案之│
 │    │            │行動電話壹支（含門號0000000000號SIM卡）、電子 │
-│    │            │磅秤壹個均沒收；未扣案販賣毒品所得新臺幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />仟元│
+│    │            │磅秤壹個均沒收；未扣案販賣毒品所得新臺幣仟元│
 │    │            │沒收，如全部或一部不能沒收，以其財產抵償之。  │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6992A0A00000040.GIF" /> │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
+│  │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
 │    │三、(一)所示  │                                              │
 │    │            │                                              │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6982A0A00000040.GIF" /> │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
+│  │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
 │    │三、(二)所示  │                                              │
 │    │            │                                              │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6972A0A00000040.GIF" /> │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
+│  │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
 │    │三、(三)所示  │                                              │
 │    │            │                                              │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6962A0A00000040.GIF" /> │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
+│  │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
 │    │三、(四)所示  │                                              │
 │    │            │                                              │
 ├──┼──────┼───────────────────────┤
-│ <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6952A0A00000040.GIF" /> │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
+│  │如犯罪事實欄│鐘正一轉讓第一級毒品，累犯，處有期徒刑捌月。  │
 │    │三、(五)所示  │                                              │
 │    │            │                                              │
 └──┴──────┴───────────────────────┘
@@ -1345,86 +1238,12 @@ function openwin(URL,arguments,width,height)
 │1206│正  一│受│吳俊賢│0000000000│A：喂                                 │
 │2000│      │  │      │          │B：喂，下來阿                         │
 │3  7│      │  │      │          │A：好                                 │
-└──┴───┴─┴───┴─────┴───────────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10106\12\TCDM1016C.006] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共24
-											筆 / 現在第8
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000371&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=24&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e8%94%a1%e6%85%a7%e7%8e%b2&sdate=&edate=&page=&searchkw=%e8%94%a1%e6%85%a7%e7%8e%b2&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c371%2c20120612%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=371&jdate=1010612&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c371%2c20120612%2c2&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=371&jdate=1010612&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c371%2c20120612%2c2','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','371','1010612','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="8"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="蔡慧玲">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="蔡慧玲">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───┴─┴───┴─────┴───────────────────┘
+[*jrecno*]101,訴,371,20120612,2
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]訴
+[*jno*]371
+[*jdate*]1010612
+[*jcheck*]2

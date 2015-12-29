@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-高雄分院-刑-103上易468</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ywHECHFlY/0CE9FgFOlXEeDSP3M=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 高雄分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000468&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=468&jdate=1030930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=468&jdate=1030930&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','468','1030930','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,上易,468</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030930</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇取財等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院高雄分院刑事判決　　　　103年度上易字第468號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=468&jdate=1030930&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000468&selectedCrtid=KSH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=468&jdate=1030930&jcheck=1
+[*裁判字號*]103,上易,468
+[*裁判日期*]1030930
+[*裁判案由*]恐嚇取財等
+[*裁判全文*]臺灣高等法院高雄分院刑事判決　　　　103年度上易字第468號
 上　訴　人　臺灣高雄地方法院檢察署檢察官
 上　訴　人
 即　被　告　黎榮發
@@ -125,15 +20,15 @@ function openwin(URL,arguments,width,height)
 選任辯護人　陳俊偉律師（法扶）
 被　　　告　林崇憲
 被　　　告　楊素琴
-被　　　告　<font color='red'>李岳峰
-</font>上列上訴人因被告恐嚇取財等案件，不服臺灣高雄地方法院103
+被　　　告　李岳峰
+上列上訴人因被告恐嚇取財等案件，不服臺灣高雄地方法院103
 年度訴字第39號中華民國103 年6 月5 日第一審判決（起訴案號
 ：臺灣高雄地方法院檢察署102 年度少連偵字第43號、102 年度
 少連偵字第21號、102 年度偵字第4389號），提起上訴，本院判
 決如下：
      主  文
-原判決關於黎榮發、張宗娥、潘清和、林崇憲、楊素琴、<font color='red'>李岳峰
-</font>部分均撤銷。
+原判決關於黎榮發、張宗娥、潘清和、林崇憲、楊素琴、李岳峰
+部分均撤銷。
 黎榮發犯如附表一編號一至三所示之罪，各處如附表一編號一至
 三所示之刑。得易科罰金部分，應執行有期徒刑壹年肆月，如易
 科罰金，以新臺幣壹仟元折算壹日。扣案如附表二編號1 至3 所
@@ -151,7 +46,7 @@ function openwin(URL,arguments,width,height)
 元折算壹日。扣案如附表二編號1 至3 所示之物沒收之。
 楊素琴幫助犯傷害罪，處拘役伍拾日，如易科罰金，以新臺幣壹
 仟元折算壹日。
-<font color='red'>李岳峰</font>共同犯毀損罪，處有期徒刑陸月，如易科罰金，以新臺幣
+李岳峰共同犯毀損罪，處有期徒刑陸月，如易科罰金，以新臺幣
 壹仟元折算壹日。
      事  實
 一、林崇憲於101 年間因違背安全駕駛罪，經原審法院於100 年
@@ -212,14 +107,14 @@ function openwin(URL,arguments,width,height)
     現金交付予潘清和簽收後，由潘清和轉交黎榮發，黎榮發並
     從中撥分2 萬元予潘清和花用。
 四、黎榮發雖自洪春發處取得6 萬元，仍不滿洪春發僅以6 萬元
-    打發此事，即與潘清和、<font color='red'>李岳峰</font>及十數名真實姓名年籍不詳
+    打發此事，即與潘清和、李岳峰及十數名真實姓名年籍不詳
     之成年男子，共同基於毀損之犯意聯絡，先由黎榮發於101
     年8 月26日晚間某時許至潘清和所開設、位在高雄市○○區
-    ○○路000 號前之「順口檳榔攤」，與潘清和、<font color='red'>李岳峰</font>謀議
+    ○○路000 號前之「順口檳榔攤」，與潘清和、李岳峰謀議
     、策劃找人至「四季紅小吃部」砸店之事後，於同日晚間11
-    時許，即推由潘清和駕駛自小客車，引領<font color='red'>李岳峰</font>及其他真實
+    時許，即推由潘清和駕駛自小客車，引領李岳峰及其他真實
     姓名年籍不詳之成年人十數名騎乘機車前往「四季紅小吃部
-    」，<font color='red'>李岳峰</font>等人則臉戴口罩，或持鐵棒、木棍下車砸毀該小
+    」，李岳峰等人則臉戴口罩，或持鐵棒、木棍下車砸毀該小
     吃部內之冷凍冰箱、門口招牌、大門玻璃及洪春發所有車號
     000-000 號機車車身等財物，或在旁助陣，足生損害於孫美
     紅、洪春發。
@@ -246,7 +141,7 @@ function openwin(URL,arguments,width,height)
     內容之證明力如何加以論斷，最高法院94年度台上字第629
     號判決、97年度台上字第6162號判決亦同此意旨。準此，被
     告黎榮發之選任辯護人雖爭執共同被告即證人潘清和、林崇
-    憲、<font color='red'>李岳峰</font>於警詢筆錄及證人孫美紅、洪春發於警詢筆錄證
+    憲、李岳峰於警詢筆錄及證人孫美紅、洪春發於警詢筆錄證
     據能力部分，然核上開證人於原審審理中經以證人身分傳喚
     到庭進行交互詰問時，並未爭執其等在警詢時所為證述，有
     何違反真意或以強暴、脅迫、誘導或其他不正方法等違法取
@@ -262,7 +157,7 @@ function openwin(URL,arguments,width,height)
     而證人如孫美紅、洪春發嗣後於原審審理中所為證述，或因
     時間久遠記憶不清而有若干不符之處，另證人即共同被告潘
     清和於審理時甚稱該時喝酒，均不知情云云，而證人即共同
-    被告林崇憲及<font color='red'>李岳峰</font>嗣後於審理中之證詞，亦顯有避重就輕
+    被告林崇憲及李岳峰嗣後於審理中之證詞，亦顯有避重就輕
     之處，且無法就此部分細節性事項供述詳盡，故本院亦無從
     再取得相同之供述內容，復此部分細節性之陳述係涉被告黎
     榮發有無本件犯罪之重要性事項，亦無其他證據證明上開證
@@ -274,8 +169,8 @@ function openwin(URL,arguments,width,height)
     著有規定。是被告以外之人前於偵查中已依法定程序而為證
     述，除反對該項供述得具有證據能力之一方，已釋明「顯有
     不可信之情況」之理由外，即不宜遽指該證人於偵查中之陳
-    述不具證據能力。經查共同被告即證人潘清和、林崇憲、<font color='red'>李
-    岳峰</font>等人、證人孫美紅、洪春發等2 人於偵查中之證述，均
+    述不具證據能力。經查共同被告即證人潘清和、林崇憲、李
+    岳峰等人、證人孫美紅、洪春發等2 人於偵查中之證述，均
     經檢察官依法令其等具結（結文見偵一卷第47、49、104、
     106頁、偵二卷第8頁），而被告黎榮發或其辯護人復未指出
     並證明各該證言有何顯不可信之情況，且無其他事證足資認
@@ -690,22 +585,22 @@ function openwin(URL,arguments,width,height)
       嚇取財之犯行，既有默示之犯意聯絡及行為分擔，業如前
       述，縱其未分得洪春發所交付之6 萬元，亦不影響其共同
       正犯之成立，此部分所辯自屬無據。
-參、被告黎榮發、潘清和、<font color='red'>李岳峰</font>（下稱黎榮發、潘清和、<font color='red'>李岳
-    峰</font>）於事實四所載之毀損犯行部分：
-一、就事實四所示之毀損犯行：潘清和、<font color='red'>李岳峰</font>坦承有隨眾人至
+參、被告黎榮發、潘清和、李岳峰（下稱黎榮發、潘清和、李岳
+    峰）於事實四所載之毀損犯行部分：
+一、就事實四所示之毀損犯行：潘清和、李岳峰坦承有隨眾人至
     「四季紅小吃部」去砸店；潘清和並於本院供述：101年8月
     26日黎榮發當天有坐我的車子去現場，是黎榮發叫我們去砸
     店。應該是黎榮發在檳榔攤抱怨四季小吃部發生事情，我就
-    開車搭載黎榮發過去小吃部附近，由我指明那個小吃部，<font color='red'>李
-    岳峰</font>就帶人過去砸店等情（見本院卷第117、120頁、168 頁
-    反面）。<font color='red'>李岳峰</font>則於本院供述：我與其他人有共同的犯意聯
+    開車搭載黎榮發過去小吃部附近，由我指明那個小吃部，李
+    岳峰就帶人過去砸店等情（見本院卷第117、120頁、168 頁
+    反面）。李岳峰則於本院供述：我與其他人有共同的犯意聯
     絡砸店等語（見本院卷第158頁）。
 二、訊據惟黎榮發則矢口否認有為前揭犯行，於原審及本院辯稱
     ：我完全不知此事，不知道當天小吃部為何會被砸店云云。
 三、經查：
 （一）黎榮發不滿僅自告訴人洪春發處索得6 萬元，遂與潘清和
-      、<font color='red'>李岳峰</font>事先於潘清和所開設之順口檳榔攤謀議、策畫以
-      砸店之舉報復後，推由潘清和、<font color='red'>李岳峰</font>帶眾人攜棍棒前去
+      、李岳峰事先於潘清和所開設之順口檳榔攤謀議、策畫以
+      砸店之舉報復後，推由潘清和、李岳峰帶眾人攜棍棒前去
       「四季紅小吃部」砸毀店內物品一節，業據證人即告訴人
       孫美紅於警詢、偵訊及原審審理時證稱：101年8月26日晚
       間11時許，我所經營之「四季紅小吃部」被十數個騎機車
@@ -721,11 +616,11 @@ function openwin(URL,arguments,width,height)
       000 號重機車、店內之冷凍庫、招牌及大門玻璃等物等語
       （見警一卷第201 頁、少家卷第78頁）。
 （三）證人即潘清和於警詢及偵訊時證稱：砸店這件事是黎榮發
-      指使的，他與我聯絡，叫我找人去砸店，我就叫<font color='red'>李岳峰</font>來
-      找我，<font color='red'>李岳峰</font>與黎榮發就在順口檳榔攤當面討論細節，黎
-      榮發要<font color='red'>李岳峰</font>找一群人去砸店等語（見警一卷第49至50頁
+      指使的，他與我聯絡，叫我找人去砸店，我就叫李岳峰來
+      找我，李岳峰與黎榮發就在順口檳榔攤當面討論細節，黎
+      榮發要李岳峰找一群人去砸店等語（見警一卷第49至50頁
       、偵一卷第15頁）。
-（四）證人即<font color='red'>李岳峰</font>於警詢、偵訊及原審審理時證述：
+（四）證人即李岳峰於警詢、偵訊及原審審理時證述：
       101年8月26日那天晚上潘清和打電話叫我過去順口檳榔攤
       ，我過去時除了黎榮發、潘清和外，還有一、二十個人在
       場，潘清和跟我說黎榮發喝酒與人吵架，要砸那家店，要
@@ -739,7 +634,7 @@ function openwin(URL,arguments,width,height)
       頁反面、原審卷二第66頁反面至69頁），並有現場毀損照
       片4張及監視器翻拍照片13張附卷可佐（見警一卷第215至
       216頁、警二卷第100頁至103頁反面）。
-（五）參證上述證人潘清和及<font color='red'>李岳峰</font>之證言，彼等2 人雖然對於
+（五）參證上述證人潘清和及李岳峰之證言，彼等2 人雖然對於
       黎榮發究竟係與何人策畫謀議率眾至「四季紅小吃部」砸
       店一事，互有出入，然此係因該部分涉及己之刑責，故其
       等多所規避而卸責予對方，自屬人情之常，惟就黎榮發係
@@ -747,16 +642,16 @@ function openwin(URL,arguments,width,height)
       本案之起源本肇因於洪春發、孫美紅夫妻與黎榮發、張宗
       娥間之衝突及誤會，而潘清和前雖涉及事實二、三之行為
       ，然均係隨黎榮發而為之，其本身與洪春發夫妻並無直接
-      仇隙，另<font color='red'>李岳峰</font>則未涉及事實二、三之犯行，且其本身同
+      仇隙，另李岳峰則未涉及事實二、三之犯行，且其本身同
       樣與洪春發夫妻過往亦無糾紛，是參酌上開歷程經過，彼
       等2 人前述所證砸店一事係黎榮發所出謀策畫等詞，應值
-      採信。況就<font color='red'>李岳峰</font>於原審及本院審理中業已自承其確實有
+      採信。況就李岳峰於原審及本院審理中業已自承其確實有
       於101年8月26日晚間11時許隨同前去「四季紅小吃部」，
       且亦知悉前去之目的即因黎榮發與對方有衝突而欲砸店洩
       憤等情，其有共同犯意聯絡為之等語（見原審卷二第79頁
       、本院卷第158 頁）；另潘清和亦於原審及本院審理時坦
       承有前述毀損犯行（見原審卷二第58頁、本院卷第158 頁
-      ），是<font color='red'>李岳峰</font>及潘清和2 人之任意性自白可認與事實相符
+      ），是李岳峰及潘清和2 人之任意性自白可認與事實相符
       ，並有前揭證據相佐，堪信屬實。
 （六）按犯罪之行為，係指發生刑法效果之意思活動而言；自其
       發展過程觀之，乃先有動機，而後決定犯意，進而預備、
@@ -777,14 +672,14 @@ function openwin(URL,arguments,width,height)
       查本件毀損案之前因係如前敘事實二、三所示黎榮發、張
       宗娥等人與告訴人洪春發、孫美紅夫妻間之口角誤會及後
       續引發之一連串傷害、恐嚇危安及恐嚇取財事件，而洪春
-      發夫妻與潘清和、<font color='red'>李岳峰</font>等人尚無直接之仇怨衝突，而砸
-      店一事，依證人潘清和、<font color='red'>李岳峰</font>之證詞交互參見，確屬黎
+      發夫妻與潘清和、李岳峰等人尚無直接之仇怨衝突，而砸
+      店一事，依證人潘清和、李岳峰之證詞交互參見，確屬黎
       榮發所倡議並與2 人同謀，業如前述，是依前揭說明，雖
       黎榮發未實際參與砸店之毀損行為，然其事先已參與犯罪
-      計畫之謀定，並推由潘清和、<font color='red'>李岳峰</font>等人實行毀損之構成
-      要件行為以完成其等犯罪計畫，而潘清和、<font color='red'>李岳峰</font>等人之
+      計畫之謀定，並推由潘清和、李岳峰等人實行毀損之構成
+      要件行為以完成其等犯罪計畫，而潘清和、李岳峰等人之
       毀損行為亦未脫離其等毀損之計畫範圍，自成立共謀之共
-      同正犯無疑。另就潘清和、<font color='red'>李岳峰</font>等人，彼等與黎榮發先
+      同正犯無疑。另就潘清和、李岳峰等人，彼等與黎榮發先
       於順口檳榔攤謀議砸店之毀損計畫，嗣與其他人一同前往
       「四季紅小吃部」並利用他人實行毀損之構成要件行為而
       遂行其等犯罪計畫，自亦成立毀損之共同正犯。黎榮發猶
@@ -819,7 +714,7 @@ function openwin(URL,arguments,width,height)
     為，均係犯刑法第346條第1項之恐嚇取財罪。被告3 人就上
     開犯行，與其他3 位真實姓名年籍不詳之成年男子有犯意聯
     絡及行為分擔，亦應論以共同正犯。
-三、事實四部分：核黎榮發、潘清和及<font color='red'>李岳峰</font>等3 人於事實四所
+三、事實四部分：核黎榮發、潘清和及李岳峰等3 人於事實四所
     為，均係犯刑法第354條之毀損罪。被告3人就就上開犯行，
     與十數名真實姓名年籍不詳之成年人，則屬有犯意聯絡、行
     為分擔或相互利用他人行為完成犯罪計畫，業如前述，應論
@@ -865,7 +760,7 @@ function openwin(URL,arguments,width,height)
       舊法之結果，修正刑法第50條之規定較有利於黎榮發、潘
       清、張宗娥，是依刑法第2條第1項但書規定，就上開3 人
       數罪併罰定應執行刑部分，適用修正後刑法第50條規定。
-陸、原審認黎榮發、張宗娥、潘清和、林崇憲、<font color='red'>李岳峰</font>、楊素琴
+陸、原審認黎榮發、張宗娥、潘清和、林崇憲、李岳峰、楊素琴
     等人，均事證明確，而予依法論科，固非無見；惟查：有
     關事實二部分，除黎榮發等人外，尚有7、8名真實姓名年籍
     不詳之成年人前往「四季紅小吃部」，且對在店內對孫美紅
@@ -881,8 +776,8 @@ function openwin(URL,arguments,width,height)
     者，尚有其他3 位真實姓名年籍不詳之成年男子一同參與恐
     嚇取財犯行（見原審判決書第15頁倒數第3 行），然於事實
     內則無記載，致理由失其依據，自屬違法。原判決就事實
-    四部分，事實內係認定黎榮發與潘清和、<font color='red'>李岳峰</font>謀議後，推
-    由潘清和駕駛自小客車，引領<font color='red'>李岳峰</font>及其他真實姓名年籍不
+    四部分，事實內係認定黎榮發與潘清和、李岳峰謀議後，推
+    由潘清和駕駛自小客車，引領李岳峰及其他真實姓名年籍不
     詳之成年人騎乘機車前往「四季紅小吃部」為上開毀損等情
     ，然理由內對於其他真實姓名年籍不詳之成年人亦屬共同正
     犯，並未於理由予以敘明，亦有理由不備之違誤，自有未洽
@@ -912,9 +807,9 @@ function openwin(URL,arguments,width,height)
     ，公然挑戰公權力；嗣告訴人洪春發在恐懼之下道歉求和，
     黎榮發、張宗娥與潘清和更藉此機會恐嚇告訴人洪春發而取
     得6 萬元之錢財，嗣仍不善罷甘休，再度由黎榮發邀同潘清
-    和、<font color='red'>李岳峰</font>及十數名真實姓名年籍不詳之人前往「四季紅小
+    和、李岳峰及十數名真實姓名年籍不詳之人前往「四季紅小
     吃部」砸店滋事，持鐵棒等器物毀損該店內物品，嚴重戕害
-    社會秩序，除潘清和、<font color='red'>李岳峰</font>、楊素琴外，其餘被告於偵審
+    社會秩序，除潘清和、李岳峰、楊素琴外，其餘被告於偵審
     過程猶仍矢口否認犯行，並無悔意，犯罪態度實屬不佳，且
     至今仍未與告訴人達成和解，賠償告訴人損失，楊素琴亦未
     取得告訴人原諒；再參之告訴人孫美紅、洪春發於本院供述
@@ -924,7 +819,7 @@ function openwin(URL,arguments,width,height)
     部分，僅分別量處有期徒刑3月、5月、4月、3月；所犯恐嚇
     危安部分，亦僅分別量處5月、3月、4月、3月。就黎榮發、
     張宗娥、潘清和所犯恐嚇取財部分，僅分別量處有期徒刑8
-    月、6月、7月。就黎榮發、潘清和、<font color='red'>李岳峰</font>所犯毀損部分，
+    月、6月、7月。就黎榮發、潘清和、李岳峰所犯毀損部分，
     僅分別量處4月、4月、3月。就楊素琴所犯上開幫助傷害部
     分，則僅量處拘役30日而已，自屬過輕，公訴人上訴以原審
     對上開被告等6 人量刑太輕，指摘原判決不當，非無理由。
@@ -940,7 +835,7 @@ function openwin(URL,arguments,width,height)
     簿上後始肯離開，毫無法紀，公然挑戰公權力。嗣在洪春發
     屈於恐懼之下道歉求和時得寸進尺，挾此機會要脅告訴人洪
     春發而取得不義之財，事後猶未善罷干休，再度謀畫推由潘
-    清和、<font color='red'>李岳峰</font>等人前往砸店，恣意妄為，毫無法律觀念，影
+    清和、李岳峰等人前往砸店，恣意妄為，毫無法律觀念，影
     響社會秩序安全甚鉅，為法所不容，迨至本院仍否認犯罪，
     並無悔意，態度不佳；其於事實二、三、四所示各犯行皆係
     主謀及策劃，對於告訴人孫美紅及洪春發更造成心理、身體
@@ -1006,7 +901,7 @@ function openwin(URL,arguments,width,height)
     ）；併審酌其國中畢業之智識程度、家境勉持之生活狀況等
     情狀（見警一卷第75頁），量處如主文所示之刑，並諭知以
     1千元折算1日之易科罰金折算標準。
-六、審酌<font color='red'>李岳峰</font>與告訴人洪春發、孫美紅本無仇怨，僅因黎榮發
+六、審酌李岳峰與告訴人洪春發、孫美紅本無仇怨，僅因黎榮發
     、潘清和之指示，即與十數眾人犯下如事實四所示犯行，恣
     意妄為，毀損他人財物，毫無法律觀念，影響社會秩序安全
     甚鉅，為法所不容，是考量其於事實四所示犯行之參與程度
@@ -1134,86 +1029,12 @@ function openwin(URL,arguments,width,height)
 │3 │鐵棒1支                               │      │                  │
 ├─┼───────────────────┤      ├─────────┤
 │4 │官將首使用之大刀                      │      │不予宣告沒收      │
-└─┴───────────────────┴───┴─────────┘</pre>
-<!-- 原因：[少連偵] -->
-<!-- 檔名：[D:\jupload\upload\NOK\LAWKSH\CRIMINAL\10309\30\KSHM1039U.021] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e6%98%93&selectedCrmno=000468&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=468&jdate=1030930&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e6%98%93&jno=468&jdate=1030930&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e6%98%93%2c468%2c20140930%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e6%98%93','468','1030930','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KSH 臺灣高等法院 高雄分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="李岳峰">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="李岳峰">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴───────────────────┴───┴─────────┘
+[*jrecno*]103,上易,468,20140930,1
+[*v_court*]KSH 臺灣高等法院 高雄分院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]上易
+[*jno*]468
+[*jdate*]1030930
+[*jcheck*]1

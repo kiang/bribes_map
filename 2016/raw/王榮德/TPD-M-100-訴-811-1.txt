@@ -1,138 +1,31 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-100訴811</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000811&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c811%2c20110815%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=811&jdate=1000815&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c811%2c20110815%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=811&jdate=1000815&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c811%2c20110815%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','811','1000815','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,811</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1000815</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反公司法等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　100年度訴字第811號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c811%2c20110815%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=811&jdate=1000815&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000811&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c811%2c20110815%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=811&jdate=1000815&jcheck=1
+[*裁判字號*]100,訴,811
+[*裁判日期*]1000815
+[*裁判案由*]違反公司法等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　100年度訴字第811號
 公　訴　人　臺灣臺北地方法院檢察署檢察官
-被　　　告　<font color='red'>王榮德
-</font>上列被告因違反公司法等案件，經檢察官提起公訴（九十九年度
+被　　　告　王榮德
+上列被告因違反公司法等案件，經檢察官提起公訴（九十九年度
 偵字第二三四四九號），被告於準備程序中先就被訴事實為有罪
 之陳述，經本院告以簡式審判之旨，並聽取當事人之意見後，本
 院合議庭裁定行簡式審判程序，判決如下：
     主  文
-<font color='red'>王榮德</font>共同商業負責人，利用不正當方法，致使財務報表發生不
-實之結果，處有期徒刑陸月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺
-幣玖佰元折算壹日，減為有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />
+王榮德共同商業負責人，利用不正當方法，致使財務報表發生不
+實之結果，處有期徒刑陸月，如易科罰金，以銀元佰元即新臺
+幣玖佰元折算壹日，減為有期徒刑月，如易科罰金，以銀元
 佰元即新臺幣玖佰元折算壹日；又公司負責人，公司應收之股款
 ，股東並未實際繳納，而以申請文件表明收足，處有期徒刑陸月
 ，如易科罰金，以新臺幣壹仟元折算壹日。應執行有期徒刑捌月
-，如易科罰金，以銀元<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />佰元即新臺幣玖佰元折算壹日。
+，如易科罰金，以銀元佰元即新臺幣玖佰元折算壹日。
     事  實
-一、<font color='red'>王榮德</font>於民國八十九年三月間，籌設源柏興業股份有限公司
+一、王榮德於民國八十九年三月間，籌設源柏興業股份有限公司
     （下稱源柏公司），並擔任該公司董事即負責人，明知股東
     並未實際繳納應收股款新臺幣（下同）五百十萬元，而係委
     由真實姓名、年籍不詳之成年記帳業者向他人調借，竟與該
     記帳業者共同基於違反公司法、商業會計法之犯意聯絡，由
-    <font color='red'>王榮德</font>先於八十九年三月二十七日，前往華信商業銀行股份
+    王榮德先於八十九年三月二十七日，前往華信商業銀行股份
     有限公司西松分行（現已改制為永豐商業銀行股份有限公司
     西松分行，下稱永豐銀行西松分行）開立帳號000000
     00000000號、戶名為源柏公司籌備處之活期存款帳
@@ -152,12 +45,12 @@ function openwin(URL,arguments,width,height)
     之五百十萬元，轉匯至豐莞實業股份有限公司籌備處設於永
     豐銀行西松分行之帳戶內（帳號：00000000000
     000號），未用於源柏公司之經營。
-二、<font color='red'>王榮德</font>於九十七年十二月間，為降低源柏公司帳目上之負債
+二、王榮德於九十七年十二月間，為降低源柏公司帳目上之負債
     比率及提高該公司資本淨值，明知源柏公司應收之增資股款
     二千萬元（增資發行二百萬股，每股十元）股東並未實際繳
     納，而係向其不知情之友人黃柏盛調借，竟基於使公務員登
     載不實、違反公司法及商業會計法之犯意，於黃柏盛在九十
-    七年十二月二十二日將二千萬元匯入<font color='red'>王榮德</font>設於板信商業銀
+    七年十二月二十二日將二千萬元匯入王榮德設於板信商業銀
     行股份有限公司松江分行（下稱板信銀行松江分行）之帳戶
     （帳號：00000000000000號）後，旋於同日
     將該筆款項匯至源柏公司設於板信銀行松江分行之帳戶（帳
@@ -173,17 +66,17 @@ function openwin(URL,arguments,width,height)
     員依其申請將源柏公司資本額增資為二千五百十萬元之不實
     事項登載於其職務上所掌之公司設立登記事項表公文書上，
     而核准其設立登記，足以生損害於主管機關對於公司管理之
-    正確性。<font color='red'>王榮德</font>並於臺北市商業管理處將源柏公司變更資本
+    正確性。王榮德並於臺北市商業管理處將源柏公司變更資本
     額登記於公司設立登記事項表前之九十七年十二月二十四日
     ，將上揭調借轉入源柏公司帳戶內作為增資股款證明之二千
-    萬元，除其中一千三百萬元用以償還<font color='red'>王榮德</font>前借予源柏公司
-    之款項外，餘七百萬元仍轉匯至上揭<font color='red'>王榮德</font>設於板信銀行松
+    萬元，除其中一千三百萬元用以償還王榮德前借予源柏公司
+    之款項外，餘七百萬元仍轉匯至上揭王榮德設於板信銀行松
     江分行之帳戶內，未用於源柏公司之經營。
 三、案經孫憶霞告發臺灣臺北地方法院檢察署（下稱臺北地檢署
     ）檢察官偵查起訴。
     理  由
 一、認定事實所憑之證據：
-    上開事實一、二之部分，業據被告<font color='red'>王榮德</font>於本院審理中坦承
+    上開事實一、二之部分，業據被告王榮德於本院審理中坦承
     不諱（本院一○○年八月一日審判筆錄參照），並經證人江
     榮宗、鄭翠玉（證人江榮宗部分，偵卷第二五頁至第二七頁
     參照；證人鄭翠玉部分，偵卷第二一頁、第二二頁參照）證
@@ -299,7 +192,7 @@ function openwin(URL,arguments,width,height)
     之事項，既應為實質之審查，以判斷其真偽，始得為一定之
     登載，則被告所為，尚不該當於刑法第二百十四條之使公務
     員登載不實罪，先予敘明。
-  (三)是核被告<font color='red'>王榮德</font>就事實一所為，係犯修正前公司法第九條第
+  (三)是核被告王榮德就事實一所為，係犯修正前公司法第九條第
     三項前段之公司應收之股款股東並未實際繳納而以申請文件
     表明收足罪，及修正前商業會計法第七十一條第五款之利用
     不正當方法致使財務報表發生不實結果罪；其與真實姓名、
@@ -456,86 +349,12 @@ function openwin(URL,arguments,width,height)
 （使公務員登載不實罪）
 明知為不實之事項，而使公務員登載於職務上所掌之公文書，足
 以生損害於公眾或他人者，處3年以下有期徒刑、拘役或五百元
-以下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10008\15\TPDM1008F.00M] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000811&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e7%8e%8b%e6%a6%ae%e5%be%b7&sdate=&edate=&page=&searchkw=%e7%8e%8b%e6%a6%ae%e5%be%b7&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c811%2c20110815%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=811&jdate=1000815&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c811%2c20110815%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=811&jdate=1000815&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c811%2c20110815%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','811','1000815','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="王榮德">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="王榮德">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+以下罰金。
+[*jrecno*]100,訴,811,20110815,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]811
+[*jdate*]1000815
+[*jcheck*]1

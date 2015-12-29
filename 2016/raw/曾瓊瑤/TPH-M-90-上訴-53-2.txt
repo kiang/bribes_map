@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-90上訴53</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000053&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=53&jdate=900807&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=53&jdate=900807&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','90','%e4%b8%8a%e8%a8%b4','53','900807','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,上訴,53</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">900807</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誣告</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>台灣高等法院刑事判決　　　　　　　　　　　　　　　　九十年度上訴字第五三號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=53&jdate=900807&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000053&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=53&jdate=900807&jcheck=2
+[*裁判字號*]90,上訴,53
+[*裁判日期*]900807
+[*裁判案由*]誣告
+[*裁判全文*]台灣高等法院刑事判決　　　　　　　　　　　　　　　　九十年度上訴字第五三號
 　　上　訴　人
 　　即　被　告　甲○○
 　　選任辯護人　郭蕙蘭
@@ -152,7 +45,7 @@ function openwin(URL,arguments,width,height)
     鐵路局政風室林主任參處」等語，此有前開電話檢舉紀錄影本可稽（詳見原審卷
     第五十七頁）。另上揭八十六年一月九日、同年六月三十日及八十七年七月二十
     四日之檢舉信函上之筆跡，與被告之筆記簿、機客車檢查通知單、抄寫資料上筆
-    跡，經鑑定結果相同，此有法務部調查局八十八年八月十六日<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5162A0A00000040.GIF" />陸八八一六四四
+    跡，經鑑定結果相同，此有法務部調查局八十八年八月十六日陸八八一六四四
     八五號函影本在卷（見同上他字卷第二十頁）。
   (二)被告於偵查中供稱：伊與乙○○交往期間覺得她外向、但很樸素、工作很認真、
     時常加班工作；伊不知郭女之業務，只知她是正派的人員等語（詳見同上他字卷
@@ -163,21 +56,21 @@ function openwin(URL,arguments,width,height)
     孩及交友之事，招標則伊本人參與；未曾與被告提及匿名檢舉不予受理，且檢舉
     不論具匿名與否，如有具體事實相當理由即可調查等語（詳見原審卷第一三五頁
     ）。
-  (四)被告指稱乙○○之事，經前台灣省政府政風處查證結果：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />台北機廠政風室行文
+  (四)被告指稱乙○○之事，經前台灣省政府政風處查證結果：台北機廠政風室行文
     要求廠長為郭女住家安裝鐵窗部分：經瞭解台北機廠單身宿舍現住女性員工二人
-    （政風室乙○○及總務室<font color='red'>曾瓊瑤</font>），郭、曾二員為維護住宿安全提出報告，請求
+    （政風室乙○○及總務室曾瓊瑤），郭、曾二員為維護住宿安全提出報告，請求
     裝置鐵門、鐵窗，並奉准於三樓走廊入口裝設鐵門，單位為照顧女性員工住宿安
-    全，於法並無不合。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />洩漏底標接受廠商招待部分：乙○○為台北機廠稽核分組
+    全，於法並無不合。洩漏底標接受廠商招待部分：乙○○為台北機廠稽核分組
     成員因工作需要須赴外訪價，未發現接受招待；政風人員不得參與制定規格，訂
     定底價，擔任評審，監工或驗收等事項；且政風人員在營繕採購案件監標過程中
-    ，並無任何特權，應無對特定廠商圖利之嫌。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />教唆毀損部分：經查實係該廠劉
-    姓員工所為，絕非政風室人員聯合工運人士所為。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />勾引有婦之夫與執勤守衛暢
+    ，並無任何特權，應無對特定廠商圖利之嫌。教唆毀損部分：經查實係該廠劉
+    姓員工所為，絕非政風室人員聯合工運人士所為。勾引有婦之夫與執勤守衛暢
     飲部分：郭女之夫於八十一年四月十日車禍身故，郭女母兼父職且在空大進修，
     生活忙碌，又平日交往乃親朋好友，偶有義交隊員，生活嚴謹單純，頗能潔身自
-    愛。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />收受餽贈包庇賭博受人豢養部分：台北機廠巡察小組並未發現賭博情事，
+    愛。收受餽贈包庇賭博受人豢養部分：台北機廠巡察小組並未發現賭博情事，
     且政風室曾提報黃弘熾擔任六合彩組頭事，又郭女喪夫，廠內追求者所在多有，
-    未聞有仰慕者間發生糾紛，豢養二字言過其實。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />不假外出部分：台北機廠門禁
-    設有專職守衛人員管制，進出均需登錄。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />攜子上班、未戴安全帽進廠部分：未
+    未聞有仰慕者間發生糾紛，豢養二字言過其實。不假外出部分：台北機廠門禁
+    設有專職守衛人員管制，進出均需登錄。攜子上班、未戴安全帽進廠部分：未
     有攜帶小孩上班，進出廠內依規定佩戴安全帽，並無特權免戴；認被告檢舉之事
     項均非事實或無確切證據顯示而存參結案並不予調整職務等節，此有前台灣省政
     府政風處八十七年九月三日省政視字第一九七○六號函附卷（見同上他字卷第十
@@ -288,86 +181,11 @@ function openwin(URL,arguments,width,height)
 ├──────────┼────┼──────────────────┤
 │八十七年七月二十四日│  信函  │  前法務部長城仲模                  │
 └──────────┴────┴──────────────────┘
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWTPH\CRIMINAL\9008\13\TPHM908D.016] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000053&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=53&jdate=900807&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=53&jdate=900807&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e8%a8%b4%2c53%2c20010807%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','90','%e4%b8%8a%e8%a8%b4','53','900807','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="曾瓊瑤">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="曾瓊瑤">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]90,上訴,53,20010807,2
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]90
+[*jcase*]上訴
+[*jno*]53
+[*jdate*]900807
+[*jcheck*]2

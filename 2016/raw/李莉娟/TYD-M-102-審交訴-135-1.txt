@@ -1,143 +1,36 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-102審交訴135</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e5%af%a9%e4%ba%a4%e8%a8%b4&selectedCrmno=000135&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=135&jdate=1020816&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=135&jdate=1020816&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e5%af%a9%e4%ba%a4%e8%a8%b4','135','1020816','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,審交訴,135</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020816</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">肇事遺棄罪</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　102年度審交訴字第135號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=135&jdate=1020816&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e5%af%a9%e4%ba%a4%e8%a8%b4&selectedCrmno=000135&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=135&jdate=1020816&jcheck=1
+[*裁判字號*]102,審交訴,135
+[*裁判日期*]1020816
+[*裁判案由*]肇事遺棄罪
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　102年度審交訴字第135號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
-被　　　告　<font color='red'>李莉娟
-</font>上列被告因肇事遺棄罪案件，經檢察官提起公訴（102 年度撤緩
+被　　　告　李莉娟
+上列被告因肇事遺棄罪案件，經檢察官提起公訴（102 年度撤緩
 偵字第172 號），被告於本院準備程序進行中，就被訴事實為有
 罪之陳述，經本院告知簡式審判程序意旨，並聽取當事人之意見
 後，本院合議庭裁定由受命法官獨任依簡式審判程序審理，判決
 如下：
     主  文
-<font color='red'>李莉娟</font>駕駛動力交通工具肇事，致人傷而逃逸，處有期徒刑捌月
-。緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年。緩刑期間付保護管束，並應於判決確定日起陸個月
+李莉娟駕駛動力交通工具肇事，致人傷而逃逸，處有期徒刑捌月
+。緩刑年。緩刑期間付保護管束，並應於判決確定日起陸個月
 內向執行檢察官指定之政府機關、政府機構、行政法人、社區或
 其他符合公益目的之機構或團體，提供壹佰伍拾小時之義務勞務
 。
     事實及理由
 一、犯罪事實：
-    <font color='red'>李莉娟</font>於民國（下同）101 年3 月30日上午某時，騎乘車牌
+    李莉娟於民國（下同）101 年3 月30日上午某時，騎乘車牌
     號碼000-000 號重型機車，沿桃園縣中壢市中華路一段由西
     向東方向行駛，俟於同日上午10時29分許，行經桃園縣中壢
-    市中華路一段與興仁路之交岔路口時，<font color='red'>李莉娟</font>本應注意汽車
+    市中華路一段與興仁路之交岔路口時，李莉娟本應注意汽車
     （含機車）行駛時，駕駛人應注意車前狀況，並隨時採取必
     要之安全措施；且行車速度，應依速限標誌或標線之規定；
     又應注意汽車行駛至交岔路口，其行進應遵守燈光號誌之指
     示，車輛面對圓形紅燈，表示禁止通行，不得超越停止線或
     進入路口，而依當時天候晴、日間自然光線、柏油路面、乾
     燥、無缺陷、無障礙物、視距良好，並無不能注意之情事，
-    <font color='red'>李莉娟</font>於行近上開交岔路口時，其行向之燈光號誌已轉變為
+    李莉娟於行近上開交岔路口時，其行向之燈光號誌已轉變為
     圓形紅燈，不得進入路口，詎其為求快速通過，疏未注意其
     前方有汪恩綺騎乘車牌號碼000-000 重型機車，在桃園縣中
     壢市○○路○○○○○區○○○○○○○○號誌指示，準備
@@ -147,17 +40,17 @@ function openwin(URL,arguments,width,height)
     越該交岔路口，致其所騎乘之重型機車與汪恩綺所騎乘之重
     型機車發生碰撞，汪恩綺因而人車倒地，並因此受有左肩挫
     傷、左膝擦傷（過失傷害部分，業據汪恩綺撤回告訴，並經
-    臺灣桃園地方法院檢察署檢察官為不起訴處分確定）。詎<font color='red'>李
-    莉娟</font>於駕車肇事致人受傷後，竟基於肇事逃逸之犯意，未停
+    臺灣桃園地方法院檢察署檢察官為不起訴處分確定）。詎李
+    莉娟於駕車肇事致人受傷後，竟基於肇事逃逸之犯意，未停
     車對汪恩綺施予必要之救護措施，亦未留置現場等待警方前
     往處理，逕自騎乘前開重型機車離開現場，嗣經警據報前往
     處理，並調閱監視器錄影畫面後，始循線查悉上情。
 二、證據名稱：
-（一）被告<font color='red'>李莉娟</font>分別於警詢、檢察官訊問、本院準備程序及審
+（一）被告李莉娟分別於警詢、檢察官訊問、本院準備程序及審
       理中之自白。
 （二）證人即被害人汪恩綺分別於警詢、檢察官訊問之指證。
-（三）車牌號碼000-000 號重型機車之車輛詳細資料報表、<font color='red'>李莉
-      娟</font>之相片影像資料查詢結果、壢新醫院診斷證明書、道路
+（三）車牌號碼000-000 號重型機車之車輛詳細資料報表、李莉
+      娟之相片影像資料查詢結果、壢新醫院診斷證明書、道路
       交通事故現場圖、道路交通事故調查報告表（一）、（二
       ）、桃園縣政府警察局疑似道路交通事故肇事逃逸追查表
       各1 份、白天路況照片4 張、車損照片3 張、監視器錄影
@@ -205,7 +98,7 @@ function openwin(URL,arguments,width,height)
     提出上訴書狀，上訴於第二審法院。
 本案經檢察官楊舒婷到庭執行職務。
 中    華    民    國   102    年    8     月    16    日
-                        刑事庭    法  官  楊<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3BA2A0A00000040.GIF" />伶
+                        刑事庭    法  官  楊伶
 以上正本證明與原本無異。
 如不服本判決，應於判決送達後10日內向本院提出上訴狀（應附
 繕本），其未敘述上訴理由者，應於上訴期間屆滿後20日內補提
@@ -216,86 +109,12 @@ function openwin(URL,arguments,width,height)
 修正前中華民國刑法第185 條之4
 （肇事遺棄罪）
 駕駛動力交通工具肇事，致人死傷而逃逸者，處六月以上五年以
-下有期徒刑。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10208\16\TYDM1028G.01P] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e5%af%a9%e4%ba%a4%e8%a8%b4&selectedCrmno=000135&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=135&jdate=1020816&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=102&jcase=%e5%af%a9%e4%ba%a4%e8%a8%b4&jno=135&jdate=1020816&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e5%af%a9%e4%ba%a4%e8%a8%b4%2c135%2c20130816%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','102','%e5%af%a9%e4%ba%a4%e8%a8%b4','135','1020816','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="李莉娟">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="李莉娟">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+下有期徒刑。
+[*jrecno*]102,審交訴,135,20130816,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]102
+[*jcase*]審交訴
+[*jno*]135
+[*jdate*]1020816
+[*jcheck*]1

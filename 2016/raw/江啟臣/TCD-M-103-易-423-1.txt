@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-103易423</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+eeBQ7n2H3f828cauP+ve+pSB0Yw=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000423&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c423%2c20140430%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=423&jdate=1030430&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%98%93%2c423%2c20140430%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=423&jdate=1030430&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e6%98%93%2c423%2c20140430%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e6%98%93','423','1030430','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,易,423</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030430</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院刑事判決　　　　 103年度易字第423號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c423%2c20140430%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=423&jdate=1030430&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000423&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=103%2c%e6%98%93%2c423%2c20140430%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=423&jdate=1030430&jcheck=1
+[*裁判字號*]103,易,423
+[*裁判日期*]1030430
+[*裁判案由*]詐欺
+[*裁判全文*]臺灣臺中地方法院刑事判決　　　　 103年度易字第423號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　李坤堂
 　　　　　　李忠應（原名：李景隆）
@@ -285,8 +180,8 @@ function openwin(URL,arguments,width,height)
     情。告訴人蔡江發說伊等詐欺，伊等不認罪，伊等都沒有收
     到半毛錢，伊等純粹是朋友幫忙問看看，結果這塊地林務局
     已經緩期2年，伊等不曉得，才會鬧成這樣。102年1月25日
-    砍完後，約1月底2月初，伊等到<font color='red'>江啟臣</font>立委服務處，伊等約
-    在豐原活動中心，詹瑞智帶伊等到<font color='red'>江啟臣</font>服務處，這個可以
+    砍完後，約1月底2月初，伊等到江啟臣立委服務處，伊等約
+    在豐原活動中心，詹瑞智帶伊等到江啟臣服務處，這個可以
     看錄影。告訴人蔡江發到服務處後，結果告訴人蔡江發又到
     伊等店內說伊本人有錄音，伊等不曉得是否真有錄音。伊等
     確實有接手這些事情，但伊等有載給林呂雪珠，由林呂雪珠
@@ -330,7 +225,7 @@ function openwin(URL,arguments,width,height)
     砍了。（辯護人問：你所謂的朋友是否是在庭的詹瑞智？）
     證人林呂雪珠答：是的。（辯護人問：你如何拜託詹瑞智？
     ）證人林呂雪珠答：我與他是20多年老友，我請他可否拜託
-    民意代表<font color='red'>江啟臣</font>立委幫忙處理，因為江立委為我們梨山果農
+    民意代表江啟臣立委幫忙處理，因為江立委為我們梨山果農
     處理這些事情，且江立委也是我娘家老鄰居，我娘家地址是
     在台中市○○區○○路○○巷0號。因為我人在梨山不便下
     山，我就請詹瑞智，去詢問江立委民眾服務處可否幫忙程序
@@ -345,13 +240,13 @@ function openwin(URL,arguments,width,height)
     時並沒有表示要透過朋友介紹找立委，是事後才透過朋友說
     要找立委？）證人林呂雪珠答：是的。當時只有聊天聊到要
     拜託朋友，看可否想辦法處理，當時並沒有說要去找詹瑞智
-    找立委。（辯護人問：你後來透過詹瑞智要去拜託<font color='red'>江啟臣</font>立
+    找立委。（辯護人問：你後來透過詹瑞智要去拜託江啟臣立
     委，這是去農藥行聊天後過了幾天的事情？）證人林呂雪珠
     答：我不記得，詳細日期真的不記得。（辯護人問：你如何
     稱呼詹瑞智？）證人林呂雪珠答：我都叫他詹老師。（辯護
-    人問：後來詹瑞智確實有跟蔡江發、李坤堂等人去找<font color='red'>江啟臣
-    </font>立委？）證人林呂雪珠答：是的。（辯護人問：他們找<font color='red'>江啟
-    臣</font>立委是要拜託看能否不砍樹？）證人林呂雪珠答：是的。
+    人問：後來詹瑞智確實有跟蔡江發、李坤堂等人去找江啟臣
+    立委？）證人林呂雪珠答：是的。（辯護人問：他們找江啟
+    臣立委是要拜託看能否不砍樹？）證人林呂雪珠答：是的。
     （辯護人問：你於偵查中為何表示你有朋友認識林務局的人
     可以拜託，但林務局的人已經退休了？）證人林呂雪珠答：
     因為當初另外有朋友，他也是做梨山的，我都稱呼他李先生
@@ -471,8 +366,8 @@ function openwin(URL,arguments,width,height)
     發、被告二人於農藥行喝茶時，提到大家要想辦法延緩果樹
     砍除事宜時，這是何時的事情？）證人林呂雪珠答：不太記
     得了。完全不記得。（審判長問：你有沒有受到告訴人蔡江
-    發的委託，所以才去拜託你所謂的李先生與詹瑞智、<font color='red'>江啟臣
-    </font>立委，設法延緩果樹砍除事宜？）證人林呂雪珠答：沒有。
+    發的委託，所以才去拜託你所謂的李先生與詹瑞智、江啟臣
+    立委，設法延緩果樹砍除事宜？）證人林呂雪珠答：沒有。
     我是想要為我自己果園爭取延緩砍除。（受命法官徵得審判
     長同意後訊問證人。）（受命法官問：你有沒有要求，或是
     被告二人、蔡江發主動要求你，代為尋求管道處理告訴人蔡
@@ -499,15 +394,15 @@ function openwin(URL,arguments,width,height)
     詢問我有沒有好朋友或是管道可以幫忙。（辯護人問：後來
     你有無詢問有無管道可以幫忙？）證人詹瑞智答：有。（辯
     護人問：你是尋找什麼管道？）證人詹瑞智答：詢問我律師
-    朋友。（辯護人問：你是否曾經找<font color='red'>江啟臣</font>立委？）證人詹瑞
+    朋友。（辯護人問：你是否曾經找江啟臣立委？）證人詹瑞
     智答：有的。因為律師回答我，這個於法律上已經沒有辦法
-    ，律師建議找民意代表。（辯護人問：你們後來有找<font color='red'>江啟臣
-    </font>立委？）證人詹瑞智答：沒有，我們是到<font color='red'>江啟臣</font>立委服務處
+    ，律師建議找民意代表。（辯護人問：你們後來有找江啟臣
+    立委？）證人詹瑞智答：沒有，我們是到江啟臣立委服務處
     去陳情。（辯護人問：到江立委服務處陳情時，有何人到場
     ？）證人詹瑞智答：有我沒有見過面的兩位先生、一個太太
     到場。其中一個是蔡先生，應該是今日在庭的蔡江發。另一
     個是農藥行老闆，應是在庭的李坤堂。當日的到場太太應該
-    是蔡江發的太太。（辯護人問：你們當時如何約到<font color='red'>江啟臣</font>服
+    是蔡江發的太太。（辯護人問：你們當時如何約到江啟臣服
     務處？）證人詹瑞智答：林呂雪珠電話中請我幫忙到立委服
     務處，再約時間、地點。（辯護人問：你在到立委服務處之
     前，有與蔡江發或是李坤堂聯絡電話？）證人詹瑞智答：沒
@@ -515,7 +410,7 @@ function openwin(URL,arguments,width,height)
     到立委服務處?）證人詹瑞智答：由林呂雪珠聯繫，我告訴
     他幾點、到何處，然後林呂雪珠再聯繫他們。（辯護人問：
     聯繫中，有無跟李坤堂電話聯絡過？）證人詹瑞智答：沒有
-    。（辯護人問：你們到<font color='red'>江啟臣</font>服務處，陳情內容？）證人詹
+    。（辯護人問：你們到江啟臣服務處，陳情內容？）證人詹
     瑞智答：希望服務處能幫我們瞭解蔡江發先生就林務局所屬
     土地，砍除果樹、現建房屋工寮問題。去服務處時，蔡江發
     有表示果樹已經被砍，但房屋還沒有被拆。（辯護人問：所
@@ -535,13 +430,13 @@ function openwin(URL,arguments,width,height)
     問：你收到林木生寄給你的水果數量？）證人詹瑞智答：數
     量不一定，有時3、5箱，有時十幾盒，是用大箱包裝的，因
     為用水果禮盒運費很高，所以我叫他們用整盒裝箱、節省費
-    用。（審判長請檢察官行反詰問。）（檢察官問：你於<font color='red'>江啟
-    臣</font>立委服務處工作？）證人詹瑞智答：沒有。（檢察官問：
-    你與<font color='red'>江啟臣</font>立委有無交往？）證人詹瑞智答：是認識的朋友
-    。（檢察官問：你有無跟蔡江發或是被告二人表示，你與<font color='red'>江
-    啟臣</font>有特珠關係？）證人詹瑞智答：我不認識蔡江發與李坤
+    用。（審判長請檢察官行反詰問。）（檢察官問：你於江啟
+    臣立委服務處工作？）證人詹瑞智答：沒有。（檢察官問：
+    你與江啟臣立委有無交往？）證人詹瑞智答：是認識的朋友
+    。（檢察官問：你有無跟蔡江發或是被告二人表示，你與江
+    啟臣有特珠關係？）證人詹瑞智答：我不認識蔡江發與李坤
     堂。我也沒有說過。（檢察官問：你表示帶著蔡江發、蔡江
-    發太太、李坤堂去<font color='red'>江啟臣</font>服務處，這是何時？）證人詹瑞智
+    發太太、李坤堂去江啟臣服務處，這是何時？）證人詹瑞智
     答：詳細我不太記得。應該是去年（102年）的事情，當時
     穿著我也沒有印象。（檢察官問：你表示你們去陳情，立委
     服務處出來接待人員是何人？）證人詹瑞智答：服務處主任
@@ -581,7 +476,7 @@ function openwin(URL,arguments,width,height)
     說不用找律師、也不用提供擔保？）證人詹瑞智答：沒有。
     （審判長請辯護人行覆主詰問。）辯護人起稱：沒有。（審
     判長諭知證人交互詰問完畢。）（受命法官徵得審判長同意
-    後訊問證人。）（受命法官問：你們去<font color='red'>江啟臣</font>立委服務處時
+    後訊問證人。）（受命法官問：你們去江啟臣立委服務處時
     ，林木生有無一同過去？）證人詹瑞智答：沒有。當時林呂
     雪珠與林木生沒有過去。（受命法官問：去前開立委服務處
     時，林呂雪珠的果樹已經被砍除？）證人詹瑞智答：我沒有
@@ -806,86 +701,12 @@ function openwin(URL,arguments,width,height)
 九十四年一月七日刑法修正時，刑法分則編未修正之條文定有罰
 金者，自九十四年一月七日刑法修正施行後，就其所定數額提高
 為三十倍。但七十二年六月二十六日至九十四年一月七日新增或
-修正之條文，就其所定數額提高為三倍。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10304\30\TCDM1034U.005] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e6%98%93&selectedCrmno=000423&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e6%98%93%2c423%2c20140430%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=423&jdate=1030430&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=103%2c%e6%98%93%2c423%2c20140430%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e6%98%93&jno=423&jdate=1030430&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e6%98%93%2c423%2c20140430%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e6%98%93','423','1030430','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="江啟臣">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="江啟臣">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+修正之條文，就其所定數額提高為三倍。
+[*jrecno*]103,易,423,20140430,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]103
+[*jcase*]易
+[*jno*]423
+[*jdate*]1030430
+[*jcheck*]1

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101上訴1336</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001336&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1336&jdate=1010531&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1336&jdate=1010531&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','1336','1010531','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,上訴,1336</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010531</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">重傷害</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 101年度上訴字第1336號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1336&jdate=1010531&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001336&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1336&jdate=1010531&jcheck=1
+[*裁判字號*]101,上訴,1336
+[*裁判日期*]1010531
+[*裁判案由*]重傷害
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 101年度上訴字第1336號
 上　訴　人　臺灣新竹地方法院檢察署檢察官
 被　　　告　黃正光
 　　　　　　岩信義
@@ -166,8 +59,8 @@ function openwin(URL,arguments,width,height)
     判斷，若除去該引用、檢附之文書外，其餘部分之敘述，不
     能認係具體理由者，上訴即非合法。
 二、本件原審係以被告黃正光、岩信義於原審之認罪陳述（見原
-    審第19頁背面、第25頁）、告訴人即被害人林宥宇、<font color='red'>林家宇
-    </font>於警詢及偵查中之指訴（見臺灣新竹地方法院檢察署100年
+    審第19頁背面、第25頁）、告訴人即被害人林宥宇、林家宇
+    於警詢及偵查中之指訴（見臺灣新竹地方法院檢察署100年
     度偵字第9223號偵查卷第30至34、114至117、168至150頁）
     ，證人林湧森、蔣明來、吳春光於警詢（見同上偵查卷第35
     至40、49至54頁），證人鮑依萍、邱瑞賢、林惠珠於警詢及
@@ -178,22 +71,22 @@ function openwin(URL,arguments,width,height)
     、65至69、81至91頁），認被告黃正光、岩信義確有基於共
     同傷害他人身體之犯意聯絡，於民國100年9月22日晚上11時
     許，在新竹縣竹北市○○○街「悠森學」建築工地對面之福
-    利社，因與告訴人林宥宇、<font color='red'>林家宇</font>雙方發生口角爭執，由岩
+    利社，因與告訴人林宥宇、林家宇雙方發生口角爭執，由岩
     信義徒手毆打林宥宇頸部、臉部，致林宥宇跌倒在地，復持
     圓鍬毆打林宥宇，致林宥宇受有右手腕挫傷之傷害、由黃正
-    光持開山刀揮砍<font color='red'>林家宇</font>腹部，致<font color='red'>林家宇</font>受有腹部刀傷約5公
+    光持開山刀揮砍林家宇腹部，致林家宇受有腹部刀傷約5公
     分合併腸子破裂及腸繫膜出血、右大腿撕裂傷之傷害等犯行
     ，以被告黃正光、岩信義2人所為，成立刑法第277條第1項
     、第28條共同普通傷害罪，審酌被告2人偶因細故與告訴人
-    發生爭執，即由被告黃正光持刀砍傷<font color='red'>林家宇</font>，致<font color='red'>林家宇</font>受有
+    發生爭執，即由被告黃正光持刀砍傷林家宇，致林家宇受有
     前揭傷害，迄本案辯論終結時，仍受該傷害之苦，其犯罪所
-    生損害非輕，且未能與<font color='red'>林家宇</font>達成和解，賠償<font color='red'>林家宇</font>之損失
+    生損害非輕，且未能與林家宇達成和解，賠償林家宇之損失
     ，惟被告2人犯後均坦承犯行，兼衡其素行、犯罪手段、目
     的、生活狀況、智識程度等一切情狀，分別量處被告黃正光
     有期徒刑10月、被告岩信義有期徒刑5月，如易科罰金，得
     以新臺幣1千元折算1日在案。
-三、本件檢察官不服原審判決，其上訴意旨略以：告訴人<font color='red'>林家宇
-    </font>具狀請求上訴，內容略為被告黃正光持開山刀刺入告訴人腹
+三、本件檢察官不服原審判決，其上訴意旨略以：告訴人林家宇
+    具狀請求上訴，內容略為被告黃正光持開山刀刺入告訴人腹
     部，應屬重傷害，非屬普通傷害等語，經核告訴人請求上訴
     意旨尚非顯無理由，爰請求撤銷原判決，更為適法之判決云
     云。
@@ -205,51 +98,51 @@ function openwin(URL,arguments,width,height)
     觀上之犯意究係重傷害或普通傷害，應就外在之一切證據，
     詳查審認，舉凡其犯罪之動機、兇器類別、行兇之具體過程
     、傷痕之多寡輕重、傷勢程度、案發當時之情境、犯後態度
-    等，綜合研析，作為認定之基礎。經查：本件<font color='red'>林家宇</font>於100
+    等，綜合研析，作為認定之基礎。經查：本件林家宇於100
     年9月22日晚上11時許，在新竹縣竹北市○○○街「悠森學
     」建築工地對面之福利社，遭被告黃正光持開山刀刺入腹部
     而受有腹部刀傷約5公分合併腸子破裂及腸繫膜出血、右大
     腿撕裂傷等傷害乙情，有東元綜合醫院100年9月23日乙種診
     斷證明書乙紙在卷可稽（見同上偵查卷第69頁），再據東元
     綜合醫院100年10月27日東秘總字第1000002024號函之說明
-    ，<font color='red'>林家宇</font>於接受該院手術治療後，於100年10月6日出院，出
+    ，林家宇於接受該院手術治療後，於100年10月6日出院，出
     院後接續於100年10月7日、11日回院追蹤複診2次，並於100
     年10月11日施行腹部傷口清創手術，手術後病情穩定等語（
     見同上偵查卷第123頁）。林宥宇於偵查中亦具結證述：被
-    告黃正光刺傷<font color='red'>林家宇</font>後，並未再使用刀械持續攻擊等語（見
-    同上偵查卷第117頁）。是以，本件綜觀<font color='red'>林家宇</font>所受傷害程
-    度之客觀事實及證人林宥宇所述被告黃正光於刺傷<font color='red'>林家宇</font>後
-    即停止攻擊等情，除未見<font color='red'>林家宇</font>受有刑法第10條第4項各款
-    所列之重傷害結果，亦無法認定被告黃正光、岩信義有致<font color='red'>林
-    家宇</font>重傷害之故意，更遑論其等有殺人之意欲，故由形式上
+    告黃正光刺傷林家宇後，並未再使用刀械持續攻擊等語（見
+    同上偵查卷第117頁）。是以，本件綜觀林家宇所受傷害程
+    度之客觀事實及證人林宥宇所述被告黃正光於刺傷林家宇後
+    即停止攻擊等情，除未見林家宇受有刑法第10條第4項各款
+    所列之重傷害結果，亦無法認定被告黃正光、岩信義有致林
+    家宇重傷害之故意，更遑論其等有殺人之意欲，故由形式上
     觀察，原審之認事用法，並無任何違誤。
-五、檢察官雖於上訴書載述<font color='red'>林家宇</font>主張被告黃正光係重傷害而非
+五、檢察官雖於上訴書載述林家宇主張被告黃正光係重傷害而非
     普通傷害等語，非顯無理由云云，然通觀檢察官之上訴書，
     並無一語引用案內卷證具體指摘原判決如何有認事用法或量
     刑之違誤，揆諸首開說明，本已難認為符合法定程式。且參
     諸檢察官起訴書對本件犯罪事實之敘述，亦認被告黃正光係
-    基於傷害他人身體之犯意而持刀刺傷<font color='red'>林家宇</font>，而起訴被告黃
+    基於傷害他人身體之犯意而持刀刺傷林家宇，而起訴被告黃
     正光犯刑法第277條第1項之普通傷害罪，更於起訴書之證據
     及所犯法條中說明：「本次傷害行為乃係肇因於被告黃正光
     、岩信義酒後與告訴人林宥宇起爭執而發生，此亦為被告、
     告訴人等4人所是認，衡諸常情，被告黃正光理無置告訴人
-    <font color='red'>林家宇</font>於死之殺機，且告訴人<font color='red'>林家宇</font>於偵查中陳稱被告黃正
-    光砍傷其腹部後，即已停手等情在卷，復觀之告訴人<font color='red'>林家宇
-    </font>所受前揭傷勢，可知被告黃正光雖持刀刺傷告訴人<font color='red'>林家宇</font>腹
-    部，惟未對告訴人<font color='red'>林家宇</font>之頭部、頸部等立即足以致命之部
+    林家宇於死之殺機，且告訴人林家宇於偵查中陳稱被告黃正
+    光砍傷其腹部後，即已停手等情在卷，復觀之告訴人林家宇
+    所受前揭傷勢，可知被告黃正光雖持刀刺傷告訴人林家宇腹
+    部，惟未對告訴人林家宇之頭部、頸部等立即足以致命之部
     位加以傷害，尚難認被告黃正光於實施上開犯行時，即有致
-    告訴人<font color='red'>林家宇</font>於死之殺人犯意，自難僅以受傷部位在腹部乙
+    告訴人林家宇於死之殺人犯意，自難僅以受傷部位在腹部乙
     節，即認被告黃正光有殺人之犯意及行為。從而，本件尚無
     積極事證佐認被告黃正光涉犯殺人未遂罪嫌，應認此部分罪
     嫌尚有不足，告訴意旨容有誤會，惟此部分與前揭聲請簡易
     判決之傷害行為，為事實上同一行為，屬事實上同一案件，
-    爰不另為不起訴處分，併此敘明。另告訴人<font color='red'>林家宇</font>固受有前
+    爰不另為不起訴處分，併此敘明。另告訴人林家宇固受有前
     揭傷害，惟經接受腸子及腸繫膜修補術，行撕裂傷縫合及修
     補手術，業於100年10月6日出院，並於100年10月11日門診
     時施行腹部傷口清創手術，手術後病情穩定，有東元綜合醫
     院診斷證明書、100年10月27日東秘總字第1000002024號函
     及檢附之病歷影本各1份附卷可參。準此以觀，本件告訴人
-    <font color='red'>林家宇</font>所受上述傷害藉由手術修補應可恢復，尚未達刑法第
+    林家宇所受上述傷害藉由手術修補應可恢復，尚未達刑法第
     10條第4項所規範之重傷害程度，是被告所為上開傷害犯行
     亦未構成重傷害自明」（見臺灣新竹地方法院檢察署檢察官
     100年度偵字第9223號起訴書第2至3頁）。原審公訴檢察官
@@ -284,86 +177,12 @@ function openwin(URL,arguments,width,height)
 傷害人之身體或健康者，處3年以下有期徒刑、拘役或1千元以下
 罰金。
 犯前項之罪因而致人於死者，處無期徒刑或7 年以上有期徒刑；
-致重傷者，處3年以上10年以下有期徒刑。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10105\31\TPHM1015V.05C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共11
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001336&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=11&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1336&jdate=1010531&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=1336&jdate=1010531&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c1336%2c20120531%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','1336','1010531','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林家宇">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林家宇">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+致重傷者，處3年以上10年以下有期徒刑。
+[*jrecno*]101,上訴,1336,20120531,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]上訴
+[*jno*]1336
+[*jdate*]1010531
+[*jcheck*]1

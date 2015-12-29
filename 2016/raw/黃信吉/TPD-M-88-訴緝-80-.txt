@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-88訴緝80</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000080&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4%e7%b7%9d&jno=80&jdate=890818&jcheck=">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4%e7%b7%9d&jno=80&jdate=890818&jcheck=">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%a8%b4%e7%b7%9d','80','890818','')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">88,訴緝,80</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">890818</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事判決　　　　　　　　　　　　　八十八年度訴緝字第八<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7AF2A0A00000040.GIF" />號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4%e7%b7%9d&jno=80&jdate=890818&jcheck=
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000080&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4%e7%b7%9d&jno=80&jdate=890818&jcheck=
+[*裁判字號*]88,訴緝,80
+[*裁判日期*]890818
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣臺北地方法院刑事判決　　　　　　　　　　　　　八十八年度訴緝字第八號
 　　公　訴　人　臺灣臺北地方法院檢察署檢察官
 　　被　　　告　丁○○
 右列被告因詐欺等案件，經檢察官提起公訴（八十五年度偵字第二七八六七、八十六
@@ -128,7 +21,7 @@ function openwin(URL,arguments,width,height)
         ○（參加一會）、甲○○（參加一會）名義，參加由己○○為會首（含會首
         三十五人），自八十四年七月五日起，至八十七年五月五日止，每會新臺幣
         （下同）一萬元，採外標方式，每月五日，在臺北市○○○路十五號五樓之
-        六開標之互助會，丁○○並於附表（１）編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />時間及標金在上開互助
+        六開標之互助會，丁○○並於附表（１）編號時間及標金在上開互助
         會指定開標地址，先後偽造各該標金之標單（未偽造冒名競標者之簽名），
         並出示在場參加投標之活會會員，因標金高而標得會款，並均自行按月繳納
         死會會款，嗣於八十五年十月，因無法週轉，而停止繳納死會會款。
@@ -137,7 +30,7 @@ function openwin(URL,arguments,width,height)
         一次，於互助會單上虛列王兆琳（參加二會）、甲○○（參加一會），並偽
         造王兆琳、甲○○參加互助會之會單，交付附表（２）之活會會員，足以生
         損害於參加互助會之活會會員及被虛列會之活會會員王兆琳、甲○○，丁○
-        ○復先後於附表（１）編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B82A0A00000040.GIF" />所示時間及標金，偽造各該標金之標單（未
+        ○復先後於附表（１）編號所示時間及標金，偽造各該標金之標單（未
         偽造冒名競標者之簽名），並出示在場參加投標之會員，因標金高而標得會
         款，並自行按月繳納應付之死會會款，迄於八十五年十二月停標。
 二、丁○○，復為期獲取更多資金，竟另意圖為自己不法之所有，並基於概括之犯意
@@ -219,7 +112,7 @@ function openwin(URL,arguments,width,height)
         會）、王兆琳（參加一會）名義，參加由辛○○為會首（含會首十八會）之
         互助會，自八十四年八月十五日起至八十六年一月十五日止，每會二萬元，
         採外標方式，每月十五日在台北市○○○路○段一二六巷一號五樓之八，以
-        電話聯絡方式開標之互助會，丁○○先後於附表（１）在編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />時間及
+        電話聯絡方式開標之互助會，丁○○先後於附表（１）在編號時間及
         標金，以電話聯絡方式冒標（未偽造標單），因標金高而得標，亦認被告有
         詐取會款及偽造文書之犯行。
 （二）、被告於八十五年六、七月間，委託戊○○印刷越前公司，服裝目錄業務，被
@@ -252,7 +145,7 @@ function openwin(URL,arguments,width,height)
  （二）、被告未經黃麗勳、丙○○、王兆琳同意，冒用黃麗勳（參加一會）、李文
          幸（參加一會）、王兆琳（參加一會）名義，參加由辛○○為會首（含會
          首十八會）之互助會，自八十四年八月十五日起至八十六年一月十五日止
-         ，每會二萬元，並於附表（１）編號<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" /><img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />時間標金冒標，惟該互助會係
+         ，每會二萬元，並於附表（１）編號時間標金冒標，惟該互助會係
          以電話聯絡方式開標，此有會單明文記載可稽，被告冒標時並未偽造標單
          ，亦經被告供明在卷，公訴人認被告該犯行有偽造文書，自有未合。
 （三）、又被告於告訴人完成上開客戶服裝廣告目錄後，交付支票予戊○○，雖未兌
@@ -275,14 +168,14 @@ function openwin(URL,arguments,width,height)
 中      華      民      國                  年            月            日
 附表（１）
      冒標 時 間       被冒標會員姓名    標金           會首
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />  八十四年八月五日   黃麗勳        二千八百元        己○○
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />  八十四年九月五日   丙○○        三千元            己○○
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B32A0A00000040.GIF" />  八十四年九月十五日 丙○○        四千元            辛○○
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B42A0A00000040.GIF" />  八十四年十月五日   甲○○        三千二百元        己○○
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B52A0A00000040.GIF" />  八十四年十月十五日 王兆琳        四千六百元        辛○○
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B62A0A00000040.GIF" />  八十五年一月十五日 黃麗勳        四千五百元        辛○○
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B72A0A00000040.GIF" />  八十五年三月八日   甲○○        六千七百元        丁○○
- <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B82A0A00000040.GIF" />  八十五年六月八日   王兆琳        七千三百元        丁○○
+   八十四年八月五日   黃麗勳        二千八百元        己○○
+   八十四年九月五日   丙○○        三千元            己○○
+   八十四年九月十五日 丙○○        四千元            辛○○
+   八十四年十月五日   甲○○        三千二百元        己○○
+   八十四年十月十五日 王兆琳        四千六百元        辛○○
+   八十五年一月十五日 黃麗勳        四千五百元        辛○○
+   八十五年三月八日   甲○○        六千七百元        丁○○
+   八十五年六月八日   王兆琳        七千三百元        丁○○
 附表（２）
       時    間         會員人數（含會首）  會員姓名
   自八十四年十月八日起會單記載三十六會  陳鏡妃、橋  宏、壬○○（二會）、
@@ -290,7 +183,7 @@ function openwin(URL,arguments,width,height)
                                         林孝燕、辛○○、李素真、陳玉鈴、
                                         林美英、歐君傑、方裕文、王志信
                                         （二會）、乙○○、柯士琳、癸○○、
-                賴建利、庚○○、孫華貞、<font color='red'>黃信吉</font>、
+                賴建利、庚○○、孫華貞、黃信吉、
                                         陳慧芬（二會）、陳慧華、林建志
                                         （二 會）、許文慧、黃慧文。
 附表（３）
@@ -342,86 +235,11 @@ function openwin(URL,arguments,width,height)
    付   款     人         到     期     日      支票號碼
   第一商業銀行北台北分行 八十五年十月二十七日  ＭＡ0000000
 附錄本案論罪科刑法條：
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWTPD\CRIMINAL\8908\25\TPDM898P.007] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e8%a8%b4%e7%b7%9d&selectedCrmno=000080&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4%e7%b7%9d&jno=80&jdate=890818&jcheck=">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e8%a8%b4%e7%b7%9d&jno=80&jdate=890818&jcheck=">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('88%2c%e8%a8%b4%e7%b7%9d%2c80%2c20000818','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','88','%e8%a8%b4%e7%b7%9d','80','890818','')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃信吉">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃信吉">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]88,訴緝,80,20000818
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]88
+[*jcase*]訴緝
+[*jno*]80
+[*jdate*]890818
+[*jcheck*]

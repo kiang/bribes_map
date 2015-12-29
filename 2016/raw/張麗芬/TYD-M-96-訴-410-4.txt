@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-96訴410</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000410&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c410%2c20120810%2c4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=410&jdate=1010810&jcheck=4">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c410%2c20120810%2c4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=410&jdate=1010810&jcheck=4">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c410%2c20120810%2c4','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','410','1010810','4')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">96,訴,410</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010810</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　 96年度訴字第410號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c410%2c20120810%2c4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=410&jdate=1010810&jcheck=4
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000410&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c410%2c20120810%2c4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=410&jdate=1010810&jcheck=4
+[*裁判字號*]96,訴,410
+[*裁判日期*]1010810
+[*裁判案由*]貪污等
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　 96年度訴字第410號
 公　訴　人　台灣桃園地方法院檢察署檢察官
 被　　　告　崔大偉
 選任辯護人　張家訓律師
@@ -382,14 +275,14 @@ function openwin(URL,arguments,width,height)
     報出差之次月月初即95年2 月初、3 月初、4 月初、5 月初
     ，經不知情之承辦員在「台南縣警察局國內出差旅費報告表
     」上列印崔大偉上月之出差日期、起訖地點、工作記要等欄
-    位後，再由外事課佘<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4352A0A00000040.GIF" />溥或沈峰光警員等人在「台南縣警察
+    位後，再由外事課佘溥或沈峰光警員等人在「台南縣警察
     局國內出差旅費報告表」填寫交通費、住宿費、膳雜費、總
     計金額完成後，交由崔大偉核對內容及金額時，崔大偉明知
     其實際上未出差不應領取各該費用，仍蓋用其職章，再交由
     承辦人員虛報各該月份上開日期之出差旅費，共計詐取1 萬
     686 元之出差旅費。
 伍、
-一、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />緣謝東和、汪耀文（其與其弟汪耀能共同從事後開人蛇色
+一、緣謝東和、汪耀文（其與其弟汪耀能共同從事後開人蛇色
     情之不法勾當）係東南亞之越南、印尼、菲律賓、泰國之外
     國人之人蛇勞力仲介集團及人蛇色情集團之首領，謝東和、
     汪耀文又與外事警員曾瑞昌（其自91年12月至95年5 月任職
@@ -400,12 +293,12 @@ function openwin(URL,arguments,width,height)
     年2 月至91年5 月任職台北縣政府警察局樹林分局外事組警
     員，又於91年10月至95年3 月任職台北縣政府警察局樹林分
     局警備隊巡佐，借調樹林分局外事組）熟識；謝東和與汪耀
-    文二人間又相互熟識，互為利用。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />又崔大偉與陳金暉曾在
+    文二人間又相互熟識，互為利用。又崔大偉與陳金暉曾在
     台北縣警察局外事課管理股有上下級長官之關係而熟識。外
     事警官李宗洮則自92年10月22日至95年2 月24日止接任崔大
     偉之台北縣警察局外事課管理股股長乙職。陳清禮因曾任職
     台北縣警察局樹林分局外事組，其與同單位之曾瑞昌及曾在
-    上開單位任職之陳金暉熟識。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />謝東和、汪耀文（由台灣板
+    上開單位任職之陳金暉熟識。謝東和、汪耀文（由台灣板
     橋地方法院以95年度矚重訴字第4 號審理）均在台北縣樹林
     市從事上開不法人蛇業務，謝東和又將人蛇大本營設於台北
     縣樹林市○○路458 號、462 號、464 號之大樓內（按係中
@@ -413,7 +306,7 @@ function openwin(URL,arguments,width,height)
     14樓、16樓）（中正路462 號14樓則為曾瑞昌之居所），因
     而謝東和與管轄之台北縣警察局樹林分局外事組警員曾瑞昌
     熟識，汪耀文則與管轄之台北縣警察局樹林分局外事組巡佐
-    陳清禮熟識。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />曾瑞昌因欲從事非法之越南及印尼勞工之不
+    陳清禮熟識。曾瑞昌因欲從事非法之越南及印尼勞工之不
     法人力仲介，於其任職警員之93年3 月23日即與謝東和、楊
     約諾（綽號BILLY ，為印尼籍華人，其為本院通緝中，另結
     ）、周瑞祺等人共同以他人名義登記成立杜達國際有限公司
@@ -439,7 +332,7 @@ function openwin(URL,arguments,width,height)
     三人共同合夥從事不法人力仲介，後實際上亦設於台北縣樹
     林市○○路462 號10樓）、83年即已成立之阿克拉國際有限
     公司（下稱阿克拉公司，負責人為謝東和，址設台北縣樹林
-    市○○路462 號10樓）從事不法人力仲介。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />因曾瑞昌執行
+    市○○路462 號10樓）從事不法人力仲介。因曾瑞昌執行
     其上開警察職務，得知原屬合法在台外勞後因屆期返國之越
     南、印尼、菲律賓之外勞之在母國之資料，嗣與謝東和、汪
     耀文人蛇集團合作，派遣集團成員為東南亞國籍之人如下開
@@ -492,7 +385,7 @@ function openwin(URL,arguments,width,height)
     北縣樹林市○○路129 號2 樓、27號、39號2 樓等地，再與
     其弟汪耀能及旗下馬伕接送該等外籍女子至台北縣泰山鄉、
     樹林市轄內之KTV 、按摩店從事特種行業，並資抽傭營利。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />謝東和之人蛇集團在東南亞女子來台後，即由陳品豪、阮
+    謝東和之人蛇集團在東南亞女子來台後，即由陳品豪、阮
     氏絨前往中正機場接機，除將渠等所持新舊護照收走外，並
     帶至謝東和位在台北縣樹林市○○路462 號10樓之三奇公司
     、華城公司、阿克拉公司及該棟大樓其他多處地點、位在桃
@@ -516,7 +409,7 @@ function openwin(URL,arguments,width,height)
     蛇集團之運作尚與「謝東和人蛇集團」無涉，且汪耀文、汪
     耀能人蛇集團不在本院審判範圍內，故不贅述汪耀文、汪耀
     能人蛇集團之犯行】
-二、<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />陳金暉因任職於台北縣警察局外事課期間，因在第一線櫃
+二、陳金暉因任職於台北縣警察局外事課期間，因在第一線櫃
     檯辦理外籍勞工居留業務時，就外勞委託仲介公司人員所繳
     納之辦理延長居留規費加以侵吞，因而為台灣板橋地方法院
     檢察署於94年12月19日以94年偵字17664 號提起公訴（後經
@@ -530,7 +423,7 @@ function openwin(URL,arguments,width,height)
     95 年 農曆年前，分二次第一次以每張15,000元之價格、第
     二次以每張8,000 元之價格透過陳金暉各購買15張、200 張
     ，陳金暉因而於該二次接續牙保崔大偉與陳清禮之間之重入
-    國許可證之買賣。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />陳清禮透過陳金暉向崔大偉購得上開重
+    國許可證之買賣。陳清禮透過陳金暉向崔大偉購得上開重
     入國許可證後，曾瑞昌與謝東和、楊約諾為從事上開所述之
     人蛇事業，且渠等雖明知上開重入國許可證為來歷不明之贓
     物，曾瑞昌甚且明知係崔大偉自警政署外事組不法取得之贓
@@ -553,8 +446,8 @@ function openwin(URL,arguments,width,height)
     、公務員登載不實文書諸犯行，均係基於共同概括犯意聯絡
     為之）：
   (一)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B12A0A00000040.GIF" />謝東和、曾瑞昌處因有上開伍一<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />之管道取得重入國許可證
+  
+  謝東和、曾瑞昌處因有上開伍一之管道取得重入國許可證
     ，乃與周瑞祺、周瑞祺之越南國籍妻子PHAN THI VIET HA（
     潘氏越霞）合作，於民國94年12月間起，利用周瑞祺妻子潘
     氏越霞係越南人之機會，先由潘氏越霞在越南河內虛設人力
@@ -581,7 +474,7 @@ function openwin(URL,arguments,width,height)
     交予周瑞琪，以利周瑞祺介紹其等受僱於我國僱主時，出示
     在台僱主之用。渠等犯罪計畫既定，乃分頭進行。又越南女
     子VU THI NHAN （譯名武氏顏）、BUI THI THUY（譯名裴氏
-    翠，裴氏翠之部分見下開<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />）、HO THI SEN（譯名胡氏蓮）
+    翠，裴氏翠之部分見下開）、HO THI SEN（譯名胡氏蓮）
     、NGUYEN THI HANH （譯名阮氏幸）、TRINH THI NGUYET
     （譯名鄭氏月）、NGUYEN THI HOA（譯名阮氏花）、
     NGUYENTHI THANH （阮氏青）、NGUYEN MINH DIEP（譯名阮
@@ -624,7 +517,7 @@ function openwin(URL,arguments,width,height)
     。8.阮氏花原經勞委會核准在台北縣樹林市○○路○ 段218
     號盧正勝處擔任外勞，工作期滿於93年2 月26日出境返回越
     南，又於94年12月15日持用內容不實之重入國許可證入境。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6B22A0A00000040.GIF" />周瑞祺並承前同一詐欺取財之概括犯意，於95年1 月26日仲
+  周瑞祺並承前同一詐欺取財之概括犯意，於95年1 月26日仲
     介位在台北縣林口鄉○○路12號之「永成蛋品工廠」（按係
     永成蛋品股份有限公司之工廠）謝孟璋僱用鄭氏月、阮氏花
     二人，約明每仲介一名外勞，外勞工作期間前18個月，每月
@@ -653,7 +546,7 @@ function openwin(URL,arguments,width,height)
     欺未遂）。惟95年3 月24日，因武氏顏持逾期健保卡及偽造
     居留證經武氏顏報警將周瑞琪查獲，經媒體披露此事，謝孟
     璋始查覺受騙，自行報警，查悉上情。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />周瑞祺與黃幸運自94年12月間起即形成共同之犯意聯絡，欲
+  周瑞祺與黃幸運自94年12月間起即形成共同之犯意聯絡，欲
     非法仲介外籍女子工作，周瑞祺並請黃幸運代為找尋租屋處
     ，以安置周瑞祺與謝東和合作陸續引進之上述多名越南女子
     ，黃幸運於95年初向不知情之張正玄，租賃張正玄母親所有
@@ -694,7 +587,7 @@ function openwin(URL,arguments,width,height)
     園縣蘆竹鄉○○路100 號之「池上便當店」工作，並以周瑞
     祺交代之上述方式，向林月琴要求每月須扣除仲介費11,700
     元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />武氏顏因在越南已交付予潘氏越霞美金6 千元，然周瑞琪竟
+  武氏顏因在越南已交付予潘氏越霞美金6 千元，然周瑞琪竟
     仍以其交付武氏顏偽造之外僑居留證為藉口，故要每月扣其
     11,700 元 ，武氏顏心生不滿，在「泉盛纖維公司」打電話
     詢問潘氏越霞，並稱其要返回越南，詎潘氏越霞竟恫稱若武
@@ -725,7 +618,7 @@ function openwin(URL,arguments,width,height)
     PAZ 、阮氏粉、阮氏蓮、裴氏翠、胡氏蓮、LILK VI
     UDANSARI之護照各1 本、偽造之DACANAY LARRY LOUIE DELA
     PAZ 外僑居留證1 張。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />菲律賓男外勞DACANAY LARRY LOUIE DELA PAZ原經勞委會核
+  菲律賓男外勞DACANAY LARRY LOUIE DELA PAZ原經勞委會核
     准在台北縣五股鄉○○○路36號4 至5 樓之精碟科技股份有
     限公司擔任外勞，後因工作屆期於94年2 月24日返國，「謝
     東和人蛇集團」透過菲律賓SKYTOP仲介公司不詳共犯，向DA
@@ -749,7 +642,7 @@ function openwin(URL,arguments,width,height)
     112- 4號逃離。警方直至95年3 月30日晚間10時許，始在蘆
     竹鄉○○路110-4 號、112-4 號尋獲遭劉淑惠等人帶返該處
     之DACANAY LARRY LOUIE DELA PAZ。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />阮氏粉（NGUYEN THI PHAN ）原經勞委會核准來台，在雲林
+  阮氏粉（NGUYEN THI PHAN ）原經勞委會核准來台，在雲林
     縣麥寮鄉富泰企業社擔任外勞，後因工作期滿出境返回越南
     ，潘氏越霞在越南鼓吹裴氏翠再以重入境之方式入境我國工
     作，阮氏粉不知係以內容不實之重入國許可證方式入境，乃
@@ -774,7 +667,7 @@ function openwin(URL,arguments,width,height)
     帶阮氏粉、阮氏蓮四處躲藏，後因黃幸運、劉淑惠於95年3
     月30日亦遭警方逮捕，阮氏粉、阮氏蓮乃四處藏匿，後經該
     二人於95年9 月12日向南投縣警察局草屯分局投案。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />陳氏明仙（TRAN THI MINH TIEN）原經勞委會核准來台，在
+  陳氏明仙（TRAN THI MINH TIEN）原經勞委會核准來台，在
     桃園縣八德市○○路80號陳王銀宅擔任外勞，後因工作期滿
     於94年10月3 日出境返回越南，「謝東和人蛇集團」共犯之
     某越南女子在越南鼓吹陳氏明仙再以重入境之方式入境我國
@@ -810,7 +703,7 @@ function openwin(URL,arguments,width,height)
     張，又在陳氏明仙之護照內扣得編號398459號重入國許可證
     。
   (二)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />陳怡妗（泰籍，JIRAPHON CHEN ）與本國之陳劍強結婚後，
+  陳怡妗（泰籍，JIRAPHON CHEN ）與本國之陳劍強結婚後，
     因感情不睦，離家出走，因而於居留期限於95年2 月13日到
     期前無法辦理延長居留，乃於95年2 月22日尋得其在中壢市
     ○○路500 號之泰式按摩店認識之「阿雄」陳品豪以延期3
@@ -831,7 +724,7 @@ function openwin(URL,arguments,width,height)
     5 月23日入境後，即自行至其前在中壢市○○路500 號之泰
     式按摩店旗下之位在桃園市○○路720 號B1之「桂河泰式按
     摩店」（即桂河古式養生館）工作。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />阮氏燕（NGUYEN THI YEN）原經勞委會核准來台，在南投縣
+  阮氏燕（NGUYEN THI YEN）原經勞委會核准來台，在南投縣
     埔里鎮吉祥巷6 號吳明亮宅擔任外勞，後因工作期滿於94年
     9 月3 日出境返回越南，阮氏絨在越南鼓吹阮氏燕再以重入
     境之方式入境我國工作，阮氏燕不知係以內容不實之重入國
@@ -846,7 +739,7 @@ function openwin(URL,arguments,width,height)
     護照。至95年4 月某日，陳品豪將阮氏燕仲介至桃園市○○
     路720 號B1之「桂河泰式按摩店」工作，並出示阮氏燕之偽
     造外僑居留證以取信於該店負責人（未有抽傭之證據）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />嗣警方於95年10月4 日下午6 時許，至桃園市○○路720 號
+  嗣警方於95年10月4 日下午6 時許，至桃園市○○路720 號
     B1之「桂河泰式按摩店」臨檢，發現陳怡妗、阮氏燕及另二
     越南女子鄧氏九、阮氏青（該二人之不法身分見下開附件四
     ）之非法身分，並在陳怡妗處扣得護照1 本、登載不實之外
@@ -858,7 +751,7 @@ function openwin(URL,arguments,width,height)
     月26日合法抵台依親之外配，其之居留效期僅至95年1 月26
     日，其在效期屆至前未合法申辦延長居留，然其之真版外僑
     居留證背面竟有二次登載不實之延長居留之紀錄）。
-  (三)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />謝東和以其同居女友黎氏庄之名義，於94年7 月9 日承租
+  (三)謝東和以其同居女友黎氏庄之名義，於94年7 月9 日承租
     台北縣樹林市○○路458 號12樓，以作為拘禁並提供派工前
     之外籍女子住宿之用。又同氏幸（DONG THI HANH ）原經勞
     委會核准來台，在遠東紡織股份有限公司新竹湖口廠擔任外
@@ -889,7 +782,7 @@ function openwin(URL,arguments,width,height)
     號、112-4 號等處所，而未能救回為「謝東和人蛇集團」拘
     禁之其他外籍女子，然警方仍在台北縣樹林市○○路462 號
     10號門外之消防箱內起出阮氏嫩（NGUYEN THI NON）之編號
-    A0000000A 之護照1 本。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />經警方調取阮氏嫩之外僑居留資
+    A0000000A 之護照1 本。經警方調取阮氏嫩之外僑居留資
     料查詢－明細內容顯示畫面發現，「謝東和人蛇集團」與不
     詳之台北縣政府警察局外事課員警基於共同之犯意聯絡，由
     該外事警察於94年5 月11日上午9 時58分間在無合法申請資
@@ -903,7 +796,7 @@ function openwin(URL,arguments,width,height)
     局外事課雇員李如婷所輸入，李如婷與該課員警間何人涉案
     ，應由檢察官深入追查）。
   (四)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />阮氏心（NGUYEN THI TAM）原經勞委會核准來台，在台北市
+  阮氏心（NGUYEN THI TAM）原經勞委會核准來台，在台北市
     ○○區○○街72巷5 號3 樓柯玉潔宅擔任外勞，後因工作期
     滿於93年10月30日出境返回越南，「謝東和人蛇集團」在越
     南之不詳共犯宣稱阮氏心可再以「專門給到過台灣之越南人
@@ -919,7 +812,7 @@ function openwin(URL,arguments,width,height)
     國許可證之舊護照及外僑居留證。約2 週後，周瑞祺先將阮
     氏心仲介至某餐廳工作，因阮氏心不勝任該工作，乃又回至
     上開不詳之住宿地點。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />武氏水（VO THI THUY）原經勞委會核准來台，在台北市士林
+  武氏水（VO THI THUY）原經勞委會核准來台，在台北市士林
     區○○○路○ 段80巷51弄4 號洪碧蓮宅擔任外勞，後因工作
     期滿於93年12月26日出境返回越南，「謝東和人蛇集團」在
     越南之不詳共犯綽號「阿河」女子向武氏水宣稱可再入境我
@@ -933,7 +826,7 @@ function openwin(URL,arguments,width,height)
     證之舊護照，另交予武氏水1 張偽造之依親名義外僑居留證
     。至95年5 月初起，陳品豪仲介並載送武氏水至各地打零工
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />NGUYEN THI PHONG原經勞委會核准來台，在台北市士林區○
+  NGUYEN THI PHONG原經勞委會核准來台，在台北市士林區○
     ○○路131 號張慧嫻宅擔任外勞，後於94年4 月19日出境返
     回越南，「謝東和人蛇集團」在越南之不詳共犯綽號「阿大
     」男子向NGUYEN THI PHONG宣稱可再入境我國工作，NGUYEN
@@ -948,7 +841,7 @@ function openwin(URL,arguments,width,height)
     集團」不詳共犯接機後載送其至不詳地點居住，並收走其之
     貼有重入國許可證之舊護照，另由周瑞祺派工（如下述）時
     交予NGUYEN THI PHONG1 張偽造之依親名義外僑居留證。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />范氏秋（PHAM THI THU）原經勞委會核准來台，在高雄市楠
+  范氏秋（PHAM THI THU）原經勞委會核准來台，在高雄市楠
     梓加工區○○路42號楠梓電子股份有限公司擔任外勞，後因
     工作期滿於94年4 月28日出境返回越南，「謝東和人蛇集團
     」在越南之不詳共犯綽號「阿河」女子向范氏秋宣稱可再入
@@ -961,7 +854,7 @@ function openwin(URL,arguments,width,height)
     點居住，並收走其之貼有重入國許可證之舊護照，另由陳品
     豪派工（如下述）時交予范氏秋1 張偽造之依親名義外僑居
     留證。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />VU THI VOC原經勞委會核准來台，在台北市○○區○居街46
+  VU THI VOC原經勞委會核准來台，在台北市○○區○居街46
     巷7 號財團法人台北市私立大安老人養護所擔任外勞，後因
     工作期滿於94年5 月14日出境返回越南，「謝東和人蛇集團
     」在越南之不詳共犯女子向VU THI VOC宣稱可再入境我國工
@@ -975,7 +868,7 @@ function openwin(URL,arguments,width,height)
     陳品豪派工（如下述）時交予VU THI VOC1 張偽造之依親名
     義外僑居留證。陳品豪曾於95年4 月間仲介VU THI VOC至某
     處私宅擔任看護工約10日。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />嗣陳品豪於95年3 月中旬以出示外僑居留證予位在新竹市○
+  嗣陳品豪於95年3 月中旬以出示外僑居留證予位在新竹市○
     ○路5 號2 樓「湄南河泰式按摩店」負責人李晶晶，使其誤
     信阮氏心在台有合法工作權之情形下同意雇佣阮氏心，陳品
     豪因而成功仲介阮氏心至該按摩店工作，使陳品豪得以每月
@@ -1053,7 +946,7 @@ function openwin(URL,arguments,width,height)
     察官誤為不起訴處分，然被告廖馬克已在本院審理時證述渠
     二人之犯行，核與本案相關事證相符，是既已有確實之新證
     據，自應由檢察官重啟偵查，另蘇昌安及ELLI共同剝奪下
-    開(十)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />SARMINIH 之行動自由亦應由檢察官簽分偵辦）
+    開(十)SARMINIH 之行動自由亦應由檢察官簽分偵辦）
   (六)曾瑞昌、謝東和、丘傑福、楊約諾、蘇昌安、丘傑福等人之
     上開人蛇仲介集團，於94年間，獲悉廖德祿所經營址設臺北
     縣鶯歌鎮○○○路345 巷7 號「良興陶瓷股份有限公司」（
@@ -1064,7 +957,7 @@ function openwin(URL,arguments,width,height)
     之SUPRIYATI 、SITI PATONAH、NURHAYATI 、ADI BIN
     NURWENDA、ANTO SUDIANTO 等印尼籍人士（均經檢察官為不
     起訴處分）來臺工作，而連續為下列犯行：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />由丘傑福在印尼當地招募原已合法來台工作，後因屆期返回
+  由丘傑福在印尼當地招募原已合法來台工作，後因屆期返回
     印尼之SUPRIYATI ，SUPRIYATI 不知係要以不實之重入境方
     式來台，陷於錯誤交付不詳之代辦款項，再由不詳之有犯意
     聯絡之不詳之外事員警（未據偵辦）不實填載編號208120號
@@ -1095,11 +988,11 @@ function openwin(URL,arguments,width,height)
     ，俟於95年6 月29日，再換由吳建堂以宏倫國際有限公司（
     下稱宏倫公司）籌備處負責人名義，授權廖馬克與良興公司
     簽約，而承受上開人力派遣契約（此係因警方於95年4 月25
-    日查獲盛士公司，為掩人耳目，故為換約，以下<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />至<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />之情
+    日查獲盛士公司，為掩人耳目，故為換約，以下至之情
     形均相同），因而非法仲介工作，並於SUPRIYATI 如附件五
     編號1 所示之工作期間內，依附件五編號1 所示之方式，按
     月從SUPRIYATI 之薪資中扣取費用牟利。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />由楊約諾在印尼當地招募原已合法來台工作，後因屆期返回
+  由楊約諾在印尼當地招募原已合法來台工作，後因屆期返回
     印尼之SITI PATONAH，SITI PATONAH不知係要以不實之重入
     境方式來台，陷於錯誤交付不詳之代辦款項，再由不詳之有
     犯意聯絡之不詳之外事員警（未據偵辦）不實填載編號2140
@@ -1121,7 +1014,7 @@ function openwin(URL,arguments,width,height)
     示之工作期間內，依附件五編號2 所示之方式，按月從SITI
     PATONAH 之薪資中扣取費用牟利。嗣於96年11月27日17時許
     ，SITI PATONAH在上址工廠內為警查獲，始悉上情。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />由上開人蛇集團成員某真實姓名年籍均不詳、自稱AINI之成
+  由上開人蛇集團成員某真實姓名年籍均不詳、自稱AINI之成
     年人，在印尼當地招募原已合法來台工作，後因屆期返回印
     尼之NURHAYATI ，NURHAYATI 不知係要以不實之重入境方式
     來台，陷於錯誤交付不詳之代辦款項，再由「謝東和人蛇集
@@ -1143,7 +1036,7 @@ function openwin(URL,arguments,width,height)
     附件五編號3 所示之方式，按月從NURHAYATI 之薪資中扣取
     費用牟利。嗣於96年11月27日17時許，NURHAYATI 在上址工
     廠內為警查獲，始悉上情。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />由丘傑福在印尼當地招募原已合法來台工作，後因屆期返回
+  由丘傑福在印尼當地招募原已合法來台工作，後因屆期返回
     印尼之ADI BIN NURWENDA，ADI BIN NURWENDA不知係要以不
     實之重入境方式來台，陷於錯誤交付不詳之代辦款項，再由
     「謝東和人蛇集團」以上開方式將曾瑞昌購得之編號398356
@@ -1166,7 +1059,7 @@ function openwin(URL,arguments,width,height)
     BIN NURWENDA之薪資中扣取費用牟利。嗣於96年11月27日17
     時許，ADI BIN NURWENDA在上址工廠內為警查獲，始悉上情
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />由丘傑福在印尼當地招募原已合法來台工作，後因病返回印
+  由丘傑福在印尼當地招募原已合法來台工作，後因病返回印
     尼之ANTO SUDIANTO ，ANTO SUDIANTO 不知係要以不實之重
     入境方式來台，陷於錯誤交付不詳之代辦款項，再由「謝東
     和人蛇集團」以上開方式將曾瑞昌購得之編號398363重入國
@@ -1205,7 +1098,7 @@ function openwin(URL,arguments,width,height)
     照為廖馬克收走，因而未扣得其之護照及內貼之重入國許可
     證）。
   (八)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />黎氏銀（LE THI NGAN ）原經勞委會核准來台，在苗栗縣竹
+  黎氏銀（LE THI NGAN ）原經勞委會核准來台，在苗栗縣竹
     南鎮○○路200 號陳碧汶宅擔任外勞（外僑居留證編號KD00
     000000），後因工作期滿於94年2 月27日出境返回越南，謝
     東和女友LI THI TRANG（黎氏庄）鼓吹黎氏銀再以重入境之
@@ -1249,7 +1142,7 @@ function openwin(URL,arguments,width,height)
     證背面偽造「核准文號：A239685 、居留期限：2008.01.24
     」之字樣（該字樣屬核准延期居留之證明，性質為特許證）
     ，均足生損害於我國對於外僑管理之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />伊桂蔓（ISTIQOMAH ，印尼籍）原經勞委會核准來台，在台
+  伊桂蔓（ISTIQOMAH ，印尼籍）原經勞委會核准來台，在台
     北縣新店市○○路55巷38號3 樓連惠敏宅擔任外勞（外僑居
     留證編號FD00000000），後因工作期滿於94年6 月21日出境
     返回印尼，「謝東和人蛇集團」共犯楊約諾鼓吹伊桂蔓再以
@@ -1291,7 +1184,7 @@ function openwin(URL,arguments,width,height)
     「謝東和人蛇集團」不詳分子在該外僑居留證背面偽造「核
     准文號：A239 124、居留期限：2008.02.10」之字樣，均足
     生損害於我國對於外僑管理之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />吳蒂（WATI，印尼籍）原經勞委會核准來台，在台中市○區
+  吳蒂（WATI，印尼籍）原經勞委會核准來台，在台中市○區
     ○○○路3 段292 巷6 號林美慧宅擔任外勞（外僑居留證編
     號BD00000000），後因工作期滿於94年1 月27日出境返回印
     尼，「謝東和人蛇集團」共犯楊約諾鼓吹吳蒂再以重入境之
@@ -1326,11 +1219,11 @@ function openwin(URL,arguments,width,height)
     詳分子在該外僑居留證背面偽造「核准文號：FB442958、居
     留期限：2008.05.02」之字樣，足生損害於我國對於外僑管
     理之正確性。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />嗣警方於96年6 月28日上午10時30分許至「璟騰滾珠科技股
+  嗣警方於96年6 月28日上午10時30分許至「璟騰滾珠科技股
     份有限公司」臨檢，發現黎氏銀、伊桂蔓、吳蒂之非法身分
     ，並扣得該三人之偽造外僑居留證。
   (九)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />李娜娜（NANA，印尼籍）原經勞委會核准來台，在台北縣板
+  李娜娜（NANA，印尼籍）原經勞委會核准來台，在台北縣板
     橋市○○路247 巷9 弄8 號3 樓陳啟宗宅擔任外勞（外僑居
     留證編號FD00000000），後因工作期滿於94年4 月20日出境
     返回印尼，「謝東和人蛇集團」共犯楊約諾鼓吹李娜娜再以
@@ -1363,7 +1256,7 @@ function openwin(URL,arguments,width,height)
     工作權，因而雇佣之，並使「謝東和人蛇集團」得以如上抽
     傭。直至本案案發，李娜娜自行至台北縣樹林市○○街219
     巷36之15號「岡固有限公司」工作。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />ULIA HIMATUL（印尼籍）原經勞委會核准來台，在台北市○
+  ULIA HIMATUL（印尼籍）原經勞委會核准來台，在台北市○
     ○區○○街106 號7 樓謝欣穎宅擔任外勞（外僑居留證編號
     AD00000000），後因工作期滿於94年6 月25日出境返回印尼
     ，「謝東和人蛇集團」共犯楊約諾鼓吹ULIA HIMATUL再以重
@@ -1395,7 +1288,7 @@ function openwin(URL,arguments,width,height)
     子之地點，故未查獲該處，俟警方收隊離開後，謝東和即唆
     使其拘禁之外籍女子逃逸，ULIA HIMATUL因此自行至台北縣
     樹林市○○街219 巷36之15號「岡固有限公司」工作。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />SRI HARINI（印尼籍）原經勞委會核准來台，在台北縣三重
+  SRI HARINI（印尼籍）原經勞委會核准來台，在台北縣三重
     市○○路○ 段113 巷1 弄21號周祥明宅擔任外勞，後因結束
     工作出境返回印尼，「謝東和人蛇集團」共犯楊約諾鼓吹
     SRI HARINI再以重入境之方式入境我國工作，SRI HARINI
@@ -1430,7 +1323,7 @@ function openwin(URL,arguments,width,height)
     號碼：FA09 3291 等事項（按經本院查明係台北縣政府警察
     局外事課雇員吳麗雪所輸入，吳麗雪與該課員警間何人涉案
     ，應由檢察官深入追查）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />嗣警方先於96年7 月5 日下午5 時25分許，在台北縣樹林市
+  嗣警方先於96年7 月5 日下午5 時25分許，在台北縣樹林市
     ○○街219 巷36之15號「岡固有限公司」臨檢時，查獲李
     娜娜、ULIA HIMATUL之非法身分（因渠等之護照、偽造外僑
     居留證均已為楊約諾收走，故未能扣得）。警方又於96年9
@@ -1438,7 +1331,7 @@ function openwin(URL,arguments,width,height)
     街23號3 樓租屋處查獲SRI HARINI，並扣得其之上開2 張偽
     造外僑居留證。
   (十)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />SARMINIH（印尼籍）原經勞委會核准來台，在台北市○○區
+  SARMINIH（印尼籍）原經勞委會核准來台，在台北市○○區
     ○○路3 段207 巷16弄10號楊嘉願宅擔任外勞，後因結束工
     作出境返回印尼，「謝東和人蛇集團」共犯楊約諾鼓吹
     SARMINIH再以假結婚依親重入境之方式入境我國工作，
@@ -1464,7 +1357,7 @@ function openwin(URL,arguments,width,height)
     安，蘇昌安再交予ELLI保管之菲律賓籍男子ARVIN ESCARZA
     MENDOZA 之護照1 本及偽造之依親名義外僑居留證1 張。警
     方再於95年4 月27日4 時許傳喚蘇昌安到案並加以拘提之。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />ORIGENES CLAUDIA CERO （菲律賓籍）原經勞委會核准來台
+  ORIGENES CLAUDIA CERO （菲律賓籍）原經勞委會核准來台
     ，在台中縣潭子鄉新田村龍興三莊88號羅勇輝宅擔任外勞，
     後因工作期滿出境返回菲律賓，「謝東和人蛇集團」之某共
     犯在菲律賓鼓吹ORIGENES CLAUDIA CERO 再以重入境之方式
@@ -1493,7 +1386,7 @@ function openwin(URL,arguments,width,height)
     載至上開址之盛士公司加以私行拘禁3 日左右。後由蘇昌安
     及其父蘇福海（亦為印尼華僑，未據偵辦）仲介至屏東不詳
     址工作（未有詐欺雇主之證據）。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />DENIH （印尼籍）原經勞委會核准來台擔任外勞，後因工作
+  DENIH （印尼籍）原經勞委會核准來台擔任外勞，後因工作
     期滿出境返回印尼，「謝東和人蛇集團」之在印尼共犯JUAN
     （按即丘傑福）在印尼鼓吹DENIH 再以重入境之方式入境我
     國工作，DENIH 不知係以內容不實之重入國許可證方式入境
@@ -1520,7 +1413,7 @@ function openwin(URL,arguments,width,height)
     蘇昌安抽取之。嗣於95年4 月25日上午9 時在台北縣三峽鎮
     ○○路222 巷254 弄97之29號之無店名之豆腐工廠為警尋獲
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />UONG THI THUAN（越南籍）原經勞委會核准來台在雲林縣莿
+  UONG THI THUAN（越南籍）原經勞委會核准來台在雲林縣莿
     桐鄉埔子126 之18號魏金獅宅擔任外勞，後因工作期滿於94
     年4 月1 日出境返回越南，「謝東和人蛇集團」之共犯阮山
     河在越南鼓吹UONG THI THUAN再以重入境之方式入境我國工
@@ -1538,7 +1431,7 @@ function openwin(URL,arguments,width,height)
     載至桃園市○○路362 巷77號之3 ，由劉國基加以私行拘禁
     。警方據ORIGENES CLAUDIA CERO 之供述，於95年4 月25日
     至桃園市○○路362 巷77號之3 救出UONG THI THUAN。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />BARROA EVELYN BARNUEVO（菲律賓籍）原經勞委會核准來台
+  BARROA EVELYN BARNUEVO（菲律賓籍）原經勞委會核准來台
     ，在台北市松山區○○○路○ 段69巷21弄12號4 樓陳如茵宅
     擔任外勞（外僑居留證號AD00000000），後因提前結束工作
     於93年10月8 日出境返回菲律賓，「謝東和人蛇集團」共犯
@@ -1570,7 +1463,7 @@ function openwin(URL,arguments,width,height)
     資25,000元中抽傭13,000元。嗣於95年4 月25日上午9 時在
     台北縣三峽鎮○○路222 巷254 弄97之29號之無店名之豆腐
     工廠為警尋獲。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />RUBANG JESUS VILLANUEVA （菲律賓籍）原經勞委會核准來
+  RUBANG JESUS VILLANUEVA （菲律賓籍）原經勞委會核准來
     台擔任外勞，在台南縣佳里鎮海澄里萊芊寮1 之23號擔任外
     勞，後因工作期滿於94年3 月17日出境返回菲律賓，「謝東
     和人蛇集團」之在菲律賓不詳共犯在菲律賓鼓吹RUBANG
@@ -1593,7 +1486,7 @@ function openwin(URL,arguments,width,height)
     95年4 月25日上午9 時在台北縣三峽鎮○○路222 巷254 弄
     97之29號之無店名之豆腐工廠為警尋獲，並扣得偽造之依親
     名義外僑居留證1 張。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />武氏六（越南籍，VU THI SAU）原經勞委會核准來台在台北
+  武氏六（越南籍，VU THI SAU）原經勞委會核准來台在台北
     縣中和市○○街121 巷8 之4 號林淑貞宅擔任外勞，後因結
     束工作於94年7 月22日出境返回越南，「謝東和人蛇集團」
     不詳共犯在越南鼓吹武氏六再以重入境之方式入境我國工作
@@ -1612,7 +1505,7 @@ function openwin(URL,arguments,width,height)
     新竹縣芎林鄉下山村6 鄰56號附近竹筍田中查獲武氏六，並
     扣得偽造之依親名義外僑居留證1 張。
   (十一)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />LUONG THI LAN （越南籍）原經勞委會核准來台擔任外勞，
+  LUONG THI LAN （越南籍）原經勞委會核准來台擔任外勞，
     在宜蘭縣冬山鄉○○路○ 段231 號中國唯一製衣廠股份有限
     公司擔任外勞，後因結束工作於94年4 月9 日出境返回越南
     ，「謝東和人蛇集團」周瑞琪尋得越南共犯阮氏珍在越南鼓
@@ -1631,7 +1524,7 @@ function openwin(URL,arguments,width,height)
     LAN 在台有合法工作權乃加以雇佣，「謝東和人蛇集團」則
     自LUONG THI LAN 之每月薪資中前5 月各抽傭11,700元，後
     5 月則各抽傭11,000元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />鄧氏娟（DANG THI QUYEN，越南籍）原經勞委會核准來台，
+  鄧氏娟（DANG THI QUYEN，越南籍）原經勞委會核准來台，
     在台中縣太平市○○路○ 段387 巷3 弄4 號曹麗芳宅擔任外
     勞，後因結束工作於94年9 月8 日出境返回越南，「謝東和
     人蛇集團」周瑞琪尋得越南共犯阮氏恒在越南鼓吹鄧氏娟再
@@ -1649,7 +1542,7 @@ function openwin(URL,arguments,width,height)
     人李淦瑄，李淦瑄誤信鄧氏娟在台有合法工作權乃加以雇佣
     ，「謝東和人蛇集團」之陳品豪、廖馬克則自鄧氏娟之每月
     薪資中抽傭11,000元，共抽傭7 月。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />DUONG THI THU （越南籍）原經勞委會核准來台，在台北市
+  DUONG THI THU （越南籍）原經勞委會核准來台，在台北市
     ○○區○○路10號5 樓王文慶宅擔任外勞，後因結束工作於
     94年10月7 日出境返回越南，「謝東和人蛇集團」周瑞琪尋
     得越南共犯阮氏恒在越南鼓吹DUONG THI THU 再以重入境之
@@ -1669,7 +1562,7 @@ function openwin(URL,arguments,width,height)
     」之陳品豪自DUONG THI THU 每月薪資中抽傭12,000元，共
     抽傭5 月，再由廖馬克抽傭1 月12,000元，再由黃幸運抽傭
     1 月1 萬元。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />警方於96年6 月23日晚間9 時10分許，在桃園縣龜山鄉○○
+  警方於96年6 月23日晚間9 時10分許，在桃園縣龜山鄉○○
     ○路○ 段327 之1 號翔源科技有限公司查獲LUONG THI LAN、
     鄧氏娟、DUONG THI THU 之非法身分（台灣板橋地方法院檢
     察署檢察官以96年度偵字第18908 號處分周瑞祺、黃幸運不
@@ -1887,7 +1780,7 @@ function openwin(URL,arguments,width,height)
 一、95年10月4 日下午12時30分在曾瑞昌位於台中市○○區○○
     街2 號住處扣得筆記型電腦一台。
 二、95年10月4 日下午5 時50分在桃園市○○路720 號地下一樓
-    「桂河泰式按摩店」內扣得之物品如上開伍三(二)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />所示。
+    「桂河泰式按摩店」內扣得之物品如上開伍三(二)所示。
 三、95年10月4 日下午4 時10分在崔大偉位於台北市○○街127
     巷27號3 樓住處扣得92年12月24日跨行匯款申請書（金額
     110 萬元）、92年12月24日跨行匯款申請書（金額90萬元）
@@ -1911,7 +1804,7 @@ function openwin(URL,arguments,width,height)
     年9 月4 日至95年10月4 日共計510 人）、同業、朋友（鄭
     香溢等8 名）、警察（邱錦美等5 名）電話號碼簿共3 張。
     又於95年11月16日上午11時至同一地點搜索，扣得阮氏嫩之
-    護照1 本（如上開伍三(三)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所述）。
+    護照1 本（如上開伍三(三)所述）。
 八、95年10月4 日上午10時40分，在薛文仲位於台北市○○區○
     ○路50號5 樓之1 之住處扣得之MOTOROLA手機2 支、台灣銀
     行存摺4 本、中華郵政儲金簿1 本、中華郵政存款單及台灣
@@ -2326,34 +2219,34 @@ function openwin(URL,arguments,width,height)
   (二)被告曾瑞昌僅代為聯絡購買「重入國許可證」一事，至於有
     關仲介外勞及處理來台外籍人士居住事宜等事則非被告所知
     悉：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />依上述所稱，被告僅係處理有關購買「重入國許可證」一事
+  依上述所稱，被告僅係處理有關購買「重入國許可證」一事
     ，至於其他事物皆由謝東和或楊約諾等人處理，再加上被告
     僅為單純警員，故對於謝、楊兩人如何合作、如何聯絡外籍
     人士來台、如何處理外籍人士來台後之生活…等問題及解決
     方式皆不甚瞭解。因此對於謝東和、楊約諾兩人是否限
     制來台外籍人士行動，被告並不清楚，更無共謀或參與任何
     限制來台外籍女子自由或詐欺之行為。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />另同案被告阮氏絨雖證稱其係由被告曾瑞昌與謝東和所僱用
+  另同案被告阮氏絨雖證稱其係由被告曾瑞昌與謝東和所僱用
     ，但阮氏絨於95年10月3 日庭訊時稱是由「謝先生」叫其管
     理外籍女子，且其並稱周瑞祺亦有給予13,000元，此外阮氏
     絨亦稱其自94年10、11月起即跟周瑞祺一起從事仲介工作。
     故綜合上述, 阮氏絨應為周瑞祺或謝東和所僱用，並非為被
     告工作，更何況被告並非華城公司老闆，豈有需要僱用阮氏
     絨？
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />依證人周瑞祺所述，其與謝東和有合作關係，而且被害人亦
+  依證人周瑞祺所述，其與謝東和有合作關係，而且被害人亦
     係透過證人之妻引介，可見本案乃由謝東和或證人所為。故
     依證人證詞可知，就人力仲介之事務，證人皆係與謝東和連
     絡，而被告亦未曾和其接洽，此亦可證明被告所言未參與合
     夥事業經營一事實為真實，因此被告對於謝東和等涉及詐欺
     、偽造文書及妨害自由等行為時皆未參與。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />依被害人武氏顏、胡氏蓮…等人之證詞觀之，其等自始至終
+  依被害人武氏顏、胡氏蓮…等人之證詞觀之，其等自始至終
     皆未與被告有所接觸，與被害人接洽的不外是周瑞祺、黃幸
     運、阮氏絨等人，而限制被害人行動自由者亦為周瑞祺等人
     ，實與被告無關。
   (三)根據證人陳品豪、周瑞祺、謝東和等人於本院審理時之證述
     可證，被告曾瑞昌並未參與偽造重入國許可證或限制越南女
     子自由之行為：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />根據證人陳品豪於101 年5 月3 日本院審理時之證述，證人
+  根據證人陳品豪於101 年5 月3 日本院審理時之證述，證人
     陳品豪係證稱乃楊約諾請其幫助阮氏絨至桃園機場搭載越南
     女子，而且楊約諾亦有給付報酬與證人陳品豪，且亦由楊約
     諾要其去面試工作，並由阮氏絨面試，另證人陳品豪亦稱「
@@ -2361,7 +2254,7 @@ function openwin(URL,arguments,width,height)
     人陳品豪上開證詞可知，證人陳品豪係受雇於楊約諾，被告
     曾瑞昌並未參與證人陳品豪、周瑞祺、謝東和及楊約諾等人
     仲介越南女子之行為。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />又根據證人周瑞祺95年9 月27日於偵查中證逑係由謝東和將
+  又根據證人周瑞祺95年9 月27日於偵查中證逑係由謝東和將
     重入國許可證貼於越南女子之舊護照上，並於偵查中及本院
     審理時表示護照亦由謝東和交付；再者，證人周瑞祺於偵查
     中及本院審理中亦證稱說越南女子自己搭機來台，被告謝東
@@ -2373,7 +2266,7 @@ function openwin(URL,arguments,width,height)
     曾瑞昌一次（若被告曾瑞昌與周瑞祺有合夥關係當不只會面
     一次），以上證詞足證被告曾瑞昌並未參與偽造重入國許可
     證或限制越南女子自由之行為。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人謝東和已於本院時證述係由楊約諾將偽造重入國許可證
+  證人謝東和已於本院時證述係由楊約諾將偽造重入國許可證
     交付予他，並於97年1 月30日偵查中表示越南女子居留證係
     由楊約諾所偽造（參見96年度偵字第20787 號卷第55頁，當
     時蘇昌安亦有相同之表示）且根據證人周瑞祺之多次證述可
@@ -2611,13 +2504,13 @@ function openwin(URL,arguments,width,height)
   (一)依被告之職掌內容及被告任職期間，根本並無從事核發外國
     人合法申請重入國許可證之業務，亦從未領用、使用過重入
     國許可證，自不可能有本件檢察官起訴之犯行：
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告於服務桃園縣警察局外事課期間，係負責非法外勞查緝
+  被告於服務桃園縣警察局外事課期間，係負責非法外勞查緝
     及外勞、外僑出入境業務，從未辦理由櫃檯警員負責受理及
     製發重入國許可證之申請業務，亦未曾領用或保管重入國許
     可證，此有鈞院卷（二）第245 頁桃園縣政府警察局函即載
     有：「薛文仲職掌業務詳如附表，其業務職掌並無負貴受理
     重入國許可證之製發」等語至明。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />且被告於93年9 月調職至大溪分局前，根本不會使用電腦（
+  且被告於93年9 月調職至大溪分局前，根本不會使用電腦（
     如需使用電腦繕打公文時，均央請同事協助，此亦有證人陳
     俊綱101 年5 月31日於鈞院之證稱：「（問：是否知道被告
     薛文仲會使用電腦？）他會上網，但是文書作業他大部分都
@@ -2627,14 +2520,14 @@ function openwin(URL,arguments,width,height)
     398 開頭之重入國許可證放進其抽屜或將伊所領用編號298
     開頭之重入國許可證交付被告使用」等情，顯係昧於事實諉
     過之辭。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />又被告固曾於記載編號398495、398496、398499及398500之
+  又被告固曾於記載編號398495、398496、398499及398500之
     外籍勞工居留案件申請表中之審核欄中蓋章，然類此申請表
     乃由櫃台人員於製發重入國許可證後，再將申請表格交由被
     告或其他巡佐、課員核章，故審核人員審核時僅係著重於判
     斷該名獲准重入國之外國人有無不應許可入境情事，至於許
     可證流水號實非核對重點，故除被告以外，其他審核人員均
     同未發現被告許賢仁塗改申請表格重入國許可證字號。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />準此，被告既無經辦有關核發「重入國許可證」之業務，且
+  準此，被告既無經辦有關核發「重入國許可證」之業務，且
     根本不認識本案被告如崔大偉、陳金暉、曾瑞昌、曾浚淇或
     謝東和，亦無任何淵源? 如何能有管道取得警政署遺失之重
     入國許可證。足見起訴書稱「被告自不詳途逕從崔大偉處取
@@ -2642,7 +2535,7 @@ function openwin(URL,arguments,width,height)
     入國許可證30張（編號000000-000000)交予周瑞祺、謝東和
     等人之人蛇集團用以偽造重入國許可證」云云均為臆語，並
     無任何證據，自無足採。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />本件檢察官僅以同案被告許賢仁對被告不利之陳述即加以起
+  本件檢察官僅以同案被告許賢仁對被告不利之陳述即加以起
     訴，惟許賢仁所述前後矛盾，且與其他證人所述不符，顯不
     足採，根本無法作為認定被告有罪之依據。且依前開說明已
     知薛文仲並無職掌任何有關核發「重入國許可證」或支援核
@@ -2914,7 +2807,7 @@ function openwin(URL,arguments,width,height)
     新增／異動資料，不能以此作為崔大偉沒有作上開不實更新
     之依據。
 五、另亦有下開伍一(五)證人陳清禮96年1 月19日警詢證詞、伍一
-    (六)<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />陳清禮與本案承辦警官楊宏祐之通聯譯文可證。
+    (六)陳清禮與本案承辦警官楊宏祐之通聯譯文可證。
 六、綜上，此部分事實足堪認定。
 貳、事實欄貳部分
 一、被告崔大偉之辯護人雖否認林金貴（SURIANTO ANG）、汪英
@@ -3337,7 +3230,7 @@ function openwin(URL,arguments,width,height)
     次。」、「（問：你與崔大偉是否有過節？）沒有。」等語
     。
   (五)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />95年11月16日證人吳麗雪於接受台灣板橋地方法院檢察署偵
+  95年11月16日證人吳麗雪於接受台灣板橋地方法院檢察署偵
     訊時結證稱其於95年10月11日之警詢筆錄內容均實在，且警
     方無對其刑求逼供或不法取供，筆錄均經其親閱才簽名。是
     其於95年10月11日之警詢證詞已合法轉為該次偵訊內容，且
@@ -3345,7 +3238,7 @@ function openwin(URL,arguments,width,height)
     容較為粗要，然無論如何，95年10月11日之警詢證詞既已合
     法轉為該次偵訊內容，則該次警詢內容與待證事項有關者，
     仍有論述並認定為犯罪事實證據之必要。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />95年10月11日警詢時證稱（見台灣板橋地方法院檢察署95年
+  95年10月11日警詢時證稱（見台灣板橋地方法院檢察署95年
     度偵字第21982 號卷第33頁以下）：「（問：本署依據板橋
     地方法院檢察署指示於95年9 月8 日13時許經由妳本人同意
     搜索，在妳停放於板橋地方法院前妳所有的J6V-695 號機車
@@ -3434,7 +3327,7 @@ function openwin(URL,arguments,width,height)
     SUWAN （1975/07/29、護照號碼：U548646 ）外僑居留資料
     原為『居留事由：外勞、護照號碼：K584625 、居留證號：
     FCD0000000』，變更後為『護照號碼：U543646 、居留事由
-    ：依親、依親對象: <font color='red'>張麗芬</font>（身分證號；Ｚ000000000）、居
+    ：依親、依親對象: 張麗芬（身分證號；Ｚ000000000）、居
     留地址：238 臺北縣樹林市○○路57號、申請日期：2005年
     03月28日、收據號碼：FA083989、居留證號：FC00000000、
     居留效期：2006年03月28日～2008年03月28日』，其變更資
@@ -3445,7 +3338,7 @@ function openwin(URL,arguments,width,height)
     0950138106號函回覆『身分證號：Ｚ000000000配賦予郭育芸
     、出生日期為62年9 月29日』及臺北縣樹林市戶政事務所以
     北縣樹戶字第0950004866號函回覆『中正路57號由陳有杰等
-    6 人設籍、無<font color='red'>張麗芬</font>此人』，顯示外籍人士KHANTHOTHONG
+    6 人設籍、無張麗芬此人』，顯示外籍人士KHANTHOTHONG
     SUWAN （1975/07/29、護照號碼：U548646 ）外僑居留依親
     資料均為造假，該依親資料是否為妳本人所偽造及鍵入電腦
     ？或是由何人提供給妳該資料？）是由我鍵入的，資料是崔
@@ -4210,7 +4103,7 @@ function openwin(URL,arguments,width,height)
   (四)由上可知，證人薛友禎前後所述完全一致，亦與證人包惠文
     所證相符。
   (五)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />就內政部警政署96年3 月13日警署外字第0960049231號函之
+  就內政部警政署96年3 月13日警署外字第0960049231號函之
     報告內容，台南縣政府警察局外事課因櫃檯將拆除，股長薛
     友禎於整理櫃檯，並將電腦主機移置辦公桌面時，發現第4
     號櫃檯之電腦主機與可移動底座間夾藏一信封袋，經取出檢
@@ -4232,7 +4125,7 @@ function openwin(URL,arguments,width,height)
     記表，發現該等三人係分別以編號397028、397023、397024
     重入國許可證入境，益可證被告崔大偉自警政署外事組竊得
     397 、398 開頭之重入國許可證。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />就此，證人薛友禎於96年8 月1 日本院審理時證稱：「崔課
+  就此，證人薛友禎於96年8 月1 日本院審理時證稱：「崔課
     長之前專用的電腦主機下面有一個可以移動的小底座，這部
     分有照片，在該電腦主機下端及小底座之間的縫隙，我有發
     現1 個信封袋，裡面裝有4 本泰勞護照，發現的經過是，95
@@ -4252,7 +4145,7 @@ function openwin(URL,arguments,width,height)
     國許可證，號碼相近，僅屬5 個編號之重入國許可證貼在1
     個黃色黏貼紙紙張之前一張與後一張，益證上開3 位泰勞使
     用之重入國許可證為被告崔大偉所為。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />由此益可證，被告崔大偉確實由警政署外事組竊取397 、
+  由此益可證，被告崔大偉確實由警政署外事組竊取397 、
     398 開頭之重入國許可證。
 六、證人即台南縣政府警察局外事課巡佐孫敏峰之證詞：
   (一)95年9 月8 日警詢時證稱：「（問：廖俊翔是於95年4 月份
@@ -4369,7 +4262,7 @@ function openwin(URL,arguments,width,height)
     公文一起核章呈報。」、「本人實在沒有貪瀆及偽造文書之
     意圖，會發生溢領差旅費之情事，是肇因於未詳細審查同仁
     製作差旅費報告表。」、「（問：何人製作你的差旅費報告
-    表？）先是巡官袁愷製作，後來交接給警員佘<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4352A0A00000040.GIF" />溥，他們都
+    表？）先是巡官袁愷製作，後來交接給警員佘溥，他們都
     是基於好意幫我製作差旅費報告表，並不知道我有無前往督
     導業務。」云云，再於96年1 月4 日偵訊時辯稱「（問：既
     然沒有實際出差，為何領有差旅費？）我審核時有疏失，並
@@ -4377,12 +4270,12 @@ function openwin(URL,arguments,width,height)
     可見被告崔大偉雖在事證明確之下承認有於如事實欄肆所示
     日期報領出差費而實際上並未出差亦未到勤，然仍辯稱其之
     95年1 月至4 月份台南縣政府警察局國內出差旅費報告表係
-    袁愷、佘<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4352A0A00000040.GIF" />溥先幫其填好，其在審核時疏忽未仔細核對就核
+    袁愷、佘溥先幫其填好，其在審核時疏忽未仔細核對就核
     章云云，故究其實，其係主張過失誤領出差費，然因貪污治
     罪條例第5 條第1 項第2 款並不處罰過失犯，故其在警、偵
     訊中實際上並未自白，被告崔大偉辯護人主張崔大偉有該條
     例第8 條第2 項減刑規定之適用，當無足採。
-三、證人佘<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4352A0A00000040.GIF" />溥於96年1 月24日偵訊時證稱：崔大偉的出差申報
+三、證人佘溥於96年1 月24日偵訊時證稱：崔大偉的出差申報
     單金額是我們填寫的，但日期、地點應該是由業務承辦人打
     完後，表格再交給我們，我是在隔月才幫他填寫金額，但我
     會向他確認出差的時間、地點，看他實際出差的日數，他沒
@@ -4561,7 +4454,7 @@ function openwin(URL,arguments,width,height)
     留、離婚、行方不明、居留外僑的外僑居留證交付予李宗洮
     多少價金？）每一件我是抽3 至5 成。」等語。
   (六)
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />其於本院96年5 月23日審理作證時翻稱：伊沒有賣給曾瑞昌
+  其於本院96年5 月23日審理作證時翻稱：伊沒有賣給曾瑞昌
     半張重入國許可證；「（檢察官問：〈提示21129 號偵卷18
     0 頁第1 、2 個問答〉，你在偵訊時有明確講到，你拿許可
     證100 多張給曾瑞昌，曾瑞昌並且給你50萬元，為何現在所
@@ -4634,7 +4527,7 @@ function openwin(URL,arguments,width,height)
     我都沒有講到崔大偉，他們就要把卷證關起來說不要繼續問
     了，我真正的回答是我忘記了、我不知道，所以這個答是虛
     構的，根本沒有的事。」云云。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />然查：證人陳清禮96年1 月19日於警政署之警詢內容，其中
+  然查：證人陳清禮96年1 月19日於警政署之警詢內容，其中
     其分二次販賣215 張重入國許可證予曾瑞昌，曾瑞昌有開立
     玉山銀行樹林分行之支票支付部分價款，此部分與曾瑞昌供
     述其陸續向陳清禮買了200 張重入國許可證相符（詳後述）
@@ -4945,7 +4838,7 @@ function openwin(URL,arguments,width,height)
     籍女子有何不法行為云云，與事實完全不合，豈有引被告陳
     品豪之不實供詞以為被告曾瑞昌有利認定之理。
   (四)證人廖馬克之證詞
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人廖馬克於本案追加起訴案件97年度易字第500 號案件於
+  證人廖馬克於本案追加起訴案件97年度易字第500 號案件於
     99年4 月7 日審理時證稱：「（審判長問：96年10月5 日你
     帶蘇昌安去豐原分局偵查隊一起做筆錄，蘇昌安做筆錄時你
     還在場一起陪同？）是的。（按即豐原分局於96年9 月9 日
@@ -4989,7 +4882,7 @@ function openwin(URL,arguments,width,height)
     何分？）楊約諾、丘傑福、蘇昌安是外勞在外國時，要外勞
     先繳一筆錢，他們各自找到的外勞各自去分，謝東和要怎麼
     分，我就不清楚。」等語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人廖馬克於97年度易字第500 號案件於99年4 月21日審理
+  證人廖馬克於97年度易字第500 號案件於99年4 月21日審理
     時證稱（該日係以被告身分訊問，於99年5 月12日告以刑事
     訴訟法第181 條之權利後命其就99年4 月21日審理供詞具結
     ）：「（審判長問：這些轉帳傳票、債權協議書的用途為何
@@ -5002,7 +4895,7 @@ function openwin(URL,arguments,width,height)
     取的金錢，曾瑞昌講說外勞欠的這些錢可以扣回來，所以才
     要外勞簽立債權協議書，事實上還有叫外勞簽立本票。」等
     語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人廖馬克於97年度易字第500 號案件於99年4 月21日審理
+  證人廖馬克於97年度易字第500 號案件於99年4 月21日審理
     時證稱（該日係以被告身分訊問，於99年5 月12日告以刑事
     訴訟法第181 條之權利後命其就99年4 月21日審理供詞具結
     ）：「我只有於94年和他（曾瑞昌）一起去印尼一次，當時
@@ -5017,7 +4910,7 @@ function openwin(URL,arguments,width,height)
     ，因為我在96年時陪蘇昌安到各處之地檢署做筆錄，之後我
     才知道這些外配都是假的，我有去詢問曾瑞昌，但是曾瑞昌
     都不正面回答。」等語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />證人廖馬克於97年度易字第500 號案件於99年5 月12日審理
+  證人廖馬克於97年度易字第500 號案件於99年5 月12日審理
     時證稱「（審判長問：就ADI BINNURWENDA 之部分，和良興
     陶瓷公司簽約的順序是否是先由盛士公司，再於95年6 月29
     日由你出面以宏倫公司名義簽約？）因為他的入境日期為95
@@ -5030,7 +4923,7 @@ function openwin(URL,arguments,width,height)
     是我出面以宏倫公司簽約，當時是以宏倫公司籌備處簽約，
     這可以證明我剛才所說宏倫公司自95年4 月運作的事實。」
     等語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />證人廖馬克再於本院101年5月3日審理時證稱「（受命法官
+  證人廖馬克再於本院101年5月3日審理時證稱「（受命法官
     問：曾瑞昌雖然承認他有透過陳清禮買200 張重入國許可證
     ，但是他對於買入重入國許可證之後有與謝東和集團一起做
     人蛇及仲介的事情一概否認，依你之前的證述曾瑞昌事實上
@@ -5062,7 +4955,7 @@ function openwin(URL,arguments,width,height)
     樹林市○○路那棟大樓的地下二樓停車場，該公司招牌也有
     掛在樓上的辦公室，但掛在什麼地方我現在已經不記得了。
     我確定知道的就是這些了。」等語。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />綜此，證人廖馬克前後多次所證互核一致，亦與本院所查事
+  綜此，證人廖馬克前後多次所證互核一致，亦與本院所查事
     證及上開論述相符，至其於本院101 年5 月3 日審理時雖證
     稱其於本院97年度易字第500 號案件審理時所說的部分就謝
     東和而言是其推測的，然其於本院97年度易字第500 號案件
@@ -5698,13 +5591,13 @@ function openwin(URL,arguments,width,height)
     期，不讓伊出去，期間都是由不認識的人買便當給伊吃等語
     。可見比利即楊約諾所屬之「謝東和人蛇集團」一貫使用拘
     禁外籍女子之方式等待派工。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F66A2A0A00000040.GIF" />依證人KEMAT 於96年10月16日警詢證詞（見96年度偵字第
+  依證人KEMAT 於96年10月16日警詢證詞（見96年度偵字第
     29892 號卷第10頁以下）、97年4 月2 日偵訊證詞（見台灣
     新竹地方法院檢察署97年度偵字第1264號第8 頁以下），係
     丘傑福為其辦理重入境，依親名義之外僑居留證是比利即楊
     約諾為其辦理，也是比利為其接機。是丘傑福、楊約諾同屬
     「謝東和人蛇集團」。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6692A0A00000040.GIF" />如事實欄伍三(十三)所示事實，業據證人潘氏玲於96年10月4 日
+  如事實欄伍三(十三)所示事實，業據證人潘氏玲於96年10月4 日
     警詢（見台灣台中地方法院檢察署96年度偵字第29243 號卷
     之警卷第9 頁以下）中證述明確，潘氏玲於該警詢中證述新
     舊護照、手機悉由「小風」收走，亦遭「小風」私行拘禁12
@@ -5730,14 +5623,14 @@ function openwin(URL,arguments,width,height)
     。而且「小風」就是被告陳品豪，實屬毫無疑義，且被告陳
     品豪在集團中負責處理偽造外僑居留證以派工，亦屬確立之
     事實。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6682A0A00000040.GIF" />證人DE DE SUKAMTO 以非法重入境方式來台後，丘傑福將其
+  證人DE DE SUKAMTO 以非法重入境方式來台後，丘傑福將其
     護照收走，並由楊約諾、丘傑福私行拘禁達2 月之久，並經
     其指認楊約諾、丘傑福之照片無誤，此據其於97年7 月23日
     警詢陳述明確（見97年度偵字第22541 號卷第18頁以下）。
     是可見楊約諾、丘傑福所屬「謝東和人蛇集團」一貫使用拘
     禁外籍女子之方式等待派工。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6672A0A00000040.GIF" />
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人LUONG THI LAN 於96年6 月24日、96年7 月6 日警詢證
+  
+  證人LUONG THI LAN 於96年6 月24日、96年7 月6 日警詢證
     稱（見台灣板橋地方法院檢察署96年度偵字第18908 號卷第
     33頁以下）：伊入境台灣後，伊之舊護照由阮氏絨收走，新
     護照則由廖馬克收走，再由阮氏絨將之載至桃園縣龜山鄉○
@@ -5746,7 +5639,7 @@ function openwin(URL,arguments,width,height)
     證派工，是周瑞祺將伊引進等語，並指認周瑞祺、阮氏絨之
     照片無誤。是周瑞祺、阮氏絨、廖馬克屬同一人蛇集團，且
     該集團一貫使用拘禁外籍人士之方式等待派工。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />鄧氏娟、DUONG THI THU 於96年6 月24日、96年7 月6 日警
+  鄧氏娟、DUONG THI THU 於96年6 月24日、96年7 月6 日警
     詢證稱（見台灣板橋地方法院檢察署96年度偵字第18908 號
     卷第44頁以下）：伊入境台灣後，伊之舊護照由「小風」陳
     品豪收走，新護照則由廖馬克收走，陳品豪將之載至桃園縣
@@ -5755,9 +5648,9 @@ function openwin(URL,arguments,width,height)
     ，並指認陳品豪、周瑞祺、黃幸運之照片無誤。是陳品豪、
     周瑞祺、黃幸運、廖馬克屬同一人蛇集團，且該集團一貫使
     用拘禁外籍人士之方式等待派工。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人李淦瑄96年7 月3 日警詢證稱上開三名越南女子是黃幸
+  證人李淦瑄96年7 月3 日警詢證稱上開三名越南女子是黃幸
     運、阮氏絨派遺介紹來的，每月之抽傭是拿給黃幸運。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6662A0A00000040.GIF" />阮氏秋荷入境後由被告陳品豪駕駛7270-GX 號自小客車與阮
+  阮氏秋荷入境後由被告陳品豪駕駛7270-GX 號自小客車與阮
     氏絨共同接機，載其至龜山鄉○○街183 號4 樓居住並私行
     拘禁之事實，業據阮氏秋荷於96年9 月10日、96年11月10日
     警詢時證述明確（見台灣台中地方法院檢察署97年度偵字第
@@ -5769,7 +5662,7 @@ function openwin(URL,arguments,width,height)
     蘇昌安、劉國基、阮氏絨皆屬同一人蛇集團（「謝東和人蛇
     集團」），且該集團一貫使用拘禁外籍人士之方式等待派工
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6652A0A00000040.GIF" />證人陳氏明仙於95年8 月22日偵訊時證稱（見95年度偵字第
+  證人陳氏明仙於95年8 月22日偵訊時證稱（見95年度偵字第
     21129 號卷二第234 頁反面以下）：「（問：你如何從越南
     搭機入台灣？進入台灣後，仲介公司如何安排你工作？）這
     些仲介人在越南向我拿二本護照，我自己有去換新的護照，
@@ -5785,7 +5678,7 @@ function openwin(URL,arguments,width,height)
     剩下薪水才是我的，我只知道有周瑞祺去收仲介費而已，黃
     幸運我不知道。」等語。可見「謝東和人蛇集團」慣以私行
     拘禁之方式剝奪外籍人士行動自由，以任其派工。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6642A0A00000040.GIF" />證人阮氏圓於95年8 月22日偵訊時證稱（見95年度偵字第
+  證人阮氏圓於95年8 月22日偵訊時證稱（見95年度偵字第
     21129 號卷二第234 頁反面以下）：這些仲介人在越南向我
     拿二本護照，我自己有去換新的護照，因為我想說還要再來
     台灣，仲介公司要我拿新、舊護照，我從越南出境時，我有
@@ -5802,7 +5695,7 @@ function openwin(URL,arguments,width,height)
     道有周瑞祺去收仲介費而已，黃幸運我不知道。」等語。可
     見「謝東和人蛇集團」慣以私行拘禁之方式剝奪外籍人士行
     動自由，以任其派工。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6632A0A00000040.GIF" />證人NGUYEN THI TAM（阮氏心）於95年10月24日警詢（見台
+  證人NGUYEN THI TAM（阮氏心）於95年10月24日警詢（見台
     灣新竹地方法院檢察署95年度偵字第6210號卷第5 頁以下）
     經指認被告陳品豪之照片後證稱伊入境台灣後係陳品豪來載
     伊去距離中正機場車程40分鐘之不詳地點住宿，並收走其之
@@ -5826,7 +5719,7 @@ function openwin(URL,arguments,width,height)
     亦可知被告陳品豪尚有交付偽造外僑居留證、收取貼有不實
     之重入國許可證之舊護照，被告陳品豪否認之，核不足採信
     。
-  <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F6622A0A00000040.GIF" />並有武氏顏、胡氏蓮、阮氏幸、DACANAY LARRY LOUIE DELA
+  並有武氏顏、胡氏蓮、阮氏幸、DACANAY LARRY LOUIE DELA
     PAZ 、陳氏明仙、阮氏圓、陳怡妗、阮氏燕、阮氏心、武氏
     水、NGUYEN THI PHONG、范氏秋、VU THI VOC、阮氏秋荷、
     扣案之如附件五所示五名外籍人士、黎氏銀、伊桂蔓、吳蒂
@@ -6727,10 +6620,10 @@ function openwin(URL,arguments,width,height)
   (二)核被告陳金暉如事實欄壹二所為，係犯刑法第213 條之公務
     員登載不實文書罪、第212 條之偽造特種文書罪（檢察官漏
     引法條）。如事實欄貳二所為，係犯刑法第213 條之公務員
-    登載不實文書罪。如事實欄伍二<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />所為，係犯刑法第349 條
+    登載不實文書罪。如事實欄伍二所為，係犯刑法第349 條
     第2 項之牙保贓物罪；檢察官認係犯貪污治罪條例第4 條第
     1 項第5 款之違背職務收受賄賂罪，起訴法條應予變更。
-  (三)核被告曾瑞昌如事實欄伍二<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />所為，係犯貪污治罪條例第15
+  (三)核被告曾瑞昌如事實欄伍二所為，係犯貪污治罪條例第15
     條之明知公務員犯竊取公有財物罪所得之財物而故買罪；檢
     察官認係犯同條例第11條第1 項之關於職務行賄罪，起訴法
     條應予變更。如事實欄伍三所示各犯行，係犯修正前就業服
@@ -7169,86 +7062,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處 5 年以下有期徒刑、拘役或科或併科 1 千元以下
 罰金。
 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTYD\CRIMINAL\10108\10\TYDM1018A.04C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[4]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000410&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%ba%97%e8%8a%ac&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%ba%97%e8%8a%ac&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c410%2c20120810%2c4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=410&jdate=1010810&jcheck=4">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c410%2c20120810%2c4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=410&jdate=1010810&jcheck=4">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c410%2c20120810%2c4','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','410','1010810','4')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="張麗芬">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="張麗芬">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]96,訴,410,20120810,4
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]96
+[*jcase*]訴
+[*jno*]410
+[*jdate*]1010810
+[*jcheck*]4

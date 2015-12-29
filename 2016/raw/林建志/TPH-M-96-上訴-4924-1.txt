@@ -1,119 +1,12 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-96上訴4924</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共61
-											筆 / 現在第35
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=004924&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=36&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=61&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=4924&jdate=970130&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=4924&jdate=970130&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','96','%e4%b8%8a%e8%a8%b4','4924','970130','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">96,上訴,4924</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">970130</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">殺人未遂等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　96年度上訴字第4924號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=4924&jdate=970130&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=004924&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=4924&jdate=970130&jcheck=1
+[*裁判字號*]96,上訴,4924
+[*裁判日期*]970130
+[*裁判案由*]殺人未遂等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　　96年度上訴字第4924號
 上　訴　人
-即　被　告　丙○○原名楊禮瑞<span  style="color:#e8e8e8">.</span>
+即　被　告　丙○○原名楊禮瑞.
 選任辯護人　余俊儒律師
 上列上訴人因殺人未遂等案件，不服臺灣板橋地方法院96年度訴
 字第1103號，中華民國96年8月31日第一審判決（起訴案號：
@@ -135,7 +28,7 @@ function openwin(URL,arguments,width,height)
     並將上開空氣手槍藏放於其所有之包包內而持有之；迄95年
     5 月12日3 時50分許，丙○○隨身斜背上開藏有該空氣手槍
     （槍內並無鋼珠）之包包，駕駛車號2911-KH 號自用小客車
-    ，搭載不知情之友人<font color='red'>林建志</font>，前往臺北縣永和市○○路345
+    ，搭載不知情之友人林建志，前往臺北縣永和市○○路345
     號附近，尋找不知情之友人林建通後，欲駕車離去之際，適
     乙○○騎乘車號不詳之機車搭載甲○○行經該處，誤以為對
     面路邊有人對其二人辱罵三字經，因而將機車迴轉停至丙○
@@ -151,8 +44,8 @@ function openwin(URL,arguments,width,height)
     ○見狀，立即自乙○○所騎機車之置物箱內取出乙○○所有
     之伸縮警棍1 支，持以敲打丙○○手中所持之槍，丙○○所
     持之該空氣手槍因而被敲落掉於地上（隨後，乙○○、甲○
-    ○與丙○○、<font color='red'>林建志</font>等四人即互相圍毆，乙○○、甲○○、
-    <font color='red'>林建志</font>等三人因而被訴傷害之部分，業經其三人互相撤回告
+    ○與丙○○、林建志等四人即互相圍毆，乙○○、甲○○、
+    林建志等三人因而被訴傷害之部分，業經其三人互相撤回告
     訴，已經原審於96年5月24日判決公訴不受理；另乙○○、
     甲○○被訴殺人未遂，則由原審改論傷害，而另為公訴不受
     理之諭知），嗣為警據報到場處理，扣得上開空氣手槍及伸
@@ -172,7 +65,7 @@ function openwin(URL,arguments,width,height)
     第159 條第1 項不得為證據之情形，而未於言詞辯論終結前
     聲明異議者，視為有前項之同意，此亦據同法第159 條之5
     規定甚明。查證人陳昀伸、林佑政、黎保煌、李任祥、原審
-    共同被告<font color='red'>林建志</font>、乙○○、甲○○等人於警詢之陳述，雖均
+    共同被告林建志、乙○○、甲○○等人於警詢之陳述，雖均
     為被告以外之人於審判外之言詞陳述而屬傳聞證據，惟檢察
     官、被告及其辯護人迄於原審言詞辯論終結前並未聲明異議
     ，且原審經核上開陳述均無違法取證及證明力明顯過低之瑕
@@ -200,7 +93,7 @@ function openwin(URL,arguments,width,height)
     聞證據是否有顯不可信或有特別可信之情況而例外具有證據
     能力，並非對其陳述內容之證明力如何加以論斷，二者之層
     次有別，不容混淆（最高法院94年度臺上字第629 號判決要
-    旨可參）。查證人陳昀伸、共同被告<font color='red'>林建志</font>、乙○○、甲○
+    旨可參）。查證人陳昀伸、共同被告林建志、乙○○、甲○
     ○等人於偵查中向檢察官所為之陳述，均已依法具結其證言
     ，復查無有何非出於自由意願而為陳述或遭違法取供之情形
     ，足認並無顯不可信之情況，依上開刑事訴訟法第159 條之
@@ -218,7 +111,7 @@ function openwin(URL,arguments,width,height)
     護人迄於原審言詞辯論終結前均未聲明異議，經原審審酌前
     開書面陳述作成時之情況，認為適當，應有證據能力。
   (四)診斷證明書：
-    卷附之乙○○、甲○○、丙○○、<font color='red'>林建志</font>等四人所提出之診
+    卷附之乙○○、甲○○、丙○○、林建志等四人所提出之診
     斷證明書各1 紙（見偵查卷第38至41頁），雖均屬被告以外
     之人於審判外之書面陳述，惟被告及其辯護人迄原審言詞辯
     論終結時並未聲明異議，復經原審審酌前開書面陳述作成時
@@ -258,7 +151,7 @@ function openwin(URL,arguments,width,height)
     扣案之空氣手槍經鑑定試射所得之殺傷力數據低於內政部警
     政署刑事警察局規定之24焦耳／平方公分，亦遠低於美國軍
     醫總署之78.6焦耳／平方公分，並不具殺傷力。再被告堅決
-    否認犯行，而證人<font color='red'>林建志</font>、林建通均證稱未看到被告有取槍
+    否認犯行，而證人林建志、林建通均證稱未看到被告有取槍
     之動作，亦未聽到槍聲，且現場光碟經勘驗後，亦未清楚看
     到被告丙○○有取槍或開槍之動作，況地上亦未扣得彈殼或
     鋼珠。另證人陳昀伸證詞前後不一，所站之加油站距離案發
@@ -309,7 +202,7 @@ function openwin(URL,arguments,width,height)
     告再度開槍，不得已上前撥槍，甲○○見狀，亦取出機車置
     物箱內之乙○○所有之伸縮警棍1支，持以揮打被告，幫助
     乙○○搶槍，被告手中所持之槍因而掉落於地，隨即乙○
-    ○及甲○○二人即一起毆打被告，乙○○又毆打<font color='red'>林建志</font>，
+    ○及甲○○二人即一起毆打被告，乙○○又毆打林建志，
     不久警員到場後，再由乙○○撿拾掉落在地上之空氣手槍交
     予警員等情，業據證人乙○○、甲○○於警詢、偵查及原審
     審理時證述明確，且核與現場目擊證人即對面加油站員工陳
@@ -361,7 +254,7 @@ function openwin(URL,arguments,width,height)
     頁），亦即現場目擊證人陳昀伸所證述之情節核與證人乙○
     ○、甲○○證述之情相符，參以證人陳昀伸乃係當時偶然在
     案發現場對面加油站打工之人，與被告、乙○○、甲○○、
-    <font color='red'>林建志</font>等人均不認識，亦從未聯絡過，此經證人陳昀伸證述
+    林建志等人均不認識，亦從未聯絡過，此經證人陳昀伸證述
     在卷（見原審卷第159頁），衡情自無甘冒偽證之罪責而偏
     袒乙○○、甲○○一方之理，且證人陳昀伸於警詢、偵查及
     原審審理時所為之陳述，互核亦大致相合，是其所為陳述之
@@ -407,7 +300,7 @@ function openwin(URL,arguments,width,height)
     去要搶丙○○手上的槍，我用手要打丙○○的手，但沒有把
     槍打下來，甲○○見狀，就從我的機車置物箱拿出我的伸縮
     警棍，甲○○就拿伸縮警棍從我後面打丙○○的手或槍，槍
-    就掉在地上，我與甲○○就與丙○○、<font color='red'>林建志</font>發生扭打，…
+    就掉在地上，我與甲○○就與丙○○、林建志發生扭打，…
     …不知道打了多久，後來警察就來了等語（見原審卷第161
     頁）；又甲○○於警詢時證稱：我就看到乙○○上前防衛奪
     對方的槍並壓制對方，而看到對方朋友打乙○○，我就拿出
@@ -475,8 +368,8 @@ function openwin(URL,arguments,width,height)
     或胸部，所辯前後不一，是否屬實，已非無疑，是被告辯稱
     扣案空氣槍係乙○○所有云云，要係圖卸己身刑責之詞，不
     足為信。
-  (五)辯護人固以證人<font color='red'>林建志</font>之證言為有利被告之證據。惟依證人
-    即被告之友人<font color='red'>林建志</font>於第一次警詢時先證稱：有兩名男子共
+  (五)辯護人固以證人林建志之證言為有利被告之證據。惟依證人
+    即被告之友人林建志於第一次警詢時先證稱：有兩名男子共
     騎1部機車（從中和往永和方向）經過，就罵我（幹、看三
     小），到中和路宜安路口的紅綠燈時再度回轉至我的車旁挑
     釁，接著兩人同時下車，並毆打我的朋友楊禮瑞（更名為丙
@@ -528,9 +421,9 @@ function openwin(URL,arguments,width,height)
     我沒有看到乙○○為何會有這把槍，我看到乙○○拿這把槍
     時，警察就來了。……（問：除了你剛才說你看到乙○○將
     槍交給警方外，你是否還有看到乙○○有拿槍？）沒有等語
-    （見原審卷第192、193頁），可知證人<font color='red'>林建志</font>就乙○○在毆
+    （見原審卷第192、193頁），可知證人林建志就乙○○在毆
     打丙○○之過程中，是否有持槍一事，所證已見齟齬，亦即
-    <font color='red'>林建志</font>於第一次警詢先證稱：係先看到乙○○、甲○○二人
+    林建志於第一次警詢先證稱：係先看到乙○○、甲○○二人
     一起徒手毆打丙○○，再看到甲○○拿出伸縮警棍追打丙○
     ○，才又看到乙○○「取出」類似槍枝之物，然隨即於同日
     即第二次警詢要求更正改稱：僅在乙○○、甲○○與丙○○
@@ -546,14 +439,14 @@ function openwin(URL,arguments,width,height)
     幫忙徒手毆打丙○○，一直打到騎樓時，其才看到甲○○手
     持警棍等語，最後又改稱：只有在警員來了之後，看見乙○
     ○將槍拿給警員，除此之外，沒有看見乙○○有持槍等語，
-    是以證人<font color='red'>林建志</font>就在爭執扭打之過程中，就何人有持槍此一
+    是以證人林建志就在爭執扭打之過程中，就何人有持槍此一
     重要事項，先後證述反覆不一，且就爭執之開端係由乙○○
     或甲○○先動手毆打丙○○之情，所證亦前後不一，顯有重
-    大瑕疵可指，尚難遽信為真，況參以證人<font color='red'>林建志</font>乃係被告丙
-    ○○之友人，雙方交情良好，衡諸常情，苟證人<font color='red'>林建志</font>當日
+    大瑕疵可指，尚難遽信為真，況參以證人林建志乃係被告丙
+    ○○之友人，雙方交情良好，衡諸常情，苟證人林建志當日
     確有目擊對其與丙○○實施攻擊之乙○○有持槍之事實，理
     應將所目擊之真實情形據實陳述，何以所為證述先後矛盾不
-    一？足徵證人<font color='red'>林建志</font>在本案發生爭執扭打之情形時，並未目
+    一？足徵證人林建志在本案發生爭執扭打之情形時，並未目
     擊乙○○持槍之情形，其上開時而證述看見乙○○持槍之證
     詞，無非迴護被告之詞，殊難採信，自無從資為有利被告丙
     ○○之認定。
@@ -571,14 +464,14 @@ function openwin(URL,arguments,width,height)
     抽菸（此據證人林建通於原審審理時證稱：當時我就在警衛
     室聊天等語，見原審卷第200頁）？又何以林建通既已目擊
     友人丙○○、甲○○慘遭另二人毆打時，竟仍無關己事般在
-    隔壁大樓警衛室與警衛繼續聊天、抽菸（此經證人<font color='red'>林建志</font>於
+    隔壁大樓警衛室與警衛繼續聊天、抽菸（此經證人林建志於
     原審審理時證稱：我跑去警衛室求救時，有看到林建通在警
     衛室抽菸之情，見原審卷第195頁）？且在警員及救護車據
     報前來時，何以林建通未向前來之警員表示有目擊所有經過
     ，亦未陪同其受傷之友人丙○○、甲○○乘坐救護車前往就
     醫？在在顯與常情不符，再者，證人林建通證稱當時人係在
     警衛室內，因警衛室係玻璃開放式的，可看到外面之情形（
-    見原審卷第198頁），核與證人<font color='red'>林建志</font>所證：（問：你所謂
+    見原審卷第198頁），核與證人林建志所證：（問：你所謂
     的金融中心警衛室可以直接看到門外，你們被毆的情況嗎？
     ）看不到，因為我們是在隔壁臺新，因為我們打的位置是臺
     新銀行再過去一點，離金融中心更遠等語不符（見原審卷第
@@ -670,7 +563,7 @@ function openwin(URL,arguments,width,height)
       之影響，及被告犯罪後否認犯行，不知悔悟，惟兼衡其已
       與乙○○、甲○○達成和解，有原審調解筆錄1紙在卷可
       佐（見原審卷第81頁）等一切情狀，就被告未經許可，持
-      有可發射子彈具有殺傷力之空氣手槍部分，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />
+      有可發射子彈具有殺傷力之空氣手槍部分，處有期徒刑
       年捌月，併科罰金新臺幣捌萬元，罰金如易服勞役，以新
       臺幣壹仟元折算壹日，；又就以加害身體之事，恐嚇他人
       致生危害於安全部分，處有期徒刑壹年，減為有期徒刑陸
@@ -725,86 +618,11 @@ function openwin(URL,arguments,width,height)
 中華民國刑法第三百零五條
 以加害生命、身體、自由、名譽、財產之事，恐嚇他人致生危害
 於安全者，處二年以下有期徒刑、拘役或三百元以下罰金。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\judday\OK\LAWTPH\CRIMINAL\9701\30\TPHM971U.015] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共61
-											筆 / 現在第35
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=004924&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=36&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=61&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%bb%ba%e5%bf%97&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%bb%ba%e5%bf%97&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=4924&jdate=970130&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e4%b8%8a%e8%a8%b4&jno=4924&jdate=970130&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('96%2c%e4%b8%8a%e8%a8%b4%2c4924%2c20080130%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','96','%e4%b8%8a%e8%a8%b4','4924','970130','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="35"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林建志">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林建志">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]96,上訴,4924,20080130,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]96
+[*jcase*]上訴
+[*jno*]4924
+[*jdate*]970130
+[*jcheck*]1

@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-100訴901</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ycylER+g/QEjHjqixDLqMf7W1qM=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000901&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c901%2c20111230%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=901&jdate=1001230&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c901%2c20111230%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=901&jdate=1001230&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c901%2c20111230%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','901','1001230','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,901</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1001230</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c901%2c20111230%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=901&jdate=1001230&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000901&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c901%2c20111230%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=901&jdate=1001230&jcheck=1
+[*裁判字號*]100,訴,901
+[*裁判日期*]1001230
+[*裁判案由*]違反毒品危害防制條例
+[*裁判全文*]臺灣彰化地方法院刑事判決
 公　訴　人　臺灣彰化地方法院檢察署檢察官
 被　　　告　楊國神
 指定辯護人　楊博任律師
@@ -301,15 +196,15 @@ function openwin(URL,arguments,width,height)
     項供述得具有證據能力之一方，已釋明「顯有不可信之情況
     」之理由外，不宜以該證人未能於偵訊中接受他造之反對詰
     問為由，即遽指該證人於偵查中之陳述不具證據能力。本案
-    證人劉丙暘、王兆國、施乃云、楊志學、<font color='red'>黃珊珊</font>、李松易、
+    證人劉丙暘、王兆國、施乃云、楊志學、黃珊珊、李松易、
     盧荐宏於偵訊中陳述時，業經檢察官諭令具結，其證詞之憑
     信性已獲擔保，又無其他證據足認該等陳述有何顯不可信之
     情事，依前開說明，本院認上開證人於偵查中具結後之證言
     自應具有證據能力。
-三、證人<font color='red'>黃珊珊</font>於本院審理時雖證稱未親自見聞證人楊志學向被
+三、證人黃珊珊於本院審理時雖證稱未親自見聞證人楊志學向被
     告陳稜臻購買毒品之事實，但就其證述曾聽聞證人楊志學於
     附表二所示時、地自被告陳稜臻住處返回渠等駕駛之車輛後
-    ，告知證人<font color='red'>黃珊珊</font>當日購得毒品之種類、數量、價錢之事實
+    ，告知證人黃珊珊當日購得毒品之種類、數量、價錢之事實
     而言，則是屬於足以證明供述內容真實性以外事實之情況證
     據，即足供證明證人楊志學曾對之陳述向被告陳稜臻購毒之
     種類、數量、價錢此事，而非屬傳聞證據（黃朝義著，「論
@@ -446,13 +341,13 @@ function openwin(URL,arguments,width,height)
 二、附表二所示被告陳稜臻販賣第一級毒品海洛因及第二級毒品
     甲基安非他命部分予楊志學部分：
   (一)訊據被告陳稜臻於本院審理時固坦承於附表二所示之時、地
-    與證人楊志學、<font color='red'>黃珊珊</font>見面，惟矢口否認有何販賣毒品之犯
-    行，辯稱：當日楊志學及<font color='red'>黃珊珊</font>進入其租屋處後，才問其有
+    與證人楊志學、黃珊珊見面，惟矢口否認有何販賣毒品之犯
+    行，辯稱：當日楊志學及黃珊珊進入其租屋處後，才問其有
     無海洛因或安非他命，因為其並沒有施用海洛因，後來楊志
-    學與<font color='red'>黃珊珊</font>說要去找別人拿，並問其要不要一起去，其就與
+    學與黃珊珊說要去找別人拿，並問其要不要一起去，其就與
     他們一起到臺中市○○街與德化街口找1 位綽號「大胖」之
     人，並購買各5000元之海洛因及安非他命，當時其是拿1 萬
-    元給楊志學及<font color='red'>黃珊珊</font>，由楊志學及<font color='red'>黃珊珊</font>進入該住宅向「大
+    元給楊志學及黃珊珊，由楊志學及黃珊珊進入該住宅向「大
     胖」購買，買完後楊志學帶其到楊志學位於臺中市○○路之
     住處，並向其要了一些海洛因及安非他命云云。
   (二)惟查：
@@ -466,7 +361,7 @@ function openwin(URL,arguments,width,height)
     買毒品，但他的電話不通，伊才於99年12月15日23時12分聯
     絡綽號「阿萬」男子的老婆綽號「飛飛」之女子約定交易毒
     品之地點，聯絡確定後伊駕駛車號3826-LR 號自小客車載伊
-    的女友<font color='red'>黃珊珊</font>一同前往彰化市中山國小天橋下等候，於99年
+    的女友黃珊珊一同前往彰化市中山國小天橋下等候，於99年
     12月16日5 時12分有一名身高與伊差不多，綽號「阿忠」之
     男子帶伊前往彰化市中山國小後面綽號「飛飛」之女子所租
     屋處所，當時伊的女友人在車上等候，帶伊前往該處綽號「
@@ -529,7 +424,7 @@ function openwin(URL,arguments,width,height)
     為認定犯罪事實之基礎，如無違背一般經驗法則，尚非法所
     不許；若間接證據，已足供佐證其指訴為真實，亦非不得以
     之相互印證，併採為判決之基礎（最高法院44年台上字第70
-    2 號判例意旨可資參照）。經查：證人<font color='red'>黃珊珊</font>於本院審理時
+    2 號判例意旨可資參照）。經查：證人黃珊珊於本院審理時
     證稱：99年12月16日伊與楊志學去被告陳稜臻位於彰化市中
     山國小附近之住處，當天伊都在車上睡覺，並不清楚楊志學
     去該處之目的，但渠等離開該處後，伊在車上有看到2 包東
@@ -537,12 +432,12 @@ function openwin(URL,arguments,width,height)
     （本院卷卷二第177 頁），更足佐證人楊志學上開所證當屬
     信實。
   4.另檢察官雖認被告陳稜臻就附表二所示犯行係同時販賣海洛
-    因及甲基安非他命予證人楊志學及<font color='red'>黃珊珊</font>，惟證人楊志學雖
-    係與其女友<font color='red'>黃珊珊</font>共同前往被告陳稜臻位於附表二所示之住
+    因及甲基安非他命予證人楊志學及黃珊珊，惟證人楊志學雖
+    係與其女友黃珊珊共同前往被告陳稜臻位於附表二所示之住
     處附近，然證人楊志學於抵達彰化縣彰化市中山國小附近後
-    ，係單獨前往被告陳稜臻住處，且其女友<font color='red'>黃珊珊</font>事前對證人
+    ，係單獨前往被告陳稜臻住處，且其女友黃珊珊事前對證人
     楊志學找尋被告陳稜臻之目的為何並不知情乙節，業經證人
-    楊志學證述如前，核與證人<font color='red'>黃珊珊</font>於本院審理時證稱：伊在
+    楊志學證述如前，核與證人黃珊珊於本院審理時證稱：伊在
     99 年12 月16日晚上到過陳稜臻位於彰化市中山國小附近的
     住處，但伊從頭到尾都在車上，伊也不清楚楊志學是去找楊
     國神或陳稜臻，也不清楚楊志學是否去買毒品，伊一直睡到
@@ -578,12 +473,12 @@ function openwin(URL,arguments,width,height)
     當知之甚稔，則證人楊志學於本院審理時之證述，不無因受
     被告陳稜臻同庭之壓力，而避重就輕迴護被告陳稜臻之可能
     。況證人楊志學於本院審理時證稱：伊向陳稜臻買5000元甲
-    基安非他命後，就帶該包甲基安非他命回車上，伊沒有讓<font color='red'>黃
-    珊珊</font>看見該包甲基安非他命，也沒有和陳稜臻各開1 部車到
+    基安非他命後，就帶該包甲基安非他命回車上，伊沒有讓黃
+    珊珊看見該包甲基安非他命，也沒有和陳稜臻各開1 部車到
     臺中找綽號大胖（台語，下同）買海洛因及甲基安非他命，
     是另外有一天陳稜臻告訴伊沒有毒品，所以伊幫陳稜臻聯絡
     綽號大胖之人，並由陳稜臻自己進去與大胖買海洛因云云（
-    本院卷卷二第166 頁反面至第171 頁），核與證人<font color='red'>黃珊珊</font>於
+    本院卷卷二第166 頁反面至第171 頁），核與證人黃珊珊於
     本院審理時證稱：99年12月16日伊與楊志學去被告陳稜臻位
     於彰化市中山國小附近之住處，當天伊都在車上睡覺，並不
     清楚楊志學去該處之目的，但渠等離開該處後，伊在車上有
@@ -591,45 +486,45 @@ function openwin(URL,arguments,width,height)
     之安非他命等語（本院卷卷二第177 頁）大相逕庭，顯見證
     人楊志學於本院審理時所為前開僅向被告陳稜臻購買甲基安
     非他命之證述，不僅與其於警詢、偵查中所述迥異，亦與證
-    人<font color='red'>黃珊珊</font>證述相違，應屬事後迴護被告陳稜臻之詞，自難以
+    人黃珊珊證述相違，應屬事後迴護被告陳稜臻之詞，自難以
     採信。
-  被告陳稜臻雖迭辯稱：99年12月16日與楊志學、<font color='red'>黃珊珊</font>見面
+  被告陳稜臻雖迭辯稱：99年12月16日與楊志學、黃珊珊見面
     後，就一起到臺中市○○街與德化街口找綽號大胖之人購買
     海洛因及甲基安非他命云云，並請求傳訊當日接待證人楊志
-    學、<font color='red'>黃珊珊</font>進入其位於彰化縣彰化市○○路○ 段790 巷2 號
+    學、黃珊珊進入其位於彰化縣彰化市○○路○ 段790 巷2 號
     住處綽號「阿忠」之梁易忠到庭作證，而證人梁易忠於本院
     審理時雖證稱：伊曾在陳稜臻位於彰化市中山國小附近之租
-    屋處見過楊志學與<font color='red'>黃珊珊</font>，該租屋處是1 個套房，因為楊志
+    屋處見過楊志學與黃珊珊，該租屋處是1 個套房，因為楊志
     學沒去過陳稜臻之住處，所以是伊到中山國小天橋下帶楊志
-    學到該住處，當天伊是帶楊志學與<font color='red'>黃珊珊</font>2 個人到該套房，
-    楊志學與<font color='red'>黃珊珊</font>進到該套房後，伊並沒有離開該套房，而是
-    與<font color='red'>黃珊珊</font>在看電視，楊志學與陳稜臻在交談何事伊並沒有聽
+    學到該住處，當天伊是帶楊志學與黃珊珊2 個人到該套房，
+    楊志學與黃珊珊進到該套房後，伊並沒有離開該套房，而是
+    與黃珊珊在看電視，楊志學與陳稜臻在交談何事伊並沒有聽
     得很清楚，而當日陳稜臻有拿幾張千元紙鈔給楊志學，但伊
     不清楚為何陳稜臻要拿錢給楊志學，也沒有看到楊志學向陳
     稜臻購買毒品，後來過了約半小時，他們就說要出去，所以
     伊就與他們一起下樓後，就騎車離開云云（本院卷卷二第23
     3 頁至第237 頁）。惟證人楊志學於本院審理時證稱：99年
     12 月16 日是綽號阿忠之人帶伊進去陳稜臻位於彰化市中山
-    國小附近之住處，但伊是自己去找陳稜臻，<font color='red'>黃珊珊</font>當日都在
+    國小附近之住處，但伊是自己去找陳稜臻，黃珊珊當日都在
     車上沒有下車，而且當日阿忠帶伊帶陳稜臻住處後就離開了
     等語（本院卷卷二第165 頁、第168 頁至169 頁），而證人
-    <font color='red'>黃珊珊</font>於本院審理時亦證稱：99年12月16日楊志學和伊有到
+    黃珊珊於本院審理時亦證稱：99年12月16日楊志學和伊有到
     陳稜臻位於中山國小附近的住處，當日是楊志學自己進去陳
     稜臻住處，伊當時都在車上睡覺，並不清楚是否有叫阿忠的
     人帶楊志學進去該住處，也不清楚是否有向陳稜臻買毒品，
     但楊志學出來後並沒有和陳稜臻一起去臺中找綽號大胖之人
     等語（本院卷卷二第173 頁反面至第175 頁），則證人梁易
-    忠、楊志學、<font color='red'>黃珊珊</font>，就渠等於99年12月16日在陳稜臻位於
+    忠、楊志學、黃珊珊，就渠等於99年12月16日在陳稜臻位於
     彰化縣彰化市○○路○ 段住處見面之人數為何？是否一同離
     開陳稜臻住處？所為之證述顯完全矛盾，本院審酌證人楊志
-    學、<font color='red'>黃珊珊</font>亦均為被告陳稜臻及其選任辯護人所傳喚之友性
+    學、黃珊珊亦均為被告陳稜臻及其選任辯護人所傳喚之友性
     證人，復於本院審理時均翻異渠等警詢、偵訊之證述而多為
     被告陳稜臻有利之證述，自不可能故為不利被告陳稜臻之證
     言，則被告陳稜臻前揭所辯及證人梁易忠證述，是否可信，
     實有可疑。
-  另證人梁易忠於本院審理時既證稱：伊帶楊志學、<font color='red'>黃珊珊</font>進
+  另證人梁易忠於本院審理時既證稱：伊帶楊志學、黃珊珊進
     去陳稜臻住處後，看了約半小時的HBO 影集就與陳稜臻等人
-    一起離開該住處，且離開楊志學與其女友（按即<font color='red'>黃珊珊</font>）開
+    一起離開該住處，且離開楊志學與其女友（按即黃珊珊）開
     一輛車，陳稜臻則開另一輛白色的車，而伊就騎機車離開云
     云（本院卷卷二第236 頁反面至第237 頁），惟勾稽比對被
     告陳稜臻持用之0000000000號行動電話於99年12月16日之通
@@ -647,7 +542,7 @@ function openwin(URL,arguments,width,height)
     進來」等語（本院卷卷二第173 頁），且通話之基地台位置
     亦與先前和證人楊志學通話時之基地台位址均為相同之彰化
     縣彰化市○○路404 號，則證人梁易忠於本院審理時證稱：
-    陳稜臻於楊志學、<font color='red'>黃珊珊</font>進入該住處後約30分鐘就與伊共4
+    陳稜臻於楊志學、黃珊珊進入該住處後約30分鐘就與伊共4
     人一起離開陳稜臻住處云云，顯與客觀之通訊監察譯文、通
     話基地台位址相違。另被告陳稜臻與江岳昌復於當日上午6
     時44分39秒許有如下對話「A ：為！你怎麼沒有出來。B ：
@@ -658,7 +553,7 @@ function openwin(URL,arguments,width,height)
     ○○路○ 段790 巷2 號之租屋處附近與被告江岳昌聯絡渠等
     見面之事宜，且被告陳稜臻更於電話中要求被告江岳昌立即
     開車見面等語，倘被告陳稜臻與楊志學見面後約半小時，即
-    與證人楊志學、<font color='red'>黃珊珊</font>啟程前往臺中市購毒，又豈得於同日
+    與證人楊志學、黃珊珊啟程前往臺中市購毒，又豈得於同日
     上午5 時43分許、上午6 時44分許一再於彰化縣彰化市與被
     告江岳昌通話？又豈須一再指示被告江岳昌立即外出見面？
     是被告陳稜臻前開辯詞及證人梁易忠前揭證述，均與客觀之
@@ -1669,86 +1564,12 @@ function openwin(URL,arguments,width,height)
 │  │克）                                                            │          │
 ├─┼────────────────────────────────┼─────┤
 │2 │0000000000號SIM卡壹張                                 │江岳昌    │
-└─┴────────────────────────────────┴─────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10012\30\CHDM100CU.038] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共8
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=000901&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8f%8a%e7%8f%8a&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8f%8a%e7%8f%8a&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c901%2c20111230%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=901&jdate=1001230&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c901%2c20111230%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=901&jdate=1001230&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c901%2c20111230%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','901','1001230','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃珊珊">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃珊珊">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴────────────────────────────────┴─────┘
+[*jrecno*]100,訴,901,20111230,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]訴
+[*jno*]901
+[*jdate*]1001230
+[*jcheck*]1

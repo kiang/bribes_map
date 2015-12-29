@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101矚上訴11</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共200
-											筆 / 現在第34
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e7%9f%9a%e4%b8%8a%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=33&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=200&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e8%a8%b4&jno=11&jdate=1021211&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e8%a8%b4&jno=11&jdate=1021211&jcheck=2">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e7%9f%9a%e4%b8%8a%e8%a8%b4','11','1021211','2')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,矚上訴,11</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1021211</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">貪污治罪條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 101年度矚上訴字第11號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e8%a8%b4&jno=11&jdate=1021211&jcheck=2
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e7%9f%9a%e4%b8%8a%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e8%a8%b4&jno=11&jdate=1021211&jcheck=2
+[*裁判字號*]101,矚上訴,11
+[*裁判日期*]1021211
+[*裁判案由*]貪污治罪條例等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 101年度矚上訴字第11號
 上　訴　人　臺灣桃園地方法院檢察署檢察官
 上　訴　人
 即　被　告　黃子龍
@@ -129,7 +22,7 @@ function openwin(URL,arguments,width,height)
 被　　　告　張祉道
 選任辯護人　孫志堅律師
 被　　　告　干銀雄
-選任辯護人　<font color='red'>馬在勤</font>律師
+選任辯護人　馬在勤律師
 　　　　　　陳佳雯律師
 上列上訴人因被告等貪污治罪條例等案件，不服臺灣桃園地方法
 院99年度矚訴字第5號、100年度訴字第1111號，中華民國101年7
@@ -401,7 +294,7 @@ function openwin(URL,arguments,width,height)
     警局辦理領款事宜，陳耀濬於領款後旋即交與吳志宏處理，
     吳志宏為被告黃子龍取出其中30萬元後，將其餘110萬元攜
     至友人徐蘭香住處交予邱鍾連收受，再於同日交付30萬元予
-    被告黃子龍等犯罪事實，有以下證人之證言可為證據：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證
+    被告黃子龍等犯罪事實，有以下證人之證言可為證據：證
     人吳志宏於99年3月22日偵查中證稱：「（你與黃子龍還有
     沒有其他交易事情？）黃子龍在94年某日查獲一件毒品案件
     ，查扣現金120萬元（應係140萬元之誤，以下同）左右、支
@@ -424,7 +317,7 @@ function openwin(URL,arguments,width,height)
     號4樓找徐蘭香，陳耀濬把領回的120萬元及支票本，攤在桌
     上，經過徐蘭香、牛哥清點，確認數目無誤之後，當晚黃子
     龍就來我家找我，他就把30萬元拿走了。」等語（5456號偵
-    卷二第67、68頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人吳志宏於99年7月16日以被告身
+    卷二第67、68頁）。證人吳志宏於99年7月16日以被告身
     分供稱：94年9、10月間黃子龍詢問我認不認識邱鍾連，我
     表示有聽過，黃子龍表示邱鍾連因遭查獲毒品案件，有100
     多萬元現金、存款簿及支票本在平鎮分局，所以想透過我找
@@ -454,7 +347,7 @@ function openwin(URL,arguments,width,height)
     右，黃子龍撥打我的行動電話詢問我當時在哪裡，我回應表
     示我已經到家了，過了十幾分鐘黃子龍又撥打我行動電話說
     他已經到我家樓下，我便拿著30萬元現金下樓交付給黃子龍
-    等語（16681號偵卷二第224-226頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人吳志宏於原審
+    等語（16681號偵卷二第224-226頁）。證人吳志宏於原審
     證稱：「我記得黃子龍說有衝到一個點，但人跑掉了，好像
     只有抓到一個人而已，現場遺留現金140萬元，還有支票及
     存款簿，黃子龍問我是否認識牛哥這個人，叫我找他出來將
@@ -474,7 +367,7 @@ function openwin(URL,arguments,width,height)
    「（你方稱是140萬元，但你於該次偵訊係說120萬元，何者
     正確？）我只記得是一百多萬元。」、「（提示99偵16681
     號卷二第225、226頁）我講的都實在」等語（原審卷二第
-    224頁背面-225頁背面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />證人邱鍾連於99年7月9日偵查
+    224頁背面-225頁背面）。證人邱鍾連於99年7月9日偵查
     中證稱：94年9月6日下午，我到友人位於桃園縣平鎮市中豐
     路住處，後來梁添祿開車載梁添鎮過來閒聊，聊沒多久，我
     與梁添鎮準備搭梁添祿的車輛離去，我去上廁所，並將裝有
@@ -504,7 +397,7 @@ function openwin(URL,arguments,width,height)
     志宏為何黃子龍最後拿走30萬元現金而非當初所談的40萬元
     現金，因為我認為只要錢及物品有順利拿回來就好了，並沒
     有去在乎黃子龍拿了多少錢等語（16681號偵卷二第161-164
-    頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />證人邱鍾連於原審證稱：「（為何你會有錢在黃子
+    頁）。證人邱鍾連於原審證稱：「（為何你會有錢在黃子
     龍處？）是94年初他到平鎮市山頂段去查緝毒品案件，結果
     查獲到梁添鎮、梁添祿二兄弟，當時我正好要跟他們二兄弟
     ，結果我皮包就先託他們拿到車上等我，這段期間他們就被
@@ -527,7 +420,7 @@ function openwin(URL,arguments,width,height)
     你當日有無清點現金？）有。拿回來時有，是110萬元。」
     、「（你拿到時就只有110萬元？）是。」、「（吳志宏跟
     你交涉時，有無表明他是代表何人跟你交涉？）有，就是黃
-    子龍委託他。」等語（原審卷三第107-108頁背面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />證
+    子龍委託他。」等語（原審卷三第107-108頁背面）。證
     人徐蘭香於99年6月29日偵查中證稱：我認識吳志宏及張淑
     蓉夫婦、陳耀濬，我因為黃子龍透過吳志宏要向「牛哥」索
     賄，我因而認識該夫婦二人，我和陳耀睿有將近30年的交情
@@ -553,10 +446,10 @@ function openwin(URL,arguments,width,height)
     濬便帶著邱鍾連的領款委託書前往平鎮分局找黃子龍，陳耀
     濬在平鎮分局做了1份筆錄並簽收了該筆140萬元現金，陳耀
     濬便把現金帶回我家中等語（16681號偵卷二第4、5頁）。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />證人徐蘭香於原審證稱：吳志宏跟我說黃子龍在找邱鍾連
+    證人徐蘭香於原審證稱：吳志宏跟我說黃子龍在找邱鍾連
     ，邱鍾連之前有跟我說140萬元的事；吳志宏、陳耀濬拿回
     錢後交給邱鍾連，地點在我家裡，邱鍾連有清點，清點後剩
-    下110萬元等語（原審卷三第170頁及背面、172頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />證
+    下110萬元等語（原審卷三第170頁及背面、172頁）。證
     人陳耀濬於99年6月23日偵查中證稱：「（94年間牛哥有沒
     有曾委託你去分局向黃子龍取回120萬？〈按應係140萬元，
     以下更正之〉）有。叫牛哥的人他不方便去領，可能有案在
@@ -712,7 +605,7 @@ function openwin(URL,arguments,width,height)
     隆該次所涉毒品案件為不起訴處分確定，已如上述。惟依證
     人簡振隆、吳志宏、張淑蓉等人所述，被告黃子龍有透過吳
     志宏、張淑蓉等人向簡振隆收受收賄賂30萬元以為調換尿液
-    檢體之代價，說明如下：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人簡振隆於99年7月2日偵查中
+    檢體之代價，說明如下：證人簡振隆於99年7月2日偵查中
     證稱：我於98年6月19日中午在桃園市桃鶯路大樹派出所對
     面與友人玩骰子，因現場有人吸食安非他命，於6月20日凌
     晨1時45分遭平鎮分局偵查隊員查緝並帶回平鎮分局製作筆
@@ -725,7 +618,7 @@ function openwin(URL,arguments,width,height)
     就答應了，因為我3、4天前有用安非他命，沒有把握過關。
     張淑蓉把我叫到小紅帽KTV討論換尿的事情，拿了2瓶空的尿
     罐要給我，我拿20萬給張淑蓉，這是調換尿液的代價，尿液
-    檢體確實不是我的等語（16681號偵卷二第51-53頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證
+    檢體確實不是我的等語（16681號偵卷二第51-53頁）。證
     人簡振隆於100年6月27日原審證稱：（98年6月份你有無在
     桃園市○○○街00號2樓被警查獲？）我當時係去朋友那邊
     ，警察是去那邊抓賭博，結果有搜索到吸食器、毒品，我因
@@ -737,7 +630,7 @@ function openwin(URL,arguments,width,height)
     萬元我忘掉了，…（張淑蓉或吳志宏、徐偉琳有無告訴你，
     說要幫你調包尿液的人是哪一位員警或哪一個人？）沒有，
     只有說認識，但沒有說名字或哪一位等語（原審卷第21 8頁
-    、220頁、220背面及221頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人吳志宏於99年3月15日
+    、220頁、220背面及221頁）。證人吳志宏於99年3月15日
     偵查中證稱：簡振隆在98年6月20日被抓，在桃園市大樹派
     出所對面，被平鎮分局因為毒品案被抓。我老婆張淑蓉的朋
     友徐偉琳，在98年6月20日凌晨來找我老婆說現場的毒品有
@@ -763,11 +656,11 @@ function openwin(URL,arguments,width,height)
     子龍，我說，給你15萬元，後面的錢在拿給你，後來黃子龍
     有打電話給我說後面的事不要處理，因為換尿的事已經有人
     檢舉了，以後要少用電話聯絡等語（他字5456號偵卷一第
-    119-121頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />證人吳志宏於99年3月19日偵查中證稱：「
+    119-121頁）。證人吳志宏於99年3月19日偵查中證稱：「
     （為何張淑蓉陳述行賄黃子龍的經過，其時間部分與你所陳
     述的有部分出入？）因為時間經過有點久了，張淑蓉的記憶
     力應該比較好，但確實有行賄的事情。」、「應該是張淑蓉
-    記得比較準。」等語（他字5456號偵卷二第40、41頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />
+    記得比較準。」等語（他字5456號偵卷二第40、41頁）。
     證人吳志宏於100年6月27日原審證稱：「（簡振隆是如何與
     徐偉琳、張淑蓉商談向警察行賄的事情？）好像是簡振隆被
     抓，徐偉琳知道後要幫他的忙，徐偉琳知道我跟平鎮分局的
@@ -804,7 +697,7 @@ function openwin(URL,arguments,width,height)
     期六、日可慢一點，所以我才記得大概是星期五或星期六的
     事情。」、「（你說錢是在星期一晚上交給黃子龍是否實在
     ？）實在。」等語（原審卷二第226-227頁、229背面、230
-    頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />證人張淑蓉於99年3月18日偵查中證稱：我認識簡
+    頁）。證人張淑蓉於99年3月18日偵查中證稱：我認識簡
     振隆，98年6月19日晚上大約11點多，平鎮分局偵查隊員至
     桃園縣桃園市○○○街00號2樓查緝毒品時，簡振隆因賭博
     及持有毒品被逮捕，20日凌晨2、3時許，簡振隆請沒有被抓
@@ -860,7 +753,7 @@ function openwin(URL,arguments,width,height)
     振隆支付的20萬元賄款後，馬上就由吳志宏親手交給黃子龍
     ；第1次我是直接將10萬元轉交給吳志宏，第2次我先挪用5
     萬元，所以只有拿5萬元給吳志宏轉交給黃子龍等語（他字
-    5456號偵卷二第18-24頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />證人張淑蓉於100年8月1日原
+    5456號偵卷二第18-24頁）。證人張淑蓉於100年8月1日原
     審證稱：「（黃子龍跟吳志宏說簡振隆的尿液可以換後，真
     的有去進行換尿液的事情嗎？）有。」、「（過程為何？）
     當時黃子龍跟我們說可以換，那天九點多下班後，叫我先生
@@ -1025,16 +918,16 @@ function openwin(URL,arguments,width,height)
     院卷二第156頁背面。被告杜廣敏部分：16681號偵卷四第91
     頁99年10月19日偵查筆錄、原審卷一第123頁準備程序筆錄
     、本院卷二第183頁背面、本院卷三第81頁正面、背面），
-    並有下列證據可佐：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人高譯勝於偵查中證稱：我認識杜
+    並有下列證據可佐：證人高譯勝於偵查中證稱：我認識杜
     廣敏和胡佩君，她們一起住在平鎮市○○路000號14樓，我
     都是直接到杜廣敏位於平鎮市上海路的住處找她購買安非他
     命，杜廣敏會交代胡佩君拿安非他命給我（16681號偵卷三
     第93頁99年9月15日偵查筆錄）…我向杜廣敏買安非他命，
-    重量是1兩（16681號偵卷三第144頁）等語。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人高譯勝
+    重量是1兩（16681號偵卷三第144頁）等語。證人高譯勝
     於原審證稱：我在偵查中所證述的都實在，我有向杜廣敏買
     過一次安非他命1兩，杜廣敏叫我到桃園縣平鎮市○○路000
     號4樓，向胡佩君拿1包安非他命1兩重，我的錢是交給胡佩
-    君等語（原審卷二第169頁正面、背面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人田震宇於
+    君等語（原審卷二第169頁正面、背面）。證人田震宇於
     偵查中證稱：我是在99年3月18日晚間7時左右，跟蔡強生兩
     人一起到平鎮市○○路000號14樓找杜廣敏，到14樓之後，
     杜廣敏與胡佩君都在客廳裡，我就跟杜廣敏說要買1兩，杜
@@ -1042,7 +935,7 @@ function openwin(URL,arguments,width,height)
     回來之後，他就將一包安非他命交給蔡強生，我就將3萬元
     交給杜廣敏之後就離開了，我與蔡強生離開後到了新竹縣關
     西鎮，我們把毒品拿去秤重，發現只有33公克，遂打電話向
-    杜廣敏抱怨等語明確（16681號偵卷二第217頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />99年3
+    杜廣敏抱怨等語明確（16681號偵卷二第217頁）。99年3
     月18日，田震宇由友人蔡強生陪同向被告杜廣敏、胡佩君二
     人購買毒品，蔡強生於毒品交易結束後之當日有撥打被告杜
     廣敏所持用門號0000000000號行動電話，抱怨重量不足，二
@@ -1184,9 +1077,9 @@ function openwin(URL,arguments,width,height)
     正前之刑罰法律對被告黃子龍較為有利，故應適用修正前刑
     法之相關規定。
 二、法律之適用：
-  (一)核被告黃子龍所為：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />就犯罪事實一(一)所為係犯貪污治罪條
+  (一)核被告黃子龍所為：就犯罪事實一(一)所為係犯貪污治罪條
     例第4條第1項第2款藉端勒索財物罪，其與吳志宏間有犯意
-    聯絡、行為分擔，為共同正犯。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />就犯罪事實一(二)所為係犯
+    聯絡、行為分擔，為共同正犯。就犯罪事實一(二)所為係犯
     貪污治罪條例第7條、第4條第1項第5款之有調查職務之人員
     ，對於違背職務之行為收受賄賂罪、刑法第165條湮滅證據
     罪。其與吳志宏、張淑蓉間有犯意聯絡、行為分擔，為共同
@@ -1202,7 +1095,7 @@ function openwin(URL,arguments,width,height)
     第7條規定，就所犯以上第4條第1項第5款收受賄賂罪部分，
     應加重其刑（法定本刑無期徒刑部分依法不得加重部分除外
     ）。被告黃子龍所犯以上二罪，應分論併罰。
-  (二)核被告杜廣敏所為：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />就犯罪事實二所為係犯貪污治罪條例
+  (二)核被告杜廣敏所為：就犯罪事實二所為係犯貪污治罪條例
     第11條第4項、第1項不具公務員身分對於公務員違背職務之
     行為行求賄賂罪【貪污治罪條例第11條於100年6月29日修正
     公布，修正後之第11條規定乃增定第2項：「對於第2條人員
@@ -1219,14 +1112,14 @@ function openwin(URL,arguments,width,height)
     行為期約賄賂罪，應予更正。又被告杜廣敏就所犯此部分行
     求賄賂罪，於偵查、原審及本院審理時曾自白犯罪，已如前
     述，爰依貪污治罪條例第11條第5項後段規定，減輕其刑。
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />就犯罪事實三部分所為均係犯毒品危害防制條例第4條第2
+    就犯罪事實三部分所為均係犯毒品危害防制條例第4條第2
     項之販賣第二級毒品罪（二罪），其於販賣前持有第二級毒
     品之低度行為，均應為販賣之高度行為所吸收，不另論罪。
     被告杜廣敏就所犯以上販賣第二級毒品罪（二罪），與共同
     被告胡佩君間有犯意聯絡及行為分擔，為共同正犯。又被告
     杜廣敏所犯之販賣第二級毒品罪（二罪），於偵查、原審及
     本院審理時均有自白，已如前述，爰依毒品危害防制條例第
-    17條第2項規定，減輕其刑。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />就犯罪事實五部分所為，係
+    17條第2項規定，減輕其刑。就犯罪事實五部分所為，係
     犯刑法第164條第1項之藏匿人犯罪；因被告胡佩君係被告杜
     廣敏之姪女，有三親等之姻親關係，被告杜廣敏就此部分犯
     罪，爰依刑法第167條規定減輕其刑。又被告杜廣敏有前述
@@ -1666,9 +1559,9 @@ function openwin(URL,arguments,width,height)
 一、公訴人認被告黃子龍、張祉道、干銀雄涉犯此部分犯行，無
     非係以證人邱鍾連、陳耀濬、徐蘭香、吳志宏、張淑蓉之證
     述及94年9月6日搜索扣押筆錄1份為據，然訊據被告黃子龍
-    、干銀雄、張祉道均堅詞否認前揭犯行，辯解如下：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告
+    、干銀雄、張祉道均堅詞否認前揭犯行，辯解如下：被告
     黃子龍辯稱：該筆200萬現金因為當時無法證明是應扣案之
-    物，所以沒有查扣等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />被告張祉道則辯稱：94年9月6日
+    物，所以沒有查扣等語；被告張祉道則辯稱：94年9月6日
     當天伊沒有參與盤查的工作，因為偵防車擦撞之後，黃子龍
     叫伊將車子開去估價，伊是一人將偵防車開回去分局，回到
     分局是黃子龍、蕭正國製作警訊筆錄，對於他們查扣到什麼
@@ -1677,7 +1570,7 @@ function openwin(URL,arguments,width,height)
     梁添祿身上所扣押的第一級毒品海洛因香菸1支，而且東西
     也有放在桌上，伊有去對裡面的筆錄內容，也只有記載第一
     級毒品海洛因香菸一支，並沒有提到錢的事情，所以伊認為
-    是符合的等語；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />被告干銀雄辯稱：伊知道梁添鎮身上有揹
+    是符合的等語；被告干銀雄辯稱：伊知道梁添鎮身上有揹
     著兩袋包包，裡面有錢，黃子龍指示張祉道去製作搜索扣押
     物品目錄表，而伊則依照張祉道寫的搜索扣押物品目錄表寫
     了一張扣押物品清單，伊等回去分局後有清點包包內的現金
@@ -1865,11 +1758,11 @@ function openwin(URL,arguments,width,height)
     後第二天，我有到平鎮分局找黃子龍要領回270萬元現金，
     但黃子龍只還我140萬元云云（16681號偵卷二第62頁背面、
     71、72頁）。惟經檢視杜廣敏於偵查中及原審之歷次陳述：
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />杜廣敏於99年6月23日因本案接受調查站人員訊問時稱：
+    杜廣敏於99年6月23日因本案接受調查站人員訊問時稱：
     「7月30日交保後，就跟歐維祥一起到平鎮分局打手機給黃
     子龍，我再和歐維祥進入平鎮分局偵查隊，黃子龍叫平鎮分
     局偵查佐彭維君將裝著270萬元的皮包拿出來交給我們。」
-    等語（16681號偵卷一第265頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />杜廣敏於99年7月2日調
+    等語（16681號偵卷一第265頁）。杜廣敏於99年7月2日調
     查站訊問時稱：「我與歐維祥交保後的隔天中午，就一起到
     平鎮分局找黃子龍，我在平鎮分局外面打手機給黃子龍，沒
     找到人，隔幾天我再打給黃子龍約好後，就跟歐維祥一起進
@@ -1879,11 +1772,11 @@ function openwin(URL,arguments,width,height)
     平鎮分局後，是否有清點前開現金？金額多少？）我自己回
     到楊梅時有清點這筆現金，歐維祥沒有和我一起清點，270
     萬元。並沒有短少。」等語（16681偵卷二第61頁背面、62
-    頁正面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />杜廣敏於99年9月23日調查站訊問時稱：「針
+    頁正面）。杜廣敏於99年9月23日調查站訊問時稱：「針
     對你當初遭黃子龍拿走新台幣270萬元現金，而黃子龍僅返
     還予你140萬元現金乙事，黃子龍後續有無返還130萬元予你
     ？詳情為何？）從頭到尾都沒有270萬元這件事情發生。」
-    等語（16681號偵卷三第135頁正面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />杜廣敏於99年9月
+    等語（16681號偵卷三第135頁正面）。杜廣敏於99年9月
     24 日偵查中向檢察官供稱：「（99年8月20日，你於監所中
     遞狀陳述，你對於黃子龍涉嫌侵占一案部分虛偽陳述，這是
     你本人所寫的嗎？）是我自己寫的。」、「（你所謂的虛偽
@@ -1892,13 +1785,13 @@ function openwin(URL,arguments,width,height)
     他一定會傳出去。」、「（你可以詳細陳述說「沒有這回事
     」是什麼意思？）從頭到尾都沒有270萬元這件事，當天在
     香格里拉汽車旅館內並沒有扣到270萬元。」（16681偵卷三
-    第137頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />杜廣敏於99年10月19日偵查中向檢察官供稱
+    第137頁）。杜廣敏於99年10月19日偵查中向檢察官供稱
     ：「（為何黃子龍承認有扣得270萬元現金，後來全數發還
     給你？）沒有270萬元，只有15萬元。」、「（為何歐維祥
     也說當時有270萬元的現金?）不知道。」、「（為何彭維君
     、黃永輝、楊進基等員警都承認當時扣得巨額現金並清點數
     額？）（沈默不語）應該是說，黃子龍後來有全部還給我。
-    」等語（16681偵卷四第93頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />杜廣敏於起訴後原審審
+    」等語（16681偵卷四第93頁）。杜廣敏於起訴後原審審
     理時則均稱被告黃子龍有將270萬元全數返還等語（原審卷
     一第46頁背面、47、122、123、246頁）。自以上杜廣敏歷
     次所陳述內容，可知，其僅於99年7月2日偵查中於調查站及
@@ -1907,7 +1800,7 @@ function openwin(URL,arguments,width,height)
     或稱被告黃子龍係全數返還，則其於99年7月2日所稱被告黃
     子龍有侵占其130萬元一節，是否真實可信，自然有疑。
   (三)至卷內其他證人徐偉琳、歐維祥、蔡強生曾證稱有聽杜廣敏
-    說被告黃子龍未還130萬元一事，內容如下：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />證人徐偉琳
+    說被告黃子龍未還130萬元一事，內容如下：證人徐偉琳
     於99年6月25日偵查中證稱：「昨（24）日杜廣敏遭桃園地
     方法院裁定羈押禁見，並被留置於桃園地方法院檢察署拘留
     室時，我因為從花蓮監獄借提至桃園地檢署，也被安排在拘
@@ -1959,13 +1852,13 @@ function openwin(URL,arguments,width,height)
     龍確實有退還140萬元給她，而另外130萬元黃子龍也確實有
     收下，至於黃子龍交還140萬元現金給杜廣敏的時間、地點
     我就不清楚了，要問黃子龍及杜廣敏才知道。」等語（1668
-    1號偵卷二第8-12頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />證人徐偉琳於本院再證稱：不認
+    1號偵卷二第8-12頁）。證人徐偉琳於本院再證稱：不認
     識杜廣敏，我在偵查中作證所說有關黃子龍的事，是杜廣敏
     跟我講的，我不知道她為何跟我講的，我也不知道她有何案
     子，後來調查局問我，我知道的我就跟調查局講，我和她從
     當天下午聊到晚上11點多，我才回到龍潭女監，我跟她在一
     起有兩、三個鐘頭，後來她就出庭。她就是聊天跟我講這些
-    事情等語（詳本院卷第61-62頁正面、背面）<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />證人歐維祥
+    事情等語（詳本院卷第61-62頁正面、背面）證人歐維祥
     於99年6月17日調查站中稱：「該270萬元還留置在平鎮分局
     ，但我不清楚為什麼該270萬元現金還會留置在平鎮分局內
     ，當時我心想一定是黃子龍對該270萬元意圖不軌，我向杜
@@ -1978,9 +1871,9 @@ function openwin(URL,arguments,width,height)
     無見面，我並不清楚，杜廣敏是說黃子龍有歸還該270 萬元
     現金，不過我迄今仍沒有看到該筆270萬元現金，我基於信
     任杜廣敏，也就沒有再追問該270萬元下落。」等語（他字
-    5456號偵卷三第100頁正面及背面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />證人歐維祥於99年6
+    5456號偵卷三第100頁正面及背面）。證人歐維祥於99年6
     月17日偵查中仍向檢察官為相同內容之證言（他字5456號偵
-    卷三第112頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />證人歐維祥於99年7月2日調查站中陳述
+    卷三第112頁）。證人歐維祥於99年7月2日調查站中陳述
     ：96年7月25日交保當天，杜廣敏就單獨前往平鎮分局找黃
     子龍要錢，不過黃子龍並沒有在辦公室，杜廣敏則有留言要
     黃子龍回電，約隔2、3天杜廣敏告訴我黃子龍打電話要約她
@@ -1991,11 +1884,11 @@ function openwin(URL,arguments,width,height)
     表示剩下的餘額，黃子龍日後才會以現金歸還，之後我經常
     問及杜廣敏，黃子龍有無還清餘款，約隔2週後，我聽杜廣
     敏說是有還，不過我並沒有看到。」（16681號偵卷二第76
-    頁背面至77頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />證人歐維祥於100年1月17日原審證稱：
+    頁背面至77頁）。證人歐維祥於100年1月17日原審證稱：
     大約是幾天之後我們有去找黃子龍要這筆錢，黃子龍只有歸
     還130萬元，其他的錢黃子龍後來沒有還，這件事情的細節
     因時間有點久了，我已經不太清楚等語（原審卷一第202頁
-    、206頁）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57E2A0A00000040.GIF" />證人蔡強生於99年6月11日調查站中稱：「我
+    、206頁）。證人蔡強生於99年6月11日調查站中稱：「我
     曾經聽杜廣敏說前開案發現場確實有270萬元現金，後來杜
     廣敏隨辦案人員回到平鎮分局後，黃子龍就將該筆270萬元
     及杜廣敏帶至小隊長辦公室，當時杜廣敏想透過交換案件的
@@ -2004,7 +1897,7 @@ function openwin(URL,arguments,width,height)
     現金的下落，而且本案扣押物清單上也並未記載該筆270萬
     元現金，也就是該筆現金並未隨案移送。另外，該筆270萬
     元現金我聽杜廣敏說是被黃子龍侵占。」等語（他字5456號
-    偵卷三第8頁背面）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57D2A0A00000040.GIF" />證人蔡強生於99年6月11 日偵查中
+    偵卷三第8頁背面）。證人蔡強生於99年6月11 日偵查中
     證稱：「（杜廣敏跟你說她270萬元的事情經過是如何?）我
     們是在大六舞廳時，我開口跟杜廣敏借錢，她才跟我說96年
     7月24日被抓時，一條錢被拿走了，我就反問她，你這麼多
@@ -2057,7 +1950,7 @@ function openwin(URL,arguments,width,height)
     犯行，辯稱：伊從來沒有販賣毒品給吳志宏等語。
 二、經查：
   (一)證人吳志宏於偵查、原審固曾證稱有向被告黃子龍購買第一
-    、二級毒品，內容如下：<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />於偵查中證稱：98年4、5月左右
+    、二級毒品，內容如下：於偵查中證稱：98年4、5月左右
     ，某一天黃子龍打電話給我，約在平鎮分局後面一家汽車旅
     館旁邊的公園見面，黃子龍上了我的車，就在車上聊毒品的
     價格，黃子龍說假如東西比較好價錢貴一點你們接不接受，
@@ -2088,7 +1981,7 @@ function openwin(URL,arguments,width,height)
     萬3千元，這次先還他10萬元，還欠他5萬元，隔天我將17.5
     公克的安非他命還黃子龍；隔2、3天，伊就電匯5萬元到黃
     子龍指定的郵局帳戶給他等（他字5456號偵卷二第66-67頁
-    ）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />於原審證稱：黃子龍問我他朋友那邊有比較好的毒品
+    ）。於原審證稱：黃子龍問我他朋友那邊有比較好的毒品
     要不要，我就說好，我們就約在平鎮分局後面汽車賓館旁的
     公園，黃子龍跟一個朋友過來，他朋友就跟我談毒品的事情
     ，21萬要買海洛因1兩，在談的時候黃子龍有在旁邊，後來
@@ -2767,86 +2660,12 @@ function openwin(URL,arguments,width,height)
 │ 16   │99年5月14日             │
 ├───┼────────────┤
 │ 17   │99年5月25日             │
-└───┴────────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10212\11\TPHM102CB.01F] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[2]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共200
-											筆 / 現在第34
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e7%9f%9a%e4%b8%8a%e8%a8%b4&selectedCrmno=000011&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=33&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=200&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%a6%ac%e5%9c%a8%e5%8b%a4&sdate=&edate=&page=&searchkw=%e9%a6%ac%e5%9c%a8%e5%8b%a4&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e8%a8%b4&jno=11&jdate=1021211&jcheck=2">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e7%9f%9a%e4%b8%8a%e8%a8%b4&jno=11&jdate=1021211&jcheck=2">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e7%9f%9a%e4%b8%8a%e8%a8%b4%2c11%2c20131211%2c2','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e7%9f%9a%e4%b8%8a%e8%a8%b4','11','1021211','2')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="34"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="馬在勤">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="馬在勤">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└───┴────────────┘
+[*jrecno*]101,矚上訴,11,20131211,2
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]矚上訴
+[*jno*]11
+[*jdate*]1021211
+[*jcheck*]2

@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-100矚重訴1</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%9f%9a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1010511&jcheck=8">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1010511&jcheck=8">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e7%9f%9a%e9%87%8d%e8%a8%b4','1','1010511','8')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,矚重訴,1</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010511</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">殺人等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　100年度矚重訴字第1號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1010511&jcheck=8
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%9f%9a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1010511&jcheck=8
+[*裁判字號*]100,矚重訴,1
+[*裁判日期*]1010511
+[*裁判案由*]殺人等
+[*裁判全文*]臺灣板橋地方法院刑事判決　　　　　　100年度矚重訴字第1號
 公　訴　人　臺灣板橋地方法院檢察署檢察官
 被　　　告　林正偉
 選任辯護人　陳明正律師
@@ -387,25 +280,25 @@ function openwin(URL,arguments,width,height)
     發子彈射入連勝文左臉頰貫穿右顴骨，連勝文因而受有臉部
     槍傷等情，業據證人連勝文於檢察官偵查中證述明確，且經
     本院勘驗造勢晚會現場所攝被告槍擊連勝文過程之光碟，勘
-    驗結果為：「<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />畫面顯示時間00：00- 09：45：畫面開始時
+    驗結果為：「畫面顯示時間00：00- 09：45：畫面開始時
     ，身穿粉紅色背心（下稱競選背心）之男主持人站立在面對
     舞臺右側、女主持人則站立在面對舞臺左側，同時邀請身穿
     黃色上衣黑色背心之男子即立法委員林德福上舞臺助講並呼
-    口號。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />畫面顯示時間09：45：此時男女主持人告知候選人
+    口號。畫面顯示時間09：45：此時男女主持人告知候選人
     陳鴻源已來到現場，並請陳鴻源上臺。1 位身穿競選背心之
     舉旗手自畫面左方即舞臺下方出現，身穿白色上衣披紅色競
     選彩帶之男子即陳鴻源與身穿白色上衣披紅色競選彩帶之女
     子即劉世琪緊跟在後，後方依序跟著另外5 位身穿競選背心
     之舉旗手，且身穿藍色背心深色上衣之男子即連勝文亦與該
-    5 位舉旗手一同出現在舞臺下方。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />畫面顯示時間09：55：
+    5 位舉旗手一同出現在舞臺下方。畫面顯示時間09：55：
     6 位舉旗手上臺後，站立在舞臺後方，陳鴻源與劉世琪則依
     序上臺，女主持人同時邀請連勝文上臺，連勝文上臺後，此
     時畫面由右至左，站立在舞臺前方依序為男主持人、連勝文
     、林德福、陳鴻源、劉世琪及女主持人。男女主持人帶領民
-    眾一同呼口號。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />畫面顯示時間11：05：男主持人表示林德
+    眾一同呼口號。畫面顯示時間11：05：男主持人表示林德
     福將離開現場，林德福逐一與連勝文、陳鴻源及劉世琪握手
     後，朝畫面右下方離開舞臺。同一時間，舞臺上之連勝文則
-    與陳鴻源互換位置，站立在陳鴻源與劉世琪中間。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />畫面顯
+    與陳鴻源互換位置，站立在陳鴻源與劉世琪中間。畫面顯
     示時間11：33：1 名頭戴粉紅色競選帽子，身穿深色上衣、
     深色長褲之男子即被告林正偉，以微蹲的姿勢自畫面右方即
     面對舞臺右側出現，並以小跑步朝連勝文所站立位置之方向
@@ -415,7 +308,7 @@ function openwin(URL,arguments,width,height)
     住連勝文左側臉部並於11：36秒開槍射擊，發出「碰」1 聲
     ，只見連勝文以手掩面，表情痛苦並朝面對舞臺左側而去（
     11：35秒劉振南出現在面對舞臺的右側，往舞臺中間奔跑過
-    來）。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F57F2A0A00000040.GIF" />畫面顯示時間11：37：此時被告則自連勝文後方用
+    來）。畫面顯示時間11：37：此時被告則自連勝文後方用
     左手抓住連勝文之左邊肩膀，並右手持槍對著連勝文之頭部
     ，連勝文繼續往畫面左方移動，劉振南則於11：38秒從後方
     抱被告的肩膀，與被告發生拉扯。許多人並衝上舞臺，現場
@@ -552,7 +445,7 @@ function openwin(URL,arguments,width,height)
     可結束郝龍斌處行程即可前往陳鴻源處，若伊無法於晚間9
     時30分前趕回凱達格蘭大道，伊即不克前往，陳鴻源央伊儘
     量前去，伊曾於99年11月25日將上情告知伊助理及友人徐立
-    曄，及於同年月26日中午告知伊之競選團隊人員<font color='red'>李德維</font>，伊
+    曄，及於同年月26日中午告知伊之競選團隊人員李德維，伊
     不知伊助理係於同年月25日抑或26日詢問陳鴻源晚會所在。
     99年11月26日晚間7 時20分許，伊到達郝龍斌競選總部，於
     晚間7 時40分上臺，於晚間7 時50分前結束，伊便告知助理
@@ -651,8 +544,8 @@ function openwin(URL,arguments,width,height)
     有憂鬱症，其病情足以影響案發行為時之控制能力云云，然
     查，經本院囑託亞東紀念醫院，就被告「行為時」（99年11
     月26日）之精神狀態進行精神鑑定，該院鑑定結果略為：「
-    ‧‧‧<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />身體狀況：四肢健全，活動自如；自述有C 型肝炎
-    ，不曾有頭部外傷史。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />精神狀態：會談時態度合作，情緒
+    ‧‧‧身體狀況：四肢健全，活動自如；自述有C 型肝炎
+    ，不曾有頭部外傷史。精神狀態：會談時態度合作，情緒
     穩定，言語連貫，對答流暢，無明顯情緒低落或憂鬱症現象
     ，否認有自裁意念，過去也不曾有過自殺企圖。無「重大精
     神病」之幻覺或妄想出現；對人、時、地之定向感及記憶力
@@ -665,7 +558,7 @@ function openwin(URL,arguments,width,height)
     也未服用任何藥物或安眠藥。本案發生時，林員未因精神障
     礙或其他心智缺陷，致不能辨識其行為違法或欠缺依其辨識
     而行為之能力；也未因前項之原因，致其辨識行為違法或依
-    其辨識而行為之能力，顯著減低。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />心理測驗：100 年3 月
+    其辨識而行為之能力，顯著減低。心理測驗：100 年3 月
     21日施測。以SPM 評估，其綜合智能約為95左右，與其最好
     的教育程度相較，沒有太多差別，顯示其能力沒有顯著下降
     ... 」一節，有亞東紀念醫院於100 年3 月24日精神鑑定報
@@ -889,86 +782,12 @@ function openwin(URL,arguments,width,height)
 因過失致人於死者，處2 年以下有期徒刑、拘役或2 千元以下罰
 金。
 從事業務之人，因業務上之過失犯前項之罪者，處5 年以下有期
-徒刑或拘役，得併科3千元以下罰金。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10105\11\PCDM1015B.004] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[8]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e7%9f%9a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1010511&jcheck=8">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1010511&jcheck=8">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20120511%2c8','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e7%9f%9a%e9%87%8d%e8%a8%b4','1','1010511','8')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="李德維">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="李德維">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+徒刑或拘役，得併科3千元以下罰金。
+[*jrecno*]100,矚重訴,1,20120511,8
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]100
+[*jcase*]矚重訴
+[*jno*]1
+[*jdate*]1010511
+[*jcheck*]8

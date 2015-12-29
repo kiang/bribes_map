@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺北地方法院-刑-101聲判68</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%81%b2%e5%88%a4&selectedCrmno=000068&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%81%b2%e5%88%a4&jno=68&jdate=1010330&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%81%b2%e5%88%a4&jno=68&jdate=1010330&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%81%b2%e5%88%a4','68','1010330','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,聲判,68</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010330</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">聲請交付審判</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺北地方法院刑事裁定　　　　　　 101年度聲判字第68號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%81%b2%e5%88%a4&jno=68&jdate=1010330&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%81%b2%e5%88%a4&selectedCrmno=000068&selectedCrtid=TPD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%81%b2%e5%88%a4&jno=68&jdate=1010330&jcheck=1
+[*裁判字號*]101,聲判,68
+[*裁判日期*]1010330
+[*裁判案由*]聲請交付審判
+[*裁判全文*]臺灣臺北地方法院刑事裁定　　　　　　 101年度聲判字第68號
 聲　請　人
 即　告訴人　羅淑蕾
 代　理　人　傅文民律師
@@ -163,7 +56,7 @@ function openwin(URL,arguments,width,height)
     防偽標籤大餅」、「羅淑蕾護航瑞士廠商」、「外商覬覦國
     內菸酒防偽標示每年25億元的大商機，透過立委積極遊說，
     更打算直接將規格綁進法條中，國民黨形象牌立委羅淑蕾、
-    黨團首席副書記長林滄敏和無黨聯盟成員<font color='red'>康世儒</font>，在立院財
+    黨團首席副書記長林滄敏和無黨聯盟成員康世儒，在立院財
     政委員會以各種手段為廠商護航，甚至帶廠商找財政部長李
     述德說項」、「搶市場訪土耳其本刊接獲檢舉指出，錫克拜
     公司透過在臺灣的代理人和羅淑蕾接觸，2009年1 月19日，
@@ -177,7 +70,7 @@ function openwin(URL,arguments,width,height)
     私，但貨物稅有千百種，廠商自應為其商品的防偽負責，是
     否應由政府為單一商品印製防偽完稅標示，有待商確，硬是
     給羅淑蕾一個軟釘子碰」、「提新案直接綁規格」、「但相
-    關人士等仍不氣餒，三月八日，<font color='red'>康世儒</font>和羅淑蕾等立委又在
+    關人士等仍不氣餒，三月八日，康世儒和羅淑蕾等立委又在
     財委會提案，建議財政部相關主管機關，包括賦稅署、國庫
     署和臺灣菸酒公司應勻撥相關出國經費，派遣主管人員到國
     外全面實施安全防偽系統先進國家進行實地考察如土耳其，
@@ -244,7 +137,7 @@ function openwin(URL,arguments,width,height)
     聲」、「頻施壓費鴻泰力擋」等部分，惟查，聲請人確有於
     立法院財政委員會連署提案，由臺灣菸酒公司等國營單位派
     遣主管人員到國外全面實施安全防偽系統先進國家進行實地
-    考察（如土耳其）等情，此有羅淑蕾、<font color='red'>康世儒</font>等人提案稿及
+    考察（如土耳其）等情，此有羅淑蕾、康世儒等人提案稿及
     立法院第7 屆第5 會期財政委員會第2 次全體委員會議紀錄
     在卷可參，堪認該報導有關防偽標示出國至土耳其等地考察
     之真實性。次查，依卷附立法院議案關係文書院總第1746號
@@ -325,11 +218,11 @@ function openwin(URL,arguments,width,height)
     法第32條、第33條條文修正案，要求財政部從速建置菸酒真
     辨識機制... 」等內容，並載明聲請人為該提案之連署人之
     一，是聲請人指稱其根本沒有參與上開菸酒管理法之連署云
-    云，即有誤會。（二）又聲請人曾與<font color='red'>康世儒</font>、盧秀燕、羅明
+    云，即有誤會。（二）又聲請人曾與康世儒、盧秀燕、羅明
     才等委員連署提案，建請財政部相關主管機關（賦稅署、國
     庫署及臺灣菸酒股份有限公司）云撥相關出國經費，派遣主
     管人員到國外全面實施安全防偽系統先進國家進行實地考察
-    （如土耳其）一節，亦有聲請人、<font color='red'>康世儒</font>等人署名之提案稿
+    （如土耳其）一節，亦有聲請人、康世儒等人署名之提案稿
     及立法院第7 屆第5 會期（99年3 月8 日）財政委員會第2
     次全體委員會議紀錄在卷可憑。再者，聲請人於立法院第7
     屆第5 會期財政委員會第10全體委員會（99年4 月14日）中
@@ -481,10 +374,10 @@ function openwin(URL,arguments,width,height)
     眼。（問：週刊第52頁下方，『將廠商的技術規格直接綁進
     修法條文中... 』這是告訴人所提還是無黨籍聯盟立委所提
     ？）這段是我報導的陳述及評論。（問：這段文字的依據為
-    何？）我談的是4 月14日無黨籍無盟<font color='red'>康世儒</font>立委有相關提案
+    何？）我談的是4 月14日無黨籍無盟康世儒立委有相關提案
     ，詳如99年6 月30日答辯狀中的被證二第2 頁第32條講到要
     建置菸品安全防偽、追蹤溯源辨識系統功能。在土耳其只有
-    錫克拜公司合作才能作到防偽跟追蹤的技術，<font color='red'>康世儒</font>的提案
+    錫克拜公司合作才能作到防偽跟追蹤的技術，康世儒的提案
     包括了除了防偽、追蹤、溯源、辨識系統都要包含在內，跟
     立法院一般原則性立法不一樣，不會要求防偽要什麼條件，
     這種立法通常是展開標案後，才出現在標案內，當時會提出
@@ -514,10 +407,10 @@ function openwin(URL,arguments,width,height)
     等17人，為有效杜絕走私偽劣菸酒... 擬具菸酒管理法第32
     條、第33條條文修正案，要求財政部從速建置菸酒真辨識機
     制... 」等內容（見99年度他字第4668號偵卷第64至第65頁
-    ）；又聲請人曾與<font color='red'>康世儒</font>、盧秀燕、羅明才等立法委員連署
+    ）；又聲請人曾與康世儒、盧秀燕、羅明才等立法委員連署
     提案，建請財政部相關主管機關云撥相關出國經費，派遣主
     管人員到國外全面實施安全防偽系統先進國家進行實地考察
-    一節，亦有聲請人、<font color='red'>康世儒</font>等人署名之提案稿及立法院第7
+    一節，亦有聲請人、康世儒等人署名之提案稿及立法院第7
     屆第5 會期（99年3 月8 日）財政委員會第2 次全體委員會
     議紀錄（見上開偵卷第61頁至第63頁）在卷可憑；再者，聲
     請人於立法院第7 屆第5 會期財政委員會第10全體委員會（
@@ -535,7 +428,7 @@ function openwin(URL,arguments,width,height)
     憑證非萬靈丹」及99年4 月13日國政評論、99年4 月15日自
     由時報「菸酒防偽利益糾葛立院院會處理」報導、99年4 月
     21日自由時報「調降米酒稅、菸品防偽憑證兩案財政部堅決
-    反對」、壹週刊記者向<font color='red'>康世儒</font>查證電話譯文各1 份（同上偵
+    反對」、壹週刊記者向康世儒查證電話譯文各1 份（同上偵
     卷第73頁至第85頁）存卷為憑，均係被告蔡慧貞於99年4 月
     28出刊之壹週刊撰寫上開報導時所依憑之資料甚明。
   (三)復觀之被告蔡慧貞於撰寫報導前曾與聲請人以電話訪談以下
@@ -607,86 +500,12 @@ function openwin(URL,arguments,width,height)
 上正本證明與原本無異。
 本裁定不得抗告。
                                 書記官  莊怡仙
-中    華    民    國   101    年    4     月    3     日</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPD\CRIMINAL\10103\30\TPDM1013U.050] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%81%b2%e5%88%a4&selectedCrmno=000068&selectedCrtid=TPD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%81%b2%e5%88%a4&jno=68&jdate=1010330&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1&v_court=TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%81%b2%e5%88%a4&jno=68&jdate=1010330&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%81%b2%e5%88%a4%2c68%2c20120330%2c1','TPD+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%81%b2%e5%88%a4','68','1010330','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPD 臺灣臺北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="康世儒">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="康世儒">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+中    華    民    國   101    年    4     月    3     日
+[*jrecno*]101,聲判,68,20120330,1
+[*v_court*]TPD 臺灣臺北地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]聲判
+[*jno*]68
+[*jdate*]1010330
+[*jcheck*]1

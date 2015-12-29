@@ -1,123 +1,16 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣臺中地方法院-刑-101訴2721</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=002721&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c2721%2c20130102%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=2721&jdate=1020102&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c2721%2c20130102%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=2721&jdate=1020102&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c2721%2c20130102%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','2721','1020102','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,2721</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020102</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">懲治走私條例等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣臺中地方法院宣示判決筆錄　　　　 101年度訴字第2721號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c2721%2c20130102%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=2721&jdate=1020102&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=002721&selectedCrtid=TCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c2721%2c20130102%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=2721&jdate=1020102&jcheck=1
+[*裁判字號*]101,訴,2721
+[*裁判日期*]1020102
+[*裁判案由*]懲治走私條例等
+[*裁判全文*]臺灣臺中地方法院宣示判決筆錄　　　　 101年度訴字第2721號
 公　訴　人　臺灣臺中地方法院檢察署檢察官
 被　　　告　徐嘉金
 　　　　　　陳立達
 選任辯護人　蔡奉典律師
-被　　　告　<font color='red'>鍾文龍
-　　　　　　</font>張凱豪
+被　　　告　鍾文龍
+　　　　　　張凱豪
 選任辯護人　楊永吉律師
 上列被告等因懲治走私條例等案件，經檢察官提起公訴（101年
 度偵字第489、6413、6573、9420號）後，聲請改依協商程序而
@@ -135,12 +28,12 @@ function openwin(URL,arguments,width,height)
 如附表七編號1、2、3、4、5、6所示之行動電話肆支（內附0000
 000000SIM卡、0000000000號SIM卡、0000000000SIM卡、0000000
 000SIM卡各壹張）、密碼紙片壹張、存款憑條壹張，均沒收。應
-執行有期徒刑捌月，緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，並應於判決確定日起壹年內，向
-臺中市政府教育局支付新台幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />拾萬元。扣案如附表七編號1、2
+執行有期徒刑捌月，緩刑年，並應於判決確定日起壹年內，向
+臺中市政府教育局支付新台幣拾萬元。扣案如附表七編號1、2
 、3、4、5、6所示之行動電話肆支（內附0000000000SIM卡、000
 00 00000號SIM卡、0000000000SIM卡、0000000000SIM卡各壹張
 ）、密碼紙片壹張、存款憑條壹張，均沒收。
-<font color='red'>鍾文龍</font>共同犯走私罪，處有期徒刑柒月，緩刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />年，並應向執行
+鍾文龍共同犯走私罪，處有期徒刑柒月，緩刑年，並應向執行
 檢察官指定之政府機關、政府機構、行政法人、社區或其他符合
 公益目的之機構或團體，提供壹佰伍拾小時之義務勞務。緩刑期
 間付保護管束。扣案如附表七編號1、2所示之行動電話貳支（內
@@ -156,9 +49,9 @@ function openwin(URL,arguments,width,height)
 、3、4、5、6所示之行動電話肆支（內附0000000000SIM卡、000
 00 00000號SIM卡、0000000000SIM卡、0000000000SIM卡各壹張
 ）、密碼紙片壹張、存款憑條壹張，均沒收。
-張凱豪共同犯運送走私物品罪，處有期徒刑<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />月，如易科罰金，
+張凱豪共同犯運送走私物品罪，處有期徒刑月，如易科罰金，
 以新台幣壹仟元折算壹日，緩刑貳年，並應於判決確定日起陸個
-月內，向臺中市政府教育局支付新台幣<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3722A0A00000040.GIF" />萬元。扣案如附表七編
+月內，向臺中市政府教育局支付新台幣萬元。扣案如附表七編
 號1、2、3、4、5、6所示之行動電話肆支（內附0000000000SIM
 卡、0000000000號SIM卡、0000000000SIM卡、0000000000SIM卡
 各壹張）、密碼紙片壹張、存款憑條壹張，均沒收。
@@ -178,7 +71,7 @@ function openwin(URL,arguments,width,height)
     ；且禽鳥類活體動物，係來自高病原性家禽流行性感冒疫區
     即大陸地區之禽鳥類，為禁止輸入之檢疫物；又畫眉鳥為保
     育類野生動物，其活體非經中央主管機關之同意，不得輸入
-    或輸出，竟未經主管機關之同意，各與<font color='red'>鍾文龍</font>、姓名陳坤年
+    或輸出，竟未經主管機關之同意，各與鍾文龍、姓名陳坤年
     籍不詳之成年人；姓名年籍不詳購買人及漁船駕駛之成年人
     、計程車司機張凱豪，基於自大陸地區私運逾公告數額之走
     私管制物品進口、輸入禁止輸入之動物檢疫物及保育類野生
@@ -192,11 +85,11 @@ function openwin(URL,arguments,width,height)
     之畫眉活體禽鳥2隻、附表三所示走私其餘查獲數量之畫眉
     活體禽鳥2隻(詳細品名及數量詳如附表一、二、三所示)。
     林宗正則於大陸地區物色、挑選上開禽鳥並以運費3至4萬元
-    作為代價，交由<font color='red'>鍾文龍</font>一次以擔任交通負責夾帶上開鳥類入
+    作為代價，交由鍾文龍一次以擔任交通負責夾帶上開鳥類入
     境臺灣，於100年12月27日搭乘長榮航空公司BR-806號班機
     自大陸地區廣州禽流感疫區，將附表一、二、三所載之鳥類
     一次以藏放於手提黑色行李袋內之方式輸入至臺灣，欲在臺
-    灣高鐵嘉義站轉交予陳立達、徐嘉金2人。嗣因<font color='red'>鍾文龍</font>於同
+    灣高鐵嘉義站轉交予陳立達、徐嘉金2人。嗣因鍾文龍於同
     日下午9時許欲闖關入境時，在桃園縣大園鄉桃園國際機場
     第二航廈為警查獲，並當場扣得如附表一、二、三所載之活
     體禽鳥共28隻（業經行政院農業委員會動植物防疫檢疫局新
@@ -294,7 +187,7 @@ function openwin(URL,arguments,width,height)
     生動物之活體罪、動物傳染病防治條例第41條第1項之擅自
     輸入禁止輸入之檢疫物罪為想像競合犯，尚有誤會，合亦先
     敘明。
-(三)、核就犯罪事實(一)部分，被告徐嘉金、陳立達、<font color='red'>鍾文龍</font>，均係
+(三)、核就犯罪事實(一)部分，被告徐嘉金、陳立達、鍾文龍，均係
     犯修正前懲治走私條例第2條第1項之私運管制物品進口逾公
     告數額罪、野生動物保育法第40條第1款未經主管機關同意
     輸入保育類野生動物之活體罪、動物傳染病防治條例第41條
@@ -305,39 +198,39 @@ function openwin(URL,arguments,width,height)
     口逾公告數額罪、野生動物保育法第40條第1款未經主管機
     關同意輸入保育類野生動物之活體罪、動物傳染病防治條例
     第41條第1項之擅自輸入禁止輸入之檢疫物罪。被告徐嘉金
-    、陳立達、<font color='red'>鍾文龍</font>與林宗正及姓名陳坤年籍不詳之成年人就
+    、陳立達、鍾文龍與林宗正及姓名陳坤年籍不詳之成年人就
     犯罪事實(一)部分；被告徐嘉金、陳立達、張凱豪與林宗正及
     姓名年籍不詳之購買人及漁船駕駛之成年人，就犯罪事實(二)
     部分，其相互間，互有犯意聯絡及行為分擔，均應論以共同
-    正犯。被告徐嘉金、陳立達與<font color='red'>鍾文龍</font>，就犯罪事實(一)及(二)部
+    正犯。被告徐嘉金、陳立達與鍾文龍，就犯罪事實(一)及(二)部
     分所犯上開各罪間，均係一行為觸犯數罪名，均為想像競合
     犯，均應依刑法第55條之規定，從較重之私運管制物品進口
     逾公告數額罪處斷。又被告徐嘉金、陳立達就上開犯罪事實
     (一)、(二)2次私運管制物品進口逾公告數額罪，其犯意各別，
     所隔時間已長，且運送方式不同，顯非基於計畫性之整體故
     意，行為互殊，應予分論併罰。
-(四)、再查被告徐嘉金、陳立達、<font color='red'>鍾文龍</font>均未曾因故意犯罪受有期
+(四)、再查被告徐嘉金、陳立達、鍾文龍均未曾因故意犯罪受有期
     徒刑以上刑之宣告，被告張凱豪除於81年間，因麻醉藥品管
     理條例案件，於81年6月29日經臺灣板橋地方法院以81年度
     易字第3042號判處有期徒刑5月，於81年8月10日確定，於81
     年9月25日易科罰金執行完畢後，5年以內未曾因故意犯罪受
     有期徒刑以上刑之宣告，均有臺灣高等法院被告前案紀錄表
     及臺灣臺中地方法院檢察署刑案資料查註紀錄表各1份在卷
-    可按，被告徐嘉金、陳立達、<font color='red'>鍾文龍</font>及張凱豪，均因一時失
+    可按，被告徐嘉金、陳立達、鍾文龍及張凱豪，均因一時失
     慮，致罹刑章，並均已坦承犯行，深具悔意，衡其等經此次
     偵審程序及罪刑之宣告後當均知警惕，應均無再犯之虞，為
-    此公訴人與被告徐嘉金、陳立達、<font color='red'>鍾文龍</font>、張凱豪協商予以
+    此公訴人與被告徐嘉金、陳立達、鍾文龍、張凱豪協商予以
     宣告緩刑各3年、2年、3年、2年。另為使被告徐嘉金、陳立
-    達、<font color='red'>鍾文龍</font>、張凱豪深切反省，公訴人並與被告徐嘉金、陳
-    立達、<font color='red'>鍾文龍</font>、張凱豪協商，各應於判決確定日起1年內，
+    達、鍾文龍、張凱豪深切反省，公訴人並與被告徐嘉金、陳
+    立達、鍾文龍、張凱豪協商，各應於判決確定日起1年內，
     向中市政府教育局支付30萬元、於判決確定日起8個月內，
     向中市政府教育局支付10萬元、向執行檢察官指定之政府機
     關、政府機構、行政法人、社區或其他符合公益目的之機構
     或團體，提供150小時之義務勞務、於判決確定日起6個月內
-    ，向中市政府教育局支付3萬元，並被告<font color='red'>鍾文龍</font>部分，依刑
+    ，向中市政府教育局支付3萬元，並被告鍾文龍部分，依刑
     法第93條第1項第2款諭知緩刑期間付保護管束，以啟自新，
     兼觀後效。且依刑法第75條之1第1項第4款規定，被告徐嘉
-    金、陳立達、<font color='red'>鍾文龍</font>、張凱豪違反本院所定上開向公庫支付
+    金、陳立達、鍾文龍、張凱豪違反本院所定上開向公庫支付
     30萬元、10萬元、3萬元及提供150小時之義務勞務之事項情
     節重大，足認原宣告之緩刑難收預期效果，而有執行刑罰之
     必要者，得撤銷其緩刑宣告，附此敘明。
@@ -608,86 +501,12 @@ function openwin(URL,arguments,width,height)
 │7   │計程車│1   │台  │張凱豪所有            │
 │    │      │    │    │                      │
 │    │      │    │    │                      │
-└──┴───┴──┴──┴───────────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTCD\CRIMINAL\10201\02\TCDM10212.01C] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
-											筆 / 現在第5
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=002721&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%8d%be%e6%96%87%e9%be%8d&sdate=&edate=&page=&searchkw=%e9%8d%be%e6%96%87%e9%be%8d&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c2721%2c20130102%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=2721&jdate=1020102&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c2721%2c20130102%2c1&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=2721&jdate=1020102&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c2721%2c20130102%2c1','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','2721','1020102','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="鍾文龍">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="鍾文龍">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴───┴──┴──┴───────────┘
+[*jrecno*]101,訴,2721,20130102,1
+[*v_court*]TCD 臺灣臺中地方法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]訴
+[*jno*]2721
+[*jdate*]1020102
+[*jcheck*]1

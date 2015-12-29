@@ -1,119 +1,12 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣雲林地方法院-刑-104簡上21</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣雲林地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e7%b0%a1%e4%b8%8a&selectedCrmno=000021&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1%e4%b8%8a&jno=21&jdate=1041218&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1%e4%b8%8a&jno=21&jdate=1041218&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e7%b0%a1%e4%b8%8a','21','1041218','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,簡上,21</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041218</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣雲林地方法院刑事判決　　　　　　 104年度簡上字第21號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1%e4%b8%8a&jno=21&jdate=1041218&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e7%b0%a1%e4%b8%8a&selectedCrmno=000021&selectedCrtid=ULD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1%e4%b8%8a&jno=21&jdate=1041218&jcheck=1
+[*裁判字號*]104,簡上,21
+[*裁判日期*]1041218
+[*裁判案由*]詐欺
+[*裁判全文*]臺灣雲林地方法院刑事判決　　　　　　 104年度簡上字第21號
 上　訴　人
-即　被　告　吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔
+即　被　告　吳桔
 上列上訴人即被告因詐欺案件，不服本院北港簡易庭中華民國10
 4 年5 月27日104 年度本院港簡字第30號第一審簡易判決（聲請
 簡易判決處刑案號：104 年度偵字第992 號，移送併案案號：10
@@ -122,10 +15,10 @@ function openwin(URL,arguments,width,height)
 ：
     主  文                                              
 原判決撤銷。
-吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔幫助犯詐欺取財罪，處有期徒刑陸月，如易科罰金，以新
+吳桔幫助犯詐欺取財罪，處有期徒刑陸月，如易科罰金，以新
 臺幣壹仟元折算壹日。
     事  實
-一、吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔明知金融機構存款帳戶係個人理財之重要工具，攸關
+一、吳桔明知金融機構存款帳戶係個人理財之重要工具，攸關
     個人財產、信用之表徵，且依其智識程度及社會生活之通常
     經驗，已知犯罪集團專門收集各金融帳戶存摺、提款卡及密
     碼，用以實施詐欺取財等財產性犯罪之社會現象，可預見將
@@ -148,20 +41,20 @@ function openwin(URL,arguments,width,height)
     門號0000000000號行動電話告知上開2 張提款卡之密碼，又
     因「呂先生」告知郵局帳戶較好核貸，遂應「呂先生」之指
     示，於同日至中華郵政股份有限公司四湖郵局（下稱四湖郵
-    局）補辦提款卡，嗣於同月23日領得新卡後，吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔復承續
+    局）補辦提款卡，嗣於同月23日領得新卡後，吳桔復承續
     前揭犯意，在雲林縣四湖鄉某OK超商，將其向四湖郵局所申
     辦帳號00000000000000號帳戶之存摺、提款卡及密碼以宅急
     便方式寄至同一地點，由「呂先生」之成年男子詐騙集團成
     員收受，使「呂先生」及其同夥於實行詐欺取財等犯罪時，
-    可指示被害人將金錢匯入上揭3 個帳戶，再持吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔所交付
-    之提款卡及密碼操作自動櫃員機提領，吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔即以此手法，
+    可指示被害人將金錢匯入上揭3 個帳戶，再持吳桔所交付
+    之提款卡及密碼操作自動櫃員機提領，吳桔即以此手法，
     幫助「呂先生」及其同夥遂行向他人實行詐欺取財犯罪。嗣
     「呂先生」所屬之詐騙集團成員即意圖為自己不法之所有，
     於附表各編號所示時間，分別以附表各編號所示方法，向附
     表各編號所示之劉梅英、蔡宛祐、盧國宏、欒學廉、謝凱智
-    、張業欣、謝秉寰、王珮倫、張耕維、高健<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />、劉夢華、黃
+    、張業欣、謝秉寰、王珮倫、張耕維、高健、劉夢華、黃
     圓真、李苡瑄、吳宜蓁、李冠佑、邱雅詩、吳昭瑩等人施用
-    詐術，致其等均陷於錯誤，而先後匯款至吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔所提供之上
+    詐術，致其等均陷於錯誤，而先後匯款至吳桔所提供之上
     開3 個帳戶內，除張業欣部分外，其餘匯入款項均遭人提領
     一空（各被害人遭詐騙之時間、方式、匯款時間、地點、金
     額等項，均詳如附表各編號所示）。嗣因劉梅英等人發覺受
@@ -180,9 +73,9 @@ function openwin(URL,arguments,width,height)
     前項之同意，刑事訴訟法第159 條第1 項及第159 條之5 分
     別定有明文。查證人即如附表各編號所示之劉梅英、蔡宛祐
     、盧國宏、欒學廉、謝凱智、張業欣、謝秉寰、王珮倫、張
-    耕維、高健<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />、劉夢華、黃圓真、李苡瑄、吳宜蓁、李冠佑
+    耕維、高健、劉夢華、黃圓真、李苡瑄、吳宜蓁、李冠佑
     、邱雅詩、吳昭瑩等人於警詢時所為之陳述，固屬傳聞證據
-    ，惟被告吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔就前揭審判外陳述之證據能力，並未表示爭
+    ，惟被告吳桔就前揭審判外陳述之證據能力，並未表示爭
     執，且迄至言詞辯論終結前均未再聲明異議。經核上開證據
     資料製作時之情況，查無違法不當或證明力明顯過低之瑕疵
     ，認為以之作為證據應屬適當。
@@ -216,7 +109,7 @@ function openwin(URL,arguments,width,height)
     詐騙集團詐欺，而先後於如附表所示之時間，匯款如附表所
     示之金額至如附表所示之帳戶內等節，業經證人劉梅英、蔡
     宛祐、盧國宏、欒學廉、謝凱智、張業欣、謝秉寰、王珮倫
-    、張耕維、高健<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />、劉夢華、黃圓真、李苡瑄、吳宜蓁、李
+    、張耕維、高健、劉夢華、黃圓真、李苡瑄、吳宜蓁、李
     冠佑、邱雅詩、吳昭瑩等人於警詢中證述明確（104 年度偵
     字第992 號卷《下稱偵992 卷》第10至11頁、雲警西偵字第
     0000000000號卷《下稱雲警卷》第10至13頁、第15至23頁、
@@ -259,7 +152,7 @@ function openwin(URL,arguments,width,height)
     事案件報案三聯單、受理各類案件紀錄表、受理詐騙帳戶通
     報警示簡便格式表、內政部警政署反詐騙案件紀錄表、郵政
     存簿交易明細影本（雲警卷第56至57頁、第59至62頁）、被
-    害人高健<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />之臺中市政府警察局第六分局西屯派出所受理刑
+    害人高健之臺中市政府警察局第六分局西屯派出所受理刑
     事案件報案三聯單、受理各類案件紀錄表、受理詐騙帳戶通
     報警示簡便格式表、內政部警政署反詐騙案件紀錄表、中國
     信託銀行自動櫃員機交易明細表（雲警卷第65至69頁）、被
@@ -274,11 +167,11 @@ function openwin(URL,arguments,width,height)
     察局北港分局北港派出所受理刑事案件報案三聯單、受理各
     類案件紀錄表、受理詐騙帳戶通報警示簡便格式表、內政部
     警政署反詐騙案件紀錄表、郵政自動櫃員機交易明細表（雲
-    警卷第95至98頁、第101 至104 頁）、被害人<font color='red'>吳宜臻</font>之高雄
+    警卷第95至98頁、第101 至104 頁）、被害人吳宜臻之高雄
     市政府警察局湖內分局路竹分駐所受理詐騙帳戶通報警示簡
-    便格式表、內政部警政署反詐騙案件紀錄表、被害人<font color='red'>吳宜臻
-    </font>之母阮金燕之存摺影本（雄警卷第57頁、第67頁、第90至91
-    頁）、被害人李冠佑之雲林縣警察局北港分局<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EF6E2A0A00000040.GIF" />梧派出所受
+    便格式表、內政部警政署反詐騙案件紀錄表、被害人吳宜臻
+    之母阮金燕之存摺影本（雄警卷第57頁、第67頁、第90至91
+    頁）、被害人李冠佑之雲林縣警察局北港分局梧派出所受
     理刑事案件報案三聯單、受理各類案件紀錄表、受理詐騙帳
     戶通報警示簡便格式表、內政部警政署反詐騙案件紀錄表、
     郵政自動櫃員機交易明細表（雲警卷第150 至152 頁、第15
@@ -294,7 +187,7 @@ function openwin(URL,arguments,width,height)
     分行104 年7 月10日虎尾營字第00000000000 號函檢附被告
     開戶基本資料暨歷史交易明細、臺灣中小企業銀行國內作業
     中心104 年7 月14日104 忠法查密字第20188 號函檢附被告
-    吳<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />桔開戶基本資料查詢暨歷史交易明細、中華郵政股份有
+    吳桔開戶基本資料查詢暨歷史交易明細、中華郵政股份有
     限公司雲林郵局104 年4 月27日雲營字第0000000000號函檢
     附之客戶歷史交易清單（本院104 年度簡上字第21號卷《下
     稱本院簡上卷》第59至67頁、第73至77頁、本院港簡字第30
@@ -640,7 +533,7 @@ function openwin(URL,arguments,width,height)
 │    │        │被害人陷於錯誤，依刊登│          │          │          │            │
 │    │        │之賣價匯款至指定帳戶  │          │          │          │            │
 ├──┼────┼───────────┼─────┼─────┼─────┼──────┤
-│10  │高健<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3F12A0A00000040.GIF" />  │詐騙集團於104 年1 月25│104 年1 月│6,039 元  │同上      │即104 年度偵│
+│10  │高健  │詐騙集團於104 年1 月25│104 年1 月│6,039 元  │同上      │即104 年度偵│
 │    │        │日16時31分，撥打被害人│25日17時24│          │          │字第1847號移│
 │    │        │電話，佯稱被害人先前在│分        │          │          │送併辦案件附│
 │    │        │網路購物，因電腦業務出│          │          │          │表編號三    │
@@ -716,86 +609,12 @@ function openwin(URL,arguments,width,height)
 │    │        │操作取消，致其陷於錯誤│          │          │          │            │
 │    │        │，依指示至提款機操作匯│          │          │          │            │
 │    │        │款至指定帳戶          │          │          │          │            │
-└──┴────┴───────────┴─────┴─────┴─────┴──────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWULD\CRIMINAL\10412\18\ULDM104CI.00L] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e7%b0%a1%e4%b8%8a&selectedCrmno=000021&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1%e4%b8%8a&jno=21&jdate=1041218&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1%e4%b8%8a&jno=21&jdate=1041218&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e7%b0%a1%e4%b8%8a%2c21%2c20151218%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e7%b0%a1%e4%b8%8a','21','1041218','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="ULD 臺灣雲林地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳宜臻">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳宜臻">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└──┴────┴───────────┴─────┴─────┴─────┴──────┘
+[*jrecno*]104,簡上,21,20151218,1
+[*v_court*]ULD 臺灣雲林地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]簡上
+[*jno*]21
+[*jdate*]1041218
+[*jcheck*]1

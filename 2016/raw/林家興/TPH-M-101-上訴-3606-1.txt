@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-刑-101上訴3606</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第6
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003606&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3606&jdate=1020321&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3606&jdate=1020321&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','3606','1020321','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,上訴,3606</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020321</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 101年度上訴字第3606號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3606&jdate=1020321&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003606&selectedCrtid=TPH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3606&jdate=1020321&jcheck=1
+[*裁判字號*]101,上訴,3606
+[*裁判日期*]1020321
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣高等法院刑事判決　　　　　　　 101年度上訴字第3606號
 上　訴　人
 即　被　告　謝佾岑
 選任辯護人　王志傑律師
@@ -134,7 +27,7 @@ function openwin(URL,arguments,width,height)
 收。
 謝佾岑緩刑肆年。
     事  實
-一、<font color='red'>林家興</font>(業經原審判決確定)、謝佾岑均明知「林裕文（音譯
+一、林家興(業經原審判決確定)、謝佾岑均明知「林裕文（音譯
     ）」、「林育瑋（音譯）」及真實姓名、年籍不詳、綽號「
     大頭」、「豪哥」、「阿勇」之成年男子所屬之詐欺集團，
     係假冒檢警人員，先撥打電話向他人佯稱其遭人冒用身分開
@@ -145,53 +38,53 @@ function openwin(URL,arguments,width,height)
     車手共同偽造之公文書（即未扣案之蓋有偽造之「台灣省彰
     化法院公證處」印文各1枚之「法務部行政凍結管制執行命
     令」、「暫緩執行凍結令申請書」），以取信被詐欺者而收
-    取被詐欺者交付之款項，<font color='red'>林家興</font>、謝佾岑貪圖成功收取詐騙
+    取被詐欺者交付之款項，林家興、謝佾岑貪圖成功收取詐騙
     款項後分得之報酬，乃於101年6月間某日，加入前開詐欺集
     團，並由前開詐欺集團成員交付扣案之由該詐欺集團偽造之
     「台灣省彰化法院公證處」印章1個、「法務部行政執行署
     公證處陳明志」識別證1個、印泥1個及內含門號0000000000
     號（起訴書誤載為0000000000）SIM卡壹枚之SonyErrison廠
-    牌行動電話1具予<font color='red'>林家興</font>保管、供下列犯行所用；嗣<font color='red'>林家興
-    </font>、謝佾岑與綽號「大頭」、「豪哥」、「阿勇」、「林裕文
+    牌行動電話1具予林家興保管、供下列犯行所用；嗣林家興
+    、謝佾岑與綽號「大頭」、「豪哥」、「阿勇」、「林裕文
     （音譯）」、「林育瑋（音譯）」所屬之詐欺集團成員共同
     基於意圖為自己不法所有之詐欺、行使偽造公文書、行使偽
     造特種文書、僭行公務員職權之犯意聯絡及行為分擔，分別
     為下列犯行：
 (一)、於101年7月3日12時許，由前揭詐欺集團中某真實姓名、年
-    籍不詳之成年成員，撥打蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱之行動電話自稱為電信局人
-    員，向蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱佯稱：積欠電信通話費用，可能遭人冒用身分
-    申辦電話云云，再接續撥打蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱之行動電話，並自稱為「
-    檢察官」之公務員，向蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱佯稱：遭人冒用身分至富邦銀
+    籍不詳之成年成員，撥打蔡萱之行動電話自稱為電信局人
+    員，向蔡萱佯稱：積欠電信通話費用，可能遭人冒用身分
+    申辦電話云云，再接續撥打蔡萱之行動電話，並自稱為「
+    檢察官」之公務員，向蔡萱佯稱：遭人冒用身分至富邦銀
     行申請銀行帳戶，涉嫌詐欺案件，並需凍結金融機構帳戶存
     款及監管帳戶，並派員收取現金新臺幣（下同）70萬元作為
-    凍結帳戶之保證金云云，致蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱誤信為真而陷於錯誤，而
+    凍結帳戶之保證金云云，致蔡萱誤信為真而陷於錯誤，而
     至位於臺北市承德路4段之華南商業銀行領取現金70萬，前
-    開詐騙集團成員復撥打蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱之行動電話，與蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱相約於
+    開詐騙集團成員復撥打蔡萱之行動電話，與蔡萱相約於
     同日16時許在臺北市士林區通河東路堤防邊交付前開款項；
-    <font color='red'>林家興</font>、謝佾岑並於同日某時許，以詐欺集團成員所交付之
+    林家興、謝佾岑並於同日某時許，以詐欺集團成員所交付之
     扣案內含門號0000000000號SIM卡1枚之SonyErrison廠牌行
     動電話1具，接獲綽號「豪哥」之詐欺集團成員以未顯示號
-    碼來電通知，知悉蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱受騙後，先至詐騙集團成員指定之
+    碼來電通知，知悉蔡萱受騙後，先至詐騙集團成員指定之
     超商內接收前揭詐欺集團成員傳真之「法務部行政凍結管制
     執行命令」、「暫緩執行凍結令申請書」傳真文件各1張，
-    再由<font color='red'>林家興</font>以前揭詐騙集團成員交付之偽造之「台灣省彰化
+    再由林家興以前揭詐騙集團成員交付之偽造之「台灣省彰化
     法院公證處」印章配合扣案之紅色印泥使用將偽造之印章蓋
     於上開傳真之「法務部行政凍結管制執行命令」、「暫緩執
     行凍結令申請書」上而偽造公文書後，再搭乘計程車前往前
     開約定地點後，由謝佾岑負責把風，並持用其所有內含門號
     0000000000號SIM卡1枚之SAMSUNG ANYCALL廠牌行動電話1具
-    與<font color='red'>林家興</font>聯繫，<font color='red'>林家興</font>則對蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱出示「法務部行政執行署
+    與林家興聯繫，林家興則對蔡萱出示「法務部行政執行署
     公證處陳明志」識別證，僭行公務員職權佯稱係法務部行政
     執行署公證處陳明志專員，並出示前揭各蓋有偽造印文1枚
     之「法務部行政凍結管制執行命令」、「暫緩執行凍結令申
-    請書」各1張而行使之，致蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱誤信為真而陷於錯誤，蔡
-    <img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱遂將現金70萬元交付予<font color='red'>林家興</font>，足生損害於蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱、法
+    請書」各1張而行使之，致蔡萱誤信為真而陷於錯誤，蔡
+    萱遂將現金70萬元交付予林家興，足生損害於蔡萱、法
     務部行政執行處、臺灣彰化地方法院之公信力，與該機關核
-    發公文書之正確性及公信力。<font color='red'>林家興</font>、謝佾岑為前揭詐欺取
+    發公文書之正確性及公信力。林家興、謝佾岑為前揭詐欺取
     財、行使偽造公文書、僭行公務員職權犯行既遂後，即搭乘
-    計程車離開，<font color='red'>林家興</font>隨即在板橋車站附近交付上開款項予前
-    開詐欺集團中綽號「大頭」之成員，「大頭」並交付<font color='red'>林家興
-    </font>其與謝佾岑該次參與詐欺取財犯行之報酬共4萬元（尚未朋
+    計程車離開，林家興隨即在板橋車站附近交付上開款項予前
+    開詐欺集團中綽號「大頭」之成員，「大頭」並交付林家興
+    其與謝佾岑該次參與詐欺取財犯行之報酬共4萬元（尚未朋
     分）。
 (二)、於101年7月4日9時許，由前揭詐欺集團中某真實姓名、年籍
     不詳之成年成員，冒充為「檢察官」之公務員，以電話向古
@@ -206,16 +99,16 @@ function openwin(URL,arguments,width,height)
     團成員而察覺有異，即於同日（同年月2日）晚間某時許至
     派出所報案，故於同年月4日9時許再度接獲前揭詐欺集團成
     員前揭電話通話內容時即未誤信為真、亦未陷於錯誤，並報
-    警處理；嗣於同年月4日某時許，<font color='red'>林家興</font>、謝佾岑以前揭詐
+    警處理；嗣於同年月4日某時許，林家興、謝佾岑以前揭詐
     欺集團成員所交付之扣案內含門號0000000000號SIM卡1枚之
     SonyErrison廠牌行動電話1具，接獲前揭詐欺集團成員以未
     顯示號碼來電通知，知悉古寶端受騙，遂搭乘計程車前往上
     開約定地點，由謝佾岑把風，並持用其所有內含門號000000
-    0000號SIM卡1枚之SAMSUNG ANYCALL廠牌行動電話1具與<font color='red'>林家
-    興</font>聯繫，<font color='red'>林家興</font>則佯稱係法務部張專員之公務員，欲向古寶
+    0000號SIM卡1枚之SAMSUNG ANYCALL廠牌行動電話1具與林家
+    興聯繫，林家興則佯稱係法務部張專員之公務員，欲向古寶
     端準備收取存摺、印章之際，為警於同日14時20分許在新北
-    市○○區○○街0巷0號前，當場查獲逮捕<font color='red'>林家興</font>、謝佾岑而
-    未遂。並分別自<font color='red'>林家興</font>身上扣得供前揭犯行所用之內含門號
+    市○○區○○街0巷0號前，當場查獲逮捕林家興、謝佾岑而
+    未遂。並分別自林家興身上扣得供前揭犯行所用之內含門號
     0000000000號SIM卡1枚之SonyErrison廠牌行動電話1具、因
     前揭犯罪所得現金4萬元及與本件無直接關連之內含門號000
     0000000號SIM卡1枚之LG廠牌行動電話1具；並自謝佾岑身上
@@ -225,7 +118,7 @@ function openwin(URL,arguments,width,height)
     卡1枚之SAMSUNG ANYCALL廠牌行動電話1具及與本件無直接
     關連之現金35,800元、內含門號0000000000號SIM卡1枚之MO
     TOROLA廠牌行動電話1具、筆記本1本等物，始悉上情。
-二、案經蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱、古寶端訴由新北市政府警察局中和第一分局移
+二、案經蔡萱、古寶端訴由新北市政府警察局中和第一分局移
     送臺灣板橋地方法院檢察署檢察官偵查起訴。
     理  由
 壹、程序部分：
@@ -243,24 +136,24 @@ function openwin(URL,arguments,width,height)
     法第158條之4反面解釋及第159條之4之規定，認均有證據能
     力。
 貳、實體部分：
-一、上揭犯罪事實，<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />業經上訴人即被告謝佾岑於原審及本院坦
+一、上揭犯罪事實，業經上訴人即被告謝佾岑於原審及本院坦
     認不諱（見原審卷第13頁至第14頁、第32頁，本院卷第58頁
-    ），<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />核與共犯<font color='red'>林家興</font>供述及告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱、古寶端於警詢
+    ），核與共犯林家興供述及告訴人蔡萱、古寶端於警詢
     時指訴之情節相符（分別見偵查卷第10頁至第11頁、第75頁
-    至第76頁），<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />並有供被告謝佾岑與<font color='red'>林家興</font>及前開詐欺集團
+    至第76頁），並有供被告謝佾岑與林家興及前開詐欺集團
     成員共同為詐欺取財、行使偽造公文書、僭行公務員職權犯
     行所用之詐欺集團偽造之「台灣省彰化法院公證處」印章1
     個、偽造之「法務部行政執行署公證處陳明志」識別證1個
     、紅色印泥1個及犯罪所得之物現金4萬元及供被告謝佾岑與
-    <font color='red'>林家興</font>及前開詐欺集團成員共同為詐欺取財未遂、僭行公務
+    林家興及前開詐欺集團成員共同為詐欺取財未遂、僭行公務
     員職權犯行所用之內含門號0000000000號SIM卡1枚之Sony-
     Errison廠牌行動電話1具、內含門號0000000000號SIM卡1枚
-    之SAMSUNG ANYCALL廠牌行動電話1具扣案可稽。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5812A0A00000040.GIF" />且有新北
+    之SAMSUNG ANYCALL廠牌行動電話1具扣案可稽。且有新北
     市政府警察局中和第一分局搜索扣押筆錄暨扣押物品目錄表
-    各2份（見偵查卷第14至17頁）、告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱提出之蓋有
+    各2份（見偵查卷第14至17頁）、告訴人蔡萱提出之蓋有
     偽造之「台灣省彰化法院公證處」印文各1枚之偽造「法務
     部行政凍結管制執行命令」、「暫緩執行凍結令申請書」公
-    文書影本各1張附卷可參；<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5802A0A00000040.GIF" />此外，復有扣案物照片及告訴
+    文書影本各1張附卷可參；此外，復有扣案物照片及告訴
     人古寶端提出前揭陽信商業銀行新和分行000000000000號帳
     戶存摺之照片共計6張在卷可佐（見偵查卷第26頁至第31頁
     ），足認被告謝佾岑之自白均與事實相符，堪予採信。綜上
@@ -312,17 +205,17 @@ function openwin(URL,arguments,width,height)
     詐欺取財未遂、僭行公務員職權罪，均為想像競合犯，其等
     如事實欄一、(一)所為，應分別依刑法第55條前段之規定，各
     從較重之行使偽造公文書罪、詐欺取財未遂罪處斷。被告謝
-    佾岑與<font color='red'>林家興</font>、真實姓名、年籍均不詳、綽號「大頭」、「
+    佾岑與林家興、真實姓名、年籍均不詳、綽號「大頭」、「
     豪哥」、「阿勇」、「林裕文（音譯）」、「林育瑋（音譯
     ）」之成年男子所屬詐欺集團成年之成員間，就本件犯行，
     均有犯意聯絡及行為分擔，應均論以共同正犯。又被告謝佾
     岑共同所犯前開2罪間，犯意各別，行為互殊，均應分論併
     罰。
-四、原判決予以論科，固非無見。惟查<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />被告謝佾岑及前揭詐欺
+四、原判決予以論科，固非無見。惟查被告謝佾岑及前揭詐欺
     集團共同偽造之「台灣省彰化法院公證處」印章與持以蓋用
     於「法務部行政凍結管制執行命令」、「暫緩執行凍結令申
     請書」公文書上之印文，僅能論以通常印章或印文，原判決
-    認係公印及公印文，已有未洽。<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />又行為後法律有變更者，
+    認係公印及公印文，已有未洽。又行為後法律有變更者，
     適用行為時之法律，但行為後之法律有利於行為人者，適用
     最有利於行為人之法律，刑法第2條第1項定有明文；被告等
     行為後，刑法第50條已於102年1月23日修正公布，並自102
@@ -344,50 +237,50 @@ function openwin(URL,arguments,width,height)
     法未合。被告謝佾岑上訴，求為從輕量刑，固無理由，惟原
     判決既有可議，自屬無可維持，應予撤銷改判。
 五、爰審酌被告謝佾岑其不思循正途賺取報酬，反參加詐欺集團
-    ，共同與<font color='red'>林家興</font>及前揭詐欺集團假司法機關之名，擬利用告
+    ，共同與林家興及前揭詐欺集團假司法機關之名，擬利用告
     訴人等對司法案件偵辦程序不熟悉，施用詐術詐騙告訴人，
     嚴重戕害檢察機關威信，惡性非輕，兼衡其等犯罪動機、目
     的、手段、參與犯罪之程度、犯罪所造成之損害、犯罪所得
-    、及業與告訴人等達成和解賠償損害，賠償告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱25
+    、及業與告訴人等達成和解賠償損害，賠償告訴人蔡萱25
     萬元、賠償告訴人古寶端8萬元，告訴人等並均同意原諒被
     告之犯行，且盼能給予緩刑機會，有和解協議書在卷可按(
     見本院卷第51、62頁)等一切情狀，就共同犯行使偽造公文
     書罪部分，量處有期徒刑1年2月；就共同犯詐欺取財未遂罪
     部分，量處有期徒刑3月，並諭知易科罰金折算標準。扣案
     之「台灣省彰化法院公證處」印章1個，應依刑法第219條規
-    定宣告沒收；至告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱接收之蓋有偽造之「台灣省彰
+    定宣告沒收；至告訴人蔡萱接收之蓋有偽造之「台灣省彰
     化法院公證處」印文各1枚之「法務部行政凍結管制執行命
     令」、「暫緩執行凍結令申請書」各1張，均係被告謝佾岑
-    與<font color='red'>林家興</font>及前開詐欺集團共同向告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱詐欺取財、僭
-    行公務員職權而行使之偽造公文書，業經告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱收受
-    ，而為告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱所有之物，爰不宣告沒收，然前開偽造
+    與林家興及前開詐欺集團共同向告訴人蔡萱詐欺取財、僭
+    行公務員職權而行使之偽造公文書，業經告訴人蔡萱收受
+    ，而為告訴人蔡萱所有之物，爰不宣告沒收，然前開偽造
     公文書上之偽造印文各1枚，應依刑法第219條之規定宣告沒
     收；又扣案之「法務部行政執行署公證處陳明志」識別證1
-    個、紅色印泥1個，均為本件詐欺集團所有、交由<font color='red'>林家興</font>、
-    供被告謝佾岑與<font color='red'>林家興</font>2人為事實欄一、(一)所示偽造公文書
+    個、紅色印泥1個，均為本件詐欺集團所有、交由林家興、
+    供被告謝佾岑與林家興2人為事實欄一、(一)所示偽造公文書
     犯行所用之物，及扣案之內含門號0000000000號SIM卡1枚之
     SonyErrison廠牌行動電話1具，為本件詐欺集團所有、交由
-    <font color='red'>林家興</font>、供其為事實欄一、(一)、(二)所示犯行所用之物，及內
+    林家興、供其為事實欄一、(一)、(二)所示犯行所用之物，及內
     含門號0000000000號SIM卡1枚之SAMSUNG ANYCALL廠牌行動
-    電話1具，為被告謝佾岑所有、供被告謝佾岑與<font color='red'>林家興</font>聯繫
+    電話1具，為被告謝佾岑所有、供被告謝佾岑與林家興聯繫
     事實欄一、(一)、(二)所示犯行所用之物，爰依刑法第38條第1
     項第2款之規定宣告沒收；又扣案之現金4萬元，係被告謝佾
-    岑與<font color='red'>林家興</font>及前開詐欺集團成員為事實欄一、(一)犯罪所得之
+    岑與林家興及前開詐欺集團成員為事實欄一、(一)犯罪所得之
     物，應依刑法第38條第1項第3款之規定宣告沒收。至扣案之
     現金35,800元，內含門號0000000000號SIM卡1枚之LG廠牌行
     動電話1具、內含門號0000000000號SIM卡1枚之MOTOROLA廠
     牌行動電話1具、筆記本1本等物，核與本件犯行均無直接關
-    聯性，此經被告謝佾岑與<font color='red'>林家興</font>陳明在卷（見原審卷第13頁
+    聯性，此經被告謝佾岑與林家興陳明在卷（見原審卷第13頁
     至第13頁反面），且非屬違禁物，爰不宣告沒收。末查被告
     謝佾岑未曾因故意犯罪而受有期徒刑以上刑之宣告，有本院
     被告前案紀錄表在卷可考，其因一時失慮致罹刑典；又如前
-    所述，告訴人蔡<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E63C2A0A00000040.GIF" />萱、古寶端均表示願意原諒被告之犯行，
+    所述，告訴人蔡萱、古寶端均表示願意原諒被告之犯行，
     且盼能給予緩刑機會等情，是被告經此偵審教訓，當知所警
     惕，而無再犯之虞，本院認其所宣告之刑以暫不執行為適當
     ，爰併依刑法第74條第1項第1款之規定，宣告緩刑4年，以
     勵自新。
 六、不另為無罪之諭知部分：
-(一)、公訴意旨略以：被告謝佾岑與<font color='red'>林家興</font>共同基於行使偽造公文
+(一)、公訴意旨略以：被告謝佾岑與林家興共同基於行使偽造公文
     書、行使特種文書之犯意聯絡，於101年7月4日14時許，對
     告訴人古寶端出示偽造之「法務部行政執行署公證處陳明志
     」識別證，欲向告訴人古寶端詐欺取得陽信商業銀行帳號
@@ -428,7 +321,7 @@ function openwin(URL,arguments,width,height)
     取存摺及印章，然未提及該男子有出示何種證件或公文書之
     行為，則自稱「張專員」之男子於斯時是否確有向告訴人古
     寶端行使偽造公文書、行使偽造特種文書，已有疑問。
-２、又共犯<font color='red'>林家興</font>於警詢時供稱：「我是擔任負責向被害人拿取
+２、又共犯林家興於警詢時供稱：「我是擔任負責向被害人拿取
     財物之『專員』，謝佾岑則擔任術語『水：把風人員』，我
     負責收錢，謝佾岑負責把風，詐騙內容是詐騙集團公司與古
     寶端聯繫，我和謝佾岑是受詐騙集團指示過去新北市中和區
@@ -444,16 +337,16 @@ function openwin(URL,arguments,width,height)
     旁邊看，他不會跟被害人見面，他在把風，看是否有異狀，
     他站在離我1百公尺遠的地方，看是否有員警在附近。」等
     語在卷（見偵卷第36、37、61頁）。核證人即告訴人古寶端
-    及共犯<font color='red'>林家興</font>前揭所述可知，告訴人古寶端所指自稱「張專
-    員」之男子即為<font color='red'>林家興</font>，而<font color='red'>林家興</font>於101年7月4日受所屬詐
+    及共犯林家興前揭所述可知，告訴人古寶端所指自稱「張專
+    員」之男子即為林家興，而林家興於101年7月4日受所屬詐
     欺集團成員指示，共同與被告謝佾岑與告訴人古寶端碰面，
-    謝佾岑在旁邊把風，<font color='red'>林家興</font>則向告訴人古寶端佯稱係「張專
+    謝佾岑在旁邊把風，林家興則向告訴人古寶端佯稱係「張專
     員」，然欲收取告訴人古寶端之陽信商業銀行存摺、印章之
-    際，即為警當場查獲等情甚明，足見<font color='red'>林家興</font>與告訴人古寶端
-    見面後對話之時間未久即為警查獲，則<font color='red'>林家興</font>是否有向告訴
+    際，即為警當場查獲等情甚明，足見林家興與告訴人古寶端
+    見面後對話之時間未久即為警查獲，則林家興是否有向告訴
     人古寶端行使偽造特種文書或偽造公文書，顯非無疑。
-３、又被告謝佾岑與<font color='red'>林家興</font>為警查獲時，經其等同意搜索，而分
-    別自<font color='red'>林家興</font>身上扣得內含門號0000000000號SIM卡1枚之Sony
+３、又被告謝佾岑與林家興為警查獲時，經其等同意搜索，而分
+    別自林家興身上扣得內含門號0000000000號SIM卡1枚之Sony
     Errison廠牌行動電話1具、現金4萬元及內含門號000000000
     0號SIM卡1枚之LG廠牌行動電話1具，並自被告謝佾岑身上扣
     得偽造之「法務部行政執行署公證處陳明志」識別證1個、
@@ -462,15 +355,15 @@ function openwin(URL,arguments,width,height)
     門號0000000000號SIM卡1枚之MOTOROLA廠牌行動電話1具、
     筆記本1本等物，有自願受搜索同意書2份、新北市政府警察
     局中和第一分局搜索扣押筆錄2份暨扣押物品目錄表1份在卷
-    可參（見偵卷第12至17頁），足認<font color='red'>林家興</font>於查獲當時並未有
+    可參（見偵卷第12至17頁），足認林家興於查獲當時並未有
     何偽造之公文書或偽造之特種文書在其隨手可得之處，亦應
     無從持以向告訴人古寶端行使之；而自被告謝佾岑身上雖扣
     得偽造之「法務部行政執行署公證處陳明志」識別證1個，
-    然被告謝佾岑、<font color='red'>林家興</font>共同為詐欺取財犯行時，被告謝佾岑
-    均係擔任把風之工作，立於離<font color='red'>林家興</font>約1百公尺許之處，查
+    然被告謝佾岑、林家興共同為詐欺取財犯行時，被告謝佾岑
+    均係擔任把風之工作，立於離林家興約1百公尺許之處，查
     看有無異狀及防免警方查緝等情，業經被告謝佾岑坦認在卷
-    ，核與<font color='red'>林家興</font>前揭供述相符，堪信為真。是以，被告謝佾岑
-    既僅立於離被告<font color='red'>林家興</font>1百公尺許遠之處，擔任把風工作，
+    ，核與林家興前揭供述相符，堪信為真。是以，被告謝佾岑
+    既僅立於離被告林家興1百公尺許遠之處，擔任把風工作，
     自無從向告訴人古寶端行使偽造特種文書或偽造公文書等節
     ，亦堪認定。另公訴意旨亦未指出被告謝佾岑向告訴人古寶
     端究係行使何種之偽造公文書，自無從逕為不利於被告謝佾
@@ -516,86 +409,12 @@ function openwin(URL,arguments,width,height)
 物交付者，處5年以下有期徒刑、拘役或科或併科1千元以下罰金
 。
 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-前二項之未遂犯罰之。</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10203\21\TPHM1023L.00J] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共20
-											筆 / 現在第6
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003606&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=20&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e8%88%88&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e8%88%88&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3606&jdate=1020321&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e4%b8%8a%e8%a8%b4&jno=3606&jdate=1020321&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e4%b8%8a%e8%a8%b4%2c3606%2c20130321%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','101','%e4%b8%8a%e8%a8%b4','3606','1020321','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="6"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林家興">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林家興">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+前二項之未遂犯罰之。
+[*jrecno*]101,上訴,3606,20130321,1
+[*v_court*]TPH 臺灣高等法院
+[*v_sys*]M
+[*jyear*]101
+[*jcase*]上訴
+[*jno*]3606
+[*jdate*]1020321
+[*jcheck*]1

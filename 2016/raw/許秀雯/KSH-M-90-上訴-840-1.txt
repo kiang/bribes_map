@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣高等法院-高雄分院-刑-90上訴840</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣高等法院 高雄分院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000840&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=840&jdate=900814&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=840&jdate=900814&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','90','%e4%b8%8a%e8%a8%b4','840','900814','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,上訴,840</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">900814</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣高等法院高雄分院刑事判決　　　　　　　　　　　九十年度上訴字第八四<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7AF2A0A00000040.GIF" />號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=840&jdate=900814&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000840&selectedCrtid=KSH
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=840&jdate=900814&jcheck=1
+[*裁判字號*]90,上訴,840
+[*裁判日期*]900814
+[*裁判案由*]偽造文書等
+[*裁判全文*]臺灣高等法院高雄分院刑事判決　　　　　　　　　　　九十年度上訴字第八四號
 　　上　訴　人
 　　即　被　告　辛○○○
 　　選任辯護人　官淑森
@@ -154,7 +47,7 @@ function openwin(URL,arguments,width,height)
     錢，差不多七百多萬元云云。
 二、惟查：右揭事實業據證人丑○○、謝新得、呂蘇玉秀、朱開長、子○○、未○○
     、謝鳳桂、庚○○、戊○○、蘇黃玉枝、午○○、洪錫如、丁○○、巳○○、鄭
-    逸聰、許淑君、丙○○○、許秀芬、<font color='red'>許秀雯</font>、許賢雄、鄭庭俊、葉寬世、乙○○
+    逸聰、許淑君、丙○○○、許秀芬、許秀雯、許賢雄、鄭庭俊、葉寬世、乙○○
     、辰○○等人分別於原審證述綦詳，並有互助會單四紙、被告所列冒標、人頭及
     止會名冊一份可資佐憑。而被告辛○○○於於原審審理時業已供承：「（妳受讓
     原同意入會會員之會份，但未更改會單，嗣仍以出讓會員名稱標取會款之情形有
@@ -171,17 +64,17 @@ function openwin(URL,arguments,width,height)
     （一）、附表編號一互助會部分：被告辛○○○於偵查中所具之自首狀內已自陳
             ：「八十六年三月一日二萬元之互助會．．．其中編號39（月女）、46
             （玉秀）、47（玉秀），均為自首人冒用之人」、「八十六年三月一日
-            召募二萬元之會，其中編號第１（許賢雄）、２（<font color='red'>許秀雯</font>）、３（許秀
+            召募二萬元之會，其中編號第１（許賢雄）、２（許秀雯）、３（許秀
             芬）、19（邱藍雲即鄭庭俊）、27（莊英雄）、28（莊英雄）、29（許
             洪祥）、31（朱忠戶）、65（鄭庭俊）號之會員均為真正參加之會員，
             但自首人一時間因資金需求之急迫，遂冒用其等名義標得會款。」（見
             偵卷第四頁、第六頁）另被告辛○○○於原審審理時復供承：「（八十
             六年三月一日起會之互助會，你是否冒用會單上月女、玉秀、玉秀之名
-            參加？）是。」「（妳有冒用會員許賢雄、<font color='red'>許秀雯</font>、許秀芬、鄭庭俊二
+            參加？）是。」「（妳有冒用會員許賢雄、許秀雯、許秀芬、鄭庭俊二
             會、莊英雄二會、許洪祥、朱忠戶之名冒標取會款？）許賢雄、許秀芬
             、鄭庭俊寫二會、莊英雄二會、許洪祥二會是我寫的、朱忠戶沒有付我
             的會款。」（見原審卷第三八頁、第四十頁，八十九年十二月十八日訊
-            問筆錄）「（初一的會許賢雄、<font color='red'>許秀雯</font>、許秀芬、鄭庭俊、許洪祥等人
+            問筆錄）「（初一的會許賢雄、許秀雯、許秀芬、鄭庭俊、許洪祥等人
             的會是否妳寫的？）我寫的。我各自用他們的名字標得會款。他們不知
             情，我沒有經過他們的同意。」（見原審卷第八九頁，九十年一月三十
             一日訊問筆錄）「（八十六年三月一日起會之互助會，妳冒用許賢雄等
@@ -201,7 +94,7 @@ function openwin(URL,arguments,width,height)
             審卷第三九頁，八十九年十二月十八日訊問筆錄）證人許洪祥於原審證
             稱：「（初一的會你有參加？）我都是繳活會會款，被告沒有經過我的
             同意用我名義標取會款。」（見原審卷第八九頁，九十年一月三十一日
-            訊問筆錄）證人<font color='red'>許秀雯</font>於原審證稱：「（妳是否有參加被告召集八十六
+            訊問筆錄）證人許秀雯於原審證稱：「（妳是否有參加被告召集八十六
             年三月一日，每會二萬元之互助會？）妳有無出標金標取會款？有無同
             意被告使用妳名義標會？）有。我沒有標會，我也沒有同意被告使用我
             名義標會。會錢是我跟我爸爸一人出一半。」（見原審卷第八九頁，九
@@ -330,7 +223,7 @@ function openwin(URL,arguments,width,height)
                                         法官  莊崑山
                                         法官  陳中和
 右正本證明與原本無異。
-如不服本判決，應於判決送達後十日內向本院提出上訴狀，其未<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E4432A0A00000040.GIF" />述理由者並應於提
+如不服本判決，應於判決送達後十日內向本院提出上訴狀，其未述理由者並應於提
 出上訴狀後十日內向本院補提理由書（應附繕本)。
                                       書記官  梁美姿
 中    華    民    國      九十      年       八       月       十六     日
@@ -396,86 +289,11 @@ function openwin(URL,arguments,width,height)
 │    │          │      │      │          │俊堂        │          │
 └──┴─────┴───┴───┴─────┴──────┴─────┘
                                                                         Ｋ
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWKSH\CRIMINAL\9008\22\KSHM908M.026] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000840&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
-												｜
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=840&jdate=900814&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e8%a8%b4&jno=840&jdate=900814&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e8%a8%b4%2c840%2c20010814%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','90','%e4%b8%8a%e8%a8%b4','840','900814','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="KSH 臺灣高等法院 高雄分院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="許秀雯">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="許秀雯">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]90,上訴,840,20010814,1
+[*v_court*]KSH 臺灣高等法院 高雄分院
+[*v_sys*]M
+[*jyear*]90
+[*jcase*]上訴
+[*jno*]840
+[*jdate*]900814
+[*jcheck*]1

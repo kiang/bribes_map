@@ -1,115 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-99訴395</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+J0uNtwwihPvDPPZKKWfq3eQwE3k=" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000395&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c395%2c20101118%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=395&jdate=991118&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c395%2c20101118%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=395&jdate=991118&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c395%2c20101118%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','395','991118','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴,395</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">991118</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">誣告</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　　 99年度訴字第395號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c395%2c20101118%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=395&jdate=991118&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000395&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c395%2c20101118%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=395&jdate=991118&jcheck=1
+[*裁判字號*]99,訴,395
+[*裁判日期*]991118
+[*裁判案由*]誣告
+[*裁判全文*]臺灣桃園地方法院刑事判決　　　　　　　 99年度訴字第395號
 公　訴　人　臺灣桃園地方法院檢察署檢察官
 被　　　告　甲○○
 選任辯護人　紀冠伶律師
@@ -119,35 +14,35 @@ function openwin(URL,arguments,width,height)
 甲○○意圖他人受刑事處分，向該管公務員誣告，處有期徒刑陸
 月，緩刑貳年。
     事  實
-一、甲○○與<font color='red'>劉國隆</font>於民國94年間為萬能科技大學二年制技術學
+一、甲○○與劉國隆於民國94年間為萬能科技大學二年制技術學
     院化妝品應用與管理系在職專班同班同學，彼此因討論功課
     聯繫往來而熟識，2 人漸生情愫而於95年9 月底成為男女朋
     友，並曾相偕至汽車旅館約會。於96年1 月下旬開始，因甲
-    ○○之夫丙○○從電子郵件中懷疑甲○○與<font color='red'>劉國隆</font>2 人私下
+    ○○之夫丙○○從電子郵件中懷疑甲○○與劉國隆2 人私下
     來往，生氣之餘質疑甲○○，經甲○○否認，丙○○私下蒐
     證輾轉得知其2 人交往情形，至96年5 月1 日丙○○因氣憤
     難耐，撥打電話予丁○○與其同居人李心靈質疑上開婚外情
     之事後，加上丙○○復曾接獲不明來電告知其2 人相偕上汽
     車旅館之事，丙○○與甲○○因而發生爭吵，至96年10月雙
     方一度考慮離婚，之後因考慮小孩及家庭和諧而作罷。甲○
-    ○為挽回夫妻情感維繫家庭關係，竟萌生告訴<font color='red'>劉國隆</font>性侵害
+    ○為挽回夫妻情感維繫家庭關係，竟萌生告訴劉國隆性侵害
     之意，而於97年2 月12日下午5 時40分許，在桃園縣政府警
-    察局桃園分局接受員警詢問時，基於意圖使<font color='red'>劉國隆</font>受刑事處
-    分之犯意，明知<font color='red'>劉國隆</font>未曾有性侵害之犯行，竟當場虛構：
-    <font color='red'>劉國隆</font>於95年10月間某日上午，以向甲○○請教功課為由，
-    誘出甲○○相會，<font color='red'>劉國隆</font>並駕駛自用小客車搭載甲○○，並
+    察局桃園分局接受員警詢問時，基於意圖使劉國隆受刑事處
+    分之犯意，明知劉國隆未曾有性侵害之犯行，竟當場虛構：
+    劉國隆於95年10月間某日上午，以向甲○○請教功課為由，
+    誘出甲○○相會，劉國隆並駕駛自用小客車搭載甲○○，並
     以汽車旅館較安靜為由將其載往汽車旅館，並在汽車旅館房
-    間內強脫其衣物，其因反抗無效遭<font color='red'>劉國隆</font>性侵害得逞，之後
-    <font color='red'>劉國隆</font>又以將性侵害之事告知同學及先生為由脅迫與其一次
+    間內強脫其衣物，其因反抗無效遭劉國隆性侵害得逞，之後
+    劉國隆又以將性侵害之事告知同學及先生為由脅迫與其一次
     又一次發生性行為至96年4 月間止云云，甲○○並於97年2
     月14日接續同前誣告犯意，在桃園分局偵查隊接受詢問時，
-    繼續虛構：其遭<font color='red'>劉國隆</font>性侵害前，有喝<font color='red'>劉國隆</font>給予之珍珠奶
+    繼續虛構：其遭劉國隆性侵害前，有喝劉國隆給予之珍珠奶
     茶，喝完不久就覺得頭暈，被載入汽車旅館後，頭昏腦脹四
-    肢無力，所以<font color='red'>劉國隆</font>輕而易舉將其撲倒在床上性侵害得逞云
+    肢無力，所以劉國隆輕而易舉將其撲倒在床上性侵害得逞云
     云。嗣經檢察官依法調查後發現其2 人間有婚外情，性侵害
     之告訴應屬虛構，而於97年11月26日以97年度偵字第號7864
-    號對<font color='red'>劉國隆</font>為不起訴處分，該案因甲○○未提再議而確定。
-二、案經<font color='red'>劉國隆</font>訴請臺灣桃園地方法院檢察署檢察官偵查後起訴
+    號對劉國隆為不起訴處分，該案因甲○○未提再議而確定。
+二、案經劉國隆訴請臺灣桃園地方法院檢察署檢察官偵查後起訴
     。
     理  由
 壹、程序部分：
@@ -211,11 +106,11 @@ function openwin(URL,arguments,width,height)
     具有相當之關聯性，以之為本案證據並無不當，自得採為本
     件認定事實之基礎，併此敘明。
 貳、實體部分：
-一、訊據被告甲○○固坦承上揭其與<font color='red'>劉國隆</font>為同班同學，彼此因
-    討論功課而結識，並曾與<font color='red'>劉國隆</font>至汽車旅館會面，之後2 人
+一、訊據被告甲○○固坦承上揭其與劉國隆為同班同學，彼此因
+    討論功課而結識，並曾與劉國隆至汽車旅館會面，之後2 人
     發展為男女朋友等情，惟矢口否認誣告犯行，辯稱：其因討
-    論功課而隨<font color='red'>劉國隆</font>至汽車旅館，確實在汽車旅館內遭<font color='red'>劉國隆
-    </font>性侵得逞，只因之後聽信<font color='red'>劉國隆</font>謊言與之交往，且案發當時
+    論功課而隨劉國隆至汽車旅館，確實在汽車旅館內遭劉國隆
+    性侵得逞，只因之後聽信劉國隆謊言與之交往，且案發當時
     並未保留證據，故其告訴無法為檢察官採信云云。辯護人則
     另辯稱：在熟人性侵、甚至是男女朋友間性侵害案例中，被
     害人多因心理受創及其他顧慮而不願報案，本案被告於案發
@@ -223,80 +118,80 @@ function openwin(URL,arguments,width,height)
     時日久遠缺乏性侵害案之積極證據，但被告之告訴縱不能證
     明為真實，亦非憑空捏造或毫無原因，自不成立誣告罪等語
     。經查：
-  (一)本案被告與<font color='red'>劉國隆</font>因同班同學而熟識，及自96年1 月下旬開
-    始，丙○○因懷疑甲○○與<font color='red'>劉國隆</font>來往，私下蒐證並接獲不
+  (一)本案被告與劉國隆因同班同學而熟識，及自96年1 月下旬開
+    始，丙○○因懷疑甲○○與劉國隆來往，私下蒐證並接獲不
     明來電告知其2 人相偕上汽車旅館之事，丙○○與甲○○因
     而爭吵，並一度考慮離婚，之後作罷等情，業經證人即被告
     之夫丙○○於本院審理時證述明確，並經被告自承無訛，堪
     以採信。
-  (二)又被告與<font color='red'>劉國隆</font>於95年9 月間由同學關係發展為男女朋友，
-    2 人並曾相偕至汽車旅館約會之事實，被告與<font color='red'>劉國隆</font>雖均未
-    全部坦承，被告自承其曾於95年10月間與<font color='red'>劉國隆</font>相偕至汽車
-    旅館，之後並付出感情與<font color='red'>劉國隆</font>發展為男女朋友，2 人多次
+  (二)又被告與劉國隆於95年9 月間由同學關係發展為男女朋友，
+    2 人並曾相偕至汽車旅館約會之事實，被告與劉國隆雖均未
+    全部坦承，被告自承其曾於95年10月間與劉國隆相偕至汽車
+    旅館，之後並付出感情與劉國隆發展為男女朋友，2 人多次
     至桃園縣市、臺北縣市等地遊玩等語（見臺灣桃園地方法院
     檢察署98年度偵字第28886 號卷第12至13頁，本院卷(二)第5
-    頁），卻堅稱<font color='red'>劉國隆</font>在汽車旅館內對其性侵害云云，而證人
-    <font color='red'>劉國隆</font>於本院審理時固證稱其與甲○○係從同班同學發展至
+    頁），卻堅稱劉國隆在汽車旅館內對其性侵害云云，而證人
+    劉國隆於本院審理時固證稱其與甲○○係從同班同學發展至
     男女朋友，並曾多次偕同至桃園縣市、臺北縣市等地遊玩等
     語（見本院卷(二)第3 至4 頁），卻否認2 人曾相偕至汽車旅
-    館之事實（見本院卷(二)第4 頁），益見被告與<font color='red'>劉國隆</font>各因事
+    館之事實（見本院卷(二)第4 頁），益見被告與劉國隆各因事
     後立場不同而對事實有所保留。經審酌證人即被告同學蔡欣
-    吟於偵查時證述一年級時，甲○○與<font color='red'>劉國隆</font>並沒有經常接觸
-    ，二年級時，曾聽到同學在傳有看到<font color='red'>劉國隆</font>在校園內擁抱甲
+    吟於偵查時證述一年級時，甲○○與劉國隆並沒有經常接觸
+    ，二年級時，曾聽到同學在傳有看到劉國隆在校園內擁抱甲
     ○○，其與甲○○提此傳聞，感到甲○○很緊張、害怕，說
     是同學看錯等情（見臺灣桃園地方法院檢察署97年度偵字第
-    7864號卷第49頁），復依證人即向<font color='red'>劉國隆</font>之女承租房間居住
+    7864號卷第49頁），復依證人即向劉國隆之女承租房間居住
     之李心靈於偵查時證述其念萬能科技大學妝品科，與甲○○
-    、<font color='red'>劉國隆</font>念同一所學校，其當時從電話、電子郵件得知<font color='red'>劉國
-    隆</font>與甲○○為男女朋友，看過甲○○整理的筆記資料，曾接
-    過丙○○來電向<font color='red'>劉國隆</font>興師問罪，<font color='red'>劉國隆</font>之女劉家君亦知其
-    父與甲○○來往，其在95年12月31日之跨年夜，看<font color='red'>劉國隆</font>與
+    、劉國隆念同一所學校，其當時從電話、電子郵件得知劉國
+    隆與甲○○為男女朋友，看過甲○○整理的筆記資料，曾接
+    過丙○○來電向劉國隆興師問罪，劉國隆之女劉家君亦知其
+    父與甲○○來往，其在95年12月31日之跨年夜，看劉國隆與
     甲○○聊天很久、很開心、很快樂，也看過其2 人要好的合
-    照，看過甲○○寄給<font color='red'>劉國隆</font>之電子郵件，稱呼<font color='red'>劉國隆</font>為「Ho
+    照，看過甲○○寄給劉國隆之電子郵件，稱呼劉國隆為「Ho
     ney 」等情（見臺灣桃園地方法院檢察署97年度偵字第7864
     號卷第58至60頁），再審酌卷附電子郵件下載書面、照片等
-    證據（見同上卷第78至89頁），可見被告與<font color='red'>劉國隆</font>於在校二
+    證據（見同上卷第78至89頁），可見被告與劉國隆於在校二
     年級時確由同學關係發展至男女朋友，感情融洽，經與證人
-    丙○○前開證詞相互參照後，認被告指摘<font color='red'>劉國隆</font>性侵害一事
-    雖無可信，然被告與<font color='red'>劉國隆</font>相偕至汽車旅館之事實，已可認
+    丙○○前開證詞相互參照後，認被告指摘劉國隆性侵害一事
+    雖無可信，然被告與劉國隆相偕至汽車旅館之事實，已可認
     定。
   (三)再上揭被告2 度在桃園縣政府警察局桃園分局接受員警詢問
-    時，指訴<font color='red'>劉國隆</font>於95年10月間某日上午駕駛自用小客車搭載
+    時，指訴劉國隆於95年10月間某日上午駕駛自用小客車搭載
     其至汽車旅館，並在汽車旅館房間內強脫其衣物性侵得逞云
     云。嗣經檢察官依法調查後發現認性侵害之告訴應屬虛構，
-    而於97年11月26日以97年度偵字第號7864號對<font color='red'>劉國隆</font>為不起
+    而於97年11月26日以97年度偵字第號7864號對劉國隆為不起
     訴處分，該案因被告未提再議而確定等情，有調查筆錄、前
     開案號不起訴處分書、送達證書等件在卷可憑，並為被告自
     承無訛，亦堪認定。
-  (四)被告雖以前詞為辯，惟前揭被告與<font color='red'>劉國隆</font>由同班同學關係發
-    展至男女朋友，感情融洽及被告係自願隨<font color='red'>劉國隆</font>至汽車旅館
+  (四)被告雖以前詞為辯，惟前揭被告與劉國隆由同班同學關係發
+    展至男女朋友，感情融洽及被告係自願隨劉國隆至汽車旅館
     等情，均如前述。查被告為一心智健全之成年人，且已婚生
     子，當有明辨事物之能力，以現今汽車旅館多被人聯想為男
-    女朋友幽會之處所，被告對此理應知悉，被告如僅與<font color='red'>劉國隆
-    </font>討論功課，何以不能選擇在如速食店、餐廳、公園或圖書館
+    女朋友幽會之處所，被告對此理應知悉，被告如僅與劉國隆
+    討論功課，何以不能選擇在如速食店、餐廳、公園或圖書館
     等公共場所為之，被告所辯顯與常理相悖，況被告於案發後
-    並未保留證據或報警處理，於96年1 月下旬其夫懷疑其與<font color='red'>劉
-    國隆</font>交往時，被告仍僅否認與<font color='red'>劉國隆</font>交往，而未將性侵害一
-    事告知其夫，直至丙○○私下蒐證並獲告知其與<font color='red'>劉國隆</font>至汽
+    並未保留證據或報警處理，於96年1 月下旬其夫懷疑其與劉
+    國隆交往時，被告仍僅否認與劉國隆交往，而未將性侵害一
+    事告知其夫，直至丙○○私下蒐證並獲告知其與劉國隆至汽
     車旅館之事，夫妻2 人發生爭吵，並討論離婚，被告始於97
-    年2 月間利用全家至泰國旅遊時片面告知其夫遭<font color='red'>劉國隆</font>性侵
+    年2 月間利用全家至泰國旅遊時片面告知其夫遭劉國隆性侵
     害（被告係於97年2 月12日始向警局報案），有證人丙○○
     於審理之證詞可稽（見本院卷(二)第8 、9 頁），復參酌被告
-    自承其曾對<font color='red'>劉國隆</font>付出感情成為男女朋友，2 人曾相偕至各
-    處遊玩，2 人於交往期間以電子郵件連絡，稱呼<font color='red'>劉國隆</font>為「
+    自承其曾對劉國隆付出感情成為男女朋友，2 人曾相偕至各
+    處遊玩，2 人於交往期間以電子郵件連絡，稱呼劉國隆為「
     Honey 」，彼此感情融洽、親暱等情已如前述，足見前揭被
-    告報警指摘<font color='red'>劉國隆</font>在汽車旅館內性侵一事，確為編造虛妄不
+    告報警指摘劉國隆在汽車旅館內性侵一事，確為編造虛妄不
     實，況被告於偵查時經法務部調查局實施測謊結果，亦認被
-    告稱<font color='red'>劉國隆</font>強制性交乙節，經測試呈情緒波動反應，研判被
+    告稱劉國隆強制性交乙節，經測試呈情緒波動反應，研判被
     告說謊，有該局測謊報告書可憑（見臺灣桃園地方法院檢察
-    署98年度他字第1244號卷第62至77頁），顯見被告係其與<font color='red'>劉
-    國隆</font>間之婚外情曝光，始出面向<font color='red'>劉國隆</font>提出性侵害告訴，藉
+    署98年度他字第1244號卷第62至77頁），顯見被告係其與劉
+    國隆間之婚外情曝光，始出面向劉國隆提出性侵害告訴，藉
     為維護夫妻感情及家庭關係，所辯自非可採。至辯護人雖另
     以前詞辯解，並舉出諸多文獻資料以為佐證，惟查辯護人所
     辯情形既與前開事證所示事實不合，所辯自難憑採。
   (五)綜上，被告於婚外情曝光後，為維護夫妻感情及家庭關係，
-    明知其並無遭<font color='red'>劉國隆</font>性侵害之事，竟報警而於員警詢問時虛
-    構其遭<font color='red'>劉國隆</font>性侵害之情節。本件事證明確，被告犯行堪以
+    明知其並無遭劉國隆性侵害之事，竟報警而於員警詢問時虛
+    構其遭劉國隆性侵害之情節。本件事證明確，被告犯行堪以
     認定，應依法論科。
 二、核被告所為，係犯刑法第169 條第1 項之誣告罪。爰審酌被
     告誣告犯行對國家司法權行使之正確性已造成一定危害，其
@@ -327,86 +222,12 @@ function openwin(URL,arguments,width,height)
 意圖他人受刑事或懲戒處分，向該管公務員誣告者，處 7 年以
 下有期徒刑。
 意圖他人受刑事或懲戒處分，而偽造、變造證據，或使用偽造、
-變造之證據者，亦同。</pre>
-<!-- 原因：[性交] -->
-<!-- 檔名：[D:\Judday\NOK\LAWTYD\CRIMINAL\9911\18\TYDM99BI.01H] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000395&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%8a%89%e5%9c%8b%e9%9a%86&sdate=&edate=&page=&searchkw=%e5%8a%89%e5%9c%8b%e9%9a%86&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c395%2c20101118%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=395&jdate=991118&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c395%2c20101118%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=395&jdate=991118&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c395%2c20101118%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','395','991118','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="劉國隆">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="劉國隆">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+變造之證據者，亦同。
+[*jrecno*]99,訴,395,20101118,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]99
+[*jcase*]訴
+[*jno*]395
+[*jdate*]991118
+[*jcheck*]1

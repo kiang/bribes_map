@@ -1,123 +1,16 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣新北地方法院-刑-104訴760</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共16
-											筆 / 現在第1
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000760&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c760%2c20151210%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=760&jdate=1041210&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c760%2c20151210%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=760&jdate=1041210&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c760%2c20151210%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','760','1041210','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,760</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041210</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　　104年度訴字第593號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c760%2c20151210%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=760&jdate=1041210&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000760&selectedCrtid=PCD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c760%2c20151210%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=760&jdate=1041210&jcheck=1
+[*裁判字號*]104,訴,760
+[*裁判日期*]1041210
+[*裁判案由*]毒品危害防制條例
+[*裁判全文*]臺灣新北地方法院刑事判決　　　　　　　104年度訴字第593號
 　　　　　　　　　　　　　　　　　　　104年度訴字第760號
 公　訴　人　臺灣新北地方法院檢察署檢察官
 被　　　告　林承尚
 　　　　　　林家卉
-　　　　　　<font color='red'>林家宇
-</font>前三人共同
+　　　　　　林家宇
+前三人共同
 選任辯護人　曾昭牟律師
 　　　　　　楊佳純律師 
 被　　　告　吳少宏
@@ -136,7 +29,7 @@ function openwin(URL,arguments,width,height)
 定之政府機關、政府機構、行政法人、社區或其他符合公益目的
 之機構或團體，提供貳佰肆拾小時之義務勞務。扣案之行動電話
 壹支（含門號0000000000號晶片卡壹枚）沒收。
-<font color='red'>林家宇</font>犯如附表三所示之罪，處如附表三所示之刑。緩刑伍年，
+林家宇犯如附表三所示之罪，處如附表三所示之刑。緩刑伍年，
 緩刑期間付保護管束，並應向檢察官指定之政府機關、政府機構
 、行政法人、社區或其他符合公益目的之機構或團體，提供壹佰
 肆拾小時之義務勞務。
@@ -148,7 +41,7 @@ function openwin(URL,arguments,width,height)
 燬；未扣案之販賣毒品所得新臺幣陸仟元沒收，如全部或一部不
 能沒收時，以其財產抵償之。 
     事  實
-一、林承尚、林家卉、<font color='red'>林家宇</font>、甲○○均明知甲基安非他命、愷
+一、林承尚、林家卉、林家宇、甲○○均明知甲基安非他命、愷
     他命（Ketamine）分別為毒品危害防制條例第2 條第2 項第
     2 款、第3 款所稱之第二級、第三級毒品，依法均不得持有
     、販賣，因見販賣毒品有利可圖，竟意圖營利，而分別或共
@@ -162,7 +55,7 @@ function openwin(URL,arguments,width,height)
       販賣第三級毒品事宜之聯絡工具，於如附表二所示之時間
       、地點，以如附表二所示之方式，共同販賣如附表二所示
       重量價格之第三級毒品愷他命予如附表二所示之人。
-（三）林承尚、<font color='red'>林家宇</font>共同基於販賣第三級毒品已營利之犯意聯
+（三）林承尚、林家宇共同基於販賣第三級毒品已營利之犯意聯
       絡，由林承尚以其所有之門號0000000000號行動電話作為
       販賣第三級毒品事宜之聯絡工具，於如附表三所示之時間
       、地點，以如附表三所示之方式，共同販賣如附表三所示
@@ -204,9 +97,9 @@ function openwin(URL,arguments,width,height)
     院調查證據時，知有同法第159 條第1 項不得為證據之情形
     ，而未於言詞辯論終結前聲明異議者，視為有前項之同意，
     刑事訴訟法第159 條之5 亦有明文。查本件認定事實所引用
-    之各該被告林承尚、林家卉、<font color='red'>林家宇</font>、甲○○以外之人於審
+    之各該被告林承尚、林家卉、林家宇、甲○○以外之人於審
     判外之言詞或書面陳述，雖屬傳聞證據，惟均經檢察官、被
-    告林承尚、林家卉、<font color='red'>林家宇</font>、甲○○及其等之辯護人於本院
+    告林承尚、林家卉、林家宇、甲○○及其等之辯護人於本院
     準備程序表示同意作為證據而不予爭執（見本院104 年度訴
     字第593 號卷【下稱本院卷】第51-53 、89-90 頁），且迄
     言詞辯論終結前亦未再聲明異議，本院復審酌各該證據作成
@@ -216,7 +109,7 @@ function openwin(URL,arguments,width,height)
     依法應排除其證據能力之情形，應有證據能力。
 貳、實體方面：
 一、認定事實所憑之證據及理由：
-（一）上揭犯罪事實，業據被告林承尚、林家卉、<font color='red'>林家宇</font>、甲○
+（一）上揭犯罪事實，業據被告林承尚、林家卉、林家宇、甲○
       ○於偵查及本院審理中均坦承不諱（見104 年度偵字第53
       71號卷【下稱5371號偵卷】卷二第3-5 、12、16-18 、21
       -22 、27頁、104 年度偵字第15786 號卷【下稱第15786
@@ -266,7 +159,7 @@ function openwin(URL,arguments,width,height)
       行為者，其販入之價格必較售出之價格低廉，而有從中賺
       取買賣差價牟利之意圖及事實，應屬符合論理法則而不違
       背社會通常經驗之合理判斷。查被告林承尚如附表一至四
-      所示、被告林家卉如附表二所示、被告<font color='red'>林家宇</font>如附表三所
+      所示、被告林家卉如附表二所示、被告林家宇如附表三所
       示、被告甲○○如附表四、附表五編號1 所示之販賣第三
       級毒品犯行及被告甲○○如附表五編號2 所示之販賣第二
       級毒品未遂犯行，業經渠等供認在卷，詳述如前，被告4
@@ -274,7 +167,7 @@ function openwin(URL,arguments,width,height)
       欲藉此牟取價差利潤以營利之意圖，自堪認定。
 （三）綜上所述，足認被告4 人上開任意性自白均與事實相符，
       可以採信，本件罪證明確，被告林承尚有如附表一至四所
-      示、被告林家卉有如附表二所示、被告<font color='red'>林家宇</font>有如附表三
+      示、被告林家卉有如附表二所示、被告林家宇有如附表三
       所示、被告甲○○有如附表四、附表五編號1 所示之販賣
       第三級毒品愷他命、被告甲○○有如附表五編號2 所示之
       第二級甲基安非他命等犯行，均堪認定，應依法論科。
@@ -293,21 +186,21 @@ function openwin(URL,arguments,width,height)
       犯行，均係犯修正前毒品危害防制條例第4 條第3 項之販
       賣第三級毒品罪（共16罪）。被告林家卉就事實一之(二)即
       如附表二所示部分犯行，均係犯修正前毒品危害防制條例
-      第4 條第3 項之販賣第三級毒品罪（共2 罪）。被告<font color='red'>林家
-      宇</font>就事實一之(三)即如附表三所示部分犯行，係犯修正前毒
+      第4 條第3 項之販賣第三級毒品罪（共2 罪）。被告林家
+      宇就事實一之(三)即如附表三所示部分犯行，係犯修正前毒
       品危害防制條例第4 條第3 項之販賣第三級毒品罪。被告
       甲○○就事實一之(四)、(五)即如附表四、附表五編號1 所示
       部分，均係犯修正前毒品危害防制條例第4 條第3 項之販
       賣第三級毒品罪（共4 罪），另就如附表五編號2 所示部
       分，係犯毒品危害防制條例第4 條第6 項、第2 項、第3
       項之販賣第二級毒品、第三級毒品未遂罪。被告林承尚、
-      林家卉、<font color='red'>林家宇</font>、甲○○各次販賣第三級毒品愷他命前，
+      林家卉、林家宇、甲○○各次販賣第三級毒品愷他命前，
       持有、意圖販賣而持有愷他命之低度行為，皆為各該次販
       賣之高度行為所吸收，均不另論罪；被告甲○○販賣含第
       二級毒品甲基安非他命、第三級毒品硝甲西泮成分之梅片
       前，持有、意圖販賣而持有甲基安非他命、硝甲西泮之低
       度行為，為販賣之高度行為所吸收，不另論罪。
-（三）被告林承尚與林家卉就如附表二所示部分、與<font color='red'>林家宇</font>就如
+（三）被告林承尚與林家卉就如附表二所示部分、與林家宇就如
       附表三所示部分、與甲○○就如附表四所示部分之販賣第
       三級毒品犯行，分別有犯意聯絡及行為分擔，應依刑法第
       28 條 規定，均論以共同正犯。
@@ -330,7 +223,7 @@ function openwin(URL,arguments,width,height)
 （二）犯毒品危害防制條例第4 條至第8 條之罪於偵查及審判中
       均自白者，減輕其刑，同條例第17條第2 項定有明文。查
       被告林承尚就如事實一之(一)至(四)、被告林家卉就如事實一
-      之(二)、被告<font color='red'>林家宇</font>就如事實一之(三)、被告甲○○就如事實
+      之(二)、被告林家宇就如事實一之(三)、被告甲○○就如事實
       (一)之(四)、(五)所示，於偵查及本院審理中均已自白犯罪（見
       5371 號 偵卷卷二第3-5 、12、16-18 、21-22 、27頁、
       第15786 號偵卷第18-24 、92頁、本院卷第50頁反面、第
@@ -356,10 +249,10 @@ function openwin(URL,arguments,width,height)
       ，並可達防衛社會之目的者，自非不可依客觀之犯行與主
       觀之惡性二者加以考量其情狀，是否有可憫恕之處，適用
       刑法第59條之規定酌量減輕其刑，期使個案裁判之量刑，
-      能斟酌至當，符合比例原則。本件考量被告林家卉、<font color='red'>林家
-      宇</font>、甲○○所涉本件共同販賣第三級毒品部分之次數分別
+      能斟酌至當，符合比例原則。本件考量被告林家卉、林家
+      宇、甲○○所涉本件共同販賣第三級毒品部分之次數分別
       僅2次、1次、3 次，且就全部犯罪情節觀之，被告林家卉
-      、<font color='red'>林家宇</font>、甲○○於附表二、三、四所涉之販賣第三級毒
+      、林家宇、甲○○於附表二、三、四所涉之販賣第三級毒
       品犯行，均係受共同被告林承尚指示，送交毒品予如附表
       二、三、四所示之買受人，並未參與議價，亦未朋分販售
       毒品之價金；而被告甲○○就附表五部分，另自行販賣第
@@ -371,7 +264,7 @@ function openwin(URL,arguments,width,height)
       其刑後，就販賣第三級毒品部分宣告刑度仍是有期徒刑2
       年6 月以上、就販賣第二級毒品未遂部分宣告刑度仍是有
       期徒刑1年8月以上，未免過苛，且無從與真正長期、大量
-      販毒之惡行區別，是本院認就被告林家卉、<font color='red'>林家宇</font>、甲○
+      販毒之惡行區別，是本院認就被告林家卉、林家宇、甲○
       ○所犯販賣第三級毒品、被告甲○○販賣第二級毒品未遂
       部分，若科以最輕刑度，仍屬過重，在客觀上足以引起一
       般人之同情，爰依刑法第59條之規定，就渠等上開販賣第
@@ -384,7 +277,7 @@ function openwin(URL,arguments,width,height)
       第2 項規定減輕其刑後，其最低宣告刑度為有期徒刑2 年
       6 月以上，較之被告林承尚販賣第三級毒品對社會風氣及
       治安之危害程度，已無情輕法重之情形。
-四、爰審酌審酌被告林承尚、林家卉、<font color='red'>林家宇</font>、甲○○均無足以
+四、爰審酌審酌被告林承尚、林家卉、林家宇、甲○○均無足以
     構成累犯之前科紀錄，有臺灣高等法院被告前案紀錄表1 份
     在卷可佐，素行尚可，渠等均明知第三級毒品愷他命，對人
     體健康危害至鉅，一經染毒，極易成癮，影響深遠，如任其
@@ -394,7 +287,7 @@ function openwin(URL,arguments,width,height)
     智識程度、生活狀況，暨渠等犯後始終坦承犯行等一切情形
     ，分別量處如主文所示之刑，並就被告林承尚、林家卉、甲
     ○○部分定其應執行刑，以資懲儆。
-五、被告林家卉、<font color='red'>林家宇</font>均未曾因故意犯罪受有期徒刑以上刑之
+五、被告林家卉、林家宇均未曾因故意犯罪受有期徒刑以上刑之
     宣告，有上開臺灣高等法院被告前案紀錄表1 份在卷可考，
     渠等僅因一時失慮，致觸犯本件犯行，且於偵查中及本院審
     理時均坦承其上開犯行，表示悔悟，信其等經此追訴審判後
@@ -407,11 +300,11 @@ function openwin(URL,arguments,width,height)
     為適當，爰依刑法第74 條第1 項第1 款規定，均宣告緩刑5
     年，又為使被告於緩刑期間內能深知警惕，確切明瞭其行為
     所造成之法益侵害，並培養正確之法治觀念，並依刑法第74
-    條第2 項第5 款規定，命被告林家卉、<font color='red'>林家宇</font>分別向檢察官
+    條第2 項第5 款規定，命被告林家卉、林家宇分別向檢察官
     指定之政府機關、政府機構、行政法人、社區或其他符合公
     益目的之機構或團體，提供240 、140 小時之義務勞務，復
     依刑法第93條第1 項第2 款規定，均諭知於緩刑期間付保護
-    管束，以勵自新。至被告林家卉、<font color='red'>林家宇</font>於本案緩刑期間若
+    管束，以勵自新。至被告林家卉、林家宇於本案緩刑期間若
     違反上開所定負擔情節重大，足認原宣告之緩刑難收其預期
     效果，而有執行刑罰之必要，依刑法第75條之1 第1 項第4
     款規定，得撤銷其緩刑之宣告，併此敘明。
@@ -431,16 +324,16 @@ function openwin(URL,arguments,width,height)
       財產抵償之。
     (2)未扣案如附表二、三、四所示之販賣第三級毒品所得分別
       共2,850 元、1,300 元、4,100 元，固係被告林承尚分別
-      與被告林家卉、<font color='red'>林家宇</font>、甲○○共同販賣毒品所得之財物
+      與被告林家卉、林家宇、甲○○共同販賣毒品所得之財物
       ，然前揭販賣毒品所得均係由被告林承尚取得，被告林家
-      卉、<font color='red'>林家宇</font>、甲○○並未分受所得一節，業據被告林承尚
-      、林家卉、<font color='red'>林家宇</font>、甲○○於本院審理時陳明在卷（見本
+      卉、林家宇、甲○○並未分受所得一節，業據被告林承尚
+      、林家卉、林家宇、甲○○於本院審理時陳明在卷（見本
       院卷第119 頁反面），且綜觀全卷資料，亦難認被告林家
-      卉、<font color='red'>林家宇</font>、甲○○分別於附表二、三、四所示共同販賣
+      卉、林家宇、甲○○分別於附表二、三、四所示共同販賣
       第三級毒品有何利得，揆諸前揭最高法院判決見解，因被
-      告林家卉、<font color='red'>林家宇</font>、甲○○就此部分共同販賣毒品犯行，
+      告林家卉、林家宇、甲○○就此部分共同販賣毒品犯行，
       並無分受所得之數，自無從就被告林承尚取得之價金，對
-      被告林家卉、<font color='red'>林家宇</font>、甲○○為沒收之諭知。
+      被告林家卉、林家宇、甲○○為沒收之諭知。
     2.被告甲○○部分：
       未扣案如附表五編號1 所示之販賣第三級毒品所得6,000
       元，全數由被告甲○○收受，應依毒品危害防制條例第19
@@ -469,12 +362,12 @@ function openwin(URL,arguments,width,height)
       4年度台非字第190號判決意旨參照）。
     1.扣案之門號0000000000號行動電話1 支（含晶片卡1 枚）
       ，為被告林承尚所有，且為其遂行如附表一所示販賣第三
-      級毒品及如附表二、三、四所示分別與被告林家卉、<font color='red'>林家
-      宇</font>、甲○○共同販賣第三級毒品犯行所用之聯絡工具，業
+      級毒品及如附表二、三、四所示分別與被告林家卉、林家
+      宇、甲○○共同販賣第三級毒品犯行所用之聯絡工具，業
       據被告林承尚供陳在卷（見本院卷第109 頁），並有該門
       號前述通訊監察譯文在卷可佐，應依毒品危害防制條例第
       19條第1 項規定，並本於責任共同原則，在如附表一至四
-      所示被告林承尚、林家卉、<font color='red'>林家宇</font>、甲○○各該罪項下宣
+      所示被告林承尚、林家卉、林家宇、甲○○各該罪項下宣
       告沒收。
     2.扣案之門號0000000000號行動電話1 支（含晶片卡1 枚）
       ，為被告甲○○所使用，亦據被告甲○○供承明確（見本
@@ -712,7 +605,7 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │                  │含門號0000000000號晶片│        │
 │  │      │            │        │                  │卡壹枚）沒收。        │        │
 └─┴───┴──────┴────┴─────────┴───────────┴────┘
-附表三：被告林承尚與<font color='red'>林家宇</font>共同販賣第三級毒品愷他命部分
+附表三：被告林承尚與林家宇共同販賣第三級毒品愷他命部分
 ┌─┬───┬──────┬────┬─────────┬───────────┬────┐
 │編│買受人│交易時間    │交易價格│ 交易方式         │ 罪名及主刑、從刑     │起訴書  │
 │  │      │            │及內容  │                  │                      │附表編號│
@@ -729,7 +622,7 @@ function openwin(URL,arguments,width,height)
 │  │      │館          │        │左列毒品予許哲瑋。│部不能沒收時，以其財產│        │
 │  │      │            │        │                  │抵償之。              │        │
 │  │      │            │        │                  ├───────────┤        │
-│  │      │            │        │                  │<font color='red'>林家宇</font>共同販賣第三級毒│        │
+│  │      │            │        │                  │林家宇共同販賣第三級毒│        │
 │  │      │            │        │                  │品，處有期徒刑壹年肆月│        │
 │  │      │            │        │                  │。扣案之行動電話壹支（│        │
 │  │      │            │        │                  │含門號000000 0000 號晶│        │
@@ -839,86 +732,12 @@ function openwin(URL,arguments,width,height)
 │  │      │            │        │付左列毒品，嗣於交│                      │        │
 │  │      │            │        │易前為警查獲而未遂│                      │        │
 │  │      │            │        │。                │                      │        │
-└─┴───┴──────┴────┴─────────┴───────────┴────┘</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[D:\JUpload\Upload\OK\LAWPCD\CRIMINAL\10412\10\PCDM104CA.02S] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共16
-											筆 / 現在第1
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000760&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%ae%b6%e5%ae%87&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%ae%b6%e5%ae%87&jmain=&cw=0">最末筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c760%2c20151210%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=760&jdate=1041210&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c760%2c20151210%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=760&jdate=1041210&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c760%2c20151210%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','760','1041210','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林家宇">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林家宇">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+└─┴───┴──────┴────┴─────────┴───────────┴────┘
+[*jrecno*]104,訴,760,20151210,1
+[*v_court*]PCD 臺灣新北地方法院
+[*v_sys*]M
+[*jyear*]104
+[*jcase*]訴
+[*jno*]760
+[*jdate*]1041210
+[*jcheck*]1

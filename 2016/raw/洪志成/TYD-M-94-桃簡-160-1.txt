@@ -1,119 +1,12 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣桃園地方法院-刑-94桃簡160</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e6%a1%83%e7%b0%a1&selectedCrmno=000160&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e6%a1%83%e7%b0%a1&jno=160&jdate=940215&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e6%a1%83%e7%b0%a1&jno=160&jdate=940215&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e6%a1%83%e7%b0%a1','160','940215','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">94,桃簡,160</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">940215</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害公務等</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事簡易判決　　　　 94年度桃簡字第160號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e6%a1%83%e7%b0%a1&jno=160&jdate=940215&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e6%a1%83%e7%b0%a1&selectedCrmno=000160&selectedCrtid=TYD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e6%a1%83%e7%b0%a1&jno=160&jdate=940215&jcheck=1
+[*裁判字號*]94,桃簡,160
+[*裁判日期*]940215
+[*裁判案由*]妨害公務等
+[*裁判全文*]臺灣桃園地方法院刑事簡易判決　　　　 94年度桃簡字第160號
 　　聲　請　人　臺灣桃園地方法院檢察署檢察官
-　　被　　　告　甲○○　男　6<span  style="color:#e8e8e8">.</span>
+　　被　　　告　甲○○　男　6.
 上列被告因妨害公務等案件，經檢察官聲請以簡易判決處刑（93
 年度偵字第19847號），本院判決如下：
     主      文
@@ -129,28 +22,28 @@ function openwin(URL,arguments,width,height)
     ○可離去時，惟甲○○竟因不滿遭盤查乙事而大聲喧嘩、咆
     哮，妨礙公共秩序，雖經員警制止仍未罷休。斯時正值督導
     勤務之內政部警政署鐵路警察局第一警務段中壢派出所所長
-    <font color='red'>洪志成</font>見狀前往瞭解，並要求郭吉宏將甲○○帶至該派出所
+    洪志成見狀前往瞭解，並要求郭吉宏將甲○○帶至該派出所
     內，欲進一步確認其身分並制止其危害公共秩序，惟於派出
-    所內<font color='red'>洪志成</font>再次請其出示證件時，甲○○拒不配合大聲呼喝
+    所內洪志成再次請其出示證件時，甲○○拒不配合大聲呼喝
     ，並基於傷害他人身體之犯意，以徒手揮拳攻擊之強暴方式
-    ，妨害正依法執行職務之員警，並致員警<font color='red'>洪志成</font>臉部遭甲○
-    ○之手指甲刮傷，又因甲○○拉扯<font color='red'>洪志成</font>衣服時，重心不穩
-    往後倒，同時導致<font color='red'>洪志成</font>往前撲倒在地，並造成右手第五掌
-    骨骨折之傷害。案經<font color='red'>洪志成</font>告訴及內政部警政署鐵路警察局
+    ，妨害正依法執行職務之員警，並致員警洪志成臉部遭甲○
+    ○之手指甲刮傷，又因甲○○拉扯洪志成衣服時，重心不穩
+    往後倒，同時導致洪志成往前撲倒在地，並造成右手第五掌
+    骨骨折之傷害。案經洪志成告訴及內政部警政署鐵路警察局
     第一警務段報告台灣桃園地方法院檢察署檢察官聲請簡易判
     決處刑。
-二、訊據被告甲○○固坦認與警員<font color='red'>洪志成</font>發生拉扯之情節，然堅
+二、訊據被告甲○○固坦認與警員洪志成發生拉扯之情節，然堅
     決否認有何妨害公務及傷害之犯行，辯稱：係因伊一進入派
     出所後，即遭警員四、五人將其摔到地上，其反擊時不慎揮
-    擊到<font color='red'>洪志成</font>之臉部，因指甲較長所以才不慎抓傷；至於警員
+    擊到洪志成之臉部，因指甲較長所以才不慎抓傷；至於警員
     右手第五掌骨骨折部分並非伊所造成，係警員原有之舊傷云
-    云。然查，上揭犯罪事實，業據證人即員警郭吉宏、<font color='red'>洪志成
-    </font>於檢察官偵訊時及本院審理時到庭結證屬實，二人並明確證
-    稱：絕無將被告抬起摔下之情形，且警員<font color='red'>洪志成</font>所受之右手
+    云。然查，上揭犯罪事實，業據證人即員警郭吉宏、洪志成
+    於檢察官偵訊時及本院審理時到庭結證屬實，二人並明確證
+    稱：絕無將被告抬起摔下之情形，且警員洪志成所受之右手
     第五掌骨骨折部分亦確係被告攻擊時所造成之傷勢等節無訛
     。參諸被告並非遭逮捕之人犯，且已年近七十歲，警方當無
     於其一進入所內，即動用四、五名警力，公然於派出所內將
-    被告抬起重摔之可能，況且證人<font color='red'>洪志成</font>、郭吉宏二人與被告
+    被告抬起重摔之可能，況且證人洪志成、郭吉宏二人與被告
     並無恩怨關係，亦無刻意誣陷被告之必要，且渠等前後所述
     均互核相符，應堪採信。復稽之在場證人即台灣鐵路管理局
     台北運務段中壢站站務佐理池新榮，同於檢察官偵訊時結證
@@ -167,8 +60,8 @@ function openwin(URL,arguments,width,height)
     對人或對物為之均包括在內；所稱「脅迫」，則指以侵害生
     命、身體、自由、名譽、財物之不法為目的之意思，通知對
     方足使其生恐怖之心之一切行為而言，最高法院八十二年台
-    上字第六○八號判決意旨參照。查被告對於著制服之員警<font color='red'>洪
-    志成</font>依法執行職務時，揮拳以有形物理之攻擊方式，妨害員
+    上字第六○八號判決意旨參照。查被告對於著制服之員警洪
+    志成依法執行職務時，揮拳以有形物理之攻擊方式，妨害員
     警執行公務，並造成其臉部擦傷、右手第五掌骨骨折之傷害
     ，核其所為，係犯刑法第一百三十五條第一項之妨害公務罪
     ，及同法第二百七十七條第一項之普通傷害罪。被告一行為
@@ -201,86 +94,11 @@ function openwin(URL,arguments,width,height)
 下罰金。
 犯前項之罪因而致人於死者，處無期徒刑或七年以上有期徒刑；
 致重傷者，處三年以上十年以下有期徒刑。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Judday\OK\LAWTYD\CRIMINAL\9402\15\TYDM942F.092] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
-											筆 / 現在第2
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=094&selectedCrmid=%e6%a1%83%e7%b0%a1&selectedCrmno=000160&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e6%a1%83%e7%b0%a1&jno=160&jdate=940215&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=94&jcase=%e6%a1%83%e7%b0%a1&jno=160&jdate=940215&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('94%2c%e6%a1%83%e7%b0%a1%2c160%2c20050215%2c1','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','94','%e6%a1%83%e7%b0%a1','160','940215','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="洪志成">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="洪志成">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]94,桃簡,160,20050215,1
+[*v_court*]TYD 臺灣桃園地方法院
+[*v_sys*]M
+[*jyear*]94
+[*jcase*]桃簡
+[*jno*]160
+[*jdate*]940215
+[*jcheck*]1

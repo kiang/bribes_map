@@ -1,117 +1,10 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
-<HTML>
-	<HEAD>
-		<title>臺灣彰化地方法院-刑-91訴201</title>
-		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
-		<meta name="CODE_LANGUAGE" Content="C#">
-		<meta name="vs_defaultClientScript" content="JavaScript">
-		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
-		<style type="text/css">
-			<!--
-			pre{font-family:細明體}
-			-->
-		</style>
-		<script language="JavaScript">
-function openwin(URL,arguments,width,height)
-{ 
-   //功能:開一個非獨佔的視窗
-   //參數1.URL :連結的網頁
-   //參數2.arguments :傳入網頁的參數
-   /*
-   var str = URL  //+"?"+arguments;
-   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
-   if(width==null&&height==null)
-   {
-     width=screen.width;
-     height=screen.availHeight;
-     
-   }    
-   if ((width!=null)&&(height!=null))
-      newWindow.resizeTo(width,height);
-   else     
-      newWindow.resizeTo(screen.width,screen.availHeight);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-   newWindow.location=str;
-   */
-   
-   if((width==null&&height==null) || (width==''&&height==''))
-   {
-		width=screen.width;
-		height=screen.availHeight;
-   }
-   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
-   newWindow=top.open(URL,"",pars);
-   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
-}
-
-		</script>
-		<NOSCRIPT>
-	</HEAD>
-	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
-		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
-
-			<br>
-			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
-				class="big">
-				<tr>
-					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
-					</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
-				</tr>
-			</table>
-			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-					<td background="Images_1/fjudqry01table02.gif">
-						<div align="center">
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
-								class="big">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第10
-											筆</span></td>
-									<td nowrap>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000201&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c201%2c20020816%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=201&jdate=910816&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c201%2c20020816%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=201&jdate=910816&jcheck=1">
-													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c201%2c20020816%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','201','910816','1')">友善列印</a-->
-											</span>
-										</div>
-									</td>
-								</tr>
-							</table>
-							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
-								<tr>
-									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
-									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">91,訴,201</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
-									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">910816</span></td>
-								</tr>
-								<tr>
-									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
-									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反公職人員選舉罷免法</span></td>
-								</tr>
-								<tr>
-									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
-									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　　　　　　　九十一年度訴字第二<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7AF2A0A00000040.GIF" />一號
+[*友善列印*]http://jirs.judicial.gov.tw/FJUD/PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c201%2c20020816%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=201&jdate=910816&jcheck=1
+[*歷審裁判*]http://jirs.judicial.gov.tw/FJUD/HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000201&selectedCrtid=CHD
+[*匯出PDF*]http://jirs.judicial.gov.tw/FJUD/transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c201%2c20020816%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=201&jdate=910816&jcheck=1
+[*裁判字號*]91,訴,201
+[*裁判日期*]910816
+[*裁判案由*]違反公職人員選舉罷免法
+[*裁判全文*]臺灣彰化地方法院刑事判決　　　　　　　　　　　　　九十一年度訴字第二一號
 　　公　訴　人　臺灣彰化地方法院檢察署檢察官
 　　被　　　告　癸○○
 　　被　　　告　戌○○
@@ -193,7 +86,7 @@ function openwin(URL,arguments,width,height)
     ○○住處，僅是商議癸○○成立後援會之事，並未談到後援會餐會，嗣後也未再
     與甲○○、壬○○、辛○○等商討後援會事宜，前開餐會係彰化Β分區領導幹部
     聯誼會所舉辦，藉此機會，順便討論成立癸○○後援會之事宜，並非專為成立後
-    援會所辦之餐會，且席間<font color='red'>張錦昆</font>、張雪如亦有要求投票支持渠等競選，況若是後
+    援會所辦之餐會，且席間張錦昆、張雪如亦有要求投票支持渠等競選，況若是後
     援會餐會，應會邀請彰化Β分區全區七百多位會員，否則反會有反效應，另伊並
     未要求申○○發「癸○○請吃飯」之簡訊，乙○○、卯○○、庚○○亦於本院審
     理時到庭證述綦詳，且伊身為十九個分會的主席，不可能獨告知申○○請吃飯之
@@ -218,7 +111,7 @@ function openwin(URL,arguments,width,height)
     為誘因，賴主席有告訴伊成立後援會之事，但並沒有說到要請吃飯等語，再證人
     申○○於警訊中係受到疲勞及其他不正方法加以訊問，其訊問筆錄無證據能力，
     另其於偵查中係以被告身份應訊，其所證述係為求卸責而為不實之供述。（６）
-    該餐會並無癸○○競選旗幟及文宣，也沒有輔選幹部出席，且張雪如、<font color='red'>張錦昆</font>也
+    該餐會並無癸○○競選旗幟及文宣，也沒有輔選幹部出席，且張雪如、張錦昆也
     有到場請求支持，張雪如之助選員並有到場散發文宣，顯見該餐會非專為癸○○
     後援會而舉辦的。當日癸○○到場致詞僅是候選人於選舉期間把握機會推銷自己
     而已。（７）被告地○○於九十年十一月二十九日當日做了多次偵訊，時間為早
@@ -371,11 +264,11 @@ function openwin(URL,arguments,width,height)
       ○上台致詞，地○○即上台安排後援會之相關人事，緊接著又帶領在場人士多
       次高喊「癸○○當選」、「癸○○當選」，足見當日餐會確係以成立癸○○後
       援會及請求支持癸○○使其順利當選立法委員為主要訴求，其間縣議員候選人
-      <font color='red'>張錦昆</font>致詞時雖有提起縣議員競選事宜，然觀其致詞之內容大部分仍是請求支
+      張錦昆致詞時雖有提起縣議員競選事宜，然觀其致詞之內容大部分仍是請求支
       持癸○○，僅於其致詞末尾附帶提起「這次同濟會彰Ｂ分區有三個候選人競選
       縣議員，如果有比較好的就支持比較好的，同濟會只有一個，不要因為二、三
       個出來，就分為二、三個，不要因為二、三個候選人，大家就勾心鬥角，選給
-      誰都沒有關係，如果不要支持<font color='red'>張錦昆</font>的話，也沒有關係，我也當你們是朋友，
+      誰都沒有關係，如果不要支持張錦昆的話，也沒有關係，我也當你們是朋友，
       包括此次洪會長要出來選立委，大家也要支持他。」等語，依其意旨亦僅是希
       望維持同濟會之和諧，並無特別請求支持其競選縣議員，顯見該餐會實係假幹
       部聯誼會之名，行舉辦癸○○後援會餐會之實。
@@ -527,8 +420,8 @@ function openwin(URL,arguments,width,height)
       ，且若渠等不知此餐會之目的，何能一上台就知道請求在場會員支持癸○○？
       足證其一開始即知悉該餐會係癸○○後援會之成立餐會。
 （５）至於當日餐會雖另有他候選人上台請求支持，並散發競選文宣，惟觀之現場錄
-      音帶之譯文，縣議員候選人<font color='red'>張錦昆</font>及張雪如之父張順昌上台致詞之內容亦多是
-      請求支持癸○○，僅附帶提起渠等（即<font color='red'>張錦昆</font>及張雪如）競選縣議員之事，益
+      音帶之譯文，縣議員候選人張錦昆及張雪如之父張順昌上台致詞之內容亦多是
+      請求支持癸○○，僅附帶提起渠等（即張錦昆及張雪如）競選縣議員之事，益
       徵上開餐會之主要目的確係請求支持癸○○，況該餐會舉辦之地點係屬公眾得
       出入之場所，自難完全排除其他候選人之助選員進入散發文宣，是不能僅憑當
       日餐會中有他候選人散發文宣即遽為有利被告之認定。再候選人於競選期間，
@@ -670,95 +563,20 @@ function openwin(URL,arguments,width,height)
                                      法院書記官  王  惠  嬌
 中      華      民      國    九十一    年      八      月     十六     日
 公職人員選舉罷免法第九十條之一第一項：
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />對於有投票權之人，行求期約或交付賄賂或其他不正利益，而約其不行使投票權或
+對於有投票權之人，行求期約或交付賄賂或其他不正利益，而約其不行使投票權或
   為一定之行使者，處五年以下有期徒刑，得併科新臺幣四十萬元以上四百萬元以下
   罰金。
 公職人員選舉罷免法第九十八條：
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5842A0A00000040.GIF" />犯本章之罪，其他法律有較重處罰之規定者，從其規定。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5832A0A00000040.GIF" />辦理選舉、罷免事務人員，假借職務上之權力、機會、或方法，以故意犯本章之罪
+犯本章之罪，其他法律有較重處罰之規定者，從其規定。
+辦理選舉、罷免事務人員，假借職務上之權力、機會、或方法，以故意犯本章之罪
   者，加重其刑至二分之一。
-<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F5822A0A00000040.GIF" />犯本章之罪或刑法分則第六章之妨害投票罪，宣告有期徒刑以上之刑者，並宣告褫
+犯本章之罪或刑法分則第六章之妨害投票罪，宣告有期徒刑以上之刑者，並宣告褫
   奪公權。
-</pre>
-<!-- 原因：[] -->
-<!-- 檔名：[Z:\Jud12\OK\LAWCHD\CRIMINAL\9108\19\CHDM918J.005] -->
-<!-- 旗標：[1] -->
-<!--檢查單號：[1]  --></td>
-								</tr>
-								<tr>
-									<td align="left" colSpan="2"></td>
-								</tr>
-							</table>
-							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
-								<tr>
-									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共10
-											筆 / 現在第10
-											筆</span></td>
-									<td>
-										<div align="right">
-											<span style="FONT-SIZE: 80%">
-												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000201&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
-												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%bc%b5%e9%8c%a6%e6%98%86&sdate=&edate=&page=&searchkw=%e5%bc%b5%e9%8c%a6%e6%98%86&jmain=&cw=0">上一筆</a></font>
-											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c201%2c20020816%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=201&jdate=910816&jcheck=1">友善列印</a>｜
-												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c201%2c20020816%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=201&jdate=910816&jcheck=1">
-													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c201%2c20020816%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','201','910816','1')">友善列印</a--></span></div>
-									</td>
-								</tr>
-							</table>
-							
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
-				</tr>
-			</table>
-			<script language="JavaScript">
-<!--
-
-
-
-function MM_preloadImages_1() { //v3.0
-  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-			</script>
-			<NOSCRIPT>
-				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
-			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
-				cellspacing="0">
-				<tr>
-					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td width="12%">&nbsp;</td>
-								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
-											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
-												歡迎來信</a></span>。</div>
-								</td>
-								<td width="13%">&nbsp;</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-			<input type="hidden" name="id" value="10"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
-			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
-			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
-			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="張錦昆">
-			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
-			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="張錦昆">
-		</form>
-		<script language="javascript">
-	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
-		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
-		
-	}
-	function showDetail(id){
-		document.Form1.id.value = id;
-		document.Form1.submit();
-	}
-		</script>
-	</body>
-</HTML>
+[*jrecno*]91,訴,201,20020816,1
+[*v_court*]CHD 臺灣彰化地方法院
+[*v_sys*]M
+[*jyear*]91
+[*jcase*]訴
+[*jno*]201
+[*jdate*]910816
+[*jcheck*]1
