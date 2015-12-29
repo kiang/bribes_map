@@ -115,7 +115,7 @@ while ($line = fgetcsv($fh, 2048)) {
         $md5 = md5($urlDecoded);
         $cachedFile = $cachePath . '/list_' . $md5;
         if (!file_exists($cachedFile)) {
-            error_log($urlDecoded);
+            error_log($urlDecoded . " ( {$lineCount} / 535 )");
 
             $curl = curl_init($url);
             curl_setopt($curl, CURLOPT_REFERER, $url);
@@ -209,7 +209,7 @@ while ($line = fgetcsv($fh, 2048)) {
                   string(1) "1"
                  */
                 $court = explode(' ', $ret['v_court'])[0];
-                $path = __DIR__ . "/case/{$line[0]}";
+                $path = __DIR__ . "/raw/{$line[0]}";
                 if (!file_exists($path)) {
                     mkdir($path, 0777, true);
                 }
