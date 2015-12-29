@@ -1,0 +1,362 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣彰化地方法院-刑-90訴840</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+5FZtPUawmdc/5H6dR8oD8pwrIQQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第7
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000840&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c840%2c20010817%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=840&jdate=900817&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c840%2c20010817%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=840&jdate=900817&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c840%2c20010817%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','840','900817','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,訴,840</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">900817</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">強盜等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　　　　　　　　九十年度訴字第八四<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100F7AF2A0A00000040.GIF" />號
+　　公　訴　人　臺灣彰化地方法院檢察署檢察官
+　　被　　　告　戊○○
+　　指定辯護人　本院公設辯護人　丁○○
+右列被告因強盜等案件，經檢察官提起公訴（九十年度偵字第三七七六號），本院判
+決如左：
+        主  文
+戊○○意圖為自己不法之所有，而侵占遺失物，累犯，處罰金伍仟元，如易服勞役以
+參佰元折算壹日；又連續竊盜，累犯，處有期徒刑壹年貳月；又竊盜，因脫免逮捕，
+而當場施以強暴脅迫，累犯，處有期徒刑參年陸月。有期徒刑部分應執行肆年陸月。
+        事  實
+一、戊○○前有多次竊盜前科，其中，於八十年十一月間所犯竊盜罪，經本院於八十
+    年十二月十八日以八十年度易字第一五七二號判決處有期徒刑一年三月，並宣付
+    刑前強制工作，上訴經台灣高等法院台中分院判決駁回確定在案，於八十五年十
+    月八日執行完畢；旋於八十五年十一月間復犯竊盜罪，經本院判處有期徒刑一年
+    六月，並宣付刑前強制工作三年確定在案，於九十年五月十七日執行完畢。其於
+    九十年五月二十三日上午十時許，在彰化縣田中鎮○○路○段文興中學門口前，
+    拾得原為吳秀菊所有，而遺失或被竊（吳秀菊未能明確辨悉）之皮包一只（內有
+    國民身分證、全民健康保險卡、機車行車執照、彰化銀行金融卡、郵局金融卡各
+    一枚、現金若干元及美金五元鈔票、人民幣五元鈔票、人民幣十元鈔票、韓幣一
+    千元各一紙，該皮包係吳秀菊於九十年五月十九日晚間十一時許在彰化縣員林鎮
+    ○○路遺失或被竊，返家始發覺），竟意圖為自己不法之所有，予以侵占入己。
+二、又基於意圖為自己不法所有，竊取他人財物之概括犯意，先後於附表編號一、
+    二、三所示時間、地點，單獨徒手竊取乙○○、丙○○所有之啤酒（詳如附表所
+    示）。
+三、另意圖為自己不法之所有，於附表編號四所示時間、地點，單獨徒手竊取甲○○
+    所有之啤酒（詳如附表所示）。得手後，為甲○○發覺，即自後呼喊、追捕。戊
+    ○○為脫免逮捕，對即將趨近逮捕之甲○○脅迫稱袋子內有東西，你再過來我就
+    刺你等語，甲○○探悉乃虛張聲勢，遂上前著手逮捕，於拉扯之際，戊○○為求
+    掙脫，竟以腳踢打甲○○之腹部。嗣經警員據報及時趕至現場，始合力將其制伏
+    。
+四、案經彰化縣警察局田中分局報請臺灣彰化地方法院檢察署檢察官偵查起訴。
+        理  由
+一、訊據被告戊○○（以下簡稱被告）固坦承有於前開時、地侵占被害人吳秀菊所遺
+    失之皮包之行為事實，惟矢口否認前開竊盜及準強盜犯行，辯稱：伊於附表編號
+    一至三所示時間，均住於旅館內，並未外出，而附表編號四所示之啤酒及味素係
+    被害人故意放在其腳踏車上，欲栽贓云云。經查：（一）被告於前開事實欄所示
+    時間、地點拾獲被害人吳秀菊所有之皮包（含其內之外幣、證照等物件），予以
+    侵占入己之事實，除據被告自白在卷外，且該皮包連同其內之現金、外幣、證照
+    等物件係被害人吳秀菊於九十年五月十九日晚間十一時許在彰化縣員林鎮○○路
+    某處失竊（未明遺失或被竊）之事實，亦經被害人吳秀菊於警訊中指述明確，並
+    有卷附贓物認領保管單一份及贓物照片一幀可憑。被告非因有權處分人之交付，
+    而持有前開被害人吳秀菊所有之皮包之事實，既已明確，公訴人因乏事證可認被
+    告係以竊取或其他不法途徑取得，而依「罪疑惟輕」之證據法則，採信被告之供
+    詞，認定被告係拾得後，予以侵占入己，予以起訴，本院調查後認於事理尚無不
+    合，應屬可取。（二）被告於附表編號一至四所示時、地行竊被害人乙○○、丙
+    ○○、甲○○所有之啤酒等情，已據被害人乙○○、丙○○、甲○○於警訊時及
+    檢察官偵查中指述甚明，並經目擊證人林陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3752A0A00000040.GIF" />雪、施美玲、謝秋煖、曾達旺證述
+    明確，復有贓物領據一紙附卷可憑。參之被害人乙○○、丙○○、甲○○均設店
+    從事雜貨買賣，其等皆知被告年近耳順，毫無資力可言，倘非實情，毋庸設詞栽
+    贓，冀圖索賠之必要。尤其，被害人乙○○於警訊時更述明：「（你當時為什麼
+    未報警？鄰居朋友是否願意前來指認？）因為錢少所以想說老人又精神有問題才
+    未報警，希望不要說出朋友姓名」等語，而被害人丙○○亦指稱：「於九十年五
+    月二十四日中午十三時許，在我店裡騎樓下竊賊正在搬運我所有一箱（指罐裝啤
+    酒二十罐）至我住處隔壁五三二號，先偷搬至旁邊放，被我發現到後，竊賊就騎
+    自行車跑掉」、「當時竊賊偷搬一箱啤酒，被我發現後沒有拿走沒有財物損失」
+    等語，其等所述均甚具體明確，再佐以前開證人之證詞，應認信實可採。況被告
+    戊○○辯稱：伊自九十年五月十八日至同年月二十六日確均住在彰化縣田中鎮龍
+    門大飯店未外出云云，亦據該飯店之櫃檯服務員<font color='red'>黃麗香</font>於偵查中結證：被告每天
+    都有出去，均迄當日下午三時其交班前仍未返回等語在卷。至其辯稱：附表四之
+    啤酒、味素係被害人故意放置於其腳踏車行李架上云云，稽之目擊證人林陳<img align="texttop" border="0" alt=" " src="http://210.69.124.101/ASTAR/100E3752A0A00000040.GIF" />雪
+    於檢察官偵訊時結證：那天被告牽著腳踏車，車上有三箱東西，載至三五號前，
+    可能東西太重，腳踏車沒牽好就倒了，因我在忙他腳踏車倒下我才注意到等語在
+    卷，是被告所辯，顯係卸責之詞。又被告除於附表編號二所示時間竊取被害人乙
+    ○○之啤酒外，尚於附表編號一所示之時間竊取啤酒一箱之事實，已據本院查明
+    如前述，公訴人就此部分疏未認定，容有未當。次查：被告於附表編號四所示時
+    、地竊取被害人甲○○之啤酒既遂，被逮捕之際，為脫免逮捕，對被害人甲○○
+    脅迫稱：不得靠近，否則欲持袋內器械行刺，於被逮捕時，以腳踢擊被害人甲○
+    ○腹部之事實，已據被害人甲○○及證人曾達旺指證於警、偵訊時指證在卷。衡
+    之被告於被逮捕時，對被害人施以強暴、脅迫，縱使其無傷害犯意或其程度不致
+    使被害人達於不能抗拒，亦應認係當場施以強暴脅迫之要件，始符事理之平。另
+    被告雖僅將附表編一所示之啤酒帶離現場，餘者，均為被害人發現取回，但刑法
+    所謂之「竊盜既遂犯」，並不以將行竊所得之贓物帶離現場為必要，如有將被害
+    人之財物，置於己力所支配之情形，遑論其時間久暫，均應論以既遂犯（最高法
+    院二十九年滬上字第七號、四十四年台上字第五一五號、四十九年台上字第九三
+    九號判例參照）。故被告於附表編號一至四所示之時、地既均已搬取被害人之財
+    物，即應論以既遂犯，始符法理。公訴人依世俗之見，認被告係行竊未遂，容有
+    未當，特此敘明。是本案事證明確，被告犯行足以認定。
+二、核被告侵占他人遺失之皮包之行為，係犯刑法第三百三十七條之侵占遺失物罪；
+    其如附表編號一至三之竊盜啤酒既遂行為，分別係犯刑法第三百二十條第一項之
+    竊盜既遂罪罪；被告於附表所示時、地行竊得手後，為脫免逮捕，而當場對圍捕
+    之被害人施以強暴、脅迫之行為，係犯刑法第三百二十九條之準強盜罪。被告先
+    後三次如附表編號一至三之竊盜犯行，時間緊接，犯罪構成要件復相同，顯係基
+    於概括犯意反覆為之，為連續犯，應依刑法第五十六條之規定，論以一竊盜既遂
+    罪，並加重其刑。公訴人認被告上開竊盜犯行，論擬為刑法第第三百二十條第三
+    項、第一項之竊盜未遂罪，容有未洽，因本院所認定之犯罪事實與檢察官起訴書
+    所載之基本事實，係屬同一，本院自得依刑事訴訟法第三百條之規定，就前開起
+    訴之事實，變更檢察官所引應適用之法條，分別為刑法第三百二十條第一項竊盜
+    罪名之判決。又公訴人就被告前開竊盜犯行，於起訴書雖僅敘及附表編號二、三
+    所示之事實，然被告如附表編號一所示之犯行，因與已起訴且經認定有罪之竊盜
+    部分，具有連續犯關係，屬裁判上一罪，為法律上之同一案件，依刑事訴訟法第
+    二百六十七條之規定，應為起效力所及，本院自得併予審判，附此敘明。被告所
+    犯上開三罪，犯意各別，構成要件互殊，不具裁判上或實質上一罪之關係，應分
+    論併罰。又查被告前於八十年十一月間所犯竊盜罪，經本院於八十年十二月十八
+    日以八十年度易字第一五七二號判決處有期徒刑一年三月，並宣付刑前強制工作
+    ，上訴經台灣高等法院台中分院判決駁回確定在案，於八十五年十月八日執行完
+    畢；旋於八十五年十一月間復犯竊盜罪，經本院判處有期徒刑一年六月，並宣付
+    刑前強制工作三年確定在案，於九十年五月十七日執行完畢在案之事實，有本院
+    被告全國前案紀錄表、台灣彰化地方法院檢察署刑案資料查註紀錄表一份附卷足
+    按，其於有期徒刑執行完畢後，五年以內再犯有期徒刑以上之本案各罪，為累犯
+    ，所犯各罪之本刑，均應依刑法第四十七條之規定加重之（連續竊盜罪部分遞加
+    重之）。爰審酌被告之素行、犯罪之手段、目的、所生危害、犯罪所得之財產價
+    值並其他犯罪情節，並犯後之態度等一切情狀，所犯各罪分別量處如主文所示之
+    刑，有期徒刑部分並定其應執行之刑，罰金部分諭知易服勞役之折算標準。另公
+    訴人認被告有犯竊盜罪之習慣，請求本院再依竊盜犯贓物犯保安處分條例第三條
+    第一項第一款、第二款之規定，併予宣付強制工作一節。固然，被告於前竊盜案
+    件執行完畢後，越數日，旋即故態復萌而再犯，其有犯罪習慣，足認無訛，公訴
+    人之請求，確有相當之見地，本應照准。惟衡之被告雖由於年輕時不事生產積蓄
+    ，如今老邁體衰，無力工作，謀生不易，寄養無著，而再著手行竊，但其目前既
+    已無工作能力，顯無從再藉由強制工作以收矯治之效，衡之其情節，允宜依其他
+    社會防範措施，以杜免其再犯，始稱妥適，是應認被告無宣付強制工作之必要，
+    特此敘明。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段、第三百條，刑法第三百二十
+條第一項、第三百二十八條、第三百三十七條、第五十六條、第四十七條、第五十一
+條第五款，罰金罰鍰提高標準條例第一條前段、第二條，判決如主文。
+中      華      民      國    九十      年      八      月     十七     日
+                                    臺灣彰化地方法院刑事第一庭
+                                        法      官  蔡  紹  良
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內，向本院提出上訴狀（須附繕本）。
+告訴人或被害人對於判決如有不服具備理由請求檢察官上訴者，其上訴期間之計算係
+以檢察官收受判決正本之日期為準。
+                                        法院書記官  王  惠  嬌
+中      華      民      國    九十      年      八      月    二十四    日
+懲治盜匪條例第五條第一項第一款
+有左列行為之一者，處無期徒刑或七年以上有期徒刑：
+一、意圖為自己或第三人不法所有，以強暴、脅迫、藥劑、催眠術或他法，致使不能
+抗拒，而取他人之物或使其交付者。
+刑法第三百二十條
+意圖為自己或第三人不法之所有，而竊取他人之動產者，為竊盜罪，處五年以下有期
+徒刑、拘役或五百元以下罰金。
+意圖為自己或第三人不法利益，而竊佔他人之不動產者，依前項之規定處斷。
+前二項之未遂犯罰之。
+刑法第三百四十九條
+收受贓物者，處三年以下有期徒刑、拘役或五百元以下罰金。
+搬運、寄藏、故買贓物或為牙保者，處五年以下有期徒刑、拘役或科或併科一千元以
+下罰金。
+因贓物變得之財物，以贓物論。
+  附表：
+╔══╦═════╦═════╦════════╦════════╦═══╦════════╗
+║編號║ 時   間  ║ 地   點  ║ 行  竊  方  法 ║ 竊  得  物  品 ║被害人║ 備          考 ║
+╟──╫─────╫─────╫────────╫────────╫───╫────────╢
+║一  ║九十年五月║彰化縣田中║趁被害人不注意之║啤酒一箱        ║乙○○║                ║
+║    ║二十二日左║鎮新庄里居║際，潛入被害人未║                ║      ║                ║
+║    ║右        ║仁街一七六║關閉之倉庫內單獨║                ║      ║                ║
+║    ║          ║號        ║徒手行竊。      ║                ║      ║                ║
+║    ║          ║          ║                ║                ║      ║  ║
+╠══╬═════╬═════╬════════╬════════╬═══╬════════╣
+║二  ║九十年五月║彰化縣田中║趁被害人不注意之║啤酒二箱        ║乙○○║                ║
+║    ║二十三日及║鎮新庄里居║際，潛入被害人未║                ║      ║                ║
+║    ║二十四日  ║仁街一七六║關閉之倉庫內單獨║                ║      ║                ║
+║    ║          ║號        ║徒手行竊。      ║                ║      ║                ║
+║    ║          ║          ║                ║                ║      ║                ║
+╠══╬═════╬═════╬════════╬════════╬═══╬════════╣
+║三  ║九十年五月║彰化縣田中║趁被害人不注意之║啤酒一箱        ║丙○○║                ║
+║    ║二十四日午║鎮○○路二║際，潛入被害人未║                ║      ║                ║
+║    ║午        ║段五三０號║關閉之倉庫內單獨║                ║      ║                ║
+║    ║          ║號        ║徒手行竊。      ║        ║      ║                ║
+║    ║          ║          ║                ║                ║      ║                ║
+╠══╬═════╬═════╬════════╬════════╬═══╬════════╣
+║四  ║九十年五月║彰化縣田中║趁被害人不注意之║高梁酒一箱、味素║甲○○║                ║
+║    ║二十六日晚║鎮東路里南║際，潛入被害人未║二箱            ║      ║                ║
+║    ║間七時四十║北街三七號║關閉之倉庫內單獨║                ║      ║                ║
+║    ║五分許    ║          ║徒手行竊。      ║                ║      ║                ║
+║    ║          ║          ║                ║                ║      ║                ║
+╚══╩═════╩═════╩════════╩════════╩═══╩════════╝
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWCHD\CRIMINAL\9008\22\CHDM908M.012] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第7
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000840&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e9%ba%97%e9%a6%99&sdate=&edate=&page=&searchkw=%e9%bb%83%e9%ba%97%e9%a6%99&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c840%2c20010817%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=840&jdate=900817&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c840%2c20010817%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=840&jdate=900817&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c840%2c20010817%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','840','900817','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃麗香">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃麗香">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
