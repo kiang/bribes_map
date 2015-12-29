@@ -1,0 +1,436 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣士林地方法院-刑-95訴758</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+enf+drewo3CRYqxiDeXEc3mliT4=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣士林地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=000758&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c758%2c20071231%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=758&jdate=961231&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c758%2c20071231%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=758&jdate=961231&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('95%2c%e8%a8%b4%2c758%2c20071231%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','95','%e8%a8%b4','758','961231','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">95,訴,758</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">961231</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣士林地方法院刑事判決　　　　　　　 95年度訴字第758號
+公　訴　人　臺灣士林地方法院檢察署檢察官
+被　　　告　丙○○
+　　　　　　　　　　31號8樓<span  style="color:#e8e8e8">.</span>
+選任辯護人　<font color='red'>黃福卿</font>律師
+上列被告因偽造文書案件，經檢察官提起公訴（95年度偵字第163號）
+，本院判決如下：
+    主  文
+丙○○無罪。
+    事  實
+一、公訴意旨略以：被告丙○○（原名丙○○，更名為廖韻嘉，
+    嗣又更名為丙○○）與戊○○係妯娌關係，戊○○為臺北市
+    北投區○○街○ 段300 號元崧股份有限公司（下稱元崧公司
+    ）負責人，丙○○明知戊○○並未授權或同意其辦理統一發
+    票購票事宜，竟基於偽造文書之犯意，於民國94年2 月2 日
+    偽以戊○○之名義（即偽造戊○○之署押），並偽造戊○○
+    委託其辦理元崧公司統一發票購票事宜之委託書（一紙）（
+    下稱系爭委託書），檢附領用統一發票購票證申請書（一紙
+    ）（下稱系爭統一發票購票證申請書），向財政部臺北市國
+    稅局北投稽徵所（下稱北投稽徵所）申請統一發票使用，使
+    不知情之承辦稅務員自同日起至94年8 月間止，核准丙○○
+    向北投稽徵所領用統一發票6 本，足以生損害於戊○○及北
+    投稽徵所對於領用統一發票管理之正確性。嗣戊○○於94年
+    7 月22日向主管機關申請命令解散元崧公司，旋於同年8 月
+    2 日接獲北投稽徵所來函通知須辦理營利事業變更或註銷登
+    記，經向北投稽徵所查詢，始知上情。因認被告丙○○涉有
+    刑法第216 條、第210 條之行使偽造私文書
+二、按犯罪事實應依證據認定之，無證據不得認定其犯罪事實；
+    刑事訴訟法第154 條第2 項定有明文。又告訴人之告訴，係
+    以使被告受刑事訴追為目的，是其陳述是否與事實相符，仍
+    應調查其他證據以資審認；最高法院76年台上字第4986號判
+    例、52年台上字第1300號判例可資參照。次按刑事訴訟法上
+    所謂認定犯罪事實之證據，係指足以認定被告確有犯罪行為
+    之積極證據而言，該項證據自須適合於被告犯罪事實之認定
+    ，始得採為斷罪資料。如未能發現相當證據，或證據不足以
+    證明，自不能以推測或擬制之方法，以為裁判之基礎。又刑
+    事訴訟上證明之資料，無論其為直接或間接證據，均須達於
+    通常一般人均不致有所懷疑，而得確信其為真實之程度，始
+    得據為有罪之認定，若其關於被告是否犯罪之證明未能達此
+    程度，而有合理性懷疑之存在，致使無法形成有罪之確信，
+    根據「罪證有疑，利於被告」之證據法則，即不得遽為不利
+    被告之認定，此分別有最高法院29年上第3105號、40年臺上
+    字第86號、76年臺上字第4986號判例可資參照。又犯罪事實
+    依法應依證據認定之，不得僅以被告之反證不成立，持為認
+    定犯罪之依據。（最高法院21年上第474 號判例參照），公
+    訴人認為被告丙○○涉有犯罪，無非係以：告訴人戊○○之
+    指訴、被告丙○○於警詢及偵查中自承：系爭委託書及系爭
+    統一發票購票證申請書均由伊簽署元崧公司及其負責人戊○
+    ○之姓名、蓋印，而以元崧公司負責人戊○○之名義製作成
+    系爭委託書及系爭統一發票購票證申請書等私文書暨領用統
+    一發票商號查詢影本4 份等執為論據，訊據被告丙○○固坦
+    承於94年2 月2 日在系爭委託書上簽署元崧公司負責人戊○
+    ○並蓋用其印章製作該委託書及在系爭統一發票購票證申請
+    書蓋用戊○○印章製作成該領用統一發票購票證申請書等私
+    文書，向北投稽徵所申請統一發票使用等情，惟堅決否認有
+    何偽造上開私文書，被告丙○○及其辯護人辯稱：93年年底
+    ，告訴人戊○○之胞兄謝世芳（本院另案通緝中）因受博達
+    電子公司（擔任該公司財務長）之拖累，致其經營之慧達電
+    子公司營運陷於困境，乃與告訴人及被告商議，擬另設立新
+    公司定名為元崧股份有限公司，處理慧達公司已接單未了業
+    務，告訴人同意擔任掛名負責人，並邀慧達公司原幹部乙○
+    ○、甲○○及丁○○擔任董、監事，並因告訴人本身經營茂
+    發印刷公司業務甚忙，概括授權被告聲請設立元崧股份有限
+    公司，並處理公司業務，告訴人於元崧公司設立登記後，即
+    於94年1 月26日親至中國信託銀行板橋分行開立元崧公司帳
+    戶，並將銀行存摺及公司暨其負責人印章並身分證影本交由
+    被告保管，並概括授權作為處理元崧公司有關業務使用，告
+    訴人既概括授權被告辦理元崧公司設立登記，並處理元崧公
+    司接手慧達公司未了業務，當然需要申請統一發票以供業務
+    上使用，故被告因業務上之需要，依授權代填委託書並檢附
+    告訴人交付之身分證影本暨蓋用公司及負責人印章向稅捐機
+    關申請統一發票使用，當然在概括授權被告處理公司業務之
+    範圍內，被告丙○○自無偽造私文書可言等語。
+三、本院經查：
+壹、程序方面：
+    按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據。又被告以外之人於審判外之陳述，經
+    當事人於審判程序同意作為證據，法院審酌該言詞陳述或書
+    面陳述作成時之情況，認為適當者，亦得為證據。當事人、
+    代理人或辯護人於法院調查證據時，知有第159條第1項不得
+    為證據之情形，而未於言詞辯論終結前聲明異議者，視為有
+    前項之同意，刑事訴訟法第159條第1項及第159條之5分別定
+    有明文。告訴人戊○○、證人乙○○、甲○○、丁○○等人
+    於警詢及偵查中所為之陳述、公訴人於起訴書所引用之非供
+    述證據，公訴人、被告丙○○及其辯護人於本院審理程序中
+    經本院提示並告以要旨，公訴人、被告丙○○及其辯護人對
+    就證據能力方面並未聲明異議且表示不爭執（本院卷第206
+    、287 頁），本院審酌上開證據應屬適當，依刑事訴訟法第
+    159 條之5 規定，即有證據能力，合先敘明。
+貳、實體方面：
+一、
+  (一)本件被告丙○○於94年2 月2 日在系爭委託書上簽署元崧公
+    司負責人戊○○並蓋用其印章製作該委託書及在系爭統一發
+    票購票證申請書蓋用戊○○印章製作成該領用統一發票購票
+    證申請書等私文書，向北投稽徵所申請統一發票使用等情，
+    業據被告丙○○於偵查、本院準備及審理中自承屬實（偵查
+    卷第74、75頁，本院卷第15、155 、205 、298 、299 頁）
+    ，並有系爭委託書及統一發票購票證申請書影本各一紙附卷
+    可稽（偵查卷第36頁、本院卷第309 頁），此部分之事實，
+    自堪認定。
+  (二)
+  (1)元崧公司係於94年1 月5 日成立（登記資本額125 萬元），
+    由戊○○、乙○○、甲○○擔任董事、丁○○為監察人，戊
+    ○○並兼任董事長，並於同年月7 日向臺北市政府申請設立
+    登記，經臺北市政府於同年月17日核准設立登記，此有元崧
+    公司設立登記資料及營利事業登記證存卷可稽（偵查卷第9
+    至11頁）。
+  (2)告訴人戊○○於警詢中陳稱：93年12月間廖韻嘉（即被告丙
+    ○○）主動拜託伊，想以伊名義成立一家公司，惟公司成立
+    後一切事務均由廖韻嘉負責，伊便答應，故94年1 月間廖韻
+    嘉以伊名義辦理申請設立元崧公司，並簽屬擔任董事長同意
+    書，伊並未實際參與元崧公司經營等語（偵查卷第24頁），
+    其於偵查中亦陳稱：元崧公司由被告丙○○經營，伊僅係掛
+    名，因伊兄謝世芳原先公司（謝世芳因涉博達公司違反證券
+    交易法等案件本院另案通緝中，原經營慧達通訊科技股份有
+    限公司，下稱慧達公司）經營不善，部分舊客戶仍要承接，
+    被告丙○○與係慧達公司舊同事乙○○、甲○○、丁○○等
+    人，要幫助謝世芳另起爐灶，東山再起，伊就信任他們，擔
+    任負責人，……元崧公司係由被告丙○○一手成立，元崧公
+    司成立後，謝世芳就失蹤，元崧公司成立目的是要承接原先
+    （指慧達公司）客戶之業務，伊兄失蹤後，伊不知如何處理
+    ，乙○○、甲○○、丁○○欲表示離職，元崧公司之業務就
+    由被告丙○○負責，實際情況伊不甚清楚等語（偵查卷第74
+    、82頁），其於本院復具結證稱：「係被告丙○○及其中謝
+    世芳要求我擔任元崧公司負責人……，要設立元崧公司時我
+    有將身份證交給謝世芳」（本院卷第77、78、84頁）、「元
+    崧公司我僅係單純掛名，不負責處理公司業務」（本院卷第
+    85頁）、「公司設立是為了承接慧達的業務，我當初有預想
+    到公司會有營運會與其他公司有買賣交易行為」（本院卷第
+    86、207 頁）等語。再者，證人戊○○先於94年1 月4 日向
+    中國信託商業銀行港墘分行申請設立元崧公司籌備處帳戶（
+    帳號000000000000號），復於元崧公司設立後之94年1 月26
+    日向該銀行板新分行申請設立元崧公司帳號000000000000號
+    帳戶，此有上開二帳戶存摺影本及中國信託商業銀行公函與
+    所附之開戶資料附卷可稽（本院卷第223 至225 、243 、
+    247 頁）。
+  (3)證人甲○○於本院證稱：伊原先為慧達公司擔任財務副課長
+    ，被告丙○○請伊擔任元崧公司的董事，伊同意擔任董事期
+    間是有與原來慧達公司的老闆謝世芳見過面元崧公司成立目
+    的是為替慧達公司處理接單未了業務證人胡伊均與被告接觸
+    ，沒有接觸過戊○○，元崧公司的財務部分由被告丙○○負
+    責等語（本院卷第157、158 、159 頁）
+  (4)證人乙○○於本院具結證稱：伊原為慧達通訊公司員工，謝
+    世芳請伊擔任元崧公司董事，成立元崧公司的目的是要繼續
+    為慧達公司履行未了業務伊知悉公司由戊○○擔任元崧公司
+    的負責人，元崧公司籌備階段伊不清楚。元崧公司就在原本
+    慧達公司之地方，元崧公司對外銷售與客戶接洽是由伊負責
+    ，有出貨伊拿發票給客戶，就是向財務拿發票，因為伊不了
+    解財務這部分，就是財務會開發票給伊被告丙○○是掛名元
+    崧公司的總經理，但是一樣在慧達公司裡面，她的辦公室一
+    樣在慧達公司，也有自己的辦公室。被告的辦公室是主管級
+    的，被告當時在慧達是擔任副總。元崧公司出貨的時候由伊
+    簽名即可出貨，因為元崧的部分是由慧達轉接過來所以知道
+    相關業務的人只有伊，業務上的事情都由伊獨自決定不需要
+    請示被告等語（本院卷第160 至165 頁）。
+  (5)證人丁○○於本院證稱：伊原為慧達公司員工，當初被告向
+    伊說她要成立一個元崧公司，需要有一些人擔任董監事，她
+    說大家都簽董事的名字，只剩下監事的名字，但是簽名的當
+    下伊不知道監事要做什麼的，被告向伊表示她會找負責人，
+    伊只知慧達公司當時有些廠商的貨還沒有出完，當時是在處
+    理後續出貨事情等語（本院卷第166 頁）。
+  (6)綜合上述證人戊○○、乙○○、甲○○、丁○○等人所陳述
+    結證內容觀之，元崧公司成立之目的係為處理戊○○之兄謝
+    世芳經營之慧達公司所剩未了之事務，而改以元崧公司名義
+    繼續經營，二家公司均在同一辦公處所，乃分別由被告丙○
+    ○及夫出面囑託告訴人戊○○、原屬慧達公司員工之乙○○
+    、甲○○、丁○○擔任元崧公司之掛名之董事、監察人，戊
+    ○○並兼任名義上之董事長，渠等人均未實際出資，換言之
+    ，證人戊○○確有事前經其兄謝世芳及被告丙○○之請求，
+    而同意並交付身份證件以其名義設立元崧公司，且知悉設立
+    元崧公司之目的係為處理其兄謝世芳所經營之慧達公司所遺
+    未了事務，則在處理元崧公司處理慧達公司之事務範圍內，
+    應在告訴人戊○○授權範圍之內，並未逾越其概括授權之範
+    圍。證人戊○○嗣後否認知悉並同意被告丙○○以其名義設
+    立元崧公司云云，要與事實不符，難以採信。
+二、
+  (一)證人戊○○經由被告丙○○交付元崧公司之公司登記資料後
+    ，先於94年1 月4 日向中國信託商業銀行港墘分行申請設立
+    元崧公司籌備處帳戶（帳號000000000000號），復於元崧公
+    司設立後之94年1 月26日向該銀行板新分行申請設立元崧公
+    司帳號000000000000號帳戶，此有上開二帳戶存摺影本及中
+    國信託商業銀行公函與所附之開戶資料附卷可稽（本院卷第
+    223 至225 、243 、247 頁），並據證人戊○○於本院結證
+    屬實（本院卷第289 頁）。
+  (二)再者，證人戊○○於本院並證稱：伊知道公司營業一定要使
+    用統一發票，……元崧公司設立是為了承接慧達的業務，當
+    初應該可以料想到公司會有營運會與其他公司有買賣交易行
+    為等語（本院卷第85、86頁）。
+  (三)是以告訴人戊○○若未事前同意被告丙○○以其名義設立元
+    崧公司，何以經被告丙○○交付元崧公司之設立登記資料，
+    戊○○即親自前去該銀行申請設立上開元崧公司之帳戶，且
+    證人戊○○既經被告丙○○交付元崧公司之設立資料，而前
+    去申請設立上開帳戶，顯然戊○○事前應已知悉該二個元崧
+    公司名義之帳戶係為處理慧達公司未了事務而與他人有所商
+    業交易後之匯兌貨款之用，亦甚明確。告訴人戊○○依其經
+    驗知悉設立公司，經營業務，必須請領統一發票，以為交易
+    之憑證、申報營業稅額，準此，告訴人戊○○既已事前同意
+    並授權被告丙○○以其名義設立元崧公司並進而以其為負責
+    人名義申立上開二個元崧公司名義之金融帳戶供元崧公司交
+    易使用，則被告丙○○以戊○○為元崧公司負責人身份請領
+    統一發票為元崧公司交易憑證，亦應係在告訴人戊○○授權
+    範圍之內，彰彰甚明。甚且，告訴人戊○○於94年8 月23日
+    函知被告，要求被告於開立銷貨六百多萬元之統一發票外，
+    並指示被告再開立670 萬元存貨之統一發票，有卷附告訴人
+    戊○○之信函影本乙紙可稽（本院卷第52頁）；果若告訴人
+    戊○○未概括授權被告丙○○請領統一發票使用，豈會指示
+    被告除開立銷貨六百多萬外，還指示被告再開立670 萬元發
+    票之理？誠屬可疑。
+三、按刑法第210 條之偽造文書，以無制作權之人冒用他人名義
+    而制作該文書為要件之一，如行為人基於他人之授權委託，
+    即不能謂無制作權，自不成立該罪（最高法院47年台上字第
+    226 號判例足參）。本件告訴人戊○○事前已同意並授權被
+    告丙○○以其名義設立元崧公司並處理經營慧達公司與他人
+    之未了之商業交易業務，縱使被告丙○○事前未告知告訴人
+    戊○○請領元崧公司之統一發票事宜，然被告丙○○於前開
+    時、地，蓋用告訴人戊○○之印章於系爭委託書及統一發票
+    購票證申請書，而以元崧公司負責人名義請領元崧公司之統
+    一發票予以使用，此部分亦應係在概括授權範圍之內，並未
+    逾越戊○○概括授權之範圍，自與偽造文書之構成要件不符
+    ，而難論被告丙○○成立偽造文書之罪責。
+四、按刑事訴訟法第161條第1項規定：檢察官就被告犯罪事實，
+    應負舉證責任，並指出證明之方法。因此，檢察官對於起訴
+    之犯罪事實，應負提出證據及說服之實質舉證責任。倘其所
+    提出之證據，不足為被告有罪之積極證明，或其闡明之證明
+    方法，無從說服法官以形成被告有罪之心證，基於無罪推定
+    之原則，自應為被告無罪判決之諭知。檢察官未提出適合於
+    證明犯罪事實之積極證據，並闡明其證據方法與待證事實之
+    關係。本院對於卷內訴訟資料，逐一剖析，參互審酌，仍無
+    從獲得被告丙○○成立偽造私文書罪嫌之確切心證，既不能
+    證明被告丙○○犯罪，自應為被告丙○○無罪判決之諭知。
+據上論斷，應依刑事訴訟法第301條第1項前段判決如主文。
+本案經檢察官蔡啟文到庭執行職務
+中　　華　　民　　國　　96　　年　　12　　月　　31　　日
+                  刑事第二庭審判長法  官  蔡明宏
+                                  法  官  黃潔茹
+                                  法  官  莊明達
+上正本證明與原本無異。
+如不服本判決，應於收受送達後10日內向本院提出上訴書狀，其
+未敘述上訴之理由者並得於提起上訴後20日內向本院補提理由書
+（均須按他造當事人之人數附繕本）。
+                                  書記官  夏珍珍
+中　　華　　民　　國　　96　　年　　12　　月　　31　　日
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\judday\OK\LAWSLD\CRIMINAL\9612\31\SLDM96CV.052] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e8%a8%b4&selectedCrmno=000758&selectedCrtid=SLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e8%a8%b4%2c758%2c20071231%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=758&jdate=961231&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=95%2c%e8%a8%b4%2c758%2c20071231%2c1&v_court=SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=95&jcase=%e8%a8%b4&jno=758&jdate=961231&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('95%2c%e8%a8%b4%2c758%2c20071231%2c1','SLD+%e8%87%ba%e7%81%a3%e5%a3%ab%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','95','%e8%a8%b4','758','961231','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="SLD 臺灣士林地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃福卿">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃福卿">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

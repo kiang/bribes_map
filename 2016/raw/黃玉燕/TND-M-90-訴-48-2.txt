@@ -1,0 +1,334 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣臺南地方法院-刑-90訴48</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第7
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000048&selectedCrtid=TND','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c48%2c20011010%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=48&jdate=901010&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c48%2c20011010%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=48&jdate=901010&jcheck=2">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c48%2c20011010%2c2','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','48','901010','2')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,訴,48</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">901010</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">廢棄物清理法</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　　　　　　　　　九十年度訴字第四八號
+　　公　訴　人　臺灣台南地方法院檢察署檢察官
+　　被　　　告　柏雄實業有限公司
+　　兼代表人　　丙○○
+　　被　　　告　戊○○
+　　右二人共同
+　　選任辯護人　施習盛
+　　被　　　告　崇暉環保股份有限公司
+　　兼 代表 人　丁○○
+　　被　　　告　庚○○
+　　被　　　告　李昱輝原名為<span  style="color:#e8e8e8">.</span>
+　　被　　　告　甲○○
+　　選任辯護人　鄭和傑
+　　選任辯護人　蘇新竹
+　　選任辯護人　謝一良
+右列被告因廢棄物清理法案件，經檢察官提起公訴（八十九年度營偵字第五０一號、
+八十九年度營偵字第八０五號、八十九年度營偵第八七一號、八十九年度偵字第一０
+五七四號），本院判決如左：
+    主  文
+崇暉環保股份有限公司、丁○○本件均免訴判決。
+柏雄實業有限公司未依廢棄物清理法第二十條規定未依廢棄物清除、處理許可證內容
+處理廢棄物，處罰金參萬元。
+丙○○法人之負責人、戊○○、庚○○共同連續未依廢棄物清除、處理許可證內容處
+理廢棄物，處有期徒刑壹年壹月，緩刑參年。
+乙○○、甲○○共同連續未依廢棄物清理法第二十條規定領有廢棄物清除、處理許可
+證，從事廢棄物清除、處理，處有期徒刑壹年貳月，緩刑參年。
+    事  實
+一、緣丙○○係位於桃園縣大園鄉橫峰村尖山四０號一樓柏雄實業有限公司（下稱柏
+    雄公司）之負責人，領有第一類乙級廢棄物清除許可證，得以處理一般及事業廢
+    棄物，其中間或最終處置處所係位於嘉義縣水上鄉○○村○○路一之二０號明谷
+    實業有限公司，並雇用戊○○執行相關業務。丁○○係位於台南市○○街八五巷
+    七五弄三之六號崇暉環保股份有限公司之負責人，領有第一類乙級廢棄物清除許
+    可證，從事一般及事業廢棄物之清除業務，其中間或最終處置廢棄物地點為台南
+    市城西垃圾處理場，實際業務由其女庚○○共同負責。辛○○係位於桃園市○○
+    路二四二巷八一弄三五之三號二樓之嘉將企業社之實際負責人（登記負責人為<font color='red'>黃
+    玉燕</font>），領有第二類廢棄物清除許可證（屬資源回收物），不得清運一般事業廢
+    棄物。柏雄公司、崇暉公司、辛○○均屬民營廢棄物清除、處理機構，均明知應
+    依廢棄物清除許可證或核備文件內容清除、處理廢棄物，亦均明知侯志良未取得
+    廢棄物清除許可證，係非法清除處理廢棄物。
+二、詎柏雄公司其代表人丙○○、受僱人戊○○竟共同基於概括犯意聯絡，自八十八
+    年十二月起至八十九年三月二十二日止，未依法定方式清除、處理其受託清運之
+    事業廢棄物，連續將所清運之廢棄物中不可回收部分交付侯志良清除、處理，其
+    代價為每輛曳引車以三十五噸計，每車清運費用新台幣（下同）二萬元至三萬元
+    不等。崇暉公司代表人丁○○（業經本院八十九年訴字第一二三九號判決有期徒
+    刑壹年二月，緩刑二年確定）及其女庚○○，共同基於概括犯意聯絡，於八十九
+    年一月間連續五次，將受託清運之廢棄物交由侯志良清除、處理。嘉將企業社實
+    際負責人辛○○（另行審結），竟基於概括犯意，自八十八年八月間起，連續受
+    諸城科技股份有限公司之委託，清運該公司不可回收之一般事業廢棄物，並將之
+    交付侯志良清除、處理。
+三、侯志良（由本院另案審理）雇用乙○○、綽號「小楊」之姓名年籍不詳之成年男
+    子駕駛曳引車，由甲○○駕駛挖土機，四人共同基於概括犯意聯絡，將前開受託
+    清運之廢棄物，運往不知情之己○○所有座落於台南縣東山鄉○○○段二五五—
+    六八地號土地，自八十九年一月間起至同年三月二十二日止，由甲○○事先在前
+    開地號土地上以其所有挖土機挖土後，供乙○○及綽號小楊傾倒廢棄物後，再覆
+    土掩埋，侯志良則以每車次五仟元之代價支付甲○○。嗣於八十九年三月二十二
+    日凌晨三時三十分許，適侯志良、乙○○、綽號小楊、甲○○等駕駛曳引車及挖
+    土機為廢棄物之傾倒及覆蓋時，為行政院環境保護署稽查人員當場查獲，並扣得
+    侯志良所有曳引車（車號：ＷＢ—二七八號，ＦＥ—八三０號）二輛，甲○○所
+    有自用小貨車（車號Ｎ七—一七三三號）、挖土機各一輛，且該輛車車斗內所採
+    得廢棄物經送驗，所含總鋅濃度高達九一‧一MG/L，超出溶出毒性事業廢棄物溶
+    出試驗標準值，屬有害事業廢棄物。
+四、案經行政院環境保護署及台南縣警察局白河分局報告台灣台南地方法院檢察署偵
+    查起訴。
+    理  由
+壹、有罪部分：
+一、右揭事實，業據被告丙○○、戊○○、庚○○、甲○○、乙○○於本院審理中均
+    坦承不諱，且有行政院環境保護署該署八十九年五月十一日（八九）環署督字第
+    ００二五六一０號函、該署稽查紀錄、扣押清單，以及台南縣白河地政事務所八
+  十九所二字第一七三六號函及台灣台南地方法院檢察署檢察官八十九年四月十七
+    日勘驗筆錄附卷足稽，足以補強被告自白之真實性，是本件前開被告均罪證明確
+    ，犯行洵堪認定，應予依法論科。
+二、核被告丙○○、戊○○、庚○○所為，係違反廢棄物清理法第二十二條第二項第
+    四款後段規定，未依廢棄物清除、處理許可證清除、處理廢棄物，及同法第五款
+    規定，明知受託人非法清除、處理而仍委託之罪；被告柏雄公司則係違犯同法第
+    四項之規定。被告乙○○、甲○○係違反同法第二十二條第二項第一款、第四款
+    規定，二人任意棄置有害事業廢棄物，且未依規定領有廢棄物清除、處理許可證
+    清除處理廢棄物。被告丙○○與戊○○，被告庚○○與被告丁○○，被告乙○○
+    、甲○○與綽號小楊、侯志良就上揭犯行，有犯意聯絡及行為分擔，應論以共同
+    正犯。被告丙○○與戊○○、庚○○、乙○○、甲○○先後多次犯行，時間均甚
+    緊接，方法相同，所犯係構成要件相同之罪，顯係基於概括犯意反覆為之，為連
+    續犯，應依刑法第五十六條之規定，以一罪論。被告丙○○、戊○○、庚○○以
+    一行為同時觸犯前開構成要件不相同之二罪名，為想像競合犯，應論以情節較重
+  之未依許可證清除、處理許可證罪論處；被告乙○○、甲○○所犯上開二罪，有
+    方法結果之牽連關係，應從情節較重之未依規定領有許可證而清除處理廢棄物罪
+    論處。查同案被告己○○業經本院為無罪判決，是被告甲○○及乙○○並無違反
+    廢棄物清理法第二十二條第二項第三款之罪，公訴意旨尚有未洽，併此敘明。爰
+    審酌被告等之犯行，及對環境之破壞，及犯罪態度等一切情狀，分別量處被告丙
+    ○○等五人及柏暉公司如主文所示之有期徒刑及罰金。又被告柏暉公司因係法人
+    ，其上開所處之罰金刑，因無從易服勞役，故爰不另為易服勞役之諭知。又被告
+    丙○○、戊○○、庚○○、乙○○、甲○○等五人前均未曾受有期徒刑以上刑之
+    宣告，有臺灣高等法院被告全國前案記錄表一份在卷可按，其雖一時失慮，致罹
+    刑章，然其經此教訓後，應知所警惕，信無再犯之虞，本院因認所宣告之刑，以
+    暫不執行為適當，併諭知緩刑參年，以勵自新。又按供犯罪所用之物或供犯罪預
+    備之物，以屬於犯人為限，得沒收之，刑法第三十八條第三項前段定有明文，是
+    供犯罪所用之物是否應予沒收，應依照具體個案之情形審究是否有沒收之必要，
+    亦即若本案所扣押之物非屬於違禁物，法院乃賦予對於所扣押之物具有沒收與否
+    之裁量權限。查本案所扣押之前開曳引車二輛，及前開自用小貨車、挖土機各一
+    輛，雖分別為另案被告侯志良及甲○○所有，且供被告二人犯罪之用，惟本件被
+    告所犯情節尚屬輕微，對於廢棄物清理法所欲保護法益之侵害亦非重大，是本院
+    認為並無加以宣告沒收之必要，併此敘明。
+貳、免訴部分：
+一、按案件曾經判決確定者，應諭知免訴之判決，刑事訴訟法第三百０二條第一款定
+    有明文。又訴訟上所謂一事不再理之原則，關於實質上或裁判上一罪，亦均有其
+    適用，最高法院六十年台非字第七七號著有判例。
+二、查本件被告崇暉環保股份有限公司及丁○○被訴違反廢棄物清理法第二十二條第
+    四項、第二項第四款後段、第五款之罪，業經本院八十九年度訴字第一二三九號
+    判決罰金貳萬元，及應執行有期徒刑一年二月，前開判決並於九十年三月十九日
+    確定，有卷附該判決影本一紙及公務電話聯絡紀錄足憑，依照首開說明，本件應
+    逕為諭知免訴判決。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段、第三百零二條第一款，廢棄
+物清理法第二十二條第二項第一款、第四款後段、第五款、同法第二十二條第四項，
+刑法第十一條前段、第二十八條、第五十五條、第五十六條、第七十四條第一款，判
+決如主文。
+本案經檢察官洪士傑到庭執行職務
+中　　　華　　　民　　　國　　　九十　　　年　　　十　　　月　　　十　　日
+                                  臺灣臺南地方法院刑事第五庭
+                                          法　官
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內，向本院提出上訴狀。
+                                          書記官
+中　　　華　　　民　　　國　　　九十　　　年　　　十　　　月　　　十　　日
+廢棄物清理法第二十二條第二項、第四項
+有左列情形之一者，處一年以上五年以下有期徒刑，得併科一百萬元以下罰金︰
+一  任意棄置有害事業廢棄物者。
+二  事業機構未依本法規定之方式貯存、清除、處理或再利用廢棄物，致
+    污染環境者。
+三  未經主管機關許可，提供土地回填、堆置廢棄物者。
+四  未依第二十條規定領有廢棄物清除、處理許可證或核備文件，從事廢
+    棄物貯存、清除、處理，或未依廢棄物清除、處理許可證或核備文件
+    內容貯存、清除、處理廢棄物者。
+五  執行機關委託未取得許可證之公、民營廢棄物清除、處理機構，清除
+    、處理一般廢棄物者；或明知受託人非法清除、處理而仍委託者。
+六  公、民營廢棄物處理機構或執行機關未處理廢棄物，開具虛偽證明者
+    。
+法人之負責人、法人或自然人之代理人、受僱人或其他從業人員因執行業務犯第一項
+、第二項之罪者，除處罰其行為人外，對該法人或自然人科以罰金。
+依本法規定有申報義務，明知為不實之事項而申報不實或於業務上作成之文書為虛偽
+記載者，處三年以下有期徒刑、拘役或科或併科五十萬元以下罰金。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWTND\CRIMINAL\9010\31\TNDM90AV.001] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[2]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第7
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000048&selectedCrtid=TND','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c48%2c20011010%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=48&jdate=901010&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c48%2c20011010%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=48&jdate=901010&jcheck=2">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c48%2c20011010%2c2','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','48','901010','2')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃玉燕">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃玉燕">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,405 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣彰化地方法院-刑-104簡97</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+7XBz3Uwut7e0rPhcCF3mLrWrze8=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第2
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e7%b0%a1&selectedCrmno=000097&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e7%b0%a1%2c97%2c20150319%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1&jno=97&jdate=1040319&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e7%b0%a1%2c97%2c20150319%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1&jno=97&jdate=1040319&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e7%b0%a1%2c97%2c20150319%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e7%b0%a1','97','1040319','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,簡,97</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040319</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">詐欺</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事簡易判決　　　　　 104年度簡字第97號
+聲　請　人　臺灣彰化地方法院檢察署檢察官
+被　　　告　黃玉如
+上列被告因詐欺案件，經檢察官聲請以簡易判決處刑（103年度
+偵字第7123號、103年度偵字第7752號），本院逕以簡易判決處
+刑如下：
+    主  文
+黃玉如犯幫助詐欺取財罪，處有期徒刑貳月，如易科罰金，以新
+臺幣壹仟元折算壹日。
+    事實及理由
+一、本件犯罪事實及證據理由，除就證據部分補充「反詐騙案件
+    紀錄表、受理詐騙帳戶通報警示簡便格式表各5件、受理各
+    類案件紀錄表、受理刑事案件報案三聯單各4件、金融機構
+    聯防機制通報單2件」外，其餘均引用檢察官聲請簡易判決
+    處刑書（如附件）之記載。
+二、按行為後法律有變更者，適用行為時之法律。但行為後之法
+    律有利於行為人者，適用最有利於行為人之法律，刑法第2
+    條第1項定有明文。查被告行為後，刑法第339條規定業經修
+    正，並增定第339條之4，於民國103年6月18日公布，並於同
+    年、月20日施行，修正後刑法第339條就選科或併科罰金之
+    數額已提高至新臺幣50萬元，經比較新舊法結果，自以修正
+    前規定對被告較有利，爰依刑法第2條第1項前段規定，應適
+    用被告行為時即修正前刑法第339條第1項之規定。
+三、核被告所為，係犯修正前刑法第339條第1項、第30條第1項
+    之幫助詐欺取財既遂罪。被告以一交付帳戶金融卡、密碼之
+    行為，幫助詐欺集團成員分別對如被害人5人為詐欺取財，
+    其以一行為觸犯數幫助詐欺罪名，為想像競合，應論以一幫
+    助詐欺取財既遂罪。又被告基於幫助不詳成年人士遂行詐欺
+    犯行之不確定故意，而為詐欺犯罪構成要件以外之行為，為
+    幫助犯，依刑法第30條第2項之規定，按正犯之刑減輕之。
+    爰審酌被告對於犯罪集團或不法份子利用他人金融機構帳戶
+    實行詐欺或其他財產犯罪，有所預見，仍恣意提供金融帳戶
+    ，致其帳戶遭利用作為詐取金錢之人頭帳戶，而使犯罪者之
+    真實身分難以查緝，助長犯罪；並因詐騙集團難以破獲，以
+    致詐騙情事未能根絕，並致本案被害人5人各受有如聲請簡
+    易判決處刑書附表所示之損害，是被告行為造成之損害非輕
+    ；惟念及其僅係提供帳戶之參與程度；暨其並無前科之素行
+    （見臺灣高等法院被告前案紀錄表）等一切情狀，乃量處如
+    主文所示之刑，並諭知如易科罰金之折算標準。
+四、依刑事訴訟法第449條第1項前段、第3項、第454條第2項，
+    刑法第2條第1項前段、第30條第1項前段、第2項、（修正前
+    ）第339條第1項、第41條第1項前段，刑法施行法第1條之1
+    ，逕以簡易判決處刑如主文。
+五、如不服本判決，應於判決送達後10日內，以書狀敘述理由，
+    向本院提出上訴（告訴人或被害人對於判決如有不服請求檢
+    察官上訴者，其上訴期間之計算係以檢察官收受判決正本之
+    日期為準。）（須附繕本）。
+中    華    民    國   104    年    3     月    19    日
+                  刑事第六庭    法  官  張琇涵
+以上正本證明與原本無異。
+中    華    民    國   104    年    3     月    19    日
+                                書記官  林怡吟
+附錄論罪科刑法條全文：
+修正前中華民國刑法第339條
+（普通詐欺罪）
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
+物交付者，處 5 年以下有期徒刑、拘役或科或併科 1 千元以下
+罰金。
+以前項方法得財產上不法之利益或使第三人得之者，亦同。
+前二項之未遂犯罰之。
+
+附件  臺灣彰化地方法院檢察署檢察官103年度偵字第7123號、
+      第7752號聲請簡易判決處刑書
+
+臺灣彰化地方法院檢察署檢察官聲請簡易判決處刑書
+                                     103年度偵字第7123號
+                                     103年度偵字第7752號
+    被      告  黃玉如  
+上列被告因詐欺案件，已經偵查終結，認為宜聲請以簡易判決處
+刑，茲將犯罪事實及證據並所犯法條分敘如下：
+        犯罪事實
+一、黃玉如能預見提供帳戶資料予他人使用，可能幫助他人實施
+    財產犯罪之用，仍不違背其本意，而基於幫助詐欺取財之犯
+    意，於民國103年5月15日晚間7時17分前某日時，在不詳地
+    點，將其申辦之玉山銀行彰化分行帳號000-0000000000000
+    號帳戶之金融卡暨密碼，提供給真實姓名年籍不詳之詐騙集
+    團成員使用，以此方式幫助詐欺集團實施財產犯罪。嗣該詐
+    騙集團成員共同基於意圖為自己不法所有之犯意聯絡，分別
+    於附表所示時間，以附表所示方式，致王雅梅、汪建勇、吳
+    旭家、<font color='red'>林幸蓉</font>、張智和等人陷於錯誤，而分別將附表所示款
+    項匯入附表所示帳戶內。嗣王雅梅等人察覺遭騙，報警處理
+    ，始循線查獲上情。
+二、案經汪建勇、吳旭家、<font color='red'>林幸蓉</font>訴由彰化縣警察局彰化分局報
+    告偵辦。
+        證據並所犯法條
+一、訊據被告黃玉如固坦承曾將上揭帳戶之金融卡暨密碼提供給
+    他人，惟矢口否認有何詐欺犯行，辯稱：伊於103年5月15日
+    在網路上看到借錢的廣告，就以其持用之門號0000000000號
+    行動電話撥打廣告上的門號0000000000號行動電話詢問，對
+    方說可以借款3萬元，但要寄帳戶影本及金融卡過去，伊就
+    照指示將帳戶資料寄到對方指定的地方，對方說當晚10點會
+    親自帶金融卡跟存摺影本到臺中還給伊，但到當晚10點都沒
+    有還，伊就打去詢問，對方說公司會計將錢跟資料都捲走，
+    要伊給他們3天時間找人，後來伊到下一個星期一（5月19日
+    ）都找不到人，直到5月20日打電話到銀行確認帳戶狀況，
+    才知道帳戶已經變成警示帳戶，伊只有5月15日有跟對方聯
+    絡上等語。經查：
+（一）被害人王雅梅、張智和、告訴人汪建勇、吳旭家、<font color='red'>林幸蓉
+      </font>分別於附表所示時、地，遭詐騙而匯款附表所示金額至被
+      告上揭銀行帳戶等情，業經證人即被害人王雅梅、張智和
+      及告訴人汪建勇、吳旭家、<font color='red'>林幸蓉</font>於警詢時證述綦詳，並
+      有ATM交易明細表、被告上揭帳戶之歷史交易明細表及存
+      摺影本在卷可佐，應可認定為真實。
+（二）按刑法上之故意，分為直接故意（確定故意）與間接故意
+      （不確定故意），行為人對於構成犯罪之事實，明知並有
+      意使其發生者為直接故意。行為人對於構成犯罪之事實，
+      預見其發生而其發生並不違背其本意者為間接故意；而間
+      接故意與有認識的過失之區別，在於二者對構成犯罪之事
+      實雖均預見其能發生，但前者對其發生並不違背其本意，
+      後者則確信其不發生。且幫助犯之成立，以行為人主觀上
+      認識被幫助者正欲從事犯罪或係正在從事犯罪，且該犯罪
+      有既遂之可能，而其行為足以幫助他人實現構成要件者，
+      即具有幫助故意，並不以行為人確知被幫助者係犯何罪名
+      為必要。而金融存款帳戶事關存戶個人財產權益，具有高
+      度專屬性，除非與存戶本人具有親密關係，難認有何理由
+      交予陌生人使用，縱因特殊情況偶有交予他人使用之必要
+      ，亦當深入瞭解用途後再行提供，方符常情，如將金融機
+      構帳戶提供予不明人士，極易被利用為犯罪工具，此係一
+      般生活常識。參以邇來詐欺集團使用他人帳戶作為指示被
+      害人匯款工具之犯罪類型層出不窮，並廣經媒體披載，常
+      人均能知曉。被告於警詢時及偵查中自承：從事科技業，
+      先前曾向銀行貸款，從未被要求需提供金融卡，則被告身
+      為一具社會經歷之人，竟仍提供金融卡予對方，顯已有幫
+      助他人詐欺之間接故意。至被告雖以前詞置辯，惟依卷附
+      之通聯紀錄，0000000000號行動電話與0000000000號行動
+      電話於103年5月15日之第一則通聯為0000000000號行動電
+      撥打予0000000000號行動電話，與被告所述不符；另觀諸
+      卷附被告提出之寄貨單，收件人電話竟記載自身持用之00
+      00000000號行動電話，顯悖於寄件常情；又被告既稱不認
+      識對方，又於103年5月15日晚間即經對方告知資料被會計
+      捲走，卻復陳稱相信對方會還故未報警，更與常理不合，
+      是其所辯難認可採，其犯嫌應堪認定。
+二、按被告以幫助詐欺取財之意思，參與詐欺取財罪之構成要件
+    以外之行為，核係犯刑法第339條第1項之詐欺取財罪嫌之幫
+    助犯，請依同法第30條第2項規定，按正犯之刑減輕之。被
+    告以一幫助行為，同時幫助犯罪集團詐騙被害人5人，為同
+    種想像競合，請從一重處斷。
+三、依刑事訴訟法第451條第1項聲請簡易判決處刑。
+    此  致
+臺灣彰化地方法院
+中    華    民    國   103    年    12    月    23    日
+                          檢  察  官    鄭安宇
+本件正本證明與原本無異
+中    華    民    國   104    年    1     月    7     日
+                          書  記  官    鄭亦梅
+所犯法條
+刑法第339條
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
+物交付者，處 5 年以下有期徒刑、拘役或科或併科 1 千元以下
+罰金。
+以前項方法得財產上不法之利益或使第三人得之者，亦同。
+前二項之未遂犯罰之。
+刑法第30條
+幫助他人實行犯罪行為者，為幫助犯。雖他人不知幫助之情者，
+亦同。
+幫助犯之處罰，得按正犯之刑減輕之。
+
+附記事項：本件係依刑事訴訟法簡易程序辦理，法院簡易庭得不
+傳喚被告、輔佐人、告訴人、告發人等出庭即以簡易判決處刑；
+被告、被害人、告訴人等對告訴乃論案件如已達成民事和解而要
+撤回告訴或對非告訴乃論案件認有受傳喚到庭陳述意見之必要時
+，請即另以書狀向簡易法庭陳述或請求傳訊。
+附表：
+┌──┬────┬──────┬───────────┬──────┬────┬────┐
+│編號│被害人  │詐 騙 時 間 │詐  騙  手  法        │轉 帳 時 間 │匯入帳戶│轉帳金額│
+│    │        │            │                      │            │        │（新臺幣│
+│    │        │            │                      │            │        │）      │
+│    │        │            │                      │            │        │        │
+├──┼────┼──────┼───────────┼──────┼────┼────┤
+│ 1  │王雅梅  │103年5月15日│詐騙集團成員以電話佯稱│103年5月15日│黃玉如上│2萬9,989│
+│    │        │傍晚6時42分 │係巴黎草莓網路購物賣家│晚間7時17分 │揭玉山銀│元      │
+│    │        │            │，因王雅梅先前簽收單據│            │行帳戶  │        │
+│    │        │            │有誤，若不更改將導致每│            │        │        │
+│    │        │            │月扣款，如欲處理需操作│            │        │        │
+│    │        │            │ATM云云，致王雅梅陷於 │            │        │        │
+│    │        │            │錯誤，依其指示轉帳匯款│            │        │        │
+├──┼────┼──────┼───────────┼──────┼────┼────┤
+│ 2  │汪建勇  │103年5月15日│詐騙集團成員以電話佯稱│102年5月15日│黃玉如上│1萬1,234│
+│    │        │傍晚7時7分  │係露天拍賣客服人員，因│晚間7時32分 │揭玉山銀│元      │
+│    │        │            │作業疏失誤將交易設為分│            │行帳戶  │        │
+│    │        │            │期付款，若不解除將導致│            │        │        │
+│    │        │            │每月扣款，若欲處理需操│            │        │        │
+│    │        │            │作ATM云云，致汪建勇陷 │            │        │        │
+│    │        │            │於錯誤，依其指示轉帳匯│            │        │        │
+│    │        │            │款。                  │            │        │        │
+├──┼────┼──────┼───────────┼──────┼────┼────┤
+│ 3  │吳旭家  │103年5月15日│詐騙集團成員以電話佯稱│103年5月15日│黃玉如上│2萬9,989│
+│    │        │傍晚7時40分 │係購物網站人員，因作業│晚間7時42分 │揭玉山銀│元      │
+│    │        │            │疏失誤將交易設為分期付│            │行帳戶  │        │
+│    │        │            │款，若不解除將導致每月│            │        │        │
+│    │        │            │扣款，若欲處理需操作AT│            │        │        │
+│    │        │            │M云云，致吳旭家陷於錯 │            │        │        │
+│    │        │            │誤，依其指示轉帳匯款  │            │        │        │
+│    │        │            │。                    │            │        │        │
+├──┼────┼──────┼───────────┼──────┼────┼────┤
+│ 4  │<font color='red'>林幸蓉  </font>│103年5月15日│詐騙集團成員以電話佯稱│102年5月15日│黃玉如上│6,367元 │
+│    │        │傍晚7時52分 │係bbqueen女人購物網客 │晚間8時42分 │揭玉山銀│        │
+│    │        │            │服人員，因作業疏失誤將│            │行帳戶  │        │
+│    │        │            │交易設為分期付款，若不│            │        │        │
+│    │        │            │解除將導致每月扣款，若│            │        │        │
+│    │        │            │欲處理須操作ATM云云， │            │        │        │
+│    │        │            │致<font color='red'>林幸蓉</font>陷於錯誤，依其│            │        │        │
+│    │        │            │指示轉帳匯款。        │            │        │        │
+├──┼────┼──────┼───────────┼──────┼────┼────┤
+│ 5  │張智和  │103年5月15日│詐騙集團成員以電話佯稱│102年5月15日│黃玉如上│8,583元 │
+│    │        │上午10時許  │係彰化好來屋汽車旅館客│晚間8時42分 │揭玉山銀│        │
+│    │        │            │服人員，因交易之信用卡│            │行帳戶  │        │
+│    │        │            │扣款不成功，若要處理須│            │        │        │
+│    │        │            │操作ATM云云，致張智和 │            │        │        │
+│    │        │            │陷於錯誤，依其指示轉帳│            │        │        │
+│    │        │            │匯款。                │            │        │        │
+└──┴────┴──────┴───────────┴──────┴────┴────┘</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10403\19\CHDM1043J.006] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第2
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e7%b0%a1&selectedCrmno=000097&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e5%b9%b8%e8%93%89&sdate=&edate=&page=&searchkw=%e6%9e%97%e5%b9%b8%e8%93%89&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e7%b0%a1%2c97%2c20150319%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1&jno=97&jdate=1040319&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e7%b0%a1%2c97%2c20150319%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%b0%a1&jno=97&jdate=1040319&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e7%b0%a1%2c97%2c20150319%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e7%b0%a1','97','1040319','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="2"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林幸蓉">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林幸蓉">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,346 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣新北地方法院-刑-89訴295</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
+											筆 / 現在第28
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e8%a8%b4&selectedCrmno=000295&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=27&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e8%a8%b4%2c295%2c20000920&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=295&jdate=890920&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e8%a8%b4%2c295%2c20000920&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=295&jdate=890920&jcheck=">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('89%2c%e8%a8%b4%2c295%2c20000920','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','89','%e8%a8%b4','295','890920','')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">89,訴,295</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">890920</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　　　　　　　八十九年度訴字第二九五號
+　　公　訴　人　臺灣板橋地方法院檢察署檢察官
+　　被　　　告　庚○○原名葉<span  style="color:#e8e8e8">.</span>
+右列被告因偽造文書等案件，經檢察官提起公訴（八十八年度偵字第二二三六八號）
+，本院判決如左：
+    主  文
+庚○○共同連續行使偽造私文書，足以生損害於公眾及他人，處有期徒刑壹年，緩刑
+<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />年。如附表所示之物沒收。
+    事  實
+一、庚○○與姓名年籍不詳之成年男子「江先生」共同意圖為自己不法之所有，計劃
+    冒名持他人身分證件，至金融機構申請帳戶後盜領金錢、申請行動電話門號之概
+    括犯意，先由庚○○於民國（下同）八十八年八月初，在台北市火車站，提供照
+    片二張予江先生，由江先生將庚○○之照片換貼在丙○○、己○○二人之身分證
+    上完成變造，足生損害於戶政機關管理正確性及丙○○、己○○二人，江先生旋
+    將經變造之丙○○、己○○身分證及甲○○、戊○○、乙○○三人之身分證、丁
+    ○○身分證影本及乙○○之私立景文技術學院之學生證交予庚○○，並連續為下
+    列犯行：
+  (一)庚○○於八十八年八月四日上午九時許，持上開經變造之丙○○身分證，及江先
+    生交付之偽刻丙○○印章一枚，至台北縣板橋市○○路三三二號港尾郵局，同時
+    蓋用偽刻之印章於郵政存簿儲金立帳申請書一紙（蓋有丙○○印文三枚）、郵政
+    存簿劃撥儲金帳戶申請變更終止使用電話語音服務申請書一紙（蓋有丙○○印文
+    二枚）、郵政劃撥儲金印鑑單一紙（蓋有丙○○印文二枚），偽造上開申請書，
+    足生損害於丙○○，並將該等申請書與經變造之身分證一併交由櫃檯人員核對，
+    而行使之，足生損害於丙○○本人及郵局之管理正確性，據以開立板橋港尾郵局
+    Ｏ三一一一九之0000000之八號帳戶，取得郵政存簿儲金簿一本後，由江
+    先生以不詳方式，使郵局陷於錯誤，將丙○○原於左營郵局帳戶內之八千元（公
+    訴人誤將庚○○開戶金額算入，誤載為八千二百元），轉入庚○○新開設之帳戶
+    內；庚○○旋依江先生指示，於同日下午，至台北縣境內另一不詳地點之郵局，
+    偽造提款單（其上蓋有丙○○印文一枚），並交付於郵局承辦人員而行使之，足
+    生損害於丙○○，領取上開款項，江先生即從中給付庚○○一千元佣金；
+  (二)庚○○於八十八年八月六日，持上開變造丙○○身分證，及江先生交付之偽刻丙
+    ○○印章一枚，至台北縣新莊市中國信託商業銀行新莊分行，同時蓋用偽刻之印
+    章於存款相關服務性業務申請約定書上（其上偽簽丙○○署名一枚、蓋用丙○○
+    印文共三枚），偽造該紙約定書，足生損害於丙○○，並與變造之身分證一併交
+    由該銀行承辦人員核對，而行使之，據以開立0000000000000號帳
+    戶，並領得存簿一本及金融卡一張、金融卡密碼二張，足生損害於丙○○及該銀
+    行之管理正確性，並自江先生處取得五百元佣金。
+  (三)庚○○復於八十八年八月九日上午，持經變造之己○○身分證及江先生交付之偽
+    刻己○○印章一枚，至台北縣新莊市○○路郵局，同時蓋用偽刻印章於立帳申請
+    書二紙上（蓋用己○○印文四枚），偽造申請書，足生損害於己○○，並與經變
+    造之身分證一併交由郵局櫃檯人員查核，而行使之，足生損害於己○○及郵局之
+    管理正確性，據以開立存簿儲金帳戶第Ｏ二五二九八之八號及劃撥儲金帳戶第0
+    0000000號帳戶，取得存簿儲金簿一本，江先生以不詳方式，使郵局陷於
+    錯誤，將己○○原於宜蘭郵局帳戶內之二萬八千元，轉入庚○○新開設之帳戶中
+    ，庚○○再於同日下午，先後至台北縣新莊市港尾郵局、台北市萬華郵局，偽造
+    己○○名義之提款單二張（各蓋有己○○印文一枚），交付於上開郵局承辦人員
+    而行使之，足生損害於己○○，領取上開款項，並從中獲取二千元酬金。
+  (四)庚○○復承前開犯意，持丁○○身分證影本及丙○○身分證，於八十八年八月間
+    ，至台北市○○街九十號香港傳訊電信集團通化店，冒名丙○○，佯稱係丁○○
+    委託其前往代辦門號，偽造和信服務申請書二份（其上各有偽簽之丁○○署名二
+    枚）並提出向店員行使之，足生損害於丁○○、丙○○、香港和信電訊集團對電
+    信管理之正確性，據以申請行動電話門號卡二張（分別為Ｚ000000000
+    號、Ｚ000000000號），嗣於八十八年八月九日下午三時三十分許，適
+    葉健成前往港尾郵局欲領取丙○○金融卡時，為警當場查獲，並扣得經變造之丙
+    ○○身分證、港尾郵局、新泰路郵局、中國信託商業銀行之存簿各一本、該銀行
+    金融卡一枚及密碼紙兩張、偽刻之丙○○、己○○印章及上開門號卡二枚等物。
+二、案經台北縣警察局海山分局報告台灣板橋地方法院檢察署檢察官偵查起訴。
+    理  由
+一、右揭事實，業據被告庚○○迭於警訊、偵審中坦承不諱，於警訊中供稱：因看報
+    紙找工作，認識江先生，江先生要我提供照片貼在丙○○、己○○身分證上，並
+    由我至郵局、銀行開立帳戶，又要我冒名申請行動電話，交給江先生準備販賣他
+    人犯罪圖利、盜打電話使用，其他身分證也是江先生交給我的，但還沒交代用途
+    等語，核與被害人丙○○、己○○、戊○○、被害人乙○○之父<font color='red'>吳俊德</font>指述證件
+    遺失、郵局存款遭盜領之情節大致相符，復有戊○○、<font color='red'>吳俊德</font>出具之贓物認領保
+    管單據各一紙附卷，並有如事實欄所示之物扣案可證，足認被告確係與江先生共
+    同意圖以他人證件供犯罪使用，方自江先生處取得各被害人之身分證件，其自白
+    與事實相符。事證明確，被告犯行均堪認定。
+二、核被告所為，提供照片供江先生換貼於丙○○、己○○身分證上之行為，係犯刑
+    法第二百十二條之變造特種文書罪；被告冒用被害人丙○○、己○○之名義分別
+    填寫郵局及銀行開戶申請書、電信服務申請書，以及詐領被害人郵局款項之行為
+    ，係犯同法第二百十六條、第二百十條之行使偽造私文書罪及第三百三十九條第
+    一項之詐欺取財罪。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />被告與姓名年籍不詳自稱「江先生」之成年男子間，有犯
+    意聯絡及行為分擔，均為共同正犯。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告偽造署名、印文為偽造私文書之部份
+    行為，偽造私文書之低度行為，為行使偽造私文書之高度行為所吸收，不另論罪
+    ；被告變造特種文書之低度行為，為行使變造特種文書之高度行為所吸收，亦不
+    另論罪。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5822A0A00000040.GIF" />再被告於申請郵局帳戶時，同時行使偽造私文書及變造特種文書，應
+    依想像競合犯之規定，從一重之行使偽造文書罪處斷。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5812A0A00000040.GIF" />被告先後多次行使偽造
+    私文書及詐欺取財之犯行，均時間緊接，構成要件相同，顯係基於概括犯意為之
+    ，各依刑法第五十六條連續犯之規定，論以一罪，並加重其刑。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5802A0A00000040.GIF" />被告至郵局冒
+    領款項時，蓋用偽刻印章偽造提款單三張之行為，雖未據公訴人起訴，惟與前揭
+    偽造文書罪部分有連續犯裁判上一罪之關係，本院併予審酌。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57F2A0A00000040.GIF" />其行使偽造私文
+    書及詐欺取財罪二罪間，有方法、結果之牽連關係，應依刑法第五十五條規定，
+    從一重之行使偽造私文書罪處斷。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57E2A0A00000040.GIF" />被告與江先生就前揭犯罪事實，均係共同正
+    犯，已如前述，公訴人認被告取得變造之丙○○、己○○身分證、甲○○、戊○
+    ○、乙○○之身分證及乙○○學生證，另犯刑法第三百四十九條第一項之收受贓
+    物罪嫌，容有誤會。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F57D2A0A00000040.GIF" />又被告縱冒名申請和信電訊門號卡，惟仍需繳付保證金，
+    始有可能取得門號卡，是尚難被告有不法所有之意圖，公訴人認被告領取門號卡
+    之行為，成立詐欺取財犯行，亦有誤會。爰審酌被告貪圖佣金，為犯罪集團所利
+    用之犯罪動機，冒用他人名義，申請郵局、銀行帳戶及行動電話，並據以盜領他
+    人款項之手段，盜領金額三萬餘元，犯罪所生損害非鉅，及其品性、生活狀況、
+    智識程度，及犯罪後迭於警訊偵審中坦承犯行，態度堪稱良好等一切情狀，量處
+    如主文所示之刑。又被告前未曾受有期徒刑以上刑之宣告，因一時失慮，偶罹刑
+    典，事後已坦承犯行，深具悔意，經此刑之宣告後，應知警惕而無再犯之虞，本
+    院因認暫不執行其刑為當，予以宣告緩刑三年，用啟自新。
+三、如附表編號三、四、五、七、八、十一、十三、十四、十五所示之偽造印文、署
+    名，不問屬於犯人與否，應依刑法第二百十九條沒收。另經扣案編號一變造丙○
+    ○身分證上之被告照片一張及未據扣案，然無證據證明已滅失編號二之照片，均
+    係被告所有供犯罪所用之物，依刑法第三十八條第一項第二款法宣告沒收。扣案
+    編號六、九、十、十二、十六之存簿、金融卡、門號卡等物，係屬被告因犯罪所
+    得之物，均依刑法第三十八條第一項第三款宣告沒收。至丙○○身分證屬丙○○
+    所有，並非被告所有之物；另被告偽填之郵局開戶資料、提款單及和信電訊行動
+    電話門號申請書，既分別交付予上開郵局及通訊行，已不屬被告所有，爰不依法
+    宣告沒收（各該偽造之文書上，經偽造之署名及印文，已沒收如前），附此敘明
+    。
+據上論斷，刑事訴訟法第二百九十九條第一項前段，刑法第二十八條、第五十六條、
+第二百十六條、第二百十條、第二百十二條、第三百三十九條第一項、第五十五條、
+第七十四條第一款、第二百十九條、第三十八條第一項第二款、第三款、罰金罰鍰提
+高標準條例第一條前段，判決如主文。
+本案經檢察官李傳侯到庭執行職務
+中      華      民      國      八十九      年    十二    月     五     日
+                                      臺灣板橋地方法院刑事第三庭
+                                          法  官  蕭  一  弘
+右正本證明與原本無異。
+如不服本判決應於送達後十日內向本院提出上訴狀。
+                                          書記官  王  苑  琦
+中      華      民      國      八十九      年    十二    月    十一    日
+附錄本案論罪科刑法條全文：
+刑法第二百十六條
+行使第二百十條至第二百十五條之文書者，依偽造、變造文書或登載不實事項或使登
+載不實事項之規定處斷。
+刑法第二百十條
+偽造、變造私文書，足以生損害於公眾或他人者，處五年以下有期徒刑。
+刑法第二百十二條
+偽造、變造護照、旅券、免許證、特許證及關於品行、能力、服務或其他相類之證書
+、介紹書，足以生損害於公眾或他人者，處一年以下有期徒刑，拘役或三百元以下罰
+金。
+刑法第三百三十九條
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之物交付者，處五年以
+下有期徒刑、拘役或科或併科一千元以下罰金。
+以前項方法得財產上不法之利益或使第三人得之者亦同。
+前二項之未遂犯罰之。
+附表
+一、經變造丙○○身分證上之庚○○照片一張
+二、經變造己○○身分證上之庚○○照片一張
+三、偽造丙○○郵政存簿儲金立帳申請書一紙上之偽蓋丙○○印文三枚
+四、偽造之郵政存簿劃撥儲金帳戶申請變更終止使用電話語音服務申請書一紙上之偽
+    蓋丙○○印文二枚
+五、郵政劃撥儲金印鑑單一紙上之偽蓋丙○○印文二枚
+六、丙○○名義之郵政存簿儲金簿一本
+七、偽造丙○○名義之郵局提款單一紙上之偽蓋丙○○印文一枚
+八、中國信託商業銀行存款相關服務性業務申請約定書上偽簽丙○○署名一枚、偽蓋
+    丙○○印文三枚
+九、丙○○名義之中國信託商業銀行存摺一本
+十、丙○○名義之中國信託商業銀行金融卡一枚及密碼紙兩張
+十一、偽造丙○○印章四枚
+十二、己○○名義之郵政存簿儲金簿一本
+十三、偽造己○○名義之提款單二紙上偽蓋己○○印文各一枚
+十四、偽造己○○印章一枚
+十五、偽造之和信服務申請書二份其上各有之偽造丁○○署名二枚（共四枚）
+十六、Ｚ000000000、Ｚ000000000門號卡各一枚
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWPCD\CRIMINAL\8909\25\PCDM899P.134] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
+											筆 / 現在第28
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e8%a8%b4&selectedCrmno=000295&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=27&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e8%a8%b4%2c295%2c20000920&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=295&jdate=890920&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e8%a8%b4%2c295%2c20000920&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=295&jdate=890920&jcheck=">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('89%2c%e8%a8%b4%2c295%2c20000920','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','89','%e8%a8%b4','295','890920','')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="28"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

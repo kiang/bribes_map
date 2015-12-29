@@ -1,0 +1,426 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣彰化地方法院-刑-100訴1132</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+enf+drewo3CRYqxiDeXEc3mliT4=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001132&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1132%2c20120406%2c3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1132&jdate=1010406&jcheck=3">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1132%2c20120406%2c3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1132&jdate=1010406&jcheck=3">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1132%2c20120406%2c3','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1132','1010406','3')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">100,訴,1132</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010406</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反動物用藥品管理法</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　 100年度訴字第1132號
+公　訴　人　臺灣彰化地方法院檢察署檢察官
+被　　　告　蕭義雄
+選任辯護人　<font color='red'>黃福卿</font>律師
+　　　　　　楊俊彥律師
+上列被告因違反動物用藥品管理法案件，經檢察官提起公訴（10
+0年度偵字第445、7352號），被告於準程序就被訴事實為有罪之
+陳述，經合議庭裁定由受命法官獨任適用簡式審判程序審理，本
+院判決如下：
+    主  文
+蕭義雄犯動物用藥品管理法第三十三條第二項之製造偽藥罪，處
+有期徒刑陸月，如易科罰金，以新臺幣貳仟元折算壹日，扣案之
+自製鵝血清伍拾陸瓶、自製鵝血清壹桶拾肆公斤、鵝血清壹瓶（
+壹佰西西），均沒收銷燬之，扣案之喜寶黴素貳瓶、富樂美壹瓶
+、白色粉末拾壹包、抗生素玖包、抗生素肆罐、白色粉末壹包、
+磅秤壹個、濾網貳個、漏斗貳個、橡皮吸管壹條、裝血清用塑膠
+瓶壹箱，均沒收。又犯動物用藥品管理法第三十五條第一項之販
+賣偽藥伍拾陸罪，各處有期徒刑貳月，如易科罰金，各以新臺幣
+貳仟元折算壹日。應執行有期徒刑壹年貳月，如易科罰金，以新
+臺幣貳仟元折算壹日，扣案之自製鵝血清伍拾陸瓶、自製鵝血清
+壹桶拾肆公斤、鵝血清壹瓶（壹佰西西），均沒收銷燬之，扣案
+之喜寶黴素貳瓶、富樂美壹瓶、白色粉末拾壹包、抗生素玖包、
+抗生素肆罐、白色粉末壹包、磅秤壹個、濾網貳個、漏斗貳個、
+橡皮吸管壹條、裝血清用塑膠瓶壹箱，均沒收。
+    犯罪事實
+一、蕭義雄係非法動物用偽禁藥品販賣業者，明知「血清」係屬
+    動物用藥品管理法第3條第1款所規範之動物用藥品，未經核
+    准擅自製造，則屬同法第4條第1款之動物用偽藥，竟仍在未
+    依法向主管機關申請取得動物用藥品製造、販賣許可之情況
+    下，分別基於製造與接續販賣之犯意，於民國99年8月17日
+    起至100年1月4日止之期間內，先於其位在臺中市○○區○
+    ○路434巷69弄18號住處內，利用其所收集之耐受過病毒而
+    未死亡之鵝隻血液，製造數量不詳之抗病毒「血清」後，再
+    於如附表所示之時間，先後以每瓶新臺幣（下同）400元至
+    450元不等之價格，將其製造之抗病毒「血清」以寄送至附
+    表所示廖庚申等人位於彰化縣等地之方式，販售至彰化縣、
+    雲林縣、嘉義縣、臺南縣等地，出售給如附表所示之動物畜
+    產養殖業者。嗣於100年1月4日，經彰化縣警察局持搜索票
+    搜索至蕭義雄臺中市○○區○○路434巷69弄18號住處，當
+    場查扣得自製鵝血清56瓶、自製鵝血清1桶14公斤、鵝血清1
+    瓶100CC、喜寶黴素2瓶、富樂美1瓶、白色粉末11包、抗生
+    素9包、抗生素4罐、白色粉末1包、濾網2個、漏斗2個、橡
+    皮吸管1條、裝血清用塑膠瓶1箱等物，而循線查悉上情。
+二、案經彰化縣警察局移送臺灣彰化地方法院檢察署檢察官偵查
+    起訴。
+    理  由
+一、按本件被告所犯係死刑、無期徒刑、最輕本刑為3年以上有
+    期徒刑以外之罪，其於準備程序就被訴事實為有罪之陳述，
+    經受命法官告知簡式審判程序之旨，並聽取其與公訴人之意
+    見後，合議庭認無不得或不宜改依簡式審判程序進行之情事
+    ，依刑事訴訟法第273條之1第1項、第284條之1規定，裁定
+    本件由受命法官獨任進行簡式審判程序，合先敘明。
+二、上揭犯罪事實，業據被告於本院審理中坦承不諱，並有如犯
+    罪事實欄之物扣案，及現場蒐證照片42幀、出貨單影本70張
+    、宅急便托運單影本2份與行政院農業委員會動植物防疫檢
+    疫局100年7月18日防檢一字第1001473591號函之檢驗結果報
+    告附卷足稽，核與被告自白相符，其自白相符，得為不利被
+    告認定之依據，本案事證明確，被告犯行堪以認定。
+三、查被告未經核准擅自製造具有抗體之血清，即屬動物用藥品
+    管理法第4條第1款所規定之動物用偽藥，被告製造動物用偽
+    藥後復行販賣，核其所為，係分犯動物用藥品管理法第33條
+    第2項之製造偽藥罪，及第35條第1項之販賣動物用偽藥罪。
+    被告先後於附表編號1至56所示時地販售動物用偽藥56次之
+    行為，及製造動物用偽藥行為，其犯意各別且行為不同，應
+    予分論併罰。檢察官認被告販賣動物用偽藥56次之犯行，屬
+    集合犯應以一罪論，顯有誤會，應予更正。
+四、爰審酌被告意圖營利，為求所養殖鵝得以耐受病毒侵襲，以
+    增加產量，未經核准擅自製造具有抗體血清之動物用偽藥，
+    並以每瓶400至450元之價格，陸續販售予附表所示之人，助
+    長動物用偽藥流通，危害食品衛生安全，影響國民健康，所
+    生危害非淺，惟念其犯後坦承製造動物用偽藥，及販售動物
+    用偽藥等犯行，兼衡其製造、販賣之期間、所獲利益僅
+    123150元，及其犯罪動機、手段、智識程度、生活狀況等一
+    切情狀，並審酌審酌自由刑倘准易科罰金，折算標準自須考
+    量依其職業、身分所應有之資力予以酌定，方能使加諸其財
+    產上不利益所生之懲罰效果，得等同於執行時兼具自由、財
+    產雙損性質之自由刑等一切情狀，而分別量處如主文所示之
+    刑及各諭知如易科罰金，以新臺幣2000元折算1日之折算標
+    準，並依法定其應執行刑及諭知如易科罰金，以新臺幣2000
+    元折算1日之折算標準，以示懲儆。
+五、扣案之自製鵝血清56瓶、自製鵝血清1桶14公斤、鵝血清1瓶
+    100CC，均係查獲之動物用偽藥，應依動物用藥品管理法第4
+    3條第1項規定，宣告均沒收銷燬之。另扣案之喜寶黴素2瓶
+    、富樂美1瓶、白色粉末11包、抗生素9包、抗生素4罐、白
+    色粉末1包、磅秤1個、濾網2個、漏斗2個、橡皮吸管1條及
+    裝血清用塑膠瓶壹箱，係供被告製造動物用偽藥所用之器材
+    ，業據被告於審理時供承在卷，自應依動物用藥品管理法第
+    43條第1項規定，宣告均沒收之。
+據上論斷，應依刑事訴訟法第299條第1項前段，動物用藥品管理
+法第33條第2項、第35條第1項、第43條第1項，刑法第11條、第4
+1條第1項前段、第8項、第51條第5款，判決如主文。
+本案經檢察官陳顗安到庭執行職務。
+中    華    民    國   101    年    4     月    6     日
+            刑事第四庭        法  官  陳義忠
+以上正本證明與原本無異。
+如不服本判決應於收受判決後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
+逕送上級法院」。
+中    華    民    國   101    年    4     月    6     日
+                              書記官  吳曉玟
+附錄本案所犯法條：
+一、動物用藥品管理法第33條
+    製造或輸入第5條第1款所定動物用禁藥者，處1年以上7年以
+    下有期徒刑，得併科新臺幣450萬元以下罰金。
+    製造或輸入第4條所定動物用偽藥或輸入第5條第2款所定動
+    物用禁藥者，處6月以上5年以下有期徒刑，得併科新臺幣
+    250萬元以下罰金。
+    前二項之未遂犯罰之。
+二、動物用藥品管理法第35條
+    分裝、販賣、運送、寄藏、牙保、轉讓或意圖販賣而陳列或
+    貯藏第4條所定動物用偽藥或第5條所定動物用禁藥者，處3
+    年以下有期徒刑，得併科新臺幣450萬元以下罰金。
+    因過失犯前項之罪者，處拘役或科新臺幣75萬元以下罰金。
+附表：
+┌──┬──────┬────┬───┬───┬───┬────┐
+│編號│日     期   │姓  名  │數量  │單價  │總 價 │所在地  │
+│    │            │        │（瓶）│（元）│（元）│        │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 1  │99年8月20日 │廖庚申  │  2   │ 400  │800   │彰化縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 2  │99年8月21日 │陳明輝  │  8   │ 400  │3200  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 3  │99年9月2日  │王進吉  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 4  │99年9月5日  │王進吉  │  8   │ 400  │3200  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 5  │99年9月6日  │李春樹  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 6  │99年9月6日  │林益新  │  2   │ 400  │800   │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 7  │99年9月9日  │林古山  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 8  │99年9月14日 │林古山  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 9  │99年9月14日 │白瑞安  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 10 │99年9月14日 │林益新  │  2   │ 400  │800   │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 11 │99年9月16日 │張登貴  │  2   │ 400  │800   │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 12 │99年9月16日 │葉純汎  │  2   │ 400  │800   │嘉義縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 13 │99年9月18日 │許八六  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 14 │99年9月21日 │鍾火生  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 15 │99年9月23日 │黃廣    │  2   │ 400  │800   │嘉義縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 16 │99年9月24日 │姚燈洲  │  13  │ 450  │5850  │彰化縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 17 │99年9月24日 │王進吉  │  3   │ 400  │1200  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 18 │99年9月24日 │蔡明護  │  2   │ 400  │800   │彰化縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 19 │99年9月29日 │王進吉  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 20 │99年10月4日 │丁金源  │  7   │ 400  │2800  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 21 │99年10月5日 │陳中文  │  10  │ 450  │4500  │臺南縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 22 │99年10月5日 │陳榮燦  │  2   │ 400  │800   │嘉義縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 23 │99年10月5日 │蔡淮楠  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 24 │99年10月5日 │范文俊  │  20  │ 400  │8000  │臺南縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 25 │99年10月9日 │王為憐  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 26 │99年10月12日│黃金童  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 27 │99年10月12日│吳裕興  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 28 │99年10月13日│洪宗正  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 29 │99年10月13日│廖庚申  │  2   │ 400  │800   │彰化縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 30 │99年10月16日│蔡文山  │  8   │ 400  │3200  │彰化縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 31 │99年10月17日│王進吉  │  8   │ 400  │3200  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 32 │99年10月17日│蔡品毅  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 33 │99年10月19日│吳儒興  │  4   │ 400  │1600  │        │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 34 │99年10月19日│許八六  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 35 │99年10月19日│王進吉  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 36 │99年10月19日│林錫村  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 37 │99年10月22日│王為憐  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 38 │99年10月25日│鍾火生  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 39 │99年10月25日│葉純汎  │  2   │ 400  │800   │嘉義縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 40 │99年10月25日│林文吉  │  40  │ 400  │16000 │高雄縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 41 │99年10月26日│王進吉  │  8   │ 400  │3200  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 42 │99年10月28日│蔡文山  │  5   │ 400  │2000  │彰化縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 43 │99年11月2日 │王進吉  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 44 │99年11月2日 │涂棟環  │  4   │ 400  │1600  │嘉義縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 45 │99年11月2日 │丁金源  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 46 │99年11月4日 │鍾火生  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 47 │99年11月4日 │吳宜霖  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 48 │99年11月5日 │林益新  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 49 │99年11月9日 │王為憐  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 50 │99年11月9日 │陳明輝  │  4   │ 400  │1600  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 51 │99年11月11日│蘇明利  │  6   │ 400  │2400  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 52 │99年11月19日│葉純汎  │  3   │ 400  │1200  │嘉義縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 53 │99年11月20日│蘇明利  │  6   │ 400  │2400  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 54 │99年11月22日│王為憐  │  5   │ 400  │2000  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 55 │99年11月22日│丁清凱  │  3   │ 400  │1200  │雲林縣  │
+├──┼──────┼────┼───┼───┼───┼────┤
+│ 56 │99年11月29日│許俊一  │  4   │ 400  │1600  │雲林縣  │
+├──┴──────┴────┼───┼───┼───┼────┤
+│      合       計           │ 305  │      │123150│        │
+└──────────────┴───┴───┴───┴────┘</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWCHD\CRIMINAL\10104\06\CHDM10146.00U] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[3]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=100&selectedCrmid=%e8%a8%b4&selectedCrmno=001132&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%a6%8f%e5%8d%bf&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%a6%8f%e5%8d%bf&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=100%2c%e8%a8%b4%2c1132%2c20120406%2c3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1132&jdate=1010406&jcheck=3">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=100%2c%e8%a8%b4%2c1132%2c20120406%2c3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=100&jcase=%e8%a8%b4&jno=1132&jdate=1010406&jcheck=3">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('100%2c%e8%a8%b4%2c1132%2c20120406%2c3','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','100','%e8%a8%b4','1132','1010406','3')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃福卿">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃福卿">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

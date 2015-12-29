@@ -1,0 +1,414 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣彰化地方法院-刑-92訴971</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
+											筆 / 現在第9
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000971&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c971%2c20031121%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=971&jdate=921121&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c971%2c20031121%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=971&jdate=921121&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c971%2c20031121%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','971','921121','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,訴,971</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">921121</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　　　　　　　　　 九十二年度訴字第九七一號
+　　公　訴　人　臺灣彰化地方法院檢察署檢察官
+　　被　　　告　甲○○
+　　指定辯護人　林永貹律師
+右列被告因違反毒品危害防制條例案件，經檢察官提起公訴（九十一年偵字第六五三
+五號），本院判決如左：
+    主  文
+甲○○販賣第一級毒品，處有期徒刑玖年，扣案之第一級毒品海洛因貳拾貳包（其中
+貳拾包合計淨重約<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />點貳肆公克；其餘貳包合計淨重約壹拾<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />點<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />零公克）；及
+第二級毒品安非他命<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />拾陸包（驗餘總淨重約柒佰柒拾肆點玖零公克），均沒收銷燬
+之；另扣案之茶葉禮盒空盒壹組，沒收之。
+    事  實
+一、甲○○曾因違反麻醉藥品管理條例及肅清煙毒條例等案件，分別經本院判處有期
+    徒刑六月、六月、三年二月與三年五月確定，嗣經本院裁定應執行有期徒刑七年
+    二月，送監執行後，於八十九年十月四日假釋出獄付保護管束，詎其於保護管束
+    期間，因違反保護管束應遵守事項情節重大，經撤銷其假釋，令入監所執行殘刑
+    ，現正執行中（未構成累犯）。詎其仍不知悔改，明知海洛因為毒品危害防制條
+    例第二條第二項第一款所稱之第一級毒品；安非他命為毒品危害防制條例第二條
+    第二項第二款所稱之第二級毒品，均非經許可不得販入或賣出，竟仍基於意圖販
+    賣以營利之犯意，偕同不知情之江麗文（業經檢察官另為不起訴處分），先於民
+    國（下同）九十一年九月十八日上午十時許，至彰化縣溪湖鎮某處，向姓名、年
+    籍均不詳，綽號為「阿真」所經營之「日仔會」，借款新台幣（下同）三十一萬
+    元，二人復於同日十一時許，搭車至彰化縣溪湖鎮○○○○道旁，由甲○○持上
+    開所借得之款項，向姓名、年籍均不詳，綽號為「黑煙」之成年男子販入已分裝
+    之第一級毒品海洛因二十二包（其中二十包合計淨重約三十三點二四公克；其餘
+    二包合計淨重約十三點三零公克；起訴書誤將上開二十二包海洛因毒品之合計淨
+    重載為三十三點二四公克）；及第二級毒品安非他命三十六包（驗餘總淨重約七
+    百七十四點九零公克，其中二十包安非他命係藏放於茶葉禮盒空盒中）。甲○○
+    於購得上開毒品後，即與不知情之江麗文將之攜往設於彰化縣溪湖鎮○○街四十
+    三巷十九號之「城市遊藝場」，以伺機尋找對象販賣。嗣因時近中午，甲○○欲
+    返回其位於彰化縣溪湖鎮○○○街四十三號租屋處（起訴書誤載為中興街八十三
+    號）休憩，適該處屋主宋永田亦欲自上開「城市遊藝場」返家，甲○○遂攜同上
+    開毒品搭乘宋永田所駕駛之ＯＭ—四九五０號自用小客車一併返回上開租屋處，
+    甫到達未久（約於同日上午十一時五十分許，起訴書誤載為下午一時許），即為
+    員警持本院搜索票實施搜索，而當場查獲第一級毒品海洛因二十二包（其中二十
+    包合計淨重約三十三點二四公克；其餘二包合計淨重約十三點三零公克；起訴書
+    誤載為二十四包，且該海洛因毒品之合計淨重亦誤載為三十三點二四公克）、第
+    二級毒品安非他命三十六小包（驗餘總淨重約七百七十四點九零公克）及供甲○
+    ○藏放上開安非他命毒品所用之茶葉空禮盒一組等物。
+二、案經彰化縣警察局移請臺灣彰化地方法院檢察署檢察官偵查起訴。
+    理  由
+一、訊據被告甲○○固坦承於上揭時、地，持其向「日仔會」所借得之款項三十一萬
+    元，向綽號「黑煙」之成年男子販入上開第一級毒品海洛因及第二級毒品安非他
+    命，且於購得毒品後即攜往「城市遊藝場」內，復於同日上午十一時五十分許，
+    其甫返回租屋處時，為警查獲等情，惟矢口否認有何意圖營利販賣第一級毒品海
+    洛因及第二級毒品安非他命之犯行，辯稱：扣案之毒品均係為供自己施用，因伊
+    毒癮較大，且係以摻入香菸方式吸用，所需要之量較多，而當時市面上缺貨，價
+    格較貴，所以伊才想一次購入較多數量慢慢吸食，伊並非意圖營利而販入上開毒
+    品，亦無販賣毒品予他人云云。惟查：
+（一）按中華民國九十二年一月十四日修正通過之刑事訴訟法第一百十七條之一、第
+      一百十八條、第一百二十一條、第一百七十五條、第一百八十二條、第一百八
+      十三條、第一百八十九條、第一百九十三條、第一百九十五條、第一百九十八
+      條、第二百條、第二百零一條、第二百零五條、第二百二十九條、第二百三十
+      六條之一、第二百三十六條之二、第二百五十八條之一、第二百七十一條之一
+      、第三百零三條及第三百零七條自公布日施行；其他條文自中華民國九十二年
+      九月一日施行，修正刑事訴訟法施行法第七條之二定有明文。又按中華民國九
+      十二年一月十四日修正通過之刑事訴訟法施行前，已繫屬於各級法院之案件，
+      其以後之訴訟程序，應依修正刑事訴訟法終結之。但修正刑事訴訟法施行前已
+      依法定程序進行之訴訟程序，其效力不受影響，修正刑事訴訟法施行法第七條
+      之三亦定有明文。是依上開規定可知，九十二年一月十四日修正通過之刑事訴
+      訟法關於新訴訟程序之進行及證據法則之規定，係自九十二年九月一日起始施
+      行；於九十二年九月一日前已繫屬於法院之案件，其於九十二年九月一日以前
+      已依法定程序進行之訴訟程序，其效力並不受影響，而所謂「其效力不受影響
+      」，除指法院於修正之刑事訴訟法施行前，已依法踐行之訴訟程序，其效力不
+      受影響外，亦包含修正前之刑事訴訟法相關證據法則之適用。查本案各相關證
+      人之警、偵訊筆錄雖均係於九十二年九月一日以前製成，有各該警、偵訊筆錄
+      可稽，惟本件係於九十二年七月二十八日即繫屬於本院，有本院收文章可按，
+      是依前揭說明，本件原已依法定程序調查之有關證人於警詢、偵查時之證言，
+      其效力不受新修正之相關證據法則規定所影響，本院自得本於調查所得之心證
+      採擷之，合先敘明。
+（二）查本件被告甲○○於九十一年九月十八日上午十一時許，至彰化縣溪湖鎮○○
+      ○○道旁，持其向「日仔會」所借得之款項三十一萬元，向姓名、年籍均不詳
+      ，綽號為「黑煙」之成年男子販入第一級毒品海洛因二十二包及第二級毒品安
+      非他命三十六包，且於購得上開毒品後即攜往「城市遊藝場」內，復因時近中
+      午，遂搭乘證人宋永田之便車返回其位於彰化縣溪湖鎮○○○街四十三號租屋
+      處，隨即於同日上午十一時五十分許，在其租屋處為警查獲之事實，業據被告
+      於警、偵訊中及本院行準備程序與審理時均供承不諱，核與證人宋永田、宋永
+      田之妻宋吳淑姬及當日與被告一同返回租屋處之<font color='red'>吳俊德</font>分別於警、偵訊中之證
+      述，情節均相符（詳見警卷第五頁至第九頁筆錄、偵卷第一百三十四頁至第一
+      百三十六頁筆錄），復有搜索票一紙及搜索扣押筆錄一份在卷可稽（附於警卷
+      第十二頁至第十四頁），而扣案之白色粉末二十二包經送請法務部調查局鑑驗
+      ：認均含第一級毒品海洛因成分，其中二十包合計淨重三十三點二四公克（包
+      裝重八點九０公克），純度為百分之三十一點七０，純質淨重十點五四公克；
+      其餘二包之合計淨重為十三點三０公克（包裝重０點九二公克），純度以百分
+      之一計算，純質淨重約０點一三公克，有法務部調查局九十一年十月二十四日
+      調科壹字第一四０００八六八七號鑑定通知書一紙可憑（附於偵查卷第一百二
+      十三頁）；另扣案之白色結晶體三十六包經送請內政部警政署刑事警察局鑑驗
+      ，結果為：經以呈色試驗分析結果，均呈甲基安非他命陽性反應，復抽取其中
+      二包鑑驗，確均檢出第二級毒品甲基安非他命成分，再抽取一包鑑驗，測得甲
+      基安非他命純度為百分之九十八點八，計三十六包總毛重八百七十五點０一公
+      克，總淨重七百七十五點三二公克，經抽樣鑑驗後總餘重為七百七十四點九０
+      公克，此亦有內政部警政署刑事警察局九十二年六月二十五日刑鑑字第０九二
+      ０一０六八二八號鑑驗通知書一紙在卷可按（附於偵查卷第一百五十六頁），
+      足見被告此部分自白確與事實相符，應堪採信。
+（三）是本件應予究表乃被告是否系基於圖意罪販賣以營利之意恩而購入前毒品，查
+      ：
+（１）本院依公訴人之聲請傳喚鑑定人即法務部調查局化學檢驗科檢驗員丁○○就人
+      體可負荷之毒品劑量到庭為鑑定，鑑定人丁○○到庭稱：伊係台灣大學化學博
+      士，八十三年度畢業，論文主題係分析化學，現任職於法務部調查局化學檢驗
+      科從事毒品檢驗分析工作，已從事六年之久，所檢驗之毒品件數已無法屬清。
+      以伊之瞭解，人體可負荷之毒品劑量與個人體質有關，若是成癮之人，可負荷
+      之劑量自然較多，依據英國醫藥學會之資料，一般人施用毒品，若一次進入人
+      體之純質劑量達二百毫克即可能致死，但若是成癮之人，其致死之劑量最高可
+      以是一般人之十倍；又依伊個人經驗，一般施用之純質劑量達二十毫克時，就
+      會產生毒癮感覺，上開統計不論是第一級毒品海洛因或第二級毒品安非他命均
+      適用之等語（見本院卷第九十八頁至第一百零三頁筆錄），而本件被告於九十
+      一年九月十八日為警查獲時，其所販入之第一級毒品海洛因純質淨重為十點六
+      七公克；第二級毒品安非他命之純質淨重則約為七百六十六點零一六一六公克
+      （即以檢驗前之總淨重七百七十五點三二公克乘以純度百分之九十八點八），
+      有上開法務部調查局及內政部警政署刑事警察局鑑驗通知書各一紙可按，是依
+      鑑定人丁○○上開所述可使人體產生毒癮感覺之毒品劑量計算之：被告所販入
+      之第一級毒品海洛因所含之純質淨重可供被告施用五百二十七次，而第二級毒
+ 品安非他命所含之純質淨重則可供被告施用三萬八千三百零一次；若依英國醫
+      藥學會所統計之足致一般人死亡之毒品劑量計算之：被告所販入之第一級毒品
+      海洛因所含之純質淨重尚可供被告施用五十二點七次，而第二級毒品安非他命
+      所含之純質淨重則仍可供被告施用高達約三千八百三十次，顯見被告所販入之
+      第一、二級毒品數量，實已悖於一般施用者，通常為施用而所可能購入之數量
+      甚明。
+（２）至被告所辯：伊每天需施用毒品約十幾次，且因伊係以吸食煙氣方式施用，所
+      以每次吸用量需達一、兩錢云云（見偵卷第四十六頁背面筆錄、本院卷第一百
+      十九頁背面筆錄），惟依鑑定人丁○○上開所述，被告所辯其施用第一、二級
+      毒品之方式及劑量，已遠超過一般人可承受之劑量，縱使是耐受能力較強之成
+      癮者，亦應會有中毒症狀，被告此部分所辯顯與事實不符，況被告已於偵查中
+      供稱：伊每天都有施用毒品，然為警查獲當日則尚未施用任何毒品等語（見偵
+      查卷第四十七頁背面及第四十八頁筆錄），苟被告之毒癮果真如其所述如此之
+      深重，豈可能於時近中午時分，而當天仍未施用任何毒品？且被告於本案審理
+      過程中，亦均未曾出現中毒或不舒服現象，足見被告施用毒品之劑量，絕非如
+      其所稱之如此鉅量，益徵被告所販入之上開毒品應非單純供被告自己施用。
+（３）又查海洛因與安非他命均係物稀昂貴、容易受潮之物品，被告既無法在短期內
+      施用如此鉅量之海洛因與安非他命，其豈有可能單純僅為供己施用，即不惜斥
+      資一次購入如此大量之海洛因與安非他命，而甘冒毒品招致受潮耗損之風險。
+      況被告自承其係以向「日仔會」借款之方式，籌措購買上開毒品所需之鉅資，
+      而「日仔會」係按還款之速度計算每日之利息，此業據被告於本院審理時供承
+      明確，其並供稱：伊最快之還款速度為一天還二千元至三千元，若以三個月內
+      還清所借款項之速度計算，所需之利息約五、六千元至一萬多元不等（見本院
+      卷第一百二十頁筆錄），參以被告並無固定收入，又無恆財等情，苟其無利可
+      圖，豈有能力負擔如此高額之利息？其豈會單純僅因為供自己施用毒品之目的
+      ，即甘冒背負龐大債務之風險？是以被告購買上開毒品之目的應非單純供己施
+      用亦明。
+（４）再查被告於購得如此鉅量之毒品後，不僅未即將之攜往住處藏放，反將之攜往
+      「城市遊藝場」之公眾得出入之場所，而遊藝場等相類之場所因經常為施用毒
+      品者所聚集，是販毒者亦常於遊藝場內尋找交易之對象，故警方對於該等場所
+      亦查緝甚嚴，是以一般單純施用毒品者，因恐為警查獲其攜帶大量毒品，不但
+      將損失被查獲之大量毒品，甚且可能受涉犯販賣毒品等重罪之追訴，衡情應不
+      會攜帶如此大量之毒品至遊藝場內，本件被告亦為有施用毒品常習之人（參其
+      前案紀錄表），對此應知之甚稔，苟其僅為單純自己施用而不惜斥資一次購買
+      大量毒品，理應會即將所購得之毒品攜往安全處藏放，而非即將之攜往易為警
+      查獲之處所，參以證人丙○○於偵查中所證稱：伊認識照片中之人（經提示甲
+      ○○之照片予其辨認），但不熟，只知其綽號為黑貓華，不知其本名為何，因
+      伊曾在電玩店聽友人說此人叫黑貓華，其有販賣毒品之情事，但伊自己不曾向
+      伊購買過毒品等語（見偵查卷第九十二頁、第九十三頁筆錄）；及被告確曾於
+      八十六年間因意圖販賣而非法持有第二級毒品安非他命，經本院以八十六年度
+      訴字第一二八號判決判處有期徒刑三年五月確定（參前案紀錄表），堪認被告
+      於購買大量毒品即將之帶至疑有眾人施用毒品之處所，之初即有賣買之犯意，
+      否則豈會於購入後大量毒品後其販賣之意圖已至為鳵灼然。
+（５）末查，我國查緝海洛因及安非他命之施用或販賣一向執法甚嚴，對於販賣海洛
+      因及安非他命者尤科以重度刑責，且海洛因與安非他命均屬量微價高，販賣者
+      率有暴利可圖，茍非意圖販賣營利，一般人焉有可能甘冒重度刑責而販入大量
+      毒品之可能，是被告雖未販出毒品，其惟依前述之推論，應堪認定被告意圖販
+      賣而販入海洛因及安非他命毒品，當有意圖營利之犯意無訛。
+（四）綜上所述，被告不惜借貸斥資一次販入大量之第一級毒品海洛因及第二級毒品
+      安非他命，自係意圖為供販賣以營利而為。本件事證明確，被告所辯無非卸責
+      之詞，均不足採，其犯行洵堪認定，應依法論科。
+二、按海洛因屬毒品危害防制條例第二條第二項第一款所規定之第一級毒品；而安非
+    他命則為同條項第二款所規定之第二級毒品，均不得非法販賣。又所謂販賣毒品
+    罪，係指行為人明知其為毒品，而意圖販賣營利，將毒品購入或賣出，有一於此
+    ，不必二者兼備，其犯罪即屬完成，此與意圖販賣而持有毒品罪，係指行為人以
+    意圖販賣營利以外之原因而持有毒品，其後始起意營利販賣者（例如因為他人之
+    贈與或寄藏而持有，嗣後始起意為販賣者而言），並不相同。因此，所謂販賣毒
+    品者，並不以販入之後，復行賣出為必要條件，只要以營利為目的，將毒品購入
+    或賣出，有一於此，其犯罪即已經完成，故不論販入或賣出之行為，皆屬販賣行
+    為之一部分，最高法院八十八年度台上字第二三九八號、九十年度台上字第一二
+    ０四號、九十一年度台上字第一一四三號及九十二年台上字第二０四七號判決均
+    採同一見解。本案被告固矢口否認有何販賣第一級毒品海洛因與第二級毒品安非
+    他命之行為，且就上開查獲之海洛因與安非他命，雖亦無證據足資證明其已有對
+    外販售之具體行為，然被告既係為意圖營利（賺取價差、量差）而販入海洛因與
+    安非他命毒品，並伺機出售，已如前述，則核其所為，應係犯毒品危害防制條例
+    第四條第一項之販賣第一級毒品罪及同條第二項之販賣第二級毒品罪。公訴意旨
+    認應依同條例第五條第一項之意圖販賣而持有第一級毒品罪及同條例第五條第二
+    項之意圖販賣而持有第二級毒品罪處斷，容有未恰，惟起訴之基本社會事實同一
+    ，爰依法變更起訴法條審理之。被告持有第一級毒品海洛因與第二級毒品安非他
+    命之目的既在供己販賣之用，則其持有第一、二級毒品之低度行為應為販賣之高
+    度行為所吸收，不另論罪。又其基於販賣營利之目的，同時販入第一級毒品海洛
+    因與第二級毒品安非他命，係一行為觸犯構成要件相異之罪名，為異種想像競合
+    ，應從一重論以販賣第一級毒品罪。再查被告雖意圖販賣營利而販入第一、二級
+    毒品，惟甫經販入，即為警查獲，是其所購毒品既尚未販出，則其所涉販賣毒品
+    情節要非甚鉅，而毒品危害防制條例第四條第一項法定刑為死刑或無期徒刑，縱
+    處最低刑無期徒刑，猶嫌過重，情輕法重，爰依刑法第五十九條之規定，減輕其
+    刑。爰審酌毒品之危害至大，施用者不惟殘害自身，其因施用毒品而散盡家財連
+    累家人，或為買毒鋌而走險者，更不可勝計，故毒品所造成之社會問題尤大於施
+    用者本身所受之毒害，被告本身亦為施用毒品者，當知之甚稔，竟仍為謀個人私
+    利，販賣毒品使之蔓延，危害他人及社會甚鉅，暨考量其犯罪之手段、所販入之
+    數量，及其前已有多次違反麻醉藥品管理條例及肅清煙毒條例等犯罪前科紀錄（
+    參前案紀錄表），素行不佳，且犯後猶飾詞以辨之態度，惟其於販入後尚未及賣
+    出即被查獲等一切情狀，量處如主文所示之刑。至扣案之海洛因二十二包（其中
+    二十包合計淨重約三十三點二四公克；其餘二包合計淨重約十三點三０公克），
+    係屬第一級毒品；而扣案之安非他命三十六小包（驗餘總淨重約七百七十四點九
+    ０公克），係屬第二級毒品，均應依毒品危害防制條例第十八條第一項前段規定
+    諭知沒收銷燬之。至扣案之茶葉空禮盒一組，係供被告藏放上開安非他命毒品所
+    用之物，亦爰依同條例第十九條第一項之規定予以沒收。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段、第三百條，毒品危害防制條
+例第四條第一項、第二項、第十八條第一項前段、第十九條第一項，刑法第十一條、
+第五十五條、第五十九條，判決如主文。
+本案經檢察官乙○○到庭執行職務。
+中      華      民      國    九十二    年     十一     月    二十一    日
+                              臺灣彰化地方法院刑事第一庭
+                                      審判長法官  洪 志 賢
+                                      法      官  宋 恭 良
+                                      法      官  簡 璽 容
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內向本院提出上訴狀( 須附繕本 )。
+                                      法院書記官  王惠 嬌
+中      華      民      國    九十二    年     十一     月    二十六    日
+刑法第十一條
+持有第一級毒品者，處三年以下有期徒刑、拘役或新臺幣五萬元以下罰金。
+持有第二級毒品者，處二年以下有期徒刑、拘役或新臺幣三萬元以下罰金。
+持有專供製造或施用毒品之器具者，處一年以下有期徒刑、拘役或新臺幣一萬元以下
+罰金。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\judday\OK\LAWCHD\CRIMINAL\9211\25\CHDM92BP.010] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
+											筆 / 現在第9
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000971&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c971%2c20031121%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=971&jdate=921121&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c971%2c20031121%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=971&jdate=921121&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c971%2c20031121%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','971','921121','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="9"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

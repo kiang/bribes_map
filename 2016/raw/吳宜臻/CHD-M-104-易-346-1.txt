@@ -1,0 +1,547 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣彰化地方法院-刑-104易346</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣彰化地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e6%98%93&selectedCrmno=000346&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e6%98%93%2c346%2c20151029%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=346&jdate=1041029&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e6%98%93%2c346%2c20151029%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=346&jdate=1041029&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e6%98%93%2c346%2c20151029%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e6%98%93','346','1041029','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,易,346</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041029</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">竊盜</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣彰化地方法院刑事判決　　　　　　104年度審易字第376號
+　　　　　　　　　　　　　　　　　　　104年度易字第346號
+公　訴　人　臺灣彰化地方法院檢察署檢察官
+被　　　告　<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />
+上列被告因詐欺等案件，經檢察官提起公訴（104 年度偵字第28
+46號、第3039號、第3043號、第3070號、第3160號、第3289號、
+第4009號、第4010號、第4011號），及追加起訴（104 年度偵字
+第4459號、第4589號），本院依簡式審判程序，合併判決如下：
+    主  文
+<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯如附表罪名暨宣告刑欄所示之罪，各處如所示之刑。應
+執行有期徒刑捌月，如易科罰金，以新臺幣壹仟元折算壹日，並
+應於刑之執行前，令入相當處所施以禁戒陸月。
+    犯罪事實及理由
+一、犯罪事實：
+  (一)<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />意圖為自己不法之所有，分別為以下之行為：
+  1.於民國104 年2 月22日上午7 時至8 時許，至柯棟位於彰化
+    縣鹿港鎮○○巷00○0 號之住處房間內，本欲向柯棟商借金
+    錢，但柯棟熟睡，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />借錢未果，竟徒手竊取柯棟所有、
+    置放於桌上之摩托羅拉牌手機1 支（價值約新臺幣【下同】
+    500 元），得手後隨即離去。嗣於104 年2 月22日上午11時
+    25分許，員警至<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />位於彰化縣鹿港鎮○○巷00號之住處
+    查緝另起竊案，柯棟恰巧亦至該處欲向<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />索回遭竊之手
+    機，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />於員警得知上揭犯行前，即向員警坦承全情，自
+    首而接受裁判，且主動取出竊得之手機，因而循線查獲。
+  2.又於104 年2 月22日上午7 時許前之某時，在彰化縣鹿港鎮
+    ○○路0 段00巷00號前，徒手竊取吳育軒所有、由王來祝使
+    用中，鑰匙未拔起之車牌號碼000-000 號普通重型機車1 輛
+    （價值約1 萬8,000 元），供己代步使用。
+  3.再於104 年3 月1 日凌晨5 時許，在彰化縣鹿港鎮○○路0
+    段00號統一便利商店內，趁毛如貞在店內小憩、未及注意之
+    機會，徒手竊取毛如貞所有放置桌上之HTC 牌手機1 支（價
+    值約5,499 元），得手後隨即離去。嗣經員警調閱現場監視
+    器錄影畫面，始循線查獲，
+  4.另於104 年3 月3 日上午10時42分許，前往友人陳快彬位於
+    彰化縣彰化市○○路000 巷000 號之3 上班地點，欲向陳快
+    彬商借金錢，但陳快彬並未答應，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />竟在前揭地點，徒
+    手竊取陳快彬之雇主廖科溢所有、放置於神明桌上之紅包袋
+    5 個（每個紅包內均放有現金200 元），得手後隨即逃逸。
+    嗣經廖科溢報警，員警調閱現場監視器錄影畫面，因而循線
+    查獲。
+  5.又於104 年3 月5 日凌晨4 時許，在彰化縣鹿港鎮○○路0
+    段00巷00弄00號前，徒手竊取黃麗琴所使用，鑰匙未拔起之
+    車牌號碼000-000 號普通重型機車1 輛（價值約1 萬元），
+    供己代步使用。
+  6.再於104 年3 月5 日凌晨5 時30分許，在彰化縣鹿港鎮○○
+    巷000 號前空地，徒手竊取張勝江所有之鳥籠1 個（內有文
+    鳥1 隻、鸚鵡6 隻，價值合計約2,300 元），得手後隨即離
+    去。嗣經員警調閱現場監視器，因而查獲。
+  7.另於104 年3 月8 日凌晨2 時55分許，在彰化縣鹿港鎮鹿和
+    路4 段155 巷68弄底，徒手竊取郭建志所有，鑰匙未拔起之
+    車牌號碼00-0000 號自用小貨車1 輛（價值約10萬元），供
+    己代步使用。嗣經員警調閱現場監視器錄影畫面，始循線查
+    獲。
+  8.於104 年3 月13日上午11時許，在彰化縣彰化市○○路00號
+    前，徒手竊取鍾銀鄉所有、鑰匙未拔起之車牌號碼000-000
+    號普通重型機車1 輛（價值約6 萬元），供己代步使用。嗣
+    經員警調閱現場監視器畫面，因而查獲。
+  9.又於104 年3 月20日下午2 時24分許，在彰化縣鹿港鎮○○
+    路0 段00號統一便利商店內，趁店員<font color='red'>吳宜臻</font>未注意之機會，
+    徒手竊取擺放在貨架上之威士忌酒1 瓶（價值265 元），得
+    手後隨即離去。嗣經員警調閱現場監視器錄影畫面，因而循
+    線查獲。
+  10.於104 年3 月24日晚間8 時31分許，徒手進入郭建志所有，
+    未上鎖且停放在彰化縣鹿港鎮○○路0 段000 巷00弄00號旁
+    之車牌號碼00-0000 號自用小貨車內，竊取郭建志放置於車
+    上之瑞士刀1 把（價值約2,000 元），得手後隨即離去。嗣
+    經員警調閱現場監視器錄影畫面，始循線查獲。
+  11.另於104 年3 月25日凌晨3 時30分許，在彰化縣鹿港鎮○○
+    巷00○0 號後方，徒手竊取鐘鍊所有，未上鎖且鑰匙未拔起
+    之車牌號碼0000-00 號自用小貨車1 輛（價值約20萬元），
+    供己代步使用。嗣經員警調閱現場監視器畫面因而查獲。
+  12.又於104 年3 月12日上午某時許，在彰化縣鹿港鎮頂番里○
+    ○巷00○0 號前，徒手竊取柯明緯所有之腳踏車1 輛（價值
+    約3,500 元），供己代步使用。嗣經員警調閱現場監視器畫
+    面，因而循線查獲。
+  13.再104 年3月23日晚間9 時許，在位於彰化縣鹿鎮○○路000
+    巷0 號之「山野快炒店」店內，趁黃正利如廁未及注意之機
+    會，徒手竊取黃正利所有、放置於餐桌上之黑色手機1 支（
+    價值約5,000 元），得手後隨即離去。嗣於翌日（24日）上
+    午6 時50分許，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />因酒精性中毒，路倒在彰化縣鹿港鎮
+    中山路與民權路路口，經員警至現場處理，且撥打前揭手機
+    欲通知<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />之家人，始知上情。
+  (二)<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />明知自己無支付車資之能力與意願，竟意圖為自己不
+    法之所有，基於詐欺之犯意，於104 年3 月18日凌晨1 時6
+    分許，在臺中市○區○○路00號前，攔停黃耀霆所駕駛之車
+    牌號碼000-00號計程車，黃耀霆不疑有他，即依<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />之指
+    示，將其載往彰化縣○○路0 段000 號，於行車途中<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />
+    又改要求黃耀霆將其載往彰化縣鹿港鎮○○巷000 號。嗣黃
+    耀霆於同日凌晨1 時45分許，將<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />載至彰化縣鹿港鎮○
+    ○巷000 號前之目的地，向<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />要求給付車資900 元，<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />
+    豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />因無法給付車資，乃向黃耀霆佯稱：身上沒錢，需向姑
+    姑「溫免足」（音同）借錢給付車資等語，黃耀霆遂又依<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />
+    豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />指示，將車開往彰化縣鹿港鎮○○路000 巷00號前，然
+    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />下車後以腳踹該住宅大門數次均無人回應後，復又向
+    黃耀霆表示欲上廁所，黃耀霆始知受騙，隨即報警處理。<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />
+    豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />即以此方式，向黃耀霆詐得相當於計程車車資之利益。
+  (三)溫豐瑜於104 年3 月24日下午5 時23分許，行經彰化縣鹿港
+    鎮○○路0 段00號前，見兒童王○騰（95年3 月生，真實姓
+    名年籍詳卷）迎面走來，竟基於傷害兒童之犯意，以腳踹王
+    ○騰之身體，致王○騰受有會陰部挫傷之傷害。嗣因王○騰
+    及其父王○元提出傷害之告訴，經員警調閱現場監視器錄影
+    畫面，始循線查獲。
+二、前揭犯罪事實，業據被告<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />迭於偵查及本院審理時坦承
+    不諱（關於犯罪事實(二)部分，於本院審理時始承認），核與
+    證人即被害人柯棟、王來祝、毛如貞、廖科溢、黃麗琴、張
+    勝江、郭建志、鍾銀鄉、<font color='red'>吳宜臻</font>、鐘鍊、黃耀霆、王○騰、
+    柯明緯、黃正利，及證人陳快彬、劉協儒於警詢時所證述之
+    情節相符，復有現場監視器錄影畫面翻攝之照片、竊盜案現
+    場照片、贓物認領保管單、內政部警政署刑事警察局104 年
+    3 月16日刑紋字第0000000000號鑑定書（關於被害人王來祝
+    遭竊之機車之左後視鏡面上，所採集之指紋，與被告左拇指
+    之指紋相符）、彰化基督教醫療財團法人鹿港基督教醫院診
+    斷書在卷可資佐證，足見被告前揭任意性之自白與事實相符
+    。又被告經本院囑託彰化基督教醫療財團法人彰化基督教醫
+    院進行精神鑑定，該院精神科醫師經過晤談，綜合家庭評估
+    、行為史、病史、治療史、身體狀況及心理衡鑑後，認為被
+    告雖於行為時，有生理原因憂鬱疾患與酒精使用病患存在，
+    但此一生理原因，並未導致被告辨識其行為違法或依其辨識
+    而行為之能力顯著降低或喪失等情，有該院出具之精神鑑定
+    報告書（精鑑字第0000000000號，見本院審易卷第82頁至第
+    85頁），本院考量被告並無明顯之幻想、幻覺存在，在開庭
+    之應答過程中，亦無任何答非所為或異於常人之明顯舉動，
+    尚難依刑法第19條之規定，減免罪責。從而，本件事證明確
+    ，應依法論科。
+三、論罪科刑：
+  (一)核被告如犯罪事實一(一)部分所示之13次所為，均係犯刑法第
+    320 條第1 項之竊盜既遂罪。起訴書雖然認為被告就犯罪事
+    實部分一(一)1.、4.所示所為，均係犯刑法第321 條第1 項第
+    1 款之侵入住宅竊盜罪，但依據證人即被害人柯棟所證述之
+    內容，被告確實是基於向柯棟商借金錢之目的，而進入友人
+    柯棟之住處內，被告因借錢未果，始起意行竊，難認其無故
+    侵入柯棟之住宅；另就被害人廖科溢部分，依據證人廖科溢
+    及陳快彬於警詢中證述之內容，及現場監視器錄影畫面顯示
+    ，被告前往廖科溢之住處，係向陳快彬商借金錢，因借貸未
+    果，使另行起意行竊，亦難認被告自始即基於行竊之目的，
+    未經廖科溢之同意，而侵入入內，於此，均並不該當前述加
+    重竊盜罪之不法構成要件，公訴人於本院審理時，亦更正起
+    訴法條為普通竊盜罪，基於檢察一體，本案並無變更起訴法
+    條之問題，在此一併指明。被告如犯罪事實一(二)部分所示所
+    為，係犯刑法第339 條第2 項之詐欺得利罪。被告如犯罪事
+    實一(三)部分所示所為，係犯兒童及少年福利與權益保障法第
+    112 條第1 項前段、刑法第277 條第1 項之成年人故意對兒
+    童犯傷害罪，應依法加重其刑。起訴書僅記載被告此部分所
+    為，係犯刑法第277 條第1 項之普通傷害罪，尚有未恰，而
+    此為刑法分則之加重，且基本社會事實同一，應依法變更起
+    訴法條。又被告所犯前揭各罪，犯意不同、行為互異，應分
+    論併罰之。
+  (二)另被告前於97年間，因竊盜等案件，分別經本院判處應執行
+    有期徒刑6 月確定、有期徒刑8 月確定、有期徒刑3 月確定
+    ，嗣經本院裁定定應執行有期徒刑1 年4 月確定；另因竊盜
+    案件，經臺灣臺中地方法院判處有期徒刑10月，嗣經臺灣高
+    等法院臺中分院判決駁回上訴而確定；又因公共危險案件，
+    分別經本院判處有期徒刑4 月確定、3 月確定，上開3 案再
+    由本院裁定應執行有期徒刑1 年4 月確定，並與前開有期徒
+    刑1 年4 月部分，接續執行，而於99年7 月7 日縮短刑期假
+    釋出監並付保護管束，迄於100 年2 月3 日期滿未經撤銷假
+    釋，而以已執行論等情，有臺灣高等法院被告前案紀錄表附
+    卷可稽，其受徒刑之執行完畢，5 年以內故意再犯本案有期
+    徒刑以上之罪，為累犯，應依法加重其刑，且關於犯罪事實
+    一(三)故意對兒童犯傷害罪部分，則應依法遞加重之。另被告
+    如犯罪事實一(一)1.所示之竊盜犯行，於犯罪後未被有偵查犯
+    罪職權之機關或公務員發覺前，即主動向員警供承全情，且
+    交付竊得之手機，自首而接受裁判等情，業據其於警詢供陳
+    明確（參警詢筆錄），且經證人即被害人柯棟於警詢證述明
+    確，可認被告已生悔悟之心，經裁量後，乃依刑法第62條前
+    段之規定減輕其刑，併依法先加（即前述累犯之加重）後減
+    之。
+  (三)爰審酌被告之前曾有多次竊盜之前科，竟又再犯本案，此一
+    法敵對意思的高度展現，自應在量刑予以充分評價，但被告
+    所行竊物品之價值非高，其所偷竊之交通工具，也是供自己
+    代步使用，並非將之轉賣，獲取更大的利潤，而被告雖然沒
+    有能力與被害人達成和解，賠償渠等損失，但被害人柯棟、
+    毛如貞、黃正利已經取回失竊之手機、被害人王來祝、黃麗
+    琴（機車車牌尚未尋獲）、鍾銀鄉亦已取回失竊之機車，被
+    害人張勝江僅取回失竊之鳥籠、被害人郭建志、鐘鍊另已經
+    取回失竊之汽車、被告也已經返還廖科溢200 元、被害人柯
+    明緯已經取回失竊之腳踏車，且於警詢表示願意原諒被告之
+    意見，可見被害人之損害，已經獲得相當之填補，另依據前
+    述精神鑑定報告書所示，被告經過精神科醫師專業評估後，
+    推斷其有憂鬱症、酒精使用疾患，另依彰化縣政府104 年6
+    月12日府社身福字第0000000000號函所示（見本院審易卷第
+    55頁），被告雖非列冊之中低收入戶，但其為輕度身心障礙
+    者，每月申領補助3,500 元，此一身體與精神狀況，自應在
+    量刑予以充分考慮，且被告於精神鑑定時自述其家境貧寒，
+    其母於被告就讀國小四年級時，因病過世，其父賭博且於酒
+    後施暴，可見其成長過程並未獲得家庭溫暖，此成長背景，
+    值得同情，再依法務部矯正署臺中監獄104 年6 月11日中監
+    教字第00000000000 號函所檢附被告於97年9 月12日至99年
+    7 月7 日假釋之教誨紀錄表及行狀紀錄表顯示（見本院審易
+    卷第57頁至第64頁），被告在獄中表示良好，其家人並無接
+    見紀錄，但被告未入監服刑前，曾偷偷去看2 個女兒，教誨
+    師因而勸諭被告：「孩子要的不是成功的父親，而是正常的
+    爸爸」，這種父親對女兒憐愛的親情，對被告而言卻是奢望
+    ，造成人生莫大的遺憾，而被害人毛如貞、王來祝於警詢表
+    示不願意追究之意見；被害人廖科溢、鐘鍊、鍾銀鄉表示已
+    經跟被告達成和解，且不願意追究之意見、被害人郭建志則
+    表示不願意原諒被告，希望能夠從重量刑、被害人張勝江表
+    示願意原諒被告之意見、被害人黃耀霆表示希望本院從重量
+    刑，不願意原諒或與被告調解之意見（見本院審易卷第44頁
+    、第46頁、第49頁、第50頁、第53頁之被害人意見調查表）
+    ，被告自述：我是從事資源回收，現在監所執行中，所以無
+    法賠償給被害人，我的父母都已經過世，目前我獨自一人生
+    活，2 個小孩都被太太接走，我沒有臉去面對她們，我會偷
+    東西，是因為沒有錢吃飯，因為我有糖尿病，找不到工作等
+    語之家庭生活狀況，另斟酌本案各次竊盜行為之犯罪情節差
+    異不大，而被告故意傷害被害人王○騰，除造成其身體受有
+    傷害外，對其心理亦造成一定程度之威脅，此點，亦應在量
+    刑予以充分考量等一切情狀，分別量處如附表罪名暨宣告刑
+    欄所示之刑，且均諭知易科罰金之折算標準。
+  (四)又刑法第50條、第51條並未明文規定在個案中應該如何量定
+    應執行之刑，對此，本院認為數罪併罰案件定應執行刑之目
+    的在於「罪責原則」及「特別預防」之考量，刑罰之一般預
+    防功能，將使行為人淪為「警惕世人」的工具（手段），侵
+    害人性尊嚴（刑罰的一般預防功能在於立法者所設定的法定
+    刑的本身），不應該在量刑或定應執行刑予以考慮，而經過
+    此一特別之量刑程序，方能充分反應各行為整體之不法內涵
+    ，進而進行充分且不過度的罪責評價，尤其是各宣告刑對於
+    行為人的刑罰意義，也應該充分考量行為人本身的人格特性
+    及刑罰經濟原則，過重的刑罰反而無法達到教化之目的，更
+    有可能違反比例原則。此外，本院亦認刑法第57條所規定之
+    各款量刑事由，就同一事由在定應執行之刑時予以再次評價
+    ，並不違反「雙重評價禁止」，主要的理由在於兩者的制度
+    目的不同，在決定宣告刑時，法院應該考量宣告刑之處遇是
+    否合乎罪責原則與特別預防功能，在罪責框架基礎內決定具
+    體刑度，但在決定應執行刑時，則是出於整體刑罰執行的考
+    量，行為人的人格罪責，已經在各罪宣告刑累加的上限下，
+    作為得減輕應執行之刑之事由，尤其是行為人所犯數罪的犯
+    罪特質，總和的累加觀察，更可以充分反應行為人的主觀法
+    敵對意思，以及法益侵害的總體威脅程度。因而斟酌本案被
+    告所犯如犯罪事實一(一)所示13次犯行，均屬竊盜罪，犯罪時
+    間都在104 年2 月～3 月間，時間差異不大、犯罪手法雷同
+    ，而被告所犯如犯罪事實一(二)所示之詐欺得利罪，與前揭竊
+    盜犯行，同屬財產性犯罪，然被告所犯如犯罪事實一(三)部分
+    ，則屬傷害罪，核與前述各罪差異較大，本院另考量被告於
+    犯罪後坦承全部犯行，態度良好，可見其已有悔悟之心，被
+    告所行竊之物，價值非高，各該交通工具，被告也是作為代
+    步使用，並未將之轉賣，且被害人也已經取回失竊之交通工
+    具，此些竊盜犯行雖多，但對於法益侵害之總體威脅程度，
+    尚非重大，另又參以被害人前述意見、被告之身體及家庭生
+    活狀況、公訴人求處應執行有期徒刑1 年6 月，尚屬過重等
+    一切情狀，定應執行之刑如主文所示，且諭知易科罰金之折
+    算標準，以資懲儆。
+四、關於保安處分
+  (一)末按因酗酒而犯罪，足認其已酗酒成癮並有再犯之虞者，得
+    於刑之執行前，令入相當處所，施以禁戒，刑法第89條定有
+    明文。又保安處分之宣告，應受比例原則之規範，使保安處
+    分之宣告與行為人所為之嚴重性、行為人所表現之危險性，
+    及對於行為人未來行為之期待性相當（司法院大法官釋字第
+    471 號解釋）。
+  (二)經查：依據前揭精神鑑定報告書所示，被告經鑑定後，確實
+    為酒精依賴患者，其問題處理能力，不足以幫助其面對家庭
+    與工作等議題，因此鑑定之醫師建議安排被告接受強制戒癮
+    治療以改善情緒管理方式，增進衝動控制力等節，而被告又
+    再犯本件犯罪事實一(一)9.所示之竊取酒類犯行，且曾因酒醉
+    路倒，佐以被告之前亦有多次酒後駕車觸犯公共危險罪之前
+    科紀錄，足認被告確有酗酒成癮而犯罪，且有再犯之虞之情
+    形，對此，被告於本院審理時亦表示願意接受酒癮治療，因
+    此，本院認為，倘不加以治療促其戒除酒癮，縱再施以刑罰
+    ，亦難免日後再犯之可能，是本案被告有施以禁戒處分之必
+    要，爰依刑法第89條之規定，併諭知被告應於刑之執行前，
+    應入相當處所施以禁戒處分6 月。
+據上論斷，依刑事訴訟法第273 條之1 第1 項、第299 條第1 項
+前段，兒童及少年福利與權益保障法第112 條第1 項前段，刑法
+第320 條第1 項、第339 條第2 項、第277 條第1 項、第47條第
+1 項、第62條前段、第51條第5 款、第41條第1 項前段、第89條
+，刑法施行法第1 條之1 ，判決如主文。
+本案經檢察官陳建佑到庭執行職務。
+中    華    民    國   104    年    10    月    29    日
+                  刑事第五庭      法  官  陳德池
+以上正本證明與原本無異。
+如不服本判決應於收受判決後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
+逕送上級法院」。
+告訴人或被害人對於判決如有不服具備理由請求檢察官上訴者，
+其上訴期間之計算係以檢察官收受判決正本之日期為準。
+中    華    民    國   104    年    10    月    29    日
+                                  書記官  李曉君
+附表
+┌──┬────┬───────────────────┬────┐
+│編號│犯罪事實│主文暨宣告刑                          │備註    │
+├──┼────┼───────────────────┼────┤
+│1   │(一)1.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑貳月，│符合自首│
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│2   │(一)2.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│3   │(一)3.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│4   │(一)4.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│5   │(一)5.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│6   │(一)6.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│7   │(一)7.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│8   │(一)8.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│9   │(一)9.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│10  │(一)10.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│11  │(一)11.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│        │
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│12  │(一)12.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│追加起訴│
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│13  │(一)13.    │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯竊盜罪，累犯，處有期徒刑參月，│追加起訴│
+│    │        │如易科罰金，以新臺幣壹仟元折算壹日。  │        │
+├──┼────┼───────────────────┼────┤
+│14  │(二)      │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />成年人故意對兒童犯傷害罪，累犯，│        │
+│    │        │處有期徒刑肆月，如易科罰金，以新臺幣壹│        │
+│    │        │仟元折算壹日。                        │        │
+├──┼────┼───────────────────┼────┤
+│15  │(三)      │<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E8E02A0A00000040.GIF" />豐<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100EBC32A0A00000040.GIF" />犯詐欺得利罪，累犯，處有期徒刑參│        │
+│    │        │月，如易科罰金，以新臺幣壹仟元折算壹日│        │
+│    │        │。                                    │        │
+└──┴────┴───────────────────┴────┘
+附錄論罪科刑法條全文：
+中華民國刑法第320 條
+意圖為自己或第三人不法之所有，而竊取他人之動產者，為竊盜
+罪，處 5  年以下有期徒刑、拘役或 5 百元以下罰金。
+意圖為自己或第三人不法之利益，而竊佔他人之不動產者，依前
+項之規定處斷。
+前二項之未遂犯罰之。
+中華民國刑法第339 條
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
+物交付者，處5 年以下有期徒刑、拘役或科或併科50萬元以下罰
+金。
+以前項方法得財產上不法之利益或使第三人得之者，亦同。
+前二項之未遂犯罰之。
+中華民國刑法第277 條
+傷害人之身體或健康者，處3 年以下有期徒刑、拘役或1 千元以
+下罰金。
+犯前項之罪因而致人於死者，處無期徒刑或7 年以上有期徒刑；
+致重傷者，處3 年以上10年以下有期徒刑。
+兒童及少年福利與權益保障法第112 條
+成年人教唆、幫助或利用兒童及少年犯罪或與之共同實施犯罪或
+故意對其犯罪者，加重其刑至二分之一。但各該罪就被害人係兒
+童及少年已定有特別處罰規定者，從其規定。
+對於兒童及少年犯罪者，主管機關得獨立告訴。</pre>
+<!-- 原因：[兒童及少年福利與權益保障法] -->
+<!-- 檔名：[D:\jupload\upload\NOK\LAWCHD\CRIMINAL\10410\29\CHDM104AT.00Y] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e6%98%93&selectedCrmno=000346&selectedCrtid=CHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e5%ae%9c%e8%87%bb&sdate=&edate=&page=&searchkw=%e5%90%b3%e5%ae%9c%e8%87%bb&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e6%98%93%2c346%2c20151029%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=346&jdate=1041029&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e6%98%93%2c346%2c20151029%2c1&v_court=CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=346&jdate=1041029&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e6%98%93%2c346%2c20151029%2c1','CHD+%e8%87%ba%e7%81%a3%e5%bd%b0%e5%8c%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e6%98%93','346','1041029','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CHD 臺灣彰化地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳宜臻">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳宜臻">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

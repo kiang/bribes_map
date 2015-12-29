@@ -1,0 +1,417 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣臺南地方法院-刑-104易86</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e6%98%93&selectedCrmno=000086&selectedCrtid=TND','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e6%98%93%2c86%2c20150807%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=86&jdate=1040807&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e6%98%93%2c86%2c20150807%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=86&jdate=1040807&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e6%98%93%2c86%2c20150807%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e6%98%93','86','1040807','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,易,86</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040807</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害名譽</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　 104年度易字第86號
+公　訴　人　臺灣臺南地方法院檢察署檢察官
+被　　　告　莊榮乾
+　　　　　　杜連榮
+　　　　　　鄭清吉
+上列被告因妨害名譽案件，經檢察官提起公訴（103年度偵續字
+第108號），本院判決如下：
+    主  文
+莊榮乾共同犯散布文字誹謗罪，處拘役肆拾伍日，如易科罰金，
+以新臺幣壹仟元折算壹日。扣案之海報參張沒收。
+杜連榮共同犯散布文字誹謗罪，處拘役貳拾日，如易科罰金，以
+新臺幣壹仟元折算壹日；緩刑貳年。扣案之海報參張沒收。
+鄭清吉共同犯散布文字誹謗罪，處拘役參拾日，如易科罰金，以
+新臺幣壹仟元折算壹日。扣案之海報參張沒收。
+    事  實
+一、莊榮乾與陳榮傑係同母異父兄弟，二人因扶養照顧母親陳朱
+    禾（已於民國103年3月26日過世）事宜及莊榮乾不滿陳榮傑
+    之父所留遺產均為陳榮傑所繼承，素來相處不睦，莊榮乾先
+    於102年9月16日委託正達廣告公司製作載有「含淚泣訴、不
+    孝子陳榮傑代書、不孝惡媳<font color='red'>黃玉燕</font>、30幾年來棄養、親生母
+    親陳朱禾、為富不仁、不孝、不義、喪盡天良、本人現年98
+    歲、因『急性呼吸衰竭』，緊急住進加護病房、醫院發出病
+    危通知、不孝子、媳、不理不睬、泯滅人性，天地不容。敬
+    請各位鄉親主持公道」等文字之海報（下稱本件海報），張
+    貼在車牌號碼00-0000號自小貨車（下稱YX-4036號自小貨車
+    ）之宣傳車廂上後，莊榮乾即與正達廣告公司之員工杜連榮
+    及莊榮乾之友人鄭清吉基於誹謗之犯意聯絡，自同年月20日
+    10時起，由杜連榮駕駛YX-4036號自小貨車， 並經所搭載而
+    受莊榮乾委請隨車帶路之鄭清吉之指引，從臺南市佳里區延
+    平路中山公園出發而在臺南市佳里區街道沿街行駛，並同時
+    以該自小貨車之擴音器沿路播放隨身碟所存錄之以閩南語敘
+    述之「陳朱禾老太太今年已經九十八歲，家門不幸，生了孽
+    子陳榮傑，娶了不孝媳婦<font color='red'>黃玉燕</font>。他們二人，三十年來，沒
+    有盡到做人的兒子跟媳婦的責任，不但不曾奉養父母，甚至
+    說話忤逆，說他是沒爸沒母的孤兒。要給他養，說叫陳朱禾
+    老太太去告。陳榮傑，陳朱禾是你的親生老母耶！今天就算
+    陳朱禾是乞丐跟你乞討，你也不應該這樣，真的是天地不容
+    。現在陳朱禾老太太，因為生病嚴重，住在加護病房，醫院
+    已經發出病危通知，你不但沒有回報養育之恩，更加是不理
+    不睬，痛心之下，只好撕破妳們兩個人的真面目，希望各位
+    鄉親可以為陳朱禾老太太主持公道」等內容（下稱本件廣播
+    ），散布上開貶抑陳榮傑之人格及社會評價，而足以毀損陳
+    榮傑名譽之事。嗣至同日12時30分許，陳榮傑經友人楊明賢
+    告知有宣傳車沿街散播上開誹謗陳榮傑之言論，遂立即報警
+    處理， 方為警於同日13時3分許在臺南市佳里區和平路與信
+    義二街交岔路口當場攔獲， 並扣得前開張貼在YX-4036號自
+    小貨車宣傳車廂上而為莊榮乾所有之本件海報3張， 以及供
+    本件廣播使用之隨身碟1個。
+二、案經陳榮傑訴由臺南政府警察局佳里分局報請臺灣臺南地方
+    法院檢察署檢察官偵查起訴。
+    理  由
+一、按被告以外之人於偵查中向檢察官所為之陳述，除顯有不可
+    信之情況者外，得為證據， 刑事訴訟法第159條之1第2項定
+    有明文，楊明賢於偵訊中之具結陳述，係被告莊榮乾、杜連
+    榮、鄭清吉以外之人於偵查中向檢察官所為之陳述，且均未
+    見有何顯不可信之情況，依上開規定，得為證據；次按被告
+    以外之人於審判外之陳述，雖不符刑事訴訟法第159條之1至
+    之4之規定，然經當事人於審判程序同意作為證據， 或於法
+    院調查證據時，知有同法第159條第1項不得為證據之情，而
+    未於言詞辯論終結前聲明異議而視為同意者，法院審酌該言
+    詞陳述或書面陳述作成時之情況，認為適當者，亦得為證據
+    ，同法第159條之5第1項、第2項定有明文，陳榮傑於司法警
+    察調查中及偵訊中之陳述，以及本判決下列所引用之各項非
+    供述證據，檢察官及被告三人於本院調查證據時，均知曉為
+    審判外之言詞及書面陳述，然均至言詞辯論終結前均未聲明
+    異議，本院審酌各該證據作成之客觀環境及條件，均無違法
+    或不當取證或其他顯不可信之情形，作為證據使用皆屬適當
+    ，依刑事訴訟法第159條之5之規定，均有證據能力。
+二、訊據被告杜連榮對於上揭事實坦承不諱，被告莊榮乾、鄭清
+    吉對於被告莊榮乾曾於102年9月16日委託正達廣告公司製作
+    本件海報，張貼在YX-4036號自小貨車之宣傳車廂上後， 自
+    同年月20日10時起， 由被告杜連榮駕駛YX-4036號自小貨車
+    ，並經由所搭載而受被告莊榮乾委請隨車帶路之被告鄭清吉
+    之指引，從臺南市佳里區延平路中山公園出發而在臺南市佳
+    里區街道沿街行駛，並同時以該自小貨車之擴音器沿路播放
+    本件廣播等情，固均為坦認，惟渠二人均矢口否認犯行，被
+    告莊榮乾辯稱：因為告訴人都不來探望已在加護病房之母親
+    （下稱告訴人之母），告訴人之母傷心而叫我僱請一台宣傳
+    車去宣傳告訴人沒有孝心，用意是要叫告訴人來探望告訴人
+    之母，我並無誹謗告訴人之意云云，被告鄭清吉則以：我只
+    是單純受託帶路云云置辯。經查：
+  (一)被告三人前揭均坦認之部分，核與告訴人於司法警察調查中
+    、偵訊中之陳述及證人楊明賢於偵訊中之證述情節相符，並
+    有如附表所示之非供述證據可憑，此部事實堪可認定。
+  (二)本件海報及本件廣播之內容，均係被告莊榮乾出面委託製作
+    ，亦係被告莊榮乾承租宣傳車張貼本件海報，對外進行宣傳
+    並播放本件廣播，有附表所示正達廣告公司合約報價表及同
+    公司宣傳車出勤卡各1份可稽， 且依本件海報及本件廣播之
+    意旨，雖有述及告訴人之母入住加護病房而告訴人不孝、不
+    予理睬之語，但通篇內容既未見有何顯示本件海報及本件廣
+    播係出於告訴人之母授意所為，亦無任何言及希望或要求告
+    訴人至醫院探望告訴人之母之字語，則被告莊榮乾辯稱係告
+    訴人之母為使告訴人前去醫院進行探望，方指示被告莊榮乾
+    僱請宣傳車宣傳本件海報及進行本件廣播云云，並無可採。
+  (三)按刑法第310條所稱誹謗罪， 係以意圖散布於眾，而指摘或
+    傳述足以毀損他人名譽之事，為其成立要件，行為人所指摘
+    或傳述之事是否「足以毀損他人名譽」，應就被指述人之個
+    人條件以及指摘或傳述內容，以一般人之社會通念為客觀之
+    判斷，如行為人所指摘或傳述之具體事實，足以使被指述人
+    受到社會一般人負面評價判斷，則可認為足以損害被指述人
+    之名譽；另按散布之文字倘依遣詞用字、運句語法整體以觀
+    ，或依其文詞內容所引發之適度聯想，以客觀社會通念價值
+    判斷，如足以使人產生懷疑或足以毀損或貶抑被害人之人格
+    聲譽，或造成毀損之可能或危險者，即屬該條所處罰之誹謗
+    行為。再者對於所誹謗之事，能證明其為真實者，不罰，但
+    涉及私德而與公共利益無關者，不在此限，刑法第310條第3
+    項定有明文，故必以所誹謗之事，能證明係為真實，且與公
+    共利益有關而非僅涉及私德者，方可不罰，又該項但書所謂
+    「公共利益」，乃指有關社會多數人之利益之事實，即所謂
+    公益之事實，至於所謂「私德」，則指個人私生活領域範圍
+    內，與人品、道德、修養等相關之價值評斷事項而言，故是
+    否僅涉及私德與公益無關，應就被害人之職業、身分或社會
+    地位，依一般健全之社會觀念，就社會共同生活規範，客觀
+    觀察是否有足以造成不利益於大眾之損害以定之。經查：
+    (1)張貼在YX -4036號自小貨車之宣傳車廂而沿街行駛宣傳之
+      本件海報，以及經同車擴音器而同時沿路播放之本件廣播
+      ，使用諸如「為富不仁」、「不孝」、「不義」、「喪盡
+      天良」、「泯滅人性」、「天地不容」及指稱告訴人「30
+      幾年來棄養」、「孽子」等人身攻擊之字句，而對公眾具
+      體傳播指摘告訴人未奉養告訴人之母，以及對於告訴人之
+      母病危入住加護病房之情未予理睬等負面評價意涵之內容
+      ，業足使觀覽宣傳或聽聞廣播之不特定人依上開文詞內容
+      所引發之適度聯想，而對告訴人產生其有高度違反孝道而
+      毫無人性、喪失道德倫理之負面印象，導致告訴人之人格
+      聲譽在社會上受到相當不道德非議之負面評價，破壞告訴
+      人之社會形象而損及告訴人之名譽，衡與刑法所指之誹謗
+      行為相當。
+    (2)又告訴人與其子自98年3月27日至102年9月14日， 係有陸
+      續匯款予告訴人之母共計22萬6千元之情， 為臺灣高等法
+      院臺南分院103年度家上易字第5號民事判決所審認（見10
+      4 年度審易字第15號卷第36至43頁），則本件海報所載告
+      訴人棄養告訴人之母30幾年，以及本件廣播所稱告訴人30
+      年來不曾奉養告訴人之母等語，已與真實不盡相符，更況
+      告訴人係從事代書職業，且縱有如被告莊榮乾所言，告訴
+      人尚兼地方宮廟副主委身分，然其既非從事公共事務，亦
+      非公眾人物，而本件海報及本件廣播無非指摘告訴人未善
+      盡孝養照護之責，此僅涉於個人私德及個人私生活領域之
+      家庭事務，無關於社會多數人之利益，並不足以造成不利
+      益於大眾之損害，自與公共利益無關，而無刑法第310 條
+      第3 項所指不罰規定之適用。
+    (3)綜上所述，被告莊榮乾就其所委託製作之本件海報及本件
+      廣播，而被告杜連榮、鄭清吉由本件海報所載文字及聽聞
+      本件廣播之傳放，應均知內容係為足以毀損告訴人名譽之
+      事，且經由宣傳車沿街行駛並廣播宣傳，勢必造成對外散
+      布之後果， 惟被告莊榮乾仍發出將本件海報張貼在YX-40
+      36號自小貨車宣傳車廂進行對外宣傳並播放本件廣播之指
+      示，並由被告杜連榮駕駛該車，搭載受被告莊榮乾委請隨
+      車帶路之被告鄭清吉之指引，執行沿街行駛宣傳本件海報
+      ，以及由同車擴音器同時沿路播放本件廣播之散布作業，
+      藉以將本件海報及本件廣播所指足以毀損告訴人名譽之內
+      容廣為宣傳而散布周知，則被告三人實行誹謗之犯意及作
+      為，應認彰顯，被告莊榮乾、鄭清吉所辯云云，無非事後
+      卸責之詞，無可為採，事證明確，被告三人之犯行均洵堪
+      認定。
+三、論罪科刑部分：
+  (一)核被告三人所為，均犯刑法第310條第2項之散布文字誹謗罪
+    。又散布本件海報所載文字，同時輔以本件廣播而併為誹謗
+    犯行，則以本件廣播而為誹謗之部分，應為散布文字而為誹
+    謗之高度行為所吸收，不另論罪。被告三人就上開犯行，有
+    犯意聯絡及行為分擔，應為共同正犯。再被告杜連榮為本件
+    犯行時，已年滿80歲，依刑法第18條第3項規定減輕其刑。
+  (二)爰審酌被告莊榮乾因照養告訴人母親及告訴人之父之遺產繼
+    承情事，與告訴人向來不睦，惟其縱就此有所不滿，竟未思
+    以適當方式抒發己見，卻係策畫散布足以毀損告訴人名譽之
+    事，而被告杜連榮、鄭清吉竟參與而執行宣傳廣播之散布作
+    業，且所採以宣傳車沿街宣傳海報及撥放廣播之方式進行誹
+    謗，散布之效果及範圍更強更廣，致使告訴人之人格及社會
+    評價受損之程度衡非輕微，並考量本件犯行係由被告莊榮乾
+    主導，而被告杜連榮、鄭清吉係受指使而參與作業之犯罪惡
+    性程度，且參酌被告杜連榮坦承犯行認錯，而被告莊榮乾、
+    鄭清吉雖坦認就有以宣傳車沿街宣傳本件海報及撥放本件廣
+    播之情，惟均否認犯行之犯後態度，復兼衡被告莊榮乾自述
+    其係高中畢業、現無業而無人須行扶養，被告杜連榮自述其
+    係初中畢業、現無業而無人須行扶養，被告鄭清吉其係國小
+    畢業、現無業而無人須行扶養，目前中風而身體右半邊癱瘓
+    、右手無法上舉及右腳不良於行之智識程度、家庭及經濟狀
+    況等一切情狀，分別量處如主文所示之刑，並均諭知如易科
+    罰金之折算標準。
+  (三)又查被告杜連榮先前未曾因故意犯罪受有期徒刑以上刑之宣
+    告，有臺灣高等法院被告前案紀錄表1份可憑， 其年事已高
+    ，因一時失慮，參與本件犯行而致罹罪章，犯後坦承犯行而
+    深表悔意，信其經本次偵、審程序，當知所警惕而無再犯之
+    虞，本院因認上開就其所宣告之刑以暫不執行為適當，爰依
+    刑法第74條第1項第1款規定，併予諭知緩刑2年， 以啟自新
+    。又緩刑之宣告，係國家鑒於被告杜連榮能因知所警惕而有
+    獲得自新機會之期望，特別賦予宣告之刑暫不執行之恩典，
+    若被告杜連榮在緩刑期間，又再為犯罪或其他符合法定撤銷
+    緩刑之原因，均將產生撤銷本件緩刑宣告而仍須執行所宣告
+    之刑之後果，被告杜連榮務必切實銘記在心，警惕慎行，以
+    免喪失自新之機會。
+  (四)扣案之本件海報3張，係被告莊榮乾所有之物， 業據被告莊
+    榮乾於審理中所供陳，該物係供本件犯罪使用之物，並基於
+    共犯須就全部犯行負責之原則，依刑法第38條第1項第2款規
+    定，於被告三人罪刑項下均宣告沒收；又同扣案供本件廣播
+    使用之隨身碟1個，被告杜連榮於審理中業陳明係正達廣告
+    公司所有等語，則該物既非被告三人所有，亦非違禁物或須
+    義務沒收之物，故不併予宣告沒收，附此敘明。
+據上論斷，應依刑事訴訟法第299條第1項前段，刑法第28條、第
+310條第2項、第18條第3項、第41條第1項、第74條第1項第1款、
+第38條第1項第2款，刑法施行法第1條之1，判決如主文。
+本案經檢察官施胤弘到庭執行職務
+中    華    民    國   104    年    8     月    7     日
+                  刑事第二庭  法  官  陳威龍
+以上正本證明與原本無異。
+如不服本判決應於收受本判決後10日內向本院提出上訴書狀，並
+應敘述具體理由。其未敘述上訴理由者，應於上訴期間屆滿後20
+日內向本院補提理由書狀（均須按他造當事人之人數附繕本）「
+切勿逕送上級法院」。
+                              書記官  蘇嬿合
+中    華    民    國   104    年    8     月    7     日
+附錄論罪科刑法條：
+刑法第310條第2項：
+散布文字、圖畫犯前項之罪者，處 2 年以下有期徒刑、拘役或
+1 千元以下罰金。
+附表：非供述證據：
+扣押筆錄、扣押物品目錄表各1份及逮捕通知書4份（警卷19至22
+、35至38頁），刑案現場照片4張（警卷24、25頁）
+正達廣告公司合約報價表、同公司宣傳車出勤卡各1份（警卷26
+、27頁）
+南檢102保管字第1755號扣押物品清單所示存錄本件廣播之隨身
+碟1個，本件海報3張
+臺南地檢署檢察官勘驗筆錄1份（103偵續108號卷127頁）</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWTND\CRIMINAL\10408\07\TNDM10487.010] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共7
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e6%98%93&selectedCrmno=000086&selectedCrtid=TND','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e9%bb%83%e7%8e%89%e7%87%95&sdate=&edate=&page=&searchkw=%e9%bb%83%e7%8e%89%e7%87%95&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e6%98%93%2c86%2c20150807%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=86&jdate=1040807&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e6%98%93%2c86%2c20150807%2c1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e6%98%93&jno=86&jdate=1040807&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e6%98%93%2c86%2c20150807%2c1','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e6%98%93','86','1040807','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="黃玉燕">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="黃玉燕">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

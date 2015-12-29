@@ -1,0 +1,555 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-刑-104上訴1610</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001610&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1610','1041015','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,上訴,1610</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1041015</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　 104年度上訴字第1610號
+上　訴　人
+即　被　告　<font color='red'>洪志成
+</font>上列上訴人因偽造文書等案件，不服臺灣基隆地方法院104年度
+訴字第109號，中華民國104年5月6日第一審判決（起訴案號：
+臺灣基隆地方法院檢察署103年度偵字第878號、103年度偵字第
+2009號），提起上訴，本院判決如下：
+    主  文
+上訴駁回。
+    事  實
+一、緣<font color='red'>洪志成</font>之母洪蔡彩蓮前向新光人壽股份有限公司（下稱新
+    光人壽公司）投保，由時任新光人壽公司業務員之王美麗收
+    取保險費，<font color='red'>洪志成</font>因而與王美麗結識。<font color='red'>洪志成</font>與王美麗熟識
+    後，向王美麗邀集投資其朋友開設之徵信社，王美麗遂自民
+    國86年間起陸續將投資款項交予<font color='red'>洪志成</font>投資其友人開設之徵
+    信社，嗣王美麗欲索取投資事業之股權證明為憑，<font color='red'>洪志成</font>均
+    無法交付，遂對王美麗稱其投資款已均轉交由臺灣臺北地方
+    法院（下稱台北地院）法官保管，王美麗對<font color='red'>洪志成</font>所言深信
+    不疑。嗣：(一)<font color='red'>洪志成</font>於100年間某日，在台北巿信義區永吉
+    路王美麗住所，經由王美麗介紹而認識其父王萬生，<font color='red'>洪志成
+    </font>竟基於意圖為自己不法所有之犯意，向王萬生謊稱：欲至馬
+    尼拉領取祖先財產，急需借款新台幣（下同）3萬元購買機
+    票等語，王萬生不疑有他而應允之，然其身上無足夠現金，
+    遂帶同<font color='red'>洪志成</font>，至台北巿某處王萬生友人經營之商店，由王
+    萬生向該友人借得現金3萬元後交予<font color='red'>洪志成</font>。嗣<font color='red'>洪志成</font>取得
+    上開3萬元後，並未購買機票前往菲律賓馬尼拉，事後亦未
+    返還3萬元。(二)王萬生因覺<font color='red'>洪志成</font>所謂王美麗之投資款項均
+    交由台北地院法官保管等節有異，且認民眾繳交費用，法院
+    定然出具收據為證，遂要王美麗向<font color='red'>洪志成</font>索取法院證明為憑
+    。<font color='red'>洪志成</font>為取信王美麗、王萬生，竟基於行使偽造公文書之
+    不法犯意，於100年5月23日之前某日，先委由不知情之人偽
+    刻「臺灣□□地方法院民事庭」（法院名稱空白）印章1枚
+    ，復在不詳地點，填製「茲收到王美麗女士參萬伍仟元」、
+    「中華民國百年五月二十三日」等內容之收據1張，並在其
+    上蓋用偽造之「臺灣□□地方法院民事庭」印章印文，在法
+    院名稱空白處填製「台北」二字而偽造為「臺灣台北地方法
+    院民事庭收據」公文書1紙，復於100年5月23日，至王美麗
+    位於台北市信義區永吉路住處，將上開偽造之公文書交予王
+    美麗而行使，足以生損害於台北地院關於收取民眾費用之公
+    信性，以此方式取信王美麗、王萬生。經王美麗之子周漢洋
+    察覺有異，報警處理，始查悉上情。
+二、案經王美麗告訴、臺北巿政府警察局信義分局移送臺灣臺北
+    地方法院檢察署檢察官呈請臺灣高等法院檢察署檢察長令轉
+    暨基隆巿警察局移送臺灣基隆地方法院檢察署檢察官偵查起
+    訴。
+    理  由
+一、證據能力部分：
+（一）按，刑事訴訟法第159條之1第2項規定：「被告以外之人
+      於偵查中向檢察官所為之陳述，除顯有不可信之情況者外
+      ，得為證據。」已揭示被告以外之人於偵查中向檢察官所
+      為之陳述，原則上有證據能力，僅於顯有不可信之情況者
+      ，始例外否定其得為證據。是被告如未主張並釋明顯有不
+      可信之情況時，檢察官自無須再就無該例外情形舉證，法
+      院亦無庸在判決中為無益之說明。至於同法第248條第1項
+      前段所規定，檢察官「訊問證人、鑑定人時，如被告在場
+      者，被告得親自詰問」，係指「如被告在場者」，始發生
+      「被告得親自詰問」情形。又同法條第2項前段雖規定，
+      「預料證人、鑑定人於審判時不能訊問者，應命被告在場
+      」，惟其但書復規定，「但恐證人、鑑定人於被告前不能
+      自由陳述者，不在此限」。故依現行法，並未強行規定檢
+      察官必須待被告在場，始得訊問證人、鑑定人，自不發生
+      在偵查中「應行」交互詰問之問題。本件被告雖具狀主張
+      證人王萬生於偵查中證述，未經詰問，無證據能力云云，
+      惟查，被告並未釋明證人陳萬生於偵查中之證述，有何不
+      可信之情況者，且證人王萬生於偵查中向檢察官所為陳述
+      ，業經具結（見偵字第2009號卷第24-28頁）。依上開說
+      明，自有證據能力。
+（二）另證人王萬生、王美麗於原審之證述，並非被告以外之人
+      於審判外之陳述，並經具結，自有證據能力。至被告具狀
+      辯稱證人二人於原審作證時，原審未依刑事訴訟法第184
+      條第1項規定對證人進行隔離訊問，證人於原審之證述無
+      證據能力云云（見本院卷第185-187頁）；惟按，刑事訴
+      訟法第184條規定，證人有數人者，應分別訊問之；其未
+      經訊問者，非經許可，不得在場。因發現真實之必要，得
+      命證人與他證人或被告對質，亦得依被告之聲請，命與證
+      人對質。其立法理由為：證人有數人者，分別證明不同之
+      事實，尚未訊問之證人在場，於發見真實是否會受影響，
+      宜由審判長裁量，視在場情形決定未經訊問之證人可否在
+      場，以求適用上之彈性，並免訴訟程序發生違法情事，爰
+      於第一項未經訊問者之下增列「非經許可」四字，以切實
+      際，並凸顯出未經訊問之證人不得在場，係為原則等語；
+      依上開規定及立法理由可知，證人之訊問，由審判長裁量
+      是否在場，因發見真實之必要，並得命證人與他證人或被
+      告對質。本件依原審審判筆錄，未見被告請求對證人二人
+      隔離訊問，而原審縱未隔離訊問，依上開規定，顯示他證
+      人係經審判長之默示許可而在場，且觀原審審判筆錄，亦
+      無證人未隔離訊問，即違背自由意思而為不實陳述之情事
+      ，被告執此主張證人王萬生、王美麗二人於原審之證述無
+      證據能力云云，自無可採。
+（三）除供述證據以外，其餘業經本院援為後開事實認定之「非
+      供述證據」，核無公務員違法採證之情形，且均經本院於
+      審判期日，依刑事訴訟法第164條、第165條規定，踐行證
+      據調查之法定程序，應認均有證據能力。
+二、實體部分：
+    訊據上訴人即被告<font color='red'>洪志成</font>否認涉有上開詐欺及行使偽造公文
+    書犯行，辯稱略以：伊有借3萬元是事實，但伊沒有詐騙；
+    關於行使偽造公文書部分，不是伊主使亦不是伊的作為，是
+    伊舅舅交付的，不是伊交付云云。並具狀辯稱略以：（一）
+    王萬生於偵查及原審證述向友人借款之地點究係民生西路或
+    民權西路，前後不一；又王萬生與王美麗就被告謊稱被告去
+    處究係馬來西亞或馬尼拉，兩人前後所供亦不一致；被害人
+    王美麗自86年間即認識被告，詳知被告之家庭背景，被告非
+    具華僑身分之人，實不可能為向王美麗借款3萬元，而謊稱
+    要回馬來西亞或馬尼拉處理家產；另被告係向王美麗借3萬
+    元，並非向王萬生借款，被告並未向王萬生稱要借錢之原因
+    。（二）100年間被告向王美麗借3萬元，係因被告之乾弟張
+    世玄要去馬來西亞，缺錢購買機票，被告向王美麗借款時曾
+    表明上述借款之原由。（三）王萬生證述之前借的3萬元拿
+    給法院，若上述台北地院收據果係被告交付予王美麗，王美
+    麗豈可能再給被告3萬5千元，自應扣除3萬元，是王萬生、
+    王美麗2人之證述內容顯有出入，難認為真；且王美麗認識
+    被告之舅舅蔡太郎，證人張世玄可為證，由此可證王美麗於
+    原審證述不實云云。
+三、經查：
+（一）詐欺取財部分：
+    1.證人王萬生於偵查中證稱意旨略以：約4、5年前，有一個
+      人聲音有點沙啞，跟伊女兒王美麗到伊家，說他跟伊女兒
+      是很好的朋友，有在做生意，他明天要回馬尼拉的祖先那
+      裡，要3萬元，要伊借他，伊就說好，伊說家裡沒有伊去
+      跟朋友借，他就開黑色的車載伊去民權西路跟朋友借3萬
+      ，伊就馬上把3萬元給他，他說過幾天會還伊，後來都沒
+      有還等語（見偵字第2009號卷第25頁）；於原審審理時證
+      稱意旨略以：伊以前不認識<font color='red'>洪志成</font>，幾年前王美麗有帶被
+      告<font color='red'>洪志成</font>到伊台北巿信義區永吉路住處，伊才認識他。那
+      一天，被告說他明天要去馬尼拉領『公產』，但是沒有機
+      票錢，被告說要向伊借3萬元，下午就要去買飛機票，但
+      是伊身上也沒有錢，伊就跟被告一起去民生西路伊朋友的
+      店裡面，被告在外面等，伊進去店裡向伊朋友借3萬元，
+      伊當場就將3萬元交給被告，被告就說他要趕快去買機票
+      ，接著就離開了等語（見原審卷第32頁），證人王萬生前
+      後所證，就與被告認識之經過、被告借款之緣由、金額，
+      其身上沒有錢，向友人借款後交予被告等主要情節前後一
+      致；而被告於原審就此陳稱略以：100年間伊乾弟向伊借3
+      萬元，伊身上沒有錢，就去向王美麗借，伊當時有跟王美
+      麗說伊的朋友要回去馬尼拉，需要錢買機票，過沒多久，
+      王美麗告訴伊，她向她父親王萬生借到了，當時伊是在外
+      面跟王萬生、王美麗一起吃飯，後來王萬生直接去領了3
+      萬元給王美麗，王美麗再當場將3萬元交給伊等語（見原
+      審卷第17頁），被告所陳情節雖與證人王萬生前開所證未
+      盡相同，但被告並不否認其曾提及去馬尼拉需要機票錢，
+      王萬生曾交付金錢等情節，而被告於原審及本院對於其有
+      取得王萬生3萬元之事實，亦未否認，僅辯稱係借款（見
+      原審卷第17頁、第34頁、本院卷第62、63頁），足認證人
+      王萬生前開證述內容，應有所憑，而非憑空捏造；復審酌
+      證人王萬生業將被告係以其自己欲至菲律賓馬尼拉處理領
+      取財產為由而借款等情證述明確，並非被告所稱係代乾弟
+      借款。衡諸社會常情，借款人決定借款與否，涉及當事人
+      雙方熟識度、信任關係及是否甘冒未獲還款之風險等因素
+      ，事發當時證人王萬生與被告尚且初識未久，與被告乾弟
+      則毫不相識，是否願意僅因被告之故而借款予素不相識之
+      陌生人？實有可疑，況證人王萬生當時因身上無足夠現金
+      ，尚且需向友人借款，其情顯非單純出借金錢而已，更需
+      擔負向他人借款之人情，衡情應係與借款人有相當程度熟
+      識，證人始願擔負向友人借款之責任。再則證人王萬生對
+      於出借款項係其向友人借支等細節尚且證述明確，殊無對
+      於借款人究係被告本人或其乾弟，抑或借款原因有誤認或
+      誤聽之理，是證人王萬生所述應為可採。
+    2.復查，被告自89年1月1日起迄104年1月13日止之入出境記
+      錄，其於100年間並無任何入出境記錄（見基隆地檢103年
+      度偵字第2009號卷第35頁），顯見其對證人王萬生稱借款
+      購買機票前往馬尼拉一節，尚難認為真實。被害人王萬生
+      因誤信被告編造急需至馬尼拉處理財產等謊言，因而向友
+      人借款3萬元交予被告，被告事後將上開詐得之3萬元花用
+      完畢，亦未還款予被害人，亦堪認被告有不法所有之詐欺
+      意圖，其詐欺取財犯行已堪認定。
+    3.被告關於詐欺取財部分辯解不可採之理由：
+    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />查，證人王萬生分別於偵查及原審中就向友人借款之地點
+      究係民生西路或民權西路，前後證述雖有不一，惟查，證
+      人王萬生前後所證，就與被告認識之經過、被告借款之緣
+      由、金額，其身上沒有錢，向友人借款後交予被告等主要
+      情節前後一致，而本件被告並不否認有向王萬生取得3萬
+      元之事實，至被害人借款之地點，核無影響被告詐欺取財
+      犯行之認定，況證人所述前開兩地，語音相近，非無出於
+      證人口誤，自難認證人王萬生所述全不可採；另證人王美
+      麗於原審雖曾證稱意旨略以：被告曾跟伊借款3萬元，被
+      告說要回馬來西亞需要機票錢；伊之前有將父親的金子拿
+      去典當8萬多元，再從其中拿取3萬元給<font color='red'>洪志成</font>等語（見原
+      審卷第30頁）；惟證人王美麗就此筆借款於同日亦證稱略
+      以：伊父親不知道這件事情等語（見原審卷第30頁反面）
+      ；證人王萬生於原審亦證稱略以：伊所說3萬元，與伊女
+      兒所說3萬元機票錢不是同一件事，伊拿給<font color='red'>洪志成</font>的3萬元
+      機票錢，是向伊友人借的等語（見原審卷第32頁背面），
+      是被告以王萬生與王美麗就被告所稱借款之原因，證述不
+      一，指摘證人二人為不實證述，亦不可採。
+    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5832A0A00000040.GIF" />被告另辯稱：100年間被告向王美麗借3萬元，係因被告之
+      乾弟張世玄要去馬來西亞，缺錢購買機票，被告向王美麗
+      借款時曾表明上述借款之原由等語；而證人張世玄於本院
+      雖證稱略以：當初伊需要3萬元，向被告借錢，借錢是因
+      伊要去馬來西亞採購衣服，需要來回機票費用；當時伊在
+      高雄打電話跟被告借；被告跟伊說向王美麗借，伊沒有親
+      眼看到被告跟王美麗拿這3萬元等語（見本院卷第59頁反
+      面、第60頁反面、第61頁反面），然證人張世玄既未在借
+      款之現場，僅聽聞被告之陳述，而如前所述，證人王美麗
+      與被告另有金錢往來，證人張世玄所述此部分縱係屬實，
+      與本件款項係由證人王萬生所交付之部分無涉，無論被告
+      有無曾代證人張世玄借款購買機票，乃被告與證人張世玄
+      之債權債務關係，核無影響本案之認定，證人張世玄此部
+      分所證，無從為有利於被告之認定。
+（二）行使偽造公文書部分：
+    1.證人王美麗於原審審理證稱意旨略以：之前伊有接到一位
+      自稱為台北地院法官任繼光的電話，說伊有4百萬元在法
+      院那邊，那個法官說要3萬5千元的保管手續費，叫伊把這
+      筆3萬5千元的費用拿給<font color='red'>洪志成</font>，<font color='red'>洪志成</font>會再把該筆手續費
+      交給他，伊當時沒有懷疑，伊先向伊父親王萬生拿了現金
+      5千元，另外3萬元是<font color='red'>洪志成</font>帶伊爸爸去台北巿永吉路住處
+      附近的銀行提領，伊父親有跟<font color='red'>洪志成</font>說要收據，幾天之後
+      的100年5月23日，<font color='red'>洪志成</font>就把這張台北地院的收據拿到伊
+      永吉路的家裡面交給伊；伊根本不認識<font color='red'>洪志成</font>的舅舅，也
+      不知道他舅舅的名字，<font color='red'>洪志成</font>也從來沒有在伊面前提過他
+      舅舅等語（見原審卷第29頁反面、第31頁反面）；證人王
+      萬生於原審審理證稱意旨略以：<font color='red'>洪志成</font>告訴伊女兒說投資
+      的4百萬元都在法院，需要手續費，<font color='red'>洪志成</font>每次都說手續
+      費繳了之後就可以領回4百萬元，但是都沒有領回來，所
+      以伊才會要求<font color='red'>洪志成</font>出具證明，因為繳錢給法院，法院會
+      出具收據，後來伊女兒拿錢給<font color='red'>洪志成</font>，<font color='red'>洪志成</font>就拿這張收
+      據過來給伊女兒等語（見原審卷第32頁正反面），均已將
+      被告本人將系爭偽造公文書交付予王美麗之原因、過程證
+      述綦詳，證詞相互吻合，應可採信。
+    2.此外，被告交付予證人王美麗之「臺灣台北地方法院民事
+      庭收據」，業據證人提供扣案（見偵字第7958號卷第35頁
+      ），由上開收據可見「臺灣」之「臺」及「台北」之「台
+      」字，兩字之寫法不同，且其上「臺灣□□地方法院民事
+      庭」係以印章蓋印，「台北」二字明顯與印章之字體相異
+      ，係以「臺灣□□地方法院民事庭」印章蓋印後，復以不
+      詳方式在上開空白處填寫地點，是上開公文書顯為偽造等
+      節，亦可認定。
+    3.被告關於行使偽造公文書部分辯解不可採之理由：
+    <img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F5842A0A00000040.GIF" />被告辯稱係舅舅蔡太郎將偽造公文書交付予王美麗一節，
+      此為證人王美麗所否認，雖被告聲請傳喚之證人張世玄於
+      本院證稱意旨略以：伊有載被告到博愛路法院側門見到蔡
+      太郎先生，被告跟王美麗兩位下車去見蔡太郎，伊沒有下
+      車，因為伊開車；被告見到蔡太郎在做甚麼，伊不是很清
+      楚，伊只知道蔡太郎有交付一份文件給王美麗，遠遠看是
+      這樣，一個信封袋；年月日伊忘記了，伊只知道大概過完
+      年沒多久等語（見本院卷第60頁反面）；而被告於原審曾
+      辯稱略以：當時伊只負責開車載王美麗過去，王美麗下車
+      在台北地院的側門向伊舅舅拿到這張收據等語（見原審卷
+      第17頁），被告係稱其開車載王美麗過去，未提及有證人
+      張世玄載送之事，兩者已有不符；況進一步細譯證人張世
+      玄上開證言，對於被告行為之內容不清楚，只是遠遠看一
+      個信封袋，文件內容不清楚，交付日期不記得，上開空泛
+      之證詞，實難佐證被告所辯系爭偽造台灣台北地院名義之
+      收據係證人蔡太郎所交付一節屬實；又蔡太郎業於101年2
+      月25日死亡，有被告提出之蔡太郎死亡證明書影本附卷可
+      參（見偵字第2009號卷第16頁）；再參諸證人王美麗、王
+      萬生證述內容，並無何王美麗欲以法院收據向王萬生借款
+      及被告舅舅參與其中等情節，是被告所辯應係卸責之詞，
+      不足採信。
+（三）至被告聲請對被告、證人王美麗及王萬生三人測謊一節（
+      見本院卷第40頁），本院認被告上揭犯行事證已堪認定，
+      所請核無必要，附此敘明。
+四、綜上所述，本院認被告上開所辯，均係卸責之詞，殊無可採
+    ，本案罪證明確，被告詐欺取財、行使偽造公文書等犯行堪
+    以認定，自應依法論科。
+五、新舊法比較：
+    按刑法第2 條第1 項規定：「行為後法律有變更者，適用行
+    為時之法律，但行為後之法律有利於行為人者，適用最有利
+    於行為人之法律」，此條規定係規範行為後法律變更所生新
+    舊法律比較適用之準據法，本身尚無新舊法比較之問題，於
+    新法施行後，應一律適用新法第2 條第1 項之規定，此為「
+    從舊從輕」之比較（最高法院95年度第8 次刑事庭會議決議
+    參照）。查被告行為後，刑法第339 條業經立法院三讀修正
+    通過，並經總統於103年6月18日以華總一義字第0000000000
+    0號公布，而於同年月20日生效施行。修正前刑法第339條原
+    規定：「意圖為自己或第三人不法之所有，以詐術使人將本
+    人或第三人之物交付者，處五年以下有期徒刑、拘役或科或
+    併科一千元以下罰金。以前項方法得財產上不法之利益或使
+    第三人得之者，亦同。前二項之未遂犯罰之」；修正後則規
+    定：「意圖為自己或第三人不法之所有，以詐術使人將本人
+    或第三人之物交付者，處五年以下有期徒刑、拘役或科或併
+    科五十萬元以下罰金。以前項方法得財產上不法之利益或使
+    第三人得之者，亦同。前二項之未遂犯罰之」。經比較修正
+    前後之規定，法定刑之最高度雖同為5年以下有期徒刑，然
+    就最低度之選科或併科罰金刑部分，修正前規定之罰金刑上
+    限為銀元1千元，依刑法施行法第1條之1第1項、第2項前段
+    規定，提高為30倍後，折合新臺幣為3萬元，然修正後罰金
+    刑之上限已提高為新臺幣50萬元，經比較新舊法適用結果，
+    被告行為時之舊法顯然對被告較為有利。是就其犯罪事實一
+    (一)所為，依刑法第2條第1項前段，自應適用修正前刑法第
+    339條之規定，合先敘明。
+六、論罪部分：
+（一）按刑法上偽造文書罪係著重於保護公共信用之法益，即使
+      該偽造文書所載名義製作人實無其人，而社會上一般人仍
+      有誤信其為真正文書之危險，仍難阻卻犯罪之成立（最高
+      法院54年台上字第1404號判例意旨可資參照）。而刑法上
+      所稱之「公文書」，係指公務員職務上製作之文書，與其
+      上有無使用「公印」無涉；若由形式上觀察，文書之製作
+      人為公務員，且文書之內容係就公務員職務上之事項所製
+      作，即令該偽造之公文書上所載製作名義機關不存在，或
+      該文書所載之內容並非該管公務員職務上所管轄，然社會
+      上一般人既無法辨識而仍有誤信為真正之危險，仍難謂非
+      公文書（最高法院54年台上字第1404號判例意旨參照）。
+      觀諸扣案之「臺灣台北地方法院民事庭收據」1紙，形式
+      上已表明係政府機關所出具，其內容又係關於民事案件收
+      取金錢之意，自有表彰該機關公務員本於職務而製作之意
+      ，依前揭說明，屬公文書。再刑法上所謂公印或公印文，
+      係專指表示公署或公務員資格之印信而言，即俗稱大印與
+      小官章及其印文（最高法院69年台上字第693號判例參照
+      ），其形式如何，則非所問（最高法院84年度台上字第
+      5509號判決意旨亦可參），該條規範目的亦在保護公務機
+      關之信用性，凡客觀上足以使社會上一般人誤信為公務機
+      關之印信者，不論公務機關之全銜是否正確而無缺漏，揆
+      諸前開最高法院判例、判決意旨，應認仍屬刑法第218條
+      第1項所規範之偽造公印文，始符立法目的。是本案扣案
+      之文書、印文，固與該機關之正式全銜有異，然依前開說
+      明，此等偽造文書、印文均足使社會上一般人誤信其為真
+      正文書、機關之危險，是上開偽造文書、印文，自仍應論
+      以偽造公文書及公印文。
+（二）核被告就犯罪事實一（一）所為，係犯修正前刑法第339
+      條第1項詐欺取財罪；犯罪事實一（二）所為，係犯刑法
+      第216條、第211條之行使偽造公文書罪（原判決就兩者法
+      條錯置誤繕，爰予更正）；又被告偽造公印及公印文之行
+      為，係偽造公文書之階段行為，偽造後持以行使，其偽造
+      之低度行為為行使之高度行為所吸收，均不另論罪。
+（三）被告所犯上開2罪，犯意各別，罪名有異，應分論併罰。
+七、原判決適用上開規定，並審酌被告正值壯年，不思以正途賺
+    取所需，竟意圖不勞而獲，利用與證人相識之信賴關係，施
+    用詐術騙取證人金錢，又為取信證人，偽造法院收據而交付
+    ，無視司法機關之威信，惡性甚為重大，手段惡劣，兼衡被
+    告高中畢業之智識程度、經濟小康之家庭狀況，暨其犯罪之
+    動機、目的、素行暨事後將責任推卸他人、否認犯罪等一切
+    情狀，就詐欺取財部分，量處被告有期徒刑8月，就行使偽
+    造公文書部分，量處有期徒刑1年4月，並定應執行有期徒刑
+    1年10月；另敘明扣案之「臺灣台北地方法院民事庭收據」
+    1紙，被告已交付予證人王美麗持有，已非屬被告所有之物
+    ，故不予宣告沒收；惟於該偽造公文書上之「臺灣台北地方
+    法院民事庭」公印文1枚，為偽造之印文；用以偽造該偽造
+    公印文之印章1個，則均為偽造之印章，雖未經扣案，然並
+    無證據證明業已滅失，均應依刑法第219條之規定，不問屬
+    於犯人與否，均宣告沒收之，原審認事用法，並無違誤，量
+    刑亦屬妥適，被告上訴意旨猶執陳詞否認犯罪，認均為無理
+    由，應予駁回。
+據上論斷，應依刑事訴訟法第368條，判決如主文。
+本案經檢察官陳昱旗到庭執行職務。
+中    華    民    國   104    年    10    月    15    日
+                  刑事第五庭  審判長法  官  許仕楓
+                                    法  官  林柏泓
+                                    法  官  吳淑惠
+以上正本證明與原本無異。
+詐欺部分不得上訴。
+其餘部分如不服本判決，應於收受送達後10日內向本院提出上訴
+書狀，其未敘述上訴之理由者並得於提起上訴後10日內向本院補
+提理由書（均須按他造當事人之人數附繕本）「切勿逕送上級法
+院」。
+                                    書記官  李文傑
+中    華    民    國   104    年    10    月    23    日
+附錄本案論罪科刑法條全文：
+中華民國刑法第216條：
+（行使偽造變造或登載不實之文書罪）
+行使第210 條至第215 條之文書者，依偽造、變造文書或登載不
+實事項或使登載不實事項之規定處斷。
+中華民國刑法第211條：（偽造變造公文書罪）
+偽造、變造公文書，足以生損害於公眾或他人者，處1 年以上7
+年以下有期徒刑。
+修正前中華民國刑法第339條：
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
+物交付者，處5 年以下有期徒刑、拘役或科或併科1 千元以下罰
+金。
+以前項方法得財產上不法之利益或使第三人得之者，亦同。
+前二項之未遂犯罰之。</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWTPH\CRIMINAL\10410\15\TPHM104AF.023] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共9
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001610&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%b4%aa%e5%bf%97%e6%88%90&sdate=&edate=&page=&searchkw=%e6%b4%aa%e5%bf%97%e6%88%90&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e4%b8%8a%e8%a8%b4&jno=1610&jdate=1041015&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e4%b8%8a%e8%a8%b4%2c1610%2c20151015%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','104','%e4%b8%8a%e8%a8%b4','1610','1041015','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="洪志成">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="洪志成">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

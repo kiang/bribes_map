@@ -1,0 +1,385 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣新北地方法院-刑-103訴381</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000381&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c381%2c20140917%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=381&jdate=1030917&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c381%2c20140917%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=381&jdate=1030917&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c381%2c20140917%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','381','1030917','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,訴,381</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030917</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">強盜</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣新北地方法院刑事判決　　　　　　　103年度訴字第381號
+公　訴　人　臺灣新北地方法院檢察署檢察官
+被　　　告　邱慧蓉
+選任辯護人　彭上華律師
+輔　佐　人
+即被告之母　葉明珠
+上列被告因竊盜等案件，經檢察官提起公訴（103 年度偵字第65
+52號），本院判決如下：
+    主  文
+邱慧蓉竊盜，處拘役貳拾日，如易科罰金，以新臺幣壹仟元折算
+壹日。緩刑貳年。
+被訴傷害部分公訴不受理。
+    事  實
+一、邱慧蓉於民國103 年2 月24日10時許，在址設新北市○○區
+    ○○○街00號之區臣氏樹二門市店內，從該店商品貨架上拿
+    取兔子絨毛玩具1 隻、巴黎萊雅溫和眼唇卸妝液（下稱卸妝
+    液）2 瓶，至該店櫃台結帳，店員黃暐鈞向邱慧蓉表示該等
+    商品合計價格為新臺幣（下同）378 元，邱慧蓉即稱不欲購
+    買上開兔子絨毛玩具1 隻，店員黃暐鈞則表示卸妝液2 瓶之
+    售價為299 元。詎邱慧蓉意圖為自己不法之所有，僅放置現
+    金150 元在收銀台桌上，便將上開卸妝液2 瓶置入其背包內
+    ，復在該店內商品區逛一圈後，走回櫃台向店員黃暐鈞索取
+    購物袋1 只，再放置現金40元在收銀台桌上，旋步行離開該
+    店。因邱慧蓉未支付足夠之價款，店員黃暐鈞即追出店外請
+    邱慧蓉返回店內完成結帳，邱慧蓉表示其只有購買購物袋，
+    故僅歸還該購物袋1 只，而不願歸還卸妝液2 瓶或返回店內
+    補足差額，且逕自朝該店附近之樹林火車站步行離去。店員
+    黃暐鈞即呼叫人在該店二樓之店長吳雅玲前來處理，店長吳
+    雅玲聽聞上開情形始末後，即指示店員黃暐鈞留在店內，並
+    單獨追趕邱慧蓉，旋於樹林火車站前攔下邱慧蓉，請邱慧蓉
+    出示上開卸妝液2 瓶之購買證明。邱慧蓉表示其有購買證明
+    ，並開始翻找其背包，店長吳雅玲於邱慧蓉翻找過程中看見
+    上開卸妝液2 瓶確實在邱慧蓉背包內，然邱慧蓉遲遲無法提
+    出購買證明，並趁隙朝樹林火車站內轉身離去，店長吳雅玲
+    即伸手抓住邱慧蓉之背包，致彼2 人一起跌倒在地；且邱慧
+    蓉雖然在地上掙扎，並對店長吳雅玲拳打腳踢（邱慧蓉所涉
+    傷害部分，業據店長吳雅玲撤回告訴），但不足以使店長吳
+    雅玲難以抗拒，故店長吳雅玲依然能夠繼續緊抓邱慧蓉之背
+    包不放，使邱慧蓉無法脫逃；迄路過民眾聽聞店長吳雅玲喊
+    稱有人偷東西、有人打人等語，前來協助壓制邱慧蓉，店長
+    吳雅玲始鬆手起身。嗣鐵路警察局臺北分局樹林派出所員警
+    <font color='red'>徐志榮</font>經樹林火車站站務人員之通知，隨即前來處理，看見
+    邱慧蓉坐在地上，店長吳雅玲則站在一旁表示邱慧蓉竊取其
+    店內商品，乃當場逮捕邱慧蓉，而悉上情。
+二、案經吳雅玲及臺灣屈臣氏個人用品商店股份有限公司訴由新
+    北市政府警察局樹林分局移送臺灣新北地方法院檢察署檢察
+    官偵查起訴。
+    理  由
+壹、有罪部分：
+一、證據能力：
+    本案以下所引用之卷證資料（包含人證與文書證據、物證等
+    ），並無證據證明係公務員違背法定程序所取得；又被告以
+    外之人於審判外之陳述，經核並無非出於自由意願而為陳述
+    或遭違法取證及顯有不可信之情況；再卷內之文書證據，亦
+    無刑事訴訟法第159 條之4 之顯有不可信之情況與不得作為
+    證據之情形；且檢察官、被告及辯護人迄本院言詞辯論終結
+    前均未聲明異議，被告及辯護人並均明確表示對於本案全部
+    證據方法之證據能力均不爭執，都同意作為證據來調查等語
+    （見本院卷第46頁），依刑事訴訟法第159 條之5 之規定，
+    均有證據能力。
+二、認定犯罪事實所憑之證據及理由：
+    訊據被告邱慧蓉對其前揭未支付足夠價金、經店員攔阻仍執
+    意攜商品離去之竊盜犯行，迭於警詢、偵訊及本院審理時坦
+    認不諱；核與證人即店員黃暐鈞於警詢時之證述相符（見偵
+    查卷第8 、9 頁）。又被告經店長吳雅玲追出攔阻，雙方拉
+    扯倒地，後經警到場逮捕之過程，業據證人即店長吳雅玲於
+    警詢及本院審理時、證人即首位到場之員警<font color='red'>徐志榮</font>於本院審
+    理時證述明確（見偵查卷第5 、6 頁，本院卷第77頁背面至
+    第93頁），並有新北市政府警察局勤務指揮中心受理各類案
+    件紀錄單、新北市政府警察局樹林分局樹林派出所受理民眾
+    110 報案案件紀錄表、到場員警名冊一覽表、員警周名鴻出
+    具之職務報告各1 份及查獲現場暨扣案物照片3 張在卷可稽
+    （見偵查卷第18頁，本院卷19至21、26頁）。另被告所竊取
+    之卸妝液2 瓶，已由店長吳雅玲具據領回乙節，則有贓物認
+    領保管單1 紙在卷足憑（見偵查卷第16頁）。俱徵被告之自
+    白皆與事實相符，被告前揭竊盜之犯行，堪予認定。
+三、論罪科刑：
+（一）按竊盜罪既、未遂區分之標準，係採權力支配說，即行為
+      人將竊盜之客體，移入自己實力支配之下者，即屬既遂。
+      本件被告邱慧蓉未支付足額款項，便將卸妝液2 瓶置於自
+      己所攜帶之背包中，復不顧店員攔阻，逕自步出店外，顯
+      已將該卸妝液2 瓶置於自己實力支配之下，當屬既遂無疑
+      ，不因店長隨後追出攔阻使被告無法順利脫逃，而異其結
+      果。是核被告邱慧蓉所為，係犯刑法第320 條第1 項之竊
+      盜罪。
+（二）至公訴意旨雖以被告為防護贓物、脫免逮捕，先徒手推開
+      店長吳雅玲，並以右手搥打店長吳雅玲之背部，再用腿攻
+      擊店長吳雅玲之腹部等施以強暴之手段，使店長吳雅玲顯
+      難抗拒，並致店長吳雅玲受有右手肘挫傷併皮膚瘀血5x6
+      公分、上背部及下腹部挫傷等傷害等情，認被告竊盜得手
+      後，因防護贓物、脫免逮捕而當場施以強暴，係犯刑法第
+      329 條之準強盜罪嫌。惟刑法第329 條準強盜罪之規定，
+      旨在以刑罰之手段，保障人民之身體自由、人身安全及財
+      產權，免受他人非法之侵害。立法者就竊盜或搶奪而當場
+      施以強暴、脅迫者，僅列舉防護贓物、脫免逮捕或湮滅罪
+      證三種經常導致強暴、脅迫行為之具體事由，係選擇對身
+      體自由與人身安全較為危險之情形，視為與強盜行為相同
+      ，而予以重罰，擬制為強盜行為之準強盜罪構成要件行為
+      ，雖未如刑法第328 條強盜罪之規定，將實施強暴、脅迫
+      所導致被害人或第三人不能抗拒之要件予以明文規定，惟
+      必於竊盜或搶奪之際，當場實施之強暴、脅迫行為，已達
+      使人難以抗拒之程度，其行為之客觀不法，方與強盜行為
+      之客觀不法相當，而得與強盜罪同其法定刑，司法院大法
+      官會議釋字第630 號解釋闡述甚明。經查，被告竊得卸妝
+      液2 瓶後，旋在樹林火車站前為店長吳雅玲攔阻，被告雖
+      欲離去，然因店長吳雅玲抓住被告之背包而雙雙倒地，且
+      彼2 人倒臥在地時，被告固對店長吳雅玲拳打腳踢，惟店
+      長吳雅玲並未因此鬆手，亦無任何阻擋或鬆手避開等防衛
+      動作，依然能夠繼續緊抓被告背包，直到路過民眾見聞店
+      長吳雅玲呼喊小偷、打人等語，前來協助壓制被告，店長
+      吳雅玲始鬆手起身等情，業據證人即店長吳雅玲於本院審
+      理時證述綦詳（見本院卷第81至91頁）。足見店長吳雅玲
+      面對被告之傷害行為，未有任何畏怯退縮，依然能夠以抓
+      住背包之方式持續拘束被告之人身自由，使路過民眾及隨
+      後到場之員警得以順利逮捕被告。又店長吳雅玲所受上開
+      傷勢，固有仁愛醫院103 年2 月24日乙診字第B071495 號
+      診斷證明書1 份在卷可證（見偵查卷第17頁）；然該等傷
+      勢均為體表之擦挫傷及瘀血，尚屬輕傷。參以首先到場之
+      員警<font color='red'>徐志榮</font>於本院審理時證稱：我到場時店長吳雅玲站在
+      被告旁邊，店長吳雅玲看起來沒有神情異常或身體不適，
+      只說其店內遭竊，我沒有看到店長吳雅玲受有外傷等語（
+      見本院卷第79頁背面至第80頁背面），益徵店長吳雅玲所
+      受之傷勢，客觀上並不嚴重。從而，被告對店長吳雅玲所
+      為之傷害行為，顯未達到使店長吳雅玲難以抗拒之程度。
+      揆之前揭司法院大法官會議解釋意旨，本件被告所為，即
+      與刑法第329 條之要件不合，自難以準強盜之重罪相繩，
+      惟被告被訴竊盜之基本事實既屬同一，本院自得依法變更
+      起訴法條。
+（三）爰審酌被告未完成結帳、支付足額貨款，即逕自攜商品離
+      開商店，顯然欠缺對於他人財產權應予尊重之觀念，所為
+      誠屬非是，惟被告犯後坦承犯行，復與店長吳雅玲達成和
+      解，賠償其損失（參本院103 年6 月19日準備程序筆錄即
+      本院卷第45頁），深具悔意，且被告竊得之財物，亦經店
+      長吳雅玲具據領回，所生危害減輕，兼衡被告患有精神分
+      裂症（已更名為「思覺失調症」），並有中度身心障礙，
+      有被告之林口長庚紀念醫院103 年5 月14日診字第000000
+      0000000 號診斷證明書及身心障礙證明正反面影本各1 份
+      在卷可稽（見本院卷第32、33頁），足認被告身心健康狀
+      況非佳，暨被告犯罪之動機、目的，及犯罪後遭店長攔阻
+      竟對之拳打腳踢等一切情狀，量處如主文所示之刑，並諭
+      知如易科罰金之折算標準。
+（四）被告前未曾受有期徒刑以上刑之宣告，有臺灣高等法院被
+      告前案紀錄表在卷可參，其因一時失慮，致罹刑典，犯後
+      坦承犯行，知所悔悟；復於本院審理時，與店長吳雅玲達
+      成和解，賠償其損失，且被告身心健康狀況不佳，均如前
+      述；則被告經此次偵審程序、並受刑之宣告後，當能知所
+      警惕，諒無再犯之虞，因認對其所宣告之刑以暫不執行為
+      適當，爰依刑法第74條第1 項第1 款之規定併予宣告緩刑
+      2 年。
+貳、公訴不受理部分：
+    公訴意旨認被告如起訴書犯罪事實欄第一項後段所載「先徒
+    手推開吳雅玲，並以右手搥打吳雅玲之背部，再用腿攻擊吳
+    雅玲之腹部等施以強暴之手段，使店長吳雅玲顯難抗拒並致
+    吳雅玲受有右手肘挫傷併皮膚瘀血5x6 公分、上背部及下腹
+    部挫傷等傷害」之傷害犯行，乃其實施強暴之當然結果，不
+    另論傷害罪等語。惟被告邱慧蓉所為與刑法第329 條之準強
+    盜罪之構成要件不符，僅構成竊盜罪，已如前述；是被告對
+    店長吳雅玲所為傷害犯行，自應與被告上開經本院論罪科刑
+    之竊盜罪分別評價，並非單純一罪。又告訴乃論之罪，告訴
+    人於第一審辯論終結前得撤回其告訴，且告訴經撤回者，應
+    諭知不受理之判決，刑事訴訟法第238 條第1 項、第303 條
+    第3 款定有明文。本件被告如上開起訴書犯罪事實欄第一項
+    後段所載傷害店長吳雅玲所為，係涉犯刑法第277 條第1 項
+    之傷害罪嫌，依同法第287 條前段之規定，須告訴乃論。茲
+    告訴人即店長吳雅玲於本院審理時撤回對被告之傷害告訴，
+    有撤回告訴狀1 紙在卷可證（見本院卷第48頁）；依照上開
+    說明，被告被訴傷害部分，應諭知不受理之判決。
+據上論斷，應依刑事訴訟法第299 條第1 項前段、第303 條第3
+款、第300 條，刑法第320 條第1 項、第41條第1 項前段、第74
+條第1 項第1 款，刑法施行法第1 條之1 第1 項、第2 項前段，
+判決如主文。
+本案經檢察官鍾維翰到庭執行職務。
+中    華    民    國   103    年    9     月    17    日
+                  刑事第八庭    審判長法  官    許必奇
+                                      法  官    陳俞伶
+                                      法  官    林琮欽
+上列正本證明與原本無異。
+如不服本判決，應於判決送達後10日內敘明上訴理由，向本院提
+出上訴狀 (應附繕本) ，上訴於臺灣高等法院。其未敘述上訴理
+由者，應於上訴期間屆滿後20日內向本院補提理由書「切勿逕送
+上級法院」。
+                                      書記官    方志淵
+中    華    民    國   103    年    9     月    17    日
+附錄本案論罪科刑法條全文：
+刑法第320 條
+意圖為自己或第三人不法之所有，而竊取他人之動產者，為竊盜
+罪，處五年以下有期徒刑、拘役或五百元以下罰金。
+意圖為自己或第三人不法利益，而竊佔他人之不動產者，依前項
+之規定處斷。
+前二項之未遂犯罰之。</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWPCD\CRIMINAL\10309\17\PCDM1039H.008] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共3
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%a8%b4&selectedCrmno=000381&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%be%90%e5%bf%97%e6%a6%ae&sdate=&edate=&page=&searchkw=%e5%be%90%e5%bf%97%e6%a6%ae&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%a8%b4%2c381%2c20140917%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=381&jdate=1030917&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e8%a8%b4%2c381%2c20140917%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%a8%b4&jno=381&jdate=1030917&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%a8%b4%2c381%2c20140917%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%a8%b4','381','1030917','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="徐志榮">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="徐志榮">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,318 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣臺中地方法院-刑-89訴1297</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+enf+drewo3CRYqxiDeXEc3mliT4=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣臺中地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e8%a8%b4&selectedCrmno=001297&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e8%a8%b4%2c1297%2c20000913&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=1297&jdate=890913&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e8%a8%b4%2c1297%2c20000913&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=1297&jdate=890913&jcheck=">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('89%2c%e8%a8%b4%2c1297%2c20000913','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','89','%e8%a8%b4','1297','890913','')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">89,訴,1297</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">890913</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">妨害婚姻</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>台灣台中地方法院刑事判決　　　　　　　　　　　　八十九年度訴字第一二九七號
+　　公　訴　人　臺灣臺中地方法院檢察署檢察官
+　　被　　　告　甲○○
+　　選任辯護人　林家進律師
+右列被告因妨害婚姻案件，經檢察官提起公訴（八十九年度偵字第三一四七號），本
+院判決如左：
+    主  文
+甲○○有配偶而重為婚姻，處有期徒刑陸月。
+    事  實
+一、甲○○於民國七十二年九月二十六日與黃春鶯離婚後，於八十四年四月九日，在
+    台中縣豐原市新都大飯店芷園樓與乙○○舉行公開結婚儀式，並由尤銀壽、鄭信
+    源等二人以上之證人在場證婚，明知自己為有配偶之人，竟遲未辦理結婚登記，
+    於八十八年十月二十七日立具「已經離婚，現為單身」之單身事實聲明書，併同
+    配偶欄空白之戶籍謄本及離婚證書，持交本院公證處請求認證該聲明書，公證人
+    核對其所提出證明其身份及資格之證件，均屬相符後，乃在該聲明書上登載「本
+    文件之簽名或蓋章於中華民國八十八年十月二十八日在臺灣台中地方法院公證處
+    認證。」等文字，並據以發給八十八年度（認）字號三八六九０號認證書。甲○
+    ○隨即前往大陸地區，於八十九年一月二十六日偕同不知情之大陸女子吳銀娣共
+    至廣東省深圳市，持交行使上開認證書，辦理與吳銀娣結婚之登記手續，並發給
+    結婚證，而重為婚姻。
+二、案經乙○○訴請臺灣臺中地方法院檢察署檢察官偵查起訴。
+    理  由
+一、訊據被告甲○○對於在右揭時、地，與乙○○結婚，復至本院公證處請求認證「
+    已經離婚，現為單身」之聲明書，再持之前往大陸地區與大陸女子吳銀娣辦理結
+    婚登記手續等事實，於偵查中及本院初審時坦承不諱，惟嗣又辯稱：雖有乙○○
+    在上揭時、地宴請賓客，但只是叫一些親戚來認識而已，有表示我們二人要結婚
+    之意思，但因事後沒有去做結婚登記，所以誤以為與乙○○之結婚係屬無效，又
+    因身體不好，而乙○○不常在家，故在前往大陸地區，經朋友介紹認識吳銀娣後
+    ，為求將來有人為伴，遂與之辦理結婚登記手續云云。惟查：
+（一）按結婚，應有公開儀式及二人以上之證人，我國民法第九百八十二條第一項定
+      有明文。查被告與乙○○於八十四年四月九日在台中縣豐原市新都大飯店芷園
+      樓，席開五桌宴請賓客，而乙○○身著晚禮服，並於席間與被告共同向賓客敬
+      酒，表示其二人今日結婚，並感謝來賓到場共襄盛舉，為其等結婚之見證人，
+      而舉行公開之結婚儀式，且為多人所共見共聞，復有二人以上之證人在場證婚
+      ，並由尤銀壽、鄭信源二人在結婚證書上之主婚人、介紹人欄上簽名，表示渠
+      等有在場親見，且願負責證明被告與乙○○之結婚係出於兩願事實，業據本院
+      調查時勘驗錄影帶屬實，且有結婚證書影本一紙附於偵查卷中可稽，並經告訴
+      人乙○○指述明確，依上開民法第九百八十二條第一項之規定，被告已於該日
+      與乙○○結婚，為有配偶而非單身之人。又被告於八十八年十月七日持配偶欄
+      空白之戶籍謄本及「已經離婚，現為單身」之不實聲明書，至本院公證處請求
+      認證該聲明書，使公證人認證該不實事項，並據以發給認證書之事實，亦據被
+      告供承無誤，並有本院八十八年度認字第三八六九０號公証卷宗影本一宗在卷
+      可資佐證。被告繼而前往大陸地區廣東省深圳市，於八十九年一月二十六日偕
+      同吳銀娣至該省民政廳持交上開認證書辦理結婚登記手續等事實，亦經被告坦
+      認屬實，並有大陸地區廣東省深圳市人民政府於西元二０００年一月二十六日
+      核發之粵深婚字第０００一二號中華人民共和國結婚證一份在卷可按。被告雖
+      為臺灣地區人民，惟吳銀娣為大陸地區人民，其二人結婚之方式及其他要件之
+      規範，自應優先適用臺灣地區與大陸地區人民關係條例，被告與吳銀娣結婚之
+      行為地既係在大陸地區，依台灣地區與大陸地區人民關係條例第五十二條規定
+      ，結婚或兩願離婚之方式及其他要件，依行為地之規定；而中華人民共和國婚
+      姻法第七條規定，要求結婚的男女雙方必須親自到婚姻登記機關進行結婚登記
+      ，符合本法規定者，予以登記，發給結婚證，取得結婚證，即確立夫妻關係。
+      準此，被告與大陸女子吳銀娣之婚姻應屬合法有效，要無疑義。且按不得因不
+      知法律而免除刑事責任，縱被告係誤認其與乙○○之婚姻，因未為結婚登記，
+      應屬無效，仍不得據此即解免其刑責。況被告辯稱其係因乙○○不常回家，其
+      始再婚云云，惟乙○○於本院調查中陳述其係因在外工作，所以約二、三日回
+      去一次，且被告亦自承乙○○約一星期回去一次，有時二次，足見被告前揭辯
+      詞顯不實在，且被告於乙○○之父去逝後亦有以女婿身份前往捻香，足認被告
+      係明知其係有配偶之人而故重為婚姻。
+（二）按台灣地區與大陸地區人民關係條例第七十五條規定「在大陸地區或在大陸船
+      艦、航空器內犯罪，雖在大陸地區曾受處罰，仍得依法處斷，但得免其刑之全
+      部或一部之執行」。而該條文於立法之初，原有四法律案，其中邱連輝委員提
+      案內容為「台灣人民在中國大陸之行為，準用刑法第五條、第六條、第七條之
+      規定。中國大陸人民，在台灣以外行為，準用刑法第五條、第八條之規定。中
+      國大陸法院之刑事確定裁判，其效力準用刑法第九條之規定」；提案說明則為
+      ：「根據本法號第二條規定，在中國大陸之犯罪行為及中國大陸人民之犯罪行
+      為，應視同在中華民國領域外之犯罪行為及外國人之犯罪行為，中國大陸法院
+      之刑事確定裁判應視同外國法院之刑事確定裁判，爰於本條明示以杜爭議」。
+      另三法律案分別為行政院、陳癸淼委員及<font color='red'>丁守中</font>委員所提，條文內容均與現行
+      條文規定相同，而行政院提案說明為：「在大陸地區與大陸船艦、航空器內犯
+      罪者，均得依法追訴、處罰。但同一行為在大陸地區曾受處罰者，如再予以執
+      行，似嫌過苛，爰規定得免其刑之全部或一部之執行」；陳癸淼委員提案說明
+      係採納行政院草案條文；<font color='red'>丁守中</font>委員則未提說明。嗣該四法律案歷經立法院院
+      會無異議通過，採用行政院所提法律案，而成現行規定，此均有立法院會議記
+      錄可參。則依上述立法過程觀之，台灣地區與大陸地區人民關係條例第七十五
+      條規定之立法原意，旨在明示台灣地區人民在大陸地區犯罪，仍得依中華民國
+      刑罰法令處斷，並排除刑法第五條、第六條、第七條關於國外犯罪規定之適用
+      。從而本件被告於大陸地區重為婚姻之行為，自得依刑法第二百三十七條處斷
+      ，而不受刑法第七條規定之限制。辯護人辯護意旨雖辯稱，按國家刑罰權乃國
+      家主權作用之一種形態，故刑罰權行使關於地之範圍，應與主權支配之地域相
+      同，若為主權所不及之地域，除特定之犯罪行為外，要無刑罰權之適用。雖然
+      我國對於大陸地區亦實稱擁有主權，然而依國際情勢實不容否認該地區現係由
+      另一政治實體「中華人民共和國」所統治，事實上並非我中華民國主權所及之
+      地域，從而在大陸地區犯罪，應屬在我國領域外犯罪。次按本法（刑法）於中
+      華民國人民，在中華民國領域外，犯前二條以外之罪，而最輕本刑為三年以上
+      有期徒刑者，適用之，但依犯罪地之法律不罰者，不在此限，刑法第七條定有
+      明文，因之中華民國人民在中華民國領域外犯罪，必其所犯之罪，非刑法第五
+      條、第六條之罪，且其所犯最輕本刑須為三年以上有期徒刑，並為犯罪地法律
+      所處罰者，始有其適用。本件公訴人起訴被告涉嫌重婚之犯行，其行為地在大
+      陸地區之廣東省深圳市，依右開說明，應屬在我國領域外犯罪，又依我國刑法
+      第二百三十七條，重婚罪為最重本刑五年以下之有期徒刑，並非最輕本刑三年
+      以上有期徒刑之罪，亦非刑法第五條、第六條之罪，是公訴人起訴被告涉嫌重
+      婚之犯行，並不能適用我國刑法加以處罰云云，然觀諸前揭說明，及被告確有
+      於八十九年一月二十六日在大陸地區廣東省深圳市與大陸女子吳銀娣完成結婚
+      登記手續等事實，足徵辯護人前揭所辯顯不足採。此外，復有台灣台中地方法
+      院八十八年度認字第三八六九０號公証卷宗影本、結婚證書影本二紙、錄影帶
+      一捲在卷足憑。綜上所述，本案事證明確，被告重婚之犯行，堪以認定，應依
+      法論科。
+二、核被告所為，係犯刑法第二百三十七條前段之重婚罪。查被告持「已經離婚，現
+    為單身」之聲明書向本院公證處為前開認證，公證人便認證所附聲明書由被告承
+    認為其簽名或蓋章，經公證人核對被告提出證明其身分及資格之證件，均屬相符
+    ，並詢明瞭解其所簽署文件之內容等情，被告所為並未使公證處之公務員為不實
+    之登載，不構成刑法第二百十四條之使公務員登載不實罪。惟公訴人認此部分與
+    前開有罪部分有方法結果之牽連關係，故不另為無罪之諭知。爰審酌被告犯罪後
+    並無悔意，迄本案審結時仍未賠償被害人乙○○損失，足見犯後態度不佳，藉未
+    與乙○○辦理結婚登記之機會犯罪，對乙○○及吳銀娣均造成損害，暨其生活狀
+    況、品行、智識程度、犯罪之動機、目的、手段等一切情狀，量處如主文所示之
+    刑。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段，刑法第二百三十七條前段，
+判決如主文。
+本案經檢察官劉仁明到庭執行職務。
+中      華      民      國    八十九    年      九      月     十三     日
+                            臺灣臺中地方法院刑事第四庭
+                                審判長法  官  蕭  志  鋒
+                                      法  官  卓  進  仕
+                                      法  官  許  月  馨
+右正本證明與原本無異。
+如不服本判決應於收受送達後十日內向本院提出上訴書狀，其未敘述上訴之理由者並
+得於提起上訴後十日內向本院補提理由書（均須按他造當事人之人數附繕本）。
+                  書記官
+中      華      民      國    八十九    年      九      月     十四     日
+附錄：本案論罪科刑法條全文
+刑法第二百三十七條前段
+有配偶而重為婚姻或同時與二人以上結婚者，處五年以下有期徒刑；其相婚者亦同。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWTCD\CRIMINAL\8909\19\TCDM899J.024] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e8%a8%b4&selectedCrmno=001297&selectedCrtid=TCD','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e8%a8%b4%2c1297%2c20000913&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=1297&jdate=890913&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e8%a8%b4%2c1297%2c20000913&v_court=TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=1297&jdate=890913&jcheck=">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('89%2c%e8%a8%b4%2c1297%2c20000913','TCD+%e8%87%ba%e7%81%a3%e8%87%ba%e4%b8%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','89','%e8%a8%b4','1297','890913','')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TCD 臺灣臺中地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="丁守中">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="丁守中">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

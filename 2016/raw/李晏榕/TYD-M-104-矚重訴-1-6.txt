@@ -1,0 +1,615 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣桃園地方法院-刑-104矚重訴1</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+Gq6Ecq71Z4PSDl50P/GdLwLKb9o=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣桃園地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第3
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e7%9f%9a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20150901%2c6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1040901&jcheck=6">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20150901%2c6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1040901&jcheck=6">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20150901%2c6','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e7%9f%9a%e9%87%8d%e8%a8%b4','1','1040901','6')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,矚重訴,1</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040901</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣桃園地方法院刑事判決　　　　　　104年度矚重訴字第1號
+公　訴　人　臺灣桃園地方法院檢察署檢察官
+被　　　告　JEAN-PIERRE CANNIZZARO 
+選任辯護人　<font color='red'>李晏榕</font>律師
+被　　　告　CYRILLE VIVET
+選任辯護人　洪惠平律師
+被　　　告　AZHAR OUDAH AZEEZ ALZHEDE
+選任辯護人　宋英華律師 
+上列被告因違反毒品危害防制條例案件，經檢察官提起公訴（
+104年度偵字第2580號），本院判決如下：
+    主  文
+丁○○○○ ○○○○○ 共同運輸第一級毒品，處有期徒刑捌年
+陸月；並於刑之執行完畢或赦免後，驅逐出境；扣案如附表一所
+示之第一級毒品海洛因均沒收銷燬，扣案如附表二所示之物品均
+沒收；未扣案如附表三所示共同運輸第一級毒品所得之現金與
+丙○○ ○○○、甲○ ○○○ ○○ ○○○○連帶沒收，如全部
+或一部不能沒收時，以其等財產連帶抵償之。
+丙○○ ○○○共同運輸第一級毒品，處有期徒刑捌年貳月；並
+於刑之執行完畢或赦免後，驅逐出境；扣案如附表一所示之第一
+級毒品海洛因均沒收銷燬，扣案如附表二所示之物品均沒收；未
+扣案如附表三所示共同運輸第一級毒品所得之現金與丁○
+○○○ ○○○○○ 、甲○ ○○○ ○○ ○○○○連帶沒收，如
+全部或一部不能沒收時，以其等財產連帶抵償之。
+甲○ ○○○ ○○ ○○○○共同運輸第一級毒品，處有期徒刑
+捌年貳月；並於刑之執行完畢或赦免後，驅逐出境；扣案如附表
+一所示之第一級毒品海洛因均沒收銷燬，扣案如附表二所示之物
+品均沒收；未扣案如附表三所示共同運輸第一級毒品所得之現金
+與丁○○○○ ○○○○○ 、丙○○ ○○○連帶沒收，如全部
+或一部不能沒收時，以其等財產連帶抵償之。
+    事  實
+一、丁○○○○ ○○○○○ （下稱CANNIZZARO）與丙○○ 
+    ○○○（下稱VIVET）均為法國籍人士，兩人前在泰國曼谷便
+    已相識，而甲○ ○○○ ○○ ○○○○（下稱ALZHEDE）則
+    係伊拉克籍人士，至跨國運毒集團之秘書兼總管乃綽號為「
+    BYJAY」之尼泊爾籍人士BIJAYSINGH TAMANG，該跨國運毒集
+    團之交通仲介乃真實姓名年籍不詳但綽號為「AJAR」之外籍
+    成年人士，該跨國運毒集團之老闆乃真實姓名年籍不詳但綽
+    號為「VINOD」之外籍成年人士，CANNIZZARO、VIVET、
+    ALZHEDE與該跨國運毒集團前開人等、該跨國運毒集團其他
+    外籍成年人士明知海洛因係舉世各國禁止運輸之毒品，是即
+    不得運輸、私運進口及非法持有，於民國104年1月間，在泰
+    國曼谷之索拉維特廣場酒店（HOTEL SORAVIT PLACE）等處
+    ，分別或共同協議運送海洛因來臺之事，該跨國運毒集團成
+    員指示CANNIZZARO、VIVET、ALZHEDE必須分作兩批運送海洛
+    因來臺，CANNIZZARO、VIVET、ALZHEDE與該跨國運毒集團人
+    員共同基於自泰國曼谷運輸、私運海洛因進口臺灣地區之單
+    一犯意聯絡，而以分作如附表一編號、編號所示兩批行
+    李之方式運抵臺灣地區，欲遂運輸、私運如附表一所示所有
+    海洛因來臺之單一目的。約定CANNIZZARO辦妥此事可獲美元
+    1,000元加上新臺幣1,300元之報酬、VIVET辦妥此事可獲美
+    元8,000元加上泰銖15,000元之報酬、ALZHEDE辦妥此事可獲
+    該跨國運毒集團提供得以前往瑞典依親工作之假護照，三人
+    往返臺灣地區之食宿及機票費用均由該跨國運毒集團成員支
+    付，CANNIZZARO已先獲得「BYJAY」給其食宿及計程車交通
+    費用、預付部分報酬新臺幣1,300元，VIVET亦先獲得「
+    BYJAY」給其食宿及計程車交通費用、預付部分報酬泰銖
+    15,000元，ALZHEDE則先獲得「AJAR」給其食宿及計程車交
+    通費用，該跨國運毒集團成員指示之分工方式乃為—VIVET
+    、ALZHEDE負責分批搭機攜帶海洛因來臺，CANNIZZARO負責
+    須與ALZHEDE偕同搭機看顧海洛因來臺並將英語語言能力較
+    差之ALZHEDE送至臺中之飯店下榻，「VINOD」於接獲
+    CANNIZZARO告知下榻之飯店房號後通知在臺之該跨國運毒集
+    團接頭人士，該跨國運毒集團接頭人士便會駕駛黑色賓士廠
+    牌汽車前往飯店房間領取海洛因，CANNIZZARO另須接應稍後
+    自行來臺之VIVET而領取VIVET攜帶來臺如附表一編號所示
+    其中之海洛因球，儘管CANNIZZARO未在泰國見過ALZHEDE，
+    惟在泰國之飯店已由「VINOD」先將ALZHEDE之照片提供
+    CANNIZZARO、VIVET觀看確認。CANNIZZARO、VIVET、
+    ALZHEDE實際分批私運海洛因來臺之情形如下：
+  (一)於104年1月間某日，「AJAR」先在泰國曼谷之某間飯店將其
+    內夾藏如附表一編號所示海洛因之行李箱、臺中之飯店訂
+    房資料交付ALZHEDE，ALZHEDE把旅程中所需之個人衣物一併
+    放入該行李箱，於104年1月19日晚間，ALZHEDE、
+    CANNIZZARO自泰國曼谷搭乘復興航空GE-868號班機，於104
+    年1月20日凌晨1時30分許，兩人一同入境臺灣地區而在桃園
+    中正國際機場會合，隨即同搭計程車前往該跨國運毒集團成
+    員所預訂位在臺中市○區○○街000號之企業家大飯店，孰
+    料ALZHEDEH抵達該飯店卻發覺領取之行李箱無法以原密碼開
+    啟，經與「AJAR」聯絡，另改投宿距離該飯店約200公尺位
+    在臺中市○區○○路0段000號之新驛飯店，ALZHEDEH和復興
+    航空客服人員、「BYJAY」、「AJAR」多方交錯聯繫查知此
+    乃ALZHEDEH前在機場錯領同班機其他旅客託運外觀相似之行
+    李箱所致，惟該跨國運毒集團成員擔心藏有海洛因之行李箱
+    遭警查獲，「AJAR」、「BYJAY」不斷電催ALZHEDE要求立刻
+    返回桃園中正國際機場提領藏有海洛因之行李箱，於104年1
+    月20日下午，ALZHEDE遂從臺中搭乘計程車北上桃園中正國
+    際機場欲領藏有海洛因之行李箱，但該行李箱經警執行X光
+    檢查儀檢測已然發現可疑，嗣則查獲其內夾藏如附表一編號
+    所示之海洛因。
+  (二)於104年1月20日，「BYJAY」乃在泰國曼谷之某間飯店820號
+    房將其內夾藏如附表一編號所示其中海洛因1包之行李箱
+    、凡登臺北商務飯店訂房資料交付VIVET，VIVET把旅程中所
+    需之個人衣物一併放入該行李箱，「BYJAY」同時交付VIVET
+    如附表一編號所示其中之海洛因球令其藏放內褲中轉交在
+    臺之CANNIZZARO，於104年1月20日晚間，VIVET自泰國曼谷
+    搭乘復興航空GE-868號班機，當晚7時許，在臺之
+    CANNIZZARO接獲「BYJAY」之來電，「BYJAY」指示
+    CANNIZZARO前去桃園中正國際機場接應VIVET領取如附表一
+    編號所示其中之海洛因球，CANNIZZARO立刻搭乘計程車北
+    上前往桃園中正國際機場，於104年1月21日凌晨1時許，
+    VIVET入境臺灣地區，於104年1月21日凌晨1時50分許，適該
+    行李箱經警執行X光檢查儀檢測已然發現可疑，嗣則查獲其
+    內夾藏如附表一編號所示其中之海洛因1包，又在VIVET
+    身上之內褲中查獲如附表一編號所示其中之海洛因球，另
+    亦查獲前來接應之CANNIZZARO。
+二、案經內政部警政署航空警察局移送臺灣桃園地方法院檢察署
+    檢察官偵查起訴。
+    理  由
+壹、程序方面
+一、首論法務部調查局濫用藥物實驗室鑑定書，雖屬被告
+    CANNIZZARO、VIVET、ALZHEDE以外之人於審判外之書面陳述
+    ，惟係司法警察機關送請受檢察機關概括囑託之機關鑑定所
+    作之書面報告，性質上等同檢察官囑託機關為鑑定者，合於
+    刑事訴訟法第208條、第206條第1項規定，乃屬同法第159條
+    第1項所示法定例外得為證據之情形（最高法院96年度台上
+    字第2860號刑事判決意旨參照），得為證據。
+二、次論證人即內政部警政署航空警察局安全檢查大隊警員連文
+    良、洪清河、湯慶榮等人、證人即財政部關務署臺北關稽查
+    組組員蔣欣穎、林怡君等人於檢察官偵訊中所為之陳述，著
+    屬被告CANNIZZARO、VIVET、ALZHEDE以外之人於審判外之言
+    詞陳述，但經具結在案（見偵查卷1第104頁、偵查卷2第35
+    頁至第36頁、第86頁至第87頁），更據所有被告於本院準備
+    程序中敘明願對各該證人放棄行使詰問權（見本院矚重訴字
+    卷1第159頁及該頁背面）、進且所有被告及辯護人於本院準
+    備程序中捨棄傳訊各該證人（見本院矚重訴字卷1第159頁及
+    該頁背面），未涉不當剝奪任一被告詰問權之行使（最高法
+    院95年度台上字第6675號、96年度台上字第4064號刑事判決
+    意旨參照），況無顯不可信之情由，依刑事訴訟法第159條
+    之1第2項規定，誠具證據能力。
+三、再論財政部關務署臺北關扣押收據及搜索筆錄、內政部警政
+    署航空警察局安全檢查隊X光檢查儀注檢貨物報告表、新驛
+    商務股份有限公司104年1月24日函文、復興航空運輸股份有
+    限公司104年1月30日函文、被告CANNIZZARO名義之凡登臺北
+    商務旅館訂房紀錄、被告ALZHEDE名義之企業家大飯店訂房
+    紀錄，皆屬被告CANNIZZARO、VIVET、ALZHEDE以外之人於審
+    判外之書面陳述，然當事人、辯護人於本院審理中未曾爭執
+    證據能力（見本院矚重訴字卷3第13頁背面至第19頁），前
+    經所有被告及其等辯護人於本院準備程序中同意納為證據使
+    用（見本院矚重訴字卷1第159頁），忖以各該陳述作成時之
+    情境要無不當之處，適為本案證據，依刑事訴訟法第159條
+    之5第1項規定，亦具證據能力。
+四、至論蒐證照片、監視錄影畫面翻拍照片，乃以機械方式所留
+    存之影像畫面，則與扣案如附表一所示之海洛因、如附表二
+    所示之扣案物品，俱屬非供述性證據，委無傳聞法則之適用
+    ，欠乏違背法定程序取得之情事，依刑事訴訟法第158條之4
+    反面規定，可執為證。
+貳、實體方面
+一、觀諸上揭犯罪事實，業據被告CANNIZZARO、VIVET、ALZHEDE
+    於檢察官偵訊及本院準備程序、審理中坦承不諱（見偵查卷
+    2第20頁至第31頁、第39頁至第50頁、第79頁至第82頁、本
+    院矚重訴字卷1第117頁及該頁背面、第157頁至第158頁、本
+    院矚重訴字卷3第24頁背面至第25頁），復經證人連文良、
+    洪清河、湯慶榮、蔣欣穎、林怡君於檢察官偵訊中指證綦詳
+    （見偵查卷1第100頁至第101頁、偵查卷2第30頁、第75頁至
+    第77頁），並有財政部關務署臺北關扣押收據及搜索筆錄、
+    內政部警政署航空警察局安全檢查隊X光檢查儀注檢貨物報
+    告表、新驛商務股份有限公司104年1月24日函文、復興航空
+    運輸股份有限公司104年1月30日函文、被告CANNIZZARO名義
+    之凡登臺北商務旅館訂房紀錄、被告ALZHEDE名義之企業家
+    大飯店訂房紀錄、蒐證照片、監視錄影畫面翻拍照片可佐（
+    見偵查卷1第21頁至第24頁、第36頁至第38頁、第55頁、第
+    57頁至第58頁、第62頁至第66頁、第78頁至第80頁、第114
+    頁至第115頁、偵查卷2第136頁至第137頁、偵查卷3第24頁
+    至第69頁、第72頁），更有扣案如附表一所示之海洛因、如
+    附表二所示之扣案物品為憑，而扣案如附表一編號、編號
+    所示之海洛因經送法務部調查局濫用藥物實驗室檢驗，分
+    別耗用其中微量無法秤重之海洛因與淨重0.34公克之海洛因
+    ，鑑定結果呈現「檢出海洛因成分，驗前淨重2,437.8公克
+    ，驗餘淨重2,437.8公克，推估驗前純質淨重計約2,037.51
+    公克。」「檢出海洛因成分，驗前淨重合計2,384.85公克，
+    驗餘淨重合計2,384.51公克，推估驗前純質淨重合計
+    1,993.26公克。」等情，另有法務部調查局濫用藥物實驗室
+    鑑定書可考（見本院矚重訴字卷1第41頁至第42頁），該實
+    驗室以化學呈色法、氣相層析質譜儀分析法進行鑑定，所得
+    之鑑定結果證實被告CANNIZZARO、VIVET、ALZHEDE所運輸之
+    物品洵為海洛因。綜上，足徵被告CANNIZZARO、VIVET、
+    ALZHEDE前述任意性之自白與事實相符，其等共同自泰國運
+    輸及私運海洛因進口之犯行堪以認定，本案事證臻達明確，
+    應予依法論科。
+二、海洛因乃毒品危害防制條例第2條第2項第1款明定之第一級
+    毒品，且經行政院依懲治走私條例第2條第3項授權所訂管制
+    物品管制品項及管制方式公告為第1項第3款管制進出口物品
+    。被告CANNIZZARO、VIVET、ALZHEDE自泰國運輸、私運海洛
+    因進入臺灣地區，核其等所為，均犯毒品危害防制條例第4
+    條第1項運輸第一級毒品罪、懲治走私條例第2條第1項私運
+    管制物品進口罪。至毒品危害防制條例第11條第3項之條文
+    ，就持有第一級毒品純質淨重達10公克以上者，設有科處刑
+    罰之規定，經查被告CANNIZZARO、VIVET、ALZHEDE遭查獲所
+    持有之海洛因送往鑑定之結果，可知純質淨重誠達如附表一
+    備註欄所示之重量，詳見前述，則其等所持有第一級毒品純
+    質淨重達10公克以上，但其等持有海洛因之低度行為為其等
+    運輸之高度行為所吸收，不贅論罪。所謂私運管制物品進口
+    ，係指從國外私運管制物品進入臺灣地區，既遂與否乃以進
+    入國界為準，運輸毒品罪僅以毒品實施運送為足，非以運抵
+    目的地構成犯罪完成要件，既遂與否當以起運為準，若已起
+    運即告完成輸送行為（最高法院95年度台上字第298號刑事
+    判決意旨參照），被告CANNIZZARO、VIVET、ALZHEDE與該跨
+    國運毒集團成員共同基於自境外私運海洛因進入臺灣地區之
+    犯意聯絡，使得如附表一所示之海洛因自泰國運抵臺灣地區
+    境內之桃園中正國際機場，其等運輸第一級毒品及私運管制
+    物品進口之行為俱認完成，皆為既遂犯。被告CANNIZZARO、
+    VIVET、ALZHEDE與該跨國運毒集團成員間存有犯意聯絡及行
+    為分擔，論以共同正犯。被告CANNIZZARO、VIVET、ALZHEDE
+    以一私運行為觸犯運輸第一級毒品罪、私運管制物品進口罪
+    ，為想像競合犯，依刑法第55條規定，應從一重之運輸第一
+    級毒品罪處斷。
+三、根據被告所供毒品來源之具體事證，事實審法院自行調查、
+    認定因而查獲共同正犯或共犯者，仍有毒品危害防制條例第
+    17條第1項規定之適用（最高法院101年度台上字第156號刑
+    事判決意旨參照），檢視警方查獲本案之經過，實乃內政部
+    警政署航空警察局安全檢查大隊警員透過X光檢查儀檢測發
+    現被告ALZHEDE所託運行李箱中夾藏如附表一編號所示之
+    海洛因，繼之派員跟監被告ALZHEDE及同行之被告
+    CANNIZZARO，嗣後警員跟隨被告CANNIZZARO重返桃園中正國
+    際機場，警員喬裝計程車司機上前攀談被告CANNIZZARO，問
+    出被告CANNIZZARO返回桃園中正國際機場係為接應搭乘復興
+    航空GE-868號班機之另名旅客，內政部警政署航空警察局安
+    全檢查大隊警員立刻加強針對該班機旅客所託運行李箱之檢
+    查，不久透過X光檢查儀檢測發現被告VIVET所託運之行李箱
+    中夾藏如附表一編號所示其中之海洛因1包，始能查獲全
+    案，此節業經證人即查獲本案之偵查佐辛○○於本院審理中
+    結證歷歷（見本院矚重訴字卷2第146頁），是悉警方查獲被
+    告CANNIZZARO、VIVET、ALZHEDE非因其等道出彼此之供詞，
+    惟被告CANNIZZARO於警詢中及本院準備程序中已曾先後詳陳
+    共犯「BYJAY」之人別資料、提供共犯「VINOD」之長相畫面
+    （見偵查卷2第124頁、本院矚重訴字卷2第7頁），而被告
+    VIVET於檢察官偵訊中同樣指證共犯「BYJAY」之人別資料（
+    見偵查卷3第81頁），至被告ALZHEDE於警詢及本院準備程序
+    中亦願指認共犯「VINOD」之長相畫面（見偵查卷3第12頁、
+    本院矚重訴字卷第157頁及該頁背面），警方甚至據以調取
+    共犯「BYJAY」之護照內容影本確認身分（見偵查卷第129頁
+    ），何況本院端詳共犯「VINOD」之長相畫面清晰得辨該人
+    之外貌（見本院矚重訴字卷2第19頁），被告CANNIZZARO、
+    VIVET於本院審理中更以證人之身分證稱共犯「BYJAY」、「
+    VINOD」各為護照內容影本、長相畫面顯示之人（見本院矚
+    重訴字卷3第8頁、第9頁背面、第10頁背面），再者證人辛
+    ○○於本院審理中言明警方若未聽聞被告CANNIZZARO、
+    VIVET、ALZHEDE之描述即無懷疑共犯「BYJAY」、「VINOD」
+    涉案之情資（見本院矚重訴字卷2第146頁），可謂被告
+    CANNIZZARO、VIVET、ALZHEDE供出毒品來源經由本院之調查
+    、認定因而查獲共犯「BYJAY」、「VINOD」，不能擅執檢方
+    及警方回函表示迄未查獲任一共犯之說法作為不利於被告
+    CANNIZZARO、VIVET、ALZHEDE之認定，依毒品危害防制條例
+    第17條第1項規定，減輕被告CANNIZZARO、VIVET、ALZHEDE
+    之刑度；又其等於偵查及審理中均自白犯行，依同條例第17
+    條第2項規定，減輕其等之刑度，並遞減之。爰審酌被告
+    CANNIZZARO、VIVET、ALZHEDE坦承己過及深感悔悟之犯後態
+    度頗佳，忖度本案運輸海洛因之數量偏多幸未流入市面、其
+    等所能獲取之運毒報酬不高、其等乃受該跨國運毒集團成員
+    之金錢或物品誘惑被人利用加入運輸海洛因之行列、被告
+    CANNIZZARO居中接應之涉案程度較深，觀之被告CANNIZZARO
+    、VIVET、ALZHEDE從未觸犯其他罪責之素行良好，兼衡被告
+    CANNIZZARO之父母年邁而其本身腎臟只剩1枚影響工作能力
+    、被告VIVET經歷泰國政變造成其所經營之餐廳歇業無法扶
+    養3名稚齡之未成年子女、被告ALZHEDE負擔不起4名子女之
+    教養費用且其一子罹患關節炎仰賴定期注射控制病情、其等
+    之家境經濟非常困窘及其等之犯罪動機、目的、手段等項一
+    切情狀，分別量處如主文所示之刑，以符罪刑相當及比例原
+    則，實現刑罰權之公平正義。探究刑法第59條之立法意旨，
+    該條所謂「犯罪之情狀顯可憫恕」，係指裁判者審酌同法第
+    57條各款所列事項及其他一切與犯罪相關情狀之結果，認為
+    犯罪堪值憫恕而言，意即犯罪另有特殊之原因與環境等項因
+    素造就，必須思索一切犯罪情狀，在客觀上顯然足以引起一
+    般同情，認為倘予宣告法定最低刑度猶嫌過重，始有適用。
+    就被告CANNIZZARO、VIVET、ALZHEDE之犯行於論罪及科刑時
+    所審酌之情狀，既經本院詳加敘明如上，固然所有被告於犯
+    後供陳犯行，但其等所為實已相當程度漠視毒品氾濫、危害
+    社會秩序，罔顧一旦毒品流入臺灣地區將使我國眾多人民受
+    害、家庭破碎衍生各類案件，許多吸毒者便無從健全地陪伴
+    妻兒、孝順尊長、發展自我、奉獻社會，如若遽予憫恕被告
+    CANNIZZARO、VIVET、ALZHEDE酌減其刑，難收改過遷善之效
+    ，無法達成刑罰特別預防之目的，縱使其等所敘之經濟困頓
+    或家庭成員生活仰賴照料一節無訛，仍應尋求合法之管道協
+    助處理解決經濟難題及家庭事務，斟之常情事理及國民法律
+    感情，殊無何等足以引起一般同情之客觀事由致值憫恕之處
+    ，是俱不依刑法第59條規定酌減其刑，觀諸其等辯護人主張
+    之遭遇皆屬法院於法定刑內審酌量刑之標準，不得據為援引
+    刑法第59條規定酌減其刑之理由。被告CANNIZZARO、VIVET
+    、ALZHEDE均無中華民國之國籍，各係法國籍、法國籍、伊
+    拉克籍之外國人士，其等受本案有期徒刑以上刑之宣告，而
+    在臺灣地區現無職業、亦無固定住居所，凡此各節已據其等
+    詳承無訛，哀憐其等泣稱心欲返國等語，綜覽犯罪情節、權
+    衡比例原則，認有驅逐其等出境之必要，依刑法第95條規定
+    ，命於刑之執行完畢或赦免後驅逐出境。
+四、扣案如附表一所示之海洛因，乃查獲之第一級毒品，依毒品
+    危害防制條例第18條第1項前段規定，宣告沒收銷燬，而外
+    包裝保鮮膜及外包裝袋其上含有微量海洛因無法析離，應與
+    毒品視為一體，依同一規定，一併宣告沒收，至論鑑驗耗用
+    之海洛因，滅失不復存在，無庸宣告沒收；扣案如附表二所
+    示之物品，各如附表二備註欄所示分屬被告或共犯其一所有
+    ，分別供作包裹、裝藏海洛因以利私運或運輸海洛因聯繫之
+    用，業據被告CANNIZZARO、VIVET、ALZHEDE陳明在卷（見本
+    院矚重訴字卷1第157頁至第158頁），揆諸共犯連帶沒收原
+    則，依同條例第19條第1項前段規定，宣告沒收；未扣案如
+    附表三所示被告CANNIZZARO、VIVET所得之現金，乃其等各
+    獲共犯「BYJAY」預付運輸海洛因之部分報酬，雖未扣案，
+    惟為運輸海洛因所得之財物，依毒品危害防制條例第19條第
+    1項規定，應於被告CANNIZZARO、VIVET、ALZHEDE共同所犯
+    之罪主文項下宣告連帶沒收，宣告連帶沒收之外，如全部或
+    一部不能沒收時，以其等財產連帶抵償之；末論扣案如附表
+    四所示之SIM卡，則據被告ALZHED提及該物品與本案犯罪毫
+    無關係等語（見本院矚重訴字卷1第157頁），茲不為沒收之
+    諭知。
+據上論斷，應依刑事訴訟法第299條第1項前段，毒品危害防制條
+例第4條第1項、第17條、第18條第1項前段、第19條第1項，懲治
+走私條例第2條第1項，刑法第11條、第28條、第55條、第95條，
+判決如主文。
+本案經檢察官黃瑞盛到庭執行職務。
+中    華    民    國   104    年    9     月    1     日
+                  刑事第一庭  審判長法  官  謝順輝
+                                    法  官  涂偉俊
+                                    法  官  俞力華
+以上正本證明與原本無異。
+如不服本判決應於收受判決後10日內向本院提出上訴書狀，並應
+敘述具體理由。其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書( 均須按他造當事人之人數附繕本) 「切勿
+逕送上級法院」。 
+
+                                    書記官  王嘉祺
+中    華    民    國   104    年    9     月    2     日
+附表一：本院宣告沒收銷燬之扣案海洛因
+┌──┬───────┬──────────────────┐
+│編號│物  品  名  稱│備                                註│
+├──┼───────┼──────────────────┤
+│  │被告ALZHEDE所 │為警扣得驗前淨重2,437.8公克之海洛因 │
+│    │託運行李箱中夾│及重約55.19公克之包裝保鮮膜，經送鑑 │
+│    │藏之海洛因1包 │定用罄其中微量無法秤重之海洛因，現仍│
+│    │              │留存驗餘淨重2,437.8公克之海洛因、殘 │
+│    │              │留微量海洛因無法完全析離之包裝保鮮膜│
+│    │              │，而該包海洛因之純度約為83.58％，便 │
+│    │              │可計算估出該包海洛因之驗前純質淨重計│
+│    │              │約2,037.51公克。                    │
+├──┼───────┼──────────────────┤
+│  │被告VIVET所託 │為警扣得驗前淨重合計2,384.85公克之海│
+│    │運行李箱中夾藏│洛因及重約55.37公克之包裝袋，經送鑑 │
+│    │之海洛因1包   │定用罄其中淨重0.34公克之海洛因，現則│
+│    ├───────┤僅存驗餘淨重合計2,384.51公克之海洛因│
+│    │被告VIVET所穿 │、殘留微量海洛因無法完全析離之包裝袋│
+│    │內褲中藏放之海│，而該兩包海洛因之純度約為83.58％， │
+│    │洛因1小袋（即 │便可計算估出該兩包海洛因之驗前純質淨│
+│    │所謂之海洛因球│重計約1,993.26公克。                │
+│    │）            │                                    │
+└──┴───────┴──────────────────┘
+附表二：本院宣告沒收之扣案物品
+┌──┬─────────────┬────────────┐
+│編號│物      品      名      稱│備                    註│
+├──┼─────────────┼────────────┤
+│  │黑色膠帶數條              │乃屬該跨國運毒集團成員所│
+│    │                          │有供作包裹如附表一編號│
+│    │                          │所示之海洛因、如附表一編│
+│    │                          │號所示其中之海洛因1包 │
+│    │                          │之用。                  │
+├──┼─────────────┼────────────┤
+│  │被告ALZHEDE、VIVET所託運之│乃屬該跨國運毒集團成員所│
+│    │行李箱各1只及其內含夾板各1│有供作裝藏如附表一編號│
+│    │件                        │所示之海洛因、如附表一編│
+│    │                          │號所示其中之海洛因1包 │
+│    │                          │之用。                  │
+├──┼─────────────┼────────────┤
+│  │號碼000000000000號SAMSUNG │乃屬被告CANNIZZARO所有持│
+│    │廠牌行動電話1具及其內含電 │供運輸海洛因聯繫之用。  │
+│    │池1枚、SIM卡1張           │                        │
+├──┼─────────────┼────────────┤
+│  │號碼00000000000號SAMSUNG廠│乃屬共犯「BYJAY」所有借 │
+│    │牌行動電話1具及其內含電池1│給被告VIVET持供運輸海洛 │
+│    │枚、SIM卡1張              │因聯繫之用。            │
+├──┼─────────────┼────────────┤
+│  │號碼0000000000000000000號 │乃屬被告ALZHEDE所有持供 │
+│    │SAMSUNG廠牌行動電話1具及其│運輸海洛因聯繫之用。    │
+│    │內含電池1枚、SIM卡1張＋號 │                        │
+│    │碼00000000000000000000號  │                        │
+│    │NOKIA廠牌行動電話1具及其內│                        │
+│    │含電池1枚                 │                        │
+└──┴─────────────┴────────────┘
+附表三：本院宣告沒收之未扣案物品
+┌──┬───────┬──────────────────┐
+│編號│物  品  名  稱│備                                註│
+├──┼───────┼──────────────────┤
+│  │新臺幣1,300元 │被告CANNIZZARO已先獲得共犯「BYJAY」 │
+│    │              │預付運輸海洛因之部分報酬新臺幣1,300 │
+│    │              │元。                                │
+├──┼───────┼──────────────────┤
+│  │泰銖15,000元  │被告VIVET亦先獲得共犯「BYJAY」預付運│
+│    │              │輸海洛因之部分報酬泰銖15,000元。    │
+└──┴───────┴──────────────────┘
+附表四：本院未宣告沒收之扣案物品
+┌────────────────┬────────────┐
+│物        品        名        稱│備                    註│
+├────────────────┼────────────┤
+│號碼00000000000000000000號NOKIA │乃屬被告ALZHEDE所有但未 │
+│廠牌行動電話所內含之SIM卡1張    │持供運輸海洛因聯繫之用。│
+└────────────────┴────────────┘
+附錄本案論罪科刑法條
+毒品危害防制條例第4條
+（販運製造毒品罪）
+製造、運輸、販賣第一級毒品者，處死刑或無期徒刑；處無期徒刑者，
+得併科新臺幣2,000萬元以下罰金。
+製造、運輸、販賣第二級毒品者，處無期徒刑或7年以上有期徒刑，得
+併科新臺幣1,000萬元以下罰金。
+製造、運輸、販賣第三級毒品者，處7年以上有期徒刑，得併科新臺幣
+700萬元以下罰金。
+製造、運輸、販賣第四級毒品者，處5年以上12年以下有期徒刑，得併
+科新臺幣300萬元以下罰金。
+製造、運輸、販賣專供製造或施用毒品之器具者，處1年以上7年以下有
+期徒刑，得併科新臺幣100萬元以下罰金。
+前5項之未遂犯罰之。
+懲治走私條例第2條
+（私運管制物品罪）
+私運管制物品進口、出口者，處七年以下有期徒刑，得併科新臺幣300
+萬元以下罰金。
+前項之未遂犯罰之。
+第1項之管制物品，由行政院依下列各款規定公告其管制品項及管制方
+式：
+1.為防止犯罪必要，禁止易供或常供犯罪使用之特定器物進口、出口。
+2.為維護金融秩序或交易安全必要，禁止偽造、變造之各種貨幣及有價
+  證券進口、出口。
+3.為維護國民健康必要，禁止、限制特定物品或來自特定地區之物品進
+  口。
+4.為維護國內農業產業發展必要，禁止、限制來自特定地區或一定數額
+  以上之動植物及其產製品進口。
+5.為遵守條約協定、履行國際義務必要，禁止、限制一定物品之進口、
+  出口。</pre>
+<!-- 原因：[未成年] -->
+<!-- 檔名：[D:\jupload\upload\NOK\LAWTYD\CRIMINAL\10409\01\TYDM10491.00G] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[6]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第3
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e7%9f%9a%e9%87%8d%e8%a8%b4&selectedCrmno=000001&selectedCrtid=TYD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9d%8e%e6%99%8f%e6%a6%95&sdate=&edate=&page=&searchkw=%e6%9d%8e%e6%99%8f%e6%a6%95&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20150901%2c6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1040901&jcheck=6">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20150901%2c6&v_court=TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e7%9f%9a%e9%87%8d%e8%a8%b4&jno=1&jdate=1040901&jcheck=6">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e7%9f%9a%e9%87%8d%e8%a8%b4%2c1%2c20150901%2c6','TYD+%e8%87%ba%e7%81%a3%e6%a1%83%e5%9c%92%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e7%9f%9a%e9%87%8d%e8%a8%b4','1','1040901','6')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="3"> <input type="hidden" name="v_court" value="TYD 臺灣桃園地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="李晏榕">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="李晏榕">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

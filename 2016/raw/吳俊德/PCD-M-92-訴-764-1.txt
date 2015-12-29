@@ -1,0 +1,511 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣新北地方法院-刑-92訴764</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣新北地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
+											筆 / 現在第26
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000764&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=25&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=27&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c764%2c20040728%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=764&jdate=930728&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c764%2c20040728%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=764&jdate=930728&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c764%2c20040728%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','764','930728','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">92,訴,764</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">930728</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造有價證券等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣板橋地方法院刑事判決　　　　　　　　　　　　　九十二年度訴字第七六四號
+　　公　訴　人　臺灣板橋地方法院檢察署檢察官
+　　被　　　告　甲○○
+　　指定辯護人　本院公設辯護人　己○○
+右列被告因偽造有價證券等案件，經檢察官提起公訴（九十一年度偵字第二○二一八
+、九十一年度偵緝字第一一四九號），本院判決如左：
+    主  文
+甲○○連續意圖為自己不法之所有，而侵占對於業務上所持有之物，處有期徒刑拾月
+。被訴偽造有價證券部分無罪。
+    事  實
+一、甲○○前曾於民國八十九年間因偽造有價證券案件，經本院判處有期徒刑二年，
+    緩刑五年確定，現仍在緩刑中。其自九十一年三月一日起，任職於威辰國際有限
+    公司（下稱威辰公司），擔任該公司設於臺北縣土城市○○路倉庫之通路經理，
+    負責管理該倉庫人員及貨品進出事宜，為從事業務之人。詎其竟意圖為自己不法
+    之所有，基於概括犯意，先後於如附表一所示之時間，擅自提領其所保管威辰公
+    司所販售之遊戲點數卡（領取之時間、品名、數量、金額詳如附表一所示），總
+    計貨品價值新臺幣（下同）十九萬三千二百六十五元，而將之侵占入己。嗣於同
+    年五月六日，甲○○未經辦理離職手續，即未至威辰公司上班，經威辰公司會計
+    清查帳冊，發覺甲○○領取點數卡未繳回貨款，始查覺上情。
+二、案經威辰公司訴由臺北縣政府警察局海山分局報請臺灣板橋地方法院檢察署檢察
+    官偵查起訴。
+    理  由
+壹、有罪部分：
+一、訊據被告甲○○固不否認領取如附表一所示之點數卡販售，惟矢口否認有何業務
+    侵占犯行，辯稱：伊係威辰公司通路經理，擔任公司所有網路點數卡販售及管理
+    威辰公司設於土城市○○路倉庫貨品進出情形等事務，惟伊並未負責公司業務、
+    倉管、會計人員之考評及監督；又伊雖領取上開點數卡，然均全數販售予客戶庚
+    ○○，因庚○○收取點數卡後未給付貨款，事後伊亦曾將客戶庚○○所交付之同
+    額支票寄送給公司，惟遭公司拒絕，是苟伊有侵占意圖，何以交付該支票予公司
+    ，故而伊並無侵占公司之點數卡，此外，亦有客戶庚○○所簽立之保管條可資證
+    明，顯見伊並無侵占犯意云云。經查：被告為威辰公司通路經理，負責管理土城
+    市○○路倉庫事宜，其於如附表一所示時間自公司倉庫領取點數卡後，其後未將
+    販售點數卡之款項繳還公司等情，迭據告訴人丙○○於偵查及審理中指述甚詳（
+    參見九十一年度偵緝字第一一四九號偵查卷第二十五頁、二十六頁、本院審理卷
+    九十二年三月二十八日訊問筆錄），並有銷貨單六紙、威辰公司客戶商品明細表
+    一紙、存證信函一紙等件在卷足參。又被告雖辯以：上開點數卡係販售予客戶庚
+    ○○，係其未繳付貨款云云，並提出庚○○所出具之保管條乙紙為證。惟經本院
+    提訊證人庚○○，其到庭後接受交互詰問證稱：伊與甲○○是因古董藝品拍賣生
+    意而認識，伊曾積欠被告十八萬元，惟伊均已清償完畢，伊並未拿取被告所交付
+    之點數卡，這張保管條是被告表示要拿回公司，教伊配合他簽名，在保管條上面
+    簽欠他十八萬多，是指借款而不是點數卡，更何況伊也不會玩電腦，究竟該點數
+    卡長什摩樣子伊都不知道等語（參見本院九十三年二月二十三日、五月十一日訊
+    問筆錄），證人亦否認曾收受被告所交付之點數卡，是以被告前開所辯，已乏依
+    據；復觀之卷附被告領取點數卡時所簽發如附表一所示之威辰公司銷（退）貨單
+    ，其中於如編號二至六所示銷（退）貨單上銷售客戶名稱欄被告填載「家樂」、
+    「王經理」、「合眾文化」等字（參見九十一年度偵字第一三九七九號偵查卷第
+    三四至三九頁），各該名稱核均與被告所稱交付點數卡之客戶「庚○○」之名，
+    顯然不同，則該點數卡是否究如被告所辯係販售予庚○○，至有疑問，訊之被告
+    復辯以：因公司規定不可將貨物交給個人，均要交給店面，所以伊才填寫「家樂
+    」、「合眾文化」等，但實際上伊並沒有交貨給「家樂」、「合眾文化」等，而
+    「王經理」就是伊等語，然告訴代理人王壁華於審理中已然否認威辰公司有如上
+    之規定，是以綜上可知，顯然被告係虛構客戶名稱擅自提領公司所有之點數卡，
+    於提領後亦未交付貨款予告訴人，則其不法所有之侵占意圖至為灼然。至告訴代
+    理人丙○○於偵審中雖指稱：被告無權販售公司點數卡，點數卡係交由公司業務
+    員去販售等語，惟依告訴人所指被告為告訴人公司土城市○○路倉庫之通路經理
+    ，負責管理該倉庫之人員及貨品進出情形等事務，因之縱然被告無權販售公司點
+    數卡，惟其擅自領取點數卡之行為，亦屬其業務執行之範疇，是其違背公司提領
+    貨品之程序，復於販售點數卡後未將貨款繳回公司，則其業務侵占犯行，足堪認
+    定。末被告又辯稱：伊曾交付庚○○所開立之同額支票乙紙予公司，惟遭公司拒
+    收，苟伊確有侵占意圖，何以猶交付該支票予公司云云，此節固為告訴人所不否
+    認，並提出支出證明單乙紙附卷為憑（參見九十一年度偵緝字第一一四九號偵查
+    卷第四十四頁），然查，被告於九十一年五月六日未經辦理離職手續即擅自離職
+    ，嗣經告訴人指派會計盤點土城分公司倉庫始發現貨品短缺，而後查覺被告領取
+    公司點數卡，且未將貨款繳回等情，亦據告訴人具狀指訴在卷，是以被告於公司
+    查覺後，始提具庚○○所出具之保管條（開立日期為九十一年五月二十五日）及
+    交付所稱客戶所簽發之貨款支票，對照證人庚○○前開否認購買點數卡之證言，
+    相互勾稽結果，顯見被告係於其業務侵占犯行為公司查覺後，為推卸己責，始請
+    庚○○出具保管條及簽立支票，以形成客戶拖欠貨款之假象，核其所為均屬事後
+    圖卸之舉，足見被告前開辯解，俱為卸責之詞，自不足採信。從而本件事證明確
+    ，被告犯行，堪以認定。
+二、核被告甲○○所為，係犯刑法第三百三十六條第二項之業務侵占罪。其先後多次
+    業務侵占犯行，時間緊接，方法相同，觸犯構成要件相同之罪名，顯係基於概括
+    之犯意反覆為之，為連續犯，應依刑法第五十六條之規定，以一罪論，並加重其
+    刑。爰審酌被告犯罪動機、目的、手段、所生危害及犯罪後猶卸詞狡辯等一切情
+    狀，量處如主文所示之刑，以示懲儆。
+貳、無罪部分：
+一、公訴意旨另以：被告甲○○與戊○○為朋友關係，因需款孔急，竟意圖為自己不
+    法之所有，於民國九十一年七月間某日，至友人戊○○位於臺北縣蘆洲市○○路
+    七十巷三號六樓之一住處，竊取戊○○所有，已蓋妥發票人印文如附表二所示之
+    空白支票九張，並意圖供行使之用，於附表二編號二、三、四、六、九所示之時
+    、地，由自己或授權友人壬○○偽造如附表二編號二、三、四、六、九所示之發
+    票日、票面金額使用，嗣因其中之持票人王惠齡提示不獲付款，經警循線查獲，
+    始查知上情。因認被告另涉犯刑法第三百二十條第一項普通竊盜罪、第二百零一
+    條第一項之偽造有價證券罪等罪嫌云云。
+二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實。又不能證明被告犯罪者
+    ，應諭知無罪之判決，刑事訴訟法第一百五十四條第二項、第三百零一條第一項
+    分別定有明文。再事實之認定，應憑證據，如未能發現相當證據，或證據不足以
+    證明，自不能以推測或擬制之方法，為裁判基礎（最高法院四十年臺上字第八六
+    號判例參照），且為刑事訴訟法上證明之資料，無論其為直接證據或間接證據，
+    均須達於通常一般之人均不致於有所懷疑，而得確信其為真實之程度，始得據為
+    有罪之認定，若其關於被告是否犯罪之證明未能達此程度，而有合理性懷疑之存
+    在，致使無從形成有罪之確信，根據「罪證有疑，利於被告」之證據法則，即不
+    得遽為不利於被告之認定（參照最高法院七十六年臺上字第四九八六號判例）。
+    按被告之自白，不得作為有罪判決之唯一證據，仍應調查其他必要之證據，以察
+    其是否與事實相符。再按刑法上所謂偽造有價證券，以無權簽發之人冒用他人名
+    義簽發為要件，如果行為人基於本人之授權，或其他因有權簽發者，則與無權之
+    偽造行為不同，有最高法院五十三年台上字第一八一○號判例可資參照。
+三、公訴人認被告涉有偽造有價證券罪嫌，無非被告於第一次偵訊中供承明確，核與
+    告訴人戊○○於指訴情節相符，且據證人壬○○、王惠齡等人之證述，此外並有
+    支票四紙、退票理由單二紙附卷，為其論據。訊據被告甲○○堅決否認有何此部
+    分竊盜及偽造有價證券犯行，辯稱：支票是告訴人戊○○先後借給伊使用，並非
+    伊所竊取，告訴人於借用後，猶曾與伊同赴銀行匯款至帳戶以供持票人兌付支票
+    等語。經查：
+(一)被告甲○○於九十一年十一月四日下午三時三十分第一次偵查中固坦承行竊告訴
+    人所有之九張支票云云（參見九十一年度偵字第二０二一八號偵查卷第三十六頁
+    背面），惟旋於同日下午四時第二次偵查中即否認前開犯行，辯稱：上一次因為
+    告訴人有帶別人來，伊害怕，才謊稱是伊竊的，其實是告訴人親手借給伊的，其
+    中九十一年七月十五日該張支票還是告訴人與伊一同去銀行兌現，可向銀行調取
+    錄影帶等語（同前卷第四十頁背面），嗣迭於偵審中亦否認上開竊盜、偽造有價
+    證券犯行，是被告前開不一致之自白，已難採為證據，公訴人所稱被告坦承犯行
+    ，顯有誤會，合先敘明。
+(二)其次，告訴人戊○○固於九十一年八月十二日，向花蓮區中小企業銀行（以下簡
+    稱花蓮中小企銀）蘆洲分行辦理票號：ＨＡ0000000、ＨＡ000000
+    0、ＨＡ0000000、ＨＡ0000000、ＨＡ0000000、ＨＡ0
+    000000、ＨＡ0000000、ＨＡ0000000、ＨＡ000000
+    0等九張支票之掛失止付手續，並指稱上開支票係於同年七月十六日至二十四日
+    於蘆洲市○○街七十巷三號六樓之一住處失竊，此有票據掛失止付通知書影本乙
+    份在卷足稽。惟依告訴人戊○○陳述其所有上開支票失竊之經過，其於警訊中先
+    指訴：伊於九十一年七月二十一日上午十一時，因花蓮企銀蘆洲分行通知伊所有
+    之支票票號ＨＡ0000000號遭人使用，所以才知道伊放在家中蘆洲市○○
+    街七十巷三號六樓之一的支票遭竊；伊所失竊之支票共九張，號碼各為ＨＡ00
+    00000、一一、一二、一三、一四、一六、一七、一八及二０號，其中除票
+    號一二及一六號等二紙支票由甲○○友人劉一刀處取回外，另七張下落不明等語
+    ，惟依告訴人向花蓮中小企銀蘆洲分行申報遺失之票據票號為ＨＡ000000
+    0、一一、一三、一四、一七、一八、二０、二一、二二號，核與告訴人其後於
+    警訊中所供遺失之票據票號之ＨＡ0000000、一一、一二、一三、一四、
+    一六、一七、一八及二０號，互有出入，因之究竟其遭被告所竊取之支票票號為
+    何，告訴人前後供述不一，其指訴已有瑕疵；再者，辜不論告訴人先後二次指訴
+    ，何者為真，惟票號ＨＡ0000000、ＨＡ0000000號支票均未見告
+    訴人申報遺失或失竊，是衡諸一般社會常情，通常使用支票者多以順號逐張撕取
+    使用，尚不致跳號使用支票，更甚者，苟如告訴人所指，其所有之上開支票確為
+    遭人行竊而遺失云云，則行竊者自更無可能特意留下其中ＨＡ0000000、
+    ＨＡ0000000號二紙支票，而恣意抽取行竊支票之理，益見告訴人之指訴
+    不符常情；再告訴人嗣於本院審理中，經詢以何時發現支票遺失乙節，其復指稱
+    ：就是第一張七月二十五日銀行通知伊稱有一張支票到期，金額約七萬八千四百
+    多元，教伊快點去存款，伊才發現支票被撕掉將近十張，伊趕去銀行，銀行有將
+    支票影印給伊，伊發現背面有他的背書，所以就開始找甲○○，當時都找不到他
+    的人，因為伊要趕快找其他背書的人，所以就去漢宮舞廳，到了舞廳，舞廳的人
+    就向我要錢，伊就說這張支票是被偷的，就將現金給他們贖回這張支票作為證據
+    等語（參見本院九十二年五月九日訊問筆錄），是依告訴人所指其遭被告竊取之
+    支票係於九十一年七月下旬（先稱七月二十一日，又稱七月二十五日），經銀行
+    通知由訴外人王惠齡持以兌現之發票日為九十一年七月二十五日，票號ＨＡ00
+    00000號、金額新臺幣（下同）七萬八千四百八十元之該紙支票，始查覺其
+    失竊支票乙事，惟經本院向告訴人開立支票存款帳戶之花蓮中小企銀蘆洲分行函
+    調告訴人所稱失竊之如附表二所示之支票，其中編號一之票號ＨＡ000000
+    0號、金額十八萬九千三百元、發票日為九十一年七月十五日之支票，其兌付人
+    為乙○○，另編號七之票號ＨＡ0000000號、金額四萬元、發票日為九十
+    一年七月二十三日之支票，其兌付人為辛○○，此有各該支票二紙附卷為證，是
+    公訴人依告訴人之指述稱此二紙支票未經簽發云云，已與事實不符，其中編號一
+    之該紙支票，訊據被告則供稱：當時係告訴人借伊，伊再交付予周小姐等語，再
+    經本院傳喚該紙支票之兌付人乙○○於本院審理中到庭接受交互詰問亦證稱：該
+    支票為被告所交付，並已如期兌現等語，核與被告所供相符，再參諸上開二紙支
+    票，其兌付日期分別為九十一年七月十五日、七月二十三日，顯然於告訴人所稱
+    於九十一年七月二十五日第一紙支票兌現時，始知其所有支票遺失日期之前，是
+    以於各該紙支票兌現時，何以告訴人均未發現其所有之支票遺失，並使各該支票
+    順利兌付？猶有甚者，一般人於發現自己所有之票據遺失，為避免自身之票據信
+    用受損，抑或遭人不當使用，為保障票據權益，自於發現票據遺失時，迅即赴銀
+    行辦理掛失止付之保全程序，惟反觀本件告訴人自稱於九十一年七月二十五日即
+    知上開支票遺失，竟遲至同年八月十二日始向銀行申報遺失辦理掛失止付，則其
+    所為在在啟人疑竇，足見告訴人明知如附表二所示之支票並非失竊，而係借予被
+    告使用至明，則被告所辯上開支票係向告訴人戊○○所借用乙節，應與事實相符
+    而可採信。至被告於審理中雖陳稱：上開支票係分四次向告訴人借用，都是陸陸
+    續續借的，總共借了十二張，並將十二張支票分別交給壬○○（即劉一刀）、王
+    小姐、庚○○等人等語，並據證人壬○○、王惠齡、庚○○於偵審中到庭證述收
+    受被告所交付之發票人為告訴人之支票無誤，雖渠等彼此間就支票交付之數量及
+    簽發之方式之陳述，略有不符，惟上開支票既為告訴人所交付予被告使用，則其
+    本於告訴人之授權，將如附表二所示之支票再行轉讓、簽發交付予他人，自與偽
+    造有價證券之構成要件不符。
+(三)綜合上開所述，告訴人之指訴既有上開諸多瑕疵，且與本院函調之證據資料不符
+    ，告訴人復未能提出其他積極證據以供本院調查，是尚難僅憑告訴人之指訴，遽
+    認被告即有公訴人所指之竊盜、偽造有價證券犯行，此外，復查無其他積極證據
+    足證被告有何前開犯行，茲既不能證明被告此部分犯罪，揆諸前揭說明，自應依
+    法為被告此部分無罪之諭知。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段、第三百零一條第一項，刑法
+第五十六條、第三百三十六條第二項，罰金罰鍰提高標準條例第一條前段，判決如主
+文。
+本案經檢察官丁○○到庭執行職務
+中　　　華　　　民　　　國　　九十三　　年　　　七　　　月　　二十八　　日
+                                  臺灣板橋地方法院刑事第十庭
+                                      審判長  法  官  徐  蘭  萍
+                                              法  官  林  淑  婷
+                                              法  官  彭  全  曄
+右正本證明與原本無異
+如不服本判決，應於判決送達後十日內，向本院提出上訴狀。
+                                              書記官  莊  川  億
+中　　　華　　　民　　　國　　九十三　　年　　　七　　　月　　二十八　　日
+附錄本案論罪科刑法條全文：
+中華民國刑法第三百三十六條
+(公務公益侵占罪、業務侵占罪)
+對於公務上或因公益所持有之物，犯前條第一項之罪者，處一年以上七年
+以下有期徒刑，得併科五千元以下罰金。
+對於業務上所持有之物，犯前條第一項之罪者，處六月以上五年以下有期
+徒刑，得併科三千元以下罰金。
+前二項之未遂犯罰之。
+附表一：
+┌─┬──────┬──────┬──┬──┬─────┬───────┐
+│編│時        間│品        名│數量│單位│金      額│備          註│
+│號│            │            │    │    │（新台幣）│              │
+├─┼──────┼──────┼──┼──┼─────┼───────┤
+│一│九十一年三月│天堂點數卡一│八十│包  │一萬零二百│由甲○○取出販│
+│  │二十一日    │百五十點    │    │    │元        │賣，惟未交付之│
+│  │            │            │    │    │          │款項          │
+├─┼──────┼──────┼──┼──┼─────┼───────┤
+│二│九十一年四月│天堂點數卡一│共計│包  │六千五百二│同右          │
+│  │一日        │百五十點    │四十│    │十五元    │              │
+│  │            │天堂點數卡三│    │    │          │              │
+│  │            │百點        │    │    │          │              │
+│  │            │金庸一百五十│    │    │          │              │
+│  │            │點          │    │    │          │              │
+│  │            │石器一百五十│    │    │          │              │
+│  │            │點          │    │    │          │              │
+├─┼──────┼──────┼──┼──┼─────┼───────┤
+│三│九十一年四月│天堂點數卡三│共計│包  │二萬五千五│同右          │
+│  │二日        │百點        │一百│    │百元      │              │
+│  │            │            │    │    │          │              │
+├─┼──────┼──────┼──┼──┼─────┼───────┤
+│四│九十一年四月│天堂點數卡三│共計│包  │二萬二千二│同右          │
+│  │二日        │百點        │二百│    │百二十元  │              │
+│  │            │天堂點數卡一│    │    │          │              │
+│  │            │百五十點    │    │    │          │              │
+│  │            │天堂點數卡五│    │    │          │              │
+│  │            │百點        │    │    │          │              │
+├─┼──────┼──────┼──┼──┼─────┼───────┤
+│五│九十一年四月│龍族一百五十│十  │包  │一千三百二│同右          │
+│  │八日        │點          │    │    │十元      │              │
+├─┼──────┼──────┼──┼──┼─────┼───────┤
+│六│九十一年四月│天堂點數卡一│共計│包  │十二萬七千│同右          │
+│  │二十日      │百五十點    │九百│    │五百元    │              │
+│  │            │天堂點數卡三│    │    │          │              │
+│  │            │百點        │    │    │          │              │
+├─┴──────┴──────┴──┴──┴─────┴───────┤
+│合計金額（新台幣）：十九萬三千二百六十五元。                          │
+│(起訴書原誤載為十九萬九千零八十元)                                    │
+└───────────────────────────────────┘                                                  九十二年度訴字第七六四號
+附表二：
+┌─┬─────┬───┬───┬───┬───┬─────┬─────┐
+│編│支票號碼　│發票人│付款人│兌現日│票面  │簽發暨使用│備註      │
+│號│          │      │      │金額  │情形  │          │          │
+│  │          │      │      │      │      │          │          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│一│HA0000000 │戊○○│花蓮中│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F58E2A0A00000040.GIF" />7.<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63E2A0A00000040.GIF" />│      │原起訴意旨│經調查結果│
+│　│  　　　　│  　  │小企業│  　　│　    │載明為未簽│由乙○○持│
+│　│  　　　　│ 　   │銀行蘆│      │      │發使用    │有，票面金│
+│  │          │      │行    │      │    　│  　　  　│額為十八萬│
+│  │          │      │      │      │      │          │九千三百元│
+│  │          │      │      │      │      │          │，於九十一│
+│  │          │      │      │      │      │          │年七月十五│
+│  │          │      │      │      │      │          │日兌現    │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│二│HA0000000 │戊○○│花蓮中│91.07.│78480 │原起訴意旨│已返還告訴│
+│　│  　　　　│  　  │小企業│25　　│　    │載明被告於│人        │
+│　│  　　　　│ 　   │銀行蘆│      │      │不詳時地簽│          │
+│  │          │      │行    │      │    　│發後，於九│          │
+│  │          │      │      │      │      │十一年七月│          │
+│  │          │      │      │      │      │間，在台北│          │
+│  │          │      │      │      │      │市漢宮舞廳│          │
+│  │          │      │      │      │      │交予王惠齡│          │
+│  │          │      │      │      │      │清償消費款│          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│三│HA0000000 │戊○○│花蓮中│91.10.│100000│原起訴意旨│已返還告訴│
+│　│  　　　　│  　  │小企業│15　　│　    │載明被告借│人        │
+│　│  　　　　│ 　   │銀行蘆│      │      │友人壬○○│          │
+│  │          │      │行    │      │    　│，並授權劉│          │
+│  │          │      │      │      │      │繼宗於不詳│          │
+│  │          │      │      │      │      │時地簽發  │          │
+│  │          │      │      │      │      │          │          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│四│HA0000000 │戊○○│花蓮中│91.08.│122560│原起訴意旨│已返還告訴│
+│　│  　　　　│  　  │小企業│10 　 │　    │載明被告於│人        │
+│　│  　　　　│ 　   │銀行蘆│      │      │不詳時地簽│          │
+│  │          │      │行    │      │    　│發後，於九│          │
+│  │          │      │      │      │      │十一年七月│          │
+│  │          │      │      │      │      │間，在台北│          │
+│  │          │      │      │      │      │市漢宮舞廳│          │
+│  │          │      │      │      │      │交付予王惠│          │
+│  │          │      │      │      │      │齡清償消費│          │
+│  │          │      │      │      │      │款        │          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│五│HA0000000 │戊○○│花蓮中│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F58E2A0A00000040.GIF" />7.<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63E2A0A00000040.GIF" />│      │原起訴意旨│經調查結果│
+│　│  　　　　│  　  │小企業│  　　│　    │載明為未簽│無人提示  │
+│　│  　　　　│ 　   │銀行蘆│      │      │發使用    │          │
+│  │          │      │行    │      │    　│  　　  　│          │
+│  │          │      │      │      │      │          │          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│六│HA0000000 │戊○○│花蓮中│91.07.│250000│原起訴意旨│已返還告訴│
+│　│  　　　　│  　  │小企業│30 　 │　    │載明被告借│人        │
+│　│  　　　　│ 　   │銀行蘆│      │      │予友人劉繼│          │
+│  │          │      │行    │      │    　│宗使用，並│          │
+│  │          │      │      │      │      │授權壬○○│          │
+│  │          │      │      │      │      │於不詳時地│          │
+│  │          │      │      │      │      │簽發      │          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│七│HA0000000 │戊○○│花蓮中│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F58E2A0A00000040.GIF" />7.<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63E2A0A00000040.GIF" />│      │原起訴意旨│經調查結果│
+│　│  　　　　│  　  │小企業│  　　│　    │載明為未簽│由辛○○持│
+│　│  　　　　│ 　   │銀行蘆│      │      │發使用    │有，票面金│
+│  │          │      │行    │      │    　│  　　  　│額四萬元，│
+│  │          │      │      │      │      │          │並於九十一│
+│  │          │      │      │      │      │          │年七月二十│
+│  │          │      │      │      │      │          │三日兌現  │
+│  │          │      │      │      │      │          │          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│八│HA0000000 │戊○○│花蓮中│<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F58E2A0A00000040.GIF" />7.<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100F63E2A0A00000040.GIF" />│189300│原起訴意旨│經調查結果│
+│　│  　　　　│  　  │小企業│  　　│　    │載明為未簽│無人提示  │
+│　│  　　　　│ 　   │銀行蘆│      │      │發使用    │          │
+│  │          │      │行    │      │    　│  　　  　│          │
+├─┼─────┼───┼───┼───┼───┼─────┼─────┤
+│九│HA0000000 │戊○○│花蓮中│91.08.│35000 │原起訴意旨│已返還告訴│
+│　│  　　　　│  　  │小企業│10 　 │　    │載明為被告│人        │
+│　│  　　　　│ 　   │銀行蘆│      │      │簽發向楊文│          │
+│  │          │      │行    │      │    　│雅借得同額│          │
+│  │          │      │      │      │      │現金，嗣楊│          │
+│  │          │      │      │      │      │文雅再轉交│          │
+│  │          │      │      │      │      │予<font color='red'>吳俊德</font>清│          │
+│  │          │      │      │      │      │償車款    │          │
+└─┴─────┴───┴───┴───┴───┴─────┴─────┘
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Judday\OK\LAWPCD\CRIMINAL\9307\28\PCDM937S.635] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共28
+											筆 / 現在第26
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=092&selectedCrmid=%e8%a8%b4&selectedCrmno=000764&selectedCrtid=PCD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=25&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=27&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=92%2c%e8%a8%b4%2c764%2c20040728%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=764&jdate=930728&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=92%2c%e8%a8%b4%2c764%2c20040728%2c1&v_court=PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=92&jcase=%e8%a8%b4&jno=764&jdate=930728&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('92%2c%e8%a8%b4%2c764%2c20040728%2c1','PCD+%e8%87%ba%e7%81%a3%e6%96%b0%e5%8c%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','92','%e8%a8%b4','764','930728','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="26"> <input type="hidden" name="v_court" value="PCD 臺灣新北地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

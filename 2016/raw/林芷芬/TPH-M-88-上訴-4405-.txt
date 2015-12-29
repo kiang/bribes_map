@@ -1,0 +1,497 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-刑-88上訴4405</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+ywHECHFlY/0CE9FgFOlXEeDSP3M=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=004405&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c4405%2c20000120&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=4405&jdate=890120&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c4405%2c20000120&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=4405&jdate=890120&jcheck=">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('88%2c%e4%b8%8a%e8%a8%b4%2c4405%2c20000120','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','88','%e4%b8%8a%e8%a8%b4','4405','890120','')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">88,上訴,4405</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">890120</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">偽造文書等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　　　　　　八十八年度上訴字第四四０五號
+　　上　訴　人　臺灣臺北地方法院檢察署檢察官
+　　上　訴　人
+　　即　被　告　甲○○
+　　選任辯護人　許晏賓
+　　　　　　　　姚念林
+右上訴人，因被告偽造文書等案件，不服台灣台北地方法院，八十八年度訴字第四五
+號，中華民國八十八年九月八日第一審判決（起訴案號：台灣台北地方法院檢察署
+八十八年度偵字第二三七四號及移送併辦：八十八年度偵字第三八四七、五三二四、
+二三０八六號），提起上訴，本院判決如左：
+    主      文
+原判決撤銷。
+甲○○連續意圖為自己不法之所有，以詐術使人將本人之物交付，處有期徒刑壹年。
+    事      實
+一、甲○○明知無資力繳付會款，且亦無召集互助會或參加互助會之真意，竟意圖為
+    自己不法之所有，基於概括犯意，自民國八十七年三月間起，虛列如附表一至四
+    所示莊炯林、林敏東、謝宜恬、周玉珠、高二知、鄭恆存、吳麗香、林嘉明、何
+    俊明、蔡月娥、張淑女、<font color='red'>林芷芬</font>等會員，以自己名義或冒用不知情之林敏東、林
+    定東名義擔任會首，連續召集標會方式如附表二至四所示之互助會，使如附表二
+    至四所示會員誤信甲○○確有召集互助會之真意，而加入上開互助會，並於如附
+    表二至四編號一所示時間，交付如附表二至四編號一所示每會應繳交之會款予甲
+    ○○。(一)先後於附表一編號一至四、附表二編號二至十、附表三編號二至六、
+    附表四編號二所示時、地，冒用其虛列如附表一至四所示之不詳會員名義，在標
+    單上填寫如附表一編號一至四、附表二編號二至十、附表三編號二至六、附表四
+    編號二所示標金金額，持以向如附表一至四所示活會會員詐稱：該被冒標之會員
+    得標等語，致使活會會員陷於錯誤，而如期交付每會應繳交之會款。(二)於八十
+    七年八月二十日，在臺北市北投區○○○路一三二號四樓，向蔡美麗佯稱：伊與
+    李明俐均擬加入以蔡美麗為會首，會期自八十七年八月二十日起至八十九年一月
+    二十日止，每會新臺幣（下同）五萬元之互助會等語，使蔡美麗陷於錯誤，誤信
+    甲○○、李明俐均有加入該互助會之真意，而允諾甲○○參加該等互助會成為會
+    員，並先後於八十七年九月二十日、十二月二十日，甲○○以自己名義及冒用李
+    明俐名義，以九千三百元、一萬零二百元得標時，蔡美麗分別交付會款六十六萬
+    零五百元、六十六萬七千四百元予甲○○。甲○○共計詐得八百九十二萬七千六
+    百元。(三)甲○○明知經濟已陷於困境，無力清償借款，猶於八十七年十二月間
+    ，向乙○○借貸一百萬元，並以其夫李振興為發票人，票號：ＡＪ000000
+    0，發票日：八十八年二月十一日，金額：一百萬元之支票一紙為擔保，詎屆期
+    經提示，以印鑑不符而退票，迄今亦未清償。迨至八十八年一月十八日甲○○乃
+    具狀向臺灣臺北地方法院檢察署自首，乙○○等會員始查知上情。
+二、案經甲○○向臺灣臺北地方法院檢察署檢察官自首偵查起訴及乙○○訴由臺灣臺
+    北地方法院檢察署檢察官移送併案審理。
+    理      由
+一、右揭事實，業據被告甲○○於偵審中坦承不諱，核與告訴人乙○○指訴情節相符
+    ，且據證人林定東、林敏東於偵查中證述屬實，並有互助會會單五紙、支票及退
+    票理由單等附卷可稽。查被告於同一期間虛列會員多人，召集多起互助會，且加
+    入他人擔任會首之互助會，又冒用虛列會員名義，冒標上開互助會，且無資力足
+    以支付該等會款，顯見被告確有利用召集互助會及參加他人互助會之方式詐得互
+    助會會款之不法意圖甚明。另被告於八十七年十二月間向告訴人乙○○借款一百
+    萬元，旋於八十八年一月十八日具狀自首涉犯詐欺罪，可見借款當時被告經濟已
+    陷於困境，並無清償借款能力，猶向告訴人借款，且迄今尚未清償，益見被告於
+    借款伊始即存有詐欺之不法意圖，從而，堪認被告上開自白應與事實相符。是本
+    件事證明確，被告犯行堪以認定，應予依法論科。
+二、核被告所為，係犯刑法第三百三十九條第一項之詐欺取財罪。臺灣臺北地方法院
+    檢察署八十八年度偵字第三八四七號、第五三二四號就被告利用召集互助會方式
+    ，詐取告訴人乙○○互助會會款及借款一百萬元移送併辦部分，雖未據起訴，惟
+    與本案起訴部分具有連續犯之裁判上一罪關係，依審判不可分關係，為起訴效力
+    所及，本院自得併予審究。被告於如附表一至四所示時、地召集互助會，並加以
+    冒標，向活會會員多人詐取會款，係一行為犯數罪，應依想像競合犯規定，從一
+    重處斷。其先後多次詐欺取財犯行，時間緊接，犯罪構成要件均相同，顯係基於
+    概括犯意為之，為連續犯，應依刑法第五十六條規定，論以一罪。又被告於犯罪
+    未發覺前，向臺灣臺北地方法院檢察署檢察官自首，有自首狀在卷可憑，應依刑
+    法第六十二條前段規定，減輕其刑。原審予以被告論罪科刑，固非無見，惟查，
+    被告於自首前夕，經濟已陷於困境，並無清償借款能力，猶向告訴人借款，已該
+    當於詐欺罪，已如前述，且公訴人請求併案審理，原審未予審究，即有未當。被
+    告上訴意旨，認原判決量刑過重及未宣告緩刑，就原審法院適法範圍裁量權之行
+    使為爭執，為無理由；而公訴人依告訴人乙○○聲請上訴意旨略以：被告迄未與
+    告訴人和解清償，甚且意圖綁架告訴人進行擄人勒贖，更屬不該，原審量刑顯屬
+    過輕云云，雖屬被告是否另涉妨害自由等罪行，告訴人得依法訴追，與本案詐欺
+    犯行，尚非有直接關係，惟惟原判決既有可議，應由本院將原判決撤銷改判。爰
+    審酌被告犯罪之動機、目的、手段、所生危害及犯罪後已與多數活會會員達成和
+    解，有和解書在卷可稽，態度尚稱良好等一切情狀，量處如主文第二項所示之刑
+    ，以示懲儆。又被告冒用會員名義書寫之標單，雖係被告所有，供犯罪所用之物
+    ，惟既未扣案，且業經丟棄，不復存在，不另宣告沒收。
+三、公訴意旨略以：被告於如附表一至四所示互助會會期期間，基於概括犯意，連續
+  冒用不詳互助會會員名義，偽造標單，詐取互助會會款，另涉有刑法第二百十六
+    條、第二百二十條、第二百十條之行使偽造私文書罪嫌。惟按刑法之偽造文書罪
+    ，須以捏造他人名義制作文書為構成要件，如文書並未冒偽他人名義為制作名義
+    人，僅誆稱係他人所制作者，本質上屬於欺罔行為，難謂已具備偽造文書之成立
+    要件（最高法院八十六年度臺上字第一三四八號判決意旨參照）。經查被告冒用
+    如附表一至四所示被冒標者之名義書寫標單，其上僅記載金額，而未書寫該被冒
+    標者之姓名，已據被告供明，並為告訴人乙○○於原審所是認，足徵被告並無冒
+    偽他人名義為制作名義人制作文書情事。矧被告書寫之標單既未載明被冒標者之
+    姓名，則該標單即尚未具備文書之形式，核其所為，除構成詐欺罪外，尚難以偽
+    造文書罪相繩，此部分犯罪尚屬不能證明，惟公訴意旨認此部分與上開有罪部分
+    有方法結果之裁判上一罪關係，依審判不可分原則，爰不另為無罪之諭知，附此
+    敘明。
+四、併辦意旨另以（臺灣臺北地方法院檢察署八十八年度偵字第二三０八六號）：被
+    告於八十七年十二月間，持以其夫李振興為發票人，票號：ＡＪ0000000
+    ，發票日：八十八年二月十一日，金額：一百萬元之支票一紙，向告訴人乙○○
+    借貸一百萬元，詎屆期經提示，竟遭以印鑑不符而退票，因認被告涉有偽造有價
+    證券罪嫌乙節。按犯罪事實應依證據認定之，無證據不能推定其犯罪事實，刑事
+    訴訟法第一百五十四條定有明文。經查，被告持以向告訴人借款之上開支票係因
+    印鑑不符而遭退票，固有支票影本及退票理由單等在卷可憑。惟查：被告向告訴
+    人乙○○借款之日應係八十七年十二月十六日，至上開支票則係被告於八十八年
+    一月十二日另行交付用以擔保該等借款，並非八十七年十二月間借款之時所交付
+    等情，已為告訴人所自承。又被告之配偶李振興所有上開支票存款帳戶，已多年
+    未予使用，自八十六年十一月三日後，即未再以該等帳戶簽發票據，此有臺北市
+    第一信用合作社支票存款對帳單在卷可稽。而上開支票係被告向其夫李振興所借
+    用，且借用之際，被告對該等票據尚須李振興之簽名等節，並不知情，亦據證人
+    李振興於偵查中證稱：十二月間，我太太向我借票，稱要調錢給友人，我沒問他
+    金額及發票日，因為該票已四年多沒有用，印鑑、票均置於抽屜內，我太太自己
+    去簽發，他不知道除印鑑外，尚要簽名，我當初以為他要開票時，會跟我講，叫
+    我開，之後我才知道他在一月十三日就自行簽發了等語屬實 (見偵字第五三二四
+    號卷八十八年三月二十二日訊問筆錄）。則被告簽發上開支票事前既已徵得李振
+    興之同意，而上開支票因多年未曾使用，被告就上開支票尚須其夫李振興之簽名
+    ，發票行為始屬完備不知情，而疏未要求其夫李振興於上開支票上簽署姓名，衡
+    情應屬可能，是被告簽發支票時伊始應無偽造之故意，尚難以偽造有價證券罪責
+    論擬，此部分犯罪尚屬不能證明，惟併案意旨認此部分與前開起訴論罪部分具有
+    裁判上一罪之關係，依審判不可分原則，亦不另為無罪之諭知，特此敘明。
+據上論斷，應依刑事訴訟法第三百六十九條第一項前段、第三百六十四條、第二百九
+十九條第一項前段，刑法第五十六條、第三百三十九條第一項、第五十五條、第六十
+二條前段，罰金罰鍰提高標準條例第一條前段，判決如主文。
+本案經檢察官鍾鳳玲到庭執行職務
+中     華     民     國    八十九   年       一       月      二十      日
+                             臺灣高等法院刑事第七庭
+                                 審判長法  官  吳  啟  民
+                                       法  官  施  俊 堯
+                                       法  官  蘇  隆  惠
+右正本證明與原本無異。
+檢察官如不服本判決應於收受送達後十日內向本院提出上訴書狀，其未敘述上訴之理
+由者並得於提起上訴後十日內向本院補提理由書（均須按他造當事人之人數附繕本）
+。
+被告不得上訴。
+                                      書記官  廖  嫣  雯
+中    華    民    國     八十九   年       一      月       二十一     日
+附錄：本案論罪科刑法條全文
+刑法第三百三十九條：
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之物交付者，處五年以
+下有期徒刑、拘役或科或併科一千元以下罰金。
+以前項方法得財產上不法之利益或使第三人得之者亦同。
+前二項之未遂犯罰之。
+附表一：
+詐得金額：一百三十萬元〔起訴書誤載為一百七十五萬元（編號一至四均誤將死會部
+          分計入）〕
+會首：余淑華（編號一至九為余淑華所召集，編號十至二十二由甲○○所召集）
+標會方式：連同會首共計二十三會，每會三萬元，採內標方式，會期自八十六年六
+          月二十日起至八十八年四月二十日止，每月二十日，在臺北市○○○路
+          二段一一五巷二十五弄十號四樓開標
+虛列之會員：冒用他人真實姓名者－莊炯林、黃淑美、林敏東
+            虛列之姓名者－謝淑芬、謝宜恬（起訴書誤載為「怡」）
+冒標部分：
+編號    被冒標者    冒標時間    該次活會會員    每會應繳之會款
+                    金額                        及詐得之金額
+一      虛列之不    87.04.20    乙○○（二會）  25000
+        詳會員      約5000      余淑華（九會）  25000x13=325000
+                                林寶珠、李明俐  〔扣除余淑華、李正國、謝
+                                                淑芬、呂錦樓（二會）之死
+                                                會及虛列之會員五會〕
+二      虛列之不    87.05.20    乙○○（二會）  25000
+        詳會員      約5000      余淑華（九會）  25000x13=325000
+                                林寶珠、李明俐  〔扣除余淑華、李正國、
+                                                謝淑芬、呂錦樓（二會）
+                                                之死會及虛列之會員五會〕
+三      虛列之不    87.06.20    乙○○（二會）  25000
+        詳會員      約5000      余淑華（九會）25000x13=325000
+                                林寶珠、李明俐  〔扣除余淑華、李正國、
+                                                謝淑芬、呂錦樓（二會）
+                                                之死會及虛列之會員五會〕
+四      虛列之不    87.07.20    乙○○（二會）  25000
+        詳會員      約5000      余淑華（九會）  25000x13=325000
+                                林寶珠、李明俐  〔扣除余淑華、李正國、
+                                                 謝淑芬、呂錦樓（二會）
+                                                 之死會及虛列之會員五會〕
+附表二：
+詐得金額：三百七十八萬九千九百元
+會首：甲○○
+標會方式：連同會首共計二十一會，每會五萬元，採內標方式，會期自八十七年三月
+          二十日起至八十八年十一月二十日止，每月二十日，在臺北市○○路○段
+          一四三巷二十三號五樓開標
+虛列之會員：冒用他人真實姓名者－莊炯林、周玉珠、林敏東、高二知
+            虛列之姓名者－鄭恆存、吳麗香、林嘉明、何俊明、謝宜恬、美惠、謝
+                          來好
+冒標部分：
+編號    被冒標者  冒標時間    該次活會會員      每會應繳之會款
+                  金額                          及詐得之金額
+一                87.03.20    鍾欣書、乙○○    50000
+                  會首錢      林寶珠、楊麗真    50000x9=450000
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+二      虛列之不  87.04.20    鍾欣書、乙○○    42000
+        詳會員    約8000      林寶珠、楊麗真    42000x9=378000
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+三      虛列之不  87.05.20    鍾欣書、乙○○    41800
+        詳會員    約8200      林寶珠、楊麗真    41800x9=376200
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+四      虛列之不  87.06.20    鍾欣書、乙○○    41500
+        詳會員    約8500      林寶珠、楊麗真    41500x9=373500
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+五      虛列之不  87.07.20    鍾欣書、乙○○    41500
+        詳會員    約8500      林寶珠、楊麗真    41500x9=373500
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+六      虛列之不  87.08.20    鍾欣書、乙○○    41000
+        詳會員    約9000      林寶珠、楊麗真    41000x9=369000
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+七      虛列之不  87.09.20    鍾欣書、乙○○    41000
+        詳會員    約9000      林寶珠、楊麗真    41000x9=369000
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                          江敏吉、林麗華    會員十一會）
+                              謝秀玲
+八      虛列之不  87.10.20    鍾欣書、乙○○    41000
+        詳會員    約9000      林寶珠、楊麗真    41000x9=369000
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+九      虛列之不  87.11.20    鍾欣書、乙○○    40800
+        詳會員    約9200      林寶珠、楊麗真    40800x9=367200
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+十      虛列之不  87.12.20    鍾欣書、乙○○    40500
+        詳會員    約9500      林寶珠、楊麗真    40500x9=364500
+                              林月雲、周淑敏    （扣除會首一會、虛列之
+                              江敏吉、林麗華    會員十一會）
+                              謝秀玲
+附表三：
+詐得金額：一百五十九萬五千八百元〔起訴書誤載為一百六十二萬一千一百元（編號
+          六誤將虛列之會員鍾欣書：25300計入）〕
+會首：甲○○冒林定東之名擔任會首
+標會方式：連同會首共計二十一會，每會三萬元，採內標方式，會期自八十七年八月
+          十日起至八十九年四月十日止，每月十日，在臺北市○○路○段二０九巷
+          九號四樓開標
+虛列之會員：冒用他人真實姓名者－莊炯林、蔡元山、鍾欣書（二會）
+            虛列之姓名者－蔡月娥、謝宜恬、<font color='red'>林芷芬</font>、張淑女
+冒標部分：
+編號    被冒標者  冒標時間    該次活會會員      每會應繳之會款
+                  金額                          及詐得之金額
+一                87.08.10    高二知、乙○○    30000
+                  會首錢      林月雲（二會）    30000x11=330000
+                              簡申寅、林寶珠    （扣除會首一會、甲○○
+                              王玲玲、許雪明    一會、虛列之會員八會）
+                              劉昆生、李珮華
+                              李明俐
+二      虛列之不  87.09.10    高二知、乙○○    26200
+        詳會員    約3800      林月雲（二會）    26200x11=288200
+                        簡申寅、林寶珠    （扣除會首一會、甲○○
+                              王玲玲、許雪明    一會、虛列之會員八會）
+                              劉昆生、李珮華
+                              李明俐
+三      虛列之不  87.10.10    高二知、乙○○    25500
+        詳會員    約4500      林月雲（二會）    25500x11=280500
+                              簡申寅、林寶珠    （扣除會首一會、甲○○
+                              王玲玲、許雪明    一會、虛列之會員八會）
+                              劉昆生、李珮華
+                              李明俐
+四      虛列之不  87.11.10    高二知、乙○○    25000
+        詳會員    約5000      林月雲（二會）    25000x11=275000
+                              簡申寅、林寶珠    （扣除會首一會、甲○○
+                              王玲玲、許雪明    一會、虛列之會員八會）
+                              劉昆生、李珮華
+                              李明俐
+五      虛列之不  87.12.10    高二知、乙○○    24700
+        詳會員    約5300      林月雲（二會）    24700x11=271700
+                              簡申寅、林寶珠    （扣除會首一會、甲○○
+                              王玲玲、許雪明    一會、虛列之會員八會）
+                              劉昆生、李珮華
+                              李明俐
+六      虛列之不  88.01.10    高二知、王玲玲    向活會會員詐稱之得標金
+        詳會員                許雪明、劉昆生    額不一，詐取之會款明細
+                              李珮華、李明俐    分別係：
+                                                高二知：24300
+                                                王玲玲：24500
+                                                許雪明：24500
+                                                劉昆生：25700
+                                                李珮華：25700
+                                                李明俐：25700
+                                                （乙○○、林月雲、簡申
+                                                寅、林寶珠等活會會員此
+                                                次未繳付會款）
+附表四：
+詐得金額：九十一萬四千元〔起訴書誤載為八十一萬四千元（編號一之活會人數誤計
+          為五又二分之一會）〕
+會首：甲○○冒林敏東之名擔任會首
+標會方式：連同會首共計十三會，每會十萬元，採內標方式，會期自八十七年十二月
+          十日起至八十八年十二月十日止，每月十日，在臺北市○○路○段一四三
+          巷二十三號五樓開標
+虛列之會員：冒用他人真實姓名者－莊炯林
+            虛列之姓名者－謝宜恬、張淑女、蔡月娥
+冒標部分：
+編號    被冒標者  冒標時間    該次活會會員      每會應繳之會款
+                  金額                          及詐得之金額
+一                87.12.10    林月雲、乙○○    100000
+                  會首錢      林佩靜、鍾欣書    100000x6 1/2 =650000
+                              林寶珠、李明俐    （林月雲、乙○○、林寶珠
+                              李明月            三人參加二會半）
+二      虛列之不  88.01.10    林佩靜、鍾欣書    向活會會員詐稱之得標金
+        詳會員                李明月            額不一，詐取之會款明細
+  分別係：
+                                                林佩靜：86000
+                                                鍾欣書：89000
+                                                李明月：89000
+                                                （林月雲、乙○○、林寶珠
+                                                李明俐等活會會員此次未繳
+                                                付會款）
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWTPH\CRIMINAL\8901\27\TPHM891R.035] -->
+<!-- 旗標：[] -->
+<!--檢查單號：[]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=088&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=004405&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c4405%2c20000120&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=4405&jdate=890120&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=88%2c%e4%b8%8a%e8%a8%b4%2c4405%2c20000120&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=88&jcase=%e4%b8%8a%e8%a8%b4&jno=4405&jdate=890120&jcheck=">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('88%2c%e4%b8%8a%e8%a8%b4%2c4405%2c20000120','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','88','%e4%b8%8a%e8%a8%b4','4405','890120','')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林芷芬">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林芷芬">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

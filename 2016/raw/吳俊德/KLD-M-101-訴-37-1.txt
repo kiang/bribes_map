@@ -1,0 +1,516 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣基隆地方法院-刑-101訴37</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+MZk8MGkiJ1Q87lmOLOk0qa5XqhY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" value="420322E1" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣基隆地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
+											筆 / 現在第7
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000037&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c37%2c20120329%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=37&jdate=1010329&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c37%2c20120329%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=37&jdate=1010329&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c37%2c20120329%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','37','1010329','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,37</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010329</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">毒品危害防制條例</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣基隆地方法院刑事判決　　　　　　　 101年度訴字第37號
+公　訴　人　臺灣基隆地方法院檢察署檢察官
+被　　　告　李志揚
+選任辯護人　馬中琍律師
+上列被告因毒品危害防制條例案件，經檢察官提起公訴（100年
+度偵字第5468號），本院判決如下︰
+    主  文
+李志揚販賣第三級毒品，共玖罪，各處刑、宣告沒收如附表編號
+1至編號9「罪名及應處刑罰」欄所示。應執行有期徒刑貳年，緩
+刑伍年，緩刑期間付保護管束，並應於判決確定後壹年內，向指
+定之政府機關、政府機構、行政法人、社區或其他符合公益目的
+之機構或團體提供壹佰小時之義務勞務。未據扣案之販賣毒品所
+得總計新臺幣壹萬壹仟伍佰元、扣案之索尼易立信牌行動電話壹
+支（序號000000000000000號，含門號0000000000號SIM卡壹張）
+、K盤壹個、電子磅秤壹台、分裝袋柒拾壹個，均沒收之，如全
+部或一部不能沒收時，以其財產抵償之；扣案之第三級毒品愷他
+命捌包（純質淨重共肆壹點伍壹陸玖公克）併同難以完全與之析
+離之包裝袋捌只，沒收之。
+    事  實
+一、李志揚明知愷他命係毒品危害防制條例第2條第2項第3款所
+    管制之第三級毒品，不得非法販賣，竟基於販賣第三級毒品
+    愷他命牟利之犯意，以門號0000000000號行動電話做為販賣
+    第三級毒品愷他命之聯繫工具，並以不詳代價販入第三級毒
+    品愷他命後，於附表編號1 至編號9 所示時間、地點，而以
+    如附表編號1 至編號9 所示之數量、價格，將第三級毒品愷
+    他命販賣予如附表編號1 至編號9 所示之人。嗣經警依法實
+    施通訊監察知悉上情，於民國100 年11月23日持拘票將李志
+    揚拘提到案，並持本院核發之搜索票至李志揚位於基隆巿文
+    化路161 巷30號住所搜索，扣得第三級毒品愷他命8 包（純
+    質淨重共41.5169 公克）、販毒所用之索尼易立信牌行動電
+    話（含門號0000000000號SIM 卡1 張）1 支、K 盤1 個、電
+    子磅秤1 台、分裝袋71個。
+二、案經基隆市警察局移送臺灣基隆地方法院檢察署檢察官偵查
+    起訴。
+    理   由
+一、證據能力部分
+  (一)供述證據：按被告以外之人（包括證人、鑑定人、告訴人、
+    被害人及共同被告等）於審判外之陳述，雖不符前四條之規
+    定，而經當事人於審判程序同意作為證據，法院審酌該言詞
+    陳述或書面陳述作成時之情況，認為適當者，亦得為證據。
+    當事人、代理人或辯護人於法院調查證據時，知有第159 條
+    第1 項不得為證據之情形，而未於言詞辯論終結前聲明異議
+    者，視為有前項之同意，刑事訴訟法第159 條之5 定有明文
+    。下列本院援引用以認定犯罪事實之證人張文諺、<font color='red'>吳俊德</font>、
+    李明宗、鄭育珊、林怡禎、杜育杰、趙亞辰、謝家豪於警詢
+    、偵訊之證述，固屬被告以外之人於審判外之陳述，然經被
+    告、辯護人及檢察官於調查證據時，就此部分之證據能力問
+    題表示同意做為證據，且本院審酌上開證據作成之情況，尚
+    無不當，依刑事訴訟法第159 條之5 第1 項之規定，自得為
+    本院認定事實之證據，合先敘明。
+  (二)非供述證據：按通訊監察錄音之譯文，僅屬依據監聽錄音結
+    果予以翻譯之文字，固具文書證據之外觀，但實際上仍應認
+    監聽所得之錄音帶或光碟，始屬調查犯罪所得之證物，此乃
+    刑事訴訟法第165 條之1 第2 項所稱之證物，如其蒐證程序
+    合法，並經合法調查，自具證據能力，故檢察官如提出通訊
+    監察錄音之譯文為其證據方法，實乃以其監聽所得之錄音帶
+    或光碟，為調查犯罪所得之證物，法院本應依刑事訴訟法第
+    165 條之1 所列之方法調查，以判斷該錄音帶或光碟是否與
+    通訊監察錄音之譯文相符，而監聽錄音製作之譯文，雖通常
+    為偵查犯罪機關單方面製作，然若被告或訴訟關係人對其真
+    實性並無爭執，經法院於審判期日提示譯文供當事人辨認、
+    表示意見並為辯論者，程序自屬適法（最高法院95年度台上
+    字第295 號、94年度台上字第4665號判決可資參照）。查被
+    告李志揚所使用之「0000000000」號行動電話門號之監聽譯
+    文，係實施刑事訴訟程序之公務員依法實施通訊監察所取得
+    之證據，有本院核發之100 年度聲監字第328 號、364 號、
+    458 號、100 年度聲監續第585 號、683 號、684 號、790
+    號、791 號通訊監察書影本在卷可參，且被告及其辯護人對
+    監聽譯文之真實性復無爭執，本院並依刑事訴訟法第165 條
+    第1 項規定，踐行證據調查之法定程序，向被告宣讀並告以
+    監聽譯文要旨，故此依法定程序取得之證據，當有證據能力
+    。至本判決所引之鑑定書及其餘書證，被告、辯護人於本院
+    審理中，不爭執其證據能力，復未曾於言詞辯論終結前聲明
+    異議（見本院準備程序筆錄、審判筆錄），且經核均無顯不
+    可信之情況，依刑事訴訟法第159 條之4 、第159 條之5 第
+    2 項，均有證據能力。
+貳、實體事項
+一、訊據被告李志揚對於上開販賣第三級毒品之事實坦承不諱，
+    核與證人李明宗、鄭育珊、林怡禎、杜育杰、趙亞辰、謝家
+    豪於警詢、偵訊之證述情節互核相符。其次，被告所使用之
+    門號0000000000號行動電話門號於附表所示各該次交易時間
+    與上開證人聯絡買賣愷他命事宜，亦有被告上開行動電話門
+    號通訊監察譯文（見100 年度偵字第5468號卷第390-414 頁
+    ）、本院核發之100 年度聲監字第458 號通訊監察書影本附
+    卷可稽。而扣案之米白色晶體8 包經送鑑定，檢出三級毒品
+    愷他命成分，純度為86.6% ，純質淨重41.5169 公克，有交
+    通部民用航空局航空醫務中心100 年12月9 日航藥鑑字第
+    0000000 號及第0000000Q號毒品鑑定書各1 紙附卷可參。此
+    外，亦有K 盤1 個、電子磅秤1 台、分裝袋71個及被告販毒
+    使用之索尼易利信牌行動電話1 支（含門號0000000000號
+    SIM 卡1 張）扣案足資佐證，其販賣第三級毒品，事證明確，
+    犯行堪予認定，應予依法論科。
+二、按愷他命係毒品危害防制條例第2 條第2 項第3 款所定之第
+    三級毒品，是核被告就附表編號1 至9 等9 次所為，均係犯
+    毒品危害防制條例第4 條第3 項之販賣第三級毒品罪。所犯
+    上開9 罪，其犯意各別，行為互殊，應分論併罰。至公訴意
+    旨認被告與案外人<font color='red'>吳俊德</font>、張文諺、趙亞辰（均由檢察官另
+    案處理）以區○○段之方式輪班而為販賣第三級毒品犯行，
+    應論以共同正犯，惟被告與上開案外人雖有區○○段販售毒
+    品之默契，惟仍各自負責與買毒者聯繫而販售毒品，所得利
+    潤均歸己有，再被告與上開案外人均未就他人之販毒行為相
+    互有何行為分擔，本案應無論以共同正犯之餘地，併此敘明
+    。
+三、減刑部分：
+  (一)按「犯第四條至第八條之罪於偵查及審判中均自白者，減輕
+    其刑。」毒品危害防制條例第17條第2 項定有明文，被告李
+    志揚就其所為如附表各編號所示之犯行，於偵查期間及本院
+    審理中，均坦認自白不諱，爰均依毒品危害防制條例第17條
+    第2 項之規定，均減輕其刑。
+  (二)再按同為販賣毒品之人，其原因動機不一，犯罪情節未必盡
+    同，或有大宗運輸者，亦有中、小之分，其販賣行為所造成
+    危害社會之程度自屬有異，法律科處此類犯罪，所設之法定
+    最低本刑卻相同，不可謂不重。於此情形，倘依其情狀處以
+    相當之有期徒刑，即足以懲儆，並可達防衛社會之目的者，
+    自非不可依客觀之犯行與主觀之惡性二者加以考量其情狀，
+    是否有可憫恕之處，適用刑法第59條之規定酌量減輕其刑，
+    期使個案裁判之量刑，能斟酌至當，符合比例原則。經查，
+    被告梁峻瑞販賣第三級毒品，戕害國民健康，助長施用毒品
+    惡習，所為雖實屬不該，惟經認定販賣毒品次數雖達9 次，
+    然每次販賣毒品數量不多，獲利非鉅，所為均係小額交易，
+    應係毒品交易之下游，其惡性情節較諸大量走私進口或長期
+    販賣毒品之「大盤」、「中盤」毒販多所差異，對於他人及
+    國家社會侵害之程度非屬重大，因認被告販賣之犯罪情節非
+    重，再年輕識淺，前無任何刑案記錄，有臺灣高等法院被告
+    前案紀錄表在卷可憑，惡性並非重大，縱對其科以最低法定
+    刑猶嫌過重，依一般國民生活經驗法則，實屬情輕法重，當
+    足引起一般人之同情，顯有憫恕之處，爰依刑法第59條規定
+    ，就被告如附表編號1 至編號9 之販賣第三級毒品之刑度，
+    再遞減之。
+四、刑之酌科：
+    審酌被告明知愷他命為第三級毒品，為國家嚴格查禁之違禁
+    物，仍為貪圖獲利而販賣第三級毒品予人施用，使人沉迷毒
+    癮而無法自拔，輕則戕害施用者之身心健康，重則引發各種
+    犯罪，而為社會治安敗壞之源頭，對於社會平和秩序實有相
+    當程度之危害之情節，惟兼慮及其於警偵訊及本院審理中始
+    終坦承販賣第三級毒品犯行之犯後態度，暨其年紀、素行、
+    生活狀況、智識程度、犯罪動機、犯罪手段、犯罪所得、販
+    賣毒品次數暨其各次數量，併其所得利潤等一切情狀，分別
+    量處如附表編號1 至9 所示之刑，並定其應執行刑如主文所
+    示。被告前未曾受有期徒刑以上刑之宣告，此有臺灣高等法
+    院被告前案紀錄表在卷可稽，本次因一時觀念偏差而罹刑典
+    ，其犯後則未飾詞推諉而表悛悔，經此科刑教訓後，信當知
+    所警惕，而無再犯之虞，因認所受刑之宣告，以暫不執行為
+    適當，爰依刑法第74條第1 項第1 款規定，宣告緩刑5 年，
+    以勵來茲，用啟自新。又為使被告得確切知悉其所為前揭犯
+    行之負面影響，促使其日後更加重視法規範秩序、強化法治
+    觀念，並為使被告能以義務勞動方式彌補其前開犯罪對社會
+    所生損害等考量，認應課予一定條件之緩刑負擔，令其能從
+    中深切記取教訓，並督促自己時時警惕，爰併依刑法第74條
+    第2 項第5 款之規定，命被告應於判決確定後1 年內向指定
+    之政府機關、政府機構、行政法人、社區或其他符合公益目
+    的之機構或團體提供如主文所示時數之義務勞務。至義務勞
+    務如何執行，宜由檢察官考量被告所犯罪名，並參酌其性別
+    、家庭、身分、職業、經歷、特殊專長、體能狀況及素行紀
+    錄與參加意願等因素，再依義務勞務執行機關（構）之地域
+    、特性及勞務內容等為適當之安排。若被告不履行上開負擔
+    ，且情節重大足認原宣告之緩刑難收其預期效果，而有執行
+    刑罰之必要者，依刑法75條之1 第1 項第4 款之規定，得撤
+    銷其緩刑宣告，併此指明。又受緩刑之宣告而有刑法第74條
+    第2 項第5 款所定事項者，應於緩刑期間付保護管束，為刑
+    法第93條第1 項第2 款所明定，爰併為緩刑期間付保護管束
+    之諭知，俾由地方法院檢察署之觀護人予以適當之督促，以
+    觀後效。
+五、沒收部分：
+  (一)按毒品危害防制條例第19條第1 項規定：「犯第4 條至第9
+    條、第12條、第13條或第14條第1 項、第2 項之罪者，其供
+    犯罪所用或因犯罪所得之財產，均沒收之，如全部或一部不
+    能沒收時，追徵其價額或以其財產抵償之。」，被告販賣第
+    三級毒品愷他命9 次所得合計共新臺幣（下同）11,500元，
+    雖未扣案，仍應依毒品危害防制條例第19條第1 項宣告沒收
+    ，如全部或一部不能沒收時，則以其財產抵償之；扣案之索
+    尼易利信牌行動電話1 支（含門號0000000000號SIM 卡1 張
+    ）、K 盤1 個、電子磅秤1 台、分裝袋71個，均係被告販毒
+    所用之物，均應依毒品危害防制條例第19條第1 項規定，在
+    被告所犯販賣第三級毒品罪項下，宣告沒收之。
+  (二)次按毒品危害防制條例第2 條第2 項規定，毒品依其成癮性
+    、濫用性及對社會危害性分為四級，並就製造、運輸、販賣
+    、意圖販賣而持有、以非法方法使人施用、引誘他人施用及
+    轉讓等不同品項毒品之行為，分別定其處罰。至施用或持有
+    第三、四級毒品，因其可罰性較低，故予除罪化，僅就施用
+    及持有第一、二級毒品科以刑罰。惟鑑於第三、四級毒品均
+    係管制藥品，特於同條例第11條之1 明定無正當理由，不得
+    擅自持有；同條例第18條第1 項後段復規定查獲之第三、四
+    級毒品，無正當理由而擅自持有者，沒入銷燬之。從而，依
+    同條例第18條第1 項後段應沒入銷燬之毒品，專指查獲之施
+    用、持有第三、四級毒品而言；倘係查獲之製造、運輸、販
+    賣、意圖販賣而持有、以非法方法使人施用、引誘他人施用
+    或轉讓之第三、四級毒品，既屬同條例相關法條明文規定處
+    罰之犯罪行為，即非該條項應沒入銷燬之範圍。又同條例第
+    19條第1 項所定「供犯罪所用或因犯罪所得之物」，係指犯
+    第4 條至第9 條、第12條、第13條或第14條第1 項、第2 項
+    之罪所用或所得之物，不包括毒品本身在內，自不得為第三
+    、四級毒品之沒收依據。同條例對於查獲之製造、運輸、販
+    賣、意圖販賣而持有、以非法方法使人施用、引誘他人施用
+    及轉讓第三、四級毒品之沒收，並無特別規定，如其行為已
+    構成犯罪，則該毒品即屬不受法律保護之違禁物，應回歸刑
+    法之適用，依刑法第38條第1 項第1 款之規定沒收之（最高
+    法院95年度台上字第911 號判決意旨參照）。依據前揭說明
+    ，本案扣得之愷他命8 包（驗前總淨重41.5169 公克）係屬
+    違禁物，依前開說明，不問屬於犯罪行為人與否，應依刑法
+    第38條第1 項第1 款規定宣告沒收。至包裝上開第三級毒品
+    愷他命之包裝袋8 只因與毒品難以析離而無法個別宣告沒收
+    ，故應予一併宣告沒收之。
+  (三)至扣案之現金7,800 元，雖屬被告所有，因無法證明屬本案
+    販賣第三級毒品愷他命所得之物，爰不予宣告沒收，併此敘
+    明。
+據上論斷，應依刑事訴訟法第299 條第1 項前段，毒品危害防制
+條例第4 條第3 項、第17條第2 項、第19條第1 項，刑法第11條
+、第59條、第51條第5 款、第74條第1 項第1 款、第2 項第5 款
+、第93條第1 項、第38條第1 項第1 款，判決如主文。
+本案經檢察官林明志到庭執行職務。
+中    華    民    國   101    年    3     月    29    日
+                  刑事第五庭審判長法    官    齊  潔
+                                  法    官    王慧惠
+                                  法    官    吳佳齡
+以上正本證明與原本無異。
+如不服本判決應於收受送達後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書(均須按他造當事人之人數附繕本)「切勿逕
+送上級法院」。
+中    華    民    國   101    年    3     月    29    日
+                                  書 記 官    莊智凱
+附錄論罪法條：
+毒品危害防制條例第4條
+製造、運輸、販賣第一級毒品者，處死刑或無期徒刑；處無期徒
+刑者，得併科新臺幣 2 千萬元以下罰金。
+製造、運輸、販賣第二級毒品者，處無期徒刑或 7 年以上有期
+徒刑，得併科新臺幣 1 千萬元以下罰金。
+製造、運輸、販賣第三級毒品者，處 5 年以上有期徒刑，得併
+科新臺幣 7 百萬元以下罰金。
+製造、運輸、販賣第四級毒品者，處 3 年以上 10 年以下有期
+徒刑，得併科新臺幣 3 百萬元以下罰金。
+製造、運輸、販賣專供製造或施用毒品之器具者，處 1 年以上
+7 年以下有期徒刑，得併科新臺幣 1 百萬元以下罰金。
+前五項之未遂犯罰之。
+附表：
+ ┌──┬───┬─────┬─────┬────┬───────────────────────┐
+ │編號│對象  │時  間    │地  點    │毒品數量│  罪名及應處刑罰                              │
+ │    │      │          │          │/價格   │                                              │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │1   │李明宗│100年10 月│基隆巿文化│3.5公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │31日23時許│路161巷30 │1,500元 │案之販賣第三級毒品所得財物新臺幣壹仟伍佰元、索│
+ │    │      │          │號前      │        │尼易立信牌行動電話壹支（序號000000000000000號 │
+ │    │      │          │          │        │，含門號0000000000號SIM卡壹張）、K盤壹個、電子│
+ │    │      │          │          │        │磅秤壹台、分裝袋柒拾壹個，均沒收之，如全部或一│
+ │    │      │          │          │        │部不能沒收時，以其財產抵償之。扣案之第三級毒品│
+ │    │      │          │          │        │愷他命捌包（純質淨重共肆壹陸玖公克）併同難以完│
+ │    │      │          │          │        │全與之析離之包裝袋捌只，沒收之。              │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │2   │鄭育珊│100年11 月│基隆巿文化│0.8公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │1日16時許 │路161巷30 │500元   │案之販賣第三級毒品所得財物新臺幣伍佰元、索尼易│
+ │    │      │          │號前      │        │立信牌行動電話壹支（序號000000000000000號，含 │
+ │    │      │          │          │        │門號0000000000號SIM卡壹張）、K盤壹個、電子磅秤│
+ │    │      │          │          │        │壹台、分裝袋柒拾壹個，均沒收之，如全部或一部不│
+ │    │      │          │          │        │能沒收時，以其財產抵償之。扣案之第三級毒品愷他│
+ │    │      │          │          │        │命捌包（純質淨重共肆壹陸玖公克）併同難以完全與│
+ │    │      │          │          │        │之析離之包裝袋捌只，沒收之。                  │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │3   │杜育杰│100年11 月│基隆巿正信│3.5公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │2日7時許  │路綜合體育│1,500元 │案之販賣第三級毒品所得財物新臺幣壹仟伍佰元、索│
+ │    │      │          │場        │        │尼易立信牌行動電話壹支（序號000000000000000號 │
+ │    │      │          │          │        │，含門號0000000000號SIM卡壹張）、K盤壹個、電子│
+ │    │      │          │          │        │磅秤壹台、分裝袋柒拾壹個，均沒收之，如全部或一│
+ │    │      │          │          │        │部不能沒收時，以其財產抵償之。扣案之第三級毒品│
+ │    │      │          │          │        │愷他命捌包（純質淨重共肆壹陸玖公克）併同難以完│
+ │    │      │          │          │        │全與之析離之包裝袋捌只，沒收之。              │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │4   │鄭育珊│100年11 月│基隆巿文化│0.8公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │6日19 時許│路161巷30 │500元   │案之販賣第三級毒品所得財物新臺幣伍佰元、索尼易│
+ │    │      │          │號前      │        │立信牌行動電話壹支（序號000000000000000號，含 │
+ │    │      │          │          │        │門號0000000000號SIM卡壹張）、K盤壹個、電子磅秤│
+ │    │      │          │          │        │壹台、分裝袋柒拾壹個，均沒收之，如全部或一部不│
+ │    │      │          │          │        │能沒收時，以其財產抵償之。扣案之第三級毒品愷他│
+ │    │      │          │          │        │命捌包（純質淨重共肆壹陸玖公克）併同難以完全與│
+ │    │      │          │          │        │之析離之包裝袋捌只，沒收之。                  │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │5   │林怡禎│100年11 月│基隆巿仁二│3.5公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │6日20 時30│路凱悅KTV │1,500元 │案之販賣第三級毒品所得財物新臺幣壹仟伍佰元、索│
+ │    │      │分許      │六樓包廂外│        │尼易立信牌行動電話壹支（序號000000000000000號 │
+ │    │      │          │          │        │，含門號0000000000號SIM卡壹張）、K盤壹個、電子│
+ │    │      │          │          │        │磅秤壹台、分裝袋柒拾壹個，均沒收之，如全部或一│
+ │    │      │          │          │        │部不能沒收時，以其財產抵償之。扣案之第三級毒品│
+ │    │      │          │          │        │愷他命捌包（純質淨重共肆壹陸玖公克）併同難以完│
+ │    │      │          │          │        │全與之析離之包裝袋捌只，沒收之。              │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │6   │趙亞辰│100年11 月│基隆巿文化│3.5公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │7日1時許  │路161巷口 │1,500元 │案之販賣第三級毒品所得財物新臺幣壹仟伍佰元、索│
+ │    │      │          │7-11便利商│        │尼易立信牌行動電話壹支（序號000000000000000號 │
+ │    │      │          │店旁      │        │，含門號0000000000號SIM卡壹張）、K盤壹個、電子│
+ │    │      │          │          │        │磅秤壹台、分裝袋柒拾壹個，均沒收之，如全部或一│
+ │    │      │          │          │        │部不能沒收時，以其財產抵償之。扣案之第三級毒品│
+ │    │      │          │          │        │愷他命捌包（純質淨重共肆壹陸玖公克）併同難以完│
+ │    │      │          │          │        │全與之析離之包裝袋捌只，沒收之。              │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │7   │李明宗│100年11 月│基隆巿文化│3.5公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │10日22 時 │路161巷30 │1,500元 │案之販賣第三級毒品所得財物新臺幣壹仟伍佰元、索│
+ │    │      │30分許    │號前      │        │尼易立信牌行動電話壹支（序號000000000000000號 │
+ │    │      │          │          │        │，含門號0000000000號SIM卡壹張）、K盤壹個、電子│
+ │    │      │          │          │        │磅秤壹台、分裝袋柒拾壹個，均沒收之，如全部或一│
+ │    │      │          │          │        │部不能沒收時，以其財產抵償之。扣案之第三級毒品│
+ │    │      │          │          │        │愷他命捌包（純質淨重共肆壹陸玖公克）併同難以完│
+ │    │      │          │          │        │全與之析離之包裝袋捌只，沒收之。              │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │8   │李明宗│100年11 月│基隆巿文化│3.5公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │      │15日22 時 │路161巷30 │1,500元 │案之販賣第三級毒品所得財物新臺幣壹仟伍佰元、索│
+ │    │      │30分許    │號前      │        │尼易立信牌行動電話壹支（序號000000000000000號 │
+ │    │      │          │          │        │，含門號0000000000號SIM卡壹張）、K盤壹個、電子│
+ │    │      │          │          │        │磅秤壹台、分裝袋柒拾壹個，均沒收之，如全部或一│
+ │    │      │          │          │        │部不能沒收時，以其財產抵償之。扣案之第三級毒品│
+ │    │      │          │          │        │愷他命捌包（純質淨重共肆壹陸玖公克）併同難以完│
+ │    │      │          │          │        │全與之析離之包裝袋捌只，沒收之。              │
+ ├──┼───┼─────┼─────┼────┼───────────────────────┤
+ │9   │謝家豪│100年11 月│基隆巿文化│3.5公克 │李志揚販賣第三級毒品，處有期徒刑壹年<img align="texttop" border="0" alt=" " src="http://210.69.124.102/ASTAR/100E3722A0A00000040.GIF" />月。未扣│
+ │    │、趙亞│16日21 時 │路161巷30 │1,500元 │案之販賣第三級毒品所得財物新臺幣壹仟伍佰元、索│
+ │    │辰    │許        │號前      │        │尼易立信牌行動電話壹支（序號000000000000000號 │
+ │    │      │          │          │        │，含門號0000000000號SIM卡壹張）、K盤壹個、電子│
+ │    │      │          │          │        │磅秤壹台、分裝袋柒拾壹個，均沒收之，如全部或一│
+ │    │      │          │          │        │部不能沒收時，以其財產抵償之。扣案之第三級毒品│
+ │    │      │          │          │        │愷他命捌包（純質淨重共肆壹陸玖公克）併同難以完│
+ │    │      │          │          │        │全與之析離之包裝袋捌只，沒收之。              │
+ └──┴───┴─────┴─────┴────┴───────────────────────┘</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWKLD\CRIMINAL\10103\29\KLDM1013T.00J] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共12
+											筆 / 現在第7
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000037&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e5%90%b3%e4%bf%8a%e5%be%b7&sdate=&edate=&page=&searchkw=%e5%90%b3%e4%bf%8a%e5%be%b7&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c37%2c20120329%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=37&jdate=1010329&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c37%2c20120329%2c1&v_court=KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=37&jdate=1010329&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c37%2c20120329%2c1','KLD+%e8%87%ba%e7%81%a3%e5%9f%ba%e9%9a%86%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','37','1010329','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="KLD 臺灣基隆地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="吳俊德">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="吳俊德">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
