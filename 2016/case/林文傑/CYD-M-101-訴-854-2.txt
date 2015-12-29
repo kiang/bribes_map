@@ -1,0 +1,444 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣嘉義地方法院-刑-101訴854</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+RuqKajFABRfnNfAF3cK74iqfxNc=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣嘉義地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000854&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%87%e5%82%91&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%87%e5%82%91&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%87%e5%82%91&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%87%e5%82%91&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c854%2c20130227%2c2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=854&jdate=1020227&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c854%2c20130227%2c2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=854&jdate=1020227&jcheck=2">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c854%2c20130227%2c2','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','854','1020227','2')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,854</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020227</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">恐嚇取財等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣嘉義地方法院刑事判決　　　　　　　101年度訴字第854號
+公　訴　人　臺灣嘉義地方法院檢察署檢察官
+被　　　告　江權
+上列被告因恐嚇取財等案件，經檢察官提起公訴（101年度偵字
+第5983號），本院判決如下：
+    主  文
+江權犯行使偽造私文書罪，處有期徒刑月，如易科罰金，以新
+臺幣壹仟元折算壹日，偽造之「洪阿沼」簽名及印文各壹枚、未
+扣案偽造之「洪阿沼」印章壹顆均沒收；又幫助犯恐嚇取財罪，
+處有期徒刑肆月，如易科罰金，以新臺幣壹仟元折算壹日。應執
+行有期徒刑陸月，如易科罰金，以新臺幣壹仟元折算壹日，偽造
+之「洪阿沼」簽名及印文各壹枚、未扣案偽造之「洪阿沼」印章
+壹顆均沒收。
+    犯 罪 事 實
+一、江權意圖為自己不法之所有，基於詐欺取財及行使偽造私文
+    書之犯意，於未經其母洪阿沼同意之情形下，於民國100年3
+    月27日前2至3日某時，於嘉義縣朴子市某刻印店，委託不知
+    情之成年刻印人員，偽造「洪阿沼」之印章1顆，並於100年
+    3月27日，持上開偽造之印章與洪阿沼所委託保管之國民身
+    分證及全民健康保險卡（下稱健保卡），至嘉義縣朴子市○
+    ○路00號1樓之台灣大哥大電信股份有限公司（下稱台哥大
+    ）嘉義朴子門市，向不知情之成年門市人員佯稱係受洪阿沼
+    委託代為申辦行動電話SIM卡，並以洪阿沼之名義在立委託
+    書人欄偽簽洪阿沼之簽名1枚之方式，偽造台哥大用戶授權
+    代辦委託書1份，向該門市人員行使之，同時連同洪阿沼之
+    健保卡、國民身分證與上開偽造印章，交由該門市人員製作
+    台哥大預付卡申請書，利用門市人員影印洪阿沼之國民身分
+    證與健保卡，並在上開申請書上，以上揭偽造之印章在申請
+    人簽章欄加蓋「洪阿沼」之印文1枚提出行使，致該台哥大
+    公司員工陷於錯誤，誤信江權係經洪阿沼合法授權，而將
+    0000000000門號之SIM卡1枚交予江權，足以生損害於洪阿沼
+    及台哥大對於行動電話SIM卡業務申請管理之正確性。
+二、江權依其社會經驗，應有相當之智識程度可預見其提供行動
+    電話門號供他人使用，將幫助他人從事恐嚇取財之犯行，仍
+    不違反其本意，於取得上開門號SIM卡後，於100年4月26日
+    前之不詳時間、地點，以不詳代價，將上開門號SIM卡交予
+    某真實姓名年籍不詳之擄鴿勒贖集團成年成員使用，藉以幫
+    助該擄鴿勒贖集團從事恐嚇取財之犯行。嗣該擄鴿勒贖集團
+    成員於取得前揭門號SIM卡後，即共同意圖為自己不法之所
+    有，基於恐嚇取財之犯意聯絡，分別為下列行為：1.於100
+    年4 月29日下午2時4分許，以電話恐嚇林淑芳稱：「抓到伊
+    之鴿子，須匯款新臺幣（下同）3,500元，始願將鴿子歸還
+    」等語，並以上開門號傳簡訊：「銀行代碼008帳號0000000
+    00000請快速轉帳」予林淑芳，致林淑芳心生畏懼，於同日
+    下午2時22分許，前往統一超商股份有限公司臺南安定門市
+    部內之自動櫃員機，匯款3,500元至上開魏學成所有之華南
+    商業銀行帳戶內（魏學成涉犯幫助恐嚇取財部分，業經檢察
+    官另行偵辦）。2.於100年4月26日上午11時30分許，以上開
+    門號恐嚇<font color='red'>林文傑</font>稱：「抓到伊之6隻鴿子，須匯款10,000元
+    ，始願將鴿子歸還」等語，致<font color='red'>林文傑</font>心生畏懼，於同日中午
+    12時30分許，匯款10 , 000元至謝雅蘭所有之臺灣銀行嘉北
+    分行帳號000000000000  號帳戶內（謝雅蘭涉犯幫助恐嚇取
+    財部分，業經檢察官另行偵辦）。3.於100年4月27日上午10
+    時20分許，以上開門號恐嚇梁樹虎稱：「抓到伊之6隻鴿子
+    ，須匯款17,000元，始願將鴿子歸還」等語，致梁樹虎心生
+    畏懼，而於翌日上午11時許，匯款17,000元至上開謝雅蘭所
+    有之帳戶中，上揭3筆款項均旋遭擄鴿勒贖集團成員提領一
+    空。嗣因臺灣嘉義地方法院檢察署檢察官偵辦洪阿沼涉嫌幫
+    助恐嚇取財案件，發現江權以洪阿沼名義申辦上開門號，循
+    線查悉上情。（洪阿沼涉嫌幫助恐嚇取財部分，業經臺灣嘉
+    義地方法院檢察署檢察官以100年度偵字第7246號為不起訴
+    處分確定）。
+三、案經臺灣嘉義地方法院檢察署檢察官自動檢舉簽分偵查起訴
+    。
+    理  由
+甲、程序事項
+    本院認定事實所引用之下列卷證資料（包含供述證據、文書
+    證據等證據），供述證據的部分，當事人於言詞辯論終結前
+    均未爭執其證據能力，本院審酌該言詞陳述作成時之情況尚
+    無不當之處，依刑事訴訟法第159條之5第2項規定，得為證
+    據；非供述證據部分，查無違反法定程序取得之情形，依刑
+    事訴訟法第158條之4反面規定，認有證據能力。
+乙、實體事項
+一、訊據被告對其上開犯罪事實欄一之未得洪阿沼同意偽造洪阿
+    沼之印章，並偽造委託書、申請書持之向台哥大申辦預付卡
+    之事實坦承不諱，惟矢口否認有何犯罪事實欄二幫助恐嚇取
+    財之行為，辯稱：我申辦完預付卡隔3天，SIM卡與手機都不
+    見了，我並沒有交給犯罪集團云云。然查：
+(一)、被告對未得洪阿沼同意偽造洪阿沼之印章並偽造委託書、申
+    請書持之向台哥大申辦預付卡之事實於本院審理中坦承不諱
+    （見本院卷第18、39頁），復有臺灣嘉義地方法院檢察署公
+    務電話紀錄單1份（見100年度偵字第6787號卷-下稱偵(一)卷
+    ，第37頁）、洪阿沼國民身分證及健保卡影本、台哥大門號
+    0000000000號行動電話預付卡申請書影本1份、台哥大用戶
+    授權代辦委託書影本1份、江權、洪阿沼之換、補領國民身
+    分證申請書影本1份、台哥大0000000000號儲值紀錄（見101
+    年度交查字第20號卷-下稱偵(二)卷，第41至44頁，101年度偵
+    字第5983號卷-下稱偵(三)卷，第15至22頁，本院卷第28至30
+    頁），被告行使偽造私文書之犯行足堪認定。
+(二)、被告矢口否認有何幫助恐嚇取財之行為，並以前揭情詞置辯
+    ，惟查：
+１、被告於上開時、地，申辦門號0000000000號，並取得該上開
+    SIM卡一情，業經被告坦承屬實（見本院卷第18、39頁）。
+    又上開擄鴿勒贖集團成年成員取得上開SIM卡後，遂與該集
+    團之其他成員基於共同意圖為自己不法之所有而為恐嚇取財
+    之犯意聯絡，各於前揭之遭恐嚇時間，分別撥打鴿子飼主各
+    自所持用之行動電話，復再分別以被告所提供之門號000000
+    0000號以傳送匯款簡訊給林淑芳，撥打電話給梁樹虎、<font color='red'>林文
+    傑</font>之方式恫稱須依指示匯款進入指定金融帳戶，以贖回各自
+    遭擄鴿子等語，致各該鴿子飼主均因恐各自遭擄鴿子無法取
+    回而心生畏懼，遂依該集團成員之指示，而各於前開所示之
+    時間，遵照該集團指示，各匯款或轉帳如犯罪事實欄所示之
+    金額入該集團所指定之魏學成及謝雅蘭所有之上開華南商業
+    銀行與臺灣銀行嘉北分行帳戶內，並旋各由該集團成員將詐
+    得之款項提領一空等情，業據被害人林淑芳、<font color='red'>林文傑</font>、梁樹
+    虎指述綦詳（見南市警善偵字第0000000000號卷-下稱警(一)
+    卷，第13至15頁，高市警苓分偵字第0000000000號卷-下稱
+    警(二)卷，第1至2、4至6頁），並有門號0000000000號、0000
+    000000號、0000000000號通聯調閱查詢單共3份（見警(一)卷
+    第34至38頁，警(二)卷第7、10、29至35頁）、門號000000000
+    0號台哥大用戶基本資料查詢、台哥大之預付卡申請書（見
+    偵(二)卷第38至39頁）、台哥大用戶授權代辦委託書（見偵(二)
+    卷第44頁）及上開臺灣銀行嘉北分行與華南商業銀行帳戶之
+    開戶資料、歷史交易明細查詢各1份（見警(一)卷第27至32頁
+    ，警(二)卷第14至22頁）、中國信託自動櫃員機交易明細表影
+    本1張、郵政跨行匯款申請書影本、高雄縣鳥松鄉農會匯款
+    申請書影本各1份在卷可稽（見警(一)卷第23頁，警(二)卷第3、
+    12  頁），可徵該門號係被告所申辦，嗣後遭犯罪集團用以
+    恐嚇上開被害人，被害人等之指述尚非無據。
+２、被告雖辯稱其辦完上開SIM卡3天後手機遺失，其沒有將預付
+    卡交給犯罪集團云云：查被告供承：於案發當時從事送魚貨
+    之工作，已有門號0000000000號手機，當時除了用我母親申
+    辦的這支手機與上開手機外，尚有另外一支手機門號是0000
+    000000號，共有3支手機，會辦這麼多手機是因為我聯絡朋
+    友和家人的手機有分開等語（見本院卷第49頁），被告持有
+    3支手機之原因是為分開聯絡朋友與家人，然若僅為此原因
+    而申辦門號，僅需申辦2支手機門號為已足，何以需申辦3支
+    手機門號，被告此部分所辯並非無疑。且本件擄鴿勒贖集團
+    用以恐嚇各賽鴿所有人使用之門號0000000000號行動電話，
+    係被告以洪阿沼之名所申辦，若如被告所言其申辦手機門號
+    之目的係為分開聯絡家人及朋友，何以被告不用自己之名義
+    申辦，亦為有疑。且常人若手機遺失，必會於最短時間內辦
+    理掛失，本件被告自陳於申辦3天後發覺手機遺失，並沒有
+    掛失等語（見本院卷第18、48頁），顯與一般常情不符，是
+    被告所辯顯均係卸責之詞，不足採信。
+３、又上開門號業為擄鴿勒贖集團使用用以恐嚇他人，供作犯罪
+    使用，犯罪集團並以上開門號與上開被害人聯絡，施用上開
+    方式恐嚇，致使上開被害人均心生畏懼，而分別匯款至各該
+    帳戶，已詳上述。參之政府開放通訊產業以來，通訊公司大
+    量增加，一般民眾皆可以免押金或申請費之方式申請行動電
+    話門號，無任何特殊之限制，且得同時在不同通訊公司申請
+    多數門號使用，並無使用他人門號之必要，此為一般日常生
+    活所熟知之常識，苟有使用行動電話之正當用途，自以其本
+    人名義申請門號，最為便捷、安全，此係因在申辦意願之徵
+    詢、相關申請證件之取得等，均較為容易，又可避免申辦名
+    義人反悔，而將電話門號辦理停話，或爭執有無授權申辦等
+    紛爭，造成使用上之困擾與不便。又申辦行動電話門號既非
+    作違法用途，當無不可告人而需隱身其後委以他人名義申設
+    之理。故除有特殊之需求或違法之目的，欲避免門號使用人
+    因填寫門號服務申請書而洩漏真實姓名年籍資料，藉此躲避
+    偵查機關之追緝，一般正常使用之門號，並無向他人借用、
+    承租或購買之必要，至為明確。另犯罪集團經常利用他人門
+    號，以隱匿其財產犯罪之不法行徑，規避執法人員之查緝，
+    類此在社會上層出不窮之案件，亦經坊間書報雜誌、影音媒
+    體多所報導及再三披露而為眾所周知之情事，是以避免行動
+    電話門號被不明人士利用為犯罪工具，亦為一般生活所應有
+    之認識。乃被告不以其個人名義申辦門號，刻意用其母親洪
+    阿沼之名義申辦後，又於偵查中謊稱係並非其去申辦該門號
+    等云云（見偵(三)卷第38頁），堪認被告對於上開門號SIM卡
+    取得人取得上開門號SIM卡後，將作為犯罪之工具使用乙節
+    ，應有預見，其竟仍貿然將上開行動電話門號SIM卡交付予
+    不詳姓名年籍之成年擄鴿勒贖集團成員使用，其有幫助他人
+    犯恐嚇取財罪之不確定故意甚明。綜上，被告所辯不足採信
+    ，本件被告幫助恐嚇取財事證明確，被告犯行，足可認定。
+二、核被告犯罪事實欄一所為，係犯刑法第216條、第210條之行
+    使偽造私文書罪、同法第339條第1項之詐欺取財罪（即取得
+    SIM卡部分）、犯罪事實欄二所為，係犯刑法第30條第1項前
+    段、第346條第1項之幫助恐嚇取財罪。被告利用不知情之刻
+    印店人員偽造印章及不知情之台哥大門市人員偽造私文書，
+    應論以間接正犯。被告偽造私文書而後行使，偽造之低度行
+    為則為各次之高度行為所吸收，應僅論以行使偽造私文書罪
+    。被告偽造「洪阿沼」印章、印文之行為，與偽造「洪阿沼
+    」簽名之行為，均為偽造私文書之階段行為，均不另論罪。
+    被告犯罪事實欄一之詐欺取財與行使偽造私文書之行為，係
+    一行為觸犯數罪名，應從一重論以行使偽造私文書罪。被告
+    以一交付SIM卡與擄鴿勒贖集團之行為，幫助擄鴿勒贖集團3
+    次恐嚇不同之被害人既遂，係一行為觸犯數罪名之想像競合
+    犯，應論以一幫助恐嚇取財罪。被告行使偽造私文書與幫助
+    恐嚇取財2行為間，犯意有別，行為互殊，應予分論併罰。
+    另就恐嚇取財部分係提供擄鴿勒贖集團之人助力，屬幫助犯
+    ，應依正犯之刑減輕之。另檢察官雖認被告上開使用洪阿沼
+    之名義辦理SIM卡之行為僅觸犯行使偽造私文書罪，然冒用
+    他人名義辦理SIM卡，對於有財產價值之SIM卡本身，亦屬詐
+    欺取財之行為，是檢察官之起訴本包含被告詐欺取財之行為
+    ，本院自得併予審理。
+三、爰審酌被告國小畢業之智識程度，入監前從事漁工，家中尚
+    有父母親及兒子，本件案件之前已有一次幫助詐欺案件經法
+    院判決確定之前科，其偽造母親之印章，並未經其母同意以
+    其母名義申辦SIM卡，後將該SIM卡交付予真實姓名、年籍不
+    詳之人，供不法之徒恐嚇取得他人財物，幫助犯罪者者得以
+    隱匿其真實身分，減少遭查獲之風險，且使警察機關追查真
+    正幕後正犯憑添困擾，造成社會紊亂，使被害人損失財物共
+    30,500元，迄未與被害人和解賠償其損失，犯後就行使偽造
+    私文書部分坦承犯行，幫助恐嚇取財部分否認犯行等一切情
+    狀，分別量處如主文所示之刑，及均諭知易科罰金之標準另
+    按，被告行為後，刑法第50條業經修正，並於102年1月23
+    日公布，於同年月25日生效，惟被告無論依修正前刑法第50
+    條或修正後第50條之規定均可定其應執行之刑，即無有利或
+    不利之情形，無庸為新、舊法之比較，逕適用修正後之刑法
+    第50條。故本件就被告所宣告之刑定其應執行之刑，並諭知
+    易科罰金之折算標準。
+四、偽造之台哥大預付卡申請書及台哥大用戶授權代辦委託書，
+    均已提供予台哥大，已非被告所有之物，自不得宣告沒收，
+    然台哥大預付卡申請書申請人簽章欄偽造之「洪阿沼」印文
+    1枚，及台哥大用戶授權代辦委託書立委託書人立委託書欄
+    欄偽造之「洪阿沼」簽名1枚，爰依刑法第219條之規定，不
+    問屬於犯人與否，均由本院宣告沒收之，另被告利用不知情
+    刻印人員所偽造之「洪阿沼」印章1顆，雖被告自陳其已交
+    代其母丟棄（見本院卷第51頁），然無證據證明業已滅失，
+    同依刑法第219條宣告沒收。
+據上論斷，應依刑事訴訟法第299條第1項前段、刑法第30條第1
+項前段、第2項、第216條、第210條、第339條第1項、第346條第
+1項、第55條、第41條第1項前段、第51條第5款、第219條，刑法
+施行法第1條之1第1項、第2項前段，判決如主文。
+本案經檢察官徐鈺婷到庭執行職務
+中    華    民    國   102    年    2     月    27    日
+                  刑事第二庭   審判長  法  官  沈福財
+                                       法  官  卓春慧
+                                       法  官  唐一
+以上正本證明與原本無異。
+如不服本判決應於收受判決後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
+逕送上級法院」。告訴人或被害人如對於本判決不服者，應具備
+理由請求檢察官上訴，其上訴期間之計算係以檢察官收受判決正
+本之日期為準。
+中    華    民    國   102    年    2     月    27    日
+                                       書記官  張菀純
+附錄法條：
+中華民國刑法第216條
+（行使偽造變造或登載不實之文書罪）
+行使第 210 條至第 215 條之文書者，依偽造、變造文書或登載
+不實事項或使登載不實事項之規定處斷。
+中華民國刑法第210條
+（偽造變造私文書罪）
+偽造、變造私文書，足以生損害於公眾或他人者，處 5 年以下
+有期徒刑。
+中華民國刑法第339條
+（普通詐欺罪）
+意圖為自己或第三人不法之所有，以詐術使人將本人或第三人之
+物交付者，處 5 年以下有期徒刑、拘役或科或併科 1 千元以下
+罰金。
+以前項方法得財產上不法之利益或使第三人得之者，亦同。
+前二項之未遂犯罰之。
+中華民國刑法第346條
+（恐嚇取財得利罪）
+意圖為自己或第三人不法之所有，以恐嚇使人將本人或第三人之
+物交付者，處 6 月以上 5 年以下有期徒刑，得併科 1 千元以
+下罰金。
+以前項方法得財產上不法之利益，或使第三人得之者，亦同。
+前二項之未遂犯罰之。</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWCYD\CRIMINAL\10202\27\CYDM1022R.02X] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[2]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共4
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000854&selectedCrtid=CYD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%87%e5%82%91&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%87%e5%82%91&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=&keyword=%e6%9e%97%e6%96%87%e5%82%91&sdate=&edate=&page=&searchkw=%e6%9e%97%e6%96%87%e5%82%91&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c854%2c20130227%2c2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=854&jdate=1020227&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c854%2c20130227%2c2&v_court=CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=854&jdate=1020227&jcheck=2">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c854%2c20130227%2c2','CYD+%e8%87%ba%e7%81%a3%e5%98%89%e7%be%a9%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','854','1020227','2')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="CYD 臺灣嘉義地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value=""> <input type="hidden" name="keyword" value="林文傑">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="林文傑">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
