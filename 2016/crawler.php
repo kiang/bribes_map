@@ -3,6 +3,7 @@
 /*
  * from https://gist.github.com/ronnywang/a652451c3687a9f1cf0d
  */
+require_once __DIR__ . '/libs.php';
 date_default_timezone_set('Asia/Taipei');
 $courts = array(
     /*
@@ -214,6 +215,7 @@ while ($line = fgetcsv($fh, 2048)) {
                     mkdir($path, 0777, true);
                 }
                 file_put_contents($path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt", $content);
+                cleanFile($path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt");
             }
         }
     }
