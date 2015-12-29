@@ -90,11 +90,17 @@ if (!file_exists($tmpPath)) {
 $logFh = fopen($tmpPath . '/error.log', 'a+');
 
 $fh = fopen(__DIR__ . '/list.csv', 'r');
+$lineCount = 0;
 fgetcsv($fh, 2048);
 while ($line = fgetcsv($fh, 2048)) {
+    ++$lineCount;
     $tokenFile = $tmpPath . '/' . $line[0];
     if (file_exists($tokenFile)) {
         continue;
+    }
+    $cachePath = $tmpPath . '/' . $line[0] . '_cache';
+    if (!file_exists($cachePath)) {
+        mkdir($cachePath);
     }
     $keyword = $line[0];
     foreach ($courts as $court_id => $court) {
@@ -104,23 +110,32 @@ while ($line = fgetcsv($fh, 2048)) {
         } else {
             $param = "v_court={$court_id}+" . urlencode($court) . "&v_sys=M&jud_year=&jud_case=&jud_no=&jud_title=&jt=&keyword=" . urlencode($keyword) . "&sdate=&edate=&page=&searchkw=";
         }
-        error_log(urldecode($url . '?' . $param));
+        $urlDecoded = urldecode($url . '?' . $param);
+        $md5 = md5($urlDecoded);
+        $cachedFile = $cachePath . '/' . $md5;
+        if (!file_exists($cachedFile)) {
+            error_log($urlDecoded);
 
-        $curl = curl_init($url);
-        curl_setopt($curl, CURLOPT_REFERER, $url);
-        curl_setopt($curl, CURLOPT_POSTFIELDS, $param);
-        curl_setopt($curl, CURLOPT_COOKIESESSION, true);
-        curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
-        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($curl, CURLOPT_HEADER, 1);
-        $response = curl_exec($curl);
-        $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
-        $header = substr($response, 0, $header_size);
-        $content = substr($response, $header_size);
-        if (empty($header)) {
-            die('blocked');
+            $curl = curl_init($url);
+            curl_setopt($curl, CURLOPT_REFERER, $url);
+            curl_setopt($curl, CURLOPT_POSTFIELDS, $param);
+            curl_setopt($curl, CURLOPT_COOKIESESSION, true);
+            curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
+            curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($curl, CURLOPT_HEADER, 1);
+            $response = curl_exec($curl);
+            $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
+            $header = substr($response, 0, $header_size);
+            $content = substr($response, $header_size);
+            if (empty($header)) {
+                die('blocked');
+            }
+            echo $header;
+            file_put_contents($cachedFile, $content);
+        } else {
+            $content = file_get_contents($cachedFile);
         }
-        echo $header;
+
         //curl_close($curl);
         if (!preg_match('#(\d+)\s+筆 / 每頁\s+20\s+筆 / 共\s+\d+\s+頁 / 現在第#m', $content, $matches)) {
             //print_r($content);
@@ -136,21 +151,29 @@ while ($line = fgetcsv($fh, 2048)) {
         $param = $matches[1];
         for ($j = 1; $j <= $count; $j ++) {
             $case_url = "http://jirs.judicial.gov.tw/FJUD/FJUDQRY03_1.aspx";
-            error_log("{$j}/{$count} {$case_url}");
-            curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
-            curl_setopt($curl, CURLOPT_URL, $case_url);
-            curl_setopt($curl, CURLOPT_REFERER, 'http://jirs.judicial.gov.tw/FJUD/FJUDQRY02_1.aspx');
-            curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
-            curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-            curl_setopt($curl, CURLOPT_HEADER, 1);
-            sleep(1);
-            $response = curl_exec($curl);
-            $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
-            $header = substr($response, 0, $header_size);
-            $content = substr($response, $header_size);
-            echo $header;
-            if (empty($header)) {
-                die('blocked');
+            $urlDecoded = urldecode($case_url . "?id={$j}&{$param}");
+            $md5 = md5($urlDecoded);
+            $cachedFile = $cachePath . '/' . $md5;
+            if (!file_exists($cachedFile)) {
+                error_log("{$j}/{$count} / {$keyword} ( {$lineCount} / 535 )");
+                curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
+                curl_setopt($curl, CURLOPT_URL, $case_url);
+                curl_setopt($curl, CURLOPT_REFERER, 'http://jirs.judicial.gov.tw/FJUD/FJUDQRY02_1.aspx');
+                curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
+                curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+                curl_setopt($curl, CURLOPT_HEADER, 1);
+                sleep(1);
+                $response = curl_exec($curl);
+                $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
+                $header = substr($response, 0, $header_size);
+                $content = substr($response, $header_size);
+                echo $header;
+                if (empty($header)) {
+                    die('blocked');
+                }
+                file_put_contents($cachedFile, $content);
+            } else {
+                $content = file_get_contents($cachedFile);
             }
 
             if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
@@ -183,7 +206,6 @@ while ($line = fgetcsv($fh, 2048)) {
                     mkdir($path, 0777, true);
                 }
                 file_put_contents($path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt", $content);
-                echo "http://judicial.ronny.tw/{$court}/{$ret['v_sys']}/{$ret['jyear']}/" . urlencode($ret['jcase']) . "/{$ret['jno']}\n";
             }
         }
     }
