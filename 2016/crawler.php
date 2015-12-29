@@ -117,6 +117,9 @@ while ($line = fgetcsv($fh, 2048)) {
         $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
         $header = substr($response, 0, $header_size);
         $content = substr($response, $header_size);
+        if (empty($header)) {
+            die('blocked');
+        }
         echo $header;
         //curl_close($curl);
         if (!preg_match('#(\d+)\s+筆 / 每頁\s+20\s+筆 / 共\s+\d+\s+頁 / 現在第#m', $content, $matches)) {
@@ -146,6 +149,9 @@ while ($line = fgetcsv($fh, 2048)) {
             $header = substr($response, 0, $header_size);
             $content = substr($response, $header_size);
             echo $header;
+            if (empty($header)) {
+                die('blocked');
+            }
 
             if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
                 fputs($logFh, "{$case_url}?id={$j}&{$param}\n");
