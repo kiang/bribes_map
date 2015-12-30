@@ -121,6 +121,7 @@ while ($line = fgetcsv($fh, 2048)) {
             $curl = curl_init($url);
             curl_setopt($curl, CURLOPT_REFERER, $url);
             curl_setopt($curl, CURLOPT_PROXY, $proxy);
+            curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
             curl_setopt($curl, CURLOPT_POSTFIELDS, $param);
             curl_setopt($curl, CURLOPT_COOKIESESSION, true);
             curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
@@ -167,6 +168,7 @@ while ($line = fgetcsv($fh, 2048)) {
                 $curl = curl_init($case_url);
                 error_log("{$j}/{$count} / {$keyword} ( {$lineCount} / 535 )");
                 curl_setopt($curl, CURLOPT_PROXY, $proxy);
+                curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
                 curl_setopt($curl, CURLOPT_VERBOSE, true);
                 curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
                 curl_setopt($curl, CURLOPT_URL, $case_url);
