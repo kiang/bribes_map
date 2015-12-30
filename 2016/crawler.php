@@ -93,6 +93,7 @@ $fh = fopen(__DIR__ . '/list.csv', 'r');
 $lineCount = 0;
 fgetcsv($fh, 2048);
 $caseBlocked = false;
+$proxy = 'proxy.hinet.net:80';
 while ($line = fgetcsv($fh, 2048)) {
     ++$lineCount;
     $tokenFile = $tmpPath . '/' . $line[0];
@@ -119,6 +120,7 @@ while ($line = fgetcsv($fh, 2048)) {
 
             $curl = curl_init($url);
             curl_setopt($curl, CURLOPT_REFERER, $url);
+            curl_setopt($curl, CURLOPT_PROXY, $proxy);
             curl_setopt($curl, CURLOPT_POSTFIELDS, $param);
             curl_setopt($curl, CURLOPT_COOKIESESSION, true);
             curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
@@ -164,13 +166,14 @@ while ($line = fgetcsv($fh, 2048)) {
             if (!file_exists($cachedFile)) {
                 $curl = curl_init($case_url);
                 error_log("{$j}/{$count} / {$keyword} ( {$lineCount} / 535 )");
+                curl_setopt($curl, CURLOPT_PROXY, $proxy);
+                curl_setopt($curl, CURLOPT_VERBOSE, true);
                 curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
                 curl_setopt($curl, CURLOPT_URL, $case_url);
                 curl_setopt($curl, CURLOPT_REFERER, 'http://jirs.judicial.gov.tw/FJUD/FJUDQRY02_1.aspx');
                 curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
                 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
                 curl_setopt($curl, CURLOPT_HEADER, 1);
-                sleep(1);
                 $response = curl_exec($curl);
                 $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
                 $header = substr($response, 0, $header_size);
