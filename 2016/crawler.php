@@ -218,6 +218,7 @@ while ($line = fgetcsv($fh, 2048)) {
                         }
                     }
                 } else {
+                    $caseFetched = true;
                     $content = file_get_contents($cachedFile);
 
                     if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
