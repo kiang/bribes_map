@@ -1,4 +1,5 @@
 <?php
+
 require_once __DIR__ . '/libs.php';
 /*
  * from https://gist.github.com/ronnywang/a652451c3687a9f1cf0d
@@ -87,12 +88,11 @@ $tmpPath = dirname(__DIR__) . '/tmp/2016';
 if (!file_exists($tmpPath)) {
     mkdir($tmpPath, 0777);
 }
-$logFh = fopen($tmpPath . '/error.log', 'a+');
 
 $fh = fopen(__DIR__ . '/list.csv', 'r');
 $lineCount = 0;
 fgetcsv($fh, 2048);
-$caseBlocked = false;
+$blockCount = 0;
 $proxy = 'proxy.hinet.net:80';
 while ($line = fgetcsv($fh, 2048)) {
     ++$lineCount;
@@ -117,30 +117,38 @@ while ($line = fgetcsv($fh, 2048)) {
         $cachedFile = $cachePath . '/list_' . $md5;
         if (!file_exists($cachedFile)) {
             error_log($urlDecoded . " ( {$lineCount} / 535 )");
-
-            $curl = curl_init($url);
-            curl_setopt($curl, CURLOPT_REFERER, $url);
-            curl_setopt($curl, CURLOPT_PROXY, $proxy);
-            curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
-            curl_setopt($curl, CURLOPT_POSTFIELDS, $param);
-            curl_setopt($curl, CURLOPT_COOKIESESSION, true);
-            curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
-            curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-            curl_setopt($curl, CURLOPT_HEADER, 1);
-            $response = curl_exec($curl);
-            $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
-            $header = substr($response, 0, $header_size);
-            $content = substr($response, $header_size);
-            if (empty($header) || false !== strpos($content, 'Object moved')) {
-                die("blocked\n");
+            $listFetched = false;
+            while (false === $listFetched) {
+                $curl = curl_init($url);
+                curl_setopt($curl, CURLOPT_REFERER, $url);
+                curl_setopt($curl, CURLOPT_PROXY, $proxy);
+                curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
+                curl_setopt($curl, CURLOPT_POSTFIELDS, $param);
+                curl_setopt($curl, CURLOPT_COOKIESESSION, true);
+                curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
+                curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+                curl_setopt($curl, CURLOPT_HEADER, 1);
+                $response = curl_exec($curl);
+                $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
+                $header = substr($response, 0, $header_size);
+                $content = substr($response, $header_size);
+                if (empty($header) || false !== strpos($content, 'Object moved')) {
+                    if (++$blockCount >= 5) {
+                        error_log("blocked more than 5 times, die");
+                        exit();
+                    } else {
+                        error_log("block detected in list! sleep for 2 sec.");
+                        sleep(2);
+                    }
+                } else {
+                    $blockCount = 0;
+                    echo $header;
+                    file_put_contents($cachedFile, $content);
+                    $listFetched = true;
+                }
             }
-            echo $header;
-            file_put_contents($cachedFile, $content);
         } else {
             $content = file_get_contents($cachedFile);
-        }
-        if ($caseBlocked) {
-            continue;
         }
 
         //curl_close($curl);
@@ -157,74 +165,79 @@ while ($line = fgetcsv($fh, 2048)) {
         }
         $param = $matches[1];
         for ($j = 1; $j <= $count; $j ++) {
-            if ($caseBlocked) {
-                continue;
-            }
-            $case_url = "http://jirs.judicial.gov.tw/FJUD/FJUDQRY03_1.aspx";
-            $urlDecoded = urldecode($case_url . "?id={$j}&{$param}");
-            $md5 = md5($urlDecoded);
-            $cachedFile = $cachePath . '/case_' . $md5;
-            if (!file_exists($cachedFile)) {
-                $curl = curl_init($case_url);
-                error_log("{$j}/{$count} / {$keyword} ( {$lineCount} / 535 )");
-                curl_setopt($curl, CURLOPT_PROXY, $proxy);
-                curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
-                curl_setopt($curl, CURLOPT_VERBOSE, true);
-                curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
-                curl_setopt($curl, CURLOPT_URL, $case_url);
-                curl_setopt($curl, CURLOPT_REFERER, 'http://jirs.judicial.gov.tw/FJUD/FJUDQRY02_1.aspx');
-                curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
-                curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-                curl_setopt($curl, CURLOPT_HEADER, 1);
-                $response = curl_exec($curl);
-                $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
-                $header = substr($response, 0, $header_size);
-                $content = substr($response, $header_size);
-                echo $header;
-                if (empty($header) || false !== strpos($content, 'Object moved') || false !== strpos($header, 'Service Unavailable')) {
-                    $caseBlocked = true;
-                } else {
-                    file_put_contents($cachedFile, $content);
-                }
-            } else {
-                $content = file_get_contents($cachedFile);
-            }
+            $caseFetched = false;
+            while (false === $caseFetched) {
+                $case_url = "http://jirs.judicial.gov.tw/FJUD/FJUDQRY03_1.aspx";
+                $urlDecoded = urldecode($case_url . "?id={$j}&{$param}");
+                $md5 = md5($urlDecoded);
+                $cachedFile = $cachePath . '/case_' . $md5;
+                if (!file_exists($cachedFile)) {
+                    $curl = curl_init($case_url);
+                    error_log("{$j}/{$count} / {$keyword} ( {$lineCount} / 535 )");
+                    curl_setopt($curl, CURLOPT_PROXY, $proxy);
+                    curl_setopt($curl, CURLOPT_FORBID_REUSE, true);
+                    curl_setopt($curl, CURLOPT_VERBOSE, true);
+                    curl_setopt($curl, CURLOPT_POSTFIELDS, "id={$j}&{$param}");
+                    curl_setopt($curl, CURLOPT_URL, $case_url);
+                    curl_setopt($curl, CURLOPT_REFERER, 'http://jirs.judicial.gov.tw/FJUD/FJUDQRY02_1.aspx');
+                    curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36');
+                    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+                    curl_setopt($curl, CURLOPT_HEADER, 1);
+                    $response = curl_exec($curl);
+                    $header_size = curl_getinfo($curl, CURLINFO_HEADER_SIZE);
+                    $header = substr($response, 0, $header_size);
+                    $content = substr($response, $header_size);
+                    if (empty($header) || false !== strpos($content, 'Object moved') || false !== strpos($header, 'Service Unavailable')) {
+                        if (++$blockCount >= 5) {
+                            error_log("blocked more than 5 times, die");
+                            exit();
+                        } else {
+                            error_log("block detected in case! sleep for 2 sec.");
+                            sleep(2);
+                        }
+                    } else {
+                        $blockCount = 0;
+                        echo $header;
+                        $caseFetched = true;
+                        file_put_contents($cachedFile, $content);
 
-            if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
-                fputs($logFh, "{$case_url}?id={$j}&{$param}\n");
-            } else {
-                $print_url = $matches[1];
-                $query = parse_url($print_url, PHP_URL_QUERY);
-                parse_str($query, $ret);
-                /*
-                  ["jrecno"]=>
-                  string(26) "104,司促,2243,20150130,1"
-                  ["v_court"]=>
-                  string(28) "TPD 臺灣臺北地方法院"
-                  ["v_sys"]=>
-                  string(1) "V"
-                  ["jyear"]=>
-                  string(3) "104"
-                  ["jcase"]=>
-                  string(6) "司促"
-                  ["jno"]=>
-                  string(4) "2243"
-                  ["jdate"]=>
-                  string(7) "1040130"
-                  ["jcheck"]=>
-                  string(1) "1"
-                 */
-                $court = explode(' ', $ret['v_court'])[0];
-                $path = __DIR__ . "/raw/{$line[0]}";
-                if (!file_exists($path)) {
-                    mkdir($path, 0777, true);
+                        if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
+                            //do nothing
+                        } else {
+                            $print_url = $matches[1];
+                            $query = parse_url($print_url, PHP_URL_QUERY);
+                            parse_str($query, $ret);
+                            $court = explode(' ', $ret['v_court'])[0];
+                            $path = __DIR__ . "/raw/{$line[0]}";
+                            if (!file_exists($path)) {
+                                mkdir($path, 0777, true);
+                            }
+                            $caseFile = $path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt";
+                            file_put_contents($caseFile, $content);
+                            cleanFile($caseFile);
+                        }
+                    }
+                } else {
+                    $content = file_get_contents($cachedFile);
+
+                    if (!preg_match('#href="([^"]*)">友善列印#', $content, $matches)) {
+                        //do nothing
+                    } else {
+                        $print_url = $matches[1];
+                        $query = parse_url($print_url, PHP_URL_QUERY);
+                        parse_str($query, $ret);
+                        $court = explode(' ', $ret['v_court'])[0];
+                        $path = __DIR__ . "/raw/{$line[0]}";
+                        if (!file_exists($path)) {
+                            mkdir($path, 0777, true);
+                        }
+                        $caseFile = $path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt";
+                        file_put_contents($caseFile, $content);
+                        cleanFile($caseFile);
+                    }
                 }
-                file_put_contents($path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt", $content);
-                cleanFile($path . "/{$court}-{$ret['v_sys']}-{$ret['jyear']}-{$ret['jcase']}-{$ret['jno']}-{$ret['jcheck']}.txt");
             }
         }
     }
-    if (false === $caseBlocked) {
-        file_put_contents($tmpPath . '/' . $line[0], '1');
-    }
+    file_put_contents($tmpPath . '/' . $line[0], '1');
 }
