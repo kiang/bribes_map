@@ -12,6 +12,7 @@ $items = array(
     '雲林' => 'zIwEIkbEDqyE.kaWm5XMDTaGA',
     '台南' => 'zke0w-9NW6_w.kKeqGbdxZP-c',
     '彰化' => 'zy_xY-hQlid4.kerVOcjUyb_o',
+    '花蓮' => 'z02Cr4oNY_4s.kBkzM2-LU-IM',
 );
 
 $result = array();
@@ -23,29 +24,35 @@ foreach ($items AS $area => $item) {
     }
     $xml = simplexml_load_file($rawFile, null, LIBXML_NOCDATA);
     foreach ($xml->Document->Folder AS $folder) {
+        if (false !== strpos($folder->name, '台中消波塊')) {
+            continue;
+        }
         foreach ($folder->Placemark AS $placemark) {
             $name = (string) $placemark->name;
-            if (substr($name, 0, 1) === '(') {
-                $pos = strpos($name, ')');
+            $year = null;
+            $pos = strpos($name, ')');
+            if (false !== $pos) {
                 $locationText = substr($name, 1, $pos - 1);
                 $title = substr($name, $pos + 1);
-                $year = null;
                 $yearPos = strpos($title, '年');
                 if (false !== $yearPos) {
                     $year = substr($title, 0, $yearPos);
                     $title = substr($title, $yearPos + 3);
                 }
-                $coordinates = explode(',', (string) $placemark->Point->coordinates);
-                $result[] = array(
-                    'area' => $area,
-                    'location' => $locationText,
-                    'year' => $year,
-                    'title' => $title,
-                    'description' => (string) $placemark->description,
-                    'latitude' => $coordinates[1],
-                    'longitude' => $coordinates[0],
-                );
+            } else {
+                $locationText = '花蓮縣';
+                $title = $name;
             }
+            $coordinates = explode(',', (string) $placemark->Point->coordinates);
+            $result[] = array(
+                'area' => $area,
+                'location' => $locationText,
+                'year' => $year,
+                'title' => $title,
+                'description' => (string) $placemark->description,
+                'latitude' => $coordinates[1],
+                'longitude' => $coordinates[0],
+            );
         }
     }
 }

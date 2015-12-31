@@ -1,6 +1,6 @@
 $.ajaxSetup({async: false});
 
-var map, infowindow = new google.maps.InfoWindow();
+var map, infowindow = new google.maps.InfoWindow(), bounds = new google.maps.LatLngBounds();
 
 $.getJSON('points.json', function (data) {
     points = data;
@@ -23,6 +23,7 @@ function initialize() {
         if (null !== points[p].year) {
             markerTitle = '[' + points[p].year + ']' + points[p].title;
         }
+        bounds.extend(latLng);
         var marker = new MarkerWithLabel({
             position: latLng,
             clickable: true,
@@ -51,6 +52,7 @@ function initialize() {
         markers.push(marker);
     }
     var markerCluster = new MarkerClusterer(map, markers, {maxZoom: 16});
+    map.fitBounds(bounds);
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
