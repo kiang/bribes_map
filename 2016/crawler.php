@@ -96,10 +96,6 @@ $blockCount = 0;
 $proxy = 'proxy.hinet.net:80';
 while ($line = fgetcsv($fh, 2048)) {
     ++$lineCount;
-    $tokenFile = $tmpPath . '/' . $line[0];
-    if (file_exists($tokenFile)) {
-        continue;
-    }
     $cachePath = $tmpPath . '/' . $line[0] . '_cache';
     if (!file_exists($cachePath)) {
         mkdir($cachePath);
@@ -152,12 +148,15 @@ while ($line = fgetcsv($fh, 2048)) {
         }
 
         //curl_close($curl);
-        if (!preg_match('#本次查詢結果共(\d+)筆#m', $content, $matches)) {
+        if (!preg_match('#(\d+)\s+筆 / 每頁\s+20\s+筆 / 共\s+\d+\s+頁 / 現在第#m', $content, $matches)) {
             //print_r($content);
             continue;
             throw new Exception('test');
         }
         $count = $matches[1];
+        if(preg_match('#本次查詢結果共([0-9]*)筆#', $content, $matches)) {
+            $count = $matches[1];
+        }
         if (!preg_match('#FJUDQRY03_1\.aspx\?id=[0-9]*&([^"]*)#', $content, $matches)) {
             continue;
             var_dump($content);
@@ -240,5 +239,4 @@ while ($line = fgetcsv($fh, 2048)) {
             }
         }
     }
-    file_put_contents($tmpPath . '/' . $line[0], '1');
 }
