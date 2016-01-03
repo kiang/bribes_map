@@ -152,7 +152,7 @@ while ($line = fgetcsv($fh, 2048)) {
         }
 
         //curl_close($curl);
-        if (!preg_match('#(\d+)\s+筆 / 每頁\s+20\s+筆 / 共\s+\d+\s+頁 / 現在第#m', $content, $matches)) {
+        if (!preg_match('#本次查詢結果共(\d+)筆#m', $content, $matches)) {
             //print_r($content);
             continue;
             throw new Exception('test');
