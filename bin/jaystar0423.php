@@ -40,7 +40,7 @@ foreach ($items AS $area => $item) {
                     $title = substr($title, $yearPos + 3);
                 }
             } else {
-                $locationText = '花蓮縣';
+                $locationText = $area;
                 $title = $name;
             }
             $coordinates = explode(',', (string) $placemark->Point->coordinates);
