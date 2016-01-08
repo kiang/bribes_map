@@ -24,25 +24,10 @@ foreach ($items AS $area => $item) {
     }
     $xml = simplexml_load_file($rawFile, null, LIBXML_NOCDATA);
     foreach ($xml->Document->Folder AS $folder) {
-        if (false !== strpos($folder->name, '台中消波塊')) {
-            continue;
-        }
         foreach ($folder->Placemark AS $placemark) {
-            $name = (string) $placemark->name;
+            $title = (string) $placemark->name;
             $year = null;
-            $pos = strpos($name, ')');
-            if (false !== $pos) {
-                $locationText = substr($name, 1, $pos - 1);
-                $title = substr($name, $pos + 1);
-                $yearPos = strpos($title, '年');
-                if (false !== $yearPos) {
-                    $year = substr($title, 0, $yearPos);
-                    $title = substr($title, $yearPos + 3);
-                }
-            } else {
-                $locationText = $area;
-                $title = $name;
-            }
+            $locationText = $area;
             $coordinates = explode(',', (string) $placemark->Point->coordinates);
             $result[] = array(
                 'area' => $area,
