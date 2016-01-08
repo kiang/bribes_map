@@ -26,18 +26,47 @@ foreach ($items AS $area => $item) {
     foreach ($xml->Document->Folder AS $folder) {
         foreach ($folder->Placemark AS $placemark) {
             $title = (string) $placemark->name;
-            $year = null;
-            $locationText = $area;
-            $coordinates = explode(',', (string) $placemark->Point->coordinates);
-            $result[] = array(
-                'area' => $area,
-                'location' => $locationText,
-                'year' => $year,
-                'title' => $title,
-                'description' => (string) $placemark->description,
-                'latitude' => $coordinates[1],
-                'longitude' => $coordinates[0],
-            );
+            if (strpos($title, '點') !== 0) {
+                $location = $area;
+                $year = '';
+                $yearPos = strpos($title, '年');
+                if (false !== $yearPos) {
+                    if (preg_match('/[0-9][0-9]+/', $title, $matches)) {
+                        if (strlen($matches[0]) === 4) {
+                            $year = $matches[0] - 1911;
+                        } else {
+                            $year = $matches[0];
+                        }
+                    }
+                }
+                if (substr($title, 0, 1) === '(') {
+                    $posEnd = strpos($title, ')');
+                    if (false !== $posEnd) {
+                        $location = substr($title, 1, $posEnd - 1);
+                        $title = substr($title, $posEnd + 1);
+                    }
+                    if (!empty($year)) {
+                        $yearPos = strpos($title, '年');
+                        $title = substr($title, $yearPos + 3);
+                    }
+                } elseif (!empty($year)) {
+                    $numPos = strpos($title, $year);
+                    if ($numPos !== 0) {
+                        $location = substr($title, 0, $numPos);
+                        $title = substr($title, $yearPos + 3);
+                    }
+                }
+                $coordinates = explode(',', (string) $placemark->Point->coordinates);
+                $result[] = array(
+                    'area' => $area,
+                    'location' => $location,
+                    'year' => $year,
+                    'title' => $title,
+                    'description' => (string) $placemark->description,
+                    'latitude' => $coordinates[1],
+                    'longitude' => $coordinates[0],
+                );
+            }
         }
     }
 }
