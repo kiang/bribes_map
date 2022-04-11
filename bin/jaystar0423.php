@@ -15,16 +15,18 @@ $items = array(
     '花蓮' => 'z02Cr4oNY_4s.kBkzM2-LU-IM',
 );
 
-$result = array();
-
-foreach ($items AS $area => $item) {
+$fc = [
+    'type' => 'FeatureCollection',
+    'features' => [],
+];
+foreach ($items as $area => $item) {
     $rawFile = $rawPath . '/' . $item . '.xml';
     if (!file_exists($rawFile)) {
         file_put_contents($rawFile, file_get_contents('https://mapsengine.google.com/map/u/0/kml?forcekml=1&mid=' . $item));
     }
     $xml = simplexml_load_file($rawFile, null, LIBXML_NOCDATA);
-    foreach ($xml->Document->Folder AS $folder) {
-        foreach ($folder->Placemark AS $placemark) {
+    foreach ($xml->Document->Folder as $folder) {
+        foreach ($folder->Placemark as $placemark) {
             $title = (string) $placemark->name;
             if (strpos($title, '點') !== 0) {
                 $location = $area;
@@ -57,17 +59,25 @@ foreach ($items AS $area => $item) {
                     }
                 }
                 $coordinates = explode(',', (string) $placemark->Point->coordinates);
-                $result[] = array(
-                    'area' => $area,
-                    'location' => $location,
-                    'year' => $year,
-                    'title' => $title,
-                    'description' => (string) $placemark->description,
-                    'latitude' => $coordinates[1],
-                    'longitude' => $coordinates[0],
-                );
+                $fc['features'][] = [
+                    'type' => 'Feature',
+                    'properties' => [
+                        'area' => $area,
+                        'location' => $location,
+                        'year' => $year,
+                        'title' => $title,
+                        'description' => (string) $placemark->description,
+                    ],
+                    'geometry' => [
+                        'type' => 'Point',
+                        'coordinates' => [
+                            floatval($coordinates[0]),
+                            floatval($coordinates[1])
+                        ],
+                    ],
+                ];
             }
         }
     }
 }
-file_put_contents(dirname(__DIR__) . '/points.json', json_encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+file_put_contents(dirname(__DIR__) . '/json/points.json', json_encode($fc, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
