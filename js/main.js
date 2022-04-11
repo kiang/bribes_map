@@ -19,7 +19,7 @@ function pointStyleFunction(f) {
   var p = f.getProperties(), color, stroke, radius;
   if (f === currentFeature) {
     stroke = new ol.style.Stroke({
-      color: '#000',
+      color: '#0ff',
       width: 5
     });
     radius = 25;
@@ -101,6 +101,12 @@ map.on('singleclick', function (evt) {
   pointClicked = false;
   map.forEachFeatureAtPixel(evt.pixel, function (feature, layer) {
     if (false === pointClicked) {
+      currentFeature = feature;
+      currentFeature.setStyle(pointStyleFunction(currentFeature));
+      if(false !== previousFeature) {
+        previousFeature.setStyle(pointStyleFunction(previousFeature));
+      }
+      previousFeature = currentFeature;
       var p = feature.getProperties();
       var lonLat = ol.proj.toLonLat(p.geometry.getCoordinates());
       pointClicked = true;
