@@ -67,6 +67,7 @@ foreach ($items as $area => $item) {
                         'year' => $year,
                         'title' => $title,
                         'description' => (string) $placemark->description,
+                        'url' => '',
                     ],
                     'geometry' => [
                         'type' => 'Point',
@@ -79,5 +80,37 @@ foreach ($items as $area => $item) {
             }
         }
     }
+}
+$fh = fopen(dirname(__DIR__) . '/raw/manually.csv', 'r');
+/*
+    [0] => area
+    [1] => location
+    [2] => year
+    [3] => title
+    [4] => description
+    [5] => url
+    [6] => longitude
+    [7] => latitude
+*/
+fgetcsv($fh, 2048);
+while ($line = fgetcsv($fh, 2048)) {
+    $fc['features'][] = [
+        'type' => 'Feature',
+        'properties' => [
+            'area' => $line[0],
+            'location' => $line[1],
+            'year' => $line[2],
+            'title' => $line[3],
+            'description' => $line[4],
+            'url' => $line[5],
+        ],
+        'geometry' => [
+            'type' => 'Point',
+            'coordinates' => [
+                floatval($line[6]),
+                floatval($line[7])
+            ],
+        ],
+    ];
 }
 file_put_contents(dirname(__DIR__) . '/json/points.json', json_encode($fc, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));

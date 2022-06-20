@@ -103,7 +103,7 @@ map.on('singleclick', function (evt) {
     if (false === pointClicked) {
       currentFeature = feature;
       currentFeature.setStyle(pointStyleFunction(currentFeature));
-      if(false !== previousFeature) {
+      if (false !== previousFeature) {
         previousFeature.setStyle(pointStyleFunction(previousFeature));
       }
       previousFeature = currentFeature;
@@ -116,6 +116,10 @@ map.on('singleclick', function (evt) {
       message += '<tr><th scope="row" style="width: 100px;">年度</th><td>' + p.year + '</td></tr>';
       message += '<tr><th scope="row">位置</th><td>[' + p.area + ']' + p.location + '</td></tr>';
       message += '<tr><th scope="row">案件</th><td>' + p.description + '</td></tr>';
+      if (p.url !== '') {
+        message += '<tr><th scope="row">參考連結</th><td><a href="' + p.url + '" target="_blank">' + p.url + '</a></td></tr>';
+      }
+
       message += '<tr><td colspan="2">';
       message += '<hr /><div class="btn-group-vertical" role="group" style="width: 100%;">';
       message += '<a href="https://www.google.com/maps/dir/?api=1&destination=' + lonLat[1] + ',' + lonLat[0] + '&travelmode=driving" target="_blank" class="btn btn-info btn-lg btn-block">Google 導航</a>';
